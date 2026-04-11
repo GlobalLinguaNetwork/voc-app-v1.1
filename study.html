@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vocab Master</title>
+
+<style>
+body { font-family:sans-serif; max-width:600px; margin:auto; padding:10px;}
+.card { border:1px solid #ccc; border-radius:10px; padding:15px; margin-top:10px;}
+button { padding:10px; margin:5px; border-radius:8px; width:100%;}
+.correct { background:#90ee90;}
+.wrong { background:#f08080;}
+.hidden { display:none;}
+</style>
+</head>
+
+<body>
+
+<h2>単語学習システム</h2>
+
+<div class="card">
+<select id="mode">
+  <option value="quiz">四択</option>
+  <option value="flash">カードめくり</option>
+</select>
+
+<select id="voiceType">
+  <option value="en-US">米語</option>
+  <option value="en-GB">英国</option>
+  <option value="en-AU">豪州</option>
+</select>
+
+<button onclick="start()">開始</button>
+</div>
+
+<div id="study" class="hidden">
+
+<h3 id="progress"></h3>
+
+<div class="card" id="card">
+<h2 id="word"></h2>
+<p id="example"></p>
+<p id="meaning" class="hidden"></p>
+</div>
+
+<div id="quizArea"></div>
+
+<p>正答率: <span id="accuracy"></span></p>
+
+</div>
+
+<script>
+let words = [];
+let index = 0;
+let correctCount = 0;
+let totalCount = 0;
+let reviewQueue = [];
+let current;
+let timer1, timer2;
+
+const user = new URLSearchParams(location.search).get("user") || "default";
+
+// ▼ データ読み込み
+fetch("data/unit1.json")
+.then(res=>res.json())
+.then(data=>{ words = data; });
+
+// ▼ 開始
+function start(){
+  document.getElementById("study").classList.remove("hidden");
+
+  index = load("index") || 0;
+  correctCount = load("correct") || 0;
+  totalCount = load("total") || 0;
+  reviewQueue = load("review") || [];
+
+  next();
+}
+
+// ▼ メインループ
+function next(){
+
+  clearTimeout(timer1);
+  clearTimeout(timer2);
+
+  let w;
+  if(reviewQueue.length > 0){
+    w = reviewQueue.shift();
+  } else {
+    w = words[index % words.length];
+    index++;
+  }
+
+  current = w;
+
+  word.textContent = w.word;
+  example.textContent = w.example || "";
+  meaning.textContent = w.meaning;
+  meaning.classList.add("hidden");
+
+  progress.textContent = `${index}/${words.length}`;
+
+  speakSequence(w);
+
+  const mode = document.getElementById("mode").value;
+
+  if(mode === "quiz"){
+    generateQuiz(w);
+  } else {
+    generateFlash(w);
+  }
+
+  timer1 = setTimeout(autoReveal, 5000);
+  timer2 = setTimeout(next, 7000);
+
+  saveAll();
+}
+
+// ▼ 音声
+function speakSequence(w){
+  speak(w.word, ()=>{
+    speak(w.example);
+  });
+}
+
+function speak(text, callback){
+  if(!text) return;
+
+  const utter = new SpeechSynthesisUtterance(text);
+  const voices = speechSynthesis.getVoices();
+  const type = document.getElementById("voiceType").value;
+
+  const v = voices.find(v=>v.lang===type);
+  if(v) utter.voice = v;
+
+  utter.onend = callback;
+  speechSynthesis.speak(utter);
+}
+
+// ▼ 四択
+function generateQuiz(correct){
+  let arr = [correct.meaning];
+
+  while(arr.length < 4){
+    let rand = words[Math.floor(Math.random()*words.length)].meaning;
+    if(!arr.includes(rand)) arr.push(rand);
+  }
+
+  arr.sort(()=>Math.random()-0.5);
+
+  let html="";
+  arr.forEach(a=>{
+    html += `<button onclick="answer('${a}')">${a}</button>`;
+  });
+
+  quizArea.innerHTML = html;
+}
+
+// ▼ カードモード
+function generateFlash(w){
+  quizArea.innerHTML = `<button onclick="flip()">めくる</button>`;
+}
+
+// ▼ めくり
+function flip(){
+  meaning.classList.remove("hidden");
+}
+
+// ▼ 解答
+function answer(selected){
+
+  totalCount++;
+
+  if(selected === current.meaning){
+    correctCount++;
+  } else {
+    scheduleReview(current);
+  }
+
+  highlightAnswer(selected);
+
+  updateAccuracy();
+}
+
+// ▼ 自動表示
+function autoReveal(){
+  meaning.classList.remove("hidden");
+
+  document.querySelectorAll("#quizArea button").forEach(btn=>{
+    if(btn.textContent === current.meaning){
+      btn.classList.add("correct");
+    }
+  });
+}
+
+// ▼ 色付け
+function highlightAnswer(selected){
+  document.querySelectorAll("#quizArea button").forEach(btn=>{
+    if(btn.textContent === current.meaning){
+      btn.classList.add("correct");
+    } else if(btn.textContent === selected){
+      btn.classList.add("wrong");
+    }
+  });
+}
+
+// ▼ 復習
+function scheduleReview(word){
+  reviewQueue.push(word);
+}
+
+// ▼ 正答率
+function updateAccuracy(){
+  let acc = totalCount ? Math.round(correctCount/totalCount*100) : 0;
+  accuracy.textContent = acc + "%";
+}
+
+// ▼ 保存
+function saveAll(){
+  save("index", index);
+  save("correct", correctCount);
+  save("total", totalCount);
+  save("review", reviewQueue);
+}
+
+function save(key,val){
+  localStorage.setItem(user+"_"+key, JSON.stringify(val));
+}
+function load(key){
+  return JSON.parse(localStorage.getItem(user+"_"+key));
+}
+
+</script>
+
+</body>
+</html>

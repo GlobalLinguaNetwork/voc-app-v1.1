@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vocab Master</title>
+
+<style>
+body { font-family:sans-serif; max-width:600px; margin:auto; padding:10px;}
+.card { border:1px solid #ccc; border-radius:10px; padding:15px; margin-top:10px;}
+button { padding:10px; margin:5px; border-radius:8px; width:100%; cursor: pointer;}
+button:hover { background-color: #f0f0f0; }
+.correct { background:#90ee90 !important;}
+.wrong { background:#f08080 !important;}
+.hidden { display:none;}
+</style>
+</head>
+
+<body>
+
+<h2>単語学習システム</h2>
+
+<div class="card">
+<select id="mode">
+  <option value="quiz">四択</option>
+  <option value="flash">カードめくり</option>
+</select>
+
+<select id="voiceType">
+  <option value="en-US">米語</option>
+  <option value="en-GB">英国</option>
+  <option value="en-AU">豪州</option>
+</select>
+
+<button onclick="start()">開始</button>
+</div>
+
+<div id="study" class="hidden">
+<h3 id="progress"></h3>
+<div class="card" id="card">
+<h2 id="word"></h2>
+<p id="example"></p>
+<p id="meaning" class="hidden"></p>
+</div>
+<div id="quizArea"></div>
+<p>正答率: <span id="accuracy"></span></p>
+</div>
+
+<script>
+let words = [];
+let index = 0;
+let correctCount = 0;
+let totalCount = 0;
+let reviewQueue = [];
+let current;
+let timer1, timer2;
+
+const user = new URLSearchParams(location.search).get("user") || "default";
+
+// ★修正ポイント：GitHubのフォルダ階層「data/system5/」に合わせました
+fetch("data/system5/unit1.json")
+.then(res => {
+    if (!res.ok) throw new Error("JSONファイルが見つかりません");
+    return res.json();
+})
+.then(data => { 
+    words = data; 
+    console.log("データ読み込み成功:", words);
+})
+.catch(err => {
+    console.error("エラー:", err);
+    alert("データの読み込みに失敗しました。URLを確認してください。");
+});
+
+function start(){
+  if (words.length === 0) {
+      alert("データを読み込み中です。数秒待ってから「開始」を押してください。");
+      return;
+  }
+  document.getElementById("study").classList.remove("hidden");
+  index = load("index") || 0;
+  correctCount = load("correct") || 0;
+  totalCount = load("total") || 0;
+  reviewQueue = load("review") || [];
+  next();
+}
+
+function next(){
+  clearTimeout(timer1);
+  clearTimeout(timer2);
+
+  if(reviewQueue.length > 0){
+    current = reviewQueue.shift();
+  } else {
+    current = words[index % words.length];
+    index++;
+  }
+
+  document.getElementById("word").textContent = current.word;
+  document.getElementById("example").textContent = current.example || "";
+  document.getElementById("meaning").textContent = current.meaning;
+  document.getElementById("meaning").classList.add("hidden");
+  document.getElementById("progress").textContent = `${index}/${words.length}`;
+
+  speakSequence(current);
+
+  const mode = document.getElementById("mode").value;
+  if(mode === "quiz"){
+    generateQuiz(current);
+  } else {
+    generateFlash(current);
+  }
+
+  // 自動めくりタイマー
+  timer1 = setTimeout(autoReveal, 5000);
+  timer2 = setTimeout(next, 8000); // 次へ行く時間を少し伸ばしました
+
+  saveAll();
+}
+
+function speakSequence(w){
+  speak(w.word, ()=>{
+    if(w.example) speak(w.example);
+  });
+}
+
+function speak(text, callback){
+  const utter = new SpeechSynthesisUtterance(text);
+  const type = document.getElementById("voiceType").value;
+  const voices = speechSynthesis.getVoices();
+  const v = voices.find(v=>v.lang===type);
+  if(v) utter.voice = v;
+  utter.onend = callback;
+  speechSynthesis.speak(utter);
+}
+
+function generateQuiz(correct){
+  let arr = [correct.meaning];
+  while(arr.length < 4 && arr.length < words.length){
+    let rand = words[Math.floor(Math.random()*words.length)].meaning;
+    if(!arr.includes(rand)) arr.push(rand);
+  }
+  arr.sort(()=>Math.random()-0.5);
+
+  let html="";
+  arr.forEach(a=>{
+    html += `<button onclick="answer('${a}')">${a}</button>`;
+  });
+  document.getElementById("quizArea").innerHTML = html;
+}
+
+function generateFlash(w){
+  document.getElementById("quizArea").innerHTML = `<button onclick="flip()">めくる</button>`;
+}
+
+function flip(){
+  document.getElementById("meaning").classList.remove("hidden");
+}
+
+function answer(selected){
+  totalCount++;
+  if(selected === current.meaning){
+    correctCount++;
+  } else {
+    reviewQueue.push(current);
+  }
+  highlightAnswer(selected);
+  updateAccuracy();
+}
+
+function autoReveal(){
+  document.getElementById("meaning").classList.remove("hidden");
+  document.querySelectorAll("#quizArea button").forEach(btn=>{
+    if(btn.textContent === current.meaning){
+      btn.classList.add("correct");
+    }
+  });
+}
+
+function highlightAnswer(selected){
+  document.querySelectorAll("#quizArea button").forEach(btn=>{
+    if(btn.textContent === current.meaning){
+      btn.classList.add("correct");
+    } else if(btn.textContent === selected){
+      btn.classList.add("wrong");
+    }
+  });
+}
+
+function updateAccuracy(){
+  let acc = totalCount ? Math.round(correctCount/totalCount*100) : 0;
+  document.getElementById("accuracy").textContent = acc + "%";
+}
+
+function saveAll(){
+  save("index", index);
+  save("correct", correctCount);
+  save("total", totalCount);
+  save("review", reviewQueue);
+}
+
+function save(key,val){ localStorage.setItem(user+"_"+key, JSON.stringify(val)); }
+function load(key){ return JSON.parse(localStorage.getItem(user+"_"+key)); }
+</script>
+
+</body>
+</html>

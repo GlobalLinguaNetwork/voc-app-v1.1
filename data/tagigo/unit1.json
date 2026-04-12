@@ -1,0 +1,1208 @@
+[
+  {
+    "word": "leave",
+    "meaning": "置き忘れる（部屋に鍵を置き忘れた）",
+    "example": "I left the key in my room.",
+    "example_jp": "私は部屋に鍵を置き忘れた。"
+  },
+  {
+    "word": "leave",
+    "meaning": "残す（息子に金を残した）",
+    "example": "He left a great amount of money to his son.",
+    "example_jp": "彼は息子に多額の金を残した。"
+  },
+  {
+    "word": "leave",
+    "meaning": "休暇（休暇中）",
+    "example": "He is on leave.",
+    "example_jp": "彼は休暇中だ。"
+  },
+  {
+    "word": "letter",
+    "meaning": "文学（文学者）",
+    "example": "He is a man of letters.",
+    "example_jp": "彼は文学者だ。"
+  },
+  {
+    "word": "line",
+    "meaning": "電話回線（他の電話に出ている）",
+    "example": "He is on another line right now.",
+    "example_jp": "彼は今、別の電話に出ている。"
+  },
+  {
+    "word": "line",
+    "meaning": "列（行列）",
+    "example": "There is a long line of people.",
+    "example_jp": "人々の長い列ができている。"
+  },
+  {
+    "word": "line",
+    "meaning": "手紙（手紙をください）",
+    "example": "Drop me a line.",
+    "example_jp": "手紙をください。"
+  },
+  {
+    "word": "line",
+    "meaning": "職種（どんな仕事？）",
+    "example": "What line of work are you in?",
+    "example_jp": "あなたの職種は何ですか？"
+  },
+  {
+    "word": "long",
+    "meaning": "切望する（自由を切望する）",
+    "example": "We all long for freedom.",
+    "example_jp": "私たちは皆、自由を切望している。"
+  },
+  {
+    "word": "lot",
+    "meaning": "運命（人生の運命）",
+    "example": "It seems to be my lot in life.",
+    "example_jp": "それが私の人生の運命であるようだ。"
+  },
+  {
+    "word": "lot",
+    "meaning": "駐車場（駐車場がある）",
+    "example": "There is a parking lot.",
+    "example_jp": "駐車場がある。"
+  },
+  {
+    "word": "matter",
+    "meaning": "重要である（本当に重要なこと）",
+    "example": "the thing that really matters",
+    "example_jp": "本当に重要なこと"
+  },
+  {
+    "word": "matter",
+    "meaning": "物質（固体）",
+    "example": "solid matter",
+    "example_jp": "固体物質"
+  },
+  {
+    "word": "mean",
+    "meaning": "本気で言う（本気なの？）",
+    "example": "Do you really mean it?",
+    "example_jp": "本当に本気で言っているのですか？"
+  },
+  {
+    "word": "mean",
+    "meaning": "意地悪（意地悪だ）",
+    "example": "You are so mean to me.",
+    "example_jp": "あなたは私にとても意地悪だ。"
+  },
+  {
+    "word": "means",
+    "meaning": "手段（目的達成の手段）",
+    "example": "as a means of achieving the goal",
+    "example_jp": "目的を達成するための手段として"
+  },
+  {
+    "word": "means",
+    "meaning": "資産（十分な資産）",
+    "example": "have ample means",
+    "example_jp": "十分な資産を持っている"
+  },
+  {
+    "word": "measure",
+    "meaning": "対策（対策をとる）",
+    "example": "take measures against global warming",
+    "example_jp": "地球温暖化への対策を講じる"
+  },
+  {
+    "word": "meet",
+    "meaning": "満たす（基準を満たす）",
+    "example": "meet required standards",
+    "example_jp": "要求された基準を満たす"
+  },
+  {
+    "word": "meet",
+    "meaning": "対処する（課題に取り組む）",
+    "example": "meet the challenge",
+    "example_jp": "課題に対処する"
+  },
+  {
+    "word": "mind",
+    "meaning": "気にする（嫌ではない）",
+    "example": "I don't mind staying at home.",
+    "example_jp": "私は家にいても気にしない（嫌ではない）。"
+  },
+  {
+    "word": "mind",
+    "meaning": "正気（気でも狂ったの？）",
+    "example": "Are you out of your mind?",
+    "example_jp": "あなたは正気ですか？"
+  },
+  {
+    "word": "minute",
+    "meaning": "微小な（小さな間違い）",
+    "example": "a minute error",
+    "example_jp": "微小な（小さな）間違い"
+  },
+  {
+    "word": "miss",
+    "meaning": "恋しい（寂しい）",
+    "example": "I miss you so much.",
+    "example_jp": "あなたがいなくてとても寂しい。"
+  },
+  {
+    "word": "miss",
+    "meaning": "見逃す（見逃しちゃだめ）",
+    "example": "You shouldn't miss that movie.",
+    "example_jp": "あの映画を見逃すべきではない。"
+  },
+  {
+    "word": "nature",
+    "meaning": "本質（事業の本質）",
+    "example": "The nature of our business",
+    "example_jp": "私たちの事業の本質"
+  },
+  {
+    "word": "object",
+    "meaning": "目的（任務の目的）",
+    "example": "the object of our mission",
+    "example_jp": "私たちの任務の目的"
+  },
+  {
+    "word": "object to",
+    "meaning": "反対する（提案に反対する）",
+    "example": "object to his suggestion",
+    "example_jp": "彼の提案に反対する"
+  },
+  {
+    "word": "otherwise",
+    "meaning": "さもないと（機械は動かない）",
+    "example": "Pull this handle; otherwise the machine won't work.",
+    "example_jp": "このハンドルを引きなさい。さもないと機械は動かないだろう。"
+  },
+  {
+    "word": "otherwise",
+    "meaning": "違ったふうに（違う考えかもしれない）",
+    "example": "She might think otherwise.",
+    "example_jp": "彼女は違ったふうに考えているかもしれない。"
+  },
+  {
+    "word": "otherwise",
+    "meaning": "その他の点では（健康だ）",
+    "example": "She is thin but otherwise healthy.",
+    "example_jp": "彼女は痩せているが、その他の点では健康だ。"
+  },
+  {
+    "word": "order",
+    "meaning": "命令（命令だ）",
+    "example": "It’s an order.",
+    "example_jp": "それは命令だ。"
+  },
+  {
+    "word": "order",
+    "meaning": "順序（アルファベット順）",
+    "example": "in alphabetical order",
+    "example_jp": "アルファベット順に"
+  },
+  {
+    "word": "order",
+    "meaning": "整頓（部屋を整頓）",
+    "example": "Put your room in order.",
+    "example_jp": "部屋を整頓しなさい。"
+  },
+  {
+    "word": "order",
+    "meaning": "故障（故障している）",
+    "example": "out of order",
+    "example_jp": "故障している"
+  },
+  {
+    "word": "order",
+    "meaning": "秩序（公共の秩序）",
+    "example": "maintain public order",
+    "example_jp": "公共の秩序を維持する"
+  },
+  {
+    "word": "part",
+    "meaning": "役割（役割を果たす）",
+    "example": "play a significant part",
+    "example_jp": "重要な役割を果たす"
+  },
+  {
+    "word": "part",
+    "meaning": "側（政府側の努力）",
+    "example": "effort on the part of the government",
+    "example_jp": "政府側の努力"
+  },
+  {
+    "word": "part with",
+    "meaning": "手放す（指輪を手放す）",
+    "example": "part with the ring",
+    "example_jp": "その指輪を手放す"
+  },
+  {
+    "word": "pay",
+    "meaning": "給料（安い給料）",
+    "example": "work at low pay",
+    "example_jp": "安い給料で働く"
+  },
+  {
+    "word": "pay",
+    "meaning": "割に合う（報われない）",
+    "example": "Crime doesn't pay.",
+    "example_jp": "犯罪は割に合わない。"
+  },
+  {
+    "word": "pay for",
+    "meaning": "償う（遅れは償えない）",
+    "example": "Money cannot pay for lost time.",
+    "example_jp": "お金で失われた時間を償うことはできない。"
+  },
+  {
+    "word": "place",
+    "meaning": "地位（身分の高い人々）",
+    "example": "people in high places",
+    "example_jp": "地位の高い人々"
+  },
+  {
+    "word": "place",
+    "meaning": "置く（本を置く）",
+    "example": "place a book on the desk",
+    "example_jp": "机の上に本を置く"
+  },
+  {
+    "word": "point out",
+    "meaning": "指摘する（誤りを指摘）",
+    "example": "point out the errors",
+    "example_jp": "誤りを指摘する"
+  },
+  {
+    "word": "point",
+    "meaning": "意味（意味がない）",
+    "example": "There is no point in doing that.",
+    "example_jp": "そんなことをしても意味がない。"
+  },
+  {
+    "word": "point of view",
+    "meaning": "観点（私の観点）",
+    "example": "from my point of view",
+    "example_jp": "私の観点からすれば"
+  },
+  {
+    "word": "to the point",
+    "meaning": "要点をつく（的を射ている）",
+    "example": "His speech was to the point.",
+    "example_jp": "彼のスピーチは要点をついていた。"
+  },
+  {
+    "word": "present",
+    "meaning": "現在の（現在の状況）",
+    "example": "under present circumstances",
+    "example_jp": "現在の状況下では"
+  },
+  {
+    "word": "present",
+    "meaning": "出席している（出席者）",
+    "example": "those present",
+    "example_jp": "出席している人々"
+  },
+  {
+    "word": "present A with B",
+    "meaning": "贈る（賞を贈る）",
+    "example": "present the girl with an award",
+    "example_jp": "その少女に賞を贈る"
+  },
+  {
+    "word": "present",
+    "meaning": "発表する（新製品を発表）",
+    "example": "present a new product",
+    "example_jp": "新製品を発表する"
+  },
+  {
+    "word": "pretty",
+    "meaning": "かなり（かなり寒い）",
+    "example": "It’s pretty cold today.",
+    "example_jp": "今日はかなり寒い。"
+  },
+  {
+    "word": "race",
+    "meaning": "人種（人種問題）",
+    "example": "race issues",
+    "example_jp": "人種問題"
+  },
+  {
+    "word": "respect",
+    "meaning": "点（この点に関して）",
+    "example": "in this respect",
+    "example_jp": "この点に関して"
+  },
+  {
+    "word": "rest",
+    "meaning": "残り（人生の残りの間）",
+    "example": "for the rest of my life",
+    "example_jp": "私の人生の残りの間"
+  },
+  {
+    "word": "right",
+    "meaning": "権利（権利と義務）",
+    "example": "rights and duties",
+    "example_jp": "権利と義務"
+  },
+  {
+    "word": "right",
+    "meaning": "正しい（正しいと思うこと）",
+    "example": "Do what you think is right.",
+    "example_jp": "自分が正しいと思うことをしなさい。"
+  },
+  {
+    "word": "right",
+    "meaning": "ちょうど（真向かい）",
+    "example": "The bank is right across the street.",
+    "example_jp": "銀行は通りのちょうど真向かいにある。"
+  },
+  {
+    "word": "room",
+    "meaning": "余地（議論の余地はない）",
+    "example": "There is no room for doubt.",
+    "example_jp": "疑いの余地はない。"
+  },
+  {
+    "word": "save",
+    "meaning": "取っておく（ワインをとっておく）",
+    "example": "save the best wine for Christmas",
+    "example_jp": "クリスマス用に一番良いワインを取っておく"
+  },
+  {
+    "word": "save",
+    "meaning": "省く（時間と手間を省く）",
+    "example": "save customers time and effort",
+    "example_jp": "顧客の時間と手間を省く"
+  },
+  {
+    "word": "save that",
+    "meaning": "〜以外（無事到着した以外知らせなし）",
+    "example": "We have no news save that he arrived safely.",
+    "example_jp": "彼が無事に到着したということ以外に、私たちに知らせはない。"
+  },
+  {
+    "word": "sense",
+    "meaning": "良識（分別がある）",
+    "example": "have enough sense to tell good from bad",
+    "example_jp": "善悪を判断できるだけの良識を持っている"
+  },
+  {
+    "word": "sense",
+    "meaning": "正気（血迷っている）",
+    "example": "She is out of her senses.",
+    "example_jp": "彼女は正気を失っている。"
+  },
+  {
+    "word": "sense",
+    "meaning": "意味（広い意味では）",
+    "example": "in a broad sense",
+    "example_jp": "広い意味では"
+  },
+  {
+    "word": "serve",
+    "meaning": "応対する（ご用を伺っていますか）",
+    "example": "Have you been served?",
+    "example_jp": "ご用は伺っておりますか？"
+  },
+  {
+    "word": "serve",
+    "meaning": "出す（ビールを出す）",
+    "example": "serve the guest with beer",
+    "example_jp": "客にビールを出す"
+  },
+  {
+    "word": "serve as",
+    "meaning": "役立つ（〜として役立つ）",
+    "example": "The building serves as a community center.",
+    "example_jp": "その建物はコミュニティーセンターとして役立っている。"
+  },
+  {
+    "word": "shame",
+    "meaning": "残念（残念だ）",
+    "example": "That’s a shame.",
+    "example_jp": "それは残念だ。"
+  },
+  {
+    "word": "sound",
+    "meaning": "健全な（堅実な国）",
+    "example": "economically sound countries",
+    "example_jp": "経済的に健全な国々"
+  },
+  {
+    "word": "sound",
+    "meaning": "ぐっすり（ぐっすり眠った）",
+    "example": "He fell sound asleep.",
+    "example_jp": "彼はぐっすり眠った。"
+  },
+  {
+    "word": "spell",
+    "meaning": "期間（暑い天気の続いた期間）",
+    "example": "after a long spell of hot weather",
+    "example_jp": "長い期間続いた暑い天気の後に"
+  },
+  {
+    "word": "spell",
+    "meaning": "魔法（呪文が解けた）",
+    "example": "The spell was released.",
+    "example_jp": "魔法が解けた。"
+  },
+  {
+    "word": "stand",
+    "meaning": "立場（立場を明らかにする）",
+    "example": "clarify my stand on the matter",
+    "example_jp": "その問題に対する私の立場を明らかにする"
+  },
+  {
+    "word": "stand",
+    "meaning": "我慢する（我慢できない）",
+    "example": "I can’t stand the way they do.",
+    "example_jp": "彼らのやり方には我慢できない。"
+  },
+  {
+    "word": "state",
+    "meaning": "州（50番目の州）",
+    "example": "Hawaii was the 50th state.",
+    "example_jp": "ハワイは50番目の州だった。"
+  },
+  {
+    "word": "state",
+    "meaning": "国家（工業国）",
+    "example": "Japan became a modern industrial state.",
+    "example_jp": "日本は近代工業国家になった。"
+  },
+  {
+    "word": "state",
+    "meaning": "状態（緊急事態）",
+    "example": "a state of emergency",
+    "example_jp": "緊急事態"
+  },
+  {
+    "word": "state",
+    "meaning": "述べる（名前を言う）",
+    "example": "Would you state your full name?",
+    "example_jp": "フルネームを述べていただけますか？"
+  },
+  {
+    "word": "stick to",
+    "meaning": "固執する（こだわる）",
+    "example": "stick to my policy",
+    "example_jp": "自分の信条に固執する"
+  },
+  {
+    "word": "get stuck",
+    "meaning": "動けなくなる（渋滞にはまる）",
+    "example": "get stuck in a traffic jam",
+    "example_jp": "交通渋滞にはまって動けなくなる"
+  },
+  {
+    "word": "stick out",
+    "meaning": "突き出す（手を出す）",
+    "example": "stick your arm out of the window",
+    "example_jp": "窓から腕を突き出す"
+  },
+  {
+    "word": "stick",
+    "meaning": "残る（心に刺さる）",
+    "example": "This photo sticks in my mind.",
+    "example_jp": "この写真は私の心に残っている。"
+  },
+  {
+    "word": "still",
+    "meaning": "さらに（もっと高い）",
+    "example": "Tom is tall, but John is still taller.",
+    "example_jp": "トムは背が高いが、ジョンはさらに高い。"
+  },
+  {
+    "word": "still",
+    "meaning": "それでも（試験を受けた）",
+    "example": "He hadn’t studied; still, he took the exam.",
+    "example_jp": "彼は勉強していなかったが、それでも試験を受けた。"
+  },
+  {
+    "word": "still",
+    "meaning": "静かな（静かだった）",
+    "example": "The audience was still.",
+    "example_jp": "聴衆は静かだった。"
+  },
+  {
+    "word": "story",
+    "meaning": "階（1階建ての家）",
+    "example": "a one-story house",
+    "example_jp": "1階建ての家"
+  },
+  {
+    "word": "strike",
+    "meaning": "印象を与える（おかしいと思った）",
+    "example": "Her behavior struck me as odd.",
+    "example_jp": "彼女の振る舞いは私におかしいという印象を与えた。"
+  },
+  {
+    "word": "strike",
+    "meaning": "気づく（後で気づいた）",
+    "example": "It struck me later that…",
+    "example_jp": "後になって…ということに気づいた"
+  },
+  {
+    "word": "strike",
+    "meaning": "襲う（地震が襲った）",
+    "example": "An earthquake struck the country.",
+    "example_jp": "地震がその国を襲った。"
+  },
+  {
+    "word": "subject",
+    "meaning": "話題（政治の話題）",
+    "example": "avoid the subject of politics",
+    "example_jp": "政治の話題を避ける"
+  },
+  {
+    "word": "subject to",
+    "meaning": "〜を受けやすい（変更される）",
+    "example": "Prices are subject to change.",
+    "example_jp": "価格は変更を受けやすい（変更される場合がある）。"
+  },
+  {
+    "word": "subject to",
+    "meaning": "支配される（統治下にあった）",
+    "example": "The city was subjected to Roman rule.",
+    "example_jp": "その都市はローマの支配下に置かれた。"
+  },
+  {
+    "word": "subject",
+    "meaning": "被験者（男性被験者）",
+    "example": "fifty male subjects",
+    "example_jp": "50人の男性被験者"
+  },
+  {
+    "word": "term",
+    "meaning": "専門用語（医学用語）",
+    "example": "common medical terms",
+    "example_jp": "一般的な医学の専門用語"
+  },
+  {
+    "word": "term",
+    "meaning": "条件（契約条件）",
+    "example": "under the terms of the contract",
+    "example_jp": "契約の条件の下で"
+  },
+  {
+    "word": "terms",
+    "meaning": "仲（仲が良い）",
+    "example": "on good terms",
+    "example_jp": "仲が良い"
+  },
+  {
+    "word": "term",
+    "meaning": "期間（短期間）",
+    "example": "in the short term",
+    "example_jp": "短期間で"
+  },
+  {
+    "word": "term paper",
+    "meaning": "学期（学期末レポート）",
+    "example": "hand in your term paper",
+    "example_jp": "学期末レポートを提出する"
+  },
+  {
+    "word": "in terms of",
+    "meaning": "観点（経済的観点では）",
+    "example": "in terms of economy",
+    "example_jp": "経済的観点から言えば"
+  },
+  {
+    "word": "tongue",
+    "meaning": "言語（母国語）",
+    "example": "mother tongue",
+    "example_jp": "母国語"
+  },
+  {
+    "word": "touch",
+    "meaning": "連絡（連絡を取り合う）",
+    "example": "Let’s keep in touch.",
+    "example_jp": "連絡を取り合いましょう。"
+  },
+  {
+    "word": "touch",
+    "meaning": "感動する（感動した）",
+    "example": "I’m really touched by your story.",
+    "example_jp": "あなたの話に本当に感動した。"
+  },
+  {
+    "word": "touch",
+    "meaning": "少し（少し熱がある）",
+    "example": "have a touch of fever",
+    "example_jp": "少し熱がある"
+  },
+  {
+    "word": "way",
+    "meaning": "やり方（我を通す）",
+    "example": "The boy always gets his way.",
+    "example_jp": "その少年はいつも自分のやり方を通す。"
+  },
+  {
+    "word": "way",
+    "meaning": "方向（向こうを向く）",
+    "example": "look the other way",
+    "example_jp": "別の方向（向こう）を見る"
+  },
+  {
+    "word": "way",
+    "meaning": "点（あらゆる点で）",
+    "example": "similar in every way",
+    "example_jp": "あらゆる点で似ている"
+  },
+  {
+    "word": "the way",
+    "meaning": "〜のように（言ったように）",
+    "example": "Do it the way I told.",
+    "example_jp": "私が言ったようにそれをしなさい。"
+  },
+  {
+    "word": "wear",
+    "meaning": "すり減る（擦り切れた）",
+    "example": "The jacket was worn at the elbows.",
+    "example_jp": "そのジャケットの肘の部分がすり減っていた。"
+  },
+  {
+    "word": "wear out",
+    "meaning": "疲れ切る（疲れ切って帰宅）",
+    "example": "He came home worn out.",
+    "example_jp": "彼は疲れ切って帰宅した。"
+  },
+  {
+    "word": "well",
+    "meaning": "井戸（井戸の水）",
+    "example": "drink water from the well",
+    "example_jp": "井戸から水を飲む"
+  },
+  {
+    "word": "well",
+    "meaning": "健康（健康でいて）",
+    "example": "Keep yourself well.",
+    "example_jp": "健康でいなさい。"
+  },
+  {
+    "word": "well",
+    "meaning": "十分に（よく火を通す）",
+    "example": "Cook the pork well.",
+    "example_jp": "豚肉に十分に火を通しなさい。"
+  },
+  {
+    "word": "bill",
+    "meaning": "請求書（カードの請求書）",
+    "example": "a credit-card bill",
+    "example_jp": "クレジットカードの請求書"
+  },
+  {
+    "word": "bill",
+    "meaning": "紙幣（20ドル紙幣）",
+    "example": "a $20 bill",
+    "example_jp": "20ドル紙幣"
+  },
+  {
+    "word": "bill",
+    "meaning": "法案（テロ防止法案）",
+    "example": "anti-terrorism bill",
+    "example_jp": "テロ防止法案"
+  },
+  {
+    "word": "will",
+    "meaning": "意志（強い意志）",
+    "example": "He has a strong will.",
+    "example_jp": "彼は強い意志を持っている。"
+  },
+  {
+    "word": "will",
+    "meaning": "遺書（遺言）",
+    "example": "He wrote a will before that fight.",
+    "example_jp": "彼はその戦いの前に遺書を書いた。"
+  },
+  {
+    "word": "work",
+    "meaning": "有効に作用する（うまくいかない）",
+    "example": "This method won’t work.",
+    "example_jp": "この方法は有効に作用しないだろう（うまくいかないだろう）。"
+  },
+  {
+    "word": "work",
+    "meaning": "作品（有名な作品）",
+    "example": "well-known works",
+    "example_jp": "有名な作品"
+  },
+  {
+    "word": "yield",
+    "meaning": "もたらす（利益を生む）",
+    "example": "yield large profits",
+    "example_jp": "多大な利益をもたらす"
+  },
+  {
+    "word": "yield",
+    "meaning": "収穫高（収穫量）",
+    "example": "estimated yield of rice crop",
+    "example_jp": "米の推定収穫高"
+  },
+  {
+    "word": "yield to",
+    "meaning": "譲る（歩行者に道を譲れ）",
+    "example": "Yield to pedestrians.",
+    "example_jp": "歩行者に道を譲りなさい。"
+  },
+  {
+    "word": "yield",
+    "meaning": "屈する（降参する）",
+    "example": "I would rather die than yield.",
+    "example_jp": "屈するくらいなら死んだほうがましだ。"
+  },
+  {
+    "word": "address",
+    "meaning": "取り組む（問題に取り組む）",
+    "example": "address the global warming issue",
+    "example_jp": "地球温暖化の問題に取り組む"
+  },
+  {
+    "word": "air",
+    "meaning": "気取る（気取った様子）",
+    "example": "put on airs",
+    "example_jp": "気取った様子を見せる"
+  },
+  {
+    "word": "amount to",
+    "meaning": "合計になる（1000ドルになる）",
+    "example": "The bill amounts to $1000.",
+    "example_jp": "請求書は合計で1000ドルになる。"
+  },
+  {
+    "word": "arms",
+    "meaning": "武器（軍備競争）",
+    "example": "the arms race between the two countries",
+    "example_jp": "二国間の軍備（武器）競争"
+  },
+  {
+    "word": "art",
+    "meaning": "技術（管理の技術）",
+    "example": "art of project management",
+    "example_jp": "プロジェクト管理の技術"
+  },
+  {
+    "word": "bear",
+    "meaning": "耐える（苦痛に耐える）",
+    "example": "bear the pain",
+    "example_jp": "痛みに耐える"
+  },
+  {
+    "word": "bear",
+    "meaning": "産む（子供を産む）",
+    "example": "bear a child",
+    "example_jp": "子供を産む"
+  },
+  {
+    "word": "book",
+    "meaning": "予約する（便を予約する）",
+    "example": "book an early flight",
+    "example_jp": "早い便を予約する"
+  },
+  {
+    "word": "bound for",
+    "meaning": "行き（NY行き）",
+    "example": "the flight bound for New York",
+    "example_jp": "ニューヨーク行きの便"
+  },
+  {
+    "word": "bound to",
+    "meaning": "きっと〜する（間違えるに違いない）",
+    "example": "He is bound to make a mistake.",
+    "example_jp": "彼はきっと間違いを犯すだろう。"
+  },
+  {
+    "word": "break",
+    "meaning": "休憩（休憩をとる）",
+    "example": "take a ten-minute break",
+    "example_jp": "10分間の休憩をとる"
+  },
+  {
+    "word": "but",
+    "meaning": "除いて（私以外）",
+    "example": "Everyone knows it but me.",
+    "example_jp": "私を除いて、みんなそれを知っている。"
+  },
+  {
+    "word": "but",
+    "meaning": "ただの（ほんの子供）",
+    "example": "He is but a child.",
+    "example_jp": "彼はただの子供にすぎない。"
+  },
+  {
+    "word": "capital",
+    "meaning": "首都（フランスの首都）",
+    "example": "the capital of France",
+    "example_jp": "フランスの首都"
+  },
+  {
+    "word": "capital",
+    "meaning": "資本金（資本）",
+    "example": "start business with a capital of $60,000",
+    "example_jp": "6万ドルの資本金でビジネスを始める"
+  },
+  {
+    "word": "case",
+    "meaning": "事実（事実ではない）",
+    "example": "That’s not the case.",
+    "example_jp": "それは事実ではない。"
+  },
+  {
+    "word": "case",
+    "meaning": "事件（事件を解決する）",
+    "example": "solve a case",
+    "example_jp": "事件を解決する"
+  },
+  {
+    "word": "case",
+    "meaning": "主張（反対の主張）",
+    "example": "make a case against the plan",
+    "example_jp": "その計画に反対する主張をする"
+  },
+  {
+    "word": "case",
+    "meaning": "症例（新患者）",
+    "example": "a new case of influenza",
+    "example_jp": "インフルエンザの新しい症例（患者）"
+  },
+  {
+    "word": "certain",
+    "meaning": "ある（ある程度の）",
+    "example": "a certain degree of knowledge",
+    "example_jp": "ある程度の知識"
+  },
+  {
+    "word": "challenge",
+    "meaning": "異議を唱える（意見に挑む）",
+    "example": "challenge his opinion",
+    "example_jp": "彼の意見に異議を唱える"
+  },
+  {
+    "word": "change",
+    "meaning": "お釣り（お釣りは要らない）",
+    "example": "Keep the change.",
+    "example_jp": "お釣りは取っておいてください。"
+  },
+  {
+    "word": "character",
+    "meaning": "登場人物（キャラクター）",
+    "example": "my favorite character in the book",
+    "example_jp": "その本の中で私のお気に入りの登場人物"
+  },
+  {
+    "word": "character",
+    "meaning": "文字（漢字）",
+    "example": "Chinese character",
+    "example_jp": "漢字（中国の文字）"
+  },
+  {
+    "word": "charge",
+    "meaning": "請求する（料金を請求）",
+    "example": "charge $99 per hour",
+    "example_jp": "1時間につき99ドル請求する"
+  },
+  {
+    "word": "charge",
+    "meaning": "告発する（罪で告発）",
+    "example": "charge him with theft",
+    "example_jp": "窃盗の罪で彼を告発する"
+  },
+  {
+    "word": "in charge of",
+    "meaning": "担当（担当者）",
+    "example": "Who is in charge of the project?",
+    "example_jp": "誰がそのプロジェクトの担当者ですか？"
+  },
+  {
+    "word": "clear A of B",
+    "meaning": "取り除く（道路から雪を除く）",
+    "example": "clear the road of snow",
+    "example_jp": "道路から雪を取り除く"
+  },
+  {
+    "word": "close",
+    "meaning": "近い（正解に近い）",
+    "example": "close to the answer",
+    "example_jp": "正解に近い"
+  },
+  {
+    "word": "close",
+    "meaning": "綿密な（詳細な）",
+    "example": "a close analysis",
+    "example_jp": "綿密な（詳細な）分析"
+  },
+  {
+    "word": "coin",
+    "meaning": "作り出す（表現を作る）",
+    "example": "They coined the phrase.",
+    "example_jp": "彼らはその表現を作り出した。"
+  },
+  {
+    "word": "command",
+    "meaning": "見渡せる（眺めを見渡す）",
+    "example": "command a beautiful view",
+    "example_jp": "美しい眺めを見渡す"
+  },
+  {
+    "word": "command",
+    "meaning": "運用能力（堪能だ）",
+    "example": "He has a good command of French.",
+    "example_jp": "彼はフランス語の優れた運用能力（堪能さ）を持っている。"
+  },
+  {
+    "word": "company",
+    "meaning": "仲間（友達で分かる）",
+    "example": "A man is known by the company he keeps.",
+    "example_jp": "人は付き合っている仲間で判断される。"
+  },
+  {
+    "word": "company",
+    "meaning": "一緒にいること（ご一緒できて楽しかった）",
+    "example": "I enjoyed your company.",
+    "example_jp": "あなたと一緒にいられて楽しかったです。"
+  },
+  {
+    "word": "count",
+    "meaning": "重要である（意見は重要）",
+    "example": "Your opinion counts.",
+    "example_jp": "あなたの意見は重要だ。"
+  },
+  {
+    "word": "cover",
+    "meaning": "補う（損害をまかなう）",
+    "example": "cover the damage by insurance",
+    "example_jp": "損害を保険で補う（まかなう）。"
+  },
+  {
+    "word": "cover",
+    "meaning": "進む（距離を進む）",
+    "example": "cover 100 miles a day",
+    "example_jp": "1日に100マイル進む"
+  },
+  {
+    "word": "credit A to B",
+    "meaning": "〜のおかげと考える（成功を読書のおかげとする）",
+    "example": "credit his success to reading",
+    "example_jp": "彼の成功は読書のおかげだと考える"
+  },
+  {
+    "word": "credit",
+    "meaning": "功績（売上の功績）",
+    "example": "credit for the sale",
+    "example_jp": "売上に対する功績"
+  },
+  {
+    "word": "deal",
+    "meaning": "多量（多大な努力）",
+    "example": "a great deal of effort",
+    "example_jp": "多量（多大）な努力"
+  },
+  {
+    "word": "deal",
+    "meaning": "取引（2社間の取引）",
+    "example": "the deal between two companies",
+    "example_jp": "二社間の取引"
+  },
+  {
+    "word": "do",
+    "meaning": "役に立つ（どちらでもよい）",
+    "example": "Either will do.",
+    "example_jp": "どちらでも役に立つ（どちらでもよい）。"
+  },
+  {
+    "word": "do",
+    "meaning": "もたらす（害をもたらす）",
+    "example": "do more harm than good",
+    "example_jp": "益よりも多くの害をもたらす"
+  },
+  {
+    "word": "fashion",
+    "meaning": "やり方（タイムリーなやり方で）",
+    "example": "in a timely fashion",
+    "example_jp": "タイムリーなやり方で"
+  },
+  {
+    "word": "figure",
+    "meaning": "考える（最善の計画だと考えた）",
+    "example": "I figured it was the best plan.",
+    "example_jp": "私はそれが最善の計画だと考えた。"
+  },
+  {
+    "word": "figure",
+    "meaning": "姿（人影が見えた）",
+    "example": "I saw a figure in the dark.",
+    "example_jp": "暗闇の中に人影（姿）が見えた。"
+  },
+  {
+    "word": "figure",
+    "meaning": "人物（重要人物）",
+    "example": "a key figure in the government",
+    "example_jp": "政府の重要人物"
+  },
+  {
+    "word": "figure",
+    "meaning": "図（図2を見よ）",
+    "example": "See Figure 2.",
+    "example_jp": "図2を見なさい。"
+  },
+  {
+    "word": "fine",
+    "meaning": "罰金（罰金を払う）",
+    "example": "pay a 10-dollar fine",
+    "example_jp": "10ドルの罰金を払う"
+  },
+  {
+    "word": "fine",
+    "meaning": "細かい（細部に時間を使う）",
+    "example": "spend time on fine detail",
+    "example_jp": "細かい細部に時間を費やす"
+  },
+  {
+    "word": "fire",
+    "meaning": "解雇する（解雇された）",
+    "example": "She was fired from the job.",
+    "example_jp": "彼女は仕事を解雇された。"
+  },
+  {
+    "word": "fire",
+    "meaning": "発砲する（標的に向けて撃つ）",
+    "example": "fire at the target",
+    "example_jp": "標的に向けて発砲する"
+  },
+  {
+    "word": "firm",
+    "meaning": "会社（彼の会社）",
+    "example": "His firm is in Osaka.",
+    "example_jp": "彼の会社は大阪にある。"
+  },
+  {
+    "word": "fit",
+    "meaning": "適した（少女向きの本）",
+    "example": "books fit for girls",
+    "example_jp": "少女に適した（向きの）本"
+  },
+  {
+    "word": "fit",
+    "meaning": "健康な（健康を維持する）",
+    "example": "work out every day to stay fit",
+    "example_jp": "健康を維持するために毎日運動する"
+  },
+  {
+    "word": "fix",
+    "meaning": "固定した（定額料金）",
+    "example": "a fixed price",
+    "example_jp": "固定した（定額の）料金"
+  },
+  {
+    "word": "fix",
+    "meaning": "用意する（食べ物を作る）",
+    "example": "I’ll fix you something to eat.",
+    "example_jp": "何か食べるものを用意して（作って）あげましょう。"
+  },
+  {
+    "word": "flat",
+    "meaning": "パンクした（パンクしたタイヤ）",
+    "example": "a flat tire",
+    "example_jp": "パンクしたタイヤ"
+  },
+  {
+    "word": "flat",
+    "meaning": "アパート（アパートに住む）",
+    "example": "live in a flat",
+    "example_jp": "アパートに住む"
+  },
+  {
+    "word": "fortune",
+    "meaning": "財産（大きな財産）",
+    "example": "He left a large fortune.",
+    "example_jp": "彼は多大な財産を残した。"
+  },
+  {
+    "word": "free",
+    "meaning": "空いている（空席）",
+    "example": "a free table",
+    "example_jp": "空いているテーブル（空席）"
+  },
+  {
+    "word": "free",
+    "meaning": "無料（無料で）",
+    "example": "free of charge",
+    "example_jp": "無料で"
+  },
+  {
+    "word": "free",
+    "meaning": "〜がない（禁煙の）",
+    "example": "smoke-free office",
+    "example_jp": "タバコのない（禁煙の）オフィス"
+  },
+  {
+    "word": "game",
+    "meaning": "獲物（大きな獲物）",
+    "example": "hunt big game",
+    "example_jp": "大きな獲物を狩る"
+  },
+  {
+    "word": "gift",
+    "meaning": "才能（音楽の才能）",
+    "example": "have a gift for music",
+    "example_jp": "音楽の才能がある"
+  },
+  {
+    "word": "given",
+    "meaning": "与えられた（一定の時間内）",
+    "example": "within the given time",
+    "example_jp": "与えられた時間内に"
+  },
+  {
+    "word": "given",
+    "meaning": "〜を考慮すると（未経験を考えると）",
+    "example": "Given her inexperience, she did well.",
+    "example_jp": "彼女の未経験を考慮すると、彼女はよくやった。"
+  },
+  {
+    "word": "home",
+    "meaning": "くつろいで（気楽に）",
+    "example": "Please make yourself at home.",
+    "example_jp": "どうぞ自分の家にいるようにくつろいでください。"
+  },
+  {
+    "word": "home",
+    "meaning": "痛感させる（徹底的に）",
+    "example": "His death brought home to me the danger of drugs.",
+    "example_jp": "彼の死は、私に薬物の危険性を痛感させた。"
+  },
+  {
+    "word": "interest",
+    "meaning": "利益（国民の利益）",
+    "example": "defend the interests of the people",
+    "example_jp": "国民の利益を守る"
+  },
+  {
+    "word": "interest",
+    "meaning": "利息（利率を上乗せする）",
+    "example": "add interest for late payment",
+    "example_jp": "支払遅延に対して利息（利率）を上乗せする"
+  },
+  {
+    "word": "issue",
+    "meaning": "号（最新号）",
+    "example": "the latest issue of the magazine",
+    "example_jp": "雑誌の最新号"
+  },
+  {
+    "word": "issue",
+    "meaning": "発行する（免許を発行）",
+    "example": "issue a license",
+    "example_jp": "免許を発行する"
+  },
+  {
+    "word": "last",
+    "meaning": "続く（2日続いた）",
+    "example": "The storm lasted for two days.",
+    "example_jp": "嵐は2日間続いた。"
+  },
+  {
+    "word": "last",
+    "meaning": "最も〜しそうにない（遅刻しそうにない人）",
+    "example": "the last person to be late",
+    "example_jp": "最も遅刻しそうにない人"
+  }
+]

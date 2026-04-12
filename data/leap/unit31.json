@@ -1,0 +1,458 @@
+[
+  {
+    "word": "legislation",
+    "meaning": "法律",
+    "example": "The government passed new legislation.",
+    "example_jp": "政府は新しい法律を可決した。"
+  },
+  {
+    "word": "testimony",
+    "meaning": "証言",
+    "example": "His testimony was important in court.",
+    "example_jp": "彼の証言は法廷で重要だった。"
+  },
+  {
+    "word": "jury",
+    "meaning": "陪審",
+    "example": "The jury reached a verdict.",
+    "example_jp": "陪審は評決に達した。"
+  },
+  {
+    "word": "legitimate",
+    "meaning": "正当な",
+    "example": "She made a legitimate claim.",
+    "example_jp": "彼女は正当な主張をした。"
+  },
+  {
+    "word": "legitimate",
+    "meaning": "合法の",
+    "example": "The business is legitimate.",
+    "example_jp": "そのビジネスは合法のものだ。"
+  },
+  {
+    "word": "enforce",
+    "meaning": "施行する",
+    "example": "The police enforce the law.",
+    "example_jp": "警察は法律を施行する。"
+  },
+  {
+    "word": "enforce",
+    "meaning": "強制する",
+    "example": "They enforced strict rules.",
+    "example_jp": "彼らは厳しい規則を強制した。"
+  },
+  {
+    "word": "regime",
+    "meaning": "政権，政治体制",
+    "example": "The regime collapsed.",
+    "example_jp": "その政権は崩壊した。"
+  },
+  {
+    "word": "bureaucracy",
+    "meaning": "官僚制度，官僚主義",
+    "example": "The country suffers from heavy bureaucracy.",
+    "example_jp": "その国は重い官僚制度に苦しんでいる。"
+  },
+  {
+    "word": "bureaucracy",
+    "meaning": "官僚",
+    "example": "The bureaucracy made the process slow.",
+    "example_jp": "官僚たちがプロセスを遅くした。"
+  },
+  {
+    "word": "corruption",
+    "meaning": "腐敗，汚職",
+    "example": "The scandal exposed corruption.",
+    "example_jp": "そのスキャンダルは汚職を露呈させた。"
+  },
+  {
+    "word": "tyranny",
+    "meaning": "圧政，専制政治",
+    "example": "The people suffered under tyranny.",
+    "example_jp": "人々は圧政の下で苦しんだ。"
+  },
+  {
+    "word": "tyranny",
+    "meaning": "暴虐",
+    "example": "His actions were pure tyranny.",
+    "example_jp": "彼の行動は純粋な暴虐だった。"
+  },
+  {
+    "word": "sanction",
+    "meaning": "制裁",
+    "example": "The country faced economic sanctions.",
+    "example_jp": "その国は経済制裁に直面した。"
+  },
+  {
+    "word": "sanction",
+    "meaning": "認可",
+    "example": "The plan received official sanction.",
+    "example_jp": "その計画は公式な認可を受けた。"
+  },
+  {
+    "word": "candidate",
+    "meaning": "候補者",
+    "example": "She is a candidate for the job.",
+    "example_jp": "彼女はその仕事の候補者だ。"
+  },
+  {
+    "word": "senator",
+    "meaning": "上院議員",
+    "example": "The senator spoke at the meeting.",
+    "example_jp": "その上院議員は会議で演説した。"
+  },
+  {
+    "word": "ambassador",
+    "meaning": "大使",
+    "example": "He is the Japanese ambassador.",
+    "example_jp": "彼は日本大使だ。"
+  },
+  {
+    "word": "diplomat",
+    "meaning": "外交官",
+    "example": "She works as a diplomat.",
+    "example_jp": "彼女は外交官として働いている。"
+  },
+  {
+    "word": "refugee",
+    "meaning": "難民",
+    "example": "Many refugees fled the war.",
+    "example_jp": "多くの難民が戦争から逃れた。"
+  },
+  {
+    "word": "ally",
+    "meaning": "同盟国，協力者",
+    "example": "The two nations are allies.",
+    "example_jp": "その2国は同盟国だ。"
+  },
+  {
+    "word": "ally",
+    "meaning": "提携する",
+    "example": "The company allied with a partner.",
+    "example_jp": "その会社はパートナーと提携した。"
+  },
+  {
+    "word": "reign",
+    "meaning": "統治",
+    "example": "His reign lasted 20 years.",
+    "example_jp": "彼の統治は20年間続いた。"
+  },
+  {
+    "word": "reign",
+    "meaning": "君臨する",
+    "example": "The king reigned peacefully.",
+    "example_jp": "その王は平和に君臨した。"
+  },
+  {
+    "word": "federal",
+    "meaning": "連邦の",
+    "example": "The federal government announced a plan.",
+    "example_jp": "連邦政府は計画を発表した。"
+  },
+  {
+    "word": "communist",
+    "meaning": "共産主義の",
+    "example": "They formed a communist party.",
+    "example_jp": "彼らは共産主義の政党を結成した。"
+  },
+  {
+    "word": "communist",
+    "meaning": "共産主義者",
+    "example": "He is a communist.",
+    "example_jp": "彼は共産主義者だ。"
+  },
+  {
+    "word": "municipal",
+    "meaning": "市の，地方自治の",
+    "example": "She works in municipal government.",
+    "example_jp": "彼女は地方自治体で働いている。"
+  },
+  {
+    "word": "estate",
+    "meaning": "財産",
+    "example": "He left his entire estate to his son.",
+    "example_jp": "彼は全財産を息子に残した。"
+  },
+  {
+    "word": "estate",
+    "meaning": "地所",
+    "example": "They bought a large estate.",
+    "example_jp": "彼らは広い地所を買った。"
+  },
+  {
+    "word": "asset",
+    "meaning": "財産，資産",
+    "example": "Land is a valuable asset.",
+    "example_jp": "土地は貴重な財産だ。"
+  },
+  {
+    "word": "revenue",
+    "meaning": "収益",
+    "example": "The company increased its revenue.",
+    "example_jp": "その会社は収益を増やした。"
+  },
+  {
+    "word": "deficit",
+    "meaning": "赤字",
+    "example": "The country faces a huge deficit.",
+    "example_jp": "その国は巨大な赤字に直面している。"
+  },
+  {
+    "word": "commerce",
+    "meaning": "商業",
+    "example": "The city depends on commerce.",
+    "example_jp": "その都市は商業に依存している。"
+  },
+  {
+    "word": "output",
+    "meaning": "生産高",
+    "example": "The factory increased its output.",
+    "example_jp": "その工場は生産高を増やした。"
+  },
+  {
+    "word": "output",
+    "meaning": "出力",
+    "example": "The engine has high output.",
+    "example_jp": "そのエンジンは高い出力を持っている。"
+  },
+  {
+    "word": "subsidy",
+    "meaning": "補助金",
+    "example": "The farmers received a subsidy.",
+    "example_jp": "農家は補助金を受け取った。"
+  },
+  {
+    "word": "transaction",
+    "meaning": "取り引き",
+    "example": "The transaction was completed.",
+    "example_jp": "その取り引きは完了した。"
+  },
+  {
+    "word": "bankrupt",
+    "meaning": "倒産した",
+    "example": "The company went bankrupt.",
+    "example_jp": "その会社は倒産した。"
+  },
+  {
+    "word": "monetary",
+    "meaning": "貨幣の",
+    "example": "They discussed monetary policy.",
+    "example_jp": "彼らは貨幣政策について話し合った。"
+  },
+  {
+    "word": "monetary",
+    "meaning": "金銭的な",
+    "example": "He gave monetary support.",
+    "example_jp": "彼は金銭的な支援を与えた。"
+  },
+  {
+    "word": "corporation",
+    "meaning": "企業，法人",
+    "example": "She works for a large corporation.",
+    "example_jp": "彼女は大企業で働いている。"
+  },
+  {
+    "word": "enterprise",
+    "meaning": "企業",
+    "example": "They started a new enterprise.",
+    "example_jp": "彼らは新しい企業を立ち上げた。"
+  },
+  {
+    "word": "enterprise",
+    "meaning": "冒険的な事業",
+    "example": "The trip was an enterprise.",
+    "example_jp": "その旅行は冒険的な事業だった。"
+  },
+  {
+    "word": "venture",
+    "meaning": "事業",
+    "example": "He started a new venture.",
+    "example_jp": "彼は新しい事業を始めた。"
+  },
+  {
+    "word": "venture",
+    "meaning": "危険を冒して行く",
+    "example": "They ventured into the forest.",
+    "example_jp": "彼らは危険を冒して森の中へ行った。"
+  },
+  {
+    "word": "headquarters",
+    "meaning": "本社，本部",
+    "example": "The headquarters is in Tokyo.",
+    "example_jp": "本社は東京にある。"
+  },
+  {
+    "word": "personnel",
+    "meaning": "全職員",
+    "example": "All personnel attended the meeting.",
+    "example_jp": "全職員が会議に出席した。"
+  },
+  {
+    "word": "personnel",
+    "meaning": "人事",
+    "example": "She works in personnel.",
+    "example_jp": "彼女は人事で働いている。"
+  },
+  {
+    "word": "entrepreneur",
+    "meaning": "起業家",
+    "example": "He is a young entrepreneur.",
+    "example_jp": "彼は若い起業家だ。"
+  },
+  {
+    "word": "predecessor",
+    "meaning": "前任者",
+    "example": "He replaced his predecessor.",
+    "example_jp": "彼は前任者の後を継いだ。"
+  },
+  {
+    "word": "toil",
+    "meaning": "骨折って働く",
+    "example": "He toiled all night.",
+    "example_jp": "彼は一晩中骨折って働いた。"
+  },
+  {
+    "word": "toil",
+    "meaning": "骨の折れる仕事",
+    "example": "It was hard toil.",
+    "example_jp": "それは骨の折れる仕事だった。"
+  },
+  {
+    "word": "undertake",
+    "meaning": "引き受ける，始める",
+    "example": "They undertook a new project.",
+    "example_jp": "彼らは新しいプロジェクトを引き受けた。"
+  },
+  {
+    "word": "merge",
+    "meaning": "合併する",
+    "example": "The two companies merged.",
+    "example_jp": "その2社は合併した。"
+  },
+  {
+    "word": "merge",
+    "meaning": "合併させる",
+    "example": "They merged the departments.",
+    "example_jp": "彼らは部門を合併させた。"
+  },
+  {
+    "word": "comprise",
+    "meaning": "～から成る",
+    "example": "The team comprises ten members.",
+    "example_jp": "そのチームは10人のメンバーから成る。"
+  },
+  {
+    "word": "comprise",
+    "meaning": "占める",
+    "example": "Women comprise 40% of the staff.",
+    "example_jp": "女性がスタッフの40%を占める。"
+  },
+  {
+    "word": "component",
+    "meaning": "構成要素，部品",
+    "example": "This part is a key component.",
+    "example_jp": "この部品は主要な構成要素だ。"
+  },
+  {
+    "word": "framework",
+    "meaning": "枠組",
+    "example": "They built a framework for the plan.",
+    "example_jp": "彼らはその計画の枠組を構築した。"
+  },
+  {
+    "word": "framework",
+    "meaning": "骨組み",
+    "example": "The building’s framework is strong.",
+    "example_jp": "その建物の骨組みは頑丈だ。"
+  },
+  {
+    "word": "prototype",
+    "meaning": "原型",
+    "example": "They built a prototype of the car.",
+    "example_jp": "彼らはその車の原型を作った。"
+  },
+  {
+    "word": "prototype",
+    "meaning": "試作品",
+    "example": "The company tested a prototype.",
+    "example_jp": "その会社は試作品をテストした。"
+  },
+  {
+    "word": "prototype",
+    "meaning": "典型",
+    "example": "He is the prototype of a hero.",
+    "example_jp": "彼は英雄の典型だ。"
+  },
+  {
+    "word": "dimension",
+    "meaning": "側面，要因，次元",
+    "example": "The problem has many dimensions.",
+    "example_jp": "その問題には多くの側面がある。"
+  },
+  {
+    "word": "dimension",
+    "meaning": "寸法，大きさ",
+    "example": "Measure the dimensions of the box.",
+    "example_jp": "箱の寸法を測りなさい。"
+  },
+  {
+    "word": "margin",
+    "meaning": "余白",
+    "example": "Write notes in the margin.",
+    "example_jp": "余白にメモを書きなさい。"
+  },
+  {
+    "word": "margin",
+    "meaning": "差",
+    "example": "He won by a small margin.",
+    "example_jp": "彼はわずかな差で勝った。"
+  },
+  {
+    "word": "margin",
+    "meaning": "端",
+    "example": "She stood at the margin of the field.",
+    "example_jp": "彼女は野原の端に立っていた。"
+  },
+  {
+    "word": "excel",
+    "meaning": "優れている",
+    "example": "She excels in math.",
+    "example_jp": "彼女は数学で優れている。"
+  },
+  {
+    "word": "contradict",
+    "meaning": "矛盾する",
+    "example": "His words contradict the facts.",
+    "example_jp": "彼の言葉は事実に矛盾する。"
+  },
+  {
+    "word": "contradict",
+    "meaning": "反論する",
+    "example": "She contradicted his claim.",
+    "example_jp": "彼女は彼の主張に反論した。"
+  },
+  {
+    "word": "consensus",
+    "meaning": "合意，総意",
+    "example": "They reached a consensus.",
+    "example_jp": "彼らは合意に達した。"
+  },
+  {
+    "word": "converse",
+    "meaning": "正反対",
+    "example": "The two ideas are the converse.",
+    "example_jp": "その2つの考えは正反対だ。"
+  },
+  {
+    "word": "converse",
+    "meaning": "正反対の",
+    "example": "This is the converse case.",
+    "example_jp": "これは正反対のケースだ。"
+  },
+  {
+    "word": "converse",
+    "meaning": "会話する",
+    "example": "He conversed with his friend.",
+    "example_jp": "彼は友人と会話した。"
+  }
+]

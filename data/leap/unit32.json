@@ -1,0 +1,458 @@
+[
+  {
+    "word": "inequality",
+    "meaning": "不平等",
+    "example": "Economic inequality is a major issue.",
+    "example_jp": "経済的不平等は大きな問題だ。"
+  },
+  {
+    "word": "equivalent",
+    "meaning": "等しい",
+    "example": "Ten dollars is equivalent to about 1500 yen.",
+    "example_jp": "10ドルは約1500円に等しい。"
+  },
+  {
+    "word": "equivalent",
+    "meaning": "同等のもの",
+    "example": "This is the equivalent of a diploma.",
+    "example_jp": "これは卒業証書と同等のものだ。"
+  },
+  {
+    "word": "compatible",
+    "meaning": "適合する，互換性がある",
+    "example": "This software is compatible with Windows.",
+    "example_jp": "このソフトウェアはWindowsと互換性がある。"
+  },
+  {
+    "word": "identical",
+    "meaning": "同一の，うり二つの",
+    "example": "The twins look identical.",
+    "example_jp": "その双子はうり二つに見える。"
+  },
+  {
+    "word": "correspond",
+    "meaning": "一致する",
+    "example": "The results correspond to our expectations.",
+    "example_jp": "結果は私たちの期待に一致する。"
+  },
+  {
+    "word": "correspond",
+    "meaning": "やりとりをする",
+    "example": "They correspond by email.",
+    "example_jp": "彼らはメールでやりとりをする。"
+  },
+  {
+    "word": "random",
+    "meaning": "無作為の，でたらめの",
+    "example": "The samples were chosen at random.",
+    "example_jp": "サンプルは無作為に選ばれた。"
+  },
+  {
+    "word": "warrior",
+    "meaning": "戦士",
+    "example": "He fought like a brave warrior.",
+    "example_jp": "彼は勇敢な戦士のように戦った。"
+  },
+  {
+    "word": "assault",
+    "meaning": "襲撃，暴行",
+    "example": "He was arrested for assault.",
+    "example_jp": "彼は暴行罪で逮捕された。"
+  },
+  {
+    "word": "troop",
+    "meaning": "軍隊",
+    "example": "The troops moved forward.",
+    "example_jp": "軍隊は前進した。"
+  },
+  {
+    "word": "shield",
+    "meaning": "盾，防御物",
+    "example": "The wall acted as a shield against the wind.",
+    "example_jp": "その壁は風に対する防御物として機能した。"
+  },
+  {
+    "word": "torture",
+    "meaning": "拷問",
+    "example": "The prisoner suffered torture.",
+    "example_jp": "囚人は拷問に苦しんだ。"
+  },
+  {
+    "word": "torture",
+    "meaning": "辛いこと",
+    "example": "Waiting was pure torture.",
+    "example_jp": "待つことは純粋に辛いことだった。"
+  },
+  {
+    "word": "torture",
+    "meaning": "拷問にかける",
+    "example": "They tortured the captives.",
+    "example_jp": "彼らは捕虜を拷問にかけた。"
+  },
+  {
+    "word": "dispute",
+    "meaning": "論争，紛争",
+    "example": "They had a dispute over money.",
+    "example_jp": "彼らはお金をめぐって論争をした。"
+  },
+  {
+    "word": "dispute",
+    "meaning": "異議を唱える",
+    "example": "He disputed the claim.",
+    "example_jp": "彼はその主張に異議を唱えた。"
+  },
+  {
+    "word": "combat",
+    "meaning": "戦闘",
+    "example": "The soldiers entered combat.",
+    "example_jp": "兵士たちは戦闘に入った。"
+  },
+  {
+    "word": "combat",
+    "meaning": "戦う",
+    "example": "We must combat climate change.",
+    "example_jp": "私たちは気候変動と戦わなければならない。"
+  },
+  {
+    "word": "tactics",
+    "meaning": "戦術",
+    "example": "They discussed military tactics.",
+    "example_jp": "彼らは軍事戦術について話し合った。"
+  },
+  {
+    "word": "quarrel",
+    "meaning": "口論する",
+    "example": "He quarreled with his brother.",
+    "example_jp": "彼は兄弟と口論した。"
+  },
+  {
+    "word": "quarrel",
+    "meaning": "口論",
+    "example": "They had a quarrel.",
+    "example_jp": "彼らは口論をした。"
+  },
+  {
+    "word": "contend",
+    "meaning": "戦う",
+    "example": "They contended with many problems.",
+    "example_jp": "彼らは多くの問題と戦った。"
+  },
+  {
+    "word": "contend",
+    "meaning": "主張する",
+    "example": "He contended that he was innocent.",
+    "example_jp": "彼は自分が無実であると主張した。"
+  },
+  {
+    "word": "slaughter",
+    "meaning": "虐殺する",
+    "example": "The army slaughtered the villagers.",
+    "example_jp": "軍隊は村人たちを虐殺した。"
+  },
+  {
+    "word": "suppress",
+    "meaning": "鎮圧する",
+    "example": "The army suppressed the rebellion.",
+    "example_jp": "軍隊は反乱を鎮圧した。"
+  },
+  {
+    "word": "suppress",
+    "meaning": "抑える",
+    "example": "She suppressed her anger.",
+    "example_jp": "彼女は怒りを抑えた。"
+  },
+  {
+    "word": "surrender",
+    "meaning": "降伏する",
+    "example": "They surrendered to the enemy.",
+    "example_jp": "彼らは敵に降伏した。"
+  },
+  {
+    "word": "surrender",
+    "meaning": "引き渡す",
+    "example": "He surrendered the documents.",
+    "example_jp": "彼は書類を引き渡した。"
+  },
+  {
+    "word": "hostile",
+    "meaning": "敵意のある",
+    "example": "He gave me a hostile look.",
+    "example_jp": "彼は私を敵意のある目で見た。"
+  },
+  {
+    "word": "hostile",
+    "meaning": "敵の",
+    "example": "They entered hostile territory.",
+    "example_jp": "彼らは敵の領土に入った。"
+  },
+  {
+    "word": "hostile",
+    "meaning": "厳しい",
+    "example": "The desert is a hostile environment.",
+    "example_jp": "砂漠は厳しい環境だ。"
+  },
+  {
+    "word": "wreck",
+    "meaning": "残骸",
+    "example": "The car was a wreck after the crash.",
+    "example_jp": "その車は衝突後、残骸となった。"
+  },
+  {
+    "word": "wreck",
+    "meaning": "ボロボロの人",
+    "example": "He became a nervous wreck.",
+    "example_jp": "彼は精神的にボロボロの人になった。"
+  },
+  {
+    "word": "toll",
+    "meaning": "犠牲者数，被害",
+    "example": "The accident took a heavy toll.",
+    "example_jp": "その事故は大きな被害をもたらした。"
+  },
+  {
+    "word": "toll",
+    "meaning": "通行料",
+    "example": "You must pay a toll to use the road.",
+    "example_jp": "その道路を使うには通行料を払わなければならない。"
+  },
+  {
+    "word": "toll",
+    "meaning": "通話料",
+    "example": "The toll for the call was high.",
+    "example_jp": "その電話の通話料は高かった。"
+  },
+  {
+    "word": "disrupt",
+    "meaning": "かき乱す",
+    "example": "The strike disrupted traffic.",
+    "example_jp": "ストライキが交通をかき乱した。"
+  },
+  {
+    "word": "interfere",
+    "meaning": "邪魔する，干渉する",
+    "example": "Noise interferes with my sleep.",
+    "example_jp": "騒音が私の睡眠を邪魔する。"
+  },
+  {
+    "word": "confront",
+    "meaning": "立ちふさがる",
+    "example": "A big problem confronted him.",
+    "example_jp": "大きな問題が彼の前に立ちふさがった。"
+  },
+  {
+    "word": "confront",
+    "meaning": "直面する，立ち向かう",
+    "example": "She confronted the challenge.",
+    "example_jp": "彼女はその困難に立ち向かった。"
+  },
+  {
+    "word": "explode",
+    "meaning": "爆発する",
+    "example": "The bomb exploded.",
+    "example_jp": "爆弾が爆発した。"
+  },
+  {
+    "word": "explode",
+    "meaning": "爆発的に増加する",
+    "example": "The population exploded.",
+    "example_jp": "人口が爆発的に増加した。"
+  },
+  {
+    "word": "collide",
+    "meaning": "衝突する",
+    "example": "The car collided with a truck.",
+    "example_jp": "車がトラックと衝突した。"
+  },
+  {
+    "word": "nephew",
+    "meaning": "甥",
+    "example": "My nephew is five years old.",
+    "example_jp": "私の甥は5歳だ。"
+  },
+  {
+    "word": "infant",
+    "meaning": "幼児",
+    "example": "The infant is learning to stand.",
+    "example_jp": "その幼児は立つのを学んでいるところだ。"
+  },
+  {
+    "word": "spouse",
+    "meaning": "配偶者",
+    "example": "He came with his spouse.",
+    "example_jp": "彼は配偶者と一緒に来た。"
+  },
+  {
+    "word": "heir",
+    "meaning": "相続人，後継者",
+    "example": "He is the heir to the throne.",
+    "example_jp": "彼は王位の継承者だ。"
+  },
+  {
+    "word": "folk",
+    "meaning": "人々",
+    "example": "Folk gathered in the square.",
+    "example_jp": "人々が広場に集まった。"
+  },
+  {
+    "word": "folk",
+    "meaning": "民間の",
+    "example": "Folk music is popular.",
+    "example_jp": "民間音楽は人気がある。"
+  },
+  {
+    "word": "peer",
+    "meaning": "同等の人，同輩",
+    "example": "He talked with his peers.",
+    "example_jp": "彼は同輩たちと話した。"
+  },
+  {
+    "word": "peer",
+    "meaning": "じっと見る",
+    "example": "She peered into the darkness.",
+    "example_jp": "彼女は暗闇をじっと見た。"
+  },
+  {
+    "word": "recipient",
+    "meaning": "受け取る人，被移植者",
+    "example": "She was the recipient of the award.",
+    "example_jp": "彼女はその賞の受賞者だった。"
+  },
+  {
+    "word": "navigate",
+    "meaning": "進路を決める",
+    "example": "They navigated by the stars.",
+    "example_jp": "彼らは星を頼りに進路を決めた。"
+  },
+  {
+    "word": "navigate",
+    "meaning": "克服して進む，航行する",
+    "example": "The ship navigated the rough sea.",
+    "example_jp": "船は荒波を克服して進んだ。"
+  },
+  {
+    "word": "flee",
+    "meaning": "逃亡する",
+    "example": "They fled from the city.",
+    "example_jp": "彼らは都市から逃亡した。"
+  },
+  {
+    "word": "retreat",
+    "meaning": "退く",
+    "example": "The army retreated.",
+    "example_jp": "軍隊は退いた。"
+  },
+  {
+    "word": "retreat",
+    "meaning": "撤退，退却",
+    "example": "The retreat was orderly.",
+    "example_jp": "その撤退は秩序立っていた。"
+  },
+  {
+    "word": "crawl",
+    "meaning": "這って進む",
+    "example": "The baby crawled across the floor.",
+    "example_jp": "赤ちゃんが床を這って進んだ。"
+  },
+  {
+    "word": "crawl",
+    "meaning": "這うように進む",
+    "example": "Traffic crawled along the road.",
+    "example_jp": "交通は道路を這うように進んでいた。"
+  },
+  {
+    "word": "hover",
+    "meaning": "空中にとどまる",
+    "example": "The bird hovered in the air.",
+    "example_jp": "鳥が空中にとどまっていた。"
+  },
+  {
+    "word": "hover",
+    "meaning": "うろつく，さまよう",
+    "example": "He hovered around the entrance.",
+    "example_jp": "彼は入口のあたりをうろついた。"
+  },
+  {
+    "word": "drift",
+    "meaning": "漂う",
+    "example": "The boat drifted away.",
+    "example_jp": "ボートは漂い去った。"
+  },
+  {
+    "word": "alter",
+    "meaning": "変える",
+    "example": "They altered the plan.",
+    "example_jp": "彼らは計画を変えた。"
+  },
+  {
+    "word": "convert",
+    "meaning": "AをBに転換する",
+    "example": "They converted A into B.",
+    "example_jp": "彼らはAをBに転換した。"
+  },
+  {
+    "word": "convert",
+    "meaning": "改宗させる",
+    "example": "He converted to another religion.",
+    "example_jp": "彼は別の宗教に改宗した。"
+  },
+  {
+    "word": "overtake",
+    "meaning": "追い越す",
+    "example": "The car overtook the truck.",
+    "example_jp": "車がトラックを追い越した。"
+  },
+  {
+    "word": "dispatch",
+    "meaning": "派遣する，送る",
+    "example": "They dispatched troops to the area.",
+    "example_jp": "彼らはその地域に軍隊を派遣した。"
+  },
+  {
+    "word": "shrink",
+    "meaning": "縮む",
+    "example": "The shirt shrank in the wash.",
+    "example_jp": "そのシャツは洗濯で縮んだ。"
+  },
+  {
+    "word": "shrink",
+    "meaning": "減る",
+    "example": "Sales shrank last year.",
+    "example_jp": "昨年の売上は減った。"
+  },
+  {
+    "word": "shrink",
+    "meaning": "縮ませる，減らす",
+    "example": "Hot water shrank the fabric.",
+    "example_jp": "熱湯が布地を縮ませた。"
+  },
+  {
+    "word": "wither",
+    "meaning": "しおれる，しぼむ",
+    "example": "The flowers withered.",
+    "example_jp": "花がしおれた。"
+  },
+  {
+    "word": "descend",
+    "meaning": "降下する",
+    "example": "The plane began to descend.",
+    "example_jp": "飛行機は降下し始めた。"
+  },
+  {
+    "word": "accelerate",
+    "meaning": "加速する",
+    "example": "They accelerated the process.",
+    "example_jp": "彼らはプロセスを加速させた。"
+  },
+  {
+    "word": "fluctuate",
+    "meaning": "変動する",
+    "example": "Prices fluctuate daily.",
+    "example_jp": "価格は毎日変動する。"
+  },
+  {
+    "word": "distort",
+    "meaning": "歪める",
+    "example": "The lens distorted the image.",
+    "example_jp": "レンズが画像を歪めた。"
+  }
+]

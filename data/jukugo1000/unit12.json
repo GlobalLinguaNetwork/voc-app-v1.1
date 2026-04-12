@@ -1,0 +1,416 @@
+[
+  {
+    "word": "be subject to",
+    "meaning": "～を受けやすい、～に服従している",
+    "example": "Prices are subject to change.",
+    "example_jp": "価格は変更を受けやすい。"
+  },
+  {
+    "word": "be superior to",
+    "meaning": "～より優れている",
+    "example": "This model is superior to the old one.",
+    "example_jp": "このモデルは古いものより優れている。"
+  },
+  {
+    "word": "be sensitive to",
+    "meaning": "～に敏感である",
+    "example": "She is sensitive to noise.",
+    "example_jp": "彼女は騒音に敏感である。"
+  },
+  {
+    "word": "be accustomed to",
+    "meaning": "～に慣れている",
+    "example": "He is accustomed to hard work.",
+    "example_jp": "彼は重労働に慣れている。"
+  },
+  {
+    "word": "be contrary to",
+    "meaning": "～に反している",
+    "example": "His actions are contrary to the rules.",
+    "example_jp": "彼の行動は規則に反している。"
+  },
+  {
+    "word": "be indifferent to",
+    "meaning": "～に無関心である",
+    "example": "He is indifferent to politics.",
+    "example_jp": "彼は政治に無関心である。"
+  },
+  {
+    "word": "be indifferent toward",
+    "meaning": "～に無関心である",
+    "example": "She is indifferent toward the news.",
+    "example_jp": "彼女はそのニュースに無関心である。"
+  },
+  {
+    "word": "be preferable to",
+    "meaning": "～より好ましい",
+    "example": "This method is preferable to the other.",
+    "example_jp": "この方法は他方の方法より好ましい。"
+  },
+  {
+    "word": "be dedicated to",
+    "meaning": "～に打ち込んでいる",
+    "example": "She is dedicated to her work.",
+    "example_jp": "彼女は仕事に打ち込んでいる。"
+  },
+  {
+    "word": "be peculiar to",
+    "meaning": "～に特有である",
+    "example": "This custom is peculiar to Japan.",
+    "example_jp": "この習慣は日本に特有である。"
+  },
+  {
+    "word": "be prone to",
+    "meaning": "～になりやすい",
+    "example": "He is prone to colds.",
+    "example_jp": "彼は風邪になりやすい。"
+  },
+  {
+    "word": "be identical to",
+    "meaning": "～と同じである",
+    "example": "His answer is identical to mine.",
+    "example_jp": "彼の答えは私のものと同じである。"
+  },
+  {
+    "word": "be identical with",
+    "meaning": "～と同一である",
+    "example": "This key is identical with that one.",
+    "example_jp": "この鍵はあの鍵と同一である。"
+  },
+  {
+    "word": "be involved in",
+    "meaning": "～に携わっている、関係している",
+    "example": "He is involved in the project.",
+    "example_jp": "彼はそのプロジェクトに携わっている。"
+  },
+  {
+    "word": "be absorbed in",
+    "meaning": "～に熱中している",
+    "example": "She was absorbed in the book.",
+    "example_jp": "彼女はその本に熱中していた。"
+  },
+  {
+    "word": "be lacking in",
+    "meaning": "～に欠けている",
+    "example": "The plan is lacking in detail.",
+    "example_jp": "その計画は詳細に欠けている。"
+  },
+  {
+    "word": "be versed in",
+    "meaning": "～に精通している",
+    "example": "He is well versed in history.",
+    "example_jp": "彼は歴史に精通している。"
+  },
+  {
+    "word": "be abundant in",
+    "meaning": "～が豊富である",
+    "example": "The area is abundant in water.",
+    "example_jp": "その地域は水が豊富である。"
+  },
+  {
+    "word": "be busy with",
+    "meaning": "～で忙しい",
+    "example": "She is busy with work.",
+    "example_jp": "彼女は仕事で忙しい。"
+  },
+  {
+    "word": "be popular with",
+    "meaning": "～に人気がある",
+    "example": "The singer is popular with teens.",
+    "example_jp": "その歌手は10代に人気がある。"
+  },
+  {
+    "word": "be popular among",
+    "meaning": "～に人気がある",
+    "example": "This game is popular among kids.",
+    "example_jp": "このゲームは子供たちの間に人気がある。"
+  },
+  {
+    "word": "be equipped with",
+    "meaning": "～を備えている",
+    "example": "The room is equipped with Wi-Fi.",
+    "example_jp": "その部屋はWi-Fiを備えている。"
+  },
+  {
+    "word": "be content with",
+    "meaning": "～に満足している",
+    "example": "He is content with his life.",
+    "example_jp": "彼は自分の生活に満足している。"
+  },
+  {
+    "word": "be contented with",
+    "meaning": "～に満足している",
+    "example": "She is contented with the result.",
+    "example_jp": "彼女はその結果に満足している。"
+  },
+  {
+    "word": "be confronted with",
+    "meaning": "～に直面している",
+    "example": "We were confronted with a problem.",
+    "example_jp": "私たちは問題に直面した。"
+  },
+  {
+    "word": "be confronted by",
+    "meaning": "～に直面している",
+    "example": "He was confronted by danger.",
+    "example_jp": "彼は危険に直面した。"
+  },
+  {
+    "word": "be acquainted with",
+    "meaning": "～と知り合いである",
+    "example": "I am acquainted with her.",
+    "example_jp": "私は彼女と知り合いである。"
+  },
+  {
+    "word": "be acquainted with",
+    "meaning": "～に精通している",
+    "example": "He is well acquainted with the topic.",
+    "example_jp": "彼はそのトピックに精通している。"
+  },
+  {
+    "word": "be characteristic of",
+    "meaning": "～に特有である",
+    "example": "This style is characteristic of him.",
+    "example_jp": "このスタイルは彼に特有である。"
+  },
+  {
+    "word": "be worthy of",
+    "meaning": "～に値する",
+    "example": "His idea is worthy of praise.",
+    "example_jp": "彼の考えは称賛に値する。"
+  },
+  {
+    "word": "be ignorant of",
+    "meaning": "～を知らない",
+    "example": "He is ignorant of the facts.",
+    "example_jp": "彼は事実を知らない。"
+  },
+  {
+    "word": "be confident of",
+    "meaning": "～を確信している",
+    "example": "She is confident of success.",
+    "example_jp": "彼女は成功を確信している。"
+  },
+  {
+    "word": "be confident about",
+    "meaning": "～を確信している",
+    "example": "I am confident about the result.",
+    "example_jp": "私はその結果を確信している。"
+  },
+  {
+    "word": "be considerate of",
+    "meaning": "～に思いやりがある",
+    "example": "She is considerate of others.",
+    "example_jp": "彼女は他人に対して思いやりがある。"
+  },
+  {
+    "word": "be considerate to",
+    "meaning": "～に思いやりがある",
+    "example": "He is considerate to his parents.",
+    "example_jp": "彼は両親に対して思いやりがある。"
+  },
+  {
+    "word": "be guilty of",
+    "meaning": "～について有罪である",
+    "example": "He was guilty of the crime.",
+    "example_jp": "彼はその罪について有罪であった。"
+  },
+  {
+    "word": "be convinced of",
+    "meaning": "～を確信している",
+    "example": "I am convinced of his honesty.",
+    "example_jp": "私は彼の正直さを確信している。"
+  },
+  {
+    "word": "be tolerant of",
+    "meaning": "～に寛大である",
+    "example": "She is tolerant of mistakes.",
+    "example_jp": "彼女は間違いに寛大である。"
+  },
+  {
+    "word": "be wary of",
+    "meaning": "～に用心深い",
+    "example": "Be wary of strangers.",
+    "example_jp": "知らない人には用心深くしなさい。"
+  },
+  {
+    "word": "be suitable for",
+    "meaning": "～に適している",
+    "example": "This movie is suitable for kids.",
+    "example_jp": "この映画は子供に適している。"
+  },
+  {
+    "word": "be suitable to",
+    "meaning": "～に適している",
+    "example": "The job is suitable to him.",
+    "example_jp": "その仕事は彼に適している。"
+  },
+  {
+    "word": "be grateful for",
+    "meaning": "Bのことで感謝している",
+    "example": "I am grateful for your help.",
+    "example_jp": "私はあなたの助けに感謝している。"
+  },
+  {
+    "word": "be grateful to A for B",
+    "meaning": "BのことでAに感謝している",
+    "example": "I am grateful to you for your advice.",
+    "example_jp": "私はあなたのアドバイスのことであなたに感謝している。"
+  },
+  {
+    "word": "be particular about",
+    "meaning": "～についてやかましい",
+    "example": "She is particular about food.",
+    "example_jp": "彼女は食べ物についてやかましい。"
+  },
+  {
+    "word": "be particular over",
+    "meaning": "～についてやかましい",
+    "example": "He is particular over details.",
+    "example_jp": "彼は細部についてやかましい。"
+  },
+  {
+    "word": "come down with",
+    "meaning": "（病気）にかかる",
+    "example": "He came down with a cold.",
+    "example_jp": "彼は風邪にかかった。"
+  },
+  {
+    "word": "come into being",
+    "meaning": "出現する、生まれ出る",
+    "example": "A new law came into being.",
+    "example_jp": "新しい法律が出現した。"
+  },
+  {
+    "word": "come into existence",
+    "meaning": "出現する、生まれ出る",
+    "example": "The group came into existence in 1990.",
+    "example_jp": "そのグループは1990年に出現した。"
+  },
+  {
+    "word": "come true",
+    "meaning": "実現する",
+    "example": "His dream came true.",
+    "example_jp": "彼の夢が実現した。"
+  },
+  {
+    "word": "do good",
+    "meaning": "（人）のためになる",
+    "example": "Exercise will do you good.",
+    "example_jp": "運動はあなたのためになるだろう。"
+  },
+  {
+    "word": "get in touch with",
+    "meaning": "連絡を取る",
+    "example": "I got in touch with him.",
+    "example_jp": "私は彼と連絡を取った。"
+  },
+  {
+    "word": "go blind",
+    "meaning": "失明する",
+    "example": "He went blind after the accident.",
+    "example_jp": "彼はその事故のあと失明した。"
+  },
+  {
+    "word": "have A in common with B",
+    "meaning": "Bと共通にAを持つ",
+    "example": "I have many things in common with him.",
+    "example_jp": "私は彼と共通に多くのことを持つ。"
+  },
+  {
+    "word": "keep ～ in mind",
+    "meaning": "～を心に留めておく",
+    "example": "Keep this rule in mind.",
+    "example_jp": "この規則を心に留めておきなさい。"
+  },
+  {
+    "word": "bear ～ in mind",
+    "meaning": "～を心に留めておく",
+    "example": "Bear my words in mind.",
+    "example_jp": "私の言葉を心に留めておきなさい。"
+  },
+  {
+    "word": "look back on",
+    "meaning": "～を回顧する",
+    "example": "We looked back on our school days.",
+    "example_jp": "私たちは学生時代を回顧した。"
+  },
+  {
+    "word": "look back upon",
+    "meaning": "～を回想する",
+    "example": "She looked back upon her life.",
+    "example_jp": "彼女は自分の人生を回想した。"
+  },
+  {
+    "word": "look back to",
+    "meaning": "～を回想する",
+    "example": "He looked back to his childhood.",
+    "example_jp": "彼は自分の子供時代を回想した。"
+  },
+  {
+    "word": "make it",
+    "meaning": "成功する",
+    "example": "He made it to the top.",
+    "example_jp": "彼は頂点に上り詰めることに成功した。"
+  },
+  {
+    "word": "make it",
+    "meaning": "間に合う",
+    "example": "We made it on time.",
+    "example_jp": "私たちは時間に間に合った。"
+  },
+  {
+    "word": "make it",
+    "meaning": "出席する",
+    "example": "I can’t make it today.",
+    "example_jp": "私は今日、出席できない。"
+  },
+  {
+    "word": "put into practice",
+    "meaning": "～を実行する",
+    "example": "We put the plan into practice.",
+    "example_jp": "私たちはその計画を実行した。"
+  },
+  {
+    "word": "put into operation",
+    "meaning": "～を実施する",
+    "example": "The system was put into operation.",
+    "example_jp": "そのシステムが実施された。"
+  },
+  {
+    "word": "sign up for",
+    "meaning": "～に申し込む",
+    "example": "I signed up for the class.",
+    "example_jp": "私はそのクラスに申し込んだ。"
+  },
+  {
+    "word": "take ～ by surprise",
+    "meaning": "～を驚かす",
+    "example": "The news took me by surprise.",
+    "example_jp": "そのニュースは私を驚かした。"
+  },
+  {
+    "word": "in terms of",
+    "meaning": "～の観点から",
+    "example": "In terms of cost, this is better.",
+    "example_jp": "コストの観点から、こちらのほうが良い。"
+  },
+  {
+    "word": "in contrast to",
+    "meaning": "～と対照して",
+    "example": "His idea is in contrast to mine.",
+    "example_jp": "彼の考えは私のものと対照している。"
+  },
+  {
+    "word": "in contrast with",
+    "meaning": "～と対照して",
+    "example": "The red stands in contrast with the blue.",
+    "example_jp": "赤は青と対照をなしている。"
+  },
+  {
+    "word": "in danger of",
+    "meaning": "～の危険があって",
+    "example": "The island is in danger of flooding.",
+    "example_jp": "その島は洪水になる危険がある。"
+  }
+]

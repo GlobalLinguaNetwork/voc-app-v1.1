@@ -1,0 +1,302 @@
+[
+  {
+    "word": "citizen",
+    "meaning": "市民",
+    "example": "He is a Japanese citizen.",
+    "example_jp": "彼は日本の市民です。"
+  },
+  {
+    "word": "impression",
+    "meaning": "印象",
+    "example": "She made a good impression.",
+    "example_jp": "彼女は良い印象を与えた。"
+  },
+  {
+    "word": "cartoon",
+    "meaning": "マンガ",
+    "example": "I like this cartoon.",
+    "example_jp": "私はこのマンガが好きだ。"
+  },
+  {
+    "word": "career",
+    "meaning": "経歴",
+    "example": "He has a long career.",
+    "example_jp": "彼は長い経歴がある。"
+  },
+  {
+    "word": "site",
+    "meaning": "用地",
+    "example": "This is a building site.",
+    "example_jp": "ここは建設用地です。"
+  },
+  {
+    "word": "passenger",
+    "meaning": "乗客",
+    "example": "The passengers got off.",
+    "example_jp": "乗客たちは降りた。"
+  },
+  {
+    "word": "violence",
+    "meaning": "暴力",
+    "example": "Violence must stop.",
+    "example_jp": "暴力はやめなければならない。"
+  },
+  {
+    "word": "income",
+    "meaning": "所得",
+    "example": "His income is high.",
+    "example_jp": "彼の所得は高い。"
+  },
+  {
+    "word": "temperature",
+    "meaning": "気温",
+    "example": "The temperature dropped.",
+    "example_jp": "気温が下がった。"
+  },
+  {
+    "word": "majority",
+    "meaning": "大多数",
+    "example": "The majority agreed.",
+    "example_jp": "大多数が賛成した。"
+  },
+  {
+    "word": "origin",
+    "meaning": "起源",
+    "example": "The origin of the word is Latin.",
+    "example_jp": "その語の起源はラテン語だ。"
+  },
+  {
+    "word": "literature",
+    "meaning": "文学",
+    "example": "He studies literature.",
+    "example_jp": "彼は文学を勉強している。"
+  },
+  {
+    "word": "equipment",
+    "meaning": "設備",
+    "example": "We need more equipment.",
+    "example_jp": "私たちはもっと設備が必要だ。"
+  },
+  {
+    "word": "stranger",
+    "meaning": "見知らぬ人",
+    "example": "I talked to a stranger.",
+    "example_jp": "私は見知らぬ人と話した。"
+  },
+  {
+    "word": "strength",
+    "meaning": "強さ",
+    "example": "He has great strength.",
+    "example_jp": "彼は大きな強さを持っている。"
+  },
+  {
+    "word": "planet",
+    "meaning": "惑星",
+    "example": "Earth is a planet.",
+    "example_jp": "地球は惑星だ。"
+  },
+  {
+    "word": "fiction",
+    "meaning": "小説",
+    "example": "I enjoy reading fiction.",
+    "example_jp": "私は小説を読むのが好きだ。"
+  },
+  {
+    "word": "religion",
+    "meaning": "宗教",
+    "example": "She studies religion.",
+    "example_jp": "彼女は宗教を学んでいる。"
+  },
+  {
+    "word": "pollution",
+    "meaning": "汚染",
+    "example": "Pollution is a big problem.",
+    "example_jp": "汚染は大きな問題だ。"
+  },
+  {
+    "word": "wealth",
+    "meaning": "富",
+    "example": "He has great wealth.",
+    "example_jp": "彼は多大な富を持っている。"
+  },
+  {
+    "word": "document",
+    "meaning": "文書",
+    "example": "I read the document.",
+    "example_jp": "私はその文書を読んだ。"
+  },
+  {
+    "word": "profit",
+    "meaning": "もうけ",
+    "example": "The company made a profit.",
+    "example_jp": "その会社は利益を出した。"
+  },
+  {
+    "word": "technique",
+    "meaning": "技術",
+    "example": "This technique is useful.",
+    "example_jp": "この技術は役に立つ。"
+  },
+  {
+    "word": "emotion",
+    "meaning": "感情",
+    "example": "She showed no emotion.",
+    "example_jp": "彼女は感情を見せなかった。"
+  },
+  {
+    "word": "phenomenon",
+    "meaning": "現象",
+    "example": "It is a rare phenomenon.",
+    "example_jp": "それは珍しい現象だ。"
+  },
+  {
+    "word": "horror",
+    "meaning": "恐怖",
+    "example": "The movie was full of horror.",
+    "example_jp": "その映画は恐怖に満ちていた。"
+  },
+  {
+    "word": "ladder",
+    "meaning": "はしご",
+    "example": "He climbed the ladder.",
+    "example_jp": "彼ははしごを登った。"
+  },
+  {
+    "word": "billion",
+    "meaning": "十億",
+    "example": "The company lost a billion yen.",
+    "example_jp": "その会社は十億円を失った。"
+  },
+  {
+    "word": "status",
+    "meaning": "地位",
+    "example": "His status is high.",
+    "example_jp": "彼の地位は高い。"
+  },
+  {
+    "word": "youth",
+    "meaning": "若者",
+    "example": "The youth gathered in the park.",
+    "example_jp": "若者たちが公園に集まった。"
+  },
+  {
+    "word": "confidence",
+    "meaning": "自信",
+    "example": "She has confidence.",
+    "example_jp": "彼女は自信がある。"
+  },
+  {
+    "word": "edge",
+    "meaning": "周辺",
+    "example": "He stood at the edge.",
+    "example_jp": "彼は端に立っていた。"
+  },
+  {
+    "word": "household",
+    "meaning": "家庭",
+    "example": "Each household has a TV.",
+    "example_jp": "各家庭にテレビがある。"
+  },
+  {
+    "word": "scholar",
+    "meaning": "学者",
+    "example": "He is a famous scholar.",
+    "example_jp": "彼は有名な学者だ。"
+  },
+  {
+    "word": "survey",
+    "meaning": "調査",
+    "example": "We did a survey.",
+    "example_jp": "私たちは調査を行った。"
+  },
+  {
+    "word": "vocabulary",
+    "meaning": "語彙",
+    "example": "I study English vocabulary.",
+    "example_jp": "私は英語の語彙を勉強している。"
+  },
+  {
+    "word": "enemy",
+    "meaning": "敵",
+    "example": "They fought the enemy.",
+    "example_jp": "彼らは敵と戦った。"
+  },
+  {
+    "word": "construction",
+    "meaning": "建設",
+    "example": "Construction began today.",
+    "example_jp": "建設が今日始まった。"
+  },
+  {
+    "word": "lecture",
+    "meaning": "講義",
+    "example": "I attended a lecture.",
+    "example_jp": "私は講義に出席した。"
+  },
+  {
+    "word": "instruction",
+    "meaning": "指示",
+    "example": "Follow the instructions.",
+    "example_jp": "指示に従ってください。"
+  },
+  {
+    "word": "crisis",
+    "meaning": "危機",
+    "example": "The country faced a crisis.",
+    "example_jp": "その国は危機に直面した。"
+  },
+  {
+    "word": "instrument",
+    "meaning": "器具",
+    "example": "He played the instrument.",
+    "example_jp": "彼はその器具を使った。"
+  },
+  {
+    "word": "crop",
+    "meaning": "作物",
+    "example": "The crops grew well.",
+    "example_jp": "作物はよく育った。"
+  },
+  {
+    "word": "weapon",
+    "meaning": "兵器",
+    "example": "They found a weapon.",
+    "example_jp": "彼らは兵器を見つけた。"
+  },
+  {
+    "word": "device",
+    "meaning": "装置",
+    "example": "This device is new.",
+    "example_jp": "この装置は新しい。"
+  },
+  {
+    "word": "path",
+    "meaning": "道",
+    "example": "We walked on the path.",
+    "example_jp": "私たちはその道を歩いた。"
+  },
+  {
+    "word": "earthquake",
+    "meaning": "地震",
+    "example": "The earthquake was strong.",
+    "example_jp": "地震は強かった。"
+  },
+  {
+    "word": "stream",
+    "meaning": "小川",
+    "example": "A stream runs here.",
+    "example_jp": "ここを小川が流れている。"
+  },
+  {
+    "word": "notion",
+    "meaning": "概念",
+    "example": "I have no notion of it.",
+    "example_jp": "私にはそれについての概念がない。"
+  },
+  {
+    "word": "yard",
+    "meaning": "庭",
+    "example": "The kids played in the yard.",
+    "example_jp": "子供たちは庭で遊んだ。"
+  }
+]

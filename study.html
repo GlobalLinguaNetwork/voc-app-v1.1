@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Vocab Master</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,700;1,400&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink:      #1c2b3a;
+    --ink-soft: #4a6072;
+    --bg:       #f5f3ee;
+    --card-bg:  #ffffff;
+    --accent:   #2d6a4f;
+    --gold:     #c9a84c;
+    --correct:  #2d6a4f;
+    --wrong:    #b5451b;
+    --radius:   16px;
+    --shadow:   0 4px 24px rgba(28,43,58,0.10);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'DM Sans', sans-serif; background: var(--bg); min-height: 100vh; padding: 16px 12px 40px; color: var(--ink); }
+  .header { max-width: 520px; margin: 0 auto 18px; display: flex; justify-content: space-between; align-items: center; }
+  .logo { font-family: 'Lora', serif; font-weight: 700; font-size: 1.15rem; letter-spacing: 0.02em; }
+  .logo span { color: var(--gold); }
+  #accuracy { font-size: 0.82rem; font-weight: 700; background: var(--ink); color: #fff; padding: 4px 12px; border-radius: 20px; letter-spacing: 0.04em; }
+  .container { max-width: 520px; margin: 0 auto; }
+  .card { background: var(--card-bg); border-radius: var(--radius); padding: 24px 22px 20px; box-shadow: var(--shadow); position: relative; overflow: hidden; margin-bottom: 14px; }
+  .card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, var(--gold), var(--accent)); }
+  #setupArea h3 { font-family: 'Lora', serif; font-size: 1.05rem; color: var(--ink-soft); margin-bottom: 6px; letter-spacing: 0.03em; }
+  label.field-label { display: block; font-size: 0.70rem; font-weight: 700; letter-spacing: 0.08em; color: var(--ink-soft); text-transform: uppercase; margin-bottom: 6px; }
+  select { width: 100%; padding: 11px 34px 11px 14px; margin-bottom: 16px; border-radius: 10px; border: 1.5px solid #ddd; font-size: 0.95rem; font-family: 'DM Sans', sans-serif; background: #fafafa; color: var(--ink); appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%234a6072' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 14px center; cursor: pointer; }
+  select:focus { outline: none; border-color: var(--accent); }
+  .btn-start { width: 100%; padding: 15px; background: var(--ink); color: white; border: none; border-radius: 12px; font-size: 1rem; font-weight: 700; font-family: 'DM Sans', sans-serif; cursor: pointer; letter-spacing: 0.04em; transition: background 0.18s, transform 0.12s; }
+  .btn-start:hover { background: var(--accent); }
+  .btn-start:active { transform: scale(0.98); }
+  .progress-wrap { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+  #unitLabel { font-size: 0.70rem; font-weight: 700; color: var(--gold); letter-spacing: 0.06em; text-transform: uppercase; white-space: nowrap; }
+  #progress { font-size: 0.78rem; font-weight: 700; color: var(--ink-soft); white-space: nowrap; letter-spacing: 0.04em; }
+  .progress-track { flex: 1; height: 5px; background: #e0ddd8; border-radius: 4px; overflow: hidden; }
+  .progress-fill { height: 100%; background: linear-gradient(90deg, var(--gold), var(--accent)); border-radius: 4px; transition: width 0.4s ease; width: 0%; }
+  #wordCard { min-height: 170px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; gap: 8px; }
+  #pos { font-size: 0.70rem; font-weight: 700; letter-spacing: 0.10em; text-transform: uppercase; color: var(--gold); min-height: 1em; }
+  #word { font-family: 'Lora', serif; font-size: clamp(1.8rem, 6vw, 2.6rem); font-weight: 700; color: var(--ink); line-height: 1.2; }
+  #example { font-family: 'Lora', serif; font-style: italic; font-size: 0.9rem; color: var(--ink-soft); line-height: 1.6; max-width: 400px; min-height: 1.4em; }
+  #meaning { font-size: 0.95rem; font-weight: 500; color: var(--ink); background: #f0ede6; border: 1.5px solid #e0dbd0; padding: 10px 18px; border-radius: 12px; margin-top: 6px; transition: opacity 0.25s; line-height: 1.7; }
+  .invisible { opacity: 0; pointer-events: none; }
+  #quizArea { display: grid; grid-template-columns: 1fr 1fr; gap: 9px; margin-bottom: 12px; }
+  button.ans-btn { background: var(--card-bg); border: 1.5px solid #e0ddd8; padding: 14px 10px; border-radius: 12px; font-size: 0.88rem; font-weight: 500; font-family: 'DM Sans', sans-serif; cursor: pointer; line-height: 1.4; transition: background 0.15s, border-color 0.15s, transform 0.1s; box-shadow: 0 2px 6px rgba(28,43,58,0.06); text-align: center; }
+  button.ans-btn:hover:not(:disabled) { border-color: var(--accent); transform: translateY(-1px); box-shadow: 0 4px 10px rgba(28,43,58,0.10); }
+  button.ans-btn:active { transform: scale(0.97); }
+  button.ans-btn.correct  { background: var(--correct) !important; color: white !important; border-color: var(--correct) !important; }
+  button.ans-btn.wrong    { background: var(--wrong)   !important; color: white !important; border-color: var(--wrong)   !important; }
+  button.ans-btn.reveal-correct { background: #e8f5e9 !important; color: var(--correct) !important; border-color: var(--correct) !important; font-weight: 700; }
+  button.ans-btn:disabled { cursor: default; }
+  #flipBtn { display: block; width: 100%; padding: 14px; background: var(--ink); color: white; border: none; border-radius: 12px; font-size: 0.95rem; font-weight: 700; font-family: 'DM Sans', sans-serif; cursor: pointer; letter-spacing: 0.04em; margin-bottom: 12px; transition: background 0.15s; }
+  #flipBtn:hover { background: var(--accent); }
+  .action-btns { display: flex; gap: 8px; }
+  .btn-small { flex: 1; padding: 11px; border-radius: 10px; border: none; font-weight: 700; font-family: 'DM Sans', sans-serif; font-size: 0.85rem; cursor: pointer; letter-spacing: 0.03em; transition: opacity 0.15s, transform 0.1s; }
+  .btn-small:active { transform: scale(0.97); }
+  .btn-pause { background: #e8f0fe; color: #1a56db; }
+  .btn-stop  { background: #fdecea; color: var(--wrong); }
+  #finishScreen { position: absolute; inset: 0; background: var(--card-bg); border-radius: var(--radius); display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px; padding: 28px; z-index: 10; text-align: center; }
+  #finishScreen h2 { font-family: 'Lora', serif; font-size: 1.5rem; color: var(--ink); }
+  #finishScreen .score-badge { font-size: 2.4rem; font-weight: 700; color: var(--gold); font-family: 'Lora', serif; }
+  #finishScreen p { color: var(--ink-soft); font-size: 0.88rem; }
+  .btn-finish { width: 100%; padding: 13px; border: none; border-radius: 10px; font-weight: 700; font-family: 'DM Sans', sans-serif; font-size: 0.92rem; cursor: pointer; transition: opacity 0.15s; }
+  .btn-finish:hover { opacity: 0.85; }
+  .btn-finish.green  { background: var(--correct); color: white; }
+  .btn-finish.blue   { background: #1a56db; color: white; }
+  .btn-finish.gray   { background: #e8e6e1; color: var(--ink); }
+  .btn-finish:disabled { opacity: 0.4; cursor: not-allowed; }
+  .hidden { display: none !important; }
+  .meaning-highlight { background: linear-gradient(120deg, #ffe082 0%, #ffd740 100%); color: #5a3e00; font-weight: 700; border-radius: 3px; padding: 1px 3px; box-shadow: 0 1px 3px rgba(201,168,76,0.25); }
+  #progressBtn { font-size: 0.82rem; font-weight: 700; background: var(--gold); color: #fff; padding: 4px 12px; border-radius: 20px; letter-spacing: 0.04em; border: none; cursor: pointer; font-family: 'DM Sans', sans-serif; transition: background 0.15s; }
+  #progressBtn:hover { background: var(--accent); }
+  #progressModal { position: fixed; inset: 0; z-index: 100; background: rgba(28,43,58,0.50); backdrop-filter: blur(4px); display: flex; justify-content: center; align-items: center; padding: 16px; }
+  .modal-box { background: var(--card-bg); border-radius: var(--radius); padding: 24px 20px 20px; max-width: 380px; width: 100%; box-shadow: 0 8px 40px rgba(28,43,58,0.25); position: relative; max-height: 90vh; overflow-y: auto; }
+  .modal-box::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, var(--gold), var(--accent)); border-radius: var(--radius) var(--radius) 0 0; }
+  .modal-title { font-family: 'Lora', serif; font-size: 1.05rem; font-weight: 700; color: var(--ink); margin-bottom: 16px; letter-spacing: 0.02em; }
+  .stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 16px; }
+  .stat-box { background: var(--bg); border-radius: 10px; padding: 12px 10px; text-align: center; }
+  .stat-label { font-size: 0.64rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: 4px; }
+  .stat-value { font-family: 'Lora', serif; font-size: 1.7rem; font-weight: 700; color: var(--gold); line-height: 1.1; }
+  .stat-unit { font-size: 0.68rem; color: var(--ink-soft); margin-left: 1px; }
+  .chart-section { margin-bottom: 16px; }
+  .chart-title { font-size: 0.68rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: 8px; }
+  .bar-chart { display: flex; align-items: flex-end; gap: 4px; height: 80px; }
+  .bar-wrap { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 3px; }
+  .bar-col { width: 100%; border-radius: 4px 4px 0 0; min-height: 2px; background: linear-gradient(180deg, var(--gold), var(--accent)); transition: height 0.4s ease; position: relative; }
+  .bar-col.today { background: linear-gradient(180deg, #ffd740, var(--gold)); }
+  .bar-val { font-size: 0.58rem; font-weight: 700; color: var(--ink-soft); }
+  .bar-lbl { font-size: 0.58rem; color: var(--ink-soft); white-space: nowrap; }
+  .radial-wrap { display: flex; align-items: center; gap: 14px; }
+  .radial-info { flex: 1; }
+  .radial-row { display: flex; justify-content: space-between; align-items: center; padding: 5px 0; border-bottom: 1px solid #f0ede6; }
+  .radial-row:last-child { border-bottom: none; }
+  .radial-lbl { font-size: 0.75rem; color: var(--ink-soft); }
+  .radial-num { font-family: 'Lora', serif; font-size: 0.92rem; font-weight: 700; color: var(--ink); }
+  .btn-close-modal { width: 100%; padding: 11px; border: none; border-radius: 10px; background: var(--ink); color: white; font-weight: 700; font-family: 'DM Sans', sans-serif; font-size: 0.9rem; cursor: pointer; margin-bottom: 2px; }
+  .btn-close-modal:hover { background: var(--accent); }
+  .stat-reset { display: block; text-align: center; margin-top: 10px; font-size: 0.70rem; color: #b0bec5; cursor: pointer; text-decoration: underline; }
+  .stat-reset:hover { color: var(--wrong); }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="logo">Vocab<span>★</span>Master</div>
+  <div style="display:flex;gap:8px;align-items:center;">
+    <button id="progressBtn" onclick="showProgressModal()">📊 進捗</button>
+    <div id="accuracy">正答率 —</div>
+  </div>
+</div>
+
+<!-- ══ 進捗モーダル ══ -->
+<div id="progressModal" class="hidden" onclick="if(event.target===this)closeProgressModal()">
+  <div class="modal-box">
+    <div class="modal-title">📊 学習進捗</div>
+    <!-- 数値サマリー -->
+    <div class="stat-grid">
+      <div class="stat-box"><div class="stat-label">本日</div><div class="stat-value" id="statToday">0</div><div class="stat-unit">語</div></div>
+      <div class="stat-box"><div class="stat-label">今週</div><div class="stat-value" id="statWeek">0</div><div class="stat-unit">語</div></div>
+      <div class="stat-box"><div class="stat-label">今月</div><div class="stat-value" id="statMonth">0</div><div class="stat-unit">語</div></div>
+      <div class="stat-box"><div class="stat-label">累計</div><div class="stat-value" id="statTotal">0</div><div class="stat-unit">語</div></div>
+    </div>
+    <!-- 週間棒グラフ -->
+    <div class="chart-section">
+      <div class="chart-title">今週の学習（月〜日）</div>
+      <div class="bar-chart" id="weekBarChart"></div>
+    </div>
+    <!-- 月間グラフ -->
+    <div class="chart-section">
+      <div class="chart-title">今月の進捗</div>
+      <div class="radial-wrap">
+        <svg id="donutSvg" width="84" height="84" viewBox="0 0 84 84">
+          <circle cx="42" cy="42" r="34" fill="none" stroke="#e8e6e1" stroke-width="10"/>
+          <circle id="donutArc" cx="42" cy="42" r="34" fill="none" stroke="url(#dg)" stroke-width="10" stroke-linecap="round" stroke-dasharray="0 213.6" transform="rotate(-90 42 42)" style="transition:stroke-dasharray 0.6s ease"/>
+          <defs>
+            <linearGradient id="dg" x1="0%" y1="0%" x2="100%" y2="0%">
+              <stop offset="0%" stop-color="#c9a84c"/>
+              <stop offset="100%" stop-color="#2d6a4f"/>
+            </linearGradient>
+          </defs>
+          <text x="42" y="46" text-anchor="middle" font-family="Lora,serif" font-size="13" font-weight="700" fill="#1c2b3a" id="donutPct">0%</text>
+        </svg>
+        <div class="radial-info">
+          <div class="radial-row"><span class="radial-lbl">月間目標</span><span class="radial-num" id="monthGoal">—</span></div>
+          <div class="radial-row"><span class="radial-lbl">達成</span><span class="radial-num" id="monthDone">— 語</span></div>
+          <div class="radial-row"><span class="radial-lbl">学習日数</span><span class="radial-num" id="monthDays">— 日</span></div>
+        </div>
+      </div>
+    </div>
+    <button class="btn-close-modal" onclick="closeProgressModal()">閉じる</button>
+    <span class="stat-reset" onclick="resetProgress()">⚠ 進捗データをリセット</span>
+  </div>
+</div>
+
+<div class="container">
+
+  <!-- ══ 設定 ══ -->
+  <div id="setupArea" class="card">
+    <h3>学習の設定</h3>
+    <div id="selectedBookName" style="font-size:0.85rem; color:var(--ink-soft); margin-bottom:16px; font-weight:700;">📘 読込中...</div>
+
+    <label class="field-label">ユニット選択</label>
+    <select id="unitSelect"></select>
+
+    <label class="field-label">学習モード</label>
+    <select id="mode">
+      <option value="quiz">四択クイズ</option>
+      <option value="flash">カードめくり</option>
+    </select>
+
+    <label class="field-label">自動送り（解答後）</label>
+    <select id="revealSpeed">
+      <option value="5000">5秒</option>
+      <option value="10000">10秒</option>
+      <option value="0">手動で次へ</option>
+    </select>
+
+    <button class="btn-start" onclick="start()" style="margin-bottom: 10px;">学習を開始する →</button>
+    <button class="btn-start" style="background:#e8e6e1; color:var(--ink);" onclick="location.href='index.html'">← 単語帳を選び直す</button>
+  </div>
+
+  <!-- ══ 学習 ══ -->
+  <div id="studyArea" class="hidden">
+    <div class="progress-wrap">
+      <div id="unitLabel">Unit —</div>
+      <div id="progress">0 / 0</div>
+      <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+    </div>
+
+    <div class="card" id="wordCardWrap">
+      <div id="wordCard">
+        <div id="pos"></div>
+        <h2 id="word"></h2>
+        <p id="example"></p>
+        <div id="meaning" class="invisible"></div>
+      </div>
+
+      <!-- 終了画面 -->
+      <div id="finishScreen" class="hidden">
+        <div style="font-size:2rem">🎓</div>
+        <h2>Unit Complete!</h2>
+        <div class="score-badge" id="finalScore">—%</div>
+        <p id="finalMsg"></p>
+        <button class="btn-finish green" onclick="restart()">もう一度このユニット</button>
+        <button class="btn-finish blue"  id="nextUnitBtn" onclick="goNextUnit()">次のユニットへ →</button>
+        <button class="btn-finish gray"  onclick="backToSetup()">設定に戻る</button>
+      </div>
+    </div>
+
+    <div id="quizArea"></div>
+
+    <div class="action-btns">
+      <button id="pauseBtn" class="btn-small btn-pause" onclick="togglePause()">⏸ 一時停止</button>
+      <button class="btn-small btn-stop" onclick="backToSetup()">✕ 終了</button>
+    </div>
+  </div>
+
+</div>
+
+<script>
+/* ==========================================================
+   Vocab Master – study.html
+========================================================== */
+
+var BOOK_CONFIG = {
+  "system5":      { max: 45, name: "システム英単語（5訂版）" },
+  "target1900":   { max: 38, name: "英単語ターゲット1900" },
+  "target1200":   { max: 24, name: "英単語ターゲット1200" },
+  "leap":         { max: 40, name: "英単語LEAP" },
+  "sokutanh8":    { max: 71, name: "速読英単語（必修編 8訂版）" },
+  "jukugo1000":   { max: 20, name: "英熟語ターゲット1000" },
+  "gohou":        { max: 20, name: "語法" },
+  "kihonndoushi": { max: 20, name: "基本動詞" },
+  "tagigo":       { max: 20, name: "多義語" },
+  "ronrimarker":  { max: 20, name: "論理マーカー" }
+};
+
+var BOOK     = (new URLSearchParams(location.search).get("book")) || "system5";
+var bookInfo = BOOK_CONFIG[BOOK] || { max: 50, name: BOOK };
+
+var UNIT_MIN = 1;
+var UNIT_MAX = bookInfo.max;
+
+var words        = [];
+var index        = 0;
+var correctCount = 0;
+var totalCount   = 0;
+var reviewQueue  = [];
+var current      = null;
+var timer1       = null;
+var timer2       = null;
+var isPaused     = false;
+var autoSpeed    = 5000;
+var currentUnit  = 1;
+
+/* 初期化：単語帳名の表示とUnitセレクターの生成 */
+(function() {
+  document.getElementById("selectedBookName").textContent = "📘 " + bookInfo.name;
+  var sel = document.getElementById("unitSelect");
+  var defaultUnit = parseInt(new URLSearchParams(location.search).get("unit")) || 1;
+  for (var u = UNIT_MIN; u <= UNIT_MAX; u++) {
+    var opt = document.createElement("option");
+    opt.value = u;
+    opt.textContent = "Unit " + u;
+    if (u === defaultUnit) opt.selected = true;
+    sel.appendChild(opt);
+  }
+})();
+
+/* ── データ読み込み（JSON構造の自動判別機能付き） ── */
+function loadUnit(unitNum, callback) {
+  fetch("data/" + BOOK + "/unit" + unitNum + ".json")
+    .then(function(r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    })
+    .then(function(data) {
+      // JSONが配列形式か、オブジェクトの中に配列が含まれているかを自動判定
+      if (Array.isArray(data)) {
+        words = data;
+      } else {
+        var foundArray = [];
+        // オブジェクトのキーを走査して一番最初の配列を探す
+        Object.keys(data).forEach(function(k) {
+          if (Array.isArray(data[k]) && foundArray.length === 0) {
+            foundArray = data[k];
+          }
+        });
+        words = foundArray;
+      }
+      callback(true); 
+    })
+    .catch(function(err) {
+      alert("Unit " + unitNum + " のデータを読み込めませんでした。\n（data/" + BOOK + "/unit" + unitNum + ".json が存在するか確認してください）");
+      callback(false);
+    });
+}
+
+/* ── 開始 ── */
+function start() {
+  currentUnit = parseInt(document.getElementById("unitSelect").value);
+  autoSpeed   = parseInt(document.getElementById("revealSpeed").value);
+  
+  loadUnit(currentUnit, function(success) {
+    if (!success) return;
+    if (!words || words.length === 0) { 
+      alert("データが空です。JSONファイルの中身を確認してください。"); 
+      return; 
+    }
+    
+    resetState();
+    document.getElementById("setupArea").classList.add("hidden");
+    document.getElementById("studyArea").classList.remove("hidden");
+    updateUnitLabel();
+    next();
+  });
+}
+
+function resetState() {
+  index = 0; correctCount = 0; totalCount = 0; reviewQueue = [];
+  document.getElementById("progressFill").style.width = "0%";
+  updateAccuracy();
+}
+
+function updateUnitLabel() {
+  document.getElementById("unitLabel").textContent = "Unit " + currentUnit;
+}
+
+/* ── 次の問題 ── */
+function next() {
+  if (isPaused) return;
+  clearTimeout(timer1); clearTimeout(timer2);
+  speechSynthesis.cancel();
+
+  // JSONファイル内の全要素を出題し終え、かつ復習キューも空なら終了
+  if (index >= words.length && reviewQueue.length === 0) {
+    showFinishScreen(); return;
+  }
+
+  current = reviewQueue.length > 0 ? reviewQueue.shift() : words[index++];
+
+  document.getElementById("word").textContent    = current.word    || "";
+  document.getElementById("pos").textContent     = current.pos     || "";
+  document.getElementById("example").textContent = current.example || "";
+
+  var meanEl = document.getElementById("meaning");
+  meanEl.textContent = current.example_jp || current.meaning || "";
+  meanEl.classList.add("invisible");
+
+  // プログレスバーの分母は「JSONから読み込んだ全単語数（words.length）」に自動で合わせられます
+  document.getElementById("progress").textContent     = index + " / " + words.length;
+  document.getElementById("progressFill").style.width = Math.round((index / words.length) * 100) + "%";
+
+  speak(current.word, function() {
+    if (current.example) speak(current.example, null);
+  });
+
+  if (document.getElementById("mode").value === "quiz") {
+    renderQuiz();
+  } else {
+    renderFlip();
+  }
+}
+
+/* ── TTS ── */
+function speak(text, cb) {
+  var u = new SpeechSynthesisUtterance(text);
+  u.lang = "en-US"; u.rate = 1.05;
+  if (cb) u.onend = cb;
+  speechSynthesis.speak(u);
+}
+
+/* ── 四択レンダリング ── */
+function renderQuiz() {
+  var choices = [current.meaning];
+  var pool = words.filter(function(w) { return w.meaning !== current.meaning && w.meaning; });
+  pool.sort(function() { return Math.random() - 0.5; });
+  
+  // ユニット内の他の単語からダミー選択肢を取得
+  for (var i = 0; i < pool.length && choices.length < 4; i++) {
+    if (!choices.includes(pool[i].meaning)) choices.push(pool[i].meaning);
+  }
+  
+  // 【追加】ユニットの単語数が少なく、4択に満たない場合のための汎用ダミー選択肢
+  var fallbackDummies = ["対象", "結果", "影響", "機能", "特徴", "原因", "状態", "方法", "変化", "役割", "概念", "行動"];
+  fallbackDummies.sort(function() { return Math.random() - 0.5; });
+  for (var j = 0; j < fallbackDummies.length && choices.length < 4; j++) {
+    if (!choices.includes(fallbackDummies[j])) choices.push(fallbackDummies[j]);
+  }
+
+  choices.sort(function() { return Math.random() - 0.5; });
+
+  var area = document.getElementById("quizArea");
+  area.style.display = "grid";
+  area.innerHTML = "";
+
+  choices.forEach(function(c) {
+    var btn = document.createElement("button");
+    btn.className = "ans-btn";
+    btn.textContent = c;
+    (function(choice, el) {
+      el.addEventListener("click", function() { answerQuiz(choice, el); });
+    })(c, btn);
+    area.appendChild(btn);
+  });
+
+  if (autoSpeed > 0) {
+    timer1 = setTimeout(function() {
+      autoRevealQuiz();
+      timer2 = setTimeout(next, 2500);
+    }, autoSpeed);
+  }
+}
+
+/* ── 四択：回答処理 ── */
+function answerQuiz(selected, btn) {
+  clearTimeout(timer1); clearTimeout(timer2);
+  lockButtons();
+  totalCount++;
+
+  var isCorrect = (selected === current.meaning);
+  if (isCorrect) {
+    correctCount++;
+    btn.classList.add("correct");
+  } else {
+    btn.classList.add("wrong");
+    reviewQueue.push(current);
+    highlightCorrectBtn();
+  }
+
+  showExampleJp();
+  updateAccuracy();
+
+  if (autoSpeed === 0) {
+    addNextButton();
+  } else {
+    timer2 = setTimeout(next, isCorrect ? 1200 : 2800);
+  }
+}
+
+function autoRevealQuiz() {
+  totalCount++;
+  reviewQueue.push(current);
+  updateAccuracy();
+  lockButtons(); highlightCorrectBtn(); showExampleJp();
+}
+
+function highlightCorrectBtn() {
+  document.querySelectorAll(".ans-btn").forEach(function(b) {
+    if (b.textContent === current.meaning && !b.classList.contains("wrong")) {
+      b.classList.add("reveal-correct");
+    }
+  });
+}
+
+function showExampleJp() {
+  var meanEl = document.getElementById("meaning");
+  var jpText = current.example_jp || "";
+  if (!jpText) return;
+  meanEl.innerHTML = buildHighlightedJp(jpText, current.meaning);
+  meanEl.classList.remove("invisible");
+}
+
+function buildHighlightedJp(jpText, meaning) {
+  if (!meaning) return escHtml(jpText);
+  var candidates = meaning.split(/[／/・、,，]/).map(function(s) { return s.trim(); }).filter(Boolean);
+  candidates.sort(function(a, b) { return b.length - a.length; });
+  var result = escHtml(jpText);
+  for (var i = 0; i < candidates.length; i++) {
+    var cand = candidates[i];
+    if (cand.length < 2) continue;
+    var escaped = escHtml(cand);
+    if (result.indexOf(escaped) !== -1) {
+      result = result.replace(escaped, '<span class="meaning-highlight">' + escaped + '</span>');
+      break;
+    }
+  }
+  return result;
+}
+
+function escHtml(s) { return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
+
+function lockButtons() { document.querySelectorAll(".ans-btn").forEach(function(b) { b.disabled = true; }); }
+
+function addNextButton() {
+  var area = document.getElementById("quizArea");
+  var btn  = document.createElement("button");
+  btn.className = "ans-btn";
+  btn.style.cssText = "grid-column:1/3; background:var(--ink); color:white; border-color:var(--ink);";
+  btn.textContent = "次へ →";
+  btn.addEventListener("click", next);
+  area.appendChild(btn);
+}
+
+/* ── めくりモード ── */
+function renderFlip() {
+  var area = document.getElementById("quizArea");
+  area.style.display = "block";
+  area.innerHTML = "";
+
+  var btn = document.createElement("button");
+  btn.id = "flipBtn";
+  btn.textContent = "▼ 意味を見る";
+  btn.addEventListener("click", flip);
+  area.appendChild(btn);
+
+  if (autoSpeed > 0) {
+    timer1 = setTimeout(function() { flip(); timer2 = setTimeout(next, 2500); }, autoSpeed);
+  }
+}
+
+function flip() {
+  clearTimeout(timer1); clearTimeout(timer2);
+  var meanEl = document.getElementById("meaning");
+  if (current.example_jp) {
+    meanEl.innerHTML = buildHighlightedJp(current.example_jp, current.meaning);
+  } else {
+    meanEl.textContent = current.meaning || "";
+  }
+  meanEl.classList.remove("invisible");
+
+  var old = document.getElementById("flipBtn");
+  if (old) {
+    var newBtn = old.cloneNode(true);
+    newBtn.textContent = "次へ →";
+    newBtn.addEventListener("click", next);
+    old.parentNode.replaceChild(newBtn, old);
+  }
+  if (autoSpeed > 0) { timer2 = setTimeout(next, 2000); }
+}
+
+/* ── 一時停止 ── */
+function togglePause() {
+  isPaused = !isPaused;
+  var btn = document.getElementById("pauseBtn");
+  if (isPaused) {
+    clearTimeout(timer1); clearTimeout(timer2); speechSynthesis.cancel();
+    btn.textContent = "▶ 再開"; btn.style.background = "#d4edda"; btn.style.color = "var(--correct)";
+  } else {
+    btn.textContent = "⏸ 一時停止"; btn.style.background = ""; btn.style.color = "";
+    next();
+  }
+}
+
+/* ── 終了画面 ── */
+function showFinishScreen() {
+  speechSynthesis.cancel();
+  var pct = totalCount ? Math.round((correctCount / totalCount) * 100) : 0;
+  document.getElementById("finalScore").textContent = pct + "%";
+  document.getElementById("finalMsg").textContent =
+    pct >= 90 ? "素晴らしい！ほぼ完璧です。" :
+    pct >= 70 ? "よくできました。苦手な単語を復習しましょう。" :
+                "もう一度チャレンジして定着させましょう。";
+
+  recordSessionWords(words.length);
+
+  var nextBtn = document.getElementById("nextUnitBtn");
+  if (currentUnit >= UNIT_MAX) {
+    nextBtn.disabled = true;
+    nextBtn.textContent = "最終ユニット完了！";
+  } else {
+    nextBtn.disabled = false;
+    nextBtn.textContent = "次へ Unit " + (currentUnit + 1) + " →";
+  }
+
+  document.getElementById("finishScreen").classList.remove("hidden");
+}
+
+function restart() {
+  document.getElementById("finishScreen").classList.add("hidden");
+  resetState();
+  next();
+}
+
+function goNextUnit() {
+  if (currentUnit >= UNIT_MAX) return;
+  var nextNum = currentUnit + 1;
+  
+  loadUnit(nextNum, function(success) {
+    if (!success) return;
+    
+    currentUnit = nextNum;
+    document.getElementById("unitSelect").value = currentUnit;
+    document.getElementById("finishScreen").classList.add("hidden");
+    resetState();
+    updateUnitLabel();
+    next();
+  });
+}
+
+function backToSetup() {
+  clearTimeout(timer1); clearTimeout(timer2); speechSynthesis.cancel();
+  isPaused = false;
+  var pb = document.getElementById("pauseBtn");
+  pb.textContent = "⏸ 一時停止"; pb.style.background = ""; pb.style.color = "";
+  document.getElementById("studyArea").classList.add("hidden");
+  document.getElementById("finishScreen").classList.add("hidden");
+  document.getElementById("setupArea").classList.remove("hidden");
+}
+
+function updateAccuracy() {
+  var pct = totalCount ? Math.round((correctCount / totalCount) * 100) : 0;
+  document.getElementById("accuracy").textContent = "正答率 " + pct + "%";
+}
+
+/* ── 進捗トラッキング等 ── */
+var PROGRESS_KEY = "vocabProgress";
+function getProgress() { try { var raw = localStorage.getItem(PROGRESS_KEY); if (raw) return JSON.parse(raw); } catch(e) {} return { total: 0, days: {} }; }
+function saveProgress(p) { try { localStorage.setItem(PROGRESS_KEY, JSON.stringify(p)); } catch(e) {} }
+function todayKey() { var d = new Date(); return d.getFullYear() + "-" + pad2(d.getMonth()+1) + "-" + pad2(d.getDate()); }
+function pad2(n) { return n < 10 ? "0"+n : ""+n; }
+function recordSessionWords(count) {
+  if (!count) return;
+  var p = getProgress(); var key = todayKey();
+  p.days[key] = (p.days[key] || 0) + count; p.total = (p.total || 0) + count;
+  saveProgress(p);
+}
+function calcStats() {
+  var p = getProgress(); var today = new Date(); var todayStr = todayKey();
+  var weekStart = new Date(today); var day = today.getDay(); var diff = day === 0 ? -6 : 1 - day;
+  weekStart.setDate(today.getDate() + diff);
+  var todayCount = 0, weekCount = 0, monthCount = 0;
+  var yr = today.getFullYear(), mo = today.getMonth()+1;
+  Object.keys(p.days).forEach(function(k) {
+    var cnt = p.days[k] || 0; var kDate = new Date(k);
+    if (k === todayStr) todayCount += cnt;
+    if (kDate >= weekStart) weekCount += cnt;
+    if (kDate.getFullYear() === yr && (kDate.getMonth()+1) === mo) monthCount += cnt;
+  });
+  return { today: todayCount, week: weekCount, month: monthCount, total: p.total || 0 };
+}
+function showProgressModal() {
+  var s = calcStats();
+  document.getElementById("statToday").textContent = s.today;
+  document.getElementById("statWeek").textContent  = s.week;
+  document.getElementById("statMonth").textContent = s.month;
+  document.getElementById("statTotal").textContent = s.total;
+  renderWeekBar(s); renderDonut(s);
+  document.getElementById("progressModal").classList.remove("hidden");
+}
+function renderWeekBar(s) {
+  var p = getProgress(); var today = new Date(); var todayStr = todayKey();
+  var DAY_NAMES = ["月","火","水","木","金","土","日"];
+  var monday = new Date(today); monday.setDate(today.getDate() + (today.getDay() === 0 ? -6 : 1 - today.getDay()));
+  var dayCounts = []; var maxCount = 0;
+  for (var i = 0; i < 7; i++) {
+    var d = new Date(monday); d.setDate(monday.getDate() + i);
+    var k = d.getFullYear() + "-" + pad2(d.getMonth()+1) + "-" + pad2(d.getDate());
+    var cnt = p.days[k] || 0;
+    dayCounts.push({ label: DAY_NAMES[i], key: k, count: cnt });
+    if (cnt > maxCount) maxCount = cnt;
+  }
+  var container = document.getElementById("weekBarChart"); container.innerHTML = "";
+  dayCounts.forEach(function(item) {
+    var wrap = document.createElement("div"); wrap.className = "bar-wrap";
+    var valEl = document.createElement("div"); valEl.className = "bar-val"; valEl.textContent = item.count > 0 ? item.count : "";
+    var col = document.createElement("div"); col.className = "bar-col" + (item.key === todayStr ? " today" : "");
+    col.style.height = (maxCount > 0 ? Math.max(2, Math.round((item.count / maxCount) * 70)) : 2) + "px";
+    var lbl = document.createElement("div"); lbl.className = "bar-lbl"; lbl.textContent = item.label;
+    if (item.key === todayStr) { lbl.style.fontWeight = "700"; lbl.style.color = "var(--gold)"; }
+    wrap.appendChild(valEl); wrap.appendChild(col); wrap.appendChild(lbl); container.appendChild(wrap);
+  });
+}
+function renderDonut(s) {
+  var p = getProgress(); var today = new Date(); var yr = today.getFullYear(), mo = today.getMonth()+1;
+  var monthDayCount = 0;
+  Object.keys(p.days).forEach(function(k) {
+    var kd = new Date(k);
+    if (kd.getFullYear() === yr && (kd.getMonth()+1) === mo && p.days[k] > 0) monthDayCount++;
+  });
+  var goal = new Date(yr, mo, 0).getDate() * 20;
+  var pct = goal > 0 ? Math.min(100, Math.round((s.month / goal) * 100)) : 0;
+  var dash = Math.round((pct / 100) * 213.6);
+  document.getElementById("donutArc").setAttribute("stroke-dasharray", dash + " " + (213.6 - dash));
+  document.getElementById("donutPct").textContent = pct + "%";
+  document.getElementById("monthGoal").textContent = goal + " 語";
+  document.getElementById("monthDone").textContent = s.month + " 語";
+  document.getElementById("monthDays").textContent = monthDayCount + " 日";
+}
+function closeProgressModal() { document.getElementById("progressModal").classList.add("hidden"); }
+function resetProgress() {
+  if (!confirm("進捗データをすべてリセットしますか？")) return;
+  try { localStorage.removeItem(PROGRESS_KEY); } catch(e) {}
+  showProgressModal();
+}
+</script>
+
+<footer style="text-align:center; margin-top:20px; padding-bottom:12px; font-size:0.70rem; color:#9aacb8; letter-spacing:0.06em;">
+  &copy;Copyright © 2026 Takumi Wakabayashi, Global Lingua Network.
+</footer>
+</body>
+</html>

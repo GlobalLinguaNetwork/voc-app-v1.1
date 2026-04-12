@@ -1,0 +1,362 @@
+[
+  {
+    "word": "sober",
+    "meaning": "酔っていない",
+    "example": "He is completely sober now.",
+    "example_jp": "彼は今は完全に酔っていない。"
+  },
+  {
+    "word": "sober",
+    "meaning": "真面目な",
+    "example": "She has a sober attitude.",
+    "example_jp": "彼女は真面目な態度をとっている。"
+  },
+  {
+    "word": "obstinate",
+    "meaning": "頑固な，強情な",
+    "example": "He is too obstinate to change his mind.",
+    "example_jp": "彼はあまりに頑固で、自分の考えを変えられない。"
+  },
+  {
+    "word": "solitary",
+    "meaning": "孤高の",
+    "example": "He lived a solitary life.",
+    "example_jp": "彼は孤高の人生を送った。"
+  },
+  {
+    "word": "solitary",
+    "meaning": "ただひとつの",
+    "example": "It was the solitary example.",
+    "example_jp": "それがただひとつの例だった。"
+  },
+  {
+    "word": "vulgar",
+    "meaning": "品がない",
+    "example": "His behavior was vulgar.",
+    "example_jp": "彼の振る舞いは品がなかった。"
+  },
+  {
+    "word": "vulgar",
+    "meaning": "卑わいな",
+    "example": "He told a vulgar joke.",
+    "example_jp": "彼は卑わいな冗談を言った。"
+  },
+  {
+    "word": "skeptical",
+    "meaning": "懐疑的な",
+    "example": "She is skeptical about the claim.",
+    "example_jp": "彼女はその主張に対して懐疑的だ。"
+  },
+  {
+    "word": "accustomed",
+    "meaning": "慣れている",
+    "example": "He is accustomed to hard work.",
+    "example_jp": "彼は重労働に慣れている。"
+  },
+  {
+    "word": "obsessed",
+    "meaning": "取りつかれている",
+    "example": "She is obsessed with the idea.",
+    "example_jp": "彼女はその考えに取りつかれている。"
+  },
+  {
+    "word": "preoccupied",
+    "meaning": "夢中になった，頭がいっぱいで",
+    "example": "He was preoccupied with his thoughts.",
+    "example_jp": "彼は考え事で頭がいっぱいだった。"
+  },
+  {
+    "word": "prone",
+    "meaning": "～しがちである",
+    "example": "He is prone to make mistakes.",
+    "example_jp": "彼は間違いを犯しがちである。"
+  },
+  {
+    "word": "apt",
+    "meaning": "～する傾向がある",
+    "example": "Children are apt to imitate adults.",
+    "example_jp": "子供は大人を模倣する傾向がある。"
+  },
+  {
+    "word": "empirical",
+    "meaning": "経験・実験による",
+    "example": "The theory is based on empirical data.",
+    "example_jp": "その理論は経験・実験によるデータに基づいている。"
+  },
+  {
+    "word": "susceptible",
+    "meaning": "影響を受けやすい",
+    "example": "Children are susceptible to colds.",
+    "example_jp": "子供は風邪の影響を受けやすい。"
+  },
+  {
+    "word": "pivotal",
+    "meaning": "極めて重要な",
+    "example": "This decision is pivotal to our success.",
+    "example_jp": "この決定は我々の成功にとって極めて重要だ。"
+  },
+  {
+    "word": "fabulous",
+    "meaning": "とても素敵な",
+    "example": "She had a fabulous time.",
+    "example_jp": "彼女はとても素敵な時間を過ごした。"
+  },
+  {
+    "word": "fabulous",
+    "meaning": "莫大な",
+    "example": "He made a fabulous amount of money.",
+    "example_jp": "彼は莫大な額のお金を稼いだ。"
+  },
+  {
+    "word": "splendid",
+    "meaning": "素晴らしい",
+    "example": "The view was splendid.",
+    "example_jp": "その景色は素晴らしかった。"
+  },
+  {
+    "word": "intriguing",
+    "meaning": "興味深い",
+    "example": "The idea is intriguing.",
+    "example_jp": "その考えは興味深い。"
+  },
+  {
+    "word": "ingenious",
+    "meaning": "独創的な",
+    "example": "His solution was ingenious.",
+    "example_jp": "彼の解決策は独創的だった。"
+  },
+  {
+    "word": "affluent",
+    "meaning": "裕福な",
+    "example": "They live in an affluent neighborhood.",
+    "example_jp": "彼らは裕福な地域に住んでいる。"
+  },
+  {
+    "word": "renowned",
+    "meaning": "有名な",
+    "example": "She is renowned for her work.",
+    "example_jp": "彼女は自分の仕事で有名だ。"
+  },
+  {
+    "word": "eminent",
+    "meaning": "著名な，地位が高い",
+    "example": "He is an eminent scientist.",
+    "example_jp": "彼は著名な科学者だ。"
+  },
+  {
+    "word": "conspicuous",
+    "meaning": "目立つ",
+    "example": "Her red dress was conspicuous.",
+    "example_jp": "彼女の赤いドレスは目立っていた。"
+  },
+  {
+    "word": "adept",
+    "meaning": "熟練した",
+    "example": "She is adept at cooking.",
+    "example_jp": "彼女は料理に熟練している。"
+  },
+  {
+    "word": "proficient",
+    "meaning": "熟達した",
+    "example": "He is proficient in English.",
+    "example_jp": "彼は英語に熟達している。"
+  },
+  {
+    "word": "immense",
+    "meaning": "莫大な，膨大な",
+    "example": "They made immense progress.",
+    "example_jp": "彼らは莫大な進歩を遂げた。"
+  },
+  {
+    "word": "unanimous",
+    "meaning": "満場一致の",
+    "example": "The decision was unanimous.",
+    "example_jp": "その決定は満場一致だった。"
+  },
+  {
+    "word": "reckless",
+    "meaning": "無謀な",
+    "example": "He drove in a reckless manner.",
+    "example_jp": "彼は無謀なやり方で運転した。"
+  },
+  {
+    "word": "futile",
+    "meaning": "無駄な",
+    "example": "Their efforts were futile.",
+    "example_jp": "彼らの努力は無駄だった。"
+  },
+  {
+    "word": "brutal",
+    "meaning": "残忍な",
+    "example": "The attack was brutal.",
+    "example_jp": "その攻撃は残忍だった。"
+  },
+  {
+    "word": "ominous",
+    "meaning": "不吉な",
+    "example": "Dark clouds looked ominous.",
+    "example_jp": "暗雲が不吉に見えた。"
+  },
+  {
+    "word": "detrimental",
+    "meaning": "有害な",
+    "example": "Smoking is detrimental to health.",
+    "example_jp": "喫煙は健康に有害だ。"
+  },
+  {
+    "word": "wicked",
+    "meaning": "邪悪な",
+    "example": "The villain had a wicked smile.",
+    "example_jp": "その悪役は邪悪な微笑みを浮かべていた。"
+  },
+  {
+    "word": "cynical",
+    "meaning": "冷笑的な",
+    "example": "He is cynical about politics.",
+    "example_jp": "彼は政治に対して冷笑的だ。"
+  },
+  {
+    "word": "savage",
+    "meaning": "容赦ない，どう猛な",
+    "example": "The storm caused savage damage.",
+    "example_jp": "嵐は容赦ない被害をもたらした。"
+  },
+  {
+    "word": "arbitrary",
+    "meaning": "独断的な，勝手な",
+    "example": "The rule seemed arbitrary.",
+    "example_jp": "その規則は独断的に思えた。"
+  },
+  {
+    "word": "monotonous",
+    "meaning": "単調な",
+    "example": "The work became monotonous.",
+    "example_jp": "その仕事は単調になった。"
+  },
+  {
+    "word": "crude",
+    "meaning": "粗末な，粗野な",
+    "example": "The hut was crude but useful.",
+    "example_jp": "その小屋は粗末なものだったが、役に立った。"
+  },
+  {
+    "word": "crude",
+    "meaning": "加工されていない",
+    "example": "They used crude oil.",
+    "example_jp": "彼らは加工されていない油（原油）を使用した。"
+  },
+  {
+    "word": "extravagant",
+    "meaning": "法外な，金遣いが荒い",
+    "example": "She has extravagant spending habits.",
+    "example_jp": "彼女には金遣いが荒い浪費癖がある。"
+  },
+  {
+    "word": "obsolete",
+    "meaning": "廃れた",
+    "example": "This technology is now obsolete.",
+    "example_jp": "この技術は今や廃れている。"
+  },
+  {
+    "word": "devoid",
+    "meaning": "欠いている",
+    "example": "He is devoid of fear.",
+    "example_jp": "彼は恐怖心を欠いている。"
+  },
+  {
+    "word": "scarce",
+    "meaning": "乏しい",
+    "example": "Water is scarce in the desert.",
+    "example_jp": "砂漠では水が乏しい。"
+  },
+  {
+    "word": "solemn",
+    "meaning": "厳粛な，荘厳な",
+    "example": "The ceremony was solemn.",
+    "example_jp": "儀式は厳粛だった。"
+  },
+  {
+    "word": "solemn",
+    "meaning": "真面目な",
+    "example": "He made a solemn promise.",
+    "example_jp": "彼は真面目な約束を交わした。"
+  },
+  {
+    "word": "rigid",
+    "meaning": "硬い",
+    "example": "The metal bar is rigid.",
+    "example_jp": "その金属の棒は硬い。"
+  },
+  {
+    "word": "rigid",
+    "meaning": "厳格な",
+    "example": "The rules are too rigid.",
+    "example_jp": "規則があまりに厳格すぎる。"
+  },
+  {
+    "word": "robust",
+    "meaning": "がっしりした",
+    "example": "He has a robust body.",
+    "example_jp": "彼はがっしりした体格をしている。"
+  },
+  {
+    "word": "robust",
+    "meaning": "活発な",
+    "example": "The economy remains robust.",
+    "example_jp": "経済は活発なままだ。"
+  },
+  {
+    "word": "tangible",
+    "meaning": "触れられる，明確な",
+    "example": "There was no tangible evidence.",
+    "example_jp": "明確な証拠はなかった。"
+  },
+  {
+    "word": "superficial",
+    "meaning": "表面的な",
+    "example": "His knowledge is superficial.",
+    "example_jp": "彼の知識は表面的なものだ。"
+  },
+  {
+    "word": "spatial",
+    "meaning": "空間の",
+    "example": "The test measures spatial ability.",
+    "example_jp": "そのテストは空間能力を測定する。"
+  },
+  {
+    "word": "hollow",
+    "meaning": "空洞の",
+    "example": "The tree trunk is hollow.",
+    "example_jp": "木の幹は空洞になっている。"
+  },
+  {
+    "word": "hollow",
+    "meaning": "くぼんだ",
+    "example": "Her cheeks looked hollow.",
+    "example_jp": "彼女の頬はくぼんで見えた。"
+  },
+  {
+    "word": "hollow",
+    "meaning": "うわべだけの",
+    "example": "His apology sounded hollow.",
+    "example_jp": "彼の謝罪はうわべだけのものに聞こえた。"
+  },
+  {
+    "word": "homogeneous",
+    "meaning": "均質の，同種の",
+    "example": "The group is culturally homogeneous.",
+    "example_jp": "その集団は文化的に同種である。"
+  },
+  {
+    "word": "feasible",
+    "meaning": "実行可能な",
+    "example": "The plan is feasible.",
+    "example_jp": "その計画は実行可能だ。"
+  },
+  {
+    "word": "viable",
+    "meaning": "実行可能な",
+    "example": "The proposal is economically viable.",
+    "example_jp": "その提案は経済的に実行可能だ。"
+  }
+]

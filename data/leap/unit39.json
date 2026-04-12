@@ -1,0 +1,452 @@
+[
+  {
+    "word": "thread",
+    "meaning": "糸",
+    "example": "The thread is very thin.",
+    "example_jp": "その糸はとても細い。"
+  },
+  {
+    "word": "thread",
+    "meaning": "糸を通す",
+    "example": "She threaded the needle.",
+    "example_jp": "彼女は針に糸を通した。"
+  },
+  {
+    "word": "ornament",
+    "meaning": "飾り，置物",
+    "example": "She bought a small ornament.",
+    "example_jp": "彼女は小さな飾り（置物）を買った。"
+  },
+  {
+    "word": "cosmetic",
+    "meaning": "化粧品",
+    "example": "She uses natural cosmetics.",
+    "example_jp": "彼女は天然の化粧品を使っている。"
+  },
+  {
+    "word": "cosmetic",
+    "meaning": "美容の，化粧用の",
+    "example": "The store sells cosmetic products.",
+    "example_jp": "その店は美容（化粧用）製品を販売している。"
+  },
+  {
+    "word": "chamber",
+    "meaning": "部屋",
+    "example": "They met in a small chamber.",
+    "example_jp": "彼らは小さな部屋で会った。"
+  },
+  {
+    "word": "chamber",
+    "meaning": "会議所，議院",
+    "example": "The Chamber of Commerce held a meeting.",
+    "example_jp": "商工会議所が会議を開いた。"
+  },
+  {
+    "word": "commodity",
+    "meaning": "商品",
+    "example": "Oil is an important commodity.",
+    "example_jp": "石油は重要な商品だ。"
+  },
+  {
+    "word": "commodity",
+    "meaning": "有用なもの",
+    "example": "Time is a valuable commodity.",
+    "example_jp": "時間は価値のある有用なものだ。"
+  },
+  {
+    "word": "dwell",
+    "meaning": "住む",
+    "example": "They dwell in the mountains.",
+    "example_jp": "彼らは山に住んでいる。"
+  },
+  {
+    "word": "dwell",
+    "meaning": "くどくど考える",
+    "example": "He dwelled on the past.",
+    "example_jp": "彼は過去についてくどくど考えた。"
+  },
+  {
+    "word": "acoustic",
+    "meaning": "音響の",
+    "example": "The hall has great acoustic design.",
+    "example_jp": "そのホールは優れた音響設計がなされている。"
+  },
+  {
+    "word": "acoustic",
+    "meaning": "アコースティックの",
+    "example": "He played an acoustic guitar.",
+    "example_jp": "彼はアコースティックギターを弾いた。"
+  },
+  {
+    "word": "recipe",
+    "meaning": "レシピ，調理法",
+    "example": "I tried a new recipe.",
+    "example_jp": "私は新しいレシピ（調理法）を試した。"
+  },
+  {
+    "word": "recipe",
+    "meaning": "秘訣，原因",
+    "example": "Hard work is the recipe for success.",
+    "example_jp": "努力が成功の秘訣だ。"
+  },
+  {
+    "word": "intake",
+    "meaning": "摂取量",
+    "example": "Reduce your sugar intake.",
+    "example_jp": "砂糖の摂取量を減らしなさい。"
+  },
+  {
+    "word": "precede",
+    "meaning": "先行する",
+    "example": "A short speech preceded the event.",
+    "example_jp": "短い演説がイベントに先行した。"
+  },
+  {
+    "word": "phase",
+    "meaning": "段階，位相",
+    "example": "The project is in its final phase.",
+    "example_jp": "プロジェクトは最終段階にある。"
+  },
+  {
+    "word": "priority",
+    "meaning": "優先事項",
+    "example": "Safety is our top priority.",
+    "example_jp": "安全が私たちの最優先事項だ。"
+  },
+  {
+    "word": "premise",
+    "meaning": "前提",
+    "example": "The theory is based on a false premise.",
+    "example_jp": "その理論は誤った前提に基づいている。"
+  },
+  {
+    "word": "premise",
+    "meaning": "敷地",
+    "example": "Smoking is not allowed on the premises.",
+    "example_jp": "敷地内での喫煙は許可されていない。"
+  },
+  {
+    "word": "tomb",
+    "meaning": "墓，古墳",
+    "example": "They visited an ancient tomb.",
+    "example_jp": "彼らは古代の墓（古墳）を訪れた。"
+  },
+  {
+    "word": "legend",
+    "meaning": "伝説，言い伝え",
+    "example": "The legend of the dragon is famous.",
+    "example_jp": "ドラゴンの伝説（言い伝え）は有名だ。"
+  },
+  {
+    "word": "legend",
+    "meaning": "伝説的人物",
+    "example": "He is a sports legend.",
+    "example_jp": "彼はスポーツ界の伝説的人物だ。"
+  },
+  {
+    "word": "masterpiece",
+    "meaning": "傑作",
+    "example": "The painting is a masterpiece.",
+    "example_jp": "その絵画は傑作だ。"
+  },
+  {
+    "word": "ritual",
+    "meaning": "儀式",
+    "example": "They performed a religious ritual.",
+    "example_jp": "彼らは宗教的な儀式を行った。"
+  },
+  {
+    "word": "ritual",
+    "meaning": "儀式の",
+    "example": "Ritual practices vary by culture.",
+    "example_jp": "儀式的な慣習は文化によって異なる。"
+  },
+  {
+    "word": "worship",
+    "meaning": "崇拝，礼拝",
+    "example": "They gathered for worship.",
+    "example_jp": "彼らは礼拝（崇拝）のために集まった。"
+  },
+  {
+    "word": "worship",
+    "meaning": "崇拝する",
+    "example": "They worship the deity.",
+    "example_jp": "彼らはその神を崇拝している。"
+  },
+  {
+    "word": "worship",
+    "meaning": "お参りする",
+    "example": "Many people worship at the shrine.",
+    "example_jp": "多くの人がその神社でお参りする。"
+  },
+  {
+    "word": "doctrine",
+    "meaning": "教義",
+    "example": "The doctrine is taught in church.",
+    "example_jp": "その教義は教会で教えられている。"
+  },
+  {
+    "word": "legacy",
+    "meaning": "遺産",
+    "example": "He left a large legacy.",
+    "example_jp": "彼は多額の遺産を残した。"
+  },
+  {
+    "word": "sin",
+    "meaning": "罪",
+    "example": "He confessed his sin.",
+    "example_jp": "彼は自分の罪を告白した。"
+  },
+  {
+    "word": "swear",
+    "meaning": "誓う",
+    "example": "He swore to tell the truth.",
+    "example_jp": "彼は真実を話すことを誓った。"
+  },
+  {
+    "word": "swear",
+    "meaning": "罵る",
+    "example": "He began to swear loudly.",
+    "example_jp": "彼は大声で罵り始めた。"
+  },
+  {
+    "word": "confess",
+    "meaning": "白状する",
+    "example": "He confessed to the crime.",
+    "example_jp": "彼は罪を白状した。"
+  },
+  {
+    "word": "confess",
+    "meaning": "認める",
+    "example": "She confessed her mistake.",
+    "example_jp": "彼女は自分の間違いを認めた。"
+  },
+  {
+    "word": "carve",
+    "meaning": "彫る，刻む",
+    "example": "He carved his name into the wood.",
+    "example_jp": "彼は木に自分の名前を彫った（刻んだ）。"
+  },
+  {
+    "word": "murmur",
+    "meaning": "つぶやく",
+    "example": "She murmured a few words.",
+    "example_jp": "彼女は二言三言つぶやいた。"
+  },
+  {
+    "word": "verbal",
+    "meaning": "言葉による",
+    "example": "They made a verbal agreement.",
+    "example_jp": "彼らは言葉による合意を交わした。"
+  },
+  {
+    "word": "oral",
+    "meaning": "口述の",
+    "example": "He gave an oral report.",
+    "example_jp": "彼は口述の報告を行った。"
+  },
+  {
+    "word": "oral",
+    "meaning": "口の",
+    "example": "Oral hygiene is important.",
+    "example_jp": "口の衛生（口腔衛生）は重要だ。"
+  },
+  {
+    "word": "eloquent",
+    "meaning": "雄弁な",
+    "example": "Her speech was eloquent.",
+    "example_jp": "彼女の演説は雄弁だった。"
+  },
+  {
+    "word": "linguistic",
+    "meaning": "言語の，言語学の",
+    "example": "She studies linguistic theory.",
+    "example_jp": "彼女は言語学の（言語の）理論を研究している。"
+  },
+  {
+    "word": "metaphor",
+    "meaning": "隠喩，比喩",
+    "example": "The poem uses a metaphor.",
+    "example_jp": "その詩は隠喩（比喩）を使っている。"
+  },
+  {
+    "word": "prose",
+    "meaning": "散文",
+    "example": "He writes in simple prose.",
+    "example_jp": "彼は平易な散文で書く。"
+  },
+  {
+    "word": "narrative",
+    "meaning": "語り，物語",
+    "example": "The narrative was compelling.",
+    "example_jp": "その物語（語り）は人を引きつけるものだった。"
+  },
+  {
+    "word": "plot",
+    "meaning": "筋",
+    "example": "The plot of the novel is complex.",
+    "example_jp": "その小説の筋（プロット）は複雑だ。"
+  },
+  {
+    "word": "plot",
+    "meaning": "悪だくみ，陰謀",
+    "example": "They uncovered a secret plot.",
+    "example_jp": "彼らは秘密の陰謀（悪だくみ）を暴いた。"
+  },
+  {
+    "word": "draft",
+    "meaning": "下書き，草稿",
+    "example": "He wrote the first draft.",
+    "example_jp": "彼は最初の草稿（下書き）を書いた。"
+  },
+  {
+    "word": "draft",
+    "meaning": "徴兵する",
+    "example": "He was drafted into the army.",
+    "example_jp": "彼は軍隊に徴兵された。"
+  },
+  {
+    "word": "draft",
+    "meaning": "生の",
+    "example": "They served draft beer.",
+    "example_jp": "彼らは生ビールを出した。"
+  },
+  {
+    "word": "manuscript",
+    "meaning": "原稿，写本",
+    "example": "The manuscript was handwritten.",
+    "example_jp": "その原稿（写本）は手書きだった。"
+  },
+  {
+    "word": "paradox",
+    "meaning": "逆説",
+    "example": "It is a strange paradox.",
+    "example_jp": "それは奇妙な逆説だ。"
+  },
+  {
+    "word": "slang",
+    "meaning": "俗語",
+    "example": "Teenagers use a lot of slang.",
+    "example_jp": "ティーンエイジャーは多くの俗語（スラング）を使う。"
+  },
+  {
+    "word": "riddle",
+    "meaning": "なぞなぞ，謎",
+    "example": "He solved the riddle.",
+    "example_jp": "彼はなぞなぞ（謎）を解いた。"
+  },
+  {
+    "word": "exhibit",
+    "meaning": "展示する",
+    "example": "They exhibited the painting.",
+    "example_jp": "彼らはその絵画を展示した。"
+  },
+  {
+    "word": "exhibit",
+    "meaning": "示す",
+    "example": "He exhibited great courage.",
+    "example_jp": "彼は素晴らしい勇気を示した。"
+  },
+  {
+    "word": "exhibit",
+    "meaning": "展示物，展覧会",
+    "example": "The museum has many exhibits.",
+    "example_jp": "その博物館には多くの展示物がある。"
+  },
+  {
+    "word": "portray",
+    "meaning": "描く",
+    "example": "The movie portrays his life.",
+    "example_jp": "その映画は彼の人生を描いている。"
+  },
+  {
+    "word": "depict",
+    "meaning": "描く",
+    "example": "The painting depicts a landscape.",
+    "example_jp": "その絵画は風景を描いている。"
+  },
+  {
+    "word": "landmark",
+    "meaning": "目印，名所",
+    "example": "The tower is a famous landmark.",
+    "example_jp": "その塔は有名な名所（目印）だ。"
+  },
+  {
+    "word": "landmark",
+    "meaning": "画期的な出来事",
+    "example": "The discovery was a landmark event.",
+    "example_jp": "その発見は画期的な出来事だった。"
+  },
+  {
+    "word": "tease",
+    "meaning": "からかう，冷やかす",
+    "example": "They teased him about his accent.",
+    "example_jp": "彼らは彼の訛りについて彼をからかった。"
+  },
+  {
+    "word": "delight",
+    "meaning": "喜ばせる",
+    "example": "The news delighted her.",
+    "example_jp": "そのニュースは彼女を喜ばせた。"
+  },
+  {
+    "word": "delight",
+    "meaning": "喜び",
+    "example": "She screamed with delight.",
+    "example_jp": "彼女は喜びで叫んだ。"
+  },
+  {
+    "word": "astonish",
+    "meaning": "驚かせる",
+    "example": "His talent astonished everyone.",
+    "example_jp": "彼の才能は皆を驚かせた。"
+  },
+  {
+    "word": "dread",
+    "meaning": "恐れる",
+    "example": "She dreaded the exam.",
+    "example_jp": "彼女は試験を恐れていた。"
+  },
+  {
+    "word": "dread",
+    "meaning": "恐怖",
+    "example": "He felt deep dread.",
+    "example_jp": "彼は深い恐怖を感じた。"
+  },
+  {
+    "word": "attribute",
+    "meaning": "AをBのせいだとする",
+    "example": "They attributed A to B.",
+    "example_jp": "彼らはAをBのせいだとした。"
+  },
+  {
+    "word": "attribute",
+    "meaning": "特性，属性",
+    "example": "Kindness is a human attribute.",
+    "example_jp": "親切さは人間の特性（属性）だ。"
+  },
+  {
+    "word": "console",
+    "meaning": "慰める",
+    "example": "He consoled his friend.",
+    "example_jp": "彼は友人を慰めた。"
+  },
+  {
+    "word": "arouse",
+    "meaning": "呼び起こす",
+    "example": "The speech aroused interest.",
+    "example_jp": "その演説は関心を呼び起こした。"
+  },
+  {
+    "word": "distract",
+    "meaning": "注意をそらす",
+    "example": "Noise distracted him.",
+    "example_jp": "騒音が彼の注意をそらした。"
+  },
+  {
+    "word": "distract",
+    "meaning": "気を紛らす",
+    "example": "Music distracted her from worry.",
+    "example_jp": "音楽が彼女の心配事から気を紛らしてくれた。"
+  }
+]

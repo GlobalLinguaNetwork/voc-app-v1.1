@@ -1,0 +1,344 @@
+[
+  {
+    "word": "artifact",
+    "meaning": "人工遺物，出土品",
+    "example": "The museum displayed ancient artifacts.",
+    "example_jp": "博物館は古代の人工遺物（出土品）を展示した。"
+  },
+  {
+    "word": "token",
+    "meaning": "しるし",
+    "example": "He gave her a gift as a token of gratitude.",
+    "example_jp": "彼は感謝のしるしとして彼女に贈り物をした。"
+  },
+  {
+    "word": "token",
+    "meaning": "代用硬貨，トークン",
+    "example": "You need a token to ride the bus.",
+    "example_jp": "バスに乗るには代用硬貨（トークン）が必要だ。"
+  },
+  {
+    "word": "token",
+    "meaning": "商品引換券",
+    "example": "She used a token to get a free item.",
+    "example_jp": "彼女は商品引換券を使って無料のアイテムを手に入れた。"
+  },
+  {
+    "word": "cue",
+    "meaning": "合図，キュー",
+    "example": "That was my cue to start speaking.",
+    "example_jp": "それが私が話し始める合図（キュー）だった。"
+  },
+  {
+    "word": "quest",
+    "meaning": "探求",
+    "example": "They began a quest for truth.",
+    "example_jp": "彼らは真実の探求を始めた。"
+  },
+  {
+    "word": "melancholy",
+    "meaning": "憂うつ，ふさぎ込み",
+    "example": "He felt deep melancholy.",
+    "example_jp": "彼は深い憂うつ（ふさぎ込み）を感じた。"
+  },
+  {
+    "word": "self-esteem",
+    "meaning": "自尊心",
+    "example": "The program helps build self-esteem.",
+    "example_jp": "そのプログラムは自尊心を築くのに役立つ。"
+  },
+  {
+    "word": "empathy",
+    "meaning": "共感，感情移入",
+    "example": "She has strong empathy for others.",
+    "example_jp": "彼女は他者に対して強い共感（感情移入）を持っている。"
+  },
+  {
+    "word": "precaution",
+    "meaning": "用心，予防策",
+    "example": "Take precautions to avoid injury.",
+    "example_jp": "怪我を避けるために用心（予防策）をしなさい。"
+  },
+  {
+    "word": "distress",
+    "meaning": "苦しみ，苦難",
+    "example": "The news caused her great distress.",
+    "example_jp": "そのニュースは彼女に大きな苦しみ（苦難）をもたらした。"
+  },
+  {
+    "word": "distress",
+    "meaning": "苦しめる",
+    "example": "The heat distressed the animals.",
+    "example_jp": "暑さが動物たちを苦しめた。"
+  },
+  {
+    "word": "apprehension",
+    "meaning": "不安",
+    "example": "She felt apprehension before the exam.",
+    "example_jp": "彼女は試験の前に不安を感じた。"
+  },
+  {
+    "word": "apprehension",
+    "meaning": "逮捕",
+    "example": "The suspect was taken into apprehension.",
+    "example_jp": "容疑者は逮捕された。"
+  },
+  {
+    "word": "scorn",
+    "meaning": "軽蔑",
+    "example": "He spoke with scorn.",
+    "example_jp": "彼は軽蔑を込めて話した。"
+  },
+  {
+    "word": "menace",
+    "meaning": "脅威，厄介なもの",
+    "example": "Pollution is a menace to the environment.",
+    "example_jp": "汚染は環境への脅威（厄介なもの）だ。"
+  },
+  {
+    "word": "sentiment",
+    "meaning": "感情",
+    "example": "Public sentiment is changing.",
+    "example_jp": "世論（公衆の感情）は変化している。"
+  },
+  {
+    "word": "verge",
+    "meaning": "瀬戸際，寸前",
+    "example": "The company is on the verge of collapse.",
+    "example_jp": "その会社は崩壊の瀬戸際（寸前）にある。"
+  },
+  {
+    "word": "verge",
+    "meaning": "道路べり，縁",
+    "example": "Flowers grew along the verge.",
+    "example_jp": "道路べり（縁）に花が咲いていた。"
+  },
+  {
+    "word": "plausible",
+    "meaning": "もっともらしい",
+    "example": "His explanation sounded plausible.",
+    "example_jp": "彼の説明はもっともらしく聞こえた。"
+  },
+  {
+    "word": "holistic",
+    "meaning": "全体論的な",
+    "example": "They took a holistic approach to health.",
+    "example_jp": "彼らは健康に対して全体論的なアプローチをとった。"
+  },
+  {
+    "word": "contagious",
+    "meaning": "感染性の",
+    "example": "The disease is highly contagious.",
+    "example_jp": "その病気は非常に感染性が高い。"
+  },
+  {
+    "word": "vocal",
+    "meaning": "発声の",
+    "example": "She has strong vocal skills.",
+    "example_jp": "彼女は高い発声（ボーカル）技術を持っている。"
+  },
+  {
+    "word": "vocal",
+    "meaning": "遠慮なく意見を述べる",
+    "example": "He was vocal about his concerns.",
+    "example_jp": "彼は自分の懸念について遠慮なく意見を述べた。"
+  },
+  {
+    "word": "sensory",
+    "meaning": "感覚の",
+    "example": "Babies respond to sensory stimuli.",
+    "example_jp": "赤ちゃんは感覚の刺激に反応する。"
+  },
+  {
+    "word": "numb",
+    "meaning": "麻痺している，感覚を失った",
+    "example": "His fingers were numb from the cold.",
+    "example_jp": "寒さで彼の指は麻痺していた（感覚を失っていた）。"
+  },
+  {
+    "word": "physiological",
+    "meaning": "生理的な",
+    "example": "Stress causes physiological changes.",
+    "example_jp": "ストレスが生理的な変化を引き起こす。"
+  },
+  {
+    "word": "bilateral",
+    "meaning": "二国間の，双方の",
+    "example": "They signed a bilateral agreement.",
+    "example_jp": "彼らは二国間の（双方の）協定に署名した。"
+  },
+  {
+    "word": "feudal",
+    "meaning": "封建制の",
+    "example": "The country once had a feudal system.",
+    "example_jp": "その国にはかつて封建制のシステムがあった。"
+  },
+  {
+    "word": "imperial",
+    "meaning": "帝国の",
+    "example": "The imperial palace is historic.",
+    "example_jp": "皇居（帝国の宮殿）は歴史的だ。"
+  },
+  {
+    "word": "complementary",
+    "meaning": "相補的な",
+    "example": "Their skills are complementary.",
+    "example_jp": "彼らのスキルは相補的なものだ。"
+  },
+  {
+    "word": "pertinent",
+    "meaning": "関連のある",
+    "example": "His comment was pertinent to the topic.",
+    "example_jp": "彼のコメントはそのトピックに関連のあるものだった。"
+  },
+  {
+    "word": "pertinent",
+    "meaning": "適切な",
+    "example": "She asked very pertinent questions.",
+    "example_jp": "彼女は非常に適切な質問をした。"
+  },
+  {
+    "word": "intrinsic",
+    "meaning": "固有の，本来備わっている",
+    "example": "Creativity is intrinsic to human nature.",
+    "example_jp": "創造性は人間に本来備わっている（固有の）ものだ。"
+  },
+  {
+    "word": "unprecedented",
+    "meaning": "前例のない",
+    "example": "The event was unprecedented.",
+    "example_jp": "その出来事は前例のないものだった。"
+  },
+  {
+    "word": "tentative",
+    "meaning": "仮の，試験的な",
+    "example": "They made a tentative plan.",
+    "example_jp": "彼らは仮の（試験的な）計画を立てた。"
+  },
+  {
+    "word": "drastic",
+    "meaning": "抜本的な，思い切った",
+    "example": "The company took drastic measures.",
+    "example_jp": "会社は抜本的な（思い切った）措置をとった。"
+  },
+  {
+    "word": "ubiquitous",
+    "meaning": "至る所にある",
+    "example": "Smartphones are ubiquitous today.",
+    "example_jp": "今日、スマートフォンは至る所にある。"
+  },
+  {
+    "word": "pervasive",
+    "meaning": "広く行き渡った",
+    "example": "The smell was pervasive throughout the room.",
+    "example_jp": "その臭いは部屋全体に広く行き渡っていた。"
+  },
+  {
+    "word": "exponential",
+    "meaning": "指数関数的な，急激な",
+    "example": "The population grew at an exponential rate.",
+    "example_jp": "人口は指数関数的な（急激な）速さで増加した。"
+  },
+  {
+    "word": "perpetual",
+    "meaning": "絶え間ない，永続する",
+    "example": "They lived in perpetual fear.",
+    "example_jp": "彼らは絶え間ない（永続する）恐怖の中で暮らした。"
+  },
+  {
+    "word": "future-oriented",
+    "meaning": "未来志向の",
+    "example": "The company has a future-oriented strategy.",
+    "example_jp": "その会社は未来志向の戦略を持っている。"
+  },
+  {
+    "word": "intact",
+    "meaning": "無傷の",
+    "example": "The package arrived intact.",
+    "example_jp": "荷物は無傷の状態で届いた。"
+  },
+  {
+    "word": "maternal",
+    "meaning": "母の，母親らしい",
+    "example": "She has strong maternal instincts.",
+    "example_jp": "彼女は強い母の（母親らしい）本能を持っている。"
+  },
+  {
+    "word": "masculine",
+    "meaning": "男性的な",
+    "example": "His voice is very masculine.",
+    "example_jp": "彼の声はとても男性的なものだ。"
+  },
+  {
+    "word": "juvenile",
+    "meaning": "青少年の",
+    "example": "The law protects juvenile offenders.",
+    "example_jp": "法律は青少年の犯罪者を保護する。"
+  },
+  {
+    "word": "intelligible",
+    "meaning": "理解できる",
+    "example": "His speech was barely intelligible.",
+    "example_jp": "彼の演説はかろうじて理解できるものだった。"
+  },
+  {
+    "word": "dairy",
+    "meaning": "酪農の",
+    "example": "They run a dairy farm.",
+    "example_jp": "彼らは酪農の農場を経営している。"
+  },
+  {
+    "word": "stray",
+    "meaning": "家のない，道に迷った",
+    "example": "They rescued a stray cat.",
+    "example_jp": "彼らは家のない（道に迷った）猫を救助した。"
+  },
+  {
+    "word": "dormant",
+    "meaning": "休止状態の",
+    "example": "The volcano has been dormant for years.",
+    "example_jp": "その火山は何年も休止状態にある。"
+  },
+  {
+    "word": "comprehensive",
+    "meaning": "包括的な",
+    "example": "They conducted a comprehensive study.",
+    "example_jp": "彼らは包括的な調査を行った。"
+  },
+  {
+    "word": "edible",
+    "meaning": "食用の",
+    "example": "These mushrooms are edible.",
+    "example_jp": "これらのキノコは食用だ。"
+  },
+  {
+    "word": "perishable",
+    "meaning": "腐りやすい",
+    "example": "Milk is highly perishable.",
+    "example_jp": "牛乳は非常に腐りやすい。"
+  },
+  {
+    "word": "naive",
+    "meaning": "世間知らずの，愚直な",
+    "example": "He is naive about the world.",
+    "example_jp": "彼は世界の事について世間知らず（愚直）だ。"
+  },
+  {
+    "word": "zealous",
+    "meaning": "熱心な",
+    "example": "She is zealous in her studies.",
+    "example_jp": "彼女は勉強に熱心だ。"
+  },
+  {
+    "word": "timid",
+    "meaning": "臆病な",
+    "example": "The child is timid around strangers.",
+    "example_jp": "その子は知らない人の前では臆病だ。"
+  },
+  {
+    "word": "delinquent",
+    "meaning": "非行の",
+    "example": "The police arrested several delinquent youths.",
+    "example_jp": "警察は数人の非行（の）少年を逮捕した。"
+  }
+]

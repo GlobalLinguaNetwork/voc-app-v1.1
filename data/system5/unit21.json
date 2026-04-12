@@ -1,0 +1,302 @@
+[
+  {
+    "word": "priority",
+    "meaning": "優先",
+    "example": "Safety is our priority.",
+    "example_jp": "安全が私たちの優先事項です。"
+  },
+  {
+    "word": "obstacle",
+    "meaning": "障害",
+    "example": "We faced many obstacles.",
+    "example_jp": "私たちは多くの障害に直面した。"
+  },
+  {
+    "word": "appetite",
+    "meaning": "食欲",
+    "example": "I have no appetite.",
+    "example_jp": "食欲がない。"
+  },
+  {
+    "word": "tension",
+    "meaning": "緊張",
+    "example": "There was tension in the room.",
+    "example_jp": "部屋の中には緊張があった。"
+  },
+  {
+    "word": "tribe",
+    "meaning": "部族",
+    "example": "They belong to a small tribe.",
+    "example_jp": "彼らは小さな部族に属している。"
+  },
+  {
+    "word": "budget",
+    "meaning": "予算",
+    "example": "We set a new budget.",
+    "example_jp": "私たちは新しい予算を設定した。"
+  },
+  {
+    "word": "campaign",
+    "meaning": "運動、キャンペーン",
+    "example": "They started a new campaign.",
+    "example_jp": "彼らは新しいキャンペーンを始めた。"
+  },
+  {
+    "word": "sorrow",
+    "meaning": "悲しみ",
+    "example": "She felt deep sorrow.",
+    "example_jp": "彼女は深い悲しみを感じた。"
+  },
+  {
+    "word": "satellite",
+    "meaning": "衛星",
+    "example": "The satellite was launched.",
+    "example_jp": "その衛星は打ち上げられた。"
+  },
+  {
+    "word": "insight",
+    "meaning": "洞察",
+    "example": "He has great insight.",
+    "example_jp": "彼は優れた洞察力を持っている。"
+  },
+  {
+    "word": "cough",
+    "meaning": "せき",
+    "example": "He has a bad cough.",
+    "example_jp": "彼はひどい咳をしている。"
+  },
+  {
+    "word": "fate",
+    "meaning": "運命",
+    "example": "He accepted his fate.",
+    "example_jp": "彼は自分の運命を受け入れた。"
+  },
+  {
+    "word": "scheme",
+    "meaning": "計画",
+    "example": "They made a new scheme.",
+    "example_jp": "彼らは新しい計画を立てた。"
+  },
+  {
+    "word": "insult",
+    "meaning": "侮辱",
+    "example": "He took it as an insult.",
+    "example_jp": "彼はそれを侮辱と受け取った。"
+  },
+  {
+    "word": "inhabitant",
+    "meaning": "住民",
+    "example": "The island has many inhabitants.",
+    "example_jp": "その島には多くの住民がいる。"
+  },
+  {
+    "word": "fossil",
+    "meaning": "化石",
+    "example": "They found a fossil.",
+    "example_jp": "彼らは化石を見つけた。"
+  },
+  {
+    "word": "motive",
+    "meaning": "動機",
+    "example": "His motive is unclear.",
+    "example_jp": "彼の動機は不明だ。"
+  },
+  {
+    "word": "instinct",
+    "meaning": "本能",
+    "example": "Birds act on instinct.",
+    "example_jp": "鳥は本能で行動する。"
+  },
+  {
+    "word": "legend",
+    "meaning": "伝説",
+    "example": "It is an old legend.",
+    "example_jp": "それは古い伝説だ。"
+  },
+  {
+    "word": "empire",
+    "meaning": "帝国",
+    "example": "They built a large empire.",
+    "example_jp": "彼らは大きな帝国を築いた。"
+  },
+  {
+    "word": "suburb",
+    "meaning": "郊外",
+    "example": "He lives in the suburbs.",
+    "example_jp": "彼は郊外に住んでいる。"
+  },
+  {
+    "word": "architecture",
+    "meaning": "建築",
+    "example": "I love Japanese architecture.",
+    "example_jp": "私は日本の建築が好きだ。"
+  },
+  {
+    "word": "passion",
+    "meaning": "情熱",
+    "example": "She has a passion for music.",
+    "example_jp": "彼女は音楽に情熱を持っている。"
+  },
+  {
+    "word": "cancer",
+    "meaning": "ガン",
+    "example": "He is fighting cancer.",
+    "example_jp": "彼はがんと闘っている。"
+  },
+  {
+    "word": "logic",
+    "meaning": "論理",
+    "example": "His logic is clear.",
+    "example_jp": "彼の論理は明確だ。"
+  },
+  {
+    "word": "dozen",
+    "meaning": "ダース",
+    "example": "I bought a dozen eggs.",
+    "example_jp": "私は卵を一ダース買った。"
+  },
+  {
+    "word": "harvest",
+    "meaning": "収穫",
+    "example": "The harvest was good.",
+    "example_jp": "収穫は良かった。"
+  },
+  {
+    "word": "ingredient",
+    "meaning": "材料",
+    "example": "Mix all the ingredients.",
+    "example_jp": "すべての材料を混ぜなさい。"
+  },
+  {
+    "word": "hypothesis",
+    "meaning": "仮説",
+    "example": "His hypothesis was correct.",
+    "example_jp": "彼の仮説は正しかった。"
+  },
+  {
+    "word": "voyage",
+    "meaning": "航海",
+    "example": "They began a long voyage.",
+    "example_jp": "彼らは長い航海を始めた。"
+  },
+  {
+    "word": "editor",
+    "meaning": "編集者",
+    "example": "She is a magazine editor.",
+    "example_jp": "彼女は雑誌の編集者だ。"
+  },
+  {
+    "word": "option",
+    "meaning": "選択の自由",
+    "example": "You have two options.",
+    "example_jp": "あなたには二つの選択肢がある。"
+  },
+  {
+    "word": "hemisphere",
+    "meaning": "半球",
+    "example": "Japan is in the Northern Hemisphere.",
+    "example_jp": "日本は北半球にある。"
+  },
+  {
+    "word": "mechanism",
+    "meaning": "仕組み",
+    "example": "I studied the mechanism.",
+    "example_jp": "私はその仕組みを研究した。"
+  },
+  {
+    "word": "anthropologist",
+    "meaning": "人類学者",
+    "example": "She is an anthropologist.",
+    "example_jp": "彼女は人類学者だ。"
+  },
+  {
+    "word": "tragedy",
+    "meaning": "悲劇",
+    "example": "It was a great tragedy.",
+    "example_jp": "それは大きな悲劇だった。"
+  },
+  {
+    "word": "antibiotic",
+    "meaning": "抗生物質",
+    "example": "He took antibiotics.",
+    "example_jp": "彼は抗生物質を服用した。"
+  },
+  {
+    "word": "fare",
+    "meaning": "運賃",
+    "example": "The bus fare is 200 yen.",
+    "example_jp": "バスの運賃は200円です。"
+  },
+  {
+    "word": "debt",
+    "meaning": "借金",
+    "example": "He is in debt.",
+    "example_jp": "彼は借金がある。"
+  },
+  {
+    "word": "curriculum",
+    "meaning": "教育課程",
+    "example": "The school changed its curriculum.",
+    "example_jp": "その学校は教育課程を変更した。"
+  },
+  {
+    "word": "component",
+    "meaning": "構成要素",
+    "example": "This part is a key component.",
+    "example_jp": "この部分は重要な構成要素だ。"
+  },
+  {
+    "word": "wheat",
+    "meaning": "小麦",
+    "example": "They grow wheat.",
+    "example_jp": "彼らは小麦を栽培している。"
+  },
+  {
+    "word": "usage",
+    "meaning": "語法",
+    "example": "This word has many usages.",
+    "example_jp": "この単語には多くの用法がある。"
+  },
+  {
+    "word": "castle",
+    "meaning": "城",
+    "example": "We visited an old castle.",
+    "example_jp": "私たちは古い城を訪れた。"
+  },
+  {
+    "word": "famine",
+    "meaning": "飢饉",
+    "example": "The famine lasted years.",
+    "example_jp": "その飢饉は何年も続いた。"
+  },
+  {
+    "word": "extinction",
+    "meaning": "絶滅",
+    "example": "Many animals face extinction.",
+    "example_jp": "多くの動物が絶滅の危機に直面している。"
+  },
+  {
+    "word": "purse",
+    "meaning": "財布",
+    "example": "She lost her purse.",
+    "example_jp": "彼女は財布をなくした。"
+  },
+  {
+    "word": "folk",
+    "meaning": "民族",
+    "example": "Folk music is popular.",
+    "example_jp": "フォーク音楽は人気がある。"
+  },
+  {
+    "word": "explosion",
+    "meaning": "爆発",
+    "example": "The explosion shook the town.",
+    "example_jp": "爆発が町を揺るがした。"
+  },
+  {
+    "word": "portion",
+    "meaning": "部分",
+    "example": "I ate a small portion.",
+    "example_jp": "私は少量を食べた。"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "word": "peer",
+    "meaning": "同僚",
+    "example": "He talked with his peers.",
+    "example_jp": "彼は同僚と話した。"
+  },
+  {
+    "word": "peer",
+    "meaning": "同等の人",
+    "example": "She is a peer of mine.",
+    "example_jp": "彼女は私と同等の人だ。"
+  },
+  {
+    "word": "peer",
+    "meaning": "凝視する",
+    "example": "He peered at the screen.",
+    "example_jp": "彼は画面を凝視した。"
+  },
+  {
+    "word": "passenger",
+    "meaning": "乗客",
+    "example": "The passengers boarded the train.",
+    "example_jp": "乗客たちが列車に乗り込んだ。"
+  },
+  {
+    "word": "tuition",
+    "meaning": "授業料",
+    "example": "Tuition is expensive.",
+    "example_jp": "授業料は高い。"
+  },
+  {
+    "word": "tuition",
+    "meaning": "指導",
+    "example": "He received private tuition.",
+    "example_jp": "彼は個別の指導を受けた。"
+  },
+  {
+    "word": "tuition",
+    "meaning": "教授",
+    "example": "She gives English tuition.",
+    "example_jp": "彼女は英語の教授（指導）を行っている。"
+  },
+  {
+    "word": "afraid",
+    "meaning": "恐れて",
+    "example": "He is afraid of dogs.",
+    "example_jp": "彼は犬を恐れている。"
+  },
+  {
+    "word": "afraid",
+    "meaning": "心配して",
+    "example": "I am afraid it will rain.",
+    "example_jp": "私は雨が降るのではないかと心配している。"
+  },
+  {
+    "word": "dialect",
+    "meaning": "方言",
+    "example": "He speaks a local dialect.",
+    "example_jp": "彼は地方の方言を話す。"
+  },
+  {
+    "word": "accent",
+    "meaning": "なまり",
+    "example": "She has a British accent.",
+    "example_jp": "彼女にはイギリス英語のなまりがある。"
+  },
+  {
+    "word": "accent",
+    "meaning": "アクセント",
+    "example": "Put the accent on the first syllable.",
+    "example_jp": "第一音節にアクセントを置きなさい。"
+  },
+  {
+    "word": "linguistic",
+    "meaning": "言語の",
+    "example": "He studies linguistic theory.",
+    "example_jp": "彼は言語の理論を研究している。"
+  },
+  {
+    "word": "bilingual",
+    "meaning": "２カ国語を話す",
+    "example": "She is bilingual in Japanese and English.",
+    "example_jp": "彼女は日本語と英語の２カ国語を話す。"
+  },
+  {
+    "word": "noisy",
+    "meaning": "騒々しい",
+    "example": "The room was noisy.",
+    "example_jp": "部屋は騒々しかった。"
+  },
+  {
+    "word": "bury",
+    "meaning": "埋める",
+    "example": "They buried the treasure.",
+    "example_jp": "彼らは宝を埋めた。"
+  },
+  {
+    "word": "bury",
+    "meaning": "埋める",
+    "example": "He was buried yesterday.",
+    "example_jp": "彼は昨日埋葬された（埋められた）。"
+  },
+  {
+    "word": "favor",
+    "meaning": "親切な行為",
+    "example": "He did me a favor.",
+    "example_jp": "彼は私に親切な行為をしてくれた。"
+  },
+  {
+    "word": "favor",
+    "meaning": "支持",
+    "example": "She has my favor.",
+    "example_jp": "彼女は私の支持を得ている。"
+  },
+  {
+    "word": "favor",
+    "meaning": "支持する",
+    "example": "I favor this plan.",
+    "example_jp": "私はこの計画を支持する。"
+  },
+  {
+    "word": "countless",
+    "meaning": "無数の",
+    "example": "There are countless stars.",
+    "example_jp": "無数の星がある。"
+  },
+  {
+    "word": "gallery",
+    "meaning": "美術館",
+    "example": "We visited an art gallery.",
+    "example_jp": "私たちは美術館を訪れた。"
+  },
+  {
+    "word": "gallery",
+    "meaning": "観客",
+    "example": "The gallery watched the game.",
+    "example_jp": "観客が試合を見守った。"
+  },
+  {
+    "word": "petition",
+    "meaning": "請願書",
+    "example": "They signed a petition.",
+    "example_jp": "彼らは請願書に署名した。"
+  },
+  {
+    "word": "petition",
+    "meaning": "嘆願する",
+    "example": "They petitioned the government.",
+    "example_jp": "彼らは政府に嘆願した。"
+  },
+  {
+    "word": "permission",
+    "meaning": "許可",
+    "example": "He got permission to enter.",
+    "example_jp": "彼は入る許可を得た。"
+  },
+  {
+    "word": "authority",
+    "meaning": "権限",
+    "example": "He has the authority to decide.",
+    "example_jp": "彼は決定する権限を持っている。"
+  },
+  {
+    "word": "authority",
+    "meaning": "権威",
+    "example": "She is an authority on history.",
+    "example_jp": "彼女は歴史の権威だ。"
+  },
+  {
+    "word": "authority",
+    "meaning": "当局",
+    "example": "The authorities acted quickly.",
+    "example_jp": "当局は素早く行動した。"
+  },
+  {
+    "word": "medieval",
+    "meaning": "中世の",
+    "example": "Medieval castles still stand.",
+    "example_jp": "中世の城が今も立っている。"
+  },
+  {
+    "word": "knight",
+    "meaning": "騎士",
+    "example": "He became a knight.",
+    "example_jp": "彼は騎士になった。"
+  },
+  {
+    "word": "lord",
+    "meaning": "貴族",
+    "example": "The lord owned the land.",
+    "example_jp": "その貴族が土地を所有していた。"
+  },
+  {
+    "word": "lord",
+    "meaning": "～卿",
+    "example": "Lord Byron was a poet.",
+    "example_jp": "バイロン卿は詩人だった。"
+  },
+  {
+    "word": "lord",
+    "meaning": "君主",
+    "example": "The lord ruled the country.",
+    "example_jp": "その君主が国を統治した。"
+  },
+  {
+    "word": "admire",
+    "meaning": "賞賛する",
+    "example": "I admire your courage.",
+    "example_jp": "私はあなたの勇気を賞賛する。"
+  },
+  {
+    "word": "admire",
+    "meaning": "感心する",
+    "example": "He admired her work.",
+    "example_jp": "彼は彼女の作品に感心した。"
+  },
+  {
+    "word": "congratulation",
+    "meaning": "祝賀",
+    "example": "They sent their congratulations.",
+    "example_jp": "彼らは祝賀（のお祝い）を送った。"
+  },
+  {
+    "word": "congratulation",
+    "meaning": "おめでとう",
+    "example": "Congratulations on your success.",
+    "example_jp": "成功おめでとう。"
+  },
+  {
+    "word": "sympathy",
+    "meaning": "同情",
+    "example": "I have sympathy for him.",
+    "example_jp": "私は彼に同情している。"
+  },
+  {
+    "word": "sympathy",
+    "meaning": "共感",
+    "example": "She showed sympathy.",
+    "example_jp": "彼女は共感を示した。"
+  },
+  {
+    "word": "empathy",
+    "meaning": "感情移入",
+    "example": "He has empathy for others.",
+    "example_jp": "彼は他人に感情移入する。"
+  },
+  {
+    "word": "empathy",
+    "meaning": "共感",
+    "example": "Empathy is important in counseling.",
+    "example_jp": "カウンセリングにおいて共感は重要だ。"
+  },
+  {
+    "word": "attend",
+    "meaning": "出席する",
+    "example": "He attended the meeting.",
+    "example_jp": "彼は会議に出席した。"
+  },
+  {
+    "word": "attend",
+    "meaning": "通う",
+    "example": "She attends school in Tokyo.",
+    "example_jp": "彼女は東京の学校に通っている。"
+  },
+  {
+    "word": "attend",
+    "meaning": "面倒を見る",
+    "example": "Please attend to the patient.",
+    "example_jp": "その患者の面倒を見てください。"
+  },
+  {
+    "word": "attend",
+    "meaning": "注意を払う",
+    "example": "He didn’t attend to my words.",
+    "example_jp": "彼は私の言葉に注意を払わなかった。"
+  },
+  {
+    "word": "affordable",
+    "meaning": "手頃な価格の",
+    "example": "This house is affordable.",
+    "example_jp": "この家は手頃な価格だ。"
+  },
+  {
+    "word": "faculty",
+    "meaning": "能力",
+    "example": "He has great faculty for learning.",
+    "example_jp": "彼は学習に対する優れた能力を持っている。"
+  },
+  {
+    "word": "faculty",
+    "meaning": "学部",
+    "example": "She belongs to the law faculty.",
+    "example_jp": "彼女は法学部に所属している。"
+  },
+  {
+    "word": "faculty",
+    "meaning": "全教員",
+    "example": "The faculty met today.",
+    "example_jp": "今日、全教員が集まった。"
+  },
+  {
+    "word": "overwork",
+    "meaning": "酷使する",
+    "example": "They overworked him.",
+    "example_jp": "彼らは彼を酷使した。"
+  },
+  {
+    "word": "overwork",
+    "meaning": "過労",
+    "example": "He collapsed from overwork.",
+    "example_jp": "彼は過労で倒れた。"
+  },
+  {
+    "word": "milestone",
+    "meaning": "重要な段階",
+    "example": "Graduation is a milestone.",
+    "example_jp": "卒業は一つの重要な段階だ。"
+  },
+  {
+    "word": "milestone",
+    "meaning": "画期的な事件",
+    "example": "The discovery was a milestone.",
+    "example_jp": "その発見は画期的な事件だった。"
+  },
+  {
+    "word": "advent",
+    "meaning": "到来",
+    "example": "The advent of the Internet changed life.",
+    "example_jp": "インターネットの到来が生活を変えた。"
+  },
+  {
+    "word": "accumulate",
+    "meaning": "蓄積する",
+    "example": "Snow accumulated on the roof.",
+    "example_jp": "屋根に雪が蓄積した。"
+  },
+  {
+    "word": "accumulate",
+    "meaning": "蓄積する",
+    "example": "He accumulated wealth.",
+    "example_jp": "彼は富を蓄積した。"
+  },
+  {
+    "word": "contrast",
+    "meaning": "対比",
+    "example": "There is a contrast between the two.",
+    "example_jp": "その2つの間には対比がある。"
+  },
+  {
+    "word": "contrast",
+    "meaning": "対比する",
+    "example": "He contrasted A with B.",
+    "example_jp": "彼はAをBと対比させた。"
+  },
+  {
+    "word": "contrast",
+    "meaning": "対照をなす",
+    "example": "The color contrasts with the wall.",
+    "example_jp": "その色は壁と対照をなしている。"
+  },
+  {
+    "word": "calculation",
+    "meaning": "計算",
+    "example": "His calculation was correct.",
+    "example_jp": "彼の計算は正しかった。"
+  },
+  {
+    "word": "calculation",
+    "meaning": "推定",
+    "example": "It was based on careful calculation.",
+    "example_jp": "それは慎重な推定に基づいていた。"
+  },
+  {
+    "word": "statistics",
+    "meaning": "統計学",
+    "example": "He studies statistics.",
+    "example_jp": "彼は統計学を研究している。"
+  },
+  {
+    "word": "statistics",
+    "meaning": "統計",
+    "example": "The statistics show growth.",
+    "example_jp": "統計は成長を示している。"
+  },
+  {
+    "word": "compute",
+    "meaning": "計算する",
+    "example": "The computer computed the answer.",
+    "example_jp": "コンピュータが答えを計算した。"
+  },
+  {
+    "word": "latest",
+    "meaning": "最新の",
+    "example": "This is the latest model.",
+    "example_jp": "これが最新のモデルだ。"
+  },
+  {
+    "word": "latest",
+    "meaning": "最近の",
+    "example": "The latest news arrived.",
+    "example_jp": "最近のニュースが届いた。"
+  },
+  {
+    "word": "unprecedented",
+    "meaning": "先例のない",
+    "example": "The event was unprecedented.",
+    "example_jp": "その出来事は先例のないものだった。"
+  },
+  {
+    "word": "unprecedented",
+    "meaning": "空前の",
+    "example": "The growth is unprecedented.",
+    "example_jp": "その成長は空前のものだ。"
+  },
+  {
+    "word": "principle",
+    "meaning": "主義",
+    "example": "He follows strong principles.",
+    "example_jp": "彼は強い主義に従っている。"
+  },
+  {
+    "word": "principle",
+    "meaning": "原理",
+    "example": "The principle is simple.",
+    "example_jp": "その原理は単純だ。"
+  },
+  {
+    "word": "principle",
+    "meaning": "原則",
+    "example": "They agreed on basic principles.",
+    "example_jp": "彼らは基本的な原則に合意した。"
+  },
+  {
+    "word": "principle",
+    "meaning": "信条",
+    "example": "It goes against my principles.",
+    "example_jp": "それは私の信条に反する。"
+  },
+  {
+    "word": "ideology",
+    "meaning": "イデオロギー",
+    "example": "The ideology spread quickly.",
+    "example_jp": "そのイデオロギーは素早く広まった。"
+  },
+  {
+    "word": "ideology",
+    "meaning": "思想傾向",
+    "example": "His ideology influenced many.",
+    "example_jp": "彼の思想傾向は多くの人に影響を与えた。"
+  },
+  {
+    "word": "regime",
+    "meaning": "政権",
+    "example": "The regime collapsed.",
+    "example_jp": "その政権は崩壊した。"
+  },
+  {
+    "word": "regime",
+    "meaning": "体制",
+    "example": "The country changed its regime.",
+    "example_jp": "その国は体制を変えた。"
+  },
+  {
+    "word": "nevertheless",
+    "meaning": "それにもかかわらず",
+    "example": "It was difficult; nevertheless, he tried.",
+    "example_jp": "それは難しかったが、それにもかかわらず彼は試みた。"
+  },
+  {
+    "word": "nonetheless",
+    "meaning": "それにもかかわらず",
+    "example": "It was raining; nonetheless, they played.",
+    "example_jp": "雨が降っていたが、それにもかかわらず彼らはプレーした。"
+  },
+  {
+    "word": "genius",
+    "meaning": "天才",
+    "example": "He is a genius.",
+    "example_jp": "彼は天才だ。"
+  },
+  {
+    "word": "genius",
+    "meaning": "才能",
+    "example": "She has a genius for music.",
+    "example_jp": "彼女には音楽の才能がある。"
+  },
+  {
+    "word": "scratch",
+    "meaning": "ひっかき傷",
+    "example": "He got a scratch on his hand.",
+    "example_jp": "彼は手にひっかき傷を負った。"
+  },
+  {
+    "word": "scratch",
+    "meaning": "ひっかく",
+    "example": "The cat scratched the sofa.",
+    "example_jp": "猫がソファをひっかいた。"
+  },
+  {
+    "word": "stain",
+    "meaning": "汚れ",
+    "example": "There is a stain on the shirt.",
+    "example_jp": "シャツに汚れがある。"
+  },
+  {
+    "word": "stain",
+    "meaning": "汚す",
+    "example": "Coffee stained the table.",
+    "example_jp": "コーヒーがテーブルを汚した。"
+  },
+  {
+    "word": "prepare",
+    "meaning": "準備する",
+    "example": "He prepared the room for guests.",
+    "example_jp": "彼は客のために部屋を準備した。"
+  },
+  {
+    "word": "prepare",
+    "meaning": "覚悟させる",
+    "example": "She prepared him for the exam.",
+    "example_jp": "彼女は彼に試験の覚悟をさせた。"
+  },
+  {
+    "word": "prepare",
+    "meaning": "準備をする",
+    "example": "He prepared for the trip.",
+    "example_jp": "彼は旅行の準備をした。"
+  },
+  {
+    "word": "utter",
+    "meaning": "発する",
+    "example": "He uttered a sigh.",
+    "example_jp": "彼はため息を発した。"
+  },
+  {
+    "word": "utter",
+    "meaning": "まったくの",
+    "example": "It was utter nonsense.",
+    "example_jp": "それはまったくのナンセンスだった。"
+  },
+  {
+    "word": "oral",
+    "meaning": "口頭の",
+    "example": "He gave an oral report.",
+    "example_jp": "彼は口頭の報告を行った。"
+  },
+  {
+    "word": "oral",
+    "meaning": "口内の",
+    "example": "Oral health is important.",
+    "example_jp": "口内の健康は重要だ。"
+  },
+  {
+    "word": "verbal",
+    "meaning": "言葉の",
+    "example": "They had a verbal agreement.",
+    "example_jp": "彼らは言葉の合意を交わした。"
+  },
+  {
+    "word": "verbal",
+    "meaning": "口頭の",
+    "example": "He gave a verbal explanation.",
+    "example_jp": "彼は口頭の説明を行った。"
+  },
+  {
+    "word": "guide",
+    "meaning": "案内する",
+    "example": "He guided us through the city.",
+    "example_jp": "彼は私たちに街を案内した。"
+  },
+  {
+    "word": "guide",
+    "meaning": "指導する",
+    "example": "She guided the students.",
+    "example_jp": "彼女は学生たちを指導した。"
+  },
+  {
+    "word": "guide",
+    "meaning": "案内人",
+    "example": "He is a tour guide.",
+    "example_jp": "彼はツアーの案内人だ。"
+  },
+  {
+    "word": "guide",
+    "meaning": "指針",
+    "example": "This book is a useful guide.",
+    "example_jp": "この本は役に立つ指針だ。"
+  },
+  {
+    "word": "guideline",
+    "meaning": "指針",
+    "example": "They set new guidelines.",
+    "example_jp": "彼らは新しい指針を設定した。"
+  },
+  {
+    "word": "guideline",
+    "meaning": "目標",
+    "example": "Follow the guidelines.",
+    "example_jp": "その目標に従いなさい。"
+  }
+]

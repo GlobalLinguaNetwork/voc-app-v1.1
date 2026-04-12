@@ -1,0 +1,338 @@
+[
+  {
+    "word": "look ～ in the eye",
+    "meaning": "～の目を正視する",
+    "example": "He looked me in the eye.",
+    "example_jp": "彼は私の目を正視した。"
+  },
+  {
+    "word": "hold true",
+    "meaning": "当てはまる、有効である",
+    "example": "This rule holds true for everyone.",
+    "example_jp": "この規則はすべての人に当てはまる。"
+  },
+  {
+    "word": "come to terms with",
+    "meaning": "～を受け入れる",
+    "example": "She came to terms with her loss.",
+    "example_jp": "彼女は自分の失ったものを受け入れた。"
+  },
+  {
+    "word": "come to light",
+    "meaning": "明るみに出る",
+    "example": "The truth came to light.",
+    "example_jp": "真実が明るみに出た。"
+  },
+  {
+    "word": "come of age",
+    "meaning": "成人になる",
+    "example": "He came of age last year.",
+    "example_jp": "彼は昨年成人になった。"
+  },
+  {
+    "word": "come in handy",
+    "meaning": "役に立つ",
+    "example": "This tool will come in handy.",
+    "example_jp": "この道具は役に立つだろう。"
+  },
+  {
+    "word": "fall short of",
+    "meaning": "～に達しない",
+    "example": "The result fell short of expectations.",
+    "example_jp": "その結果は期待に達しなかった。"
+  },
+  {
+    "word": "go a long way to do",
+    "meaning": "…するのに大いに役立つ",
+    "example": "This will go a long way to solving the problem.",
+    "example_jp": "これは問題の解決に大いに役立つだろう。"
+  },
+  {
+    "word": "pave the way for",
+    "meaning": "～への道を開く",
+    "example": "His work paved the way for progress.",
+    "example_jp": "彼の仕事が進歩への道を開いた。"
+  },
+  {
+    "word": "put ～ to use",
+    "meaning": "～を利用する",
+    "example": "She put her skills to use.",
+    "example_jp": "彼女は自分のスキルを利用した。"
+  },
+  {
+    "word": "stand to reason",
+    "meaning": "もっともである",
+    "example": "It stands to reason that he is tired.",
+    "example_jp": "彼が疲れているのはもっともだ。"
+  },
+  {
+    "word": "see the sights of",
+    "meaning": "観光をする",
+    "example": "We saw the sights of Kyoto.",
+    "example_jp": "私たちは京都を観光した。"
+  },
+  {
+    "word": "do the sights of",
+    "meaning": "観光をする",
+    "example": "They did the sights of London.",
+    "example_jp": "彼らはロンドンを観光した。"
+  },
+  {
+    "word": "read between the lines",
+    "meaning": "行間を読む",
+    "example": "Try to read between the lines.",
+    "example_jp": "行間を読むようにしなさい。"
+  },
+  {
+    "word": "follow suit",
+    "meaning": "人のまねをする",
+    "example": "Others followed suit.",
+    "example_jp": "他の人たちも人のまねをした。"
+  },
+  {
+    "word": "play a joke on",
+    "meaning": "～にいたずらをする",
+    "example": "They played a joke on him.",
+    "example_jp": "彼らは彼にいたずらをした。"
+  },
+  {
+    "word": "get on one's nerves",
+    "meaning": "～の神経にさわる",
+    "example": "His noise gets on my nerves.",
+    "example_jp": "彼の出す騒音は私の神経にさわる。"
+  },
+  {
+    "word": "get the better of",
+    "meaning": "～に勝つ",
+    "example": "She got the better of him.",
+    "example_jp": "彼女は彼に勝った。"
+  },
+  {
+    "word": "have the better of",
+    "meaning": "～を出し抜く",
+    "example": "He had the better of the argument.",
+    "example_jp": "彼は議論で相手を出し抜いた。"
+  },
+  {
+    "word": "get even with",
+    "meaning": "仕返しをする",
+    "example": "He got even with his rival.",
+    "example_jp": "彼はライバルに仕返しをした。"
+  },
+  {
+    "word": "hold ～ in check",
+    "meaning": "～を抑える",
+    "example": "They held inflation in check.",
+    "example_jp": "彼らはインフレを抑えた。"
+  },
+  {
+    "word": "keep ～ in check",
+    "meaning": "～を抑える",
+    "example": "Keep your anger in check.",
+    "example_jp": "怒りを抑えなさい。"
+  },
+  {
+    "word": "have an eye for",
+    "meaning": "～に対する鑑識力がある",
+    "example": "She has an eye for art.",
+    "example_jp": "彼女は芸術に対する鑑識力がある。"
+  },
+  {
+    "word": "have ～ on one's mind",
+    "meaning": "～を気にしている",
+    "example": "He has something on his mind.",
+    "example_jp": "彼は何かを気にしている。"
+  },
+  {
+    "word": "have yet to do",
+    "meaning": "まだ…していない",
+    "example": "I have yet to finish it.",
+    "example_jp": "私はまだそれを終わらせていない。"
+  },
+  {
+    "word": "dare to do",
+    "meaning": "思い切って…する",
+    "example": "He dared to speak.",
+    "example_jp": "彼は思い切って話した。"
+  },
+  {
+    "word": "impose A on B",
+    "meaning": "AをBに課す",
+    "example": "They imposed a tax on citizens.",
+    "example_jp": "彼らは市民に税を課した。"
+  },
+  {
+    "word": "ascribe A to B",
+    "meaning": "AをBのせいにする",
+    "example": "He ascribed his success to luck.",
+    "example_jp": "彼は自分の成功を運のせいにした。"
+  },
+  {
+    "word": "bring A home to B",
+    "meaning": "AをBに痛感させる",
+    "example": "The accident brought home to him the danger.",
+    "example_jp": "その事故は彼に危険を痛感させた。"
+  },
+  {
+    "word": "a variety of",
+    "meaning": "いろいろな～",
+    "example": "We sell a variety of books.",
+    "example_jp": "私たちはさまざまな本を売っている。"
+  },
+  {
+    "word": "a handful of",
+    "meaning": "少数の～",
+    "example": "Only a handful of people came.",
+    "example_jp": "ほんの少数の人々しか来なかった。"
+  },
+  {
+    "word": "a host of",
+    "meaning": "多数の～",
+    "example": "A host of problems appeared.",
+    "example_jp": "多数の問題が現れた。"
+  },
+  {
+    "word": "scores of",
+    "meaning": "多数の～",
+    "example": "Scores of people joined.",
+    "example_jp": "多数の人々が参加した。"
+  },
+  {
+    "word": "many a",
+    "meaning": "多くの～",
+    "example": "Many a student failed.",
+    "example_jp": "多くの生徒が失敗（不合格に）した。"
+  },
+  {
+    "word": "quite a few",
+    "meaning": "かなりの数の～",
+    "example": "Quite a few people agreed.",
+    "example_jp": "かなりの数の人々が同意した。"
+  },
+  {
+    "word": "all manner of",
+    "meaning": "あらゆる種類の～",
+    "example": "They faced all manner of difficulties.",
+    "example_jp": "彼らはあらゆる種類の困難に直面した。"
+  },
+  {
+    "word": "on one's own",
+    "meaning": "自分1人で",
+    "example": "He solved it on his own.",
+    "example_jp": "彼は自分1人でそれを解決した。"
+  },
+  {
+    "word": "all on one's own",
+    "meaning": "すべて独力で",
+    "example": "She did it all on her own.",
+    "example_jp": "彼女はすべて独力でそれをやった。"
+  },
+  {
+    "word": "at issue",
+    "meaning": "問題の",
+    "example": "The point at issue is money.",
+    "example_jp": "問題の点は、お金である。"
+  },
+  {
+    "word": "at one's disposal",
+    "meaning": "自由に使える",
+    "example": "The car is at your disposal.",
+    "example_jp": "その車はあなたの自由に使える。"
+  },
+  {
+    "word": "at stake",
+    "meaning": "危うくなって",
+    "example": "His future is at stake.",
+    "example_jp": "彼の未来が危うくなっている。"
+  },
+  {
+    "word": "～ to go around",
+    "meaning": "行き渡るだけの～",
+    "example": "There is enough food to go around.",
+    "example_jp": "全員に行き渡るだけの十分な食べ物がある。"
+  },
+  {
+    "word": "every other",
+    "meaning": "1日おきに",
+    "example": "He comes every other day.",
+    "example_jp": "彼は1日おきに来る。"
+  },
+  {
+    "word": "every other",
+    "meaning": "残りのすべての～",
+    "example": "Every other student passed.",
+    "example_jp": "残りのすべての生徒が合格した。"
+  },
+  {
+    "word": "for a rainy day",
+    "meaning": "まさかの時に備えて",
+    "example": "Save money for a rainy day.",
+    "example_jp": "まさかの時に備えてお金を貯めなさい。"
+  },
+  {
+    "word": "in earnest",
+    "meaning": "本格的に",
+    "example": "The work began in earnest.",
+    "example_jp": "その仕事は本格的に始まった。"
+  },
+  {
+    "word": "in good shape",
+    "meaning": "調子が良い",
+    "example": "He is in good shape.",
+    "example_jp": "彼は調子が良い。"
+  },
+  {
+    "word": "in store for",
+    "meaning": "～に降りかかろうとして",
+    "example": "Something good is in store for you.",
+    "example_jp": "何か良いことがあなたに降りかかろうとしている。"
+  },
+  {
+    "word": "in the works",
+    "meaning": "進行中で",
+    "example": "A new plan is in the works.",
+    "example_jp": "新しい計画が進行中である。"
+  },
+  {
+    "word": "nothing short of",
+    "meaning": "まさしく～",
+    "example": "It was nothing short of a miracle.",
+    "example_jp": "それはまさしく奇跡だった。"
+  },
+  {
+    "word": "～ of one's own",
+    "meaning": "自分自身の～",
+    "example": "He has a room of his own.",
+    "example_jp": "彼は自分自身の部屋を持っている。"
+  },
+  {
+    "word": "of one's own doing",
+    "meaning": "（人）が…した",
+    "example": "This trouble is of your own doing.",
+    "example_jp": "このトラブルはあなたがしたことだ。"
+  },
+  {
+    "word": "on the move",
+    "meaning": "移動中で、活躍中で",
+    "example": "He is always on the move.",
+    "example_jp": "彼はいつも移動中（活躍中）だ。"
+  },
+  {
+    "word": "on the ～ side",
+    "meaning": "～気味で",
+    "example": "He is on the tall side.",
+    "example_jp": "彼は背が高い気味だ。"
+  },
+  {
+    "word": "out of hand",
+    "meaning": "手に負えない",
+    "example": "The situation got out of hand.",
+    "example_jp": "状況は手に負えなくなった。"
+  },
+  {
+    "word": "out of hand",
+    "meaning": "即座に",
+    "example": "He refused out of hand.",
+    "example_jp": "彼は即座に拒絶した。"
+  }
+]

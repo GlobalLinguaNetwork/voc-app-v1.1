@@ -1,0 +1,608 @@
+[
+  {
+    "word": "whenever",
+    "meaning": "…する時はいつも",
+    "example": "Call me whenever you need.",
+    "example_jp": "必要な時はいつでも電話してください。"
+  },
+  {
+    "word": "whenever",
+    "meaning": "いつ…しようとも",
+    "example": "Whenever he comes, I smile.",
+    "example_jp": "彼がいつ来ようとも、私は微笑む。"
+  },
+  {
+    "word": "wherever",
+    "meaning": "…するところはどこでも",
+    "example": "I will go wherever you go.",
+    "example_jp": "あなたが行くところならどこでも私は行く。"
+  },
+  {
+    "word": "wherever",
+    "meaning": "どこに…しようとも",
+    "example": "Wherever he is, he works hard.",
+    "example_jp": "彼がどこにいようとも、彼は熱心に働く。"
+  },
+  {
+    "word": "relative",
+    "meaning": "相対的な",
+    "example": "This value is relative.",
+    "example_jp": "この数値は相対的なものだ。"
+  },
+  {
+    "word": "relative",
+    "meaning": "関係のある",
+    "example": "The topic is relative to science.",
+    "example_jp": "そのトピックは科学に関係のあるものだ。"
+  },
+  {
+    "word": "relative",
+    "meaning": "親戚",
+    "example": "She visited her relatives.",
+    "example_jp": "彼女は親戚を訪ねた。"
+  },
+  {
+    "word": "sibling",
+    "meaning": "きょうだい",
+    "example": "He has two siblings.",
+    "example_jp": "彼には2人のきょうだいがいる。"
+  },
+  {
+    "word": "graduation",
+    "meaning": "卒業",
+    "example": "Her graduation is next week.",
+    "example_jp": "彼女の卒業は来週だ。"
+  },
+  {
+    "word": "graduation",
+    "meaning": "卒業式",
+    "example": "We went to the graduation ceremony.",
+    "example_jp": "私たちは卒業式に行った。"
+  },
+  {
+    "word": "absolutely",
+    "meaning": "まったく",
+    "example": "I absolutely agree.",
+    "example_jp": "私はまったく同意する。"
+  },
+  {
+    "word": "absolutely",
+    "meaning": "まったくその通りだ",
+    "example": "Absolutely, you are right.",
+    "example_jp": "まったくその通りだ、あなたが正しい。"
+  },
+  {
+    "word": "absolutely",
+    "meaning": "絶対に",
+    "example": "It is absolutely true.",
+    "example_jp": "それは絶対に真実だ。"
+  },
+  {
+    "word": "ultimate",
+    "meaning": "究極の",
+    "example": "This is the ultimate goal.",
+    "example_jp": "これが究極の目標だ。"
+  },
+  {
+    "word": "ultimate",
+    "meaning": "最終の",
+    "example": "The ultimate result was good.",
+    "example_jp": "最終の結果は良かった。"
+  },
+  {
+    "word": "depress",
+    "meaning": "落胆させる",
+    "example": "The news depressed him.",
+    "example_jp": "そのニュースは彼を落胆させた。"
+  },
+  {
+    "word": "disappoint",
+    "meaning": "失望させる",
+    "example": "The result disappointed us.",
+    "example_jp": "その結果は私たちを失望させた。"
+  },
+  {
+    "word": "recession",
+    "meaning": "不況",
+    "example": "The country faced a recession.",
+    "example_jp": "その国は不況に直面した。"
+  },
+  {
+    "word": "suppress",
+    "meaning": "鎮圧する",
+    "example": "They suppressed the riot.",
+    "example_jp": "彼らは暴動を鎮圧した。"
+  },
+  {
+    "word": "suppress",
+    "meaning": "抑える",
+    "example": "He suppressed his anger.",
+    "example_jp": "彼は怒りを抑えた。"
+  },
+  {
+    "word": "grin",
+    "meaning": "にやりとする",
+    "example": "He grinned at me.",
+    "example_jp": "彼は私を見てにやりとした。"
+  },
+  {
+    "word": "grin",
+    "meaning": "にやつき笑い",
+    "example": "His grin was wide.",
+    "example_jp": "彼のにやつき笑いは大きかった。"
+  },
+  {
+    "word": "saying",
+    "meaning": "ことわざ",
+    "example": "I know that saying.",
+    "example_jp": "私はそのことわざを知っている。"
+  },
+  {
+    "word": "translate",
+    "meaning": "翻訳する",
+    "example": "She translated the book into English.",
+    "example_jp": "彼女はその本を英語に翻訳した。"
+  },
+  {
+    "word": "translate",
+    "meaning": "結果として…になる",
+    "example": "The idea translated into action.",
+    "example_jp": "その考えが結果として行動になった。"
+  },
+  {
+    "word": "translate",
+    "meaning": "訳される",
+    "example": "The word translates as “love.”",
+    "example_jp": "その言葉は「愛」と訳される。"
+  },
+  {
+    "word": "interpret",
+    "meaning": "解釈する",
+    "example": "He interpreted the text.",
+    "example_jp": "彼はその本文を解釈した。"
+  },
+  {
+    "word": "interpret",
+    "meaning": "通訳する",
+    "example": "She interpreted for him.",
+    "example_jp": "彼女は彼のために通訳した。"
+  },
+  {
+    "word": "laugh",
+    "meaning": "笑う",
+    "example": "They laughed at the joke.",
+    "example_jp": "彼らはそのジョークに笑った。"
+  },
+  {
+    "word": "gentle",
+    "meaning": "優しい",
+    "example": "She has a gentle voice.",
+    "example_jp": "彼女は優しい声をしている。"
+  },
+  {
+    "word": "gentle",
+    "meaning": "穏やかな",
+    "example": "The wind is gentle.",
+    "example_jp": "風は穏やかだ。"
+  },
+  {
+    "word": "steep",
+    "meaning": "急勾配の",
+    "example": "The hill is steep.",
+    "example_jp": "その丘は急勾配だ。"
+  },
+  {
+    "word": "steep",
+    "meaning": "急激な",
+    "example": "Prices saw a steep rise.",
+    "example_jp": "物価は急激な上昇を見せた。"
+  },
+  {
+    "word": "steep",
+    "meaning": "法外な",
+    "example": "The fee is steep.",
+    "example_jp": "その料金は法外だ。"
+  },
+  {
+    "word": "polite",
+    "meaning": "礼儀正しい",
+    "example": "He is very polite.",
+    "example_jp": "彼はとても礼儀正しい。"
+  },
+  {
+    "word": "polite",
+    "meaning": "丁重な",
+    "example": "She gave a polite reply.",
+    "example_jp": "彼女は丁重な返事をした。"
+  },
+  {
+    "word": "generous",
+    "meaning": "気前がよい",
+    "example": "She is generous with money.",
+    "example_jp": "彼女はお金に関して気前がよい。"
+  },
+  {
+    "word": "generous",
+    "meaning": "寛大な",
+    "example": "He is generous and kind.",
+    "example_jp": "彼は寛大で親切だ。"
+  },
+  {
+    "word": "frown",
+    "meaning": "眉をひそめる",
+    "example": "She frowned at the noise.",
+    "example_jp": "彼女はその騒音に眉をひそめた。"
+  },
+  {
+    "word": "frown",
+    "meaning": "しかめ面",
+    "example": "His frown was clear.",
+    "example_jp": "彼のしかめ面は明らかだった。"
+  },
+  {
+    "word": "unusual",
+    "meaning": "普通でない",
+    "example": "The pattern is unusual.",
+    "example_jp": "そのパターンは普通でない。"
+  },
+  {
+    "word": "foreigner",
+    "meaning": "外国人",
+    "example": "He is a foreigner.",
+    "example_jp": "彼は外国人だ。"
+  },
+  {
+    "word": "foreigner",
+    "meaning": "よそ者",
+    "example": "They treated him as a foreigner.",
+    "example_jp": "彼らは彼をよそ者として扱った。"
+  },
+  {
+    "word": "border",
+    "meaning": "国境",
+    "example": "They crossed the border.",
+    "example_jp": "彼らは国境を越えた。"
+  },
+  {
+    "word": "border",
+    "meaning": "境界",
+    "example": "The border of the map is red.",
+    "example_jp": "地図の境界は赤い。"
+  },
+  {
+    "word": "boundary",
+    "meaning": "境界線",
+    "example": "The boundary is clear.",
+    "example_jp": "その境界線ははっきりしている。"
+  },
+  {
+    "word": "boundary",
+    "meaning": "限界",
+    "example": "He reached his boundaries.",
+    "example_jp": "彼は自分の限界に達した。"
+  },
+  {
+    "word": "remark",
+    "meaning": "感想",
+    "example": "He made a short remark.",
+    "example_jp": "彼は短い感想を述べた。"
+  },
+  {
+    "word": "remark",
+    "meaning": "述べる",
+    "example": "She remarked that it was true.",
+    "example_jp": "彼女はそれが真実であると述べた。"
+  },
+  {
+    "word": "remark",
+    "meaning": "所見を述べる",
+    "example": "He remarked on the change.",
+    "example_jp": "彼はその変化について所見を述べた。"
+  },
+  {
+    "word": "grand",
+    "meaning": "壮大な",
+    "example": "The view was grand.",
+    "example_jp": "その景色は壮大だった。"
+  },
+  {
+    "word": "grand",
+    "meaning": "偉大な",
+    "example": "He achieved a grand goal.",
+    "example_jp": "彼は偉大な目標を達成した。"
+  },
+  {
+    "word": "stranger",
+    "meaning": "知らない人",
+    "example": "He talked to a stranger.",
+    "example_jp": "彼は知らない人に話しかけた。"
+  },
+  {
+    "word": "stranger",
+    "meaning": "未経験者",
+    "example": "She is a stranger to cooking.",
+    "example_jp": "彼女は料理に関しては未経験者だ。"
+  },
+  {
+    "word": "stranger",
+    "meaning": "不慣れな人",
+    "example": "He is a stranger here.",
+    "example_jp": "彼はここでは不慣れな人だ。"
+  },
+  {
+    "word": "alien",
+    "meaning": "異質な",
+    "example": "The idea felt alien.",
+    "example_jp": "その考えは異質な感じがした。"
+  },
+  {
+    "word": "alien",
+    "meaning": "外国の",
+    "example": "He met an alien culture.",
+    "example_jp": "彼は外国の文化に出会った。"
+  },
+  {
+    "word": "alien",
+    "meaning": "宇宙人",
+    "example": "They saw an alien.",
+    "example_jp": "彼らは宇宙人を見た。"
+  },
+  {
+    "word": "casual",
+    "meaning": "何気ない",
+    "example": "They had a casual talk.",
+    "example_jp": "彼らは何気ない話をした。"
+  },
+  {
+    "word": "casual",
+    "meaning": "気楽な",
+    "example": "He wore casual clothes.",
+    "example_jp": "彼は気楽な服を着た。"
+  },
+  {
+    "word": "warmth",
+    "meaning": "温かさ",
+    "example": "I felt the warmth of the sun.",
+    "example_jp": "私は太陽の温かさを感じた。"
+  },
+  {
+    "word": "respect",
+    "meaning": "尊敬する",
+    "example": "I respect my teacher.",
+    "example_jp": "私は先生を尊敬する。"
+  },
+  {
+    "word": "respect",
+    "meaning": "尊重する",
+    "example": "We respect the rules.",
+    "example_jp": "私たちは規則を尊重する。"
+  },
+  {
+    "word": "respect",
+    "meaning": "尊敬",
+    "example": "He earned respect.",
+    "example_jp": "彼は尊敬を勝ち得た。"
+  },
+  {
+    "word": "respect",
+    "meaning": "尊重",
+    "example": "Show respect to others.",
+    "example_jp": "他人に尊重を示しなさい。"
+  },
+  {
+    "word": "respect",
+    "meaning": "点",
+    "example": "In this respect, he is right.",
+    "example_jp": "この点において、彼は正しい。"
+  },
+  {
+    "word": "respectively",
+    "meaning": "それぞれ",
+    "example": "They arrived at 3 and 4 respectively.",
+    "example_jp": "彼らはそれぞれ3時と4時に到着した。"
+  },
+  {
+    "word": "evidence",
+    "meaning": "証拠",
+    "example": "There is no evidence.",
+    "example_jp": "証拠はない。"
+  },
+  {
+    "word": "fool",
+    "meaning": "愚か者",
+    "example": "He is a fool.",
+    "example_jp": "彼は愚か者だ。"
+  },
+  {
+    "word": "fool",
+    "meaning": "ばかにする",
+    "example": "Don’t fool me.",
+    "example_jp": "私をばかにしないでください。"
+  },
+  {
+    "word": "ridiculous",
+    "meaning": "ばかげた",
+    "example": "That idea is ridiculous.",
+    "example_jp": "その考えはばかげている。"
+  },
+  {
+    "word": "focus",
+    "meaning": "集中する",
+    "example": "He focused on work.",
+    "example_jp": "彼は仕事に集中した。"
+  },
+  {
+    "word": "focus",
+    "meaning": "集中させる",
+    "example": "They focused the light.",
+    "example_jp": "彼らは光を集中させた。"
+  },
+  {
+    "word": "focus",
+    "meaning": "重点",
+    "example": "The focus is safety.",
+    "example_jp": "重点は安全だ。"
+  },
+  {
+    "word": "focus",
+    "meaning": "集中力",
+    "example": "He lost focus.",
+    "example_jp": "彼は集中力を失った。"
+  },
+  {
+    "word": "stability",
+    "meaning": "安定",
+    "example": "The table has stability.",
+    "example_jp": "そのテーブルには安定感がある。"
+  },
+  {
+    "word": "scale",
+    "meaning": "規模",
+    "example": "The scale is large.",
+    "example_jp": "規模は大きい。"
+  },
+  {
+    "word": "scale",
+    "meaning": "はかり",
+    "example": "The scale shows weight.",
+    "example_jp": "はかりが重さを示している。"
+  },
+  {
+    "word": "scale",
+    "meaning": "尺度",
+    "example": "They used a 1–10 scale.",
+    "example_jp": "彼らは1から10の尺度を用いた。"
+  },
+  {
+    "word": "scale",
+    "meaning": "段階",
+    "example": "The project has many scales.",
+    "example_jp": "そのプロジェクトには多くの段階がある。"
+  },
+  {
+    "word": "criterion",
+    "meaning": "基準",
+    "example": "This is the main criterion.",
+    "example_jp": "これが主な基準だ。"
+  },
+  {
+    "word": "axis",
+    "meaning": "軸",
+    "example": "The Earth rotates on its axis.",
+    "example_jp": "地球はその軸を中心に回転する。"
+  },
+  {
+    "word": "index",
+    "meaning": "索引",
+    "example": "Look at the index.",
+    "example_jp": "索引を見なさい。"
+  },
+  {
+    "word": "index",
+    "meaning": "指標",
+    "example": "The index rose today.",
+    "example_jp": "指標が今日上昇した。"
+  },
+  {
+    "word": "law",
+    "meaning": "法律",
+    "example": "We must follow the law.",
+    "example_jp": "私たちは法律に従わなければならない。"
+  },
+  {
+    "word": "law",
+    "meaning": "法則",
+    "example": "Gravity is a natural law.",
+    "example_jp": "重力は自然の法則だ。"
+  },
+  {
+    "word": "legislation",
+    "meaning": "法律",
+    "example": "The legislation passed.",
+    "example_jp": "その法律（立法案）が通過した。"
+  },
+  {
+    "word": "legislation",
+    "meaning": "立法",
+    "example": "They discussed new legislation.",
+    "example_jp": "彼らは新しい立法について話し合った。"
+  },
+  {
+    "word": "council",
+    "meaning": "議会",
+    "example": "The city council met.",
+    "example_jp": "市議会が集まった。"
+  },
+  {
+    "word": "council",
+    "meaning": "会議",
+    "example": "The council held a meeting.",
+    "example_jp": "評議会（会議）が会議を開いた。"
+  },
+  {
+    "word": "parliament",
+    "meaning": "議会",
+    "example": "Parliament voted today.",
+    "example_jp": "議会は今日投票を行った。"
+  },
+  {
+    "word": "parliament",
+    "meaning": "国会",
+    "example": "He spoke in Parliament.",
+    "example_jp": "彼は国会で話をした。"
+  },
+  {
+    "word": "justice",
+    "meaning": "正義",
+    "example": "They fought for justice.",
+    "example_jp": "彼らは正義のために戦った。"
+  },
+  {
+    "word": "justice",
+    "meaning": "公正",
+    "example": "She wants justice.",
+    "example_jp": "彼女は公正を求めている。"
+  },
+  {
+    "word": "justice",
+    "meaning": "裁判",
+    "example": "He works in the justice system.",
+    "example_jp": "彼は裁判（司法）制度の中で働いている。"
+  },
+  {
+    "word": "violate",
+    "meaning": "違反する",
+    "example": "He violated the rule.",
+    "example_jp": "彼は規則に違反した。"
+  },
+  {
+    "word": "violate",
+    "meaning": "侵害する",
+    "example": "The noise violated their rights.",
+    "example_jp": "その騒音は彼らの権利を侵害した。"
+  },
+  {
+    "word": "contract",
+    "meaning": "契約",
+    "example": "They signed a contract.",
+    "example_jp": "彼らは契約に署名した。"
+  },
+  {
+    "word": "contract",
+    "meaning": "病気にかかる",
+    "example": "He contracted the disease.",
+    "example_jp": "彼はその病気にかかった。"
+  },
+  {
+    "word": "contract",
+    "meaning": "縮める",
+    "example": "The metal contracted.",
+    "example_jp": "その金属は縮まった。"
+  },
+  {
+    "word": "treaty",
+    "meaning": "条約",
+    "example": "The countries signed a treaty.",
+    "example_jp": "各国は条約に署名した。"
+  }
+]

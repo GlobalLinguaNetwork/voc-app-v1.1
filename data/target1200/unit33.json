@@ -1,0 +1,302 @@
+[
+  {
+    "word": "actually",
+    "meaning": "実は",
+    "example": "I actually agree with you.",
+    "example_jp": "実は、私はあなたに同意する。"
+  },
+  {
+    "word": "especially",
+    "meaning": "特に",
+    "example": "I like summer, especially July.",
+    "example_jp": "私は夏が好きだ。特に7月が。"
+  },
+  {
+    "word": "perhaps",
+    "meaning": "もしかしたら",
+    "example": "Perhaps he is right.",
+    "example_jp": "もしかしたら彼は正しいかもしれない。"
+  },
+  {
+    "word": "fortunately",
+    "meaning": "幸運にも",
+    "example": "Fortunately, no one was hurt.",
+    "example_jp": "幸運にも、誰も怪我をしなかった。"
+  },
+  {
+    "word": "less",
+    "meaning": "より少なく",
+    "example": "I have less time today.",
+    "example_jp": "今日は時間がより少ない。"
+  },
+  {
+    "word": "least",
+    "meaning": "最も〜でない",
+    "example": "This is the least important point.",
+    "example_jp": "これが最も重要でない要点だ。"
+  },
+  {
+    "word": "abroad",
+    "meaning": "外国に",
+    "example": "I want to study abroad.",
+    "example_jp": "私は外国に留学したい。"
+  },
+  {
+    "word": "overseas",
+    "meaning": "海外へ",
+    "example": "He works overseas.",
+    "example_jp": "彼は海外へ（で）働いている。"
+  },
+  {
+    "word": "rather",
+    "meaning": "むしろ",
+    "example": "I would rather stay home.",
+    "example_jp": "私はむしろ家にいたい。"
+  },
+  {
+    "word": "probably",
+    "meaning": "たぶん",
+    "example": "It will probably rain.",
+    "example_jp": "たぶん雨が降るだろう。"
+  },
+  {
+    "word": "easily",
+    "meaning": "簡単に",
+    "example": "I can easily do it.",
+    "example_jp": "私は簡単にそれをすることができる。"
+  },
+  {
+    "word": "quite",
+    "meaning": "かなり",
+    "example": "It is quite cold today.",
+    "example_jp": "今日はかなり寒い。"
+  },
+  {
+    "word": "exactly",
+    "meaning": "まさに",
+    "example": "That is exactly right.",
+    "example_jp": "それはまさに正しい。"
+  },
+  {
+    "word": "instead",
+    "meaning": "その代わりに",
+    "example": "I stay home instead.",
+    "example_jp": "私はその代わりに家にいる。"
+  },
+  {
+    "word": "immediately",
+    "meaning": "直ちに",
+    "example": "Come here immediately.",
+    "example_jp": "直ちにここに来なさい。"
+  },
+  {
+    "word": "somewhere",
+    "meaning": "どこかに",
+    "example": "I want to go somewhere quiet.",
+    "example_jp": "私はどこか静かな所へ行きたい。"
+  },
+  {
+    "word": "gradually",
+    "meaning": "徐々に",
+    "example": "He gradually improves.",
+    "example_jp": "彼は徐々に改善する。"
+  },
+  {
+    "word": "simply",
+    "meaning": "単に",
+    "example": "I simply don’t know.",
+    "example_jp": "私は単に知らないだけだ。"
+  },
+  {
+    "word": "indeed",
+    "meaning": "確かに",
+    "example": "He is indeed a great player.",
+    "example_jp": "彼は確かに素晴らしい選手だ。"
+  },
+  {
+    "word": "whether",
+    "meaning": "〜かどうか",
+    "example": "I don’t know whether it is true.",
+    "example_jp": "私はそれが真実かどうか知らない。"
+  },
+  {
+    "word": "also",
+    "meaning": "その上",
+    "example": "She is kind and also smart.",
+    "example_jp": "彼女は親切で、その上賢い。"
+  },
+  {
+    "word": "moreover",
+    "meaning": "さらに",
+    "example": "He is busy; moreover, he is tired.",
+    "example_jp": "彼は忙しい。さらに、彼は疲れている。"
+  },
+  {
+    "word": "besides",
+    "meaning": "その上",
+    "example": "I don’t want to go; besides, it’s late.",
+    "example_jp": "私は行きたくない。その上、遅い時間だ。"
+  },
+  {
+    "word": "though",
+    "meaning": "でも",
+    "example": "I like it, though it’s expensive.",
+    "example_jp": "私はそれが好きだ。でも、それは高価だ。"
+  },
+  {
+    "word": "however",
+    "meaning": "しかしながら",
+    "example": "It is cold; however, I go out.",
+    "example_jp": "寒い。しかしながら、私は外出する。"
+  },
+  {
+    "word": "although",
+    "meaning": "〜だけれども",
+    "example": "Although he is young, he is wise.",
+    "example_jp": "彼は若いだけれども、賢明だ。"
+  },
+  {
+    "word": "TRUE",
+    "meaning": "本当の",
+    "example": "This is a true story.",
+    "example_jp": "これは本当の物語だ。"
+  },
+  {
+    "word": "because",
+    "meaning": "〜なので",
+    "example": "I stay home because it rains.",
+    "example_jp": "雨が降っているので、私は家にいる。"
+  },
+  {
+    "word": "therefore",
+    "meaning": "したがって",
+    "example": "It rains; therefore, we stay inside.",
+    "example_jp": "雨が降っている。したがって、私たちは屋内に留まる。"
+  },
+  {
+    "word": "anyway",
+    "meaning": "いずれにせよ",
+    "example": "Anyway, let’s start. ",
+    "example_jp": "いずれにせよ、始めよう。"
+  },
+  {
+    "word": "bring about",
+    "meaning": "引き起こす",
+    "example": "The change brings about new ideas.",
+    "example_jp": "変化が新しいアイデアを引き起こす。"
+  },
+  {
+    "word": "catch up with",
+    "meaning": "追いつく",
+    "example": "I catch up with my friend.",
+    "example_jp": "私は友達に追いつく。"
+  },
+  {
+    "word": "check out",
+    "meaning": "調べる",
+    "example": "I check out the website.",
+    "example_jp": "私はウェブサイトを調べる。"
+  },
+  {
+    "word": "deal with",
+    "meaning": "対処する",
+    "example": "I deal with the problem.",
+    "example_jp": "私はその問題に対処する。"
+  },
+  {
+    "word": "end up",
+    "meaning": "最終的に〜する",
+    "example": "We end up waiting for hours.",
+    "example_jp": "私たちは最終的に何時間も待つことになる。"
+  },
+  {
+    "word": "figure out",
+    "meaning": "理解する",
+    "example": "I figure out the answer.",
+    "example_jp": "私は答えを理解する。"
+  },
+  {
+    "word": "fill in",
+    "meaning": "記入する",
+    "example": "Please fill in the form.",
+    "example_jp": "用紙に記入してください。"
+  },
+  {
+    "word": "get rid of",
+    "meaning": "処分する",
+    "example": "I get rid of old clothes.",
+    "example_jp": "私は古い服を処分する。"
+  },
+  {
+    "word": "have A in common",
+    "meaning": "共通点がある",
+    "example": "We have many things in common.",
+    "example_jp": "私たちは多くの共通点がある。"
+  },
+  {
+    "word": "keep up with",
+    "meaning": "遅れずについて行く",
+    "example": "I keep up with the news.",
+    "example_jp": "私はニュースに遅れずについて行く。"
+  },
+  {
+    "word": "look to A for B",
+    "meaning": "AにBを期待する",
+    "example": "We look to him for help.",
+    "example_jp": "私たちは彼に助けを期待する。"
+  },
+  {
+    "word": "make sense",
+    "meaning": "意味をなす",
+    "example": "Your idea makes sense.",
+    "example_jp": "あなたの考えは意味をなす。"
+  },
+  {
+    "word": "make sure",
+    "meaning": "確かめる",
+    "example": "Make sure you lock the door.",
+    "example_jp": "ドアに鍵をかけたか確かめなさい。"
+  },
+  {
+    "word": "make up for",
+    "meaning": "埋め合わせをする",
+    "example": "I make up for the loss.",
+    "example_jp": "私は損失の埋め合わせをする。"
+  },
+  {
+    "word": "make up one’s mind",
+    "meaning": "決心する",
+    "example": "I make up my mind to go.",
+    "example_jp": "私は行く決心をする。"
+  },
+  {
+    "word": "never fail to",
+    "meaning": "必ず〜する",
+    "example": "He never fails to smile.",
+    "example_jp": "彼は必ず微笑む。"
+  },
+  {
+    "word": "result in",
+    "meaning": "〜という結果になる",
+    "example": "The plan results in success.",
+    "example_jp": "その計画は成功という結果になる。"
+  },
+  {
+    "word": "set off for",
+    "meaning": "出発する",
+    "example": "We set off for Tokyo.",
+    "example_jp": "私たちは東京へ向けて出発する。"
+  },
+  {
+    "word": "set out to",
+    "meaning": "〜し始める",
+    "example": "I set out to learn English.",
+    "example_jp": "私は英語を学び始める。"
+  },
+  {
+    "word": "set up",
+    "meaning": "設立する",
+    "example": "They set up a new company.",
+    "example_jp": "彼らは新しい会社を設立する。"
+  }
+]

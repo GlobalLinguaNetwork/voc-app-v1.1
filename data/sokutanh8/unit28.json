@@ -1,0 +1,674 @@
+[
+  {
+    "word": "conference",
+    "meaning": "会議",
+    "example": "The conference starts tomorrow.",
+    "example_jp": "会議は明日始まる。"
+  },
+  {
+    "word": "conference",
+    "meaning": "協議",
+    "example": "They held a conference.",
+    "example_jp": "彼らは協議を行った。"
+  },
+  {
+    "word": "congress",
+    "meaning": "議会",
+    "example": "Congress passed the bill.",
+    "example_jp": "議会はその法案を可決した。"
+  },
+  {
+    "word": "congress",
+    "meaning": "国会",
+    "example": "He spoke before Congress.",
+    "example_jp": "彼は国会で演説した。"
+  },
+  {
+    "word": "potential",
+    "meaning": "潜在能力",
+    "example": "She has great potential.",
+    "example_jp": "彼女は大きな潜在能力を持っている。"
+  },
+  {
+    "word": "potential",
+    "meaning": "可能性のある",
+    "example": "This is a potential problem.",
+    "example_jp": "これは起こり得る（可能性のある）問題だ。"
+  },
+  {
+    "word": "competence",
+    "meaning": "能力",
+    "example": "He has competence in math.",
+    "example_jp": "彼には数学の能力がある。"
+  },
+  {
+    "word": "worsen",
+    "meaning": "悪化する",
+    "example": "The weather worsened.",
+    "example_jp": "天候が悪化した。"
+  },
+  {
+    "word": "fade",
+    "meaning": "あせる",
+    "example": "The color faded.",
+    "example_jp": "色があせた。"
+  },
+  {
+    "word": "fade",
+    "meaning": "衰える",
+    "example": "His memory faded.",
+    "example_jp": "彼の記憶が衰えた。"
+  },
+  {
+    "word": "decay",
+    "meaning": "腐敗する",
+    "example": "The fruit decayed.",
+    "example_jp": "果物が腐敗した。"
+  },
+  {
+    "word": "decay",
+    "meaning": "老朽化する",
+    "example": "The building decayed.",
+    "example_jp": "建物が老朽化した。"
+  },
+  {
+    "word": "decay",
+    "meaning": "腐敗",
+    "example": "Tooth decay is common.",
+    "example_jp": "虫歯（歯の腐敗）は一般的だ。"
+  },
+  {
+    "word": "decay",
+    "meaning": "衰退",
+    "example": "The city fell into decay.",
+    "example_jp": "その都市は衰退した。"
+  },
+  {
+    "word": "devastate",
+    "meaning": "荒廃させる",
+    "example": "The storm devastated the town.",
+    "example_jp": "嵐が町を荒廃させた。"
+  },
+  {
+    "word": "devastate",
+    "meaning": "打ちのめす",
+    "example": "The news devastated him.",
+    "example_jp": "そのニュースは彼を打ちのめした。"
+  },
+  {
+    "word": "advice",
+    "meaning": "忠告",
+    "example": "He gave me good advice.",
+    "example_jp": "彼は私に良い忠告をくれた。"
+  },
+  {
+    "word": "advice",
+    "meaning": "助言",
+    "example": "I need your advice.",
+    "example_jp": "私はあなたの助言が必要だ。"
+  },
+  {
+    "word": "advise",
+    "meaning": "忠告する",
+    "example": "He advised me to rest.",
+    "example_jp": "彼は私に休むよう忠告した。"
+  },
+  {
+    "word": "advise",
+    "meaning": "助言する",
+    "example": "She advised him on the plan.",
+    "example_jp": "彼女はその計画について彼に助言した。"
+  },
+  {
+    "word": "dialogue",
+    "meaning": "対話",
+    "example": "They had a dialogue.",
+    "example_jp": "彼らは対話を行った。"
+  },
+  {
+    "word": "mutual",
+    "meaning": "相互の",
+    "example": "They have mutual respect.",
+    "example_jp": "彼らは相互の尊敬の念を持っている。"
+  },
+  {
+    "word": "mutual",
+    "meaning": "共通の",
+    "example": "It is a mutual interest.",
+    "example_jp": "それは共通の利益だ。"
+  },
+  {
+    "word": "intake",
+    "meaning": "摂取量",
+    "example": "His intake of sugar is high.",
+    "example_jp": "彼の砂糖の摂取量は多い。"
+  },
+  {
+    "word": "intake",
+    "meaning": "取り入れ",
+    "example": "The engine’s air intake is blocked.",
+    "example_jp": "エンジンの空気取り入れ口が塞がっている。"
+  },
+  {
+    "word": "neutral",
+    "meaning": "中立の",
+    "example": "He stayed neutral.",
+    "example_jp": "彼は中立を保った。"
+  },
+  {
+    "word": "neutral",
+    "meaning": "はっきりしない",
+    "example": "The result is neutral.",
+    "example_jp": "結果ははっきりしない。"
+  },
+  {
+    "word": "harm",
+    "meaning": "害",
+    "example": "Smoking causes harm.",
+    "example_jp": "喫煙は害を及ぼす。"
+  },
+  {
+    "word": "harm",
+    "meaning": "害する",
+    "example": "The cold harmed the plants.",
+    "example_jp": "寒さが植物を害した。"
+  },
+  {
+    "word": "disastrous",
+    "meaning": "悲惨な",
+    "example": "The flood was disastrous.",
+    "example_jp": "その洪水は悲惨だった。"
+  },
+  {
+    "word": "level",
+    "meaning": "水準",
+    "example": "The water level rose.",
+    "example_jp": "水位（水準）が上がった。"
+  },
+  {
+    "word": "level",
+    "meaning": "程度",
+    "example": "His skill level is high.",
+    "example_jp": "彼のスキルレベル（程度）は高い。"
+  },
+  {
+    "word": "level",
+    "meaning": "高さ",
+    "example": "The airplane reached a high level.",
+    "example_jp": "飛行機はかなりの高さに達した。"
+  },
+  {
+    "word": "altitude",
+    "meaning": "高度",
+    "example": "The altitude is 3,000 meters.",
+    "example_jp": "高度は3,000メートルだ。"
+  },
+  {
+    "word": "failure",
+    "meaning": "失敗",
+    "example": "The plan ended in failure.",
+    "example_jp": "その計画は失敗に終わった。"
+  },
+  {
+    "word": "failure",
+    "meaning": "機能不全",
+    "example": "Heart failure is dangerous.",
+    "example_jp": "心不全（機能不全）は危険だ。"
+  },
+  {
+    "word": "overlook",
+    "meaning": "見落とす",
+    "example": "He overlooked the mistake.",
+    "example_jp": "彼は間違いを見落とした。"
+  },
+  {
+    "word": "overlook",
+    "meaning": "大目に見る",
+    "example": "She overlooked his behavior.",
+    "example_jp": "彼女は彼の振る舞いを大目に見た。"
+  },
+  {
+    "word": "overlook",
+    "meaning": "見下ろす",
+    "example": "The room overlooks the sea.",
+    "example_jp": "その部屋からは海を見下ろすことができる。"
+  },
+  {
+    "word": "stroke",
+    "meaning": "卒中",
+    "example": "He suffered a stroke.",
+    "example_jp": "彼は卒中を患った。"
+  },
+  {
+    "word": "stroke",
+    "meaning": "一撃",
+    "example": "He hit the ball with one stroke.",
+    "example_jp": "彼は一撃でボールを打った。"
+  },
+  {
+    "word": "stroke",
+    "meaning": "なでる",
+    "example": "She stroked the cat.",
+    "example_jp": "彼女は猫をなでた。"
+  },
+  {
+    "word": "total",
+    "meaning": "合計の",
+    "example": "The total cost is high.",
+    "example_jp": "合計の費用は高い。"
+  },
+  {
+    "word": "total",
+    "meaning": "まったくの",
+    "example": "It was a total failure.",
+    "example_jp": "それはまったくの失敗だった。"
+  },
+  {
+    "word": "total",
+    "meaning": "合計",
+    "example": "The total is 50.",
+    "example_jp": "合計は50だ。"
+  },
+  {
+    "word": "report",
+    "meaning": "報告書",
+    "example": "He wrote a report.",
+    "example_jp": "彼は報告書を書いた。"
+  },
+  {
+    "word": "report",
+    "meaning": "報道",
+    "example": "The news report was clear.",
+    "example_jp": "そのニュース報道は明確だった。"
+  },
+  {
+    "word": "report",
+    "meaning": "報告する",
+    "example": "He reported the accident.",
+    "example_jp": "彼はその事故を報告した。"
+  },
+  {
+    "word": "report",
+    "meaning": "報道する",
+    "example": "They reported on the event.",
+    "example_jp": "彼らはその出来事について報道した。"
+  },
+  {
+    "word": "report",
+    "meaning": "通報する",
+    "example": "She reported him to the police.",
+    "example_jp": "彼女は彼を警察に通報した。"
+  },
+  {
+    "word": "register",
+    "meaning": "登録する",
+    "example": "He registered for the class.",
+    "example_jp": "彼はクラスに登録した。"
+  },
+  {
+    "word": "register",
+    "meaning": "記録する",
+    "example": "The machine registered the data.",
+    "example_jp": "機械がデータを記録した。"
+  },
+  {
+    "word": "register",
+    "meaning": "登録簿",
+    "example": "The register is full.",
+    "example_jp": "登録簿がいっぱいだ。"
+  },
+  {
+    "word": "register",
+    "meaning": "レジ",
+    "example": "He works at the register.",
+    "example_jp": "彼はレジで働いている。"
+  },
+  {
+    "word": "log",
+    "meaning": "丸太",
+    "example": "They cut a log.",
+    "example_jp": "彼らは丸太を切った。"
+  },
+  {
+    "word": "log",
+    "meaning": "記録する",
+    "example": "He logged the data.",
+    "example_jp": "彼はデータを記録した。"
+  },
+  {
+    "word": "complete",
+    "meaning": "完全な",
+    "example": "The work is complete.",
+    "example_jp": "仕事は完全だ（完了している）。"
+  },
+  {
+    "word": "complete",
+    "meaning": "書き込む",
+    "example": "He completed the form.",
+    "example_jp": "彼は用紙に書き込んだ。"
+  },
+  {
+    "word": "complete",
+    "meaning": "仕上げる",
+    "example": "They completed the project.",
+    "example_jp": "彼らはプロジェクトを仕上げた。"
+  },
+  {
+    "word": "intact",
+    "meaning": "無傷の",
+    "example": "The package arrived intact.",
+    "example_jp": "小包は無傷で届いた。"
+  },
+  {
+    "word": "intact",
+    "meaning": "手つかずで",
+    "example": "The forest remains intact.",
+    "example_jp": "森は手つかずのまま残っている。"
+  },
+  {
+    "word": "entry",
+    "meaning": "入場",
+    "example": "Entry is free.",
+    "example_jp": "入場は無料だ。"
+  },
+  {
+    "word": "entry",
+    "meaning": "参加申し込み",
+    "example": "He submitted his entry.",
+    "example_jp": "彼は参加申し込みを提出した。"
+  },
+  {
+    "word": "case",
+    "meaning": "場合",
+    "example": "In this case, you are right.",
+    "example_jp": "この場合、あなたが正しい。"
+  },
+  {
+    "word": "case",
+    "meaning": "事実",
+    "example": "The case is true.",
+    "example_jp": "それは事実だ。"
+  },
+  {
+    "word": "case",
+    "meaning": "事件",
+    "example": "The police solved the case.",
+    "example_jp": "警察はその事件を解決した。"
+  },
+  {
+    "word": "case",
+    "meaning": "主張",
+    "example": "His case is strong.",
+    "example_jp": "彼の主張は強力だ。"
+  },
+  {
+    "word": "case",
+    "meaning": "箱",
+    "example": "A case of apples arrived.",
+    "example_jp": "リンゴ一箱が届いた。"
+  },
+  {
+    "word": "case",
+    "meaning": "症例",
+    "example": "The doctor studied the case.",
+    "example_jp": "医師はその症例を研究した。"
+  },
+  {
+    "word": "chest",
+    "meaning": "胸",
+    "example": "He held his chest.",
+    "example_jp": "彼は自分の胸を押さえた。"
+  },
+  {
+    "word": "chest",
+    "meaning": "箱",
+    "example": "The chest is full of clothes.",
+    "example_jp": "その箱は服でいっぱいだ。"
+  },
+  {
+    "word": "significant",
+    "meaning": "重要な",
+    "example": "This is a significant change.",
+    "example_jp": "これは重要な変化だ。"
+  },
+  {
+    "word": "significant",
+    "meaning": "かなりの",
+    "example": "There was a significant increase.",
+    "example_jp": "かなりの増加があった。"
+  },
+  {
+    "word": "meaningful",
+    "meaning": "意義のある",
+    "example": "Their talk was meaningful.",
+    "example_jp": "彼らの話は意義のあるものだった。"
+  },
+  {
+    "word": "grave",
+    "meaning": "重大な",
+    "example": "He made a grave mistake.",
+    "example_jp": "彼は重大な間違いを犯した。"
+  },
+  {
+    "word": "grave",
+    "meaning": "墓",
+    "example": "He visited the grave.",
+    "example_jp": "彼は墓を訪れた。"
+  },
+  {
+    "word": "exercise",
+    "meaning": "運動",
+    "example": "He needs more exercise.",
+    "example_jp": "彼にはもっと運動が必要だ。"
+  },
+  {
+    "word": "exercise",
+    "meaning": "行使する",
+    "example": "They exercised their rights.",
+    "example_jp": "彼らは自分たちの権利を行使した。"
+  },
+  {
+    "word": "exercise",
+    "meaning": "運動する",
+    "example": "She exercises every day.",
+    "example_jp": "彼女は毎日運動する。"
+  },
+  {
+    "word": "exercise",
+    "meaning": "練習",
+    "example": "He practiced the exercise.",
+    "example_jp": "彼は練習問題を練習した。"
+  },
+  {
+    "word": "diabetes",
+    "meaning": "糖尿病",
+    "example": "He suffers from diabetes.",
+    "example_jp": "彼は糖尿病を患っている。"
+  },
+  {
+    "word": "dementia",
+    "meaning": "認知症",
+    "example": "Dementia affects memory.",
+    "example_jp": "認知症は記憶に影響を及ぼす。"
+  },
+  {
+    "word": "longevity",
+    "meaning": "長寿",
+    "example": "Japan has high longevity.",
+    "example_jp": "日本は長寿（の国）だ。"
+  },
+  {
+    "word": "longevity",
+    "meaning": "寿命",
+    "example": "The longevity of the machine is long.",
+    "example_jp": "その機械の寿命は長い。"
+  },
+  {
+    "word": "span",
+    "meaning": "期間",
+    "example": "The span of life is long.",
+    "example_jp": "寿命の期間は長い。"
+  },
+  {
+    "word": "span",
+    "meaning": "長さ",
+    "example": "The bridge has a long span.",
+    "example_jp": "その橋は長さが長い。"
+  },
+  {
+    "word": "slot",
+    "meaning": "時間帯",
+    "example": "Choose a time slot.",
+    "example_jp": "時間帯を選びなさい。"
+  },
+  {
+    "word": "slot",
+    "meaning": "小穴",
+    "example": "Put the card into the slot.",
+    "example_jp": "カードを小穴に入れなさい。"
+  },
+  {
+    "word": "development",
+    "meaning": "発達",
+    "example": "Child development is important.",
+    "example_jp": "子供の発達は重要だ。"
+  },
+  {
+    "word": "development",
+    "meaning": "発展",
+    "example": "The city saw development.",
+    "example_jp": "その都市は発展を遂げた。"
+  },
+  {
+    "word": "development",
+    "meaning": "発生",
+    "example": "The development of the disease was fast.",
+    "example_jp": "その病気の発生は早かった。"
+  },
+  {
+    "word": "shape",
+    "meaning": "体形",
+    "example": "His body is in good shape.",
+    "example_jp": "彼の体形は整っている。"
+  },
+  {
+    "word": "shape",
+    "meaning": "状態",
+    "example": "The plan is in good shape.",
+    "example_jp": "その計画は良い状態にある。"
+  },
+  {
+    "word": "shape",
+    "meaning": "形作る",
+    "example": "They shaped the clay.",
+    "example_jp": "彼らは粘土を形作った。"
+  },
+  {
+    "word": "mold",
+    "meaning": "型",
+    "example": "They used a mold.",
+    "example_jp": "彼らは型を使った。"
+  },
+  {
+    "word": "mold",
+    "meaning": "形成する",
+    "example": "Experience molded his character.",
+    "example_jp": "経験が彼の性格を形成した。"
+  },
+  {
+    "word": "bend",
+    "meaning": "曲げる",
+    "example": "He bent the wire.",
+    "example_jp": "彼は針金を曲げた。"
+  },
+  {
+    "word": "bend",
+    "meaning": "曲がる",
+    "example": "The road bends left.",
+    "example_jp": "道が左に曲がっている。"
+  },
+  {
+    "word": "bend",
+    "meaning": "かがむ",
+    "example": "He bent down.",
+    "example_jp": "彼は腰をかがめた。"
+  },
+  {
+    "word": "twist",
+    "meaning": "ひねる",
+    "example": "He twisted his ankle.",
+    "example_jp": "彼は足首をひねった。"
+  },
+  {
+    "word": "twist",
+    "meaning": "曲げる",
+    "example": "She twisted the rope.",
+    "example_jp": "彼女はロープを曲げた（よじった）。"
+  },
+  {
+    "word": "twist",
+    "meaning": "ねじれ",
+    "example": "There is a twist in the story.",
+    "example_jp": "その話には意外なねじれ（展開）がある。"
+  },
+  {
+    "word": "curve",
+    "meaning": "曲線を描く",
+    "example": "The road curves.",
+    "example_jp": "道が曲線を描いている。"
+  },
+  {
+    "word": "curve",
+    "meaning": "曲線",
+    "example": "The curve is sharp.",
+    "example_jp": "その曲線は急だ。"
+  },
+  {
+    "word": "carve",
+    "meaning": "彫る",
+    "example": "He carved the wood.",
+    "example_jp": "彼は木を彫った。"
+  },
+  {
+    "word": "vertical",
+    "meaning": "垂直の",
+    "example": "The line is vertical.",
+    "example_jp": "その線は垂直だ。"
+  },
+  {
+    "word": "maximum",
+    "meaning": "最大限",
+    "example": "The maximum speed is 100.",
+    "example_jp": "最大限の速度は100だ。"
+  },
+  {
+    "word": "maximum",
+    "meaning": "最大限の",
+    "example": "Use the maximum amount.",
+    "example_jp": "最大限の量を使いなさい。"
+  },
+  {
+    "word": "importantly",
+    "meaning": "重要なことには",
+    "example": "Importantly, he agreed.",
+    "example_jp": "重要なことには、彼は同意した。"
+  },
+  {
+    "word": "importantly",
+    "meaning": "重大に",
+    "example": "The issue was treated importantly.",
+    "example_jp": "その問題は重大に扱われた。"
+  },
+  {
+    "word": "profound",
+    "meaning": "深刻な",
+    "example": "He felt profound sadness.",
+    "example_jp": "彼は深刻な悲しみを感じた。"
+  },
+  {
+    "word": "profound",
+    "meaning": "深い",
+    "example": "The book had profound ideas.",
+    "example_jp": "その本には深い考えが含まれていた。"
+  }
+]

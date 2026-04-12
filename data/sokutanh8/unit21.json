@@ -1,0 +1,728 @@
+[
+  {
+    "word": "conclude",
+    "meaning": "終える",
+    "example": "We conclude the meeting now.",
+    "example_jp": "私たちは今、会議を終える。"
+  },
+  {
+    "word": "conclude",
+    "meaning": "と結論づける",
+    "example": "They conclude that he is right.",
+    "example_jp": "彼らは彼が正しいと結論づける。"
+  },
+  {
+    "word": "summarize",
+    "meaning": "要約する",
+    "example": "Please summarize the story.",
+    "example_jp": "その話を要約してください。"
+  },
+  {
+    "word": "object",
+    "meaning": "反対する",
+    "example": "I object to the plan.",
+    "example_jp": "私はその計画に反対する。"
+  },
+  {
+    "word": "object",
+    "meaning": "物",
+    "example": "This object is heavy.",
+    "example_jp": "この物は重い。"
+  },
+  {
+    "word": "object",
+    "meaning": "目的",
+    "example": "His main object is success.",
+    "example_jp": "彼の主な目的は成功だ。"
+  },
+  {
+    "word": "object",
+    "meaning": "対象",
+    "example": "She is the object of study.",
+    "example_jp": "彼女は研究の対象だ。"
+  },
+  {
+    "word": "attack",
+    "meaning": "攻撃",
+    "example": "The attack was sudden.",
+    "example_jp": "その攻撃は突然だった。"
+  },
+  {
+    "word": "attack",
+    "meaning": "非難",
+    "example": "His words were an attack.",
+    "example_jp": "彼の言葉は非難だった。"
+  },
+  {
+    "word": "attack",
+    "meaning": "発作",
+    "example": "He had an asthma attack.",
+    "example_jp": "彼は喘息の発作を起こした。"
+  },
+  {
+    "word": "attack",
+    "meaning": "攻撃する",
+    "example": "They attack the city.",
+    "example_jp": "彼らはその都市を攻撃する。"
+  },
+  {
+    "word": "attack",
+    "meaning": "非難する",
+    "example": "She attacked his idea.",
+    "example_jp": "彼女は彼の考えを非難した。"
+  },
+  {
+    "word": "invasion",
+    "meaning": "侵入",
+    "example": "The invasion began at night.",
+    "example_jp": "侵入は夜に始まった。"
+  },
+  {
+    "word": "invasion",
+    "meaning": "侵略",
+    "example": "They feared an invasion.",
+    "example_jp": "彼らは侵略を恐れた。"
+  },
+  {
+    "word": "invasion",
+    "meaning": "侵害",
+    "example": "This is an invasion of privacy.",
+    "example_jp": "これはプライバシーの侵害だ。"
+  },
+  {
+    "word": "issue",
+    "meaning": "問題",
+    "example": "This is a big issue.",
+    "example_jp": "これは大きな問題だ。"
+  },
+  {
+    "word": "issue",
+    "meaning": "発行物",
+    "example": "The issue comes out monthly.",
+    "example_jp": "その発行物は毎月出る。"
+  },
+  {
+    "word": "issue",
+    "meaning": "子孫",
+    "example": "They have two issues.",
+    "example_jp": "彼らには2人の子孫がいる。"
+  },
+  {
+    "word": "issue",
+    "meaning": "発行する",
+    "example": "They issue new passports.",
+    "example_jp": "彼らは新しいパスポートを発行する。"
+  },
+  {
+    "word": "descendant",
+    "meaning": "子孫",
+    "example": "He is a descendant of a king.",
+    "example_jp": "彼は王の子孫だ。"
+  },
+  {
+    "word": "offspring",
+    "meaning": "子（孫）",
+    "example": "The bird protects its offspring.",
+    "example_jp": "その鳥は自分の子（孫）を守る。"
+  },
+  {
+    "word": "center",
+    "meaning": "中心",
+    "example": "The center of the room is empty.",
+    "example_jp": "部屋の中心は空いている。"
+  },
+  {
+    "word": "center",
+    "meaning": "集中する",
+    "example": "The city centers on tourism.",
+    "example_jp": "その都市は観光に集中している。"
+  },
+  {
+    "word": "center",
+    "meaning": "中心に置く",
+    "example": "They center the table.",
+    "example_jp": "彼らはテーブルを中心に出く。"
+  },
+  {
+    "word": "core",
+    "meaning": "中心",
+    "example": "The core of the idea is simple.",
+    "example_jp": "その考えの中心は単純だ。"
+  },
+  {
+    "word": "core",
+    "meaning": "核心",
+    "example": "Trust is the core of the team.",
+    "example_jp": "信頼はチームの核心だ。"
+  },
+  {
+    "word": "core",
+    "meaning": "芯",
+    "example": "I removed the apple core.",
+    "example_jp": "私はリンゴの芯を取り除いた。"
+  },
+  {
+    "word": "edge",
+    "meaning": "端",
+    "example": "He stood at the edge.",
+    "example_jp": "彼は端に立った。"
+  },
+  {
+    "word": "edge",
+    "meaning": "ふち",
+    "example": "The cup has a gold edge.",
+    "example_jp": "そのカップには金のふちがある。"
+  },
+  {
+    "word": "edge",
+    "meaning": "刃",
+    "example": "The knife has a sharp edge.",
+    "example_jp": "そのナイフには鋭い刃がある。"
+  },
+  {
+    "word": "tip",
+    "meaning": "先",
+    "example": "The tip of the pen broke.",
+    "example_jp": "ペンの先が折れた。"
+  },
+  {
+    "word": "tip",
+    "meaning": "秘訣",
+    "example": "He gave me a study tip.",
+    "example_jp": "彼は私に勉強の秘訣を教えてくれた。"
+  },
+  {
+    "word": "tip",
+    "meaning": "チップ",
+    "example": "I left a small tip.",
+    "example_jp": "私はわずかなチップを置いた。"
+  },
+  {
+    "word": "balance",
+    "meaning": "均衡",
+    "example": "She lost her balance.",
+    "example_jp": "彼女は均衡を崩した。"
+  },
+  {
+    "word": "balance",
+    "meaning": "調和",
+    "example": "The colors have balance.",
+    "example_jp": "それらの色には調和がある。"
+  },
+  {
+    "word": "balance",
+    "meaning": "残高",
+    "example": "My bank balance is low.",
+    "example_jp": "私の銀行残高は少ない。"
+  },
+  {
+    "word": "balance",
+    "meaning": "バランスをとる",
+    "example": "They balance the budget.",
+    "example_jp": "彼らは予算のバランスをとる。"
+  },
+  {
+    "word": "tough",
+    "meaning": "困難な",
+    "example": "The test was tough.",
+    "example_jp": "そのテストは困難だった。"
+  },
+  {
+    "word": "tough",
+    "meaning": "丈夫な",
+    "example": "This bag is tough.",
+    "example_jp": "このバッグは丈夫だ。"
+  },
+  {
+    "word": "tough",
+    "meaning": "固い",
+    "example": "The meat is tough.",
+    "example_jp": "その肉は固い。"
+  },
+  {
+    "word": "tough",
+    "meaning": "厳しい",
+    "example": "He is tough on crime.",
+    "example_jp": "彼は犯罪に対して厳しい。"
+  },
+  {
+    "word": "harsh",
+    "meaning": "厳しい",
+    "example": "The winter was harsh.",
+    "example_jp": "冬は厳しかった。"
+  },
+  {
+    "word": "harsh",
+    "meaning": "不快な",
+    "example": "The light is harsh.",
+    "example_jp": "その光は不快だ。"
+  },
+  {
+    "word": "firm",
+    "meaning": "会社",
+    "example": "He works for a big firm.",
+    "example_jp": "彼は大きな会社で働いている。"
+  },
+  {
+    "word": "firm",
+    "meaning": "堅い",
+    "example": "The ground is firm.",
+    "example_jp": "地面は堅い。"
+  },
+  {
+    "word": "firm",
+    "meaning": "安定した",
+    "example": "Their plan is firm.",
+    "example_jp": "彼らの計画は安定している。"
+  },
+  {
+    "word": "rigid",
+    "meaning": "厳格な",
+    "example": "The rule is rigid.",
+    "example_jp": "その規則は厳格だ。"
+  },
+  {
+    "word": "rigid",
+    "meaning": "堅い",
+    "example": "The board is rigid.",
+    "example_jp": "その板は堅い。"
+  },
+  {
+    "word": "freedom",
+    "meaning": "自由",
+    "example": "They fight for freedom.",
+    "example_jp": "彼らは自由のために戦う。"
+  },
+  {
+    "word": "cast",
+    "meaning": "投げかける",
+    "example": "They cast a shadow.",
+    "example_jp": "それらは影を投げかける。"
+  },
+  {
+    "word": "cast",
+    "meaning": "役を当てる",
+    "example": "They cast him in the role.",
+    "example_jp": "彼らは彼にその役を当てた。"
+  },
+  {
+    "word": "cast",
+    "meaning": "配役",
+    "example": "The cast is famous.",
+    "example_jp": "配役は有名だ。"
+  },
+  {
+    "word": "pitch",
+    "meaning": "音の高さ",
+    "example": "The pitch is high.",
+    "example_jp": "音の高さが高い。"
+  },
+  {
+    "word": "pitch",
+    "meaning": "投げる",
+    "example": "He pitched the ball.",
+    "example_jp": "彼はボールを投げた。"
+  },
+  {
+    "word": "shed",
+    "meaning": "光を当てる",
+    "example": "The lamp sheds light.",
+    "example_jp": "ランプが光を当てる。"
+  },
+  {
+    "word": "shed",
+    "meaning": "落とす",
+    "example": "The tree sheds leaves.",
+    "example_jp": "その木は葉を落とす。"
+  },
+  {
+    "word": "shed",
+    "meaning": "涙を流す",
+    "example": "She shed tears.",
+    "example_jp": "彼女は涙を流した。"
+  },
+  {
+    "word": "shed",
+    "meaning": "小屋",
+    "example": "He keeps tools in the shed.",
+    "example_jp": "彼は小屋に道具を置いている。"
+  },
+  {
+    "word": "reality",
+    "meaning": "現実",
+    "example": "This is the reality.",
+    "example_jp": "これが現実だ。"
+  },
+  {
+    "word": "reality",
+    "meaning": "実在",
+    "example": "The story has no reality.",
+    "example_jp": "その話には実在性がない。"
+  },
+  {
+    "word": "practical",
+    "meaning": "実用的な",
+    "example": "She has practical skills.",
+    "example_jp": "彼女は実用的なスキルを持っている。"
+  },
+  {
+    "word": "practical",
+    "meaning": "現実的な",
+    "example": "His idea is practical.",
+    "example_jp": "彼の考えは現実的だ。"
+  },
+  {
+    "word": "commit",
+    "meaning": "罪を犯す",
+    "example": "He committed a crime.",
+    "example_jp": "彼は罪を犯した。"
+  },
+  {
+    "word": "commit",
+    "meaning": "取り組む",
+    "example": "She commits to her work.",
+    "example_jp": "彼女は仕事に取り組む。"
+  },
+  {
+    "word": "commit",
+    "meaning": "約束する",
+    "example": "They commit to help.",
+    "example_jp": "彼らは助けることを約束する。"
+  },
+  {
+    "word": "commission",
+    "meaning": "委任",
+    "example": "They gave him a commission.",
+    "example_jp": "彼らは彼に委任を与えた。"
+  },
+  {
+    "word": "commission",
+    "meaning": "依頼",
+    "example": "She got a painting commission.",
+    "example_jp": "彼女は絵の依頼を受けた。"
+  },
+  {
+    "word": "commission",
+    "meaning": "委員会",
+    "example": "The commission met today.",
+    "example_jp": "委員会は今日開かれた。"
+  },
+  {
+    "word": "commission",
+    "meaning": "手数料",
+    "example": "He earned a commission.",
+    "example_jp": "彼は手数料を稼いだ。"
+  },
+  {
+    "word": "suicide",
+    "meaning": "自殺",
+    "example": "He tried suicide.",
+    "example_jp": "彼は自殺を図った。"
+  },
+  {
+    "word": "receive",
+    "meaning": "受け取る",
+    "example": "I received your email.",
+    "example_jp": "私はあなたのメールを受け取った。"
+  },
+  {
+    "word": "receive",
+    "meaning": "被る",
+    "example": "He received damage.",
+    "example_jp": "彼はダメージを被った。"
+  },
+  {
+    "word": "donate",
+    "meaning": "寄付する",
+    "example": "They donate money.",
+    "example_jp": "彼らは金を寄付する。"
+  },
+  {
+    "word": "donate",
+    "meaning": "提供する",
+    "example": "She donated her kidney.",
+    "example_jp": "彼女は腎臓を提供した。"
+  },
+  {
+    "word": "media",
+    "meaning": "マスメディア",
+    "example": "The media reported it.",
+    "example_jp": "マスメディアがそれを報じた。"
+  },
+  {
+    "word": "media",
+    "meaning": "情報伝達手段",
+    "example": "TV is a media form.",
+    "example_jp": "テレビは情報伝達手段の一形態だ。"
+  },
+  {
+    "word": "address",
+    "meaning": "取り組む",
+    "example": "We must address the problem.",
+    "example_jp": "私たちはその問題に取り組まなければならない。"
+  },
+  {
+    "word": "address",
+    "meaning": "宛てて出す",
+    "example": "I will address the letter.",
+    "example_jp": "私はその手紙を宛てて出す。"
+  },
+  {
+    "word": "address",
+    "meaning": "話しかける",
+    "example": "He addressed the crowd.",
+    "example_jp": "彼は群衆に話しかけた。"
+  },
+  {
+    "word": "address",
+    "meaning": "住所",
+    "example": "What is your address?",
+    "example_jp": "あなたの住所は何ですか。"
+  },
+  {
+    "word": "address",
+    "meaning": "演説",
+    "example": "His address was long.",
+    "example_jp": "彼の演説は長かった。"
+  },
+  {
+    "word": "tackle",
+    "meaning": "取り組む",
+    "example": "They tackle the issue.",
+    "example_jp": "彼らはその問題に取り組む。"
+  },
+  {
+    "word": "tackle",
+    "meaning": "タックル",
+    "example": "He made a strong tackle.",
+    "example_jp": "彼は強いタックルをした。"
+  },
+  {
+    "word": "harassment",
+    "meaning": "嫌がらせ",
+    "example": "She suffered harassment.",
+    "example_jp": "彼女は嫌がらせを受けた。"
+  },
+  {
+    "word": "harassment",
+    "meaning": "悩みの種",
+    "example": "The noise is harassment.",
+    "example_jp": "その騒音は悩みの種だ。"
+  },
+  {
+    "word": "introduce",
+    "meaning": "紹介する",
+    "example": "Let me introduce my friend.",
+    "example_jp": "私の友人を紹介させてください。"
+  },
+  {
+    "word": "introduce",
+    "meaning": "導入する",
+    "example": "They introduce a new system.",
+    "example_jp": "彼らは新しいシステムを導入する。"
+  },
+  {
+    "word": "insert",
+    "meaning": "挿入する",
+    "example": "Insert the card here.",
+    "example_jp": "ここにカードを挿入してください。"
+  },
+  {
+    "word": "install",
+    "meaning": "インストールする",
+    "example": "They install the software.",
+    "example_jp": "彼らはソフトウェアをインストールする。"
+  },
+  {
+    "word": "install",
+    "meaning": "取り付ける",
+    "example": "He installed a new light.",
+    "example_jp": "彼は新しい照明を取り付けた。"
+  },
+  {
+    "word": "attach",
+    "meaning": "添付する",
+    "example": "Attach the file.",
+    "example_jp": "ファイルを添付してください。"
+  },
+  {
+    "word": "attach",
+    "meaning": "取り付ける",
+    "example": "They attach the parts.",
+    "example_jp": "彼らは部品を取り付ける。"
+  },
+  {
+    "word": "attach",
+    "meaning": "愛着を持たせる",
+    "example": "She is attached to her dog.",
+    "example_jp": "彼女は自分の犬に愛着を持っている。"
+  },
+  {
+    "word": "strict",
+    "meaning": "厳しい",
+    "example": "The teacher is strict.",
+    "example_jp": "その先生は厳しい。"
+  },
+  {
+    "word": "strict",
+    "meaning": "厳密な",
+    "example": "We need strict rules.",
+    "example_jp": "私たちは厳密な規則を必要としている。"
+  },
+  {
+    "word": "restrict",
+    "meaning": "制限する",
+    "example": "They restrict access.",
+    "example_jp": "彼らはアクセスを制限する。"
+  },
+  {
+    "word": "bully",
+    "meaning": "いじめる",
+    "example": "He bullied the boy.",
+    "example_jp": "彼がその少年をいじめた。"
+  },
+  {
+    "word": "bully",
+    "meaning": "いじめっ子",
+    "example": "The bully ran away.",
+    "example_jp": "そのいじめっ子は逃げ出した。"
+  },
+  {
+    "word": "threaten",
+    "meaning": "脅迫する",
+    "example": "He threatened me.",
+    "example_jp": "彼は私を脅迫した。"
+  },
+  {
+    "word": "threaten",
+    "meaning": "おびやかす",
+    "example": "The storm threatens the town.",
+    "example_jp": "嵐が町をおびやかしている。"
+  },
+  {
+    "word": "deliberately",
+    "meaning": "故意に",
+    "example": "He deliberately broke it.",
+    "example_jp": "彼はそれを故意に壊した。"
+  },
+  {
+    "word": "aspect",
+    "meaning": "側面",
+    "example": "This is one aspect.",
+    "example_jp": "これは一つの側面だ。"
+  },
+  {
+    "word": "aspect",
+    "meaning": "観点",
+    "example": "We saw the problem from another aspect.",
+    "example_jp": "私たちは別の観点からその問題を見た。"
+  },
+  {
+    "word": "aspect",
+    "meaning": "様相",
+    "example": "The weather has many aspects.",
+    "example_jp": "天候は多くの様相を持っている。"
+  },
+  {
+    "word": "dimension",
+    "meaning": "次元",
+    "example": "This has two dimensions.",
+    "example_jp": "これには2つの次元がある。"
+  },
+  {
+    "word": "dimension",
+    "meaning": "寸法",
+    "example": "The table’s dimensions are large.",
+    "example_jp": "そのテーブルの寸法は大きい。"
+  },
+  {
+    "word": "dimension",
+    "meaning": "側面",
+    "example": "The issue has a social dimension.",
+    "example_jp": "その問題には社会的側面がある。"
+  },
+  {
+    "word": "truth",
+    "meaning": "真実",
+    "example": "Tell me the truth.",
+    "example_jp": "真実を教えてください。"
+  },
+  {
+    "word": "truth",
+    "meaning": "事実",
+    "example": "The truth is clear.",
+    "example_jp": "その事実は明確だ。"
+  },
+  {
+    "word": "deceive",
+    "meaning": "だます",
+    "example": "He deceived me.",
+    "example_jp": "彼は私をだました。"
+  },
+  {
+    "word": "impression",
+    "meaning": "印象",
+    "example": "She made a good impression.",
+    "example_jp": "彼女は良い印象を与えた。"
+  },
+  {
+    "word": "impression",
+    "meaning": "感動",
+    "example": "The movie left a strong impression.",
+    "example_jp": "その映画は強い感動を残した。"
+  },
+  {
+    "word": "acquaintance",
+    "meaning": "知人",
+    "example": "He is an acquaintance.",
+    "example_jp": "彼は知人だ。"
+  },
+  {
+    "word": "acquaintance",
+    "meaning": "面識",
+    "example": "I have no acquaintance with him.",
+    "example_jp": "私は彼と面識がない。"
+  },
+  {
+    "word": "lottery",
+    "meaning": "宝くじ",
+    "example": "She won the lottery.",
+    "example_jp": "彼女は宝くじに当たった。"
+  },
+  {
+    "word": "purchase",
+    "meaning": "買う",
+    "example": "They purchased a car.",
+    "example_jp": "彼らは車を買った。"
+  },
+  {
+    "word": "purchase",
+    "meaning": "購入品",
+    "example": "This is my purchase.",
+    "example_jp": "これが私の購入品だ。"
+  },
+  {
+    "word": "subscribe",
+    "meaning": "購読する",
+    "example": "I subscribe to the magazine.",
+    "example_jp": "私はその雑誌を購読している。"
+  },
+  {
+    "word": "subscribe",
+    "meaning": "署名する",
+    "example": "They subscribe to the plan.",
+    "example_jp": "彼らはその計画に署名する。"
+  },
+  {
+    "word": "subscribe",
+    "meaning": "寄付する",
+    "example": "She subscribes to the charity.",
+    "example_jp": "彼女はそのチャリティに寄付する。"
+  },
+  {
+    "word": "subscribe",
+    "meaning": "同意する",
+    "example": "I don’t subscribe to that idea.",
+    "example_jp": "私はその考えには同意しない。"
+  }
+]

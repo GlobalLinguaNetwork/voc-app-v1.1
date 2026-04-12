@@ -1,0 +1,302 @@
+[
+  {
+    "word": "era",
+    "meaning": "時代",
+    "example": "It was a new era.",
+    "example_jp": "それは新しい時代だった。"
+  },
+  {
+    "word": "dispute",
+    "meaning": "紛争",
+    "example": "They ended the dispute.",
+    "example_jp": "彼らはその紛争を終わらせた。"
+  },
+  {
+    "word": "tourism",
+    "meaning": "観光",
+    "example": "Tourism is growing.",
+    "example_jp": "観光業が成長している。"
+  },
+  {
+    "word": "mankind",
+    "meaning": "人類",
+    "example": "Mankind has changed.",
+    "example_jp": "人類は変化した。"
+  },
+  {
+    "word": "murder",
+    "meaning": "殺人",
+    "example": "He was arrested for murder.",
+    "example_jp": "彼は殺人で逮捕された。"
+  },
+  {
+    "word": "landscape",
+    "meaning": "風景",
+    "example": "The landscape is beautiful.",
+    "example_jp": "風景は美しい。"
+  },
+  {
+    "word": "destination",
+    "meaning": "目的地",
+    "example": "This town is our destination.",
+    "example_jp": "この町が私たちの目的地だ。"
+  },
+  {
+    "word": "tale",
+    "meaning": "話",
+    "example": "He told a funny tale.",
+    "example_jp": "彼は面白い話をした。"
+  },
+  {
+    "word": "reform",
+    "meaning": "改革",
+    "example": "They started a reform.",
+    "example_jp": "彼らは改革を始めた。"
+  },
+  {
+    "word": "muscle",
+    "meaning": "筋肉",
+    "example": "He has strong muscles.",
+    "example_jp": "彼は筋肉が強い。"
+  },
+  {
+    "word": "prospect",
+    "meaning": "見通し",
+    "example": "The prospect is good.",
+    "example_jp": "見通しは良い。"
+  },
+  {
+    "word": "corporation",
+    "meaning": "企業",
+    "example": "He works for a big corporation.",
+    "example_jp": "彼は大企業で働いている。"
+  },
+  {
+    "word": "colony",
+    "meaning": "植民地",
+    "example": "They lived in a colony.",
+    "example_jp": "彼らは植民地に住んでいた。"
+  },
+  {
+    "word": "quarrel",
+    "meaning": "口論",
+    "example": "They had a quarrel.",
+    "example_jp": "彼らは口論した。"
+  },
+  {
+    "word": "profession",
+    "meaning": "職業",
+    "example": "Teaching is his profession.",
+    "example_jp": "教職が彼の職業だ。"
+  },
+  {
+    "word": "aspect",
+    "meaning": "側面",
+    "example": "This is one aspect of the problem.",
+    "example_jp": "これは問題の一側面だ。"
+  },
+  {
+    "word": "pause",
+    "meaning": "休止",
+    "example": "There was a short pause.",
+    "example_jp": "短い休止があった。"
+  },
+  {
+    "word": "conflict",
+    "meaning": "対立",
+    "example": "The conflict lasted years.",
+    "example_jp": "その対立は何年も続いた。"
+  },
+  {
+    "word": "privilege",
+    "meaning": "特権",
+    "example": "Education is a privilege.",
+    "example_jp": "教育は特権だ。"
+  },
+  {
+    "word": "prosperity",
+    "meaning": "繁栄",
+    "example": "The country enjoyed prosperity.",
+    "example_jp": "その国は繁栄を享受した。"
+  },
+  {
+    "word": "genius",
+    "meaning": "天才",
+    "example": "She is a genius.",
+    "example_jp": "彼女は天才だ。"
+  },
+  {
+    "word": "seed",
+    "meaning": "種",
+    "example": "Plant the seeds.",
+    "example_jp": "種を植えなさい。"
+  },
+  {
+    "word": "symptom",
+    "meaning": "症状",
+    "example": "He has cold symptoms.",
+    "example_jp": "彼は風邪の症状がある。"
+  },
+  {
+    "word": "merit",
+    "meaning": "長所",
+    "example": "This plan has many merits.",
+    "example_jp": "この計画には多くの長所がある。"
+  },
+  {
+    "word": "layer",
+    "meaning": "層",
+    "example": "A thick layer of snow covered the road.",
+    "example_jp": "厚い雪の層が道路を覆っていた。"
+  },
+  {
+    "word": "clue",
+    "meaning": "手がかり",
+    "example": "This clue helped solve the case.",
+    "example_jp": "この手がかりが事件解決に役立った。"
+  },
+  {
+    "word": "circumstances",
+    "meaning": "状況",
+    "example": "Under these circumstances, we left.",
+    "example_jp": "このような状況の下で、私たちは去った。"
+  },
+  {
+    "word": "district",
+    "meaning": "地区",
+    "example": "He lives in this district.",
+    "example_jp": "彼はこの地区に住んでいる。"
+  },
+  {
+    "word": "prison",
+    "meaning": "刑務所",
+    "example": "He was sent to prison.",
+    "example_jp": "彼は刑務所に送られた。"
+  },
+  {
+    "word": "companion",
+    "meaning": "仲間",
+    "example": "She is a good companion.",
+    "example_jp": "彼女は良い仲間だ。"
+  },
+  {
+    "word": "executive",
+    "meaning": "重役",
+    "example": "He is a company executive.",
+    "example_jp": "彼は会社の重役だ。"
+  },
+  {
+    "word": "Justice",
+    "meaning": "正義",
+    "example": "They fought for justice.",
+    "example_jp": "彼らは正義のために戦った。"
+  },
+  {
+    "word": "procedure",
+    "meaning": "手続き",
+    "example": "Follow the procedure.",
+    "example_jp": "手順に従いなさい。"
+  },
+  {
+    "word": "ray",
+    "meaning": "光線",
+    "example": "A ray of light came in.",
+    "example_jp": "一筋の光が差し込んだ。"
+  },
+  {
+    "word": "heaven",
+    "meaning": "天国",
+    "example": "She believes in heaven.",
+    "example_jp": "彼女は天国を信じている。"
+  },
+  {
+    "word": "luxury",
+    "meaning": "贅沢",
+    "example": "A big house is a luxury.",
+    "example_jp": "大きな家は贅沢だ。"
+  },
+  {
+    "word": "oxygen",
+    "meaning": "酸素",
+    "example": "We need oxygen to live.",
+    "example_jp": "私たちは生きるために酸素が必要だ。"
+  },
+  {
+    "word": "fund",
+    "meaning": "資金",
+    "example": "They raised a fund.",
+    "example_jp": "彼らは資金を集めた。"
+  },
+  {
+    "word": "theme",
+    "meaning": "主題、テーマ",
+    "example": "The theme of the book is love.",
+    "example_jp": "その本のテーマは愛だ。"
+  },
+  {
+    "word": "boundary",
+    "meaning": "境界",
+    "example": "They crossed the boundary.",
+    "example_jp": "彼らは境界を越えた。"
+  },
+  {
+    "word": "ambition",
+    "meaning": "熱望",
+    "example": "He has great ambition.",
+    "example_jp": "彼は大きな野心を持っている。"
+  },
+  {
+    "word": "forecast",
+    "meaning": "予報",
+    "example": "The forecast says it will rain.",
+    "example_jp": "予報では雨になると言っている。"
+  },
+  {
+    "word": "psychology",
+    "meaning": "心理学",
+    "example": "She studies psychology.",
+    "example_jp": "彼女は心理学を学んでいる。"
+  },
+  {
+    "word": "labor",
+    "meaning": "労働",
+    "example": "Labor is necessary for progress.",
+    "example_jp": "進歩には労働が必要だ。"
+  },
+  {
+    "word": "committee",
+    "meaning": "委員会",
+    "example": "The committee met today.",
+    "example_jp": "委員会は今日会合した。"
+  },
+  {
+    "word": "physician",
+    "meaning": "医者",
+    "example": "He is a skilled physician.",
+    "example_jp": "彼は熟練した医師だ。"
+  },
+  {
+    "word": "philosophy",
+    "meaning": "哲学",
+    "example": "She teaches philosophy.",
+    "example_jp": "彼女は哲学を教えている。"
+  },
+  {
+    "word": "affection",
+    "meaning": "愛情",
+    "example": "She showed affection for her dog.",
+    "example_jp": "彼女は犬に愛情を示した。"
+  },
+  {
+    "word": "candidate",
+    "meaning": "候補",
+    "example": "He is a strong candidate.",
+    "example_jp": "彼は有力な候補者だ。"
+  },
+  {
+    "word": "bomb",
+    "meaning": "爆弾",
+    "example": "They found a bomb.",
+    "example_jp": "彼らは爆弾を見つけた。"
+  }
+]

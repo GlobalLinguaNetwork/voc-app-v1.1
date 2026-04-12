@@ -1,0 +1,338 @@
+[
+  {
+    "word": "ally",
+    "meaning": "They are our ally.",
+    "example": "同盟国",
+    "example_jp": "彼らは我々の同盟国だ。"
+  },
+  {
+    "word": "draft",
+    "meaning": "I wrote a draft.",
+    "example": "下書き、草稿",
+    "example_jp": "私は下書きを書いた。"
+  },
+  {
+    "word": "spectacle",
+    "meaning": "The show was a great spectacle.",
+    "example": "光景",
+    "example_jp": "そのショーは見事な光景だった。"
+  },
+  {
+    "word": "premise",
+    "meaning": "The premise is simple.",
+    "example": "前提",
+    "example_jp": "前提は単純だ。"
+  },
+  {
+    "word": "asset",
+    "meaning": "Her skills are a big asset.",
+    "example": "財産",
+    "example_jp": "彼女の技能は大きな財産だ。"
+  },
+  {
+    "word": "lag",
+    "meaning": "There was a time lag.",
+    "example": "遅れ",
+    "example_jp": "時間の遅れがあった。"
+  },
+  {
+    "word": "therapy",
+    "meaning": "He received therapy.",
+    "example": "療法、治療法",
+    "example_jp": "彼は治療を受けた。"
+  },
+  {
+    "word": "reception",
+    "meaning": "The reception was warm.",
+    "example": "もてなし",
+    "example_jp": "歓迎は温かかった。"
+  },
+  {
+    "word": "compound",
+    "meaning": "Water is a chemical compound.",
+    "example": "化合物",
+    "example_jp": "水は化学的な化合物だ。"
+  },
+  {
+    "word": "blessing",
+    "meaning": "Good health is a blessing.",
+    "example": "ありがたいもの、恵み",
+    "example_jp": "健康はありがたい恵みだ。"
+  },
+  {
+    "word": "sensation",
+    "meaning": "I felt a strange sensation.",
+    "example": "感覚、感じ",
+    "example_jp": "私は奇妙な感覚を感じた。"
+  },
+  {
+    "word": "recession",
+    "meaning": "The recession lasted years.",
+    "example": "不景気、不況",
+    "example_jp": "不況は何年も続いた。"
+  },
+  {
+    "word": "pole",
+    "meaning": "He held a long pole.",
+    "example": "棒",
+    "example_jp": "彼は長い棒を持っていた。"
+  },
+  {
+    "word": "pole",
+    "meaning": "The North Pole is cold.",
+    "example": "極",
+    "example_jp": "北極は寒い。"
+  },
+  {
+    "word": "outlook",
+    "meaning": "Her outlook is positive.",
+    "example": "態度、考え方",
+    "example_jp": "彼女の考え方は前向きだ。"
+  },
+  {
+    "word": "outlook",
+    "meaning": "The outlook is good.",
+    "example": "見通し、見込み",
+    "example_jp": "見通しは良い。"
+  },
+  {
+    "word": "endeavor",
+    "meaning": "This is a new endeavor.",
+    "example": "活動",
+    "example_jp": "これは新しい取り組みだ。"
+  },
+  {
+    "word": "mercy",
+    "meaning": "He showed mercy.",
+    "example": "慈悲、情け",
+    "example_jp": "彼は慈悲を示した。"
+  },
+  {
+    "word": "counterpart",
+    "meaning": "He met his counterpart.",
+    "example": "相当するもの",
+    "example_jp": "彼は相手側の担当者に会った。"
+  },
+  {
+    "word": "session",
+    "meaning": "The session lasted two hours.",
+    "example": "期間、討論",
+    "example_jp": "そのセッションは2時間続いた。"
+  },
+  {
+    "word": "spectrum",
+    "meaning": "The colors form a spectrum.",
+    "example": "変動範囲、領域",
+    "example_jp": "色はスペクトルを形成する。"
+  },
+  {
+    "word": "junk",
+    "meaning": "He threw away the junk.",
+    "example": "くず、がらくた",
+    "example_jp": "彼はがらくたを捨てた。"
+  },
+  {
+    "word": "worship",
+    "meaning": "They worship a god.",
+    "example": "崇拝",
+    "example_jp": "彼らは神を崇拝する。"
+  },
+  {
+    "word": "apt",
+    "meaning": "He is apt to forget.",
+    "example": "しがちである、する傾向がある",
+    "example_jp": "彼は忘れがちだ。"
+  },
+  {
+    "word": "humble",
+    "meaning": "She is humble.",
+    "example": "謙虚な",
+    "example_jp": "彼女は謙虚だ。"
+  },
+  {
+    "word": "humble",
+    "meaning": "They lived in a humble house.",
+    "example": "粗末な",
+    "example_jp": "彼らは粗末な家に住んでいた。"
+  },
+  {
+    "word": "entitled",
+    "meaning": "You are entitled to a refund.",
+    "example": "得る権利がある",
+    "example_jp": "あなたは返金を受ける権利がある。"
+  },
+  {
+    "word": "entitled",
+    "meaning": "The book is entitled “Hope.”",
+    "example": "題された",
+    "example_jp": "その本の題名は「Hope」だ。"
+  },
+  {
+    "word": "valid",
+    "meaning": "This is a valid reason.",
+    "example": "妥当な、正当な",
+    "example_jp": "これは妥当な理由だ。"
+  },
+  {
+    "word": "faint",
+    "meaning": "I heard a faint sound.",
+    "example": "かすかな",
+    "example_jp": "かすかな音が聞こえた。"
+  },
+  {
+    "word": "stiff",
+    "meaning": "My neck is stiff.",
+    "example": "堅い",
+    "example_jp": "首がこっている。"
+  },
+  {
+    "word": "obscure",
+    "meaning": "The meaning is obscure.",
+    "example": "わかりにくい",
+    "example_jp": "意味はわかりにくい。"
+  },
+  {
+    "word": "fierce",
+    "meaning": "They had a fierce fight.",
+    "example": "激しい",
+    "example_jp": "彼らは激しい戦いをした。"
+  },
+  {
+    "word": "acute",
+    "meaning": "The problem is acute.",
+    "example": "（問題が）深刻な",
+    "example_jp": "その問題は深刻だ。"
+  },
+  {
+    "word": "acute",
+    "meaning": "He felt acute pain.",
+    "example": "（感覚・痛みが）鋭い",
+    "example_jp": "彼は鋭い痛みを感じた。"
+  },
+  {
+    "word": "idle",
+    "meaning": "He was idle all day.",
+    "example": "（仕事がなくて）何もしていない",
+    "example_jp": "彼は一日中何もしていなかった。"
+  },
+  {
+    "word": "crude",
+    "meaning": "They used crude tools.",
+    "example": "粗末な",
+    "example_jp": "彼らは粗末な道具を使った。"
+  },
+  {
+    "word": "crude",
+    "meaning": "His joke was crude.",
+    "example": "粗野な",
+    "example_jp": "彼の冗談は下品だった。"
+  },
+  {
+    "word": "jealous",
+    "meaning": "She is jealous of her sister.",
+    "example": "嫉妬深い、羨ましい",
+    "example_jp": "彼女は姉を羨ましく思っている。"
+  },
+  {
+    "word": "pregnant",
+    "meaning": "She is pregnant.",
+    "example": "妊娠している",
+    "example_jp": "彼女は妊娠している。"
+  },
+  {
+    "word": "liable",
+    "meaning": "He is liable to make mistakes.",
+    "example": "しがちである、可能性が高い",
+    "example_jp": "彼はミスをしがちだ。"
+  },
+  {
+    "word": "stubborn",
+    "meaning": "He is stubborn.",
+    "example": "頑固な",
+    "example_jp": "彼は頑固だ。"
+  },
+  {
+    "word": "decent",
+    "meaning": "He has a decent job.",
+    "example": "まともな",
+    "example_jp": "彼はまともな仕事に就いている。"
+  },
+  {
+    "word": "marvelous",
+    "meaning": "The view was marvelous.",
+    "example": "驚くべき",
+    "example_jp": "その景色は素晴らしかった。"
+  },
+  {
+    "word": "misleading",
+    "meaning": "The ad was misleading.",
+    "example": "誤解を招く",
+    "example_jp": "その広告は誤解を招くものだった。"
+  },
+  {
+    "word": "synthetic",
+    "meaning": "They made synthetic fibers.",
+    "example": "合成の",
+    "example_jp": "彼らは合成繊維を作った。"
+  },
+  {
+    "word": "classical",
+    "meaning": "I like classical music.",
+    "example": "クラシックの",
+    "example_jp": "私はクラシック音楽が好きだ。"
+  },
+  {
+    "word": "Muslim",
+    "meaning": "He is a Muslim.",
+    "example": "イスラム教の",
+    "example_jp": "彼はイスラム教徒だ。"
+  },
+  {
+    "word": "anticipate",
+    "meaning": "I anticipate success.",
+    "example": "予想する",
+    "example_jp": "私は成功を予想している。"
+  },
+  {
+    "word": "rub",
+    "meaning": "He rubbed his eyes.",
+    "example": "こする",
+    "example_jp": "彼は目をこすった。"
+  },
+  {
+    "word": "dispose",
+    "meaning": "They disposed of the waste.",
+    "example": "処理する",
+    "example_jp": "彼らは廃棄物を処理した。"
+  },
+  {
+    "word": "refrain",
+    "meaning": "Please refrain from smoking.",
+    "example": "控える",
+    "example_jp": "喫煙はご遠慮ください。"
+  },
+  {
+    "word": "accumulate",
+    "meaning": "Snow accumulated on the roof.",
+    "example": "蓄積する",
+    "example_jp": "雪が屋根に積もった。"
+  },
+  {
+    "word": "boost",
+    "meaning": "The news boosted sales.",
+    "example": "活気づける",
+    "example_jp": "そのニュースは売上を押し上げた。"
+  },
+  {
+    "word": "drag",
+    "meaning": "He dragged the box.",
+    "example": "引きずる",
+    "example_jp": "彼は箱を引きずった。"
+  },
+  {
+    "word": "revise",
+    "meaning": "I revised the report.",
+    "example": "修正する",
+    "example_jp": "私は報告書を修正した。"
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "word": "assert",
+    "meaning": "断定する，主張する",
+    "example": "He asserted that he was right.",
+    "example_jp": "彼は自分が正しいと断定した（主張した）。"
+  },
+  {
+    "word": "defy",
+    "meaning": "逆らう",
+    "example": "He defied the rules.",
+    "example_jp": "彼は規則に逆らった。"
+  },
+  {
+    "word": "defy",
+    "meaning": "拒む",
+    "example": "She defied the order.",
+    "example_jp": "彼女はその命令を拒んだ。"
+  },
+  {
+    "word": "condemn",
+    "meaning": "非難する",
+    "example": "They condemned his actions.",
+    "example_jp": "彼らは彼の行動を非難した。"
+  },
+  {
+    "word": "condemn",
+    "meaning": "宣告する",
+    "example": "He was condemned to prison.",
+    "example_jp": "彼は刑務所行きを宣告された。"
+  },
+  {
+    "word": "condemn",
+    "meaning": "強いる",
+    "example": "Poverty condemned them to hardship.",
+    "example_jp": "貧困が彼らに苦難を強いた。"
+  },
+  {
+    "word": "cite",
+    "meaning": "引用する",
+    "example": "He cited an example.",
+    "example_jp": "彼は一例を引用した。"
+  },
+  {
+    "word": "illustrate",
+    "meaning": "説明する，例証する",
+    "example": "This story illustrates the point.",
+    "example_jp": "この物語がその点を説明している（例証している）。"
+  },
+  {
+    "word": "illustrate",
+    "meaning": "挿絵を入れる，図解する",
+    "example": "The book is illustrated with photos.",
+    "example_jp": "その本は写真で図解されている（挿絵が入れられている）。"
+  },
+  {
+    "word": "refute",
+    "meaning": "反論する",
+    "example": "He refuted the claim.",
+    "example_jp": "彼はその主張に反論した。"
+  },
+  {
+    "word": "sue",
+    "meaning": "訴える",
+    "example": "She sued the company.",
+    "example_jp": "彼女はその会社を訴えた。"
+  },
+  {
+    "word": "articulate",
+    "meaning": "はっきり述べる",
+    "example": "He articulated his opinion clearly.",
+    "example_jp": "彼は自分の意見をはっきり述べた。"
+  },
+  {
+    "word": "articulate",
+    "meaning": "明確に表現できる",
+    "example": "She is very articulate.",
+    "example_jp": "彼女は非常に明確に表現できる。"
+  },
+  {
+    "word": "version",
+    "meaning": "解釈，意見",
+    "example": "This is my version of the story.",
+    "example_jp": "これがその話に対する私の解釈（意見）だ。"
+  },
+  {
+    "word": "version",
+    "meaning": "～版",
+    "example": "The new version is faster.",
+    "example_jp": "新しい版はより速い。"
+  },
+  {
+    "word": "advocate",
+    "meaning": "提唱者，支持者",
+    "example": "She is an advocate for peace.",
+    "example_jp": "彼女は平和の提唱者（支持者）だ。"
+  },
+  {
+    "word": "advocate",
+    "meaning": "主張する，支持する",
+    "example": "They advocated the plan.",
+    "example_jp": "彼らはその計画を主張した（支持した）。"
+  },
+  {
+    "word": "breakthrough",
+    "meaning": "飛躍的進歩，大発見",
+    "example": "The team made a breakthrough.",
+    "example_jp": "チームは飛躍的進歩（大発見）を遂げた。"
+  },
+  {
+    "word": "evolution",
+    "meaning": "進化",
+    "example": "Human evolution took millions of years.",
+    "example_jp": "人類の進化には数百万年かかった。"
+  },
+  {
+    "word": "innovation",
+    "meaning": "革新",
+    "example": "The company values innovation.",
+    "example_jp": "その会社は革新を重視している。"
+  },
+  {
+    "word": "probe",
+    "meaning": "探査機",
+    "example": "The probe landed on Mars.",
+    "example_jp": "その探査機は火星に着陸した。"
+  },
+  {
+    "word": "probe",
+    "meaning": "調査する",
+    "example": "They probed the cause.",
+    "example_jp": "彼らは原因を調査した。"
+  },
+  {
+    "word": "fluid",
+    "meaning": "流体",
+    "example": "Water is a fluid.",
+    "example_jp": "水は流体だ。"
+  },
+  {
+    "word": "fluid",
+    "meaning": "流動的な，なめらかな",
+    "example": "Her movements were fluid.",
+    "example_jp": "彼女の動きはなめらか（流動的）だった。"
+  },
+  {
+    "word": "particle",
+    "meaning": "粒子",
+    "example": "Dust is made of tiny particles.",
+    "example_jp": "埃は小さな粒子でできている。"
+  },
+  {
+    "word": "particle",
+    "meaning": "かけらもない",
+    "example": "There is not a particle of truth.",
+    "example_jp": "真実のかけらもない。"
+  },
+  {
+    "word": "gravity",
+    "meaning": "重力",
+    "example": "Gravity pulls objects down.",
+    "example_jp": "重力が物体を下に引っ張る。"
+  },
+  {
+    "word": "gravity",
+    "meaning": "重大さ",
+    "example": "He spoke with gravity.",
+    "example_jp": "彼は重大さをもって話した。"
+  },
+  {
+    "word": "hypothesis",
+    "meaning": "仮説",
+    "example": "They tested the hypothesis.",
+    "example_jp": "彼らはその仮説をテストした。"
+  },
+  {
+    "word": "specimen",
+    "meaning": "標本",
+    "example": "The museum has rare specimens.",
+    "example_jp": "その博物館には珍しい標本がある。"
+  },
+  {
+    "word": "specimen",
+    "meaning": "サンプル",
+    "example": "They collected a blood specimen.",
+    "example_jp": "彼らは血液のサンプルを採取した。"
+  },
+  {
+    "word": "microbe",
+    "meaning": "微生物",
+    "example": "The microbe spread quickly.",
+    "example_jp": "その微生物は急速に広がった。"
+  },
+  {
+    "word": "poison",
+    "meaning": "毒",
+    "example": "The bottle contained poison.",
+    "example_jp": "その瓶には毒が入っていた。"
+  },
+  {
+    "word": "acid",
+    "meaning": "酸性の",
+    "example": "The liquid is acid.",
+    "example_jp": "その液体は酸性だ。"
+  },
+  {
+    "word": "acid",
+    "meaning": "辛辣な",
+    "example": "She gave an acid remark.",
+    "example_jp": "彼女は辛辣な言葉を述べた。"
+  },
+  {
+    "word": "toxic",
+    "meaning": "有害な，有毒な",
+    "example": "The gas is toxic.",
+    "example_jp": "そのガスは有害（有毒）だ。"
+  },
+  {
+    "word": "endeavor",
+    "meaning": "努力，試み",
+    "example": "Success requires endeavor.",
+    "example_jp": "成功には努力（試み）が必要だ。"
+  },
+  {
+    "word": "endeavor",
+    "meaning": "努力する，試みる",
+    "example": "They endeavored to improve.",
+    "example_jp": "彼らは改善しようと努力した（試みた）。"
+  },
+  {
+    "word": "doom",
+    "meaning": "～の運命にある",
+    "example": "He was doomed to fail.",
+    "example_jp": "彼は失敗する運命にあった。"
+  },
+  {
+    "word": "manufacture",
+    "meaning": "製造する",
+    "example": "They manufacture cars.",
+    "example_jp": "彼らは車を製造している。"
+  },
+  {
+    "word": "manufacture",
+    "meaning": "製造，製品",
+    "example": "The company increased manufacture.",
+    "example_jp": "その会社は製造（製品の生産）を増やした。"
+  },
+  {
+    "word": "yield",
+    "meaning": "産出する",
+    "example": "The farm yields good crops.",
+    "example_jp": "その農場は良い作物を産出する。"
+  },
+  {
+    "word": "yield",
+    "meaning": "屈する",
+    "example": "He yielded to pressure.",
+    "example_jp": "彼は圧力に屈した。"
+  },
+  {
+    "word": "yield",
+    "meaning": "産出量",
+    "example": "The yield was high.",
+    "example_jp": "産出量は高かった。"
+  },
+  {
+    "word": "duplicate",
+    "meaning": "複製する",
+    "example": "They duplicated the file.",
+    "example_jp": "彼らはファイルを複製した。"
+  },
+  {
+    "word": "duplicate",
+    "meaning": "複製品",
+    "example": "This is a duplicate.",
+    "example_jp": "これは複製品だ。"
+  },
+  {
+    "word": "duplicate",
+    "meaning": "複製の",
+    "example": "A duplicate copy was made.",
+    "example_jp": "複製のコピーが作られた。"
+  },
+  {
+    "word": "assemble",
+    "meaning": "組み立てる",
+    "example": "They assembled the machine.",
+    "example_jp": "彼らは機械を組み立てた。"
+  },
+  {
+    "word": "assemble",
+    "meaning": "集まる",
+    "example": "The crowd assembled.",
+    "example_jp": "群衆が集まった。"
+  },
+  {
+    "word": "mold",
+    "meaning": "型に入れて作る",
+    "example": "They molded the clay.",
+    "example_jp": "彼らは粘土を型に入れて作った。"
+  },
+  {
+    "word": "mold",
+    "meaning": "形成する",
+    "example": "Experience molded his character.",
+    "example_jp": "経験が彼の性格を形成した。"
+  },
+  {
+    "word": "coin",
+    "meaning": "作り出す",
+    "example": "She coined a new phrase.",
+    "example_jp": "彼女は新しいフレーズを作り出した。"
+  },
+  {
+    "word": "coin",
+    "meaning": "硬貨",
+    "example": "The coin is rare.",
+    "example_jp": "その硬貨は珍しい。"
+  },
+  {
+    "word": "therapy",
+    "meaning": "治療",
+    "example": "He received therapy.",
+    "example_jp": "彼は治療を受けた。"
+  },
+  {
+    "word": "injection",
+    "meaning": "注射",
+    "example": "She got an injection.",
+    "example_jp": "彼女は注射を打ってもらった。"
+  },
+  {
+    "word": "dose",
+    "meaning": "服用量",
+    "example": "Take one dose daily.",
+    "example_jp": "1日1回の服用量を摂りなさい。"
+  },
+  {
+    "word": "sanitation",
+    "meaning": "衛生",
+    "example": "Good sanitation prevents disease.",
+    "example_jp": "良好な衛生が病気を防ぐ。"
+  },
+  {
+    "word": "germ",
+    "meaning": "細菌，ばい菌",
+    "example": "Germs spread easily.",
+    "example_jp": "細菌（ばい菌）は簡単に広がる。"
+  },
+  {
+    "word": "tumor",
+    "meaning": "腫瘍",
+    "example": "The doctor found a tumor.",
+    "example_jp": "医者は腫瘍を見つけた。"
+  },
+  {
+    "word": "stroke",
+    "meaning": "卒中，発作",
+    "example": "He suffered a stroke.",
+    "example_jp": "彼は卒中（発作）を起こした。"
+  },
+  {
+    "word": "agony",
+    "meaning": "苦痛",
+    "example": "He was in great agony.",
+    "example_jp": "彼は大きな苦痛の中にいた。"
+  },
+  {
+    "word": "plague",
+    "meaning": "疫病，伝染病，災害",
+    "example": "The plague spread quickly.",
+    "example_jp": "疫病（伝染病）が急速に広がった。"
+  },
+  {
+    "word": "plague",
+    "meaning": "苦しめる",
+    "example": "The noise plagued the residents.",
+    "example_jp": "その騒音が住民たちを苦しめた。"
+  },
+  {
+    "word": "fatigue",
+    "meaning": "疲労",
+    "example": "He felt deep fatigue.",
+    "example_jp": "彼は深い疲労を感じた。"
+  },
+  {
+    "word": "diagnosis",
+    "meaning": "診断",
+    "example": "The diagnosis was correct.",
+    "example_jp": "その診断は正しかった。"
+  },
+  {
+    "word": "mortality",
+    "meaning": "死亡率",
+    "example": "The mortality rate is rising.",
+    "example_jp": "死亡率が上昇している。"
+  },
+  {
+    "word": "mortality",
+    "meaning": "死すべき運命",
+    "example": "Mortality is part of life.",
+    "example_jp": "死すべき運命は人生の一部だ。"
+  },
+  {
+    "word": "nursing",
+    "meaning": "看護",
+    "example": "She works in nursing.",
+    "example_jp": "彼女は看護の仕事をしている。"
+  },
+  {
+    "word": "chronic",
+    "meaning": "慢性の",
+    "example": "He has a chronic illness.",
+    "example_jp": "彼は慢性の病気を患っている。"
+  },
+  {
+    "word": "immune",
+    "meaning": "免疫の",
+    "example": "She is immune to the virus.",
+    "example_jp": "彼女はそのウイルスに対して免疫がある。"
+  },
+  {
+    "word": "terminal",
+    "meaning": "末期の",
+    "example": "He is a terminal patient.",
+    "example_jp": "彼は末期の患者だ。"
+  },
+  {
+    "word": "terminal",
+    "meaning": "ターミナルビル",
+    "example": "The bus terminal is crowded.",
+    "example_jp": "バスターミナル（ターミナルビル）は混雑している。"
+  },
+  {
+    "word": "sound",
+    "meaning": "健全な",
+    "example": "He is sound in body and mind.",
+    "example_jp": "彼は心身ともに健全だ。"
+  },
+  {
+    "word": "sound",
+    "meaning": "堅実な",
+    "example": "Her logic is sound.",
+    "example_jp": "彼女の論理は堅実だ。"
+  },
+  {
+    "word": "respiratory",
+    "meaning": "呼吸の",
+    "example": "He has a respiratory disease.",
+    "example_jp": "彼は呼吸器の（呼吸の）疾患を抱えている。"
+  },
+  {
+    "word": "choke",
+    "meaning": "息が詰まる",
+    "example": "He choked on food.",
+    "example_jp": "彼は食べ物で息が詰まった。"
+  },
+  {
+    "word": "choke",
+    "meaning": "窒息させる",
+    "example": "The smoke choked him.",
+    "example_jp": "煙が彼を窒息させた。"
+  }
+]

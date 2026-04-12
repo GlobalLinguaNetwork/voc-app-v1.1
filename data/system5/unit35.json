@@ -1,0 +1,302 @@
+[
+  {
+    "word": "clarify",
+    "meaning": "He clarified the point.",
+    "example": "明らかにする",
+    "example_jp": "彼はその点を明らかにした。"
+  },
+  {
+    "word": "smash",
+    "meaning": "He smashed the glass.",
+    "example": "粉々に砕く",
+    "example_jp": "彼はガラスを粉々に砕いた。"
+  },
+  {
+    "word": "mourn",
+    "meaning": "They mourned his death.",
+    "example": "悲しむ",
+    "example_jp": "彼らは彼の死を悲しんだ。"
+  },
+  {
+    "word": "summon",
+    "meaning": "She summoned him to the office.",
+    "example": "呼ぶ",
+    "example_jp": "彼女は彼をオフィスに呼び出した。"
+  },
+  {
+    "word": "shatter",
+    "meaning": "The window shattered.",
+    "example": "粉々にする",
+    "example_jp": "窓が粉々に割れた。"
+  },
+  {
+    "word": "linger",
+    "meaning": "The smell lingered.",
+    "example": "残る",
+    "example_jp": "その匂いが残った。"
+  },
+  {
+    "word": "lament",
+    "meaning": "She lamented the loss.",
+    "example": "嘆く",
+    "example_jp": "彼女はその喪失を嘆いた。"
+  },
+  {
+    "word": "endowed",
+    "meaning": "He is endowed with talent.",
+    "example": "恵まれる",
+    "example_jp": "彼は才能に恵まれている。"
+  },
+  {
+    "word": "rejoice",
+    "meaning": "They rejoiced at the news.",
+    "example": "喜ぶ",
+    "example_jp": "彼らはその知らせに喜んだ。"
+  },
+  {
+    "word": "allocate",
+    "meaning": "They allocated money to the project.",
+    "example": "配分する",
+    "example_jp": "彼らはそのプロジェクトに資金を配分した。"
+  },
+  {
+    "word": "slap",
+    "meaning": "She slapped his hand.",
+    "example": "ピシャリと打つ",
+    "example_jp": "彼女は彼の手をピシャリと打った。"
+  },
+  {
+    "word": "contend",
+    "meaning": "He contended that he was right.",
+    "example": "主張する",
+    "example_jp": "彼は自分が正しいと主張した。"
+  },
+  {
+    "word": "swear",
+    "meaning": "He swore to keep the secret.",
+    "example": "誓う",
+    "example_jp": "彼はその秘密を守ると誓った。"
+  },
+  {
+    "word": "discern",
+    "meaning": "I discerned a small change.",
+    "example": "識別する",
+    "example_jp": "私はわずかな変化を識別した。"
+  },
+  {
+    "word": "degrade",
+    "meaning": "Pollution degrades the environment.",
+    "example": "悪化させる",
+    "example_jp": "汚染は環境を悪化させる。"
+  },
+  {
+    "word": "erect",
+    "meaning": "They erected a new building.",
+    "example": "築く",
+    "example_jp": "彼らは新しい建物を建てた。"
+  },
+  {
+    "word": "testify",
+    "meaning": "He testified in court.",
+    "example": "証言する",
+    "example_jp": "彼は法廷で証言した。"
+  },
+  {
+    "word": "spur",
+    "meaning": "The victory spurred him on.",
+    "example": "駆りたてる",
+    "example_jp": "その勝利が彼を駆り立てた。"
+  },
+  {
+    "word": "roam",
+    "meaning": "They roamed the streets.",
+    "example": "歩き回る",
+    "example_jp": "彼らは通りを歩き回った。"
+  },
+  {
+    "word": "frown",
+    "meaning": "She frowned at the noise.",
+    "example": "まゆをひそめる",
+    "example_jp": "彼女はその騒音に眉をひそめた。"
+  },
+  {
+    "word": "lure",
+    "meaning": "The ad lured customers.",
+    "example": "呼び込む",
+    "example_jp": "その広告は客を呼び込んだ。"
+  },
+  {
+    "word": "defy",
+    "meaning": "He defied the rule.",
+    "example": "逆らう",
+    "example_jp": "彼はその規則に逆らった。"
+  },
+  {
+    "word": "stroll",
+    "meaning": "They strolled in the park.",
+    "example": "ぶらつく",
+    "example_jp": "彼らは公園をぶらついた。"
+  },
+  {
+    "word": "rattle",
+    "meaning": "The door rattled in the wind.",
+    "example": "がたがた鳴らす",
+    "example_jp": "風でドアががたがた鳴った。"
+  },
+  {
+    "word": "reconcile",
+    "meaning": "They reconciled their differences.",
+    "example": "調和させる",
+    "example_jp": "彼らは意見の相違を調和させた。"
+  },
+  {
+    "word": "blur",
+    "meaning": "Tears blurred her vision.",
+    "example": "ぼやかす",
+    "example_jp": "涙で彼女の視界がぼやけた。"
+  },
+  {
+    "word": "soothe",
+    "meaning": "Music soothed her mind.",
+    "example": "なだめる",
+    "example_jp": "音楽が彼女の心をなだめた。"
+  },
+  {
+    "word": "impair",
+    "meaning": "The injury impaired his vision.",
+    "example": "低下させる",
+    "example_jp": "そのけがが彼の視力を低下させた。"
+  },
+  {
+    "word": "comply",
+    "meaning": "They complied with the law.",
+    "example": "従う",
+    "example_jp": "彼らは法律に従った。"
+  },
+  {
+    "word": "pierce",
+    "meaning": "He pierced the paper.",
+    "example": "穴をあける",
+    "example_jp": "彼は紙に穴をあけた。"
+  },
+  {
+    "word": "stumble",
+    "meaning": "He stumbled on a rock.",
+    "example": "つまずく",
+    "example_jp": "彼は石につまずいた。"
+  },
+  {
+    "word": "hinder",
+    "meaning": "The rain hindered progress.",
+    "example": "さまたげる",
+    "example_jp": "雨が進行を妨げた。"
+  },
+  {
+    "word": "mock",
+    "meaning": "They mocked his idea.",
+    "example": "あざける",
+    "example_jp": "彼らは彼の考えをあざけった。"
+  },
+  {
+    "word": "embody",
+    "meaning": "The statue embodies freedom.",
+    "example": "具現する",
+    "example_jp": "その像は自由を具現している。"
+  },
+  {
+    "word": "stalk",
+    "meaning": "The cat stalked the bird.",
+    "example": "忍び寄る",
+    "example_jp": "猫は鳥に忍び寄った。"
+  },
+  {
+    "word": "proclaim",
+    "meaning": "He proclaimed his victory.",
+    "example": "宣言する",
+    "example_jp": "彼は自分の勝利を宣言した。"
+  },
+  {
+    "word": "applaud",
+    "meaning": "The audience applauded.",
+    "example": "拍手する",
+    "example_jp": "観客は拍手した。"
+  },
+  {
+    "word": "inflict",
+    "meaning": "The storm inflicted damage.",
+    "example": "与える",
+    "example_jp": "その嵐は被害を与えた。"
+  },
+  {
+    "word": "merge",
+    "meaning": "The two companies merged.",
+    "example": "合併する",
+    "example_jp": "その2社は合併した。"
+  },
+  {
+    "word": "evacuated",
+    "meaning": "They evacuated the building.",
+    "example": "避難した",
+    "example_jp": "彼らは建物から避難した。"
+  },
+  {
+    "word": "undone",
+    "meaning": "The plan came undone.",
+    "example": "元に戻る",
+    "example_jp": "その計画は元に戻ってしまった。"
+  },
+  {
+    "word": "poke",
+    "meaning": "He poked the fire.",
+    "example": "突く",
+    "example_jp": "彼は火を突いた。"
+  },
+  {
+    "word": "haunted",
+    "meaning": "He was haunted by memories.",
+    "example": "つきまとわれる",
+    "example_jp": "彼は記憶に取りつかれていた。"
+  },
+  {
+    "word": "adhere",
+    "meaning": "They adhered to the rules.",
+    "example": "固く守る",
+    "example_jp": "彼らは規則を固く守った。"
+  },
+  {
+    "word": "compile",
+    "meaning": "They compiled the data.",
+    "example": "まとめる",
+    "example_jp": "彼らはデータをまとめた。"
+  },
+  {
+    "word": "wither",
+    "meaning": "The flowers withered.",
+    "example": "しぼむ",
+    "example_jp": "花がしおれた。"
+  },
+  {
+    "word": "stun",
+    "meaning": "The news stunned him.",
+    "example": "びっくりさせる",
+    "example_jp": "そのニュースは彼を驚かせた。"
+  },
+  {
+    "word": "choke",
+    "meaning": "He choked on the food.",
+    "example": "のどがつまる",
+    "example_jp": "彼は食べ物でのどを詰まらせた。"
+  },
+  {
+    "word": "deteriorate",
+    "meaning": "The situation deteriorated.",
+    "example": "悪化する",
+    "example_jp": "状況は悪化した。"
+  },
+  {
+    "word": "dump",
+    "meaning": "They dumped the trash.",
+    "example": "捨てる",
+    "example_jp": "彼らはごみを捨てた。"
+  }
+]

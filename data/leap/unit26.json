@@ -1,0 +1,482 @@
+[
+  {
+    "word": "prime",
+    "meaning": "最重要な",
+    "example": "He is the prime suspect.",
+    "example_jp": "彼は最重要な容疑者だ。"
+  },
+  {
+    "word": "prime",
+    "meaning": "素数",
+    "example": "Seven is a prime number.",
+    "example_jp": "7は素数です。"
+  },
+  {
+    "word": "definite",
+    "meaning": "明確な",
+    "example": "We need a definite answer.",
+    "example_jp": "私たちは明確な答えを必要としている。"
+  },
+  {
+    "word": "evident",
+    "meaning": "明らかな",
+    "example": "The mistake was evident.",
+    "example_jp": "その間違いは明らかだった。"
+  },
+  {
+    "word": "prominent",
+    "meaning": "目立った",
+    "example": "The tower is prominent in the city.",
+    "example_jp": "その塔は街の中で目立っている。"
+  },
+  {
+    "word": "prominent",
+    "meaning": "著名な，重要な",
+    "example": "She is a prominent scientist.",
+    "example_jp": "彼女は著名な（重要な）科学者だ。"
+  },
+  {
+    "word": "marked",
+    "meaning": "際立った，著しい",
+    "example": "There was a marked change.",
+    "example_jp": "際立った（著しい）変化があった。"
+  },
+  {
+    "word": "grace",
+    "meaning": "優美さ",
+    "example": "She moved with grace.",
+    "example_jp": "彼女は優美さをもって動いた。"
+  },
+  {
+    "word": "grace",
+    "meaning": "感謝の祈り",
+    "example": "They said grace before dinner.",
+    "example_jp": "彼らは夕食の前に感謝の祈りを捧げた。"
+  },
+  {
+    "word": "charm",
+    "meaning": "魅力",
+    "example": "The town has a special charm.",
+    "example_jp": "その町には特別な魅力がある。"
+  },
+  {
+    "word": "charm",
+    "meaning": "お守り，まじない",
+    "example": "He carries a good-luck charm.",
+    "example_jp": "彼はお守り（まじない）を持ち歩いている。"
+  },
+  {
+    "word": "fancy",
+    "meaning": "高級な",
+    "example": "They stayed at a fancy hotel.",
+    "example_jp": "彼らは高級なホテルに泊まった。"
+  },
+  {
+    "word": "fancy",
+    "meaning": "～が欲しい，～したい",
+    "example": "I fancy a cup of tea.",
+    "example_jp": "紅茶が一杯欲しい（飲みたい）。"
+  },
+  {
+    "word": "fancy",
+    "meaning": "～と思う",
+    "example": "She fancied he was joking.",
+    "example_jp": "彼女は彼が冗談を言っているのだと思った。"
+  },
+  {
+    "word": "rational",
+    "meaning": "理性的な",
+    "example": "Try to be rational.",
+    "example_jp": "理性的な態度をとるように努めなさい。"
+  },
+  {
+    "word": "magnificent",
+    "meaning": "壮大な，素晴らしい",
+    "example": "The view was magnificent.",
+    "example_jp": "その眺めは壮大（素晴らしい）だった。"
+  },
+  {
+    "word": "superior",
+    "meaning": "より優れている",
+    "example": "This product is superior to others.",
+    "example_jp": "この製品は他よりも優れている。"
+  },
+  {
+    "word": "superior",
+    "meaning": "上役，上司",
+    "example": "He is my superior.",
+    "example_jp": "彼は私の役上（上司）だ。"
+  },
+  {
+    "word": "loyal",
+    "meaning": "忠実な",
+    "example": "He is loyal to his friends.",
+    "example_jp": "彼は友人に対して忠実だ。"
+  },
+  {
+    "word": "horrible",
+    "meaning": "とてもひどい，ぞっとする",
+    "example": "The weather was horrible.",
+    "example_jp": "天気はとてもひどかった。"
+  },
+  {
+    "word": "miserable",
+    "meaning": "悲惨な，不幸な",
+    "example": "She felt miserable after the loss.",
+    "example_jp": "彼女は負けた後、悲惨（不幸）に感じた。"
+  },
+  {
+    "word": "dull",
+    "meaning": "退屈な",
+    "example": "The movie was dull.",
+    "example_jp": "その映画は退屈だった。"
+  },
+  {
+    "word": "dull",
+    "meaning": "切れ味が悪い",
+    "example": "The knife is dull.",
+    "example_jp": "そのナイフは切れ味が悪い。"
+  },
+  {
+    "word": "dull",
+    "meaning": "鈍い",
+    "example": "My senses felt dull.",
+    "example_jp": "私の感覚は鈍くなっていた。"
+  },
+  {
+    "word": "nasty",
+    "meaning": "不快な",
+    "example": "He made a nasty comment.",
+    "example_jp": "彼は不快なコメントをした。"
+  },
+  {
+    "word": "insane",
+    "meaning": "正気でない",
+    "example": "The idea sounds insane.",
+    "example_jp": "その考えは正気でないように聞こえる。"
+  },
+  {
+    "word": "ridiculous",
+    "meaning": "ばかげた",
+    "example": "That price is ridiculous.",
+    "example_jp": "その価格はばかげている。"
+  },
+  {
+    "word": "rotten",
+    "meaning": "腐った",
+    "example": "The fruit is rotten.",
+    "example_jp": "その果物は腐っている。"
+  },
+  {
+    "word": "notorious",
+    "meaning": "悪名高い",
+    "example": "The area is notorious for crime.",
+    "example_jp": "その地域は犯罪で悪名高い。"
+  },
+  {
+    "word": "evil",
+    "meaning": "悪い",
+    "example": "He did an evil act.",
+    "example_jp": "彼は悪い行いをした。"
+  },
+  {
+    "word": "evil",
+    "meaning": "悪",
+    "example": "They fought against evil.",
+    "example_jp": "彼らは悪と戦った。"
+  },
+  {
+    "word": "mess",
+    "meaning": "乱雑",
+    "example": "His room is a mess.",
+    "example_jp": "彼の部屋は乱雑だ。"
+  },
+  {
+    "word": "mess",
+    "meaning": "からかう，ちょっかいを出す",
+    "example": "Stop messing with my things.",
+    "example_jp": "私のものにちょっかいを出す（からかう）のをやめなさい。"
+  },
+  {
+    "word": "vast",
+    "meaning": "広大な",
+    "example": "They crossed a vast desert.",
+    "example_jp": "彼らは広大な砂漠を横断した。"
+  },
+  {
+    "word": "vast",
+    "meaning": "莫大な",
+    "example": "He spent a vast amount of money.",
+    "example_jp": "彼は莫大な金額のお金を使った。"
+  },
+  {
+    "word": "huge",
+    "meaning": "巨大な",
+    "example": "The building is huge.",
+    "example_jp": "その建物は巨大だ。"
+  },
+  {
+    "word": "tiny",
+    "meaning": "とても小さな",
+    "example": "The kitten is tiny.",
+    "example_jp": "その子猫はとても小さい。"
+  },
+  {
+    "word": "sphere",
+    "meaning": "球体",
+    "example": "The earth is a sphere.",
+    "example_jp": "地球は球体だ。"
+  },
+  {
+    "word": "sphere",
+    "meaning": "領域，範囲",
+    "example": "He works in the political sphere.",
+    "example_jp": "彼は政治の領域（範囲）で働いている。"
+  },
+  {
+    "word": "strip",
+    "meaning": "細長い一片",
+    "example": "He ate a strip of bacon.",
+    "example_jp": "彼は細長い一片のベーコンを食べた。"
+  },
+  {
+    "word": "strip",
+    "meaning": "奪う",
+    "example": "They stripped him of his title.",
+    "example_jp": "彼らは彼から称号を奪った。"
+  },
+  {
+    "word": "strip",
+    "meaning": "裸になる",
+    "example": "He stripped to take a shower.",
+    "example_jp": "彼はシャワーを浴びるために裸になった。"
+  },
+  {
+    "word": "vessel",
+    "meaning": "管",
+    "example": "Blood flows through vessels.",
+    "example_jp": "血液は管を流れる。"
+  },
+  {
+    "word": "vessel",
+    "meaning": "船",
+    "example": "The vessel sailed at dawn.",
+    "example_jp": "その船は夜明けに出航した。"
+  },
+  {
+    "word": "internal",
+    "meaning": "内部の，体内の",
+    "example": "He suffered internal injuries.",
+    "example_jp": "彼は内部（体内）の損傷を負った。"
+  },
+  {
+    "word": "internal",
+    "meaning": "国内の",
+    "example": "The country faces internal issues.",
+    "example_jp": "その国は国内の問題に直面している。"
+  },
+  {
+    "word": "mobile",
+    "meaning": "流動的な",
+    "example": "The population is highly mobile.",
+    "example_jp": "人口は非常に流動的だ。"
+  },
+  {
+    "word": "mobile",
+    "meaning": "携帯電話",
+    "example": "She lost her mobile.",
+    "example_jp": "彼女は携帯電話を失くした。"
+  },
+  {
+    "word": "steep",
+    "meaning": "険しい",
+    "example": "The hill is very steep.",
+    "example_jp": "その丘はとても険しい。"
+  },
+  {
+    "word": "steep",
+    "meaning": "急な，異常に高い",
+    "example": "There was a steep rise in prices.",
+    "example_jp": "価格の急な（異常に高い）上昇があった。"
+  },
+  {
+    "word": "intense",
+    "meaning": "強烈な",
+    "example": "The competition was intense.",
+    "example_jp": "競争は強烈だった。"
+  },
+  {
+    "word": "inevitable",
+    "meaning": "避けられない，必然的な",
+    "example": "Change is inevitable.",
+    "example_jp": "変化は避けられない（必然的だ）。"
+  },
+  {
+    "word": "neutral",
+    "meaning": "中立の",
+    "example": "The country stayed neutral.",
+    "example_jp": "その国は中立のままだった。"
+  },
+  {
+    "word": "neutral",
+    "meaning": "中立",
+    "example": "The referee must remain neutral.",
+    "example_jp": "審判は中立を保たなければならない。"
+  },
+  {
+    "word": "brief",
+    "meaning": "手短な，簡潔な",
+    "example": "He gave a brief explanation.",
+    "example_jp": "彼は手短な（簡潔な）説明をした。"
+  },
+  {
+    "word": "brief",
+    "meaning": "要約",
+    "example": "I read the brief.",
+    "example_jp": "私は要約を読んだ。"
+  },
+  {
+    "word": "bare",
+    "meaning": "むき出しの",
+    "example": "His feet were bare.",
+    "example_jp": "彼の足はむき出しだった。"
+  },
+  {
+    "word": "bare",
+    "meaning": "最低限の",
+    "example": "We had the bare minimum.",
+    "example_jp": "私たちは最低限のものを備えていた。"
+  },
+  {
+    "word": "mutual",
+    "meaning": "相互の",
+    "example": "They have mutual respect.",
+    "example_jp": "彼らは相互の尊敬の念を持っている。"
+  },
+  {
+    "word": "mutual",
+    "meaning": "共通の",
+    "example": "They have mutual friends.",
+    "example_jp": "彼らには共通の友人がいる。"
+  },
+  {
+    "word": "potential",
+    "meaning": "潜在的な",
+    "example": "She has great potential.",
+    "example_jp": "彼女には素晴らしい潜在的な能力がある。"
+  },
+  {
+    "word": "potential",
+    "meaning": "潜在能力，可能性",
+    "example": "He showed his potential.",
+    "example_jp": "彼は自分の潜在能力（可能性）を示した。"
+  },
+  {
+    "word": "tough",
+    "meaning": "たくましい，頑強な",
+    "example": "He is tough and strong.",
+    "example_jp": "彼はたくましく（頑強で）強い。"
+  },
+  {
+    "word": "tough",
+    "meaning": "骨の折れる，厳しい",
+    "example": "The task was tough.",
+    "example_jp": "その仕事は骨の折れる（厳しい）ものだった。"
+  },
+  {
+    "word": "conventional",
+    "meaning": "従来の，慣習的な",
+    "example": "They prefer conventional methods.",
+    "example_jp": "彼らは従来（慣習的）な方法を好む。"
+  },
+  {
+    "word": "supreme",
+    "meaning": "最高の",
+    "example": "This is of supreme importance.",
+    "example_jp": "これは最高の重要事項だ。"
+  },
+  {
+    "word": "resemble",
+    "meaning": "似ている",
+    "example": "She resembles her mother.",
+    "example_jp": "彼女は母親に似ている。"
+  },
+  {
+    "word": "contrary",
+    "meaning": "それどころか",
+    "example": "On the contrary, I agree.",
+    "example_jp": "それどころか、私は賛成だ。"
+  },
+  {
+    "word": "contrary",
+    "meaning": "Aとは反対に",
+    "example": "Contrary to A, he stayed calm.",
+    "example_jp": "Aとは反対に、彼は冷静なままだった。"
+  },
+  {
+    "word": "contrary",
+    "meaning": "反対の～",
+    "example": "His actions are contrary to the rules.",
+    "example_jp": "彼の行動は規則とは反対のものだ。"
+  },
+  {
+    "word": "category",
+    "meaning": "範疇",
+    "example": "This falls into a new category.",
+    "example_jp": "これは新しい範疇に属する。"
+  },
+  {
+    "word": "scope",
+    "meaning": "範囲",
+    "example": "The scope of the project is wide.",
+    "example_jp": "プロジェクトの範囲は広い。"
+  },
+  {
+    "word": "given",
+    "meaning": "定められた",
+    "example": "We must finish in the given time.",
+    "example_jp": "私たちは定められた時間内に終えなければならない。"
+  },
+  {
+    "word": "given",
+    "meaning": "～を考慮すると",
+    "example": "Given the situation, we left early.",
+    "example_jp": "状況を考慮すると、私たちは早めに出発した。"
+  },
+  {
+    "word": "peculiar",
+    "meaning": "固有の",
+    "example": "This custom is peculiar to Japan.",
+    "example_jp": "この習慣は日本固有のものだ。"
+  },
+  {
+    "word": "peculiar",
+    "meaning": "独特な，変な",
+    "example": "He has a peculiar habit.",
+    "example_jp": "彼には独特な（変な）癖がある。"
+  },
+  {
+    "word": "sufficient",
+    "meaning": "十分な",
+    "example": "We have sufficient time.",
+    "example_jp": "私たちには十分な時間がある。"
+  },
+  {
+    "word": "numerous",
+    "meaning": "多くの",
+    "example": "She has numerous friends.",
+    "example_jp": "彼女には多くの友人がいる。"
+  },
+  {
+    "word": "substantial",
+    "meaning": "かなりの，たくさんの",
+    "example": "They made substantial progress.",
+    "example_jp": "彼らはかなりの（たくさんの）進歩を遂げた。"
+  },
+  {
+    "word": "substantial",
+    "meaning": "内容のある，重要な",
+    "example": "The book contains substantial ideas.",
+    "example_jp": "その本には内容のある（重要な）考えが含まれている。"
+  }
+]

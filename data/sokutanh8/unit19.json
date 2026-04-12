@@ -1,0 +1,632 @@
+[
+  {
+    "word": "income",
+    "meaning": "収入",
+    "example": "His income is high.",
+    "example_jp": "彼の収入は高い。"
+  },
+  {
+    "word": "tax",
+    "meaning": "税金",
+    "example": "I must pay tax.",
+    "example_jp": "私は税金を払わなければならない。"
+  },
+  {
+    "word": "breakthrough",
+    "meaning": "重大な発見",
+    "example": "They made a big breakthrough.",
+    "example_jp": "彼らは重大な発見をした。"
+  },
+  {
+    "word": "breakthrough",
+    "meaning": "飛躍的進歩",
+    "example": "The drug was a breakthrough.",
+    "example_jp": "その薬は飛躍的進歩だった。"
+  },
+  {
+    "word": "thesis",
+    "meaning": "論文",
+    "example": "He wrote his thesis.",
+    "example_jp": "彼は論文を書いた。"
+  },
+  {
+    "word": "thesis",
+    "meaning": "命題",
+    "example": "The thesis is simple.",
+    "example_jp": "その命題は単純だ。"
+  },
+  {
+    "word": "thesis",
+    "meaning": "主張",
+    "example": "Her thesis is clear.",
+    "example_jp": "彼女の主張は明確だ。"
+  },
+  {
+    "word": "fulfill",
+    "meaning": "果たす",
+    "example": "He fulfilled the duty.",
+    "example_jp": "彼は任務を果たした。"
+  },
+  {
+    "word": "fulfill",
+    "meaning": "満たす",
+    "example": "The plan fulfills the need.",
+    "example_jp": "その計画はニーズを満たす。"
+  },
+  {
+    "word": "satisfy",
+    "meaning": "満足させる",
+    "example": "The answer satisfied me.",
+    "example_jp": "その答えは私を満足させた。"
+  },
+  {
+    "word": "satisfy",
+    "meaning": "満たす",
+    "example": "This meets the required level.",
+    "example_jp": "これは要求されたレベルを満たす。"
+  },
+  {
+    "word": "content",
+    "meaning": "中身",
+    "example": "The box’s content is food.",
+    "example_jp": "箱の中身は食べ物だ。"
+  },
+  {
+    "word": "content",
+    "meaning": "内容",
+    "example": "The content is useful.",
+    "example_jp": "その内容は役に立つ。"
+  },
+  {
+    "word": "content",
+    "meaning": "満足して",
+    "example": "She is content now.",
+    "example_jp": "彼女は今、満足している。"
+  },
+  {
+    "word": "die",
+    "meaning": "死ぬ",
+    "example": "He died of illness.",
+    "example_jp": "彼は病気で死んだ。"
+  },
+  {
+    "word": "gifted",
+    "meaning": "才能のある",
+    "example": "She is a gifted artist.",
+    "example_jp": "彼女は才能のある芸術家だ。"
+  },
+  {
+    "word": "equip",
+    "meaning": "備え付ける",
+    "example": "They equipped the room.",
+    "example_jp": "彼らはその部屋に備え付けた。"
+  },
+  {
+    "word": "equip",
+    "meaning": "身に付けさせる",
+    "example": "The class equips students with skills.",
+    "example_jp": "そのクラスは生徒にスキルを身に付けさせる。"
+  },
+  {
+    "word": "thrive",
+    "meaning": "繁栄する",
+    "example": "The town thrives.",
+    "example_jp": "その町は繁栄している。"
+  },
+  {
+    "word": "thrive",
+    "meaning": "成長する",
+    "example": "The plant thrives here.",
+    "example_jp": "その植物はここで成長する。"
+  },
+  {
+    "word": "later",
+    "meaning": "あとで",
+    "example": "I will go later.",
+    "example_jp": "私はあとで行く。"
+  },
+  {
+    "word": "later",
+    "meaning": "もっと遅い",
+    "example": "The later train is full.",
+    "example_jp": "もっと遅い方の電車は満員だ。"
+  },
+  {
+    "word": "delay",
+    "meaning": "遅らせる",
+    "example": "The rain delayed the game.",
+    "example_jp": "雨が試合を遅らせた。"
+  },
+  {
+    "word": "delay",
+    "meaning": "遅延",
+    "example": "There was a long delay.",
+    "example_jp": "長い遅延があった。"
+  },
+  {
+    "word": "delay",
+    "meaning": "延期",
+    "example": "The delay was approved.",
+    "example_jp": "延期が承認された。"
+  },
+  {
+    "word": "postpone",
+    "meaning": "延期する",
+    "example": "They postponed the event.",
+    "example_jp": "彼らはその行事を延期した。"
+  },
+  {
+    "word": "autobiography",
+    "meaning": "自伝",
+    "example": "I read her autobiography.",
+    "example_jp": "私は彼女の自伝を読んだ。"
+  },
+  {
+    "word": "sneak",
+    "meaning": "こっそり動く",
+    "example": "He sneaks out quietly.",
+    "example_jp": "彼は静かにこっそり動く（抜け出す）。"
+  },
+  {
+    "word": "worship",
+    "meaning": "礼拝",
+    "example": "They go to worship.",
+    "example_jp": "彼らは礼拝に行く。"
+  },
+  {
+    "word": "worship",
+    "meaning": "崇拝",
+    "example": "The worship of gods is old.",
+    "example_jp": "神々の崇拝は古い歴史がある。"
+  },
+  {
+    "word": "worship",
+    "meaning": "崇拝する",
+    "example": "They worship the statue.",
+    "example_jp": "彼らはその像を崇拝する。"
+  },
+  {
+    "word": "adore",
+    "meaning": "熱愛する",
+    "example": "She adores her dog.",
+    "example_jp": "彼女は自分の犬を熱愛している。"
+  },
+  {
+    "word": "adore",
+    "meaning": "大好きである",
+    "example": "I adore this song.",
+    "example_jp": "私はこの歌が大好きである。"
+  },
+  {
+    "word": "advance",
+    "meaning": "進歩",
+    "example": "Science made an advance.",
+    "example_jp": "科学が進歩した。"
+  },
+  {
+    "word": "advance",
+    "meaning": "前進",
+    "example": "The advance was slow.",
+    "example_jp": "前進はゆっくりだった。"
+  },
+  {
+    "word": "advance",
+    "meaning": "進歩させる",
+    "example": "They advanced the project.",
+    "example_jp": "彼らはプロジェクトを進歩させた。"
+  },
+  {
+    "word": "advance",
+    "meaning": "進歩する",
+    "example": "The team advanced.",
+    "example_jp": "そのチームは進歩した。"
+  },
+  {
+    "word": "scholarship",
+    "meaning": "奨学金",
+    "example": "She won a scholarship.",
+    "example_jp": "彼女は奨学金を得た。"
+  },
+  {
+    "word": "physics",
+    "meaning": "物理学",
+    "example": "He studies physics.",
+    "example_jp": "彼は物理学を研究している。"
+  },
+  {
+    "word": "physician",
+    "meaning": "医師",
+    "example": "She is a physician.",
+    "example_jp": "彼女は医師だ。"
+  },
+  {
+    "word": "physician",
+    "meaning": "内科医",
+    "example": "He is a skilled physician.",
+    "example_jp": "彼は熟練した内科医だ。"
+  },
+  {
+    "word": "humiliate",
+    "meaning": "恥をかかせる",
+    "example": "They humiliated him.",
+    "example_jp": "彼らは彼に恥をかかせた。"
+  },
+  {
+    "word": "insult",
+    "meaning": "侮辱する",
+    "example": "He insulted me.",
+    "example_jp": "彼は私を侮辱した。"
+  },
+  {
+    "word": "insult",
+    "meaning": "侮辱",
+    "example": "It was an insult to him.",
+    "example_jp": "それは彼への侮辱だった。"
+  },
+  {
+    "word": "regulation",
+    "meaning": "規則",
+    "example": "They made new regulations.",
+    "example_jp": "彼らは新しい規則を作った。"
+  },
+  {
+    "word": "regulation",
+    "meaning": "規制",
+    "example": "The regulation controls use.",
+    "example_jp": "その規制が使用を制限している。"
+  },
+  {
+    "word": "regulation",
+    "meaning": "調整",
+    "example": "The machine needs regulation.",
+    "example_jp": "その機械は調整が必要だ。"
+  },
+  {
+    "word": "require",
+    "meaning": "必要とする",
+    "example": "The job requires skill.",
+    "example_jp": "その仕事はスキルを必要とする。"
+  },
+  {
+    "word": "require",
+    "meaning": "要求する",
+    "example": "They require payment.",
+    "example_jp": "彼らは支払いを要求する。"
+  },
+  {
+    "word": "relate",
+    "meaning": "話す",
+    "example": "He related the story.",
+    "example_jp": "彼はその話を話した。"
+  },
+  {
+    "word": "relate",
+    "meaning": "関連づける",
+    "example": "I relate the idea to history.",
+    "example_jp": "私はその考えを歴史に関連づける。"
+  },
+  {
+    "word": "relate",
+    "meaning": "関係がある",
+    "example": "The two relate to each other.",
+    "example_jp": "その2つは互いに関係がある。"
+  },
+  {
+    "word": "relation",
+    "meaning": "関係",
+    "example": "They have a good relation.",
+    "example_jp": "彼らは良い関係を築いている。"
+  },
+  {
+    "word": "lecture",
+    "meaning": "講義",
+    "example": "He gave a lecture.",
+    "example_jp": "彼は講義をした。"
+  },
+  {
+    "word": "lecture",
+    "meaning": "講義する",
+    "example": "She lectures on art.",
+    "example_jp": "彼女は芸術について講義する。"
+  },
+  {
+    "word": "gaze",
+    "meaning": "見つめる",
+    "example": "She gazed at the sky.",
+    "example_jp": "彼女は空を見つめた。"
+  },
+  {
+    "word": "gaze",
+    "meaning": "見つめること",
+    "example": "His gaze was strong.",
+    "example_jp": "彼の見つめることは強かった。"
+  },
+  {
+    "word": "stare",
+    "meaning": "じっと見る",
+    "example": "He stared at me.",
+    "example_jp": "彼は私をじっと見た。"
+  },
+  {
+    "word": "stare",
+    "meaning": "じっと見ること",
+    "example": "Her stare was cold.",
+    "example_jp": "彼女のじっと見ることは冷たかった。"
+  },
+  {
+    "word": "glance",
+    "meaning": "ちらりと見る",
+    "example": "She glanced at the clock.",
+    "example_jp": "彼女は時計をちらりと見た。"
+  },
+  {
+    "word": "glance",
+    "meaning": "ちらりと見ること",
+    "example": "He gave a quick glance.",
+    "example_jp": "彼は素早くちらりと見ることをした。"
+  },
+  {
+    "word": "loud",
+    "meaning": "大きい",
+    "example": "His voice is loud.",
+    "example_jp": "彼の声は大きい。"
+  },
+  {
+    "word": "loud",
+    "meaning": "うるさい",
+    "example": "The music is loud.",
+    "example_jp": "音楽がうるさい。"
+  },
+  {
+    "word": "regularly",
+    "meaning": "定期的に",
+    "example": "She exercises regularly.",
+    "example_jp": "彼女は定期的に運動する。"
+  },
+  {
+    "word": "regularly",
+    "meaning": "いつも休まずに",
+    "example": "He regularly attends class.",
+    "example_jp": "彼はいつも休まずにクラスに出席する。"
+  },
+  {
+    "word": "greet",
+    "meaning": "あいさつする",
+    "example": "They greeted me warmly.",
+    "example_jp": "彼らは私に温かくあいさつした。"
+  },
+  {
+    "word": "greet",
+    "meaning": "出迎える",
+    "example": "She greeted the guests.",
+    "example_jp": "彼女は客を出迎えた。"
+  },
+  {
+    "word": "greet",
+    "meaning": "反応する",
+    "example": "The dog greeted him.",
+    "example_jp": "犬が彼に反応した。"
+  },
+  {
+    "word": "applause",
+    "meaning": "拍手",
+    "example": "The applause was loud.",
+    "example_jp": "拍手は大きかった。"
+  },
+  {
+    "word": "applause",
+    "meaning": "称賛",
+    "example": "She won great applause.",
+    "example_jp": "彼女は大きな称賛を得た。"
+  },
+  {
+    "word": "celebrate",
+    "meaning": "祝う",
+    "example": "They celebrate the day.",
+    "example_jp": "彼らはその日を祝う。"
+  },
+  {
+    "word": "celebrate",
+    "meaning": "行う",
+    "example": "They celebrated the event.",
+    "example_jp": "彼らはその行事を行った。"
+  },
+  {
+    "word": "sink",
+    "meaning": "沈む",
+    "example": "The boat sank.",
+    "example_jp": "ボートが沈んだ。"
+  },
+  {
+    "word": "sink",
+    "meaning": "崩れ落ちる",
+    "example": "He sank to the floor.",
+    "example_jp": "彼は床に崩れ落ちた。"
+  },
+  {
+    "word": "sink",
+    "meaning": "沈める",
+    "example": "They sank the ship.",
+    "example_jp": "彼らはその船を沈めた。"
+  },
+  {
+    "word": "nasty",
+    "meaning": "意地の悪い",
+    "example": "He made a nasty comment.",
+    "example_jp": "彼は意地の悪いコメントをした。"
+  },
+  {
+    "word": "nasty",
+    "meaning": "不快な",
+    "example": "The smell is nasty.",
+    "example_jp": "その匂いは不快だ。"
+  },
+  {
+    "word": "mess",
+    "meaning": "散らかっている状態",
+    "example": "The room is a mess.",
+    "example_jp": "部屋は散らかっている状態だ。"
+  },
+  {
+    "word": "calmly",
+    "meaning": "静かに",
+    "example": "She spoke calmly.",
+    "example_jp": "彼女は静かに話した。"
+  },
+  {
+    "word": "calmly",
+    "meaning": "落ち着いて",
+    "example": "He waited calmly.",
+    "example_jp": "彼は落ち着いて待った。"
+  },
+  {
+    "word": "calm",
+    "meaning": "落ち着いた",
+    "example": "She is calm.",
+    "example_jp": "彼女は落ち着いた様子だ。"
+  },
+  {
+    "word": "calm",
+    "meaning": "静まる",
+    "example": "The noise calmed down.",
+    "example_jp": "騒音が静まった。"
+  },
+  {
+    "word": "calm",
+    "meaning": "静める",
+    "example": "He calmed the child down.",
+    "example_jp": "彼は子供を静めた。"
+  },
+  {
+    "word": "stick",
+    "meaning": "固執する",
+    "example": "He sticks to his plan.",
+    "example_jp": "彼は自分の計画に固執する。"
+  },
+  {
+    "word": "stick",
+    "meaning": "くっつく",
+    "example": "The tape sticks well.",
+    "example_jp": "テープはよくくっつく。"
+  },
+  {
+    "word": "stick",
+    "meaning": "行き詰まる",
+    "example": "We are stuck here.",
+    "example_jp": "私たちはここで行き詰まっている。"
+  },
+  {
+    "word": "stick",
+    "meaning": "貼り付ける",
+    "example": "She stuck the note on.",
+    "example_jp": "彼女はメモを貼り付けた。"
+  },
+  {
+    "word": "stick",
+    "meaning": "棒",
+    "example": "He used a stick.",
+    "example_jp": "彼は棒を使った。"
+  },
+  {
+    "word": "inject",
+    "meaning": "注射する",
+    "example": "The doctor injected the drug.",
+    "example_jp": "医師が薬を注射した。"
+  },
+  {
+    "word": "inject",
+    "meaning": "注射する",
+    "example": "They injected him with medicine.",
+    "example_jp": "彼らは彼に薬を注射した。"
+  },
+  {
+    "word": "pump",
+    "meaning": "くみ上げる",
+    "example": "They pumped water out.",
+    "example_jp": "彼らは水をくみ上げた。"
+  },
+  {
+    "word": "pump",
+    "meaning": "注入する",
+    "example": "They pumped air in.",
+    "example_jp": "彼らは空気を注入した。"
+  },
+  {
+    "word": "pump",
+    "meaning": "ポンプ",
+    "example": "The pump is broken.",
+    "example_jp": "ポンプが壊れている。"
+  },
+  {
+    "word": "needle",
+    "meaning": "針",
+    "example": "The needle is sharp.",
+    "example_jp": "針が鋭い。"
+  },
+  {
+    "word": "bone",
+    "meaning": "骨",
+    "example": "He broke a bone.",
+    "example_jp": "彼は骨を折った。"
+  },
+  {
+    "word": "bone",
+    "meaning": "骨組み",
+    "example": "The bone structure is strong.",
+    "example_jp": "骨組みがしっかりしている。"
+  },
+  {
+    "word": "joint",
+    "meaning": "共同の",
+    "example": "They made a joint plan.",
+    "example_jp": "彼らは共同の計画を立てた。"
+  },
+  {
+    "word": "joint",
+    "meaning": "関節",
+    "example": "He hurt his joint.",
+    "example_jp": "彼は関節を痛めた。"
+  },
+  {
+    "word": "aim",
+    "meaning": "目的",
+    "example": "His aim is success.",
+    "example_jp": "彼の目的は成功だ。"
+  },
+  {
+    "word": "aim",
+    "meaning": "目指す",
+    "example": "They aim high.",
+    "example_jp": "彼らは高みを目指す。"
+  },
+  {
+    "word": "aim",
+    "meaning": "ねらう",
+    "example": "She aimed at the target.",
+    "example_jp": "彼女はターゲットをねらった。"
+  },
+  {
+    "word": "aim",
+    "meaning": "目標にする",
+    "example": "The rule is aimed at safety.",
+    "example_jp": "その規則は安全を目標にしている。"
+  },
+  {
+    "word": "aim",
+    "meaning": "試みる",
+    "example": "He aims to win.",
+    "example_jp": "彼は勝つことを試みる。"
+  },
+  {
+    "word": "sake",
+    "meaning": "利益",
+    "example": "Do it for your sake.",
+    "example_jp": "あなたの利益のためにそれをしなさい。"
+  },
+  {
+    "word": "sake",
+    "meaning": "目的",
+    "example": "For the sake of peace, we agreed.",
+    "example_jp": "平和という目的のために、私たちは同意した。"
+  }
+]

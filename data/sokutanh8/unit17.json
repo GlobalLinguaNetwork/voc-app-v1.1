@@ -1,0 +1,710 @@
+[
+  {
+    "word": "phrase",
+    "meaning": "句",
+    "example": "This phrase is common.",
+    "example_jp": "この句は一般的だ。"
+  },
+  {
+    "word": "phrase",
+    "meaning": "言い回し",
+    "example": "I like this phrase.",
+    "example_jp": "私はこの言い回しが好きだ。"
+  },
+  {
+    "word": "passage",
+    "meaning": "一節",
+    "example": "I read a short passage.",
+    "example_jp": "私は短い一節を読んだ。"
+  },
+  {
+    "word": "passage",
+    "meaning": "経過",
+    "example": "The passage of time is fast.",
+    "example_jp": "時の経過は早い。"
+  },
+  {
+    "word": "passage",
+    "meaning": "通路",
+    "example": "This is a narrow passage.",
+    "example_jp": "これは狭い通路だ。"
+  },
+  {
+    "word": "channel",
+    "meaning": "チャンネル",
+    "example": "This channel is fun.",
+    "example_jp": "このチャンネルは楽しい。"
+  },
+  {
+    "word": "channel",
+    "meaning": "経路",
+    "example": "Water flows through the channel.",
+    "example_jp": "水がその経路を通って流れる。"
+  },
+  {
+    "word": "channel",
+    "meaning": "海峡",
+    "example": "The channel is deep.",
+    "example_jp": "その海峡は深い。"
+  },
+  {
+    "word": "skip",
+    "meaning": "跳ね回る",
+    "example": "He skipped happily.",
+    "example_jp": "彼は楽しそうに跳ね回った。"
+  },
+  {
+    "word": "skip",
+    "meaning": "省く",
+    "example": "Skip the next page.",
+    "example_jp": "次のページを省きなさい。"
+  },
+  {
+    "word": "skip",
+    "meaning": "読み飛ばす",
+    "example": "I skipped the long part.",
+    "example_jp": "私は長い部分を読み飛ばした。"
+  },
+  {
+    "word": "skip",
+    "meaning": "抜かす",
+    "example": "He skipped the question.",
+    "example_jp": "彼はその質問を抜かした。"
+  },
+  {
+    "word": "leap",
+    "meaning": "跳ぶ",
+    "example": "The cat leaped high.",
+    "example_jp": "猫は高く跳んだ。"
+  },
+  {
+    "word": "leap",
+    "meaning": "跳躍",
+    "example": "It was a big leap.",
+    "example_jp": "それは大きな跳躍だった。"
+  },
+  {
+    "word": "leap",
+    "meaning": "急騰",
+    "example": "Prices took a leap.",
+    "example_jp": "価格が急騰した。"
+  },
+  {
+    "word": "ahead",
+    "meaning": "前方へ",
+    "example": "Look ahead.",
+    "example_jp": "前方を見なさい。"
+  },
+  {
+    "word": "ahead",
+    "meaning": "事前に",
+    "example": "I finished ahead of time.",
+    "example_jp": "私は時間より事前に終えた。"
+  },
+  {
+    "word": "ahead",
+    "meaning": "出世して",
+    "example": "She is ahead in her career.",
+    "example_jp": "彼女はキャリアにおいて出世している。"
+  },
+  {
+    "word": "aloud",
+    "meaning": "声に出して",
+    "example": "Read the text aloud.",
+    "example_jp": "テキストを声に出して読みなさい。"
+  },
+  {
+    "word": "fundamental",
+    "meaning": "基本的な",
+    "example": "This is a fundamental rule.",
+    "example_jp": "これは基本的な規則だ。"
+  },
+  {
+    "word": "fundamental",
+    "meaning": "必須の",
+    "example": "Water is fundamental to life.",
+    "example_jp": "水は生命にとって必須のものだ。"
+  },
+  {
+    "word": "fundamental",
+    "meaning": "基本",
+    "example": "Learn the fundamentals.",
+    "example_jp": "基本を学びなさい。"
+  },
+  {
+    "word": "prime",
+    "meaning": "典型的な",
+    "example": "This is a prime example.",
+    "example_jp": "これは典型的な例だ。"
+  },
+  {
+    "word": "prime",
+    "meaning": "最も重要な",
+    "example": "Health is prime.",
+    "example_jp": "健康が最も重要だ。"
+  },
+  {
+    "word": "prime",
+    "meaning": "根本的な",
+    "example": "The idea is prime.",
+    "example_jp": "その考えは根本的だ。"
+  },
+  {
+    "word": "prime",
+    "meaning": "全盛期",
+    "example": "He is in his prime.",
+    "example_jp": "彼は全盛期にある。"
+  },
+  {
+    "word": "radical",
+    "meaning": "根本的な",
+    "example": "They made radical changes.",
+    "example_jp": "彼らは根本的な変更を行った。"
+  },
+  {
+    "word": "radical",
+    "meaning": "急進的な",
+    "example": "He has radical ideas.",
+    "example_jp": "彼は急進的な考えを持っている。"
+  },
+  {
+    "word": "success",
+    "meaning": "成功",
+    "example": "The plan was a success.",
+    "example_jp": "その計画は成功だった。"
+  },
+  {
+    "word": "succeed",
+    "meaning": "成功する",
+    "example": "He succeeded in business.",
+    "example_jp": "彼はビジネスで成功した。"
+  },
+  {
+    "word": "succeed",
+    "meaning": "跡を継ぐ",
+    "example": "She succeeded her father.",
+    "example_jp": "彼女は父親の跡を継いだ。"
+  },
+  {
+    "word": "virtually",
+    "meaning": "ほとんど",
+    "example": "The work is virtually done.",
+    "example_jp": "その仕事はほとんど終わっている。"
+  },
+  {
+    "word": "virtually",
+    "meaning": "実質的には",
+    "example": "Virtually everyone agreed.",
+    "example_jp": "実質的には全員が同意した。"
+  },
+  {
+    "word": "mechanics",
+    "meaning": "力学",
+    "example": "He studies mechanics.",
+    "example_jp": "彼は力学を研究している。"
+  },
+  {
+    "word": "mechanics",
+    "meaning": "機械工学",
+    "example": "She teaches mechanical engineering.",
+    "example_jp": "彼女は機械工学を教えている。"
+  },
+  {
+    "word": "mechanism",
+    "meaning": "仕組み",
+    "example": "The mechanism is simple.",
+    "example_jp": "その仕組みは単純だ。"
+  },
+  {
+    "word": "mechanism",
+    "meaning": "装置",
+    "example": "The clock has a small mechanism.",
+    "example_jp": "その時計には小さな装置がある。"
+  },
+  {
+    "word": "political",
+    "meaning": "政治の",
+    "example": "They discussed political issues.",
+    "example_jp": "彼らは政治の問題について議論した。"
+  },
+  {
+    "word": "mention",
+    "meaning": "述べる",
+    "example": "He mentioned the plan.",
+    "example_jp": "彼はその計画を述べた。"
+  },
+  {
+    "word": "mention",
+    "meaning": "言及すること",
+    "example": "He made no mention of it.",
+    "example_jp": "彼はそれについて言及しなかった。"
+  },
+  {
+    "word": "web",
+    "meaning": "ウェブ",
+    "example": "I found it on the web.",
+    "example_jp": "私はそれをウェブで見つけた。"
+  },
+  {
+    "word": "web",
+    "meaning": "クモの巣",
+    "example": "The spider made a web.",
+    "example_jp": "クモがクモの巣を作った。"
+  },
+  {
+    "word": "network",
+    "meaning": "ネットワーク",
+    "example": "I joined the network.",
+    "example_jp": "私はそのネットワークに加わった。"
+  },
+  {
+    "word": "network",
+    "meaning": "網",
+    "example": "The roads form a network.",
+    "example_jp": "道路が網を形成している。"
+  },
+  {
+    "word": "figure",
+    "meaning": "数字",
+    "example": "The figure is correct.",
+    "example_jp": "その数字は正しい。"
+  },
+  {
+    "word": "figure",
+    "meaning": "図",
+    "example": "Look at the figure.",
+    "example_jp": "図を見なさい。"
+  },
+  {
+    "word": "figure",
+    "meaning": "人物",
+    "example": "She is a famous figure.",
+    "example_jp": "彼女は有名な人物だ。"
+  },
+  {
+    "word": "figure",
+    "meaning": "姿",
+    "example": "His figure is tall.",
+    "example_jp": "彼の姿は背が高い。"
+  },
+  {
+    "word": "figure",
+    "meaning": "と思う",
+    "example": "I figure it will rain.",
+    "example_jp": "雨が降ると思う。"
+  },
+  {
+    "word": "operate",
+    "meaning": "操作する",
+    "example": "He operates the machine.",
+    "example_jp": "彼はその機械を操作する。"
+  },
+  {
+    "word": "operate",
+    "meaning": "動く",
+    "example": "The machine operates well.",
+    "example_jp": "その機械はよく動く。"
+  },
+  {
+    "word": "operate",
+    "meaning": "作用する",
+    "example": "The rule operates here.",
+    "example_jp": "その規則はここで作用する。"
+  },
+  {
+    "word": "operate",
+    "meaning": "営業する",
+    "example": "They operate a shop.",
+    "example_jp": "彼らは店を営業している。"
+  },
+  {
+    "word": "operate",
+    "meaning": "手術する",
+    "example": "The doctor operated.",
+    "example_jp": "医師は手術した。"
+  },
+  {
+    "word": "basically",
+    "meaning": "要するに",
+    "example": "Basically, it is simple.",
+    "example_jp": "要するに、それは単純だ。"
+  },
+  {
+    "word": "basically",
+    "meaning": "基本的には",
+    "example": "It is basically true.",
+    "example_jp": "それは基本的には正しい。"
+  },
+  {
+    "word": "intellectual",
+    "meaning": "知的な",
+    "example": "He has intellectual power.",
+    "example_jp": "彼は知的な力を持っている。"
+  },
+  {
+    "word": "intellectual",
+    "meaning": "知識人",
+    "example": "She is an intellectual.",
+    "example_jp": "彼女は知識人だ。"
+  },
+  {
+    "word": "literally",
+    "meaning": "文字通りに",
+    "example": "He literally ran.",
+    "example_jp": "彼は文字通りに走った。"
+  },
+  {
+    "word": "literary",
+    "meaning": "文学の",
+    "example": "She loves literary works.",
+    "example_jp": "彼女は文学の作品を愛している。"
+  },
+  {
+    "word": "literacy",
+    "meaning": "読み書き能力",
+    "example": "Literacy is important.",
+    "example_jp": "読み書き能力は重要だ。"
+  },
+  {
+    "word": "literacy",
+    "meaning": "教養",
+    "example": "He has high literacy.",
+    "example_jp": "彼は高い教養を持っている。"
+  },
+  {
+    "word": "weight",
+    "meaning": "重量",
+    "example": "The weight is heavy.",
+    "example_jp": "その重量は重い。"
+  },
+  {
+    "word": "weight",
+    "meaning": "体重",
+    "example": "He checks his weight.",
+    "example_jp": "彼は自分の体重をチェックする。"
+  },
+  {
+    "word": "weight",
+    "meaning": "重要さ",
+    "example": "This issue has weight.",
+    "example_jp": "この問題は重要さを持っている。"
+  },
+  {
+    "word": "ton",
+    "meaning": "トン",
+    "example": "The truck carries a ton.",
+    "example_jp": "そのトラックは1トンを運ぶ。"
+  },
+  {
+    "word": "ton",
+    "meaning": "多量",
+    "example": "He has tons of work.",
+    "example_jp": "彼は多量の仕事を持っている。"
+  },
+  {
+    "word": "outweigh",
+    "meaning": "より重要である",
+    "example": "The benefits outweigh the risks.",
+    "example_jp": "利益がリスクより重要である。"
+  },
+  {
+    "word": "outweigh",
+    "meaning": "に勝る",
+    "example": "His skill outweighs others.",
+    "example_jp": "彼のスキルは他人に勝る。"
+  },
+  {
+    "word": "outweigh",
+    "meaning": "より重い",
+    "example": "The box outweighs the bag.",
+    "example_jp": "その箱はバッグより重い。"
+  },
+  {
+    "word": "obesity",
+    "meaning": "肥満",
+    "example": "Obesity is a health issue.",
+    "example_jp": "肥満は健康問題だ。"
+  },
+  {
+    "word": "fat",
+    "meaning": "太っている",
+    "example": "He is fat.",
+    "example_jp": "彼は太っている。"
+  },
+  {
+    "word": "fat",
+    "meaning": "脂肪",
+    "example": "This meat has fat.",
+    "example_jp": "この肉には脂肪がある。"
+  },
+  {
+    "word": "overweight",
+    "meaning": "太りすぎの",
+    "example": "He is overweight.",
+    "example_jp": "彼は太りすぎだ。"
+  },
+  {
+    "word": "sound",
+    "meaning": "音",
+    "example": "I heard a sound.",
+    "example_jp": "私は音を聞いた。"
+  },
+  {
+    "word": "sound",
+    "meaning": "に思われる",
+    "example": "It sounds good.",
+    "example_jp": "それは良く思われる。"
+  },
+  {
+    "word": "sound",
+    "meaning": "鳴らす",
+    "example": "He sounded the alarm.",
+    "example_jp": "彼はアラームを鳴らした。"
+  },
+  {
+    "word": "sound",
+    "meaning": "健全な",
+    "example": "She is sound and healthy.",
+    "example_jp": "彼女は健全で健康的だ。"
+  },
+  {
+    "word": "sound",
+    "meaning": "確かな",
+    "example": "His plan is sound.",
+    "example_jp": "彼の計画は確かだ。"
+  },
+  {
+    "word": "tongue",
+    "meaning": "舌",
+    "example": "He bit his tongue.",
+    "example_jp": "彼は舌を噛んだ。"
+  },
+  {
+    "word": "tongue",
+    "meaning": "言語",
+    "example": "English is his mother tongue.",
+    "example_jp": "英語は彼の母国語だ。"
+  },
+  {
+    "word": "tongue",
+    "meaning": "話し方",
+    "example": "She has a sharp tongue.",
+    "example_jp": "彼女は鋭い話し方をする。"
+  },
+  {
+    "word": "chew",
+    "meaning": "噛む",
+    "example": "He chewed the bread.",
+    "example_jp": "彼はパンを噛んだ。"
+  },
+  {
+    "word": "chew",
+    "meaning": "噛むこと",
+    "example": "He gave it a chew.",
+    "example_jp": "彼はそれを噛むこと（ひと噛み）した。"
+  },
+  {
+    "word": "effect",
+    "meaning": "影響",
+    "example": "The effect was strong.",
+    "example_jp": "その影響は強かった。"
+  },
+  {
+    "word": "effect",
+    "meaning": "結果",
+    "example": "This is the effect.",
+    "example_jp": "これがその結果だ。"
+  },
+  {
+    "word": "considerable",
+    "meaning": "かなりの",
+    "example": "He spent considerable time.",
+    "example_jp": "彼はかなりの時間を費やした。"
+  },
+  {
+    "word": "benefit",
+    "meaning": "利益",
+    "example": "The plan brings benefit.",
+    "example_jp": "その計画は利益をもたらす。"
+  },
+  {
+    "word": "benefit",
+    "meaning": "恩恵",
+    "example": "We gained benefit.",
+    "example_jp": "私たちは恩恵を得た。"
+  },
+  {
+    "word": "benefit",
+    "meaning": "利益を得る",
+    "example": "He benefits from the program.",
+    "example_jp": "彼はプログラムから利益を得る。"
+  },
+  {
+    "word": "benefit",
+    "meaning": "利益を与える",
+    "example": "The rule benefits students.",
+    "example_jp": "その規則は学生に利益を与える。"
+  },
+  {
+    "word": "profitable",
+    "meaning": "利益になる",
+    "example": "The shop is profitable.",
+    "example_jp": "その店は利益になる。"
+  },
+  {
+    "word": "concentrate",
+    "meaning": "集中する",
+    "example": "She concentrates on work.",
+    "example_jp": "彼女は仕事に集中する。"
+  },
+  {
+    "word": "concentrate",
+    "meaning": "集中させる",
+    "example": "They concentrate the power.",
+    "example_jp": "彼らはその力を集中させる。"
+  },
+  {
+    "word": "flavor",
+    "meaning": "風味",
+    "example": "I like the flavor.",
+    "example_jp": "私はその風味が好きだ。"
+  },
+  {
+    "word": "flavor",
+    "meaning": "風味をつける",
+    "example": "They flavored the soup.",
+    "example_jp": "彼らはスープに風味をつけた。"
+  },
+  {
+    "word": "professor",
+    "meaning": "教授",
+    "example": "He is a professor.",
+    "example_jp": "彼は教授だ。"
+  },
+  {
+    "word": "diet",
+    "meaning": "食事",
+    "example": "I eat a healthy diet.",
+    "example_jp": "私は健康的な食事をとる。"
+  },
+  {
+    "word": "diet",
+    "meaning": "ダイエット",
+    "example": "She is on a diet.",
+    "example_jp": "彼女はダイエット中だ。"
+  },
+  {
+    "word": "diet",
+    "meaning": "国会",
+    "example": "The Diet met today.",
+    "example_jp": "今日、国会が開かれた。"
+  },
+  {
+    "word": "diet",
+    "meaning": "ダイエットする",
+    "example": "He diets often.",
+    "example_jp": "彼はよくダイエットする。"
+  },
+  {
+    "word": "distract",
+    "meaning": "そらす",
+    "example": "Noise distracted me.",
+    "example_jp": "騒音が私の注意をそらした。"
+  },
+  {
+    "word": "extract",
+    "meaning": "取り出す",
+    "example": "They extracted oil.",
+    "example_jp": "彼らは油を取り出した。"
+  },
+  {
+    "word": "extract",
+    "meaning": "抽出する",
+    "example": "They extracted data.",
+    "example_jp": "彼らはデータを抽出した。"
+  },
+  {
+    "word": "extract",
+    "meaning": "抽出物",
+    "example": "This is a plant extract.",
+    "example_jp": "これは植物の抽出物だ。"
+  },
+  {
+    "word": "extract",
+    "meaning": "抜粋",
+    "example": "I read an extract.",
+    "example_jp": "私は抜粋を読んだ。"
+  },
+  {
+    "word": "colleague",
+    "meaning": "同僚",
+    "example": "She is my colleague.",
+    "example_jp": "彼女は私の同僚だ。"
+  },
+  {
+    "word": "room",
+    "meaning": "部屋",
+    "example": "This is my room.",
+    "example_jp": "これは私の部屋だ。"
+  },
+  {
+    "word": "room",
+    "meaning": "空間",
+    "example": "There is room for one more.",
+    "example_jp": "もう一人分の空間がある。"
+  },
+  {
+    "word": "room",
+    "meaning": "余地",
+    "example": "There is room to grow.",
+    "example_jp": "成長する余地がある。"
+  },
+  {
+    "word": "spare",
+    "meaning": "時間を割く",
+    "example": "I spared time for him.",
+    "example_jp": "私は彼のために時間を割いた。"
+  },
+  {
+    "word": "spare",
+    "meaning": "省く",
+    "example": "This will spare effort.",
+    "example_jp": "これは労力を省くだろう。"
+  },
+  {
+    "word": "spare",
+    "meaning": "予備の",
+    "example": "I need a spare key.",
+    "example_jp": "私は予備の鍵が必要だ。"
+  },
+  {
+    "word": "spare",
+    "meaning": "余分の",
+    "example": "We have spare food.",
+    "example_jp": "私たちは余分の食べ物を持っている。"
+  },
+  {
+    "word": "participant",
+    "meaning": "参加者",
+    "example": "There were many participants.",
+    "example_jp": "多くの参加者がいた。"
+  },
+  {
+    "word": "drown",
+    "meaning": "おぼれ死ぬ",
+    "example": "He drowned in the river.",
+    "example_jp": "彼は川でおぼれ死んだ。"
+  },
+  {
+    "word": "drown",
+    "meaning": "かき消す",
+    "example": "They drowned the noise out.",
+    "example_jp": "彼らはその騒音をかき消した。"
+  },
+  {
+    "word": "drown",
+    "meaning": "溺死させる",
+    "example": "The storm drowned the town.",
+    "example_jp": "嵐が町を溺死させた。"
+  }
+]

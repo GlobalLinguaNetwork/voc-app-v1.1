@@ -1,0 +1,368 @@
+[
+  {
+    "word": "latitude",
+    "meaning": "緯度",
+    "example": "Japan spans a wide range of latitudes.",
+    "example_jp": "日本は広範囲の緯度にわたっている。"
+  },
+  {
+    "word": "odor",
+    "meaning": "臭い",
+    "example": "The odor from the trash was strong.",
+    "example_jp": "ゴミからの臭いは強烈だった。"
+  },
+  {
+    "word": "meadow",
+    "meaning": "草地，牧草地",
+    "example": "Cows grazed in the meadow.",
+    "example_jp": "牛たちがその牧草地（草地）で草を食べていた。"
+  },
+  {
+    "word": "calamity",
+    "meaning": "災害",
+    "example": "The earthquake was a national calamity.",
+    "example_jp": "その地震は国家的な災害だった。"
+  },
+  {
+    "word": "precipitation",
+    "meaning": "降水（量）",
+    "example": "The annual precipitation is high.",
+    "example_jp": "年間降水（量）が多い。"
+  },
+  {
+    "word": "precipitation",
+    "meaning": "沈殿",
+    "example": "The experiment produced a white precipitation.",
+    "example_jp": "その実験で白い沈殿が生じた。"
+  },
+  {
+    "word": "meteor",
+    "meaning": "流星，隕石",
+    "example": "A meteor streaked across the sky.",
+    "example_jp": "流星（隕石）が空を横切った。"
+  },
+  {
+    "word": "asteroid",
+    "meaning": "小惑星",
+    "example": "The asteroid passed near Earth.",
+    "example_jp": "小惑星が地球の近くを通過した。"
+  },
+  {
+    "word": "eclipse",
+    "meaning": "食",
+    "example": "We watched the solar eclipse.",
+    "example_jp": "私たちは日食（太陽の食）を観察した。"
+  },
+  {
+    "word": "glacier",
+    "meaning": "氷河",
+    "example": "The glacier is slowly melting.",
+    "example_jp": "その氷河はゆっくりと溶けている。"
+  },
+  {
+    "word": "peninsula",
+    "meaning": "半島",
+    "example": "Italy is a famous peninsula.",
+    "example_jp": "イタリアは有名な半島だ。"
+  },
+  {
+    "word": "hemisphere",
+    "meaning": "半球",
+    "example": "Japan is in the Northern Hemisphere.",
+    "example_jp": "日本は北半球にある。"
+  },
+  {
+    "word": "lump",
+    "meaning": "かたまり，しこり",
+    "example": "He found a small lump on his neck.",
+    "example_jp": "彼は首に小さなかたまり（しこり）を見つけた。"
+  },
+  {
+    "word": "lump",
+    "meaning": "ひとかたまりにする",
+    "example": "They lumped the items together.",
+    "example_jp": "彼らはそれらの品物をひとかたまりにした。"
+  },
+  {
+    "word": "cluster",
+    "meaning": "集団，房",
+    "example": "A cluster of stars appeared.",
+    "example_jp": "星の集団（星団）が現れた。"
+  },
+  {
+    "word": "offspring",
+    "meaning": "子，子孫",
+    "example": "The bird fed its offspring.",
+    "example_jp": "その鳥は自分の子（子孫）に餌を与えた。"
+  },
+  {
+    "word": "livestock",
+    "meaning": "家畜",
+    "example": "The farm raises livestock.",
+    "example_jp": "その農場では家畜を育てている。"
+  },
+  {
+    "word": "carnivore",
+    "meaning": "肉食動物",
+    "example": "Lions are carnivores.",
+    "example_jp": "ライオンは肉食動物だ。"
+  },
+  {
+    "word": "vertebrate",
+    "meaning": "脊椎動物",
+    "example": "Humans are vertebrates.",
+    "example_jp": "人間は脊椎動物だ。"
+  },
+  {
+    "word": "vertebrate",
+    "meaning": "脊椎動物の",
+    "example": "Vertebrate animals have backbones.",
+    "example_jp": "脊椎動物の動物には背骨がある。"
+  },
+  {
+    "word": "primate",
+    "meaning": "霊長類",
+    "example": "Monkeys are primates.",
+    "example_jp": "猿は霊長類だ。"
+  },
+  {
+    "word": "parasite",
+    "meaning": "寄生虫",
+    "example": "The parasite lives in the host.",
+    "example_jp": "その寄生虫は宿主の中に住んでいる。"
+  },
+  {
+    "word": "cortex",
+    "meaning": "皮質",
+    "example": "The brain’s cortex controls thinking.",
+    "example_jp": "脳の皮質が思考を制御している。"
+  },
+  {
+    "word": "sibling",
+    "meaning": "兄弟姉妹",
+    "example": "He has two siblings.",
+    "example_jp": "彼には2人の兄弟姉妹がいる。"
+  },
+  {
+    "word": "extrovert",
+    "meaning": "外交的な人",
+    "example": "She is an extrovert.",
+    "example_jp": "彼女は外交的な人だ。"
+  },
+  {
+    "word": "stigma",
+    "meaning": "汚名",
+    "example": "There is still a stigma around mental illness.",
+    "example_jp": "精神疾患に関しては、未だに汚名が残っている。"
+  },
+  {
+    "word": "plight",
+    "meaning": "窮状，苦境",
+    "example": "They helped refugees in their plight.",
+    "example_jp": "彼らは窮状（苦境）にある難民を助けた。"
+  },
+  {
+    "word": "turmoil",
+    "meaning": "混乱",
+    "example": "The country fell into turmoil.",
+    "example_jp": "その国は混乱に陥った。"
+  },
+  {
+    "word": "fallacy",
+    "meaning": "誤びゅう",
+    "example": "The argument is based on a fallacy.",
+    "example_jp": "その議論は誤びゅうに基づいている。"
+  },
+  {
+    "word": "loophole",
+    "meaning": "抜け穴",
+    "example": "They found a tax loophole.",
+    "example_jp": "彼らは税金の抜け穴を見つけた。"
+  },
+  {
+    "word": "congestion",
+    "meaning": "混雑",
+    "example": "Traffic congestion is getting worse.",
+    "example_jp": "交通の混雑がひどくなっている。"
+  },
+  {
+    "word": "congestion",
+    "meaning": "充血",
+    "example": "He suffers from nasal congestion.",
+    "example_jp": "彼は鼻の充血（鼻づまり）に苦しんでいる。"
+  },
+  {
+    "word": "vacuum",
+    "meaning": "真空，空白",
+    "example": "The chamber was kept in a vacuum.",
+    "example_jp": "その部屋は真空（空白）の状態に保たれた。"
+  },
+  {
+    "word": "vacuum",
+    "meaning": "掃除機をかける",
+    "example": "She vacuumed the carpet.",
+    "example_jp": "彼女はカーペットに掃除機をかけた。"
+  },
+  {
+    "word": "digit",
+    "meaning": "桁",
+    "example": "The number has six digits.",
+    "example_jp": "その数字は6桁だ。"
+  },
+  {
+    "word": "bulk",
+    "meaning": "大半",
+    "example": "The bulk of the work is done.",
+    "example_jp": "仕事の大半は終わっている。"
+  },
+  {
+    "word": "longevity",
+    "meaning": "長寿",
+    "example": "Japan is known for longevity.",
+    "example_jp": "日本は長寿で知られている。"
+  },
+  {
+    "word": "detour",
+    "meaning": "回り道",
+    "example": "We took a detour due to construction.",
+    "example_jp": "工事のため、私たちは回り道をした。"
+  },
+  {
+    "word": "sewage",
+    "meaning": "下水，汚水",
+    "example": "The sewage system needs repair.",
+    "example_jp": "下水（汚水）システムは修理が必要だ。"
+  },
+  {
+    "word": "landfill",
+    "meaning": "埋め立て",
+    "example": "The city expanded its landfill.",
+    "example_jp": "市は埋め立てを拡大した。"
+  },
+  {
+    "word": "landfill",
+    "meaning": "埋め立て地",
+    "example": "The landfill is almost full.",
+    "example_jp": "その埋め立て地はほぼ満杯だ。"
+  },
+  {
+    "word": "appliance",
+    "meaning": "器具",
+    "example": "The kitchen has many appliances.",
+    "example_jp": "キッチンには多くの器具（家電）がある。"
+  },
+  {
+    "word": "cuisine",
+    "meaning": "料理（法）",
+    "example": "Italian cuisine is popular.",
+    "example_jp": "イタリア料理（法）は人気がある。"
+  },
+  {
+    "word": "beverage",
+    "meaning": "飲料",
+    "example": "The store sells many beverages.",
+    "example_jp": "その店は多くの飲料を販売している。"
+  },
+  {
+    "word": "staple",
+    "meaning": "必需食料品，主要作物",
+    "example": "Rice is a staple in Japan.",
+    "example_jp": "米は日本の必需食料品（主要作物）だ。"
+  },
+  {
+    "word": "staple",
+    "meaning": "主要な",
+    "example": "Wheat is a staple crop.",
+    "example_jp": "小麦は主要な作物だ。"
+  },
+  {
+    "word": "scenario",
+    "meaning": "筋書き，事態",
+    "example": "They prepared for several scenarios.",
+    "example_jp": "彼らはいくつかの筋書き（事態）に備えた。"
+  },
+  {
+    "word": "autograph",
+    "meaning": "サイン",
+    "example": "He asked the actor for an autograph.",
+    "example_jp": "彼はその俳優にサインを求めた。"
+  },
+  {
+    "word": "archive",
+    "meaning": "記録文書",
+    "example": "The archives contain old documents.",
+    "example_jp": "その記録文書には古い書類が含まれている。"
+  },
+  {
+    "word": "archive",
+    "meaning": "公文書保管庫",
+    "example": "The archive is open to researchers.",
+    "example_jp": "その公文書保管庫は研究者に公開されている。"
+  },
+  {
+    "word": "rhetoric",
+    "meaning": "美辞麗句，修辞",
+    "example": "The speech was full of rhetoric.",
+    "example_jp": "その演説は美辞麗句（修辞）に満ちていた。"
+  },
+  {
+    "word": "rhetoric",
+    "meaning": "修辞的な",
+    "example": "His rhetoric style is unique.",
+    "example_jp": "彼の修辞的なスタイルは独特だ。"
+  },
+  {
+    "word": "connotation",
+    "meaning": "言外の意味，含意",
+    "example": "The word has a negative connotation.",
+    "example_jp": "その言葉には否定的な含意（言外の意味）がある。"
+  },
+  {
+    "word": "anecdote",
+    "meaning": "逸話，秘話",
+    "example": "He told an amusing anecdote.",
+    "example_jp": "彼は面白い逸話（秘話）を話した。"
+  },
+  {
+    "word": "lord",
+    "meaning": "神",
+    "example": "They prayed to the Lord.",
+    "example_jp": "彼らは主（神）に祈った。"
+  },
+  {
+    "word": "lord",
+    "meaning": "高位の貴族，支配者",
+    "example": "The lord ruled the land.",
+    "example_jp": "その領主（高位の貴族）が土地を支配した。"
+  },
+  {
+    "word": "saint",
+    "meaning": "聖人",
+    "example": "Saint Francis is well known.",
+    "example_jp": "聖フランシスはよく知られている。"
+  },
+  {
+    "word": "saint",
+    "meaning": "聖...",
+    "example": "Saint Mary is honored.",
+    "example_jp": "聖マリアが崇められている。"
+  },
+  {
+    "word": "prophet",
+    "meaning": "預言者",
+    "example": "He is considered a prophet.",
+    "example_jp": "彼は預言者だと考えられている。"
+  },
+  {
+    "word": "pilgrim",
+    "meaning": "巡礼者",
+    "example": "The pilgrims traveled to the shrine.",
+    "example_jp": "巡礼者たちはその神社へと旅をした。"
+  },
+  {
+    "word": "salvation",
+    "meaning": "救済",
+    "example": "They prayed for salvation.",
+    "example_jp": "彼らは救済を求めて祈った。"
+  }
+]

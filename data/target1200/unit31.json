@@ -1,0 +1,308 @@
+[
+  {
+    "word": "field",
+    "meaning": "分野",
+    "example": "This field is my area of study.",
+    "example_jp": "この分野は私の研究範囲だ。"
+  },
+  {
+    "word": "field",
+    "meaning": "領域",
+    "example": "He works in the medical field.",
+    "example_jp": "彼は医療領域で働いている。"
+  },
+  {
+    "word": "following",
+    "meaning": "次の",
+    "example": "Read the following sentence.",
+    "example_jp": "次の文を読みなさい。"
+  },
+  {
+    "word": "various",
+    "meaning": "さまざまな",
+    "example": "We tried various methods.",
+    "example_jp": "私たちはさまざまな方法を試した。"
+  },
+  {
+    "word": "several",
+    "meaning": "いくつかの",
+    "example": "I have several questions.",
+    "example_jp": "私はいくつかの質問がある。"
+  },
+  {
+    "word": "local",
+    "meaning": "地元の",
+    "example": "I like local food.",
+    "example_jp": "私は地元の食べ物が好きだ。"
+  },
+  {
+    "word": "related",
+    "meaning": "関連して",
+    "example": "This topic is related to science.",
+    "example_jp": "この話題は科学に関連している。"
+  },
+  {
+    "word": "possible",
+    "meaning": "可能な",
+    "example": "It is possible to change.",
+    "example_jp": "変えることは可能だ。"
+  },
+  {
+    "word": "similar",
+    "meaning": "似ている",
+    "example": "These two ideas are similar.",
+    "example_jp": "これら2つの考えは似ている。"
+  },
+  {
+    "word": "concerned",
+    "meaning": "心配して",
+    "example": "I am concerned about the result.",
+    "example_jp": "私は結果について心配している。"
+  },
+  {
+    "word": "available",
+    "meaning": "利用できる",
+    "example": "The book is available online.",
+    "example_jp": "その本はオンラインで利用できる。"
+  },
+  {
+    "word": "dry",
+    "meaning": "乾燥した",
+    "example": "This area is dry in summer.",
+    "example_jp": "この地域は夏に乾燥している。"
+  },
+  {
+    "word": "past",
+    "meaning": "この前の",
+    "example": "I met him in the past week.",
+    "example_jp": "私はこの前の週に彼に会った。"
+  },
+  {
+    "word": "modern",
+    "meaning": "近代的な",
+    "example": "This is a modern building.",
+    "example_jp": "これは近代的な建物だ。"
+  },
+  {
+    "word": "unique",
+    "meaning": "特有の",
+    "example": "She has a unique style.",
+    "example_jp": "彼女は特有のスタイルを持っている。"
+  },
+  {
+    "word": "common",
+    "meaning": "よくある",
+    "example": "It is a common mistake.",
+    "example_jp": "それはよくある間違いだ。"
+  },
+  {
+    "word": "prepare",
+    "meaning": "準備する",
+    "example": "I prepare dinner.",
+    "example_jp": "私は夕食を準備する。"
+  },
+  {
+    "word": "regard",
+    "meaning": "〜と思う",
+    "example": "I regard him as a friend.",
+    "example_jp": "私は彼を友達だと思う。"
+  },
+  {
+    "word": "occur",
+    "meaning": "起こる",
+    "example": "An accident occurs suddenly.",
+    "example_jp": "事故が突然起こる。"
+  },
+  {
+    "word": "suppose",
+    "meaning": "だと思う",
+    "example": "I suppose he is right.",
+    "example_jp": "彼は正しいのだと思う。"
+  },
+  {
+    "word": "serve",
+    "meaning": "出す",
+    "example": "They serve lunch at noon.",
+    "example_jp": "彼らは正午に昼食を出す。"
+  },
+  {
+    "word": "wonder",
+    "meaning": "だろうかと思う",
+    "example": "I wonder if he is okay.",
+    "example_jp": "彼は大丈夫だろうかと思う。"
+  },
+  {
+    "word": "reduce",
+    "meaning": "減らす",
+    "example": "We reduce waste.",
+    "example_jp": "私たちは無駄を減らす。"
+  },
+  {
+    "word": "promote",
+    "meaning": "促進する",
+    "example": "The school promotes reading.",
+    "example_jp": "学校は読書を促進する。"
+  },
+  {
+    "word": "survive",
+    "meaning": "生き延びる",
+    "example": "They survive the storm.",
+    "example_jp": "彼らは嵐を生き延びる。"
+  },
+  {
+    "word": "gain",
+    "meaning": "得る",
+    "example": "I gain new skills.",
+    "example_jp": "私は新しいスキルを得る。"
+  },
+  {
+    "word": "devide",
+    "meaning": "分ける",
+    "example": "We divide the class into groups.",
+    "example_jp": "私たちはクラスをグループに分ける。"
+  },
+  {
+    "word": "attract",
+    "meaning": "引き寄せる",
+    "example": "The event attracts many people.",
+    "example_jp": "その行事は多くの人を引き寄せる。"
+  },
+  {
+    "word": "achieve",
+    "meaning": "達成する",
+    "example": "She achieves her goal.",
+    "example_jp": "彼女は目標を達成する。"
+  },
+  {
+    "word": "fit",
+    "meaning": "適する",
+    "example": "This shirt fits me well.",
+    "example_jp": "このシャツは私によく適する。"
+  },
+  {
+    "word": "reveal",
+    "meaning": "明らかにする",
+    "example": "The test reveals the truth.",
+    "example_jp": "そのテストは真実を明らかにする。"
+  },
+  {
+    "word": "wish",
+    "meaning": "願う",
+    "example": "I wish for peace.",
+    "example_jp": "私は平和を願う。"
+  },
+  {
+    "word": "fill",
+    "meaning": "満たす",
+    "example": "I fill the bottle with water.",
+    "example_jp": "私はボトルを水で満たす。"
+  },
+  {
+    "word": "hurt",
+    "meaning": "傷つける",
+    "example": "My leg hurts.",
+    "example_jp": "私の足が傷つける（痛む）。"
+  },
+  {
+    "word": "discover",
+    "meaning": "知る",
+    "example": "I discover a new fact.",
+    "example_jp": "私は新しい事実を知る。"
+  },
+  {
+    "word": "indicate",
+    "meaning": "示す",
+    "example": "The data indicates a change.",
+    "example_jp": "そのデータは変化を示す。"
+  },
+  {
+    "word": "overcome",
+    "meaning": "克服する",
+    "example": "We overcome many problems.",
+    "example_jp": "私たちは多くの問題を克服する。"
+  },
+  {
+    "word": "protect",
+    "meaning": "守る",
+    "example": "They protect the environment.",
+    "example_jp": "彼らは環境を守る。"
+  },
+  {
+    "word": "remove",
+    "meaning": "取り去る",
+    "example": "I remove the sticker.",
+    "example_jp": "私はステッカーを取り去る。"
+  },
+  {
+    "word": "rely",
+    "meaning": "頼る",
+    "example": "I rely on my friends.",
+    "example_jp": "私は友達を頼る。"
+  },
+  {
+    "word": "bother",
+    "meaning": "わざわざ〜する",
+    "example": "Don’t bother to come early.",
+    "example_jp": "わざわざ早く来ないでください。"
+  },
+  {
+    "word": "seek",
+    "meaning": "追い求める",
+    "example": "They seek help.",
+    "example_jp": "彼らは助けを追い求める。"
+  },
+  {
+    "word": "matter",
+    "meaning": "重要だ",
+    "example": "It doesn’t matter.",
+    "example_jp": "それは重要ではない。"
+  },
+  {
+    "word": "concentrate",
+    "meaning": "集中する",
+    "example": "I concentrate on my work.",
+    "example_jp": "私は自分の仕事に集中する。"
+  },
+  {
+    "word": "react",
+    "meaning": "反応する",
+    "example": "He reacts quickly.",
+    "example_jp": "彼は素早く反応する。"
+  },
+  {
+    "word": "struggle",
+    "meaning": "奮闘する",
+    "example": "She struggles to finish the task.",
+    "example_jp": "彼女はその仕事を終えるために奮闘する。"
+  },
+  {
+    "word": "admit",
+    "meaning": "認める",
+    "example": "He admits his mistake.",
+    "example_jp": "彼は自分の間違いを認める。"
+  },
+  {
+    "word": "lock",
+    "meaning": "閉じ込める",
+    "example": "I lock the door.",
+    "example_jp": "私はドアを閉じ込める。"
+  },
+  {
+    "word": "issue",
+    "meaning": "問題",
+    "example": "This is a serious issue.",
+    "example_jp": "これは深刻な問題だ。"
+  },
+  {
+    "word": "relationship",
+    "meaning": "関係",
+    "example": "They have a good relationship.",
+    "example_jp": "彼らは良い関係を築いている。"
+  },
+  {
+    "word": "list",
+    "meaning": "リスト",
+    "example": "I make a list of names.",
+    "example_jp": "私は名前のリストを作る。"
+  }
+]

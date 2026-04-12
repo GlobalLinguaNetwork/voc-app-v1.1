@@ -1,0 +1,344 @@
+[
+  {
+    "word": "change",
+    "meaning": "変える",
+    "example": "I want to change my plan.",
+    "example_jp": "私は自分の計画を変えたい。"
+  },
+  {
+    "word": "learn",
+    "meaning": "学ぶ",
+    "example": "I learn new words every day.",
+    "example_jp": "私は毎日新しい単語を学ぶ。"
+  },
+  {
+    "word": "help",
+    "meaning": "手伝う",
+    "example": "Can you help me?",
+    "example_jp": "私を手伝ってくれますか？"
+  },
+  {
+    "word": "help",
+    "meaning": "助ける",
+    "example": "This book helps me a lot.",
+    "example_jp": "この本は私を大いに助けてくれる。"
+  },
+  {
+    "word": "need",
+    "meaning": "必要とする",
+    "example": "I need more time.",
+    "example_jp": "私はもっと時間を必要とする。"
+  },
+  {
+    "word": "live",
+    "meaning": "住んでいる",
+    "example": "I live in this town.",
+    "example_jp": "私はこの町に住んでいる。"
+  },
+  {
+    "word": "ask",
+    "meaning": "頼む",
+    "example": "I ask him for help.",
+    "example_jp": "私は彼に助けを頼む。"
+  },
+  {
+    "word": "enjoy",
+    "meaning": "楽しむ",
+    "example": "I enjoy this game.",
+    "example_jp": "私はこのゲームを楽しむ。"
+  },
+  {
+    "word": "wait",
+    "meaning": "待つ",
+    "example": "Please wait here.",
+    "example_jp": "ここで待ってください。"
+  },
+  {
+    "word": "cook",
+    "meaning": "調理する",
+    "example": "I cook dinner for my family.",
+    "example_jp": "私は家族のために夕食を調理する。"
+  },
+  {
+    "word": "talk",
+    "meaning": "話す",
+    "example": "We talk after school.",
+    "example_jp": "私たちは放課後に話す。"
+  },
+  {
+    "word": "speak",
+    "meaning": "話す",
+    "example": "She speaks very fast.",
+    "example_jp": "彼女はとても速く話す。"
+  },
+  {
+    "word": "meet",
+    "meaning": "会う",
+    "example": "I meet my friends on Sunday.",
+    "example_jp": "私は日曜日に友達に会う。"
+  },
+  {
+    "word": "mean",
+    "meaning": "意味する",
+    "example": "What does this word mean?",
+    "example_jp": "この単語は何を意味しますか？"
+  },
+  {
+    "word": "buy",
+    "meaning": "買う",
+    "example": "I buy a new bag.",
+    "example_jp": "私は新しいバッグを買う。"
+  },
+  {
+    "word": "travel",
+    "meaning": "旅行する",
+    "example": "I travel by train.",
+    "example_jp": "私は電車で旅行する。"
+  },
+  {
+    "word": "build",
+    "meaning": "建てる",
+    "example": "They build a new house.",
+    "example_jp": "彼らは新しい家を建てる。"
+  },
+  {
+    "word": "close",
+    "meaning": "閉じる",
+    "example": "Please close the door.",
+    "example_jp": "ドアを閉じてください。"
+  },
+  {
+    "word": "stay",
+    "meaning": "滞在する",
+    "example": "I stay at home today.",
+    "example_jp": "私は今日家に滞在する。"
+  },
+  {
+    "word": "move",
+    "meaning": "動かす",
+    "example": "I move the table.",
+    "example_jp": "私はテーブルを動かす。"
+  },
+  {
+    "word": "plan",
+    "meaning": "計画する",
+    "example": "We plan a trip.",
+    "example_jp": "私たちは旅行を計画する。"
+  },
+  {
+    "word": "write",
+    "meaning": "書く",
+    "example": "I write a short letter.",
+    "example_jp": "私は短い手紙を書く。"
+  },
+  {
+    "word": "listen",
+    "meaning": "聞く",
+    "example": "I listen to music.",
+    "example_jp": "私は音楽を聞く。"
+  },
+  {
+    "word": "happen",
+    "meaning": "起こる",
+    "example": "What happened here?",
+    "example_jp": "ここで何が起こりましたか？"
+  },
+  {
+    "word": "happen",
+    "meaning": "生じる",
+    "example": "Small problems happen sometimes.",
+    "example_jp": "小さな問題が時々生じる。"
+  },
+  {
+    "word": "lose",
+    "meaning": "失う",
+    "example": "I lose my keys.",
+    "example_jp": "私は鍵を失う。"
+  },
+  {
+    "word": "lose",
+    "meaning": "なくす",
+    "example": "I lose my pen again.",
+    "example_jp": "私はまたペンをなくす。"
+  },
+  {
+    "word": "stand",
+    "meaning": "立つ",
+    "example": "He stands by the window.",
+    "example_jp": "彼は窓のそばに立つ。"
+  },
+  {
+    "word": "stand",
+    "meaning": "立っている",
+    "example": "The old house still stands.",
+    "example_jp": "その古い家はまだ立っている。"
+  },
+  {
+    "word": "grow",
+    "meaning": "育つ",
+    "example": "Plants grow fast in summer.",
+    "example_jp": "植物は夏に速く育つ。"
+  },
+  {
+    "word": "sound",
+    "meaning": "〜のように聞こえる",
+    "example": "That sounds good.",
+    "example_jp": "それは良く聞こえる。"
+  },
+  {
+    "word": "rain",
+    "meaning": "雨が降る",
+    "example": "It rains a lot in June.",
+    "example_jp": "6月にはたくさん雨が降る。"
+  },
+  {
+    "word": "worry",
+    "meaning": "心配する",
+    "example": "I worry about the test.",
+    "example_jp": "私はテストについて心配する。"
+  },
+  {
+    "word": "teach",
+    "meaning": "教える",
+    "example": "She teaches math.",
+    "example_jp": "彼女は数学を教える。"
+  },
+  {
+    "word": "hope",
+    "meaning": "望む",
+    "example": "I hope for good weather.",
+    "example_jp": "私は良い天気を望む。"
+  },
+  {
+    "word": "hold",
+    "meaning": "持つ",
+    "example": "I hold the box.",
+    "example_jp": "私は箱を持つ。"
+  },
+  {
+    "word": "hold",
+    "meaning": "抱える",
+    "example": "She holds her baby.",
+    "example_jp": "彼女は赤ちゃんを抱える。"
+  },
+  {
+    "word": "life",
+    "meaning": "一生",
+    "example": "Life is full of surprises.",
+    "example_jp": "一生は驚きに満ちている。"
+  },
+  {
+    "word": "life",
+    "meaning": "生涯",
+    "example": "He talks about his life.",
+    "example_jp": "彼は自身の生涯について話す。"
+  },
+  {
+    "word": "thing",
+    "meaning": "事",
+    "example": "This is a simple thing.",
+    "example_jp": "これは単純な事だ。"
+  },
+  {
+    "word": "country",
+    "meaning": "国",
+    "example": "Japan is a beautiful country.",
+    "example_jp": "日本は美しい国だ。"
+  },
+  {
+    "word": "example",
+    "meaning": "例",
+    "example": "Here is an example.",
+    "example_jp": "ここに例がある。"
+  },
+  {
+    "word": "place",
+    "meaning": "場所",
+    "example": "This place is quiet.",
+    "example_jp": "この場所は静かだ。"
+  },
+  {
+    "word": "part",
+    "meaning": "部分",
+    "example": "This is the best part.",
+    "example_jp": "これが最高の部分だ。"
+  },
+  {
+    "word": "trip",
+    "meaning": "旅行",
+    "example": "Our trip starts today.",
+    "example_jp": "私たちの旅行は今日始まる。"
+  },
+  {
+    "word": "problem",
+    "meaning": "問題",
+    "example": "I have a small problem.",
+    "example_jp": "私は小さな問題を抱えている。"
+  },
+  {
+    "word": "question",
+    "meaning": "質問",
+    "example": "I have a question.",
+    "example_jp": "私は質問がある。"
+  },
+  {
+    "word": "color",
+    "meaning": "色",
+    "example": "I like this color.",
+    "example_jp": "私はこの色が好きだ。"
+  },
+  {
+    "word": "point",
+    "meaning": "要点",
+    "example": "That is the main point.",
+    "example_jp": "それが主要な要点だ。"
+  },
+  {
+    "word": "language",
+    "meaning": "言語",
+    "example": "English is a global language.",
+    "example_jp": "英語は世界的な言語だ。"
+  },
+  {
+    "word": "word",
+    "meaning": "単語",
+    "example": "I learn a new word.",
+    "example_jp": "私は新しい単語を学ぶ。"
+  },
+  {
+    "word": "word",
+    "meaning": "語",
+    "example": "This word is hard.",
+    "example_jp": "この語は難しい。"
+  },
+  {
+    "word": "health",
+    "meaning": "健康",
+    "example": "Health is important.",
+    "example_jp": "健康は重要だ。"
+  },
+  {
+    "word": "report",
+    "meaning": "報告書",
+    "example": "I write a short report.",
+    "example_jp": "私は短い報告書を書く。"
+  },
+  {
+    "word": "minute",
+    "meaning": "分",
+    "example": "Wait a minute.",
+    "example_jp": "1分待ってください。"
+  },
+  {
+    "word": "reason",
+    "meaning": "理由",
+    "example": "I know the reason.",
+    "example_jp": "私はその理由を知っている。"
+  },
+  {
+    "word": "line",
+    "meaning": "路線",
+    "example": "This bus line is long.",
+    "example_jp": "このバスの路線は長い。"
+  }
+]

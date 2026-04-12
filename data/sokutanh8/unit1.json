@@ -1,0 +1,716 @@
+[
+  {
+    "word": "history",
+    "meaning": "歴史",
+    "example": "He studies history.",
+    "example_jp": "彼は歴史を勉強している。"
+  },
+  {
+    "word": "history",
+    "meaning": "経歴",
+    "example": "His history is unknown.",
+    "example_jp": "彼の経歴は不明だ。"
+  },
+  {
+    "word": "tie",
+    "meaning": "つながり",
+    "example": "They have strong ties.",
+    "example_jp": "彼らは強いつながり（絆）を持っている。"
+  },
+  {
+    "word": "tie",
+    "meaning": "ネクタイ",
+    "example": "He wore a tie.",
+    "example_jp": "彼はネクタイを締めていた。"
+  },
+  {
+    "word": "tie",
+    "meaning": "同点",
+    "example": "The game ended in a tie.",
+    "example_jp": "その試合は同点で終わった。"
+  },
+  {
+    "word": "tie",
+    "meaning": "結ぶ",
+    "example": "He tied the rope.",
+    "example_jp": "彼はロープを結んだ。"
+  },
+  {
+    "word": "tie",
+    "meaning": "つなぐ",
+    "example": "The road ties the towns together.",
+    "example_jp": "その道路が町と町をつないでいる。"
+  },
+  {
+    "word": "unite",
+    "meaning": "一体にする",
+    "example": "The event united the people.",
+    "example_jp": "そのイベントは人々を一体にした。"
+  },
+  {
+    "word": "unite",
+    "meaning": "一体になる",
+    "example": "The groups united.",
+    "example_jp": "そのグループは一体になった。"
+  },
+  {
+    "word": "culture",
+    "meaning": "文化",
+    "example": "Japanese culture is rich.",
+    "example_jp": "日本の文化は豊かだ。"
+  },
+  {
+    "word": "culture",
+    "meaning": "教養",
+    "example": "He has great culture.",
+    "example_jp": "彼は素晴らしい教養を持っている。"
+  },
+  {
+    "word": "culture",
+    "meaning": "培養する",
+    "example": "They cultured cells.",
+    "example_jp": "彼らは細胞を培養した。"
+  },
+  {
+    "word": "plant",
+    "meaning": "植物",
+    "example": "This plant grows fast.",
+    "example_jp": "この植物は成長が早い。"
+  },
+  {
+    "word": "plant",
+    "meaning": "工場",
+    "example": "He works at a car plant.",
+    "example_jp": "彼は自動車工場で働いている。"
+  },
+  {
+    "word": "plant",
+    "meaning": "植える",
+    "example": "They planted a tree.",
+    "example_jp": "彼らは木を植えた。"
+  },
+  {
+    "word": "unique",
+    "meaning": "特有の",
+    "example": "This style is unique to Japan.",
+    "example_jp": "このスタイルは日本特有のものだ。"
+  },
+  {
+    "word": "unique",
+    "meaning": "唯一の",
+    "example": "She has a unique talent.",
+    "example_jp": "彼女は唯一の（比類なき）才能を持っている。"
+  },
+  {
+    "word": "characteristic",
+    "meaning": "特徴",
+    "example": "This is characteristic of him.",
+    "example_jp": "これが彼の特徴だ。"
+  },
+  {
+    "word": "matter",
+    "meaning": "問題",
+    "example": "Money is not the main matter.",
+    "example_jp": "お金は主な問題ではない。"
+  },
+  {
+    "word": "matter",
+    "meaning": "物質",
+    "example": "Water is a matter.",
+    "example_jp": "水は物質だ。"
+  },
+  {
+    "word": "matter",
+    "meaning": "事態",
+    "example": "These matters are important.",
+    "example_jp": "これらの事態（事柄）は重要だ。"
+  },
+  {
+    "word": "matter",
+    "meaning": "重要である",
+    "example": "It doesn’t matter.",
+    "example_jp": "それは重要ではない（構わない）。"
+  },
+  {
+    "word": "taste",
+    "meaning": "味",
+    "example": "The taste is sweet.",
+    "example_jp": "その味は甘い。"
+  },
+  {
+    "word": "taste",
+    "meaning": "好み",
+    "example": "He has good taste in music.",
+    "example_jp": "彼は音楽の好みが良い。"
+  },
+  {
+    "word": "taste",
+    "meaning": "味がする",
+    "example": "The soup tastes good.",
+    "example_jp": "そのスープは良い味がする。"
+  },
+  {
+    "word": "taste",
+    "meaning": "味を見る",
+    "example": "I tasted the cake.",
+    "example_jp": "私はそのケーキの味を見た。"
+  },
+  {
+    "word": "edible",
+    "meaning": "食べられる",
+    "example": "These berries are edible.",
+    "example_jp": "これらのベリーは食べられる。"
+  },
+  {
+    "word": "edible",
+    "meaning": "食用の",
+    "example": "This plant is edible.",
+    "example_jp": "この植物は食用だ。"
+  },
+  {
+    "word": "cause",
+    "meaning": "引き起こす",
+    "example": "The storm caused damage.",
+    "example_jp": "嵐が損害を引き起こした。"
+  },
+  {
+    "word": "cause",
+    "meaning": "原因",
+    "example": "The cause is unknown.",
+    "example_jp": "原因は不明だ。"
+  },
+  {
+    "word": "cause",
+    "meaning": "理由",
+    "example": "He had good cause to leave.",
+    "example_jp": "彼には去るための正当な理由があった。"
+  },
+  {
+    "word": "account",
+    "meaning": "占める",
+    "example": "Students account for 30%.",
+    "example_jp": "学生が30％を占めている。"
+  },
+  {
+    "word": "account",
+    "meaning": "説明する",
+    "example": "That accounts for the result.",
+    "example_jp": "それがその結果を説明している。"
+  },
+  {
+    "word": "account",
+    "meaning": "原因となる",
+    "example": "Stress accounts for illness.",
+    "example_jp": "ストレスが病気の原因となる。"
+  },
+  {
+    "word": "account",
+    "meaning": "説明",
+    "example": "His account was clear.",
+    "example_jp": "彼の説明は明快だった。"
+  },
+  {
+    "word": "account",
+    "meaning": "口座",
+    "example": "I opened a bank account.",
+    "example_jp": "私は銀行口座を開設した。"
+  },
+  {
+    "word": "account",
+    "meaning": "報告",
+    "example": "The report gave an account.",
+    "example_jp": "その報告書は報告（記述）を行っていた。"
+  },
+  {
+    "word": "fact",
+    "meaning": "事実",
+    "example": "It is a fact.",
+    "example_jp": "それは事実だ。"
+  },
+  {
+    "word": "treat",
+    "meaning": "扱う",
+    "example": "They treated him well.",
+    "example_jp": "彼らは彼を良く扱った。"
+  },
+  {
+    "word": "treat",
+    "meaning": "治療する",
+    "example": "The doctor treated the patient.",
+    "example_jp": "医者は患者を治療した。"
+  },
+  {
+    "word": "treat",
+    "meaning": "処理する",
+    "example": "They treated the water.",
+    "example_jp": "彼らは水を処理した。"
+  },
+  {
+    "word": "treat",
+    "meaning": "ごほうび",
+    "example": "I bought a treat.",
+    "example_jp": "私はごほうび（お菓子など）を買った。"
+  },
+  {
+    "word": "treat",
+    "meaning": "ごちそう",
+    "example": "This meal is a treat.",
+    "example_jp": "この食事はごちそうだ。"
+  },
+  {
+    "word": "raise",
+    "meaning": "育てる",
+    "example": "They raised three children.",
+    "example_jp": "彼らは3人の子供を育てた。"
+  },
+  {
+    "word": "raise",
+    "meaning": "提起する",
+    "example": "He raised a question.",
+    "example_jp": "彼は疑問を提起した。"
+  },
+  {
+    "word": "raise",
+    "meaning": "上げる",
+    "example": "They raised the price.",
+    "example_jp": "彼らは価格を上げた。"
+  },
+  {
+    "word": "raise",
+    "meaning": "上げる",
+    "example": "He raised his hand.",
+    "example_jp": "彼は手を挙げた。"
+  },
+  {
+    "word": "raise",
+    "meaning": "集める",
+    "example": "They raised money.",
+    "example_jp": "彼らは金を集めた。"
+  },
+  {
+    "word": "female",
+    "meaning": "メス",
+    "example": "The female bird is larger.",
+    "example_jp": "その鳥のメスのほうが大きい。"
+  },
+  {
+    "word": "female",
+    "meaning": "女性",
+    "example": "She is a female doctor.",
+    "example_jp": "彼女は女性の医師だ。"
+  },
+  {
+    "word": "birth",
+    "meaning": "誕生",
+    "example": "The birth of a child is joyful.",
+    "example_jp": "子供の誕生は喜ばしい。"
+  },
+  {
+    "word": "generate",
+    "meaning": "生み出す",
+    "example": "The machine generates electricity.",
+    "example_jp": "その機械は電気を生み出す。"
+  },
+  {
+    "word": "while",
+    "meaning": "…する間に",
+    "example": "He slept while I worked.",
+    "example_jp": "私が働いている間に、彼は眠った。"
+  },
+  {
+    "word": "while",
+    "meaning": "間ずっと",
+    "example": "I stayed there the whole while.",
+    "example_jp": "私はその間ずっとそこにいた。"
+  },
+  {
+    "word": "while",
+    "meaning": "その一方で",
+    "example": "He is tall, while she is short.",
+    "example_jp": "彼は背が高いが、その一方で彼女は低い。"
+  },
+  {
+    "word": "while",
+    "meaning": "時間",
+    "example": "It took a long while.",
+    "example_jp": "長い時間がかかった。"
+  },
+  {
+    "word": "meantime",
+    "meaning": "その間",
+    "example": "I cooked; in the meantime he cleaned.",
+    "example_jp": "私は料理をした。その間、彼は掃除をした。"
+  },
+  {
+    "word": "leave",
+    "meaning": "去る",
+    "example": "He left the room.",
+    "example_jp": "彼は部屋を去った。"
+  },
+  {
+    "word": "leave",
+    "meaning": "残す",
+    "example": "Leave the door open.",
+    "example_jp": "ドアを開けたままにしておきなさい（残しておきなさい）。"
+  },
+  {
+    "word": "leave",
+    "meaning": "…の状態にしておく",
+    "example": "Leave it as it is.",
+    "example_jp": "それをあるがままの状態にしておきなさい。"
+  },
+  {
+    "word": "leave",
+    "meaning": "休暇",
+    "example": "He took paid leave.",
+    "example_jp": "彼は有給休暇を取った。"
+  },
+  {
+    "word": "leave",
+    "meaning": "許可",
+    "example": "He got leave to enter.",
+    "example_jp": "彼は入る許可を得た。"
+  },
+  {
+    "word": "hunt",
+    "meaning": "狩る",
+    "example": "They hunted deer.",
+    "example_jp": "彼らは鹿を狩った。"
+  },
+  {
+    "word": "hunt",
+    "meaning": "捜す",
+    "example": "He hunted for clues.",
+    "example_jp": "彼は手がかりを捜した。"
+  },
+  {
+    "word": "hunt",
+    "meaning": "狩り",
+    "example": "They went on a hunt.",
+    "example_jp": "彼らは狩りに出かけた。"
+  },
+  {
+    "word": "hunt",
+    "meaning": "探索",
+    "example": "The hunt continued.",
+    "example_jp": "探索は続いた。"
+  },
+  {
+    "word": "instead",
+    "meaning": "その代わりに",
+    "example": "I stayed home instead.",
+    "example_jp": "私はその代わりに家にいた。"
+  },
+  {
+    "word": "instead",
+    "meaning": "…の代わりに",
+    "example": "Use this instead of that.",
+    "example_jp": "あの代わりにこれを使ってください。"
+  },
+  {
+    "word": "guard",
+    "meaning": "守る",
+    "example": "He guarded the gate.",
+    "example_jp": "彼は門を守った。"
+  },
+  {
+    "word": "guard",
+    "meaning": "見張る",
+    "example": "They guarded the area.",
+    "example_jp": "彼らはそのエリアを見張った。"
+  },
+  {
+    "word": "guard",
+    "meaning": "警備員",
+    "example": "The guard is strict.",
+    "example_jp": "その警備員は厳しい。"
+  },
+  {
+    "word": "secure",
+    "meaning": "安全な",
+    "example": "This place is secure.",
+    "example_jp": "この場所は安全だ。"
+  },
+  {
+    "word": "secure",
+    "meaning": "安定した",
+    "example": "The job is secure.",
+    "example_jp": "その仕事は安定している。"
+  },
+  {
+    "word": "secure",
+    "meaning": "確保する",
+    "example": "They secured the door.",
+    "example_jp": "彼らはドアを（閉めて安全を）確保した。"
+  },
+  {
+    "word": "secure",
+    "meaning": "守る",
+    "example": "He secured the area.",
+    "example_jp": "彼はそのエリアを守った。"
+  },
+  {
+    "word": "offend",
+    "meaning": "気分を害する",
+    "example": "His words offended me.",
+    "example_jp": "彼の言葉は私の気分を害した。"
+  },
+  {
+    "word": "offend",
+    "meaning": "罪を犯す",
+    "example": "He offended again.",
+    "example_jp": "彼は再び罪を犯した。"
+  },
+  {
+    "word": "role",
+    "meaning": "役割",
+    "example": "He played an important role.",
+    "example_jp": "彼は重要な役割を果たした。"
+  },
+  {
+    "word": "role",
+    "meaning": "役",
+    "example": "She got the lead role.",
+    "example_jp": "彼女は主役（リード役）を得た。"
+  },
+  {
+    "word": "healthy",
+    "meaning": "健康な",
+    "example": "He is healthy.",
+    "example_jp": "彼は健康だ。"
+  },
+  {
+    "word": "healthcare",
+    "meaning": "健康管理",
+    "example": "Healthcare is important.",
+    "example_jp": "健康管理は重要だ。"
+  },
+  {
+    "word": "healthcare",
+    "meaning": "医療",
+    "example": "He works in healthcare.",
+    "example_jp": "彼は医療分野で働いている。"
+  },
+  {
+    "word": "mammal",
+    "meaning": "哺乳類",
+    "example": "A whale is a mammal.",
+    "example_jp": "クジラは哺乳類だ。"
+  },
+  {
+    "word": "produce",
+    "meaning": "生産する",
+    "example": "They produce cars.",
+    "example_jp": "彼らは車を生産している。"
+  },
+  {
+    "word": "produce",
+    "meaning": "もたらす",
+    "example": "The farm produces milk.",
+    "example_jp": "その農場は牛乳をもたらす。"
+  },
+  {
+    "word": "produce",
+    "meaning": "農産物",
+    "example": "Fresh produce is sold here.",
+    "example_jp": "ここでは新鮮な農産物が売られている。"
+  },
+  {
+    "word": "harvest",
+    "meaning": "収穫",
+    "example": "The harvest was good.",
+    "example_jp": "収穫は良好だった。"
+  },
+  {
+    "word": "harvest",
+    "meaning": "収穫期",
+    "example": "It is harvest season.",
+    "example_jp": "今は収穫期だ。"
+  },
+  {
+    "word": "harvest",
+    "meaning": "収穫する",
+    "example": "They harvested the crops.",
+    "example_jp": "彼らは作物を収穫した。"
+  },
+  {
+    "word": "liver",
+    "meaning": "肝臓",
+    "example": "The liver is vital.",
+    "example_jp": "肝臓は生命維持に不可欠だ。"
+  },
+  {
+    "word": "never",
+    "meaning": "一度も…ない",
+    "example": "I have never seen it.",
+    "example_jp": "私は一度もそれを見たことがない。"
+  },
+  {
+    "word": "never",
+    "meaning": "決して…ない",
+    "example": "I will never forget.",
+    "example_jp": "私は決して忘れない。"
+  },
+  {
+    "word": "none",
+    "meaning": "どれも…ない",
+    "example": "None were present.",
+    "example_jp": "どれも出席していなかった。"
+  },
+  {
+    "word": "none",
+    "meaning": "誰も…ない",
+    "example": "None of them agreed.",
+    "example_jp": "彼らの誰も同意しなかった。"
+  },
+  {
+    "word": "nor",
+    "meaning": "…もまた〜ない",
+    "example": "He didn’t speak, nor did she.",
+    "example_jp": "彼は話さなかったし、彼女もまた話さなかった。"
+  },
+  {
+    "word": "elsewhere",
+    "meaning": "どこか他の所で",
+    "example": "He lives elsewhere.",
+    "example_jp": "彼はどこか他の所に住んでいる。"
+  },
+  {
+    "word": "suffer",
+    "meaning": "苦しむ",
+    "example": "He suffers from asthma.",
+    "example_jp": "彼は喘息で苦しんでいる。"
+  },
+  {
+    "word": "suffer",
+    "meaning": "経験する",
+    "example": "They suffered damage.",
+    "example_jp": "彼らは損害を経験した（被った）。"
+  },
+  {
+    "word": "struggle",
+    "meaning": "苦闘する",
+    "example": "He struggled to escape.",
+    "example_jp": "彼は逃げようと苦闘した。"
+  },
+  {
+    "word": "struggle",
+    "meaning": "苦闘",
+    "example": "The struggle lasted long.",
+    "example_jp": "苦闘は長く続いた。"
+  },
+  {
+    "word": "struggle",
+    "meaning": "努力",
+    "example": "Success requires struggle.",
+    "example_jp": "成功には努力が必要だ。"
+  },
+  {
+    "word": "victim",
+    "meaning": "被害者",
+    "example": "He was a victim of the crime.",
+    "example_jp": "彼はその犯罪の被害者だった。"
+  },
+  {
+    "word": "victim",
+    "meaning": "犠牲者",
+    "example": "The fire had many victims.",
+    "example_jp": "その火災には多くの犠牲者がいた。"
+  },
+  {
+    "word": "toll",
+    "meaning": "死傷者数",
+    "example": "The toll was high.",
+    "example_jp": "死傷者数は多かった。"
+  },
+  {
+    "word": "toll",
+    "meaning": "通行料",
+    "example": "The toll for the bridge is 500 yen.",
+    "example_jp": "その橋の通行料は500円だ。"
+  },
+  {
+    "word": "sacrifice",
+    "meaning": "犠牲にする",
+    "example": "He sacrificed time for study.",
+    "example_jp": "彼は勉強のために時間を犠牲にした。"
+  },
+  {
+    "word": "sacrifice",
+    "meaning": "犠牲",
+    "example": "It was a great sacrifice.",
+    "example_jp": "それは大きな犠牲だった。"
+  },
+  {
+    "word": "lack",
+    "meaning": "不足",
+    "example": "A lack of food is serious.",
+    "example_jp": "食糧の不足は深刻だ。"
+  },
+  {
+    "word": "lack",
+    "meaning": "欠いている",
+    "example": "He lacks experience.",
+    "example_jp": "彼は経験を欠いている。"
+  },
+  {
+    "word": "shortage",
+    "meaning": "不足",
+    "example": "There is a water shortage.",
+    "example_jp": "水不足がある。"
+  },
+  {
+    "word": "scarce",
+    "meaning": "不足して",
+    "example": "Food is scarce.",
+    "example_jp": "食糧が不足している。"
+  },
+  {
+    "word": "scarce",
+    "meaning": "乏しい",
+    "example": "Water became scarce.",
+    "example_jp": "水が乏しくなった。"
+  },
+  {
+    "word": "curiously",
+    "meaning": "奇妙なことに",
+    "example": "Curiously, no one knew.",
+    "example_jp": "奇妙なことに、誰も知らなかった。"
+  },
+  {
+    "word": "curious",
+    "meaning": "好奇心が強い",
+    "example": "He is curious about science.",
+    "example_jp": "彼は科学に対して好奇心が強い。"
+  },
+  {
+    "word": "curious",
+    "meaning": "奇妙な",
+    "example": "It is a curious story.",
+    "example_jp": "それは奇妙な話だ。"
+  },
+  {
+    "word": "human",
+    "meaning": "人間",
+    "example": "Humans are social beings.",
+    "example_jp": "人間は社会的な存在だ。"
+  },
+  {
+    "word": "human",
+    "meaning": "人間の",
+    "example": "Human rights matter.",
+    "example_jp": "人権（人間の権利）は重要だ。"
+  },
+  {
+    "word": "ape",
+    "meaning": "類人猿",
+    "example": "An ape is intelligent.",
+    "example_jp": "類人猿は知的だ。"
+  },
+  {
+    "word": "primate",
+    "meaning": "霊長類の動物",
+    "example": "Humans are primates.",
+    "example_jp": "人間は霊長類の動物だ。"
+  }
+]

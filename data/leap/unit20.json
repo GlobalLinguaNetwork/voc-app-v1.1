@@ -1,0 +1,458 @@
+[
+  {
+    "word": "puzzle",
+    "meaning": "～を当惑させる",
+    "example": "The question puzzled me.",
+    "example_jp": "その質問は私を当惑させた。"
+  },
+  {
+    "word": "puzzle",
+    "meaning": "難問，パズル",
+    "example": "This puzzle is difficult.",
+    "example_jp": "このパズルは難しい。"
+  },
+  {
+    "word": "confuse",
+    "meaning": "～を混乱させる，困惑させる",
+    "example": "The instructions confused me.",
+    "example_jp": "その指示は私を混乱させた。"
+  },
+  {
+    "word": "confuse",
+    "meaning": "AをBと混同する",
+    "example": "Don’t confuse A with B.",
+    "example_jp": "AをBと混同してはいけない。"
+  },
+  {
+    "word": "bore",
+    "meaning": "～をうんざりさせる，退屈させる",
+    "example": "His speech bored everyone.",
+    "example_jp": "彼の演説は皆を退屈させた。"
+  },
+  {
+    "word": "frustrate",
+    "meaning": "～を欲求不満にさせる",
+    "example": "The delay frustrated her.",
+    "example_jp": "遅れが彼女を欲求不満にさせた。"
+  },
+  {
+    "word": "frustrate",
+    "meaning": "計画などを挫折させる",
+    "example": "The plan was frustrated.",
+    "example_jp": "その計画は挫折させられた。"
+  },
+  {
+    "word": "disappoint",
+    "meaning": "～を失望させる",
+    "example": "The result disappointed us.",
+    "example_jp": "その結果は私たちを失望させた。"
+  },
+  {
+    "word": "embarrass",
+    "meaning": "～に恥ずかしい思いをさせる，困惑させる",
+    "example": "His question embarrassed me.",
+    "example_jp": "彼の質問は私に恥ずかしい思いをさせた。"
+  },
+  {
+    "word": "ashamed",
+    "meaning": "恥ずかしい",
+    "example": "I felt ashamed of my mistake.",
+    "example_jp": "私は自分の間違いを恥ずかしいと感じた。"
+  },
+  {
+    "word": "uneasy",
+    "meaning": "不安な，胸騒ぎがする",
+    "example": "She felt uneasy about the test.",
+    "example_jp": "彼女はテストについて不安を感じていた。"
+  },
+  {
+    "word": "hesitate",
+    "meaning": "ためらう",
+    "example": "He hesitated to speak.",
+    "example_jp": "彼は話すのをためらった。"
+  },
+  {
+    "word": "reluctant",
+    "meaning": "気が進まない",
+    "example": "She was reluctant to go.",
+    "example_jp": "彼女は行くのが気が進まなかった。"
+  },
+  {
+    "word": "tremble",
+    "meaning": "震える",
+    "example": "His hands trembled.",
+    "example_jp": "彼の手は震えていた。"
+  },
+  {
+    "word": "boast",
+    "meaning": "自慢する",
+    "example": "He boasted about his success.",
+    "example_jp": "彼は自分の成功について自慢した。"
+  },
+  {
+    "word": "boast",
+    "meaning": "～を誇りにしている",
+    "example": "The city boasts a long history.",
+    "example_jp": "その都市は長い歴史を誇りにしている。"
+  },
+  {
+    "word": "jealous",
+    "meaning": "嫉妬した",
+    "example": "She is jealous of her sister.",
+    "example_jp": "彼女は姉に嫉妬している。"
+  },
+  {
+    "word": "envy",
+    "meaning": "～を羨ましく思う",
+    "example": "I envy his talent.",
+    "example_jp": "私は彼の才能を羨ましく思う。"
+  },
+  {
+    "word": "envy",
+    "meaning": "羨望",
+    "example": "His success caused envy.",
+    "example_jp": "彼の成功は羨望を引き起こした。"
+  },
+  {
+    "word": "yell",
+    "meaning": "叫ぶ，大声をあげる",
+    "example": "He yelled loudly.",
+    "example_jp": "彼は大声で叫んだ。"
+  },
+  {
+    "word": "yell",
+    "meaning": "叫び，わめき声",
+    "example": "I heard a loud yell.",
+    "example_jp": "私は大きな叫び声を聞いた。"
+  },
+  {
+    "word": "respect",
+    "meaning": "（人）を尊敬する",
+    "example": "We respect our teacher.",
+    "example_jp": "私たちは先生を尊敬している。"
+  },
+  {
+    "word": "respect",
+    "meaning": "（物）を尊重する",
+    "example": "Respect the rules.",
+    "example_jp": "規則を尊重しなさい。"
+  },
+  {
+    "word": "respect",
+    "meaning": "尊敬，尊重",
+    "example": "She has great respect for him.",
+    "example_jp": "彼女は彼に大きな尊敬の念を抱いている。"
+  },
+  {
+    "word": "respect",
+    "meaning": "点",
+    "example": "In this respect, I agree.",
+    "example_jp": "この点において、私は賛成だ。"
+  },
+  {
+    "word": "despair",
+    "meaning": "絶望",
+    "example": "He fell into despair.",
+    "example_jp": "彼は絶望に陥った。"
+  },
+  {
+    "word": "emotion",
+    "meaning": "感情",
+    "example": "She showed strong emotions.",
+    "example_jp": "彼女は強い感情を見せた。"
+  },
+  {
+    "word": "sympathy",
+    "meaning": "同情",
+    "example": "I felt sympathy for him.",
+    "example_jp": "私は彼に同情を感じた。"
+  },
+  {
+    "word": "sympathy",
+    "meaning": "共感",
+    "example": "She has sympathy with the idea.",
+    "example_jp": "彼女はその考えに共感している。"
+  },
+  {
+    "word": "shame",
+    "meaning": "残念なこと",
+    "example": "It’s a shame to miss it.",
+    "example_jp": "それを見逃すのは残念なことだ。"
+  },
+  {
+    "word": "shame",
+    "meaning": "恥",
+    "example": "He felt deep shame.",
+    "example_jp": "彼は深い恥を感じた。"
+  },
+  {
+    "word": "confidence",
+    "meaning": "自信",
+    "example": "She has confidence in herself.",
+    "example_jp": "彼女は自分自身に自信を持っている。"
+  },
+  {
+    "word": "confidence",
+    "meaning": "信頼",
+    "example": "I have confidence in you.",
+    "example_jp": "私はあなたを信頼している。"
+  },
+  {
+    "word": "courage",
+    "meaning": "勇気",
+    "example": "He showed great courage.",
+    "example_jp": "彼は大きな勇気を見せた。"
+  },
+  {
+    "word": "passion",
+    "meaning": "情熱",
+    "example": "She has a passion for music.",
+    "example_jp": "彼女は音楽への情熱を持っている。"
+  },
+  {
+    "word": "sorrow",
+    "meaning": "悲しみ",
+    "example": "He felt deep sorrow.",
+    "example_jp": "彼は深い悲しみを感じた。"
+  },
+  {
+    "word": "ignore",
+    "meaning": "無視する",
+    "example": "He ignored my advice.",
+    "example_jp": "彼は私の助言を無視した。"
+  },
+  {
+    "word": "offend",
+    "meaning": "怒らせる，気分を害する",
+    "example": "His words offended her.",
+    "example_jp": "彼の言葉は彼女を怒らせた。"
+  },
+  {
+    "word": "depress",
+    "meaning": "憂うつにさせる，落ち込ませる",
+    "example": "The news depressed him.",
+    "example_jp": "そのニュースは彼を落ち込ませた。"
+  },
+  {
+    "word": "owe",
+    "meaning": "AはBのおかげだ",
+    "example": "I owe my success to you.",
+    "example_jp": "私の成功はあなたのおかげだ。"
+  },
+  {
+    "word": "owe",
+    "meaning": "AをBに借りている",
+    "example": "I owe him money.",
+    "example_jp": "私は彼にお金を借りている。"
+  },
+  {
+    "word": "fear",
+    "meaning": "恐怖",
+    "example": "He felt fear.",
+    "example_jp": "彼は恐怖を感じた。"
+  },
+  {
+    "word": "fear",
+    "meaning": "～を恐れる",
+    "example": "She fears spiders.",
+    "example_jp": "彼女はクモを恐れている。"
+  },
+  {
+    "word": "fear",
+    "meaning": "～を心配する",
+    "example": "I fear the worst.",
+    "example_jp": "私は最悪の事態を心配している。"
+  },
+  {
+    "word": "method",
+    "meaning": "方法",
+    "example": "This is an effective method.",
+    "example_jp": "これは効果的な方法だ。"
+  },
+  {
+    "word": "medium",
+    "meaning": "手段，媒体，メディア",
+    "example": "TV is a popular medium.",
+    "example_jp": "テレビは人気のあるメディアだ。"
+  },
+  {
+    "word": "medium",
+    "meaning": "中間の",
+    "example": "Choose a medium size.",
+    "example_jp": "中間のサイズを選びなさい。"
+  },
+  {
+    "word": "means",
+    "meaning": "手段",
+    "example": "We need new means of transport.",
+    "example_jp": "私たちは新しい輸送手段を必要としている。"
+  },
+  {
+    "word": "means",
+    "meaning": "財産，収入",
+    "example": "He has the means to buy it.",
+    "example_jp": "彼にはそれを買うための財産がある。"
+  },
+  {
+    "word": "extent",
+    "meaning": "程度",
+    "example": "To some extent, I agree.",
+    "example_jp": "ある程度まで、私は賛成だ。"
+  },
+  {
+    "word": "extremely",
+    "meaning": "極度に，非常に",
+    "example": "The test was extremely hard.",
+    "example_jp": "そのテストは非常に難しかった。"
+  },
+  {
+    "word": "total",
+    "meaning": "全体の",
+    "example": "The total cost is high.",
+    "example_jp": "全体の費用が高い。"
+  },
+  {
+    "word": "total",
+    "meaning": "まったくの",
+    "example": "It was a total failure.",
+    "example_jp": "それはまったくの失敗だった。"
+  },
+  {
+    "word": "total",
+    "meaning": "合計",
+    "example": "The total is 50.",
+    "example_jp": "合計は50だ。"
+  },
+  {
+    "word": "largely",
+    "meaning": "大部分は",
+    "example": "The plan was largely successful.",
+    "example_jp": "その計画は大部分は成功した。"
+  },
+  {
+    "word": "largely",
+    "meaning": "主に",
+    "example": "The show is largely for kids.",
+    "example_jp": "そのショーは主に子供向けだ。"
+  },
+  {
+    "word": "moderate",
+    "meaning": "適度な，節度のある",
+    "example": "He takes a moderate amount.",
+    "example_jp": "彼は適度な量を摂取する。"
+  },
+  {
+    "word": "somewhat",
+    "meaning": "いくぶん",
+    "example": "I’m somewhat tired.",
+    "example_jp": "私はいくぶん疲れている。"
+  },
+  {
+    "word": "subtle",
+    "meaning": "かすかな",
+    "example": "There is a subtle difference.",
+    "example_jp": "そこにはかすかな違いがある。"
+  },
+  {
+    "word": "possibly",
+    "meaning": "ひょっとすると",
+    "example": "He will possibly come.",
+    "example_jp": "彼はひょっとすると来るだろう。"
+  },
+  {
+    "word": "possibly",
+    "meaning": "どうしても～できない",
+    "example": "I cannot possibly do that.",
+    "example_jp": "私はどうしてもそれができない。"
+  },
+  {
+    "word": "eventually",
+    "meaning": "最終的に，ついに",
+    "example": "He eventually succeeded.",
+    "example_jp": "彼は最終的に成功した。"
+  },
+  {
+    "word": "necessarily",
+    "meaning": "必ずしも～ない",
+    "example": "It’s not necessarily true.",
+    "example_jp": "それは必ずしも真実ではない。"
+  },
+  {
+    "word": "frankly",
+    "meaning": "率直に",
+    "example": "Frankly, I don’t agree.",
+    "example_jp": "率直に言って、私は賛成しない。"
+  },
+  {
+    "word": "ironically",
+    "meaning": "皮肉なことに",
+    "example": "Ironically, he won by luck.",
+    "example_jp": "皮肉なことに、彼は運で勝った。"
+  },
+  {
+    "word": "moreover",
+    "meaning": "その上",
+    "example": "She is smart; moreover, she is kind.",
+    "example_jp": "彼女は賢く、その上、親切だ。"
+  },
+  {
+    "word": "otherwise",
+    "meaning": "さもなければ",
+    "example": "Hurry up; otherwise, you’ll be late.",
+    "example_jp": "急ぎなさい。さもなければ遅刻する。"
+  },
+  {
+    "word": "otherwise",
+    "meaning": "ほかの点では",
+    "example": "The plan is good; otherwise, no issues.",
+    "example_jp": "その計画は良い。ほかの点では問題はない。"
+  },
+  {
+    "word": "otherwise",
+    "meaning": "ほかの方法で",
+    "example": "Try it otherwise.",
+    "example_jp": "それをほかの方法で試してみなさい。"
+  },
+  {
+    "word": "regardless",
+    "meaning": "～とは無関係に",
+    "example": "He continued regardless of the rain.",
+    "example_jp": "彼は雨とは無関係に続けた。"
+  },
+  {
+    "word": "worth",
+    "meaning": "～の価値がある",
+    "example": "This book is worth reading.",
+    "example_jp": "この本は読む価値がある。"
+  },
+  {
+    "word": "worth",
+    "meaning": "～する価値がある",
+    "example": "It’s worth doing.",
+    "example_jp": "それはする価値がある。"
+  },
+  {
+    "word": "worth",
+    "meaning": "価値，相当",
+    "example": "The painting has great worth.",
+    "example_jp": "その絵画には大きな価値がある。"
+  },
+  {
+    "word": "according to",
+    "meaning": "～によれば",
+    "example": "According to the report, it’s true.",
+    "example_jp": "報告によれば、それは真実だ。"
+  },
+  {
+    "word": "according to",
+    "meaning": "～に応じて",
+    "example": "Pay according to your ability.",
+    "example_jp": "能力に応じて支払いなさい。"
+  },
+  {
+    "word": "despite",
+    "meaning": "～にもかかわらず",
+    "example": "Despite the rain, we went out.",
+    "example_jp": "雨にもかかわらず、私たちは外出した。"
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "word": "revise",
+    "meaning": "修正する，改正する",
+    "example": "They revised the plan.",
+    "example_jp": "彼らはその計画を修正した。"
+  },
+  {
+    "word": "enhance",
+    "meaning": "向上させる",
+    "example": "The new design enhanced performance.",
+    "example_jp": "新しいデザインが性能を向上させた。"
+  },
+  {
+    "word": "lower",
+    "meaning": "下げる",
+    "example": "They lowered the price.",
+    "example_jp": "彼らは価格を下げた。"
+  },
+  {
+    "word": "voyage",
+    "meaning": "航海，船旅",
+    "example": "The voyage took two months.",
+    "example_jp": "その航海（船旅）には2ヶ月かかった。"
+  },
+  {
+    "word": "confirm",
+    "meaning": "確認する",
+    "example": "She confirmed the date.",
+    "example_jp": "彼女は日付を確認した。"
+  },
+  {
+    "word": "confirm",
+    "meaning": "裏付ける",
+    "example": "The data confirmed the theory.",
+    "example_jp": "そのデータが理論を裏付けた。"
+  },
+  {
+    "word": "ensure",
+    "meaning": "確実にする",
+    "example": "This will ensure safety.",
+    "example_jp": "これが安全を確実にするだろう。"
+  },
+  {
+    "word": "address",
+    "meaning": "取り組む",
+    "example": "We must address the problem.",
+    "example_jp": "私たちはその問題に取り組まなければならない。"
+  },
+  {
+    "word": "address",
+    "meaning": "呼びかける",
+    "example": "He addressed the crowd.",
+    "example_jp": "彼は群衆に呼びかけた。"
+  },
+  {
+    "word": "address",
+    "meaning": "演説",
+    "example": "He gave a short address.",
+    "example_jp": "彼は短い演説を行った。"
+  },
+  {
+    "word": "address",
+    "meaning": "住所",
+    "example": "Write your address here.",
+    "example_jp": "ここに住所を書いてください。"
+  },
+  {
+    "word": "approach",
+    "meaning": "取り組み方，接近",
+    "example": "This is a new approach to learning.",
+    "example_jp": "これは学習に対する新しい取り組み方（アプローチ）だ。"
+  },
+  {
+    "word": "approach",
+    "meaning": "取り組む，接近する",
+    "example": "They approached the issue carefully.",
+    "example_jp": "彼らは慎重にその問題に取り組んだ。"
+  },
+  {
+    "word": "resolve",
+    "meaning": "解決する",
+    "example": "They resolved the conflict.",
+    "example_jp": "彼らは紛争を解決した。"
+  },
+  {
+    "word": "resolve",
+    "meaning": "決心する",
+    "example": "She resolved to try again.",
+    "example_jp": "彼女はもう一度やってみようと決心した。"
+  },
+  {
+    "word": "settle",
+    "meaning": "解決する",
+    "example": "They settled the dispute.",
+    "example_jp": "彼らは紛争を解決した。"
+  },
+  {
+    "word": "settle",
+    "meaning": "置く，据える",
+    "example": "He settled the box on the shelf.",
+    "example_jp": "彼は棚に箱を置いた（据えた）。"
+  },
+  {
+    "word": "settle",
+    "meaning": "定住する",
+    "example": "They settled in Canada.",
+    "example_jp": "彼らはカナダに定住した。"
+  },
+  {
+    "word": "settle",
+    "meaning": "決める",
+    "example": "They settled on a plan.",
+    "example_jp": "彼らは計画を決めた。"
+  },
+  {
+    "word": "enrich",
+    "meaning": "豊かにする",
+    "example": "Travel enriches your life.",
+    "example_jp": "旅行は人生を豊かにする。"
+  },
+  {
+    "word": "warn",
+    "meaning": "警告する",
+    "example": "They warned him of the danger.",
+    "example_jp": "彼らは彼に危険を警告した。"
+  },
+  {
+    "word": "warn",
+    "meaning": "警告する",
+    "example": "She warned against smoking.",
+    "example_jp": "彼女は喫煙に対して警告した。"
+  },
+  {
+    "word": "force",
+    "meaning": "強いる",
+    "example": "They forced him to leave.",
+    "example_jp": "彼らは彼に立ち去ることを強いた。"
+  },
+  {
+    "word": "force",
+    "meaning": "力，武力",
+    "example": "They used force to enter.",
+    "example_jp": "彼らは入るために力（武力）を使った。"
+  },
+  {
+    "word": "appeal",
+    "meaning": "訴える",
+    "example": "The ad appeals to young people.",
+    "example_jp": "その広告は若者に訴えている。"
+  },
+  {
+    "word": "appeal",
+    "meaning": "魅力，人気",
+    "example": "The product has great appeal.",
+    "example_jp": "その製品には大きな魅力（人気）がある。"
+  },
+  {
+    "word": "appeal",
+    "meaning": "訴え",
+    "example": "They made an appeal for help.",
+    "example_jp": "彼らは助けを求める訴えを起こした。"
+  },
+  {
+    "word": "applause",
+    "meaning": "拍手",
+    "example": "The audience gave loud applause.",
+    "example_jp": "観客は大きな拍手を送った。"
+  },
+  {
+    "word": "leap",
+    "meaning": "跳ぶ",
+    "example": "The cat leaped over the fence.",
+    "example_jp": "その猫はフェンスを飛び越えた（跳んだ）。"
+  },
+  {
+    "word": "leap",
+    "meaning": "躍進，急増",
+    "example": "The company made a big leap in sales.",
+    "example_jp": "その会社は売上で大きな躍進（急増）を遂げた。"
+  },
+  {
+    "word": "grab",
+    "meaning": "つかむ",
+    "example": "He grabbed my arm.",
+    "example_jp": "彼は私の腕をつかんだ。"
+  },
+  {
+    "word": "grab",
+    "meaning": "急いで食事をとる",
+    "example": "I grabbed a quick lunch.",
+    "example_jp": "私は急いで昼食をとった。"
+  },
+  {
+    "word": "seize",
+    "meaning": "つかむ",
+    "example": "She seized his hand.",
+    "example_jp": "彼女は彼の手をつかんだ。"
+  },
+  {
+    "word": "seize",
+    "meaning": "押収する，捕らえる",
+    "example": "The police seized the drugs.",
+    "example_jp": "警察は麻薬を押収した。"
+  },
+  {
+    "word": "cast",
+    "meaning": "投げる",
+    "example": "He cast the ball far.",
+    "example_jp": "彼はボールを遠くに投げた。"
+  },
+  {
+    "word": "cast",
+    "meaning": "光を投げかける",
+    "example": "The lamp cast a warm light.",
+    "example_jp": "ランプが温かい光を投げかけていた。"
+  },
+  {
+    "word": "cast",
+    "meaning": "役を与える",
+    "example": "They cast him in the lead role.",
+    "example_jp": "彼らは彼に主役（役）を与えた。"
+  },
+  {
+    "word": "stun",
+    "meaning": "気絶させる",
+    "example": "The blow stunned him.",
+    "example_jp": "その一撃が彼を気絶させた。"
+  },
+  {
+    "word": "stun",
+    "meaning": "ぼう然とさせる",
+    "example": "The news stunned everyone.",
+    "example_jp": "そのニュースは皆をぼう然とさせた。"
+  },
+  {
+    "word": "illuminate",
+    "meaning": "照らす",
+    "example": "The lights illuminated the room.",
+    "example_jp": "明かりが部屋を照らした。"
+  },
+  {
+    "word": "illuminate",
+    "meaning": "解明する",
+    "example": "The report illuminated the issue.",
+    "example_jp": "その報告書が問題を解明した。"
+  },
+  {
+    "word": "uncover",
+    "meaning": "明らかにする，暴く",
+    "example": "They uncovered the truth.",
+    "example_jp": "彼らは真実を明らかにした（暴いた）。"
+  },
+  {
+    "word": "mend",
+    "meaning": "修繕する",
+    "example": "She mended the broken chair.",
+    "example_jp": "彼女は壊れた椅子を修繕した。"
+  },
+  {
+    "word": "react",
+    "meaning": "反応する",
+    "example": "He reacted to the news calmly.",
+    "example_jp": "彼はそのニュースに冷静に反応した。"
+  },
+  {
+    "word": "endure",
+    "meaning": "耐える",
+    "example": "They endured years of hardship.",
+    "example_jp": "彼らは何年もの苦難に耐えた。"
+  },
+  {
+    "word": "bind",
+    "meaning": "結びつける，縛る",
+    "example": "The rope bound his hands.",
+    "example_jp": "ロープが彼の手を縛った。"
+  },
+  {
+    "word": "encounter",
+    "meaning": "偶然出会う",
+    "example": "I encountered an old friend.",
+    "example_jp": "私は旧友に偶然出会った。"
+  },
+  {
+    "word": "encounter",
+    "meaning": "遭う",
+    "example": "They encountered strong opposition.",
+    "example_jp": "彼らは強い反対に遭った。"
+  },
+  {
+    "word": "encounter",
+    "meaning": "出会い",
+    "example": "It was a strange encounter.",
+    "example_jp": "それは奇妙な出会いだった。"
+  },
+  {
+    "word": "trace",
+    "meaning": "捜し出す",
+    "example": "They traced the missing child.",
+    "example_jp": "彼らは行方不明の子供を捜し出した。"
+  },
+  {
+    "word": "trace",
+    "meaning": "追跡調査をする",
+    "example": "The police traced the call.",
+    "example_jp": "警察はその電話の追跡調査をした。"
+  },
+  {
+    "word": "trace",
+    "meaning": "跡",
+    "example": "There was a trace of smoke.",
+    "example_jp": "煙の跡があった。"
+  },
+  {
+    "word": "undergo",
+    "meaning": "経験する",
+    "example": "He underwent surgery.",
+    "example_jp": "彼は手術を経験した。"
+  },
+  {
+    "word": "seal",
+    "meaning": "密封する",
+    "example": "She sealed the envelope.",
+    "example_jp": "彼女は封筒を密封した。"
+  },
+  {
+    "word": "seal",
+    "meaning": "印鑑，ハンコ",
+    "example": "He used his personal seal.",
+    "example_jp": "彼は自分の個人用の印鑑（ハンコ）を使った。"
+  },
+  {
+    "word": "incorporate",
+    "meaning": "取り入れる",
+    "example": "They incorporated new ideas.",
+    "example_jp": "彼らは新しい考えを取り入れた。"
+  },
+  {
+    "word": "emerge",
+    "meaning": "現れる",
+    "example": "A new leader emerged.",
+    "example_jp": "新しいリーダーが現れた。"
+  },
+  {
+    "word": "emerge",
+    "meaning": "台頭する",
+    "example": "The country emerged as a power.",
+    "example_jp": "その国は強国として台頭した。"
+  },
+  {
+    "word": "unfold",
+    "meaning": "展開する",
+    "example": "The story slowly unfolded.",
+    "example_jp": "物語はゆっくりと展開した。"
+  },
+  {
+    "word": "unfold",
+    "meaning": "広げる",
+    "example": "She unfolded the map.",
+    "example_jp": "彼女は地図を広げた。"
+  },
+  {
+    "word": "derive",
+    "meaning": "由来する",
+    "example": "The word derives from Latin.",
+    "example_jp": "その言葉はラテン語に由来する。"
+  },
+  {
+    "word": "derive",
+    "meaning": "引き出す，得る",
+    "example": "He derived joy from music.",
+    "example_jp": "彼は音楽から喜びを得た（引き出した）。"
+  },
+  {
+    "word": "generate",
+    "meaning": "生み出す",
+    "example": "The plant generates electricity.",
+    "example_jp": "その発電所は電気を生み出している。"
+  },
+  {
+    "word": "possess",
+    "meaning": "所有している",
+    "example": "He possesses great talent.",
+    "example_jp": "彼は素晴らしい才能を所有している。"
+  },
+  {
+    "word": "retain",
+    "meaning": "保持する",
+    "example": "The wall retains heat.",
+    "example_jp": "その壁は熱を保持する。"
+  },
+  {
+    "word": "secure",
+    "meaning": "確保する",
+    "example": "They secured the contract.",
+    "example_jp": "彼らは契約を確保した。"
+  },
+  {
+    "word": "secure",
+    "meaning": "安全で，守られて",
+    "example": "The area is secure.",
+    "example_jp": "その区域は安全だ（守られている）。"
+  },
+  {
+    "word": "capture",
+    "meaning": "捕らえる",
+    "example": "They captured the thief.",
+    "example_jp": "彼らは泥棒を捕らえた。"
+  },
+  {
+    "word": "capture",
+    "meaning": "捕獲，攻略",
+    "example": "The capture was reported.",
+    "example_jp": "その捕獲（攻略）が報告された。"
+  },
+  {
+    "word": "monitor",
+    "meaning": "監視する",
+    "example": "They monitored the system.",
+    "example_jp": "彼らはシステムを監視した。"
+  },
+  {
+    "word": "monitor",
+    "meaning": "画面",
+    "example": "The monitor is broken.",
+    "example_jp": "画面（モニター）が壊れている。"
+  },
+  {
+    "word": "investigate",
+    "meaning": "調査する",
+    "example": "The team investigated the cause.",
+    "example_jp": "チームは原因を調査した。"
+  },
+  {
+    "word": "investigate",
+    "meaning": "捜査する",
+    "example": "The police investigated the case.",
+    "example_jp": "警察はその事件を捜査した。"
+  },
+  {
+    "word": "detect",
+    "meaning": "探知する，発見する，見抜く",
+    "example": "The machine detected a problem.",
+    "example_jp": "機械が問題を探知した（発見した）。"
+  },
+  {
+    "word": "inquiry",
+    "meaning": "調査",
+    "example": "They began an inquiry into the matter.",
+    "example_jp": "彼らはその件の調査を始めた。"
+  },
+  {
+    "word": "inquiry",
+    "meaning": "質問，問い合わせ",
+    "example": "I made an inquiry about the price.",
+    "example_jp": "私は価格について問い合わせをした。"
+  },
+  {
+    "word": "specialize",
+    "meaning": "専攻する，専門にする",
+    "example": "He specializes in biology.",
+    "example_jp": "彼は生物学を専門にしている（専攻している）。"
+  },
+  {
+    "word": "semester",
+    "meaning": "学期",
+    "example": "The new semester starts in April.",
+    "example_jp": "新学期は4月に始まる。"
+  },
+  {
+    "word": "biology",
+    "meaning": "生物学",
+    "example": "She studies biology.",
+    "example_jp": "彼女は生物学を研究している。"
+  },
+  {
+    "word": "ecology",
+    "meaning": "生態（学）",
+    "example": "He is interested in ecology.",
+    "example_jp": "彼は生態（学）に興味がある。"
+  },
+  {
+    "word": "philosophy",
+    "meaning": "哲学",
+    "example": "She teaches philosophy.",
+    "example_jp": "彼女は哲学を教えている。"
+  },
+  {
+    "word": "philosophy",
+    "meaning": "人生哲学，考え方",
+    "example": "His philosophy is simple.",
+    "example_jp": "彼の考え方（人生哲学）は単純だ。"
+  },
+  {
+    "word": "geography",
+    "meaning": "地理（学）",
+    "example": "He studies geography.",
+    "example_jp": "彼は地理（学）を研究している。"
+  },
+  {
+    "word": "institution",
+    "meaning": "機関",
+    "example": "He works at a medical institution.",
+    "example_jp": "彼は医療機関で働いている。"
+  },
+  {
+    "word": "institution",
+    "meaning": "制度",
+    "example": "Marriage is a social institution.",
+    "example_jp": "結婚は社会制度だ。"
+  }
+]

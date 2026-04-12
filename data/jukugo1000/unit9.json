@@ -1,0 +1,494 @@
+[
+  {
+    "word": "take to",
+    "meaning": "（習慣的に）～を始める、～にふける",
+    "example": "He took to reading at night.",
+    "example_jp": "彼は夜に読書をすることを始めた。"
+  },
+  {
+    "word": "take up",
+    "meaning": "（場所・時間）を取る",
+    "example": "The desk takes up too much space.",
+    "example_jp": "その机はあまりに多くの場所を取る。"
+  },
+  {
+    "word": "take up",
+    "meaning": "（仕事・趣味など）を始める",
+    "example": "She took up tennis.",
+    "example_jp": "彼女はテニスを始めた。"
+  },
+  {
+    "word": "turn down",
+    "meaning": "～を却下する、拒絶する",
+    "example": "She turned down the offer.",
+    "example_jp": "彼女はその申し出を拒絶した。"
+  },
+  {
+    "word": "turn down",
+    "meaning": "（音量・火力など）を小さくする",
+    "example": "He turned down the heat.",
+    "example_jp": "彼は火力を小さくした。"
+  },
+  {
+    "word": "turn in",
+    "meaning": "～を提出する",
+    "example": "Please turn in your homework.",
+    "example_jp": "宿題を提出してください。"
+  },
+  {
+    "word": "turn in",
+    "meaning": "～を引き渡す、返却する",
+    "example": "He turned in the lost bag.",
+    "example_jp": "彼はその忘れ物のバッグを返却した。"
+  },
+  {
+    "word": "make for",
+    "meaning": "～のほうへ進む",
+    "example": "They made for the exit.",
+    "example_jp": "彼らは出口のほうへ進んだ。"
+  },
+  {
+    "word": "make for",
+    "meaning": "～に寄与する、役立つ",
+    "example": "Fresh air makes for good health.",
+    "example_jp": "新鮮な空気は健康に役立つ。"
+  },
+  {
+    "word": "make out",
+    "meaning": "～を理解する",
+    "example": "I can’t make out his voice.",
+    "example_jp": "私は彼の声が理解できない。"
+  },
+  {
+    "word": "make out",
+    "meaning": "～を見分ける",
+    "example": "I can’t make out the sign.",
+    "example_jp": "私はその看板を見分けることができない。"
+  },
+  {
+    "word": "make out",
+    "meaning": "（書類など）を作成する",
+    "example": "He made out a check.",
+    "example_jp": "彼は小切手を作成した。"
+  },
+  {
+    "word": "meet with",
+    "meaning": "～を受ける、経験する",
+    "example": "The plan met with success.",
+    "example_jp": "その計画は成功した。"
+  },
+  {
+    "word": "meet with",
+    "meaning": "～と会う",
+    "example": "I met with my teacher.",
+    "example_jp": "私は先生と会った。"
+  },
+  {
+    "word": "provide for",
+    "meaning": "～を扶養する",
+    "example": "He provides for his family.",
+    "example_jp": "彼は家族を扶養している。"
+  },
+  {
+    "word": "provide for",
+    "meaning": "～に備える、規定する",
+    "example": "We must provide for the future.",
+    "example_jp": "私たちは将来に備えなければならない。"
+  },
+  {
+    "word": "put down",
+    "meaning": "～を置く",
+    "example": "He put down the box.",
+    "example_jp": "彼は箱を置いた。"
+  },
+  {
+    "word": "put down",
+    "meaning": "～を鎮める、抑える",
+    "example": "The police put down the riot.",
+    "example_jp": "警察はその暴動を鎮めた。"
+  },
+  {
+    "word": "run over",
+    "meaning": "～をひく",
+    "example": "The car ran over a cone.",
+    "example_jp": "車がコーンをひいた。"
+  },
+  {
+    "word": "run over",
+    "meaning": "（～から）あふれる",
+    "example": "The water ran over the edge.",
+    "example_jp": "水が縁からあふれた。"
+  },
+  {
+    "word": "set out",
+    "meaning": "出発する",
+    "example": "They set out early.",
+    "example_jp": "彼らは早く出発した。"
+  },
+  {
+    "word": "set out",
+    "meaning": "～し始める",
+    "example": "She set out to study English.",
+    "example_jp": "彼女は英語の勉強をし始めた。"
+  },
+  {
+    "word": "set out",
+    "meaning": "～を並べる、設計する",
+    "example": "He set out the tools.",
+    "example_jp": "彼は道具を並べた。"
+  },
+  {
+    "word": "be due to do",
+    "meaning": "～のためである",
+    "example": "His success is due to luck.",
+    "example_jp": "彼の成功は幸運のためである。"
+  },
+  {
+    "word": "be due to do",
+    "meaning": "～する予定である",
+    "example": "The bus is due to leave soon.",
+    "example_jp": "バスはすぐに出発する予定である。"
+  },
+  {
+    "word": "up to",
+    "meaning": "～まで",
+    "example": "The water came up to my knees.",
+    "example_jp": "水が私の膝まで来た。"
+  },
+  {
+    "word": "up to",
+    "meaning": "～次第である、責任である",
+    "example": "It’s up to you.",
+    "example_jp": "それはあなた次第である。"
+  },
+  {
+    "word": "up to",
+    "meaning": "（悪いこと）をしようとしている",
+    "example": "The kids are up to something.",
+    "example_jp": "子供たちは何か（悪いこと）をしようとしている。"
+  },
+  {
+    "word": "at large",
+    "meaning": "一般の、全体としての",
+    "example": "The public at large supports it.",
+    "example_jp": "一般の大衆がそれを支持している。"
+  },
+  {
+    "word": "at large",
+    "meaning": "逃走中で",
+    "example": "The suspect is still at large.",
+    "example_jp": "容疑者はまだ逃走中である。"
+  },
+  {
+    "word": "in effect",
+    "meaning": "事実上、実際は",
+    "example": "His words are in effect a warning.",
+    "example_jp": "彼の言葉は事実上、警告である。"
+  },
+  {
+    "word": "in effect",
+    "meaning": "実施されて",
+    "example": "The rule is now in effect.",
+    "example_jp": "その規則は現在、実施されている。"
+  },
+  {
+    "word": "all but",
+    "meaning": "ほとんど～",
+    "example": "He is all but dead.",
+    "example_jp": "彼はほとんど死んでいる。"
+  },
+  {
+    "word": "all but",
+    "meaning": "～以外すべて",
+    "example": "All but one agreed.",
+    "example_jp": "一人以外すべてが同意した。"
+  },
+  {
+    "word": "at length",
+    "meaning": "詳細に、長々と",
+    "example": "He spoke at length.",
+    "example_jp": "彼は長々と話した。"
+  },
+  {
+    "word": "at length",
+    "meaning": "とうとう、ついに",
+    "example": "She arrived at length.",
+    "example_jp": "彼女はついに到着した。"
+  },
+  {
+    "word": "next to",
+    "meaning": "～の次に、そばに",
+    "example": "I sat next to her.",
+    "example_jp": "私は彼女のそばに座った。"
+  },
+  {
+    "word": "next to",
+    "meaning": "ほとんど～",
+    "example": "It’s next to impossible.",
+    "example_jp": "それはほとんど不可能である。"
+  },
+  {
+    "word": "on end",
+    "meaning": "連続して",
+    "example": "He worked for hours on end.",
+    "example_jp": "彼は何時間も連続して働いた。"
+  },
+  {
+    "word": "on end",
+    "meaning": "直立して",
+    "example": "The stick stood on end.",
+    "example_jp": "棒が直立して立っていた。"
+  },
+  {
+    "word": "by way of",
+    "meaning": "～経由で",
+    "example": "We went by way of Osaka.",
+    "example_jp": "私たちは大阪経由で行った。"
+  },
+  {
+    "word": "by way of",
+    "meaning": "～として、～のつもりで",
+    "example": "He said it by way of apology.",
+    "example_jp": "彼は謝罪のつもりでそれを言った。"
+  },
+  {
+    "word": "add to",
+    "meaning": "～を増やす",
+    "example": "The news added to my worry.",
+    "example_jp": "そのニュースは私の心配を増やした。"
+  },
+  {
+    "word": "adapt to",
+    "meaning": "～に順応する",
+    "example": "She adapted to the new job.",
+    "example_jp": "彼女は新しい仕事に順応した。"
+  },
+  {
+    "word": "object to",
+    "meaning": "～に反対する",
+    "example": "I object to the plan.",
+    "example_jp": "私はその計画に反対する。"
+  },
+  {
+    "word": "admit to",
+    "meaning": "～を認める",
+    "example": "He admitted to the lie.",
+    "example_jp": "彼は嘘を認めた。"
+  },
+  {
+    "word": "conform to",
+    "meaning": "～に従う、一致する",
+    "example": "You must conform to the rules.",
+    "example_jp": "あなたは規則に従わなければならない。"
+  },
+  {
+    "word": "conform with",
+    "meaning": "～に一致する",
+    "example": "The data conforms with the report.",
+    "example_jp": "データは報告書に一致する。"
+  },
+  {
+    "word": "resort to",
+    "meaning": "～に訴える",
+    "example": "He resorted to violence.",
+    "example_jp": "彼は暴力に訴えた。"
+  },
+  {
+    "word": "keep to",
+    "meaning": "～に沿って進む",
+    "example": "Keep to the path.",
+    "example_jp": "小道に沿って進みなさい。"
+  },
+  {
+    "word": "keep to",
+    "meaning": "～に従う",
+    "example": "I kept to my promise.",
+    "example_jp": "私は自分の約束に従った。"
+  },
+  {
+    "word": "get to",
+    "meaning": "～に到着する",
+    "example": "We got to the hotel.",
+    "example_jp": "私たちはホテルに到着した。"
+  },
+  {
+    "word": "get to",
+    "meaning": "～できるようになる",
+    "example": "You will get to know her.",
+    "example_jp": "あなたは彼女を知ることができるようになるだろう。"
+  },
+  {
+    "word": "adhere to",
+    "meaning": "～に忠実に従う、くっつく",
+    "example": "They adhere to the law.",
+    "example_jp": "彼らは法律に忠実に従っている。"
+  },
+  {
+    "word": "reflect on",
+    "meaning": "～を熟考する、反省する",
+    "example": "He reflected on his actions.",
+    "example_jp": "彼は自分の行動を反省した。"
+  },
+  {
+    "word": "reflect upon",
+    "meaning": "～を熟考する",
+    "example": "She reflected upon her life.",
+    "example_jp": "彼女は自分の人生について熟考した。"
+  },
+  {
+    "word": "decide on",
+    "meaning": "～に決める",
+    "example": "I decided on the red one.",
+    "example_jp": "私は赤いほうに決めた。"
+  },
+  {
+    "word": "decide upon",
+    "meaning": "～に決める",
+    "example": "They decided upon a new plan.",
+    "example_jp": "彼らは新しい計画に決めた。"
+  },
+  {
+    "word": "fall on",
+    "meaning": "～に降りかかる",
+    "example": "The duty fell on me.",
+    "example_jp": "義務が私に降りかかった。"
+  },
+  {
+    "word": "fall upon",
+    "meaning": "～に当たる",
+    "example": "The holiday falls upon Monday.",
+    "example_jp": "休日は月曜日に当たる。"
+  },
+  {
+    "word": "feed on",
+    "meaning": "～を常食にする",
+    "example": "Birds feed on seeds.",
+    "example_jp": "鳥は種を常食にしている。"
+  },
+  {
+    "word": "run into",
+    "meaning": "～に偶然出会う",
+    "example": "I ran into an old friend.",
+    "example_jp": "私は旧友に偶然出会った。"
+  },
+  {
+    "word": "run into",
+    "meaning": "～にぶつかる",
+    "example": "The car ran into a tree.",
+    "example_jp": "車が木にぶつかった。"
+  },
+  {
+    "word": "break into",
+    "meaning": "～に侵入する",
+    "example": "Someone broke into the house.",
+    "example_jp": "誰かが家に侵入した。"
+  },
+  {
+    "word": "break into",
+    "meaning": "急に～しだす",
+    "example": "She broke into tears.",
+    "example_jp": "彼女は急に泣きだした。"
+  },
+  {
+    "word": "enter into",
+    "meaning": "～を取り結ぶ",
+    "example": "They entered into a contract.",
+    "example_jp": "彼らは契約を取り結んだ。"
+  },
+  {
+    "word": "burst into",
+    "meaning": "急に～しだす",
+    "example": "He burst into laughter.",
+    "example_jp": "彼は急に笑いだした。"
+  },
+  {
+    "word": "dispose of",
+    "meaning": "～を処分する",
+    "example": "He disposed of the trash.",
+    "example_jp": "彼はゴミを処分した。"
+  },
+  {
+    "word": "approve of",
+    "meaning": "～に賛成する",
+    "example": "I approve of your idea.",
+    "example_jp": "私はあなたの考えに賛成する。"
+  },
+  {
+    "word": "boast of",
+    "meaning": "～を自慢する",
+    "example": "He boasts of his skills.",
+    "example_jp": "彼は自分の技術を自慢している。"
+  },
+  {
+    "word": "boast about",
+    "meaning": "～を誇らしげに話す",
+    "example": "She boasts about her son.",
+    "example_jp": "彼女は息子のことを誇らしげに話している。"
+  },
+  {
+    "word": "become of",
+    "meaning": "～はどうなるか",
+    "example": "What became of him?",
+    "example_jp": "彼はどうなったのか。"
+  },
+  {
+    "word": "derive from",
+    "meaning": "～に由来する",
+    "example": "The word derives from Latin.",
+    "example_jp": "その単語はラテン語に由来する。"
+  },
+  {
+    "word": "aim at",
+    "meaning": "～を目指す、狙う",
+    "example": "We aim at success.",
+    "example_jp": "私たちは成功を目指している。"
+  },
+  {
+    "word": "interfere with",
+    "meaning": "～の邪魔をする",
+    "example": "Noise interferes with my sleep.",
+    "example_jp": "騒音が私の睡眠の邪魔をする。"
+  },
+  {
+    "word": "part with",
+    "meaning": "～を手放す",
+    "example": "He parted with his old bike.",
+    "example_jp": "彼は古い自転車を手放した。"
+  },
+  {
+    "word": "long for",
+    "meaning": "～を切望する",
+    "example": "She longs for peace.",
+    "example_jp": "彼女は平和を切望している。"
+  },
+  {
+    "word": "send for",
+    "meaning": "（人）を呼ぶ、（物）を取り寄せる",
+    "example": "I sent for a doctor.",
+    "example_jp": "私は医者を呼んだ。"
+  },
+  {
+    "word": "go about",
+    "meaning": "～に取りかかる",
+    "example": "He went about his work.",
+    "example_jp": "彼は仕事に取りかかった。"
+  },
+  {
+    "word": "run across",
+    "meaning": "～を偶然見つける",
+    "example": "I ran across an old photo.",
+    "example_jp": "私は古い写真を偶然見つけた。"
+  },
+  {
+    "word": "run across",
+    "meaning": "～を横切る",
+    "example": "The dog ran across the road.",
+    "example_jp": "犬が道を横切った。"
+  },
+  {
+    "word": "end up",
+    "meaning": "最後には～になる",
+    "example": "He ended up alone.",
+    "example_jp": "彼は最後には一人になった。"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "word": "monopoly",
+    "meaning": "The company had a monopoly.",
+    "example": "独占",
+    "example_jp": "その会社は独占していた。"
+  },
+  {
+    "word": "token",
+    "meaning": "He gave me a small token.",
+    "example": "印",
+    "example_jp": "彼は私に小さなしるしをくれた。"
+  },
+  {
+    "word": "aristocracy",
+    "meaning": "He was born into the aristocracy.",
+    "example": "貴族階級",
+    "example_jp": "彼は貴族階級に生まれた。"
+  },
+  {
+    "word": "revenge",
+    "meaning": "She swore revenge.",
+    "example": "復讐",
+    "example_jp": "彼女は復讐を誓った。"
+  },
+  {
+    "word": "activist",
+    "meaning": "She is a human-rights activist.",
+    "example": "活動家",
+    "example_jp": "彼女は人権活動家だ。"
+  },
+  {
+    "word": "rhetoric",
+    "meaning": "His speech was full of rhetoric.",
+    "example": "美辞麗句",
+    "example_jp": "彼の演説は美辞麗句に満ちていた。"
+  },
+  {
+    "word": "entrepreneur",
+    "meaning": "He became a successful entrepreneur.",
+    "example": "起業家",
+    "example_jp": "彼は成功した起業家になった。"
+  },
+  {
+    "word": "census",
+    "meaning": "They conducted a national census.",
+    "example": "国勢調査",
+    "example_jp": "彼らは国勢調査を実施した。"
+  },
+  {
+    "word": "verge",
+    "meaning": "He was on the verge of tears.",
+    "example": "瀬戸際",
+    "example_jp": "彼は涙が出そうだった。"
+  },
+  {
+    "word": "advent",
+    "meaning": "The advent of AI changed society.",
+    "example": "出現、到来",
+    "example_jp": "AIの到来が社会を変えた。"
+  },
+  {
+    "word": "analogy",
+    "meaning": "He used an analogy to explain it.",
+    "example": "類似点",
+    "example_jp": "彼は説明するために類推を用いた。"
+  },
+  {
+    "word": "irrigation",
+    "meaning": "The farm uses irrigation.",
+    "example": "灌漑",
+    "example_jp": "その農場は灌漑を利用している。"
+  },
+  {
+    "word": "coverage",
+    "meaning": "The news coverage was extensive.",
+    "example": "報道",
+    "example_jp": "そのニュースの報道は広範囲に及んだ。"
+  },
+  {
+    "word": "cuisine",
+    "meaning": "I love Italian cuisine.",
+    "example": "料理",
+    "example_jp": "私はイタリア料理が大好きだ。"
+  },
+  {
+    "word": "menace",
+    "meaning": "The storm was a menace.",
+    "example": "脅威",
+    "example_jp": "その嵐は脅威だった。"
+  },
+  {
+    "word": "peril",
+    "meaning": "They were in great peril.",
+    "example": "危険",
+    "example_jp": "彼らは大きな危険にさらされていた。"
+  },
+  {
+    "word": "limb",
+    "meaning": "He injured his limb.",
+    "example": "手足",
+    "example_jp": "彼は手足を負傷した。"
+  },
+  {
+    "word": "assault",
+    "meaning": "He was charged with assault.",
+    "example": "攻撃",
+    "example_jp": "彼は暴行の容疑で起訴された。"
+  },
+  {
+    "word": "hatred",
+    "meaning": "She felt deep hatred.",
+    "example": "憎しみ",
+    "example_jp": "彼女は深い憎しみを感じていた。"
+  },
+  {
+    "word": "autonomy",
+    "meaning": "The group values autonomy.",
+    "example": "自主性",
+    "example_jp": "そのグループは自主性を重んじている。"
+  },
+  {
+    "word": "cram",
+    "meaning": "He goes to a cram school.",
+    "example": "塾",
+    "example_jp": "彼は塾に通っている。"
+  },
+  {
+    "word": "subsidy",
+    "meaning": "The government gave a subsidy.",
+    "example": "補助金",
+    "example_jp": "政府は補助金を支給した。"
+  },
+  {
+    "word": "empathy",
+    "meaning": "She showed empathy.",
+    "example": "共感",
+    "example_jp": "彼女は共感を示した。"
+  },
+  {
+    "word": "slang",
+    "meaning": "He used a lot of slang.",
+    "example": "俗語",
+    "example_jp": "彼は多くの俗語を使った。"
+  },
+  {
+    "word": "posture",
+    "meaning": "Her posture is good.",
+    "example": "姿勢",
+    "example_jp": "彼女の姿勢は良い。"
+  },
+  {
+    "word": "Ideology",
+    "meaning": "They follow a strict ideology.",
+    "example": "イデオロギー",
+    "example_jp": "彼らは厳格なイデオロギーに従っている。"
+  },
+  {
+    "word": "curse",
+    "meaning": "The rumor became a curse.",
+    "example": "災いのもと",
+    "example_jp": "そのうわさは災いのもとになった。"
+  },
+  {
+    "word": "tumor",
+    "meaning": "The doctor found a tumor.",
+    "example": "腫瘍",
+    "example_jp": "医者は腫瘍を発見した。"
+  },
+  {
+    "word": "intersection",
+    "meaning": "They met at the intersection.",
+    "example": "交差点",
+    "example_jp": "彼らは交差点で会った。"
+  },
+  {
+    "word": "duration",
+    "meaning": "The duration was two hours.",
+    "example": "期間",
+    "example_jp": "期間は2時間だった。"
+  },
+  {
+    "word": "deforestation",
+    "meaning": "Deforestation is a global issue.",
+    "example": "森林破壊",
+    "example_jp": "森林破壊は世界的な問題だ。"
+  },
+  {
+    "word": "precaution",
+    "meaning": "Take precaution when driving.",
+    "example": "用心",
+    "example_jp": "運転する際は用心してください。"
+  },
+  {
+    "word": "bunch",
+    "meaning": "He bought a bunch of flowers.",
+    "example": "ひとたばの",
+    "example_jp": "彼は一束の花を買った。"
+  },
+  {
+    "word": "shortcoming",
+    "meaning": "This plan has a shortcoming.",
+    "example": "欠点",
+    "example_jp": "この計画には欠点がある。"
+  },
+  {
+    "word": "aspiration",
+    "meaning": "She has high aspirations.",
+    "example": "熱望",
+    "example_jp": "彼女は高い志を持っている。"
+  },
+  {
+    "word": "psychiatrist",
+    "meaning": "He spoke to a psychiatrist.",
+    "example": "精神科医",
+    "example_jp": "彼は精神科医と話した。"
+  },
+  {
+    "word": "shipping",
+    "meaning": "Shipping will take three days.",
+    "example": "発送",
+    "example_jp": "発送には3日かかる。"
+  },
+  {
+    "word": "senator",
+    "meaning": "He spoke with a senator.",
+    "example": "上院議員",
+    "example_jp": "彼は上院議員と話した。"
+  },
+  {
+    "word": "statesman",
+    "meaning": "He is respected as a statesman.",
+    "example": "政治家",
+    "example_jp": "彼は政治家として尊敬されている。"
+  },
+  {
+    "word": "subordinate",
+    "meaning": "He works with his subordinates.",
+    "example": "部下",
+    "example_jp": "彼は部下と一緒に働いている。"
+  },
+  {
+    "word": "vacuum",
+    "meaning": "There was a power vacuum.",
+    "example": "空白",
+    "example_jp": "権力の空白が生じていた。"
+  },
+  {
+    "word": "quest",
+    "meaning": "They began a quest for truth.",
+    "example": "探究",
+    "example_jp": "彼らは真実を探求する旅を始めた。"
+  },
+  {
+    "word": "meditation",
+    "meaning": "She practices meditation.",
+    "example": "瞑想",
+    "example_jp": "彼女は瞑想を実践している。"
+  },
+  {
+    "word": "subscriber",
+    "meaning": "The service has many subscribers.",
+    "example": "加入者",
+    "example_jp": "そのサービスには多くの加入者がいる。"
+  },
+  {
+    "word": "riddle",
+    "meaning": "He solved the riddle.",
+    "example": "謎",
+    "example_jp": "彼はその謎を解いた。"
+  },
+  {
+    "word": "rag",
+    "meaning": "He cleaned with a rag.",
+    "example": "ぼろ",
+    "example_jp": "彼はぼろきれで掃除した。"
+  },
+  {
+    "word": "rust",
+    "meaning": "The metal had rust.",
+    "example": "さび",
+    "example_jp": "その金属にはさびがあった。"
+  },
+  {
+    "word": "sanitation",
+    "meaning": "Sanitation is important.",
+    "example": "衛生",
+    "example_jp": "衛生は重要だ。"
+  },
+  {
+    "word": "midst",
+    "meaning": "He stood in the midst of the crowd.",
+    "example": "まっただ中",
+    "example_jp": "彼は群衆の真ん中に立っていた。"
+  },
+  {
+    "word": "mischief",
+    "meaning": "The kids got into mischief.",
+    "example": "いたずら",
+    "example_jp": "子どもたちはいたずらをした。"
+  }
+]

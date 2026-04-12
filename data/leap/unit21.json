@@ -1,0 +1,500 @@
+[
+  {
+    "word": "propose",
+    "meaning": "～を提案する",
+    "example": "He proposed a new idea.",
+    "example_jp": "彼は新しい考えを提案した。"
+  },
+  {
+    "word": "propose",
+    "meaning": "結婚を申し込む",
+    "example": "He proposed to her.",
+    "example_jp": "彼は彼女に結婚を申し込んだ。"
+  },
+  {
+    "word": "dismiss",
+    "meaning": "意見などを退ける",
+    "example": "They dismissed his opinion.",
+    "example_jp": "彼らは彼の意見を退けた。"
+  },
+  {
+    "word": "dismiss",
+    "meaning": "解雇する",
+    "example": "She was dismissed from her job.",
+    "example_jp": "彼女は仕事を解雇された。"
+  },
+  {
+    "word": "bless",
+    "meaning": "祝福する",
+    "example": "They blessed the couple.",
+    "example_jp": "彼らはそのカップルを祝福した。"
+  },
+  {
+    "word": "glory",
+    "meaning": "栄光",
+    "example": "He dreamed of glory.",
+    "example_jp": "彼は栄光を夢見た。"
+  },
+  {
+    "word": "compliment",
+    "meaning": "褒め言葉，賛辞",
+    "example": "She gave me a compliment.",
+    "example_jp": "彼女は私に褒め言葉をくれた。"
+  },
+  {
+    "word": "compliment",
+    "meaning": "～を褒める",
+    "example": "He complimented her dress.",
+    "example_jp": "彼は彼女のドレスを褒めた。"
+  },
+  {
+    "word": "feast",
+    "meaning": "宴会，祝宴",
+    "example": "They held a big feast.",
+    "example_jp": "彼らは大きな宴会を開いた。"
+  },
+  {
+    "word": "feast",
+    "meaning": "とても楽しいこと，喜ばせるもの",
+    "example": "The show was a feast for the eyes.",
+    "example_jp": "そのショーは目の保養（とても楽しいこと）だった。"
+  },
+  {
+    "word": "declare",
+    "meaning": "～を宣言する",
+    "example": "They declared independence.",
+    "example_jp": "彼らは独立を宣言した。"
+  },
+  {
+    "word": "declare",
+    "meaning": "申告する",
+    "example": "He declared the goods at customs.",
+    "example_jp": "彼は税関で商品を申告した。"
+  },
+  {
+    "word": "highlight",
+    "meaning": "～を強調する",
+    "example": "She highlighted the key points.",
+    "example_jp": "彼女は主要な点を強調した。"
+  },
+  {
+    "word": "highlight",
+    "meaning": "呼び物，目玉商品，ハイライト",
+    "example": "The concert was the highlight.",
+    "example_jp": "そのコンサートがハイライト（呼び物）だった。"
+  },
+  {
+    "word": "imply",
+    "meaning": "～をほのめかす，意味する",
+    "example": "His words implied a warning.",
+    "example_jp": "彼の言葉は警告をほのめかしていた。"
+  },
+  {
+    "word": "recite",
+    "meaning": "～を暗唱する",
+    "example": "She recited the poem.",
+    "example_jp": "彼女はその詩を暗唱した。"
+  },
+  {
+    "word": "ray",
+    "meaning": "光線",
+    "example": "A ray of light entered the room.",
+    "example_jp": "一筋の光線が部屋に入ってきた。"
+  },
+  {
+    "word": "ray",
+    "meaning": "放射線",
+    "example": "They measured radiation rays.",
+    "example_jp": "彼らは放射線を測定した。"
+  },
+  {
+    "word": "ray",
+    "meaning": "一縷の，わずかな",
+    "example": "A ray of hope remained.",
+    "example_jp": "一縷の希望が残っていた。"
+  },
+  {
+    "word": "radiation",
+    "meaning": "放射線",
+    "example": "The machine emits radiation.",
+    "example_jp": "その機械は放射線を放出する。"
+  },
+  {
+    "word": "laboratory",
+    "meaning": "研究室，研究所",
+    "example": "She works in a laboratory.",
+    "example_jp": "彼女は研究室で働いている。"
+  },
+  {
+    "word": "oxygen",
+    "meaning": "酸素",
+    "example": "Plants release oxygen.",
+    "example_jp": "植物は酸素を放出する。"
+  },
+  {
+    "word": "molecule",
+    "meaning": "分子",
+    "example": "Water is made of molecules.",
+    "example_jp": "水は分子でできている。"
+  },
+  {
+    "word": "compound",
+    "meaning": "化合物",
+    "example": "Salt is a chemical compound.",
+    "example_jp": "塩は化学化合物だ。"
+  },
+  {
+    "word": "compound",
+    "meaning": "複合的な",
+    "example": "They faced a compound problem.",
+    "example_jp": "彼らは複合的な問題に直面した。"
+  },
+  {
+    "word": "tissue",
+    "meaning": "組織",
+    "example": "Muscle tissue heals slowly.",
+    "example_jp": "筋肉組織はゆっくりと治る。"
+  },
+  {
+    "word": "tissue",
+    "meaning": "ティッシュペーパー",
+    "example": "I need a tissue.",
+    "example_jp": "ティッシュペーパーが必要だ。"
+  },
+  {
+    "word": "cell",
+    "meaning": "細胞",
+    "example": "The human body has many cells.",
+    "example_jp": "人間の体には多くの細胞がある。"
+  },
+  {
+    "word": "cell",
+    "meaning": "電池",
+    "example": "The battery cell is dead.",
+    "example_jp": "電池が切れている。"
+  },
+  {
+    "word": "cell",
+    "meaning": "独房",
+    "example": "He was kept in a small cell.",
+    "example_jp": "彼は小さな独房に入れられていた。"
+  },
+  {
+    "word": "gene",
+    "meaning": "遺伝子",
+    "example": "They studied the gene.",
+    "example_jp": "彼らはその遺伝子を研究した。"
+  },
+  {
+    "word": "substance",
+    "meaning": "物質",
+    "example": "The bottle contains a strange substance.",
+    "example_jp": "その瓶には奇妙な物質が入っている。"
+  },
+  {
+    "word": "substance",
+    "meaning": "本質，根拠",
+    "example": "His claim lacked substance.",
+    "example_jp": "彼の主張には本質（根拠）が欠けていた。"
+  },
+  {
+    "word": "solid",
+    "meaning": "固体の",
+    "example": "The lake is solid ice.",
+    "example_jp": "その湖は固体の氷だ。"
+  },
+  {
+    "word": "solid",
+    "meaning": "ぎっしり詰まった",
+    "example": "The room was solid with books.",
+    "example_jp": "その部屋は本でぎっしり詰まっていた。"
+  },
+  {
+    "word": "solid",
+    "meaning": "固体",
+    "example": "Ice is a solid.",
+    "example_jp": "氷は固体だ。"
+  },
+  {
+    "word": "satellite",
+    "meaning": "衛星",
+    "example": "The moon is a natural satellite.",
+    "example_jp": "月は天然の衛星だ。"
+  },
+  {
+    "word": "satellite",
+    "meaning": "人工衛星",
+    "example": "The satellite was launched.",
+    "example_jp": "その人工衛星は打ち上げられた。"
+  },
+  {
+    "word": "orbit",
+    "meaning": "軌道",
+    "example": "The satellite is in orbit.",
+    "example_jp": "その衛星は軌道に乗っている。"
+  },
+  {
+    "word": "orbit",
+    "meaning": "～を周回する",
+    "example": "The planet orbits the sun.",
+    "example_jp": "その惑星は太陽を周回している。"
+  },
+  {
+    "word": "launch",
+    "meaning": "打ち上げる",
+    "example": "They launched a rocket.",
+    "example_jp": "彼らはロケットを打ち上げた。"
+  },
+  {
+    "word": "launch",
+    "meaning": "始める",
+    "example": "They launched a new project.",
+    "example_jp": "彼らは新しいプロジェクトを始めた。"
+  },
+  {
+    "word": "launch",
+    "meaning": "打ち上げ，開始，発売",
+    "example": "The launch was successful.",
+    "example_jp": "打ち上げは成功した。"
+  },
+  {
+    "word": "attempt",
+    "meaning": "試み",
+    "example": "It was a brave attempt.",
+    "example_jp": "それは勇敢な試みだった。"
+  },
+  {
+    "word": "attempt",
+    "meaning": "試みる",
+    "example": "He attempted to escape.",
+    "example_jp": "彼は脱出を試みた。"
+  },
+  {
+    "word": "capacity",
+    "meaning": "能力",
+    "example": "She has the capacity to lead.",
+    "example_jp": "彼女には導く能力がある。"
+  },
+  {
+    "word": "capacity",
+    "meaning": "容量，収容力",
+    "example": "The hall has a large capacity.",
+    "example_jp": "そのホールは大きな収容力がある。"
+  },
+  {
+    "word": "capable",
+    "meaning": "～する力がある",
+    "example": "He is capable of solving it.",
+    "example_jp": "彼はそれを解決する力がある。"
+  },
+  {
+    "word": "capable",
+    "meaning": "有能な",
+    "example": "She is a capable worker.",
+    "example_jp": "彼女は有能な労働者だ。"
+  },
+  {
+    "word": "attain",
+    "meaning": "達成する",
+    "example": "She attained her goal.",
+    "example_jp": "彼女は目標を達成した。"
+  },
+  {
+    "word": "attain",
+    "meaning": "到達する",
+    "example": "The plane attained great height.",
+    "example_jp": "その飛行機はかなりの高さに到達した。"
+  },
+  {
+    "word": "desperate",
+    "meaning": "必死の",
+    "example": "He made a desperate effort.",
+    "example_jp": "彼は必死の努力をした。"
+  },
+  {
+    "word": "desperate",
+    "meaning": "絶望的な",
+    "example": "The situation is desperate.",
+    "example_jp": "状況は絶望的だ。"
+  },
+  {
+    "word": "dedicate",
+    "meaning": "AをBに捧げる",
+    "example": "He dedicated the book to his parents.",
+    "example_jp": "彼はその本を両親に捧げた。"
+  },
+  {
+    "word": "pain",
+    "meaning": "苦痛",
+    "example": "He felt sharp pain.",
+    "example_jp": "彼は鋭い苦痛を感じた。"
+  },
+  {
+    "word": "pain",
+    "meaning": "苦労",
+    "example": "She took pains to help.",
+    "example_jp": "彼女は助けるために苦労した。"
+  },
+  {
+    "word": "strain",
+    "meaning": "負担，無理",
+    "example": "He felt strain in his back.",
+    "example_jp": "彼は背中に負担（無理）を感じた。"
+  },
+  {
+    "word": "strain",
+    "meaning": "～を痛める",
+    "example": "He strained his eyes.",
+    "example_jp": "彼は目を痛めた。"
+  },
+  {
+    "word": "remedy",
+    "meaning": "治療法，治療薬",
+    "example": "This medicine is a good remedy.",
+    "example_jp": "この薬は良い治療薬だ。"
+  },
+  {
+    "word": "remedy",
+    "meaning": "改善策，対策",
+    "example": "They discussed remedies for the problem.",
+    "example_jp": "彼らはその問題の改善策について話し合った。"
+  },
+  {
+    "word": "pharmacy",
+    "meaning": "薬局",
+    "example": "I went to the pharmacy.",
+    "example_jp": "私は薬局へ行った。"
+  },
+  {
+    "word": "physician",
+    "meaning": "医師",
+    "example": "He is a physician.",
+    "example_jp": "彼は医師だ。"
+  },
+  {
+    "word": "physician",
+    "meaning": "内科医",
+    "example": "She works as a physician.",
+    "example_jp": "彼女は内科医として働いている。"
+  },
+  {
+    "word": "disorder",
+    "meaning": "不調",
+    "example": "He suffers from a sleep disorder.",
+    "example_jp": "彼は睡眠の不調に苦しんでいる。"
+  },
+  {
+    "word": "pregnant",
+    "meaning": "妊娠した",
+    "example": "She is pregnant.",
+    "example_jp": "彼女は妊娠している。"
+  },
+  {
+    "word": "clinical",
+    "meaning": "臨床の",
+    "example": "She works in clinical research.",
+    "example_jp": "彼女は臨床研究で働いている。"
+  },
+  {
+    "word": "heal",
+    "meaning": "～を治す",
+    "example": "The doctor healed the wound.",
+    "example_jp": "医者は傷を治した。"
+  },
+  {
+    "word": "heal",
+    "meaning": "治る",
+    "example": "The cut healed quickly.",
+    "example_jp": "切り傷はすぐに治った。"
+  },
+  {
+    "word": "infect",
+    "meaning": "感染させる",
+    "example": "The virus infected many people.",
+    "example_jp": "そのウイルスは多くの人々を感染させた。"
+  },
+  {
+    "word": "ankle",
+    "meaning": "足首",
+    "example": "He injured his ankle.",
+    "example_jp": "彼は足首を負傷した。"
+  },
+  {
+    "word": "thumb",
+    "meaning": "親指",
+    "example": "She cut her thumb.",
+    "example_jp": "彼女は親指を切った。"
+  },
+  {
+    "word": "forehead",
+    "meaning": "額，おでこ",
+    "example": "Sweat ran down his forehead.",
+    "example_jp": "汗が彼の額を流れ落ちた。"
+  },
+  {
+    "word": "chin",
+    "meaning": "下あご，あごの先端",
+    "example": "He touched his chin.",
+    "example_jp": "彼はあごの先端に触れた。"
+  },
+  {
+    "word": "chest",
+    "meaning": "胸（部）",
+    "example": "He held his chest in pain.",
+    "example_jp": "彼は苦痛で胸を押さえた。"
+  },
+  {
+    "word": "chest",
+    "meaning": "箱，密閉容器",
+    "example": "They opened the wooden chest.",
+    "example_jp": "彼らは木製の箱を開けた。"
+  },
+  {
+    "word": "breast",
+    "meaning": "胸，乳房",
+    "example": "She held the baby to her breast.",
+    "example_jp": "彼女は赤ん坊を胸に抱いた。"
+  },
+  {
+    "word": "lung",
+    "meaning": "肺",
+    "example": "Smoking harms the lungs.",
+    "example_jp": "喫煙は肺を害する。"
+  },
+  {
+    "word": "organ",
+    "meaning": "臓器",
+    "example": "The heart is an important organ.",
+    "example_jp": "心臓は重要な臓器だ。"
+  },
+  {
+    "word": "organ",
+    "meaning": "オルガン",
+    "example": "She plays the organ.",
+    "example_jp": "彼女はオルガンを弾く。"
+  },
+  {
+    "word": "vision",
+    "meaning": "視力，視野",
+    "example": "He has good vision.",
+    "example_jp": "彼は視力が良い。"
+  },
+  {
+    "word": "vision",
+    "meaning": "未来像",
+    "example": "She has a clear vision of the future.",
+    "example_jp": "彼女は将来の明確な未来像を持っている。"
+  },
+  {
+    "word": "vision",
+    "meaning": "先見の明",
+    "example": "He has great vision in business.",
+    "example_jp": "彼にはビジネスにおいて大きな先見の明がある。"
+  },
+  {
+    "word": "skeleton",
+    "meaning": "骸骨，骨格",
+    "example": "They found a human skeleton.",
+    "example_jp": "彼らは人間の骸骨を見つけた。"
+  }
+]

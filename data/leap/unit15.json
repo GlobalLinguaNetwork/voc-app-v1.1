@@ -1,0 +1,488 @@
+[
+  {
+    "word": "perspective",
+    "meaning": "（経験などで得られる）視点",
+    "example": "Experience gives a new perspective.",
+    "example_jp": "経験は新しい視点を与えてくれる。"
+  },
+  {
+    "word": "perspective",
+    "meaning": "（大局的な）見方",
+    "example": "She has a broad perspective.",
+    "example_jp": "彼女は広い見方をしている。"
+  },
+  {
+    "word": "abandon",
+    "meaning": "～を捨てる",
+    "example": "They abandoned the old plan.",
+    "example_jp": "彼らは古い計画を捨てた。"
+  },
+  {
+    "word": "abandon",
+    "meaning": "放棄する",
+    "example": "He abandoned the project.",
+    "example_jp": "彼はプロジェクトを放棄した。"
+  },
+  {
+    "word": "eliminate",
+    "meaning": "（不要な人，物，事）を排除する",
+    "example": "We eliminated unnecessary steps.",
+    "example_jp": "私たちは不要な手順を排除した。"
+  },
+  {
+    "word": "eliminate",
+    "meaning": "敗退する",
+    "example": "The team was eliminated.",
+    "example_jp": "そのチームは敗退した。"
+  },
+  {
+    "word": "rid",
+    "meaning": "（不要品）を処分する",
+    "example": "I got rid of old clothes.",
+    "example_jp": "私は古い服を処分した。"
+  },
+  {
+    "word": "rid",
+    "meaning": "～を取り除く",
+    "example": "She rid the garden of weeds.",
+    "example_jp": "彼女は庭から雑草を取り除いた。"
+  },
+  {
+    "word": "remove",
+    "meaning": "～を取り除く",
+    "example": "Please remove the box.",
+    "example_jp": "その箱を取り除いてください。"
+  },
+  {
+    "word": "remove",
+    "meaning": "（衣服）を脱ぐ",
+    "example": "He removed his coat.",
+    "example_jp": "彼はコートを脱いだ。"
+  },
+  {
+    "word": "resource",
+    "meaning": "（石油などの）資源",
+    "example": "Oil is a valuable resource.",
+    "example_jp": "石油は貴重な資源だ。"
+  },
+  {
+    "word": "resource",
+    "meaning": "（人，国の）財産",
+    "example": "The country has many resources.",
+    "example_jp": "その国には多くの財産がある。"
+  },
+  {
+    "word": "resource",
+    "meaning": "（万一の頼みの）手段",
+    "example": "She used all her resources.",
+    "example_jp": "彼女は持てるすべての手段を講じた。"
+  },
+  {
+    "word": "conservation",
+    "meaning": "保護",
+    "example": "Conservation is important.",
+    "example_jp": "保護は重要だ。"
+  },
+  {
+    "word": "conservation",
+    "meaning": "保存",
+    "example": "Food conservation is necessary.",
+    "example_jp": "食品の保存が必要だ。"
+  },
+  {
+    "word": "preserve",
+    "meaning": "（自然など）を保護する",
+    "example": "They preserve the forest.",
+    "example_jp": "彼らは森林を保護している。"
+  },
+  {
+    "word": "preserve",
+    "meaning": "（景観，平和，食品など）を保つ",
+    "example": "We preserve peace.",
+    "example_jp": "私たちは平和を保つ。"
+  },
+  {
+    "word": "disaster",
+    "meaning": "災害",
+    "example": "The earthquake was a disaster.",
+    "example_jp": "その地震は災害だった。"
+  },
+  {
+    "word": "disaster",
+    "meaning": "大失敗",
+    "example": "The event was a disaster.",
+    "example_jp": "そのイベントは大失敗だった。"
+  },
+  {
+    "word": "planet",
+    "meaning": "惑星",
+    "example": "Mars is a planet.",
+    "example_jp": "火星は惑星だ。"
+  },
+  {
+    "word": "planet",
+    "meaning": "地球",
+    "example": "The Earth is our planet.",
+    "example_jp": "地球は私たちの惑星だ。"
+  },
+  {
+    "word": "environment",
+    "meaning": "環境",
+    "example": "We protect the environment.",
+    "example_jp": "私たちは環境を守る。"
+  },
+  {
+    "word": "environment",
+    "meaning": "周囲（の状況）",
+    "example": "The environment is changing.",
+    "example_jp": "周囲の状況が変化している。"
+  },
+  {
+    "word": "horizon",
+    "meaning": "水平線",
+    "example": "The sun set below the horizon.",
+    "example_jp": "太陽が水平線の下に沈んだ。"
+  },
+  {
+    "word": "horizon",
+    "meaning": "視野",
+    "example": "New horizons expand your view.",
+    "example_jp": "新しい視野があなたの見方を広げる。"
+  },
+  {
+    "word": "layer",
+    "meaning": "層",
+    "example": "The atmosphere has many layers.",
+    "example_jp": "大気には多くの層がある。"
+  },
+  {
+    "word": "agriculture",
+    "meaning": "農業",
+    "example": "Agriculture is vital.",
+    "example_jp": "農業は不可欠だ。"
+  },
+  {
+    "word": "crop",
+    "meaning": "作物",
+    "example": "The crop is ready.",
+    "example_jp": "作物の準備ができている。"
+  },
+  {
+    "word": "crop",
+    "meaning": "収穫（高）",
+    "example": "They had a good crop.",
+    "example_jp": "彼らは豊かな収穫を得た。"
+  },
+  {
+    "word": "crop",
+    "meaning": "生じる",
+    "example": "Problems cropped up.",
+    "example_jp": "問題が生じた。"
+  },
+  {
+    "word": "soil",
+    "meaning": "土",
+    "example": "The soil is fertile.",
+    "example_jp": "その土は肥沃だ。"
+  },
+  {
+    "word": "weed",
+    "meaning": "雑草",
+    "example": "We pulled weeds.",
+    "example_jp": "私たちは雑草を抜いた。"
+  },
+  {
+    "word": "weed",
+    "meaning": "雑草を抜く",
+    "example": "They weed the garden.",
+    "example_jp": "彼らは庭の雑草を抜く。"
+  },
+  {
+    "word": "pollen",
+    "meaning": "花粉",
+    "example": "Pollen causes allergies.",
+    "example_jp": "花粉はアレルギーを引き起こす。"
+  },
+  {
+    "word": "drown",
+    "meaning": "溺れ死ぬ",
+    "example": "He drowned in the river.",
+    "example_jp": "彼は川で溺れ死んだ。"
+  },
+  {
+    "word": "leak",
+    "meaning": "漏れる",
+    "example": "Water leaked from the pipe.",
+    "example_jp": "パイプから水が漏れた。"
+  },
+  {
+    "word": "leak",
+    "meaning": "～を漏らす",
+    "example": "He leaked the secret.",
+    "example_jp": "彼は秘密を漏らした。"
+  },
+  {
+    "word": "leak",
+    "meaning": "漏れ",
+    "example": "There was a leak.",
+    "example_jp": "漏れがあった。"
+  },
+  {
+    "word": "climate",
+    "meaning": "気候",
+    "example": "The climate is warm.",
+    "example_jp": "気候は温暖だ。"
+  },
+  {
+    "word": "climate",
+    "meaning": "状況",
+    "example": "The political climate is tense.",
+    "example_jp": "政治的状況は緊迫している。"
+  },
+  {
+    "word": "atmosphere",
+    "meaning": "大気",
+    "example": "The atmosphere is clear.",
+    "example_jp": "大気が澄んでいる。"
+  },
+  {
+    "word": "atmosphere",
+    "meaning": "雰囲気",
+    "example": "The room has a nice atmosphere.",
+    "example_jp": "その部屋は良い雰囲気だ。"
+  },
+  {
+    "word": "atmosphere",
+    "meaning": "大気圏",
+    "example": "The Earth's atmosphere protects us.",
+    "example_jp": "地球の大気圏が私たちを守っている。"
+  },
+  {
+    "word": "forecast",
+    "meaning": "予報",
+    "example": "The forecast is sunny.",
+    "example_jp": "予報は晴れだ。"
+  },
+  {
+    "word": "forecast",
+    "meaning": "～を予報する",
+    "example": "They forecast rain.",
+    "example_jp": "彼らは雨を予報している。"
+  },
+  {
+    "word": "humid",
+    "meaning": "湿気が多い",
+    "example": "It is humid today.",
+    "example_jp": "今日は湿気が多い。"
+  },
+  {
+    "word": "tropical",
+    "meaning": "熱帯の",
+    "example": "Tropical forests are dense.",
+    "example_jp": "熱帯の森林は密生している。"
+  },
+  {
+    "word": "solar",
+    "meaning": "太陽の",
+    "example": "Solar energy is clean.",
+    "example_jp": "太陽エネルギーはクリーンだ。"
+  },
+  {
+    "word": "species",
+    "meaning": "種",
+    "example": "Many species are endangered.",
+    "example_jp": "多くの種が絶滅の危機に瀕している。"
+  },
+  {
+    "word": "pesticide",
+    "meaning": "殺虫剤",
+    "example": "Pesticides kill insects.",
+    "example_jp": "殺虫剤は昆虫を殺す。"
+  },
+  {
+    "word": "extinct",
+    "meaning": "絶滅した",
+    "example": "Dinosaurs are extinct.",
+    "example_jp": "恐竜は絶滅した。"
+  },
+  {
+    "word": "feed",
+    "meaning": "えさを与える",
+    "example": "She feeds the cat.",
+    "example_jp": "彼女は猫にえさを与える。"
+  },
+  {
+    "word": "feed",
+    "meaning": "養う",
+    "example": "They feed their children.",
+    "example_jp": "彼らは子供たちを養っている。"
+  },
+  {
+    "word": "feed",
+    "meaning": "常食とする",
+    "example": "Birds feed on seeds.",
+    "example_jp": "鳥は種を常食としている。"
+  },
+  {
+    "word": "energetic",
+    "meaning": "活発な",
+    "example": "He is energetic.",
+    "example_jp": "彼は活発だ。"
+  },
+  {
+    "word": "greedy",
+    "meaning": "貪欲な",
+    "example": "The child is greedy.",
+    "example_jp": "その子は貪欲だ。"
+  },
+  {
+    "word": "brave",
+    "meaning": "勇敢な",
+    "example": "She is brave.",
+    "example_jp": "彼女は勇敢だ。"
+  },
+  {
+    "word": "generous",
+    "meaning": "気前のよい",
+    "example": "He is generous.",
+    "example_jp": "彼は気前がよい。"
+  },
+  {
+    "word": "intellectual",
+    "meaning": "知的な",
+    "example": "She is intellectual.",
+    "example_jp": "彼女は知的だ。"
+  },
+  {
+    "word": "curious",
+    "meaning": "好奇心が強い",
+    "example": "The child is curious.",
+    "example_jp": "その子は好奇心が強い。"
+  },
+  {
+    "word": "curious",
+    "meaning": "奇妙な",
+    "example": "The story is curious.",
+    "example_jp": "その話は奇妙だ。"
+  },
+  {
+    "word": "imaginative",
+    "meaning": "想像力豊かな",
+    "example": "He is imaginative.",
+    "example_jp": "彼は想像力豊かだ。"
+  },
+  {
+    "word": "afford",
+    "meaning": "～する余裕がある",
+    "example": "I can afford it.",
+    "example_jp": "私にはそれをする余裕がある。"
+  },
+  {
+    "word": "afford",
+    "meaning": "（O1に）O2を与える",
+    "example": "She afforded him a chance.",
+    "example_jp": "彼女は彼にチャンスを与えた。"
+  },
+  {
+    "word": "eager",
+    "meaning": "熱心な",
+    "example": "She is eager to learn.",
+    "example_jp": "彼女は学ぶことに熱心だ。"
+  },
+  {
+    "word": "selfish",
+    "meaning": "利己的な",
+    "example": "He is selfish.",
+    "example_jp": "彼は利己的だ。"
+  },
+  {
+    "word": "aggressive",
+    "meaning": "攻撃的な",
+    "example": "The dog is aggressive.",
+    "example_jp": "その犬は攻撃的だ。"
+  },
+  {
+    "word": "aggressive",
+    "meaning": "積極的な",
+    "example": "She is aggressive in business.",
+    "example_jp": "彼女はビジネスにおいて積極的だ。"
+  },
+  {
+    "word": "cruel",
+    "meaning": "残酷な",
+    "example": "The act was cruel.",
+    "example_jp": "その行為は残酷だった。"
+  },
+  {
+    "word": "addicted",
+    "meaning": "中毒になっている",
+    "example": "He is addicted to games.",
+    "example_jp": "彼はゲーム中毒になっている。"
+  },
+  {
+    "word": "stubborn",
+    "meaning": "頑固な",
+    "example": "She is stubborn.",
+    "example_jp": "彼女は頑固だ。"
+  },
+  {
+    "word": "bold",
+    "meaning": "大胆な",
+    "example": "He is bold.",
+    "example_jp": "彼は大胆だ。"
+  },
+  {
+    "word": "guilty",
+    "meaning": "罪の意識がある",
+    "example": "He feels guilty.",
+    "example_jp": "彼は罪の意識を感じている。"
+  },
+  {
+    "word": "guilty",
+    "meaning": "罪を犯した",
+    "example": "He is guilty of theft.",
+    "example_jp": "彼は窃盗の罪を犯した。"
+  },
+  {
+    "word": "innocent",
+    "meaning": "無実の",
+    "example": "She is innocent.",
+    "example_jp": "彼女は無実だ。"
+  },
+  {
+    "word": "innocent",
+    "meaning": "無邪気な",
+    "example": "The child is innocent.",
+    "example_jp": "その子は無邪気だ。"
+  },
+  {
+    "word": "sincere",
+    "meaning": "誠実な",
+    "example": "He is sincere.",
+    "example_jp": "彼は誠実だ。"
+  },
+  {
+    "word": "sincere",
+    "meaning": "心からの",
+    "example": "Her words are sincere.",
+    "example_jp": "彼女の言葉は心からのものだ。"
+  },
+  {
+    "word": "modest",
+    "meaning": "謙虚な",
+    "example": "She is modest.",
+    "example_jp": "彼女は謙虚だ。"
+  },
+  {
+    "word": "modest",
+    "meaning": "大きくない",
+    "example": "The house is modest.",
+    "example_jp": "その家は大きくない。"
+  },
+  {
+    "word": "stupid",
+    "meaning": "ばかな",
+    "example": "That was stupid.",
+    "example_jp": "それはばかだった。"
+  }
+]

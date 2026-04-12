@@ -1,0 +1,428 @@
+[
+  {
+    "word": "a piece of",
+    "meaning": "１つの～（可算・不可算）",
+    "example": "I ate a piece of cake.",
+    "example_jp": "私は1つのケーキを食べた。"
+  },
+  {
+    "word": "a couple of",
+    "meaning": "２つの～（可算）",
+    "example": "I saw a couple of birds.",
+    "example_jp": "私は2羽の鳥を見た。"
+  },
+  {
+    "word": "a couple of",
+    "meaning": "２，３の～（可算）",
+    "example": "I read a couple of books.",
+    "example_jp": "私は2、3冊の本を読んだ。"
+  },
+  {
+    "word": "a number of",
+    "meaning": "いくつもの～（可算）",
+    "example": "A number of people came.",
+    "example_jp": "いくつもの人々が来た。"
+  },
+  {
+    "word": "a number of",
+    "meaning": "かなり多くの～（可算）",
+    "example": "A number of cars passed.",
+    "example_jp": "かなり多くの車が通り過ぎた。"
+  },
+  {
+    "word": "dozens of",
+    "meaning": "数十もの～（可算）",
+    "example": "Dozens of fans waited.",
+    "example_jp": "数十ものファンが待っていた。"
+  },
+  {
+    "word": "dozens of",
+    "meaning": "何ダースもの～（可算）",
+    "example": "Dozens of eggs broke.",
+    "example_jp": "何ダースもの卵が割れた。"
+  },
+  {
+    "word": "plenty of",
+    "meaning": "たくさんの～（可算・不可算）",
+    "example": "We have plenty of time.",
+    "example_jp": "私たちはたくさんの時間がある。"
+  },
+  {
+    "word": "a great deal of",
+    "meaning": "たくさん（の～）（不可算）",
+    "example": "He has a great deal of money.",
+    "example_jp": "彼はたくさんのお金を持っている。"
+  },
+  {
+    "word": "a good deal of",
+    "meaning": "たくさん（の～）（不可算）",
+    "example": "She spent a good deal of time.",
+    "example_jp": "彼女はたくさんの時間を費やした。"
+  },
+  {
+    "word": "at home",
+    "meaning": "在宅して、家庭で",
+    "example": "She stayed at home today.",
+    "example_jp": "彼女は今日、在宅していた。"
+  },
+  {
+    "word": "at home",
+    "meaning": "くつろいで",
+    "example": "I feel at home here.",
+    "example_jp": "私はここでくつろいでいる。"
+  },
+  {
+    "word": "at home",
+    "meaning": "精通して",
+    "example": "He is at home in math.",
+    "example_jp": "彼は数学に精通している。"
+  },
+  {
+    "word": "in time",
+    "meaning": "間に合って",
+    "example": "I got there in time.",
+    "example_jp": "私はそこに間に合って着いた。"
+  },
+  {
+    "word": "in time",
+    "meaning": "やがて、そのうちに",
+    "example": "You will know it in time.",
+    "example_jp": "あなたはやがてそれを知るだろう。"
+  },
+  {
+    "word": "in fashion",
+    "meaning": "流行して",
+    "example": "Long skirts are in fashion now.",
+    "example_jp": "長いスカートが今流行している。"
+  },
+  {
+    "word": "on time",
+    "meaning": "時間通りに",
+    "example": "The bus came on time.",
+    "example_jp": "バスは時間通りに来た。"
+  },
+  {
+    "word": "on duty",
+    "meaning": "当番で、勤務時間中で",
+    "example": "He is on duty tonight.",
+    "example_jp": "彼は今夜、当番だ。"
+  },
+  {
+    "word": "on schedule",
+    "meaning": "予定通りで、定時に",
+    "example": "The train is on schedule.",
+    "example_jp": "電車は予定通りだ。"
+  },
+  {
+    "word": "up to date",
+    "meaning": "最新（式）の",
+    "example": "This map is up to date.",
+    "example_jp": "この地図は最新のものだ。"
+  },
+  {
+    "word": "be aware of",
+    "meaning": "～を知っている、～に気づいている",
+    "example": "I am aware of the rule.",
+    "example_jp": "私はその規則を知っている。"
+  },
+  {
+    "word": "be made of",
+    "meaning": "～でできている",
+    "example": "This table is made of wood.",
+    "example_jp": "このテーブルは木でできている。"
+  },
+  {
+    "word": "be capable of",
+    "meaning": "～ができる、～の可能性がある",
+    "example": "She is capable of cooking.",
+    "example_jp": "彼女は料理ができる。"
+  },
+  {
+    "word": "be afraid of",
+    "meaning": "～を恐れる、～を心配している",
+    "example": "He is afraid of dogs.",
+    "example_jp": "彼は犬を恐れている。"
+  },
+  {
+    "word": "be sure of",
+    "meaning": "～を確信している",
+    "example": "I am sure of his answer.",
+    "example_jp": "私は彼の答えを確信している。"
+  },
+  {
+    "word": "be sure about",
+    "meaning": "～を確信している",
+    "example": "I am sure about the plan.",
+    "example_jp": "私はその計画を確信している。"
+  },
+  {
+    "word": "be composed of",
+    "meaning": "～から構成されている",
+    "example": "The team is composed of ten players.",
+    "example_jp": "そのチームは10人の選手から構成されている。"
+  },
+  {
+    "word": "be based on",
+    "meaning": "～に基づいている",
+    "example": "The story is based on facts.",
+    "example_jp": "その物語は事実に基づいている。"
+  },
+  {
+    "word": "be based upon",
+    "meaning": "～に基づいている",
+    "example": "His idea is based upon science.",
+    "example_jp": "彼の考えは科学に基づいている。"
+  },
+  {
+    "word": "be different from",
+    "meaning": "～とは違っている",
+    "example": "This is different from mine.",
+    "example_jp": "これは私のものとは違っている。"
+  },
+  {
+    "word": "be absent from",
+    "meaning": "～を欠席する",
+    "example": "She was absent from school.",
+    "example_jp": "彼女は学校を欠席した。"
+  },
+  {
+    "word": "be engaged in",
+    "meaning": "～に従事している、忙しく～をしている",
+    "example": "He is engaged in research.",
+    "example_jp": "彼は研究に従事している。"
+  },
+  {
+    "word": "be responsible for",
+    "meaning": "～に責任がある",
+    "example": "She is responsible for the work.",
+    "example_jp": "彼女はその仕事に責任がある。"
+  },
+  {
+    "word": "be married to",
+    "meaning": "（～と）結婚している",
+    "example": "She is married to Ken.",
+    "example_jp": "彼女はケンと結婚している。"
+  },
+  {
+    "word": "be satisfied with",
+    "meaning": "～に満足している",
+    "example": "I am satisfied with the result.",
+    "example_jp": "私はその結果に満足している。"
+  },
+  {
+    "word": "be curious about",
+    "meaning": "～を知りたがる、～に好奇心の強い",
+    "example": "He is curious about space.",
+    "example_jp": "彼は宇宙について知りたがっている。"
+  },
+  {
+    "word": "be well off",
+    "meaning": "裕福である",
+    "example": "They are well off now.",
+    "example_jp": "彼らは今、裕福である。"
+  },
+  {
+    "word": "be likely to do",
+    "meaning": "…しそうである",
+    "example": "It is likely to rain.",
+    "example_jp": "雨が降りそうである。"
+  },
+  {
+    "word": "be willing to do",
+    "meaning": "…してもかまわない",
+    "example": "I am willing to help.",
+    "example_jp": "私は手伝ってもかまわない。"
+  },
+  {
+    "word": "be about to do",
+    "meaning": "今にも…しようとしている",
+    "example": "She is about to leave.",
+    "example_jp": "彼女は今にも出発しようとしている。"
+  },
+  {
+    "word": "lead to",
+    "meaning": "～を引き起こす、～へと通じる",
+    "example": "Hard work leads to success.",
+    "example_jp": "勤勉は成功へと通じる。"
+  },
+  {
+    "word": "refer to",
+    "meaning": "～に言及する",
+    "example": "He referred to the book.",
+    "example_jp": "彼はその本に言及した。"
+  },
+  {
+    "word": "refer to",
+    "meaning": "～を参照する、～に問い合わせる",
+    "example": "Please refer to page 10.",
+    "example_jp": "10ページを参照してください。"
+  },
+  {
+    "word": "contribute to",
+    "meaning": "～の一因となる",
+    "example": "Exercise contributes to health.",
+    "example_jp": "運動は健康の一因となる。"
+  },
+  {
+    "word": "contribute to",
+    "meaning": "～に貢献する",
+    "example": "She contributes to the team.",
+    "example_jp": "彼女はチームに貢献している。"
+  },
+  {
+    "word": "contribute to",
+    "meaning": "～に寄付［寄稿］する",
+    "example": "He contributed to the magazine.",
+    "example_jp": "彼はその雑誌に寄稿した。"
+  },
+  {
+    "word": "amount to",
+    "meaning": "総計～になる",
+    "example": "The bill amounts to 500 yen.",
+    "example_jp": "請求書は総計500円になる。"
+  },
+  {
+    "word": "depend on",
+    "meaning": "～に頼る",
+    "example": "We depend on water.",
+    "example_jp": "私たちは水に頼っている。"
+  },
+  {
+    "word": "depend on",
+    "meaning": "～しだいである",
+    "example": "The result depends on you.",
+    "example_jp": "結果はあなたしだいである。"
+  },
+  {
+    "word": "depend upon",
+    "meaning": "～に頼る",
+    "example": "We depend upon his help.",
+    "example_jp": "私たちは彼の助けに頼っている。"
+  },
+  {
+    "word": "focus on",
+    "meaning": "～に集中する、～に焦点を合わせる",
+    "example": "Please focus on your work.",
+    "example_jp": "あなたの仕事に集中してください。"
+  },
+  {
+    "word": "rely on",
+    "meaning": "～に頼る",
+    "example": "I rely on my friends.",
+    "example_jp": "私は友人に頼っている。"
+  },
+  {
+    "word": "rely upon",
+    "meaning": "～に頼る",
+    "example": "We rely upon his skill.",
+    "example_jp": "私たちは彼の技術に頼っている。"
+  },
+  {
+    "word": "get on",
+    "meaning": "（公共の乗り物など）に乗る",
+    "example": "I got on the bus.",
+    "example_jp": "私はバスに乗った。"
+  },
+  {
+    "word": "get on",
+    "meaning": "仲良くやっていく、（なんとか）やっていく",
+    "example": "They get on well.",
+    "example_jp": "彼らは仲良くやっていく。"
+  },
+  {
+    "word": "insist on",
+    "meaning": "～を主張する",
+    "example": "He insisted on his idea.",
+    "example_jp": "彼は自分の考えを主張した。"
+  },
+  {
+    "word": "insist upon",
+    "meaning": "～を主張する",
+    "example": "She insisted upon the rule.",
+    "example_jp": "彼女はその規則を主張した。"
+  },
+  {
+    "word": "concentrate on",
+    "meaning": "～に集中する",
+    "example": "I must concentrate on this.",
+    "example_jp": "私はこれに集中しなければならない。"
+  },
+  {
+    "word": "look for",
+    "meaning": "～を探す",
+    "example": "I am looking for my keys.",
+    "example_jp": "私は鍵を探している。"
+  },
+  {
+    "word": "search for",
+    "meaning": "～を探す",
+    "example": "They searched for the cat.",
+    "example_jp": "彼らはその猫を探した。"
+  },
+  {
+    "word": "prepare for",
+    "meaning": "～の準備をする、～に備える",
+    "example": "We prepare for the test.",
+    "example_jp": "私たちはテストの準備をする。"
+  },
+  {
+    "word": "think of",
+    "meaning": "～をしようかなと思う、～のことを考える",
+    "example": "I think of going out.",
+    "example_jp": "私は外出をしようかなと思う。"
+  },
+  {
+    "word": "think of",
+    "meaning": "～を思いつく",
+    "example": "I thought of a new idea.",
+    "example_jp": "私は新しい考えを思いついた。"
+  },
+  {
+    "word": "think of",
+    "meaning": "～を思い出す",
+    "example": "I think of my old home.",
+    "example_jp": "私は古い家を思い出す。"
+  },
+  {
+    "word": "consist of",
+    "meaning": "～から成り立っている",
+    "example": "The class consists of 20 students.",
+    "example_jp": "そのクラスは20人の生徒から構成されている。"
+  },
+  {
+    "word": "complain about",
+    "meaning": "～について不平を言う",
+    "example": "He complained about the noise.",
+    "example_jp": "彼は騒音について不平を言った。"
+  },
+  {
+    "word": "complain of",
+    "meaning": "（苦痛など）を訴える",
+    "example": "She complained of a headache.",
+    "example_jp": "彼女は頭痛を訴えた。"
+  },
+  {
+    "word": "die of",
+    "meaning": "～で死ぬ",
+    "example": "He died of cancer.",
+    "example_jp": "彼は癌で死んだ。"
+  },
+  {
+    "word": "die from",
+    "meaning": "～で死ぬ",
+    "example": "The plant died from cold.",
+    "example_jp": "その植物は寒さで枯れた。"
+  },
+  {
+    "word": "suffer from",
+    "meaning": "（病気など）で苦しむ［悩む］",
+    "example": "She suffers from asthma.",
+    "example_jp": "彼女は喘息で苦しんでいる。"
+  },
+  {
+    "word": "result from",
+    "meaning": "～から起こる",
+    "example": "His injury resulted from the fall.",
+    "example_jp": "彼の怪我は転倒から起こった。"
+  }
+]

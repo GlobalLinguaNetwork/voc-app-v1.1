@@ -1,0 +1,698 @@
+[
+  {
+    "word": "happen",
+    "meaning": "起こる",
+    "example": "What happened yesterday?",
+    "example_jp": "昨日、何が起こりましたか？"
+  },
+  {
+    "word": "happen",
+    "meaning": "偶然…する",
+    "example": "I happened to see him.",
+    "example_jp": "私は偶然彼に会った。"
+  },
+  {
+    "word": "area",
+    "meaning": "地域",
+    "example": "This area is quiet.",
+    "example_jp": "この地域は静かです。"
+  },
+  {
+    "word": "area",
+    "meaning": "部分",
+    "example": "The area of the circle is large.",
+    "example_jp": "その円の面積（部分）は大きい。"
+  },
+  {
+    "word": "area",
+    "meaning": "分野",
+    "example": "He works in the medical area.",
+    "example_jp": "彼は医療分野で働いています。"
+  },
+  {
+    "word": "bleed",
+    "meaning": "出血する",
+    "example": "His finger is bleeding.",
+    "example_jp": "彼の指が出血している。"
+  },
+  {
+    "word": "reason",
+    "meaning": "理由",
+    "example": "What is the reason?",
+    "example_jp": "理由は何ですか？"
+  },
+  {
+    "word": "reason",
+    "meaning": "理性",
+    "example": "Humans use reason.",
+    "example_jp": "人間は理性を使う。"
+  },
+  {
+    "word": "reason",
+    "meaning": "推論する",
+    "example": "He reasoned that it was true.",
+    "example_jp": "彼はそれが真実であると推論した。"
+  },
+  {
+    "word": "plenty",
+    "meaning": "たくさん",
+    "example": "We have plenty of time.",
+    "example_jp": "私たちは時間がたくさんある。"
+  },
+  {
+    "word": "plenty",
+    "meaning": "十分",
+    "example": "There is plenty to do.",
+    "example_jp": "やるべきことは十分にある。"
+  },
+  {
+    "word": "western",
+    "meaning": "西の",
+    "example": "Western Japan is warm.",
+    "example_jp": "西日本は暖かい。"
+  },
+  {
+    "word": "western",
+    "meaning": "西にある",
+    "example": "The western sky is red.",
+    "example_jp": "西にある空が赤い。"
+  },
+  {
+    "word": "western",
+    "meaning": "西洋の",
+    "example": "Western culture is interesting.",
+    "example_jp": "西洋の文化は興味深い。"
+  },
+  {
+    "word": "clothes",
+    "meaning": "衣服",
+    "example": "She bought new clothes.",
+    "example_jp": "彼女は新しい衣服を買った。"
+  },
+  {
+    "word": "convenient",
+    "meaning": "便利な",
+    "example": "This store is convenient.",
+    "example_jp": "この店は便利だ。"
+  },
+  {
+    "word": "convenient",
+    "meaning": "都合のよい",
+    "example": "The time is convenient for me.",
+    "example_jp": "その時間は私にとって都合がよい。"
+  },
+  {
+    "word": "helpful",
+    "meaning": "親切な",
+    "example": "He was very helpful.",
+    "example_jp": "彼はとても親切だった。"
+  },
+  {
+    "word": "helpful",
+    "meaning": "役に立つ",
+    "example": "This book is helpful.",
+    "example_jp": "この本は役に立つ。"
+  },
+  {
+    "word": "majority",
+    "meaning": "大多数",
+    "example": "The majority agreed.",
+    "example_jp": "大多数が同意した。"
+  },
+  {
+    "word": "though",
+    "meaning": "…にもかかわらず",
+    "example": "Though it rained, we went out.",
+    "example_jp": "雨が降ったにもかかわらず、私たちは外出した。"
+  },
+  {
+    "word": "though",
+    "meaning": "でも",
+    "example": "It was hard, though.",
+    "example_jp": "でも、それは大変だった。"
+  },
+  {
+    "word": "discrimination",
+    "meaning": "差別",
+    "example": "He fought against discrimination.",
+    "example_jp": "彼は差別と戦った。"
+  },
+  {
+    "word": "discrimination",
+    "meaning": "区別",
+    "example": "Color discrimination exists.",
+    "example_jp": "色の区別が存在する。"
+  },
+  {
+    "word": "past",
+    "meaning": "過去",
+    "example": "I miss the past.",
+    "example_jp": "私は過去を懐かしく思う。"
+  },
+  {
+    "word": "past",
+    "meaning": "昔",
+    "example": "He talked about the past.",
+    "example_jp": "彼は昔について話した。"
+  },
+  {
+    "word": "past",
+    "meaning": "ここ〜の",
+    "example": "The past year was busy.",
+    "example_jp": "ここ1年は忙しかった。"
+  },
+  {
+    "word": "past",
+    "meaning": "…を過ぎて",
+    "example": "He walked past the station.",
+    "example_jp": "彼は駅を過ぎて歩いた。"
+  },
+  {
+    "word": "previous",
+    "meaning": "前の",
+    "example": "The previous day was sunny.",
+    "example_jp": "前の日は晴れていた。"
+  },
+  {
+    "word": "quite",
+    "meaning": "かなり",
+    "example": "It is quite cold.",
+    "example_jp": "かなり寒い。"
+  },
+  {
+    "word": "quite",
+    "meaning": "まったく",
+    "example": "I am quite sure.",
+    "example_jp": "私はまったく確信している。"
+  },
+  {
+    "word": "expensive",
+    "meaning": "高価な",
+    "example": "The bag is expensive.",
+    "example_jp": "そのバッグは高価だ。"
+  },
+  {
+    "word": "afford",
+    "meaning": "余裕がある",
+    "example": "I can’t afford a car.",
+    "example_jp": "私は車を買う余裕がない。"
+  },
+  {
+    "word": "afford",
+    "meaning": "与える",
+    "example": "This affords a chance.",
+    "example_jp": "これはチャンスを与える。"
+  },
+  {
+    "word": "wealthy",
+    "meaning": "裕福な",
+    "example": "He is wealthy.",
+    "example_jp": "彼は裕福だ。"
+  },
+  {
+    "word": "wealthy",
+    "meaning": "豊富な",
+    "example": "The area is wealthy in nature.",
+    "example_jp": "その地域は自然が豊富だ。"
+  },
+  {
+    "word": "servant",
+    "meaning": "召使い",
+    "example": "He hired a servant.",
+    "example_jp": "彼は召使いを雇った。"
+  },
+  {
+    "word": "slave",
+    "meaning": "奴隷",
+    "example": "He was a slave.",
+    "example_jp": "彼は奴隷だった。"
+  },
+  {
+    "word": "slave",
+    "meaning": "とりつかれた人",
+    "example": "He is a slave to work.",
+    "example_jp": "彼は仕事にとりつかれた人だ。"
+  },
+  {
+    "word": "mean",
+    "meaning": "意味する",
+    "example": "What does this mean?",
+    "example_jp": "これは何を意味しますか？"
+  },
+  {
+    "word": "mean",
+    "meaning": "…するつもりである",
+    "example": "I mean to help.",
+    "example_jp": "私は助けるつもりである。"
+  },
+  {
+    "word": "mean",
+    "meaning": "意地悪な",
+    "example": "He is mean to others.",
+    "example_jp": "彼は他人に意地悪だ。"
+  },
+  {
+    "word": "even",
+    "meaning": "…でさえ",
+    "example": "Even children know it.",
+    "example_jp": "子供でさえそれを知っている。"
+  },
+  {
+    "word": "even",
+    "meaning": "さらに",
+    "example": "It is even colder today.",
+    "example_jp": "今日はおまけにさらに寒い。"
+  },
+  {
+    "word": "even",
+    "meaning": "平らな",
+    "example": "The road is even.",
+    "example_jp": "その道は平らだ。"
+  },
+  {
+    "word": "even",
+    "meaning": "偶数の",
+    "example": "Six is an even number.",
+    "example_jp": "6は偶数である。"
+  },
+  {
+    "word": "amount",
+    "meaning": "量",
+    "example": "A large amount of water.",
+    "example_jp": "大量の水。"
+  },
+  {
+    "word": "amount",
+    "meaning": "総額",
+    "example": "The amount is high.",
+    "example_jp": "その総額は高い。"
+  },
+  {
+    "word": "amount",
+    "meaning": "達する",
+    "example": "The cost amounts to 500 yen.",
+    "example_jp": "費用は500円に達する。"
+  },
+  {
+    "word": "amount",
+    "meaning": "等しい",
+    "example": "His words amount to a lie.",
+    "example_jp": "彼の言葉は嘘に等しい。"
+  },
+  {
+    "word": "mind",
+    "meaning": "精神",
+    "example": "He has a sharp mind.",
+    "example_jp": "彼は鋭い精神を持っている。"
+  },
+  {
+    "word": "mind",
+    "meaning": "知性",
+    "example": "She has a strong mind.",
+    "example_jp": "彼女は強い知性を持っている。"
+  },
+  {
+    "word": "mind",
+    "meaning": "嫌がる",
+    "example": "Do you mind the noise?",
+    "example_jp": "騒音を嫌がりますか？"
+  },
+  {
+    "word": "mind",
+    "meaning": "気をつける",
+    "example": "Mind your step.",
+    "example_jp": "足元に気をつける。"
+  },
+  {
+    "word": "definition",
+    "meaning": "定義",
+    "example": "What is the definition?",
+    "example_jp": "定義は何ですか？"
+  },
+  {
+    "word": "define",
+    "meaning": "定義する",
+    "example": "He defined the term.",
+    "example_jp": "彼はその用語を定義した。"
+  },
+  {
+    "word": "define",
+    "meaning": "決定づける",
+    "example": "The rule defines behavior.",
+    "example_jp": "その規則が行動を決定づける。"
+  },
+  {
+    "word": "define",
+    "meaning": "明瞭に示す",
+    "example": "The shape is clearly defined.",
+    "example_jp": "その形は明瞭に示されている。"
+  },
+  {
+    "word": "formula",
+    "meaning": "公式",
+    "example": "Use this formula.",
+    "example_jp": "この公式を使いなさい。"
+  },
+  {
+    "word": "formula",
+    "meaning": "秘訣",
+    "example": "He found a formula for success.",
+    "example_jp": "彼は成功の秘訣を見つけた。"
+  },
+  {
+    "word": "clearly",
+    "meaning": "はっきりと",
+    "example": "He spoke clearly.",
+    "example_jp": "彼ははっきりと話した。"
+  },
+  {
+    "word": "clearly",
+    "meaning": "明らかに",
+    "example": "It is clearly wrong.",
+    "example_jp": "それは明らかに間違っている。"
+  },
+  {
+    "word": "separate",
+    "meaning": "分ける",
+    "example": "Separate the papers.",
+    "example_jp": "書類を分ける。"
+  },
+  {
+    "word": "separate",
+    "meaning": "別個の",
+    "example": "They live in separate rooms.",
+    "example_jp": "彼らは別個の部屋に住んでいる。"
+  },
+  {
+    "word": "separate",
+    "meaning": "離れた",
+    "example": "The houses are separate.",
+    "example_jp": "それらの家は離れている。"
+  },
+  {
+    "word": "divide",
+    "meaning": "分割する",
+    "example": "Divide the cake.",
+    "example_jp": "ケーキを分割する。"
+  },
+  {
+    "word": "divide",
+    "meaning": "分配する",
+    "example": "They divided the money.",
+    "example_jp": "彼らはそのお金を分配した。"
+  },
+  {
+    "word": "divide",
+    "meaning": "隔たり",
+    "example": "There is a divide between them.",
+    "example_jp": "彼らの間には隔たりがある。"
+  },
+  {
+    "word": "split",
+    "meaning": "分ける",
+    "example": "They split the group into two.",
+    "example_jp": "彼らはグループを2つに分けた。"
+  },
+  {
+    "word": "split",
+    "meaning": "分裂する",
+    "example": "The team split.",
+    "example_jp": "チームは分裂した。"
+  },
+  {
+    "word": "split",
+    "meaning": "分裂",
+    "example": "There is a split in opinion.",
+    "example_jp": "意見に分裂がある。"
+  },
+  {
+    "word": "split",
+    "meaning": "裂け目",
+    "example": "A split appeared in the wood.",
+    "example_jp": "木に裂け目が現れた。"
+  },
+  {
+    "word": "alone",
+    "meaning": "1人で",
+    "example": "He lives alone.",
+    "example_jp": "彼は1人で住んでいる。"
+  },
+  {
+    "word": "alone",
+    "meaning": "孤独で",
+    "example": "She felt alone.",
+    "example_jp": "彼女は孤独であると感じた。"
+  },
+  {
+    "word": "poison",
+    "meaning": "毒",
+    "example": "The plant has poison.",
+    "example_jp": "その植物には毒がある。"
+  },
+  {
+    "word": "carefully",
+    "meaning": "注意深く",
+    "example": "He drove carefully.",
+    "example_jp": "彼は注意深く運転した。"
+  },
+  {
+    "word": "control",
+    "meaning": "制御する",
+    "example": "He controls the machine.",
+    "example_jp": "彼は機械を制御する。"
+  },
+  {
+    "word": "control",
+    "meaning": "支配する",
+    "example": "They control the area.",
+    "example_jp": "彼らはその地域を支配している。"
+  },
+  {
+    "word": "control",
+    "meaning": "支配",
+    "example": "He lost control.",
+    "example_jp": "彼は支配（自制）を失った。"
+  },
+  {
+    "word": "control",
+    "meaning": "抑制",
+    "example": "Keep control of yourself.",
+    "example_jp": "自分自身を抑制しなさい。"
+  },
+  {
+    "word": "alcohol",
+    "meaning": "アルコール",
+    "example": "He doesn’t drink alcohol.",
+    "example_jp": "彼はアルコールを飲まない。"
+  },
+  {
+    "word": "alcohol",
+    "meaning": "酒",
+    "example": "Alcohol is harmful.",
+    "example_jp": "酒は有害だ。"
+  },
+  {
+    "word": "addict",
+    "meaning": "中毒者",
+    "example": "He is a drug addict.",
+    "example_jp": "彼は薬物中毒者だ。"
+  },
+  {
+    "word": "addict",
+    "meaning": "中毒である",
+    "example": "He is addicted to games.",
+    "example_jp": "彼はゲーム中毒である。"
+  },
+  {
+    "word": "instance",
+    "meaning": "実例",
+    "example": "For instance, look at this.",
+    "example_jp": "例えば、これを見てください。"
+  },
+  {
+    "word": "instance",
+    "meaning": "場合",
+    "example": "In this instance, you are right.",
+    "example_jp": "この場合、あなたが正しい。"
+  },
+  {
+    "word": "depend",
+    "meaning": "〜次第である",
+    "example": "It depends on the weather.",
+    "example_jp": "それは天気次第である。"
+  },
+  {
+    "word": "depend",
+    "meaning": "依存する",
+    "example": "Babies depend on adults.",
+    "example_jp": "赤ちゃんは大人に依存する。"
+  },
+  {
+    "word": "independent",
+    "meaning": "独立した",
+    "example": "He is independent.",
+    "example_jp": "彼は独立している。"
+  },
+  {
+    "word": "independent",
+    "meaning": "関係がない",
+    "example": "It is independent of the rule.",
+    "example_jp": "それはその規則とは関係がない。"
+  },
+  {
+    "word": "effective",
+    "meaning": "効果的な",
+    "example": "The medicine is effective.",
+    "example_jp": "その薬は効果的だ。"
+  },
+  {
+    "word": "efficient",
+    "meaning": "有能な",
+    "example": "She is efficient.",
+    "example_jp": "彼女は有能だ。"
+  },
+  {
+    "word": "efficient",
+    "meaning": "効率的な",
+    "example": "The system is efficient.",
+    "example_jp": "そのシステムは効率的だ。"
+  },
+  {
+    "word": "mask",
+    "meaning": "隠す",
+    "example": "He masked his feelings.",
+    "example_jp": "彼は感情を隠した。"
+  },
+  {
+    "word": "mask",
+    "meaning": "仮面",
+    "example": "He wore a mask.",
+    "example_jp": "彼は仮面をかぶった。"
+  },
+  {
+    "word": "claim",
+    "meaning": "主張する",
+    "example": "He claimed it was true.",
+    "example_jp": "彼はそれが真実だと主張した。"
+  },
+  {
+    "word": "claim",
+    "meaning": "要求する",
+    "example": "They claimed money.",
+    "example_jp": "彼らはお金を要求した。"
+  },
+  {
+    "word": "claim",
+    "meaning": "主張",
+    "example": "His claim was accepted.",
+    "example_jp": "彼の主張は受け入れられた。"
+  },
+  {
+    "word": "claim",
+    "meaning": "要求",
+    "example": "They made a claim for damages.",
+    "example_jp": "彼らは損害賠償の要求をした。"
+  },
+  {
+    "word": "demand",
+    "meaning": "要求する",
+    "example": "They demanded answers.",
+    "example_jp": "彼らは回答を要求した。"
+  },
+  {
+    "word": "demand",
+    "meaning": "需要",
+    "example": "There is high demand.",
+    "example_jp": "高い需要がある。"
+  },
+  {
+    "word": "demand",
+    "meaning": "要求",
+    "example": "Their demand was strong.",
+    "example_jp": "彼らの要求は強かった。"
+  },
+  {
+    "word": "supply",
+    "meaning": "供給する",
+    "example": "They supplied food.",
+    "example_jp": "彼らは食べ物を供給した。"
+  },
+  {
+    "word": "supply",
+    "meaning": "与える",
+    "example": "They supplied him with water.",
+    "example_jp": "彼らは彼に水を与えた。"
+  },
+  {
+    "word": "supply",
+    "meaning": "供給",
+    "example": "The supply is low.",
+    "example_jp": "供給が少ない。"
+  },
+  {
+    "word": "FALSE",
+    "meaning": "間違っている",
+    "example": "The answer is false.",
+    "example_jp": "その答えは間違っている。"
+  },
+  {
+    "word": "FALSE",
+    "meaning": "偽の",
+    "example": "He gave a false name.",
+    "example_jp": "彼は偽の名前を名乗った。"
+  },
+  {
+    "word": "fault",
+    "meaning": "責任",
+    "example": "It was my fault.",
+    "example_jp": "それは私の責任だった。"
+  },
+  {
+    "word": "fault",
+    "meaning": "欠陥",
+    "example": "The machine has a fault.",
+    "example_jp": "その機械には欠陥がある。"
+  },
+  {
+    "word": "fault",
+    "meaning": "欠点",
+    "example": "He has many faults.",
+    "example_jp": "彼には多くの欠点がある。"
+  },
+  {
+    "word": "fault",
+    "meaning": "誤り",
+    "example": "There is a fault in the plan.",
+    "example_jp": "計画に誤りがある。"
+  },
+  {
+    "word": "surround",
+    "meaning": "囲む",
+    "example": "Mountains surround the town.",
+    "example_jp": "山がその町を囲んでいる。"
+  },
+  {
+    "word": "surround",
+    "meaning": "伴う",
+    "example": "He is surrounded by friends.",
+    "example_jp": "彼は友人たちを伴っている（友人に囲まれている）。"
+  },
+  {
+    "word": "tighten",
+    "meaning": "しっかり締める",
+    "example": "Tighten the rope.",
+    "example_jp": "ロープをしっかり締めなさい。"
+  },
+  {
+    "word": "tighten",
+    "meaning": "ぴんと張る",
+    "example": "The skin tightened.",
+    "example_jp": "肌がぴんと張った。"
+  },
+  {
+    "word": "tighten",
+    "meaning": "緊張する",
+    "example": "He tightened with fear.",
+    "example_jp": "彼は恐怖で緊張した。"
+  }
+]

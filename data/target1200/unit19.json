@@ -1,0 +1,356 @@
+[
+  {
+    "word": "injure",
+    "meaning": "傷つける",
+    "example": "I injure my leg.",
+    "example_jp": "私は足を傷つける。"
+  },
+  {
+    "word": "injure",
+    "meaning": "痛める",
+    "example": "He injures his arm.",
+    "example_jp": "彼は腕を痛める。"
+  },
+  {
+    "word": "headache",
+    "meaning": "頭痛",
+    "example": "I have a headache.",
+    "example_jp": "私は頭痛がする。"
+  },
+  {
+    "word": "cancer",
+    "meaning": "癌",
+    "example": "He fights cancer.",
+    "example_jp": "彼は癌と戦っている。"
+  },
+  {
+    "word": "breathe",
+    "meaning": "呼吸する",
+    "example": "I breathe deeply.",
+    "example_jp": "私は深く呼吸する。"
+  },
+  {
+    "word": "touch",
+    "meaning": "触れる",
+    "example": "I touch the wall.",
+    "example_jp": "私は壁に触れる。"
+  },
+  {
+    "word": "pat",
+    "meaning": "軽くたたく",
+    "example": "I pat the dog.",
+    "example_jp": "私はその犬を軽くたたく。"
+  },
+  {
+    "word": "shout",
+    "meaning": "叫ぶ",
+    "example": "He shouts for help.",
+    "example_jp": "彼は助けを求めて叫ぶ。"
+  },
+  {
+    "word": "shout",
+    "meaning": "大声で話す",
+    "example": "They shout loudly.",
+    "example_jp": "彼らは大声で話す。"
+  },
+  {
+    "word": "scream",
+    "meaning": "金切り声を出す",
+    "example": "She screams in fear.",
+    "example_jp": "彼女は恐怖で金切り声を出す。"
+  },
+  {
+    "word": "whisper",
+    "meaning": "ささやく",
+    "example": "He whispers to me.",
+    "example_jp": "彼は私にささやく。"
+  },
+  {
+    "word": "bow",
+    "meaning": "おじぎをする",
+    "example": "They bow politely.",
+    "example_jp": "彼らは丁寧におじぎをする。"
+  },
+  {
+    "word": "bend",
+    "meaning": "かがむ",
+    "example": "I bend down.",
+    "example_jp": "私はかがむ。"
+  },
+  {
+    "word": "forehead",
+    "meaning": "額",
+    "example": "He touches his forehead.",
+    "example_jp": "彼は自分の額に触れる。"
+  },
+  {
+    "word": "cheek",
+    "meaning": "頬",
+    "example": "She kisses his cheek.",
+    "example_jp": "彼女は彼の頬にキスをする。"
+  },
+  {
+    "word": "lip",
+    "meaning": "唇",
+    "example": "Her lips are dry.",
+    "example_jp": "彼女の唇は乾いている。"
+  },
+  {
+    "word": "tooth",
+    "meaning": "歯",
+    "example": "I brush my teeth.",
+    "example_jp": "私は歯を磨く。"
+  },
+  {
+    "word": "throat",
+    "meaning": "喉",
+    "example": "My throat hurts.",
+    "example_jp": "喉が痛い。"
+  },
+  {
+    "word": "shoulder",
+    "meaning": "肩",
+    "example": "He hurts his shoulder.",
+    "example_jp": "彼は肩を痛める。"
+  },
+  {
+    "word": "chest",
+    "meaning": "胸",
+    "example": "My chest feels tight.",
+    "example_jp": "私の胸は締め付けられるように感じる。"
+  },
+  {
+    "word": "elbow",
+    "meaning": "肘",
+    "example": "I hit my elbow.",
+    "example_jp": "私は肘をぶつける。"
+  },
+  {
+    "word": "finger",
+    "meaning": "指",
+    "example": "I cut my finger.",
+    "example_jp": "私は指を切る。"
+  },
+  {
+    "word": "thumb",
+    "meaning": "親指",
+    "example": "He raises his thumb.",
+    "example_jp": "彼は親指を立てる。"
+  },
+  {
+    "word": "nail",
+    "meaning": "爪",
+    "example": "Her nails are long.",
+    "example_jp": "彼女の爪は長い。"
+  },
+  {
+    "word": "toe",
+    "meaning": "足の指",
+    "example": "My toe hurts.",
+    "example_jp": "私は足の指が痛い。"
+  },
+  {
+    "word": "toe",
+    "meaning": "つま先",
+    "example": "He stands on his toes.",
+    "example_jp": "彼はつま先で立つ。"
+  },
+  {
+    "word": "ankle",
+    "meaning": "足首",
+    "example": "She twists her ankle.",
+    "example_jp": "彼女は足首をひねる。"
+  },
+  {
+    "word": "skin",
+    "meaning": "皮膚",
+    "example": "Her skin is soft.",
+    "example_jp": "彼女の皮膚は柔らかい。"
+  },
+  {
+    "word": "skin",
+    "meaning": "肌",
+    "example": "He has dry skin.",
+    "example_jp": "彼は肌が乾燥している。"
+  },
+  {
+    "word": "brain",
+    "meaning": "脳",
+    "example": "The brain controls the body.",
+    "example_jp": "脳は体を制御する。"
+  },
+  {
+    "word": "heart",
+    "meaning": "心臓",
+    "example": "His heart beats fast.",
+    "example_jp": "彼の心臓は速く鼓動する。"
+  },
+  {
+    "word": "stomach",
+    "meaning": "胃",
+    "example": "My stomach hurts.",
+    "example_jp": "私は胃が痛い。"
+  },
+  {
+    "word": "blood",
+    "meaning": "血液",
+    "example": "He loses blood.",
+    "example_jp": "彼は血液を失う。"
+  },
+  {
+    "word": "bone",
+    "meaning": "骨",
+    "example": "The bone is strong.",
+    "example_jp": "その骨は強い。"
+  },
+  {
+    "word": "muscle",
+    "meaning": "筋肉",
+    "example": "I train my muscles.",
+    "example_jp": "私は筋肉を鍛える。"
+  },
+  {
+    "word": "emotion",
+    "meaning": "感情",
+    "example": "She hides her emotions.",
+    "example_jp": "彼女は自分の感情を隠す。"
+  },
+  {
+    "word": "mind",
+    "meaning": "心",
+    "example": "Clear your mind.",
+    "example_jp": "心を空にしなさい。"
+  },
+  {
+    "word": "mind",
+    "meaning": "精神",
+    "example": "He has a strong mind.",
+    "example_jp": "彼は強い精神を持っている。"
+  },
+  {
+    "word": "mental",
+    "meaning": "心の",
+    "example": "He needs mental rest.",
+    "example_jp": "彼は心の休息を必要としている。"
+  },
+  {
+    "word": "mental",
+    "meaning": "精神の",
+    "example": "This is a mental problem.",
+    "example_jp": "これは精神の問題だ。"
+  },
+  {
+    "word": "pleasant",
+    "meaning": "楽しい",
+    "example": "The music is pleasant.",
+    "example_jp": "その音楽は楽しい。"
+  },
+  {
+    "word": "suffer",
+    "meaning": "苦しむ",
+    "example": "Many people suffer in winter.",
+    "example_jp": "多くの人々が冬に苦しむ。"
+  },
+  {
+    "word": "upset",
+    "meaning": "取り乱して",
+    "example": "She looks upset.",
+    "example_jp": "彼女は取り乱しているように見える。"
+  },
+  {
+    "word": "upset",
+    "meaning": "動転して",
+    "example": "He is upset about the news.",
+    "example_jp": "彼はそのニュースに動転している。"
+  },
+  {
+    "word": "nervous",
+    "meaning": "心配して",
+    "example": "I feel nervous today.",
+    "example_jp": "私は今日、心配している。"
+  },
+  {
+    "word": "nervous",
+    "meaning": "緊張して",
+    "example": "She is nervous before the test.",
+    "example_jp": "彼女はテストの前に緊張している。"
+  },
+  {
+    "word": "lonely",
+    "meaning": "孤独な",
+    "example": "He feels lonely at night.",
+    "example_jp": "彼は夜に孤独を感じる。"
+  },
+  {
+    "word": "lonely",
+    "meaning": "ひとりぼっちの",
+    "example": "She lives alone and feels lonely.",
+    "example_jp": "彼女は一人で暮らしていて、ひとりぼっちだと感じている。"
+  },
+  {
+    "word": "shocked",
+    "meaning": "ショックを受けた",
+    "example": "I am shocked by the story.",
+    "example_jp": "私はその話にショックを受けた。"
+  },
+  {
+    "word": "stress",
+    "meaning": "ストレス",
+    "example": "I have a lot of stress.",
+    "example_jp": "私は多くのストレスを抱えている。"
+  },
+  {
+    "word": "mad",
+    "meaning": "怒って",
+    "example": "He is mad at me.",
+    "example_jp": "彼は私に対して怒っている。"
+  },
+  {
+    "word": "anger",
+    "meaning": "怒り",
+    "example": "He cannot hide his anger.",
+    "example_jp": "彼は自身の怒りを隠すことができない。"
+  },
+  {
+    "word": "joy",
+    "meaning": "喜び",
+    "example": "She jumps with joy.",
+    "example_jp": "彼女は喜びで飛び跳ねる。"
+  },
+  {
+    "word": "relaxed",
+    "meaning": "くつろいだ",
+    "example": "I feel relaxed here.",
+    "example_jp": "私はここでくつろいだ気分になる。"
+  },
+  {
+    "word": "fear",
+    "meaning": "恐怖",
+    "example": "He shakes with fear.",
+    "example_jp": "彼は恐怖で震える。"
+  },
+  {
+    "word": "panic",
+    "meaning": "パニック",
+    "example": "She is in a panic.",
+    "example_jp": "彼女はパニック状態だ。"
+  },
+  {
+    "word": "character",
+    "meaning": "性格",
+    "example": "His character is kind.",
+    "example_jp": "彼の性格は親切だ。"
+  },
+  {
+    "word": "humor",
+    "meaning": "ユーモア",
+    "example": "He has a good sense of humor.",
+    "example_jp": "彼は優れたユーモアのセンスを持っている。"
+  },
+  {
+    "word": "frank",
+    "meaning": "率直な",
+    "example": "She is frank with her friends.",
+    "example_jp": "彼女は友達に対して率直だ。"
+  }
+]

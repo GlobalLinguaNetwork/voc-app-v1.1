@@ -1,0 +1,362 @@
+[
+  {
+    "word": "bake",
+    "meaning": "（パンなどを）焼く",
+    "example": "I bake bread every morning.",
+    "example_jp": "私は毎朝パンを焼く。"
+  },
+  {
+    "word": "harvest",
+    "meaning": "収穫",
+    "example": "The harvest is good this year.",
+    "example_jp": "今年は収穫が良い。"
+  },
+  {
+    "word": "harvest",
+    "meaning": "収穫物",
+    "example": "We bring in the harvest.",
+    "example_jp": "私たちは収穫物を運び入れる。"
+  },
+  {
+    "word": "vegetable",
+    "meaning": "野菜",
+    "example": "I eat many vegetables.",
+    "example_jp": "私は多くの野菜を食べる。"
+  },
+  {
+    "word": "meat",
+    "meaning": "肉",
+    "example": "He doesn’t eat meat.",
+    "example_jp": "彼は肉を食べない。"
+  },
+  {
+    "word": "wheat",
+    "meaning": "小麦",
+    "example": "Wheat grows in this field.",
+    "example_jp": "この畑で小麦が育つ。"
+  },
+  {
+    "word": "flour",
+    "meaning": "小麦粉",
+    "example": "I need flour to bake a cake.",
+    "example_jp": "私はケーキを焼くために小麦粉を必要とする。"
+  },
+  {
+    "word": "honey",
+    "meaning": "ハチミツ",
+    "example": "I put honey in my tea.",
+    "example_jp": "私は紅茶にハチミツを入れる。"
+  },
+  {
+    "word": "salt",
+    "meaning": "塩",
+    "example": "Add some salt.",
+    "example_jp": "塩をいくらか加えなさい。"
+  },
+  {
+    "word": "menu",
+    "meaning": "メニュー",
+    "example": "The menu is on the table.",
+    "example_jp": "メニューはテーブルの上にある。"
+  },
+  {
+    "word": "choice",
+    "meaning": "選択",
+    "example": "This is a good choice.",
+    "example_jp": "これは良い選択だ。"
+  },
+  {
+    "word": "service",
+    "meaning": "サービス",
+    "example": "The service is fast.",
+    "example_jp": "サービスが速い。"
+  },
+  {
+    "word": "service",
+    "meaning": "応対",
+    "example": "She gives kind service.",
+    "example_jp": "彼女は親切な応対をする。"
+  },
+  {
+    "word": "tip",
+    "meaning": "チップ",
+    "example": "I leave a tip.",
+    "example_jp": "私はチップを置いていく。"
+  },
+  {
+    "word": "cancel",
+    "meaning": "取り消す",
+    "example": "I cancel the order.",
+    "example_jp": "私は注文を取り消す。"
+  },
+  {
+    "word": "cancel",
+    "meaning": "中止する",
+    "example": "They cancel the event.",
+    "example_jp": "彼らは行事を中止する。"
+  },
+  {
+    "word": "culture",
+    "meaning": "文化",
+    "example": "I study Japanese culture.",
+    "example_jp": "私は日本の文化を研究している。"
+  },
+  {
+    "word": "hobby",
+    "meaning": "趣味",
+    "example": "My hobby is reading.",
+    "example_jp": "私の趣味は読書だ。"
+  },
+  {
+    "word": "amusement",
+    "meaning": "楽しみ",
+    "example": "This park gives us amusement.",
+    "example_jp": "この公園は私たちに楽しみを与えてくれる。"
+  },
+  {
+    "word": "entertainment",
+    "meaning": "娯楽",
+    "example": "The show is good entertainment.",
+    "example_jp": "そのショーは良い娯楽だ。"
+  },
+  {
+    "word": "collect",
+    "meaning": "集める",
+    "example": "I collect stamps.",
+    "example_jp": "私は切手を集める。"
+  },
+  {
+    "word": "collect",
+    "meaning": "収集する",
+    "example": "She collects old books.",
+    "example_jp": "彼女は古い本を収集する。"
+  },
+  {
+    "word": "exhibit",
+    "meaning": "展示する",
+    "example": "They exhibit old photos.",
+    "example_jp": "彼らは古い写真を展示する。"
+  },
+  {
+    "word": "instrument",
+    "meaning": "楽器",
+    "example": "He plays a musical instrument.",
+    "example_jp": "彼は楽器を演奏する。"
+  },
+  {
+    "word": "tune",
+    "meaning": "（音楽の）調子",
+    "example": "I like this tune.",
+    "example_jp": "私はこの（音楽の）調子が好きだ。"
+  },
+  {
+    "word": "film",
+    "meaning": "映画",
+    "example": "We watch a film.",
+    "example_jp": "私たちは映画を見る。"
+  },
+  {
+    "word": "cartoon",
+    "meaning": "アニメ",
+    "example": "I like this cartoon.",
+    "example_jp": "私はこのアニメが好きだ。"
+  },
+  {
+    "word": "comic",
+    "meaning": "漫画",
+    "example": "She reads a comic.",
+    "example_jp": "彼女は漫画を読む。"
+  },
+  {
+    "word": "photograph",
+    "meaning": "写真",
+    "example": "This photograph is beautiful.",
+    "example_jp": "この写真は美しい。"
+  },
+  {
+    "word": "portrait",
+    "meaning": "肖像画",
+    "example": "He draws a portrait.",
+    "example_jp": "彼は肖像画を描く。"
+  },
+  {
+    "word": "magic",
+    "meaning": "手品",
+    "example": "He shows a magic trick.",
+    "example_jp": "彼は手品のトリックを見せる。"
+  },
+  {
+    "word": "tour",
+    "meaning": "旅行",
+    "example": "We go on a tour.",
+    "example_jp": "私たちは旅行（ツアー）に出かける。"
+  },
+  {
+    "word": "tour",
+    "meaning": "ツアー",
+    "example": "The tour is fun.",
+    "example_jp": "そのツアーは楽しい。"
+  },
+  {
+    "word": "journey",
+    "meaning": "旅行",
+    "example": "The journey takes two days.",
+    "example_jp": "その旅行（旅路）は2日かかる。"
+  },
+  {
+    "word": "sightseeing",
+    "meaning": "観光",
+    "example": "We enjoy sightseeing.",
+    "example_jp": "私たちは観光を楽しむ。"
+  },
+  {
+    "word": "adventure",
+    "meaning": "冒険",
+    "example": "This trip is an adventure.",
+    "example_jp": "この旅行は冒険だ。"
+  },
+  {
+    "word": "explore",
+    "meaning": "探検する",
+    "example": "We explore the forest.",
+    "example_jp": "私たちは森林を探検する。"
+  },
+  {
+    "word": "wander",
+    "meaning": "歩き回る",
+    "example": "I wander around the town.",
+    "example_jp": "私は町の周りを歩き回る。"
+  },
+  {
+    "word": "wander",
+    "meaning": "ぶらつく",
+    "example": "They wander in the park.",
+    "example_jp": "彼らは公園でぶらつく。"
+  },
+  {
+    "word": "camp",
+    "meaning": "キャンプ",
+    "example": "We camp by the lake.",
+    "example_jp": "私たちは湖のそばでキャンプをする。"
+  },
+  {
+    "word": "tourist",
+    "meaning": "観光客",
+    "example": "Many tourists visit here.",
+    "example_jp": "多くの観光客がここを訪れる。"
+  },
+  {
+    "word": "passenger",
+    "meaning": "乗客",
+    "example": "The passengers get off the bus.",
+    "example_jp": "乗客たちがバスを降りる。"
+  },
+  {
+    "word": "guide",
+    "meaning": "ガイド",
+    "example": "The guide shows us the way.",
+    "example_jp": "ガイドが私たちに道を教える。"
+  },
+  {
+    "word": "guide",
+    "meaning": "案内人",
+    "example": "She is a good guide.",
+    "example_jp": "彼女は良い案内人だ。"
+  },
+  {
+    "word": "vacation",
+    "meaning": "休暇",
+    "example": "We go on vacation.",
+    "example_jp": "私たちは休暇に出かける。"
+  },
+  {
+    "word": "souvenir",
+    "meaning": "お土産",
+    "example": "I buy a souvenir.",
+    "example_jp": "私はお土産を買う。"
+  },
+  {
+    "word": "pack",
+    "meaning": "荷物を詰める",
+    "example": "I pack my bag.",
+    "example_jp": "私はバッグに荷物を詰める。"
+  },
+  {
+    "word": "win",
+    "meaning": "勝つ",
+    "example": "We win the game.",
+    "example_jp": "私たちは試合に勝つ。"
+  },
+  {
+    "word": "victory",
+    "meaning": "勝利",
+    "example": "The team gets a victory.",
+    "example_jp": "チームは勝利を得る。"
+  },
+  {
+    "word": "record",
+    "meaning": "記録",
+    "example": "He breaks the record.",
+    "example_jp": "彼は記録を破る。"
+  },
+  {
+    "word": "score",
+    "meaning": "得点",
+    "example": "The score is 3 to 1.",
+    "example_jp": "得点は3対1だ。"
+  },
+  {
+    "word": "score",
+    "meaning": "スコア",
+    "example": "She gets a high score.",
+    "example_jp": "彼女は高いスコアを取る。"
+  },
+  {
+    "word": "prize",
+    "meaning": "賞",
+    "example": "He wins a prize.",
+    "example_jp": "彼は賞を勝ち取る。"
+  },
+  {
+    "word": "award",
+    "meaning": "賞",
+    "example": "She gets an award.",
+    "example_jp": "彼女は賞を受け取る。"
+  },
+  {
+    "word": "award",
+    "meaning": "賞金",
+    "example": "He receives an award of money.",
+    "example_jp": "彼は賞金を受け取る。"
+  },
+  {
+    "word": "race",
+    "meaning": "競争",
+    "example": "The race starts now.",
+    "example_jp": "競争が今始まる。"
+  },
+  {
+    "word": "race",
+    "meaning": "人種",
+    "example": "People of every race live here.",
+    "example_jp": "あらゆる人種の人がここに住んでいる。"
+  },
+  {
+    "word": "match",
+    "meaning": "試合",
+    "example": "The match is exciting.",
+    "example_jp": "その試合はわくわくさせる。"
+  },
+  {
+    "word": "tournament",
+    "meaning": "トーナメント",
+    "example": "The tournament begins today.",
+    "example_jp": "トーナメントが今日始まる。"
+  },
+  {
+    "word": "professional",
+    "meaning": "プロの",
+    "example": "He is a professional player.",
+    "example_jp": "彼はプロの選手だ。"
+  }
+]

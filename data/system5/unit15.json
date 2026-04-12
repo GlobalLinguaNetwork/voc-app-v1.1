@@ -1,0 +1,380 @@
+[
+  {
+    "word": "embrace",
+    "meaning": "受け入れる、含む",
+    "example": "We embraced the new idea.",
+    "example_jp": "私たちはその新しい考えを受け入れた。"
+  },
+  {
+    "word": "proportion",
+    "meaning": "比率",
+    "example": "A large proportion of people agreed.",
+    "example_jp": "多くの人が賛成した。"
+  },
+  {
+    "word": "contract",
+    "meaning": "契約",
+    "example": "I signed the contract.",
+    "example_jp": "私は契約書に署名した。"
+  },
+  {
+    "word": "chest",
+    "meaning": "胸",
+    "example": "He held his chest.",
+    "example_jp": "彼は胸を押さえた。"
+  },
+  {
+    "word": "treasure",
+    "meaning": "財宝",
+    "example": "They found a treasure.",
+    "example_jp": "彼らは財宝を見つけた。"
+  },
+  {
+    "word": "stock",
+    "meaning": "株(式)",
+    "example": "He bought stock.",
+    "example_jp": "彼は株を買った。"
+  },
+  {
+    "word": "facility",
+    "meaning": "設備、施設",
+    "example": "The facility is new.",
+    "example_jp": "その施設は新しい。"
+  },
+  {
+    "word": "sum",
+    "meaning": "金額",
+    "example": "The sum was large.",
+    "example_jp": "その金額は多額だった。"
+  },
+  {
+    "word": "sum",
+    "meaning": "合計",
+    "example": "The sum is 20.",
+    "example_jp": "合計は20だ。"
+  },
+  {
+    "word": "sum",
+    "meaning": "要約",
+    "example": "Here is a short sum of the story.",
+    "example_jp": "ここにその話の簡単な要約がある。"
+  },
+  {
+    "word": "rank",
+    "meaning": "地位",
+    "example": "His rank is high.",
+    "example_jp": "彼の地位は高い。"
+  },
+  {
+    "word": "democracy",
+    "meaning": "民主主義",
+    "example": "They support democracy.",
+    "example_jp": "彼らは民主主義を支持している。"
+  },
+  {
+    "word": "democracy",
+    "meaning": "民主国家",
+    "example": "Japan is a democracy.",
+    "example_jp": "日本は民主国家だ。"
+  },
+  {
+    "word": "emergency",
+    "meaning": "緊急事態",
+    "example": "It was an emergency.",
+    "example_jp": "それは緊急事態だった。"
+  },
+  {
+    "word": "protest",
+    "meaning": "抗議",
+    "example": "They held a protest.",
+    "example_jp": "彼らは抗議行動を行った。"
+  },
+  {
+    "word": "immigrant",
+    "meaning": "移民",
+    "example": "He is an immigrant.",
+    "example_jp": "彼は移民だ。"
+  },
+  {
+    "word": "vehicle",
+    "meaning": "車、乗り物",
+    "example": "This vehicle is fast.",
+    "example_jp": "この乗り物は速い。"
+  },
+  {
+    "word": "vehicle",
+    "meaning": "手段",
+    "example": "Language is a vehicle of culture.",
+    "example_jp": "言語は文化の伝達手段だ。"
+  },
+  {
+    "word": "routine",
+    "meaning": "決まりきった仕事、日課",
+    "example": "This is my daily routine.",
+    "example_jp": "これは私の日課だ。"
+  },
+  {
+    "word": "stuff",
+    "meaning": "物",
+    "example": "I moved my stuff.",
+    "example_jp": "私は自分の荷物を移動させた。"
+  },
+  {
+    "word": "row",
+    "meaning": "列",
+    "example": "They sat in a row.",
+    "example_jp": "彼らは列に座った。"
+  },
+  {
+    "word": "profile",
+    "meaning": "プロフィール、人物紹介",
+    "example": "I updated my profile.",
+    "example_jp": "私はプロフィールを更新した。"
+  },
+  {
+    "word": "profile",
+    "meaning": "横顔",
+    "example": "I saw her side profile.",
+    "example_jp": "私は彼女の横顔を見た。"
+  },
+  {
+    "word": "dawn",
+    "meaning": "夜明け",
+    "example": "We left at dawn.",
+    "example_jp": "私たちは夜明けに出発した。"
+  },
+  {
+    "word": "welfare",
+    "meaning": "福祉",
+    "example": "They work for public welfare.",
+    "example_jp": "彼らは公共の福祉のために働いている。"
+  },
+  {
+    "word": "perspective",
+    "meaning": "見方",
+    "example": "From my perspective, it’s true.",
+    "example_jp": "私の見方では、それは本当だ。"
+  },
+  {
+    "word": "enthusiasm",
+    "meaning": "熱意、情熱",
+    "example": "She showed great enthusiasm.",
+    "example_jp": "彼女は大きな熱意を示した。"
+  },
+  {
+    "word": "faith",
+    "meaning": "信頼",
+    "example": "I have faith in you.",
+    "example_jp": "私はあなたを信頼している。"
+  },
+  {
+    "word": "occupation",
+    "meaning": "職業",
+    "example": "His occupation is teacher.",
+    "example_jp": "彼の職業は教師だ。"
+  },
+  {
+    "word": "occupation",
+    "meaning": "占領",
+    "example": "The army ended the occupation.",
+    "example_jp": "軍隊は占領を終わらせた。"
+  },
+  {
+    "word": "witness",
+    "meaning": "証人",
+    "example": "He was a witness.",
+    "example_jp": "彼は証人だった。"
+  },
+  {
+    "word": "witness",
+    "meaning": "目撃者",
+    "example": "I was a witness to the accident.",
+    "example_jp": "私はその事故の目撃者だった。"
+  },
+  {
+    "word": "kingdom",
+    "meaning": "王国",
+    "example": "They lived in a kingdom.",
+    "example_jp": "彼らは王国に住んでいた。"
+  },
+  {
+    "word": "equivalent",
+    "meaning": "同等のもの、相当するもの",
+    "example": "This is the equivalent of 10 dollars.",
+    "example_jp": "これは10ドルに相当するものだ。"
+  },
+  {
+    "word": "objective",
+    "meaning": "目的、目標",
+    "example": "Our objective is clear.",
+    "example_jp": "私たちの目的は明確だ。"
+  },
+  {
+    "word": "objective",
+    "meaning": "客観的な",
+    "example": "Be objective.",
+    "example_jp": "客観的になりなさい。"
+  },
+  {
+    "word": "pile",
+    "meaning": "積み重ね",
+    "example": "He made a pile of books.",
+    "example_jp": "彼は本を山積みにした。"
+  },
+  {
+    "word": "shelter",
+    "meaning": "避難(所)",
+    "example": "They found shelter.",
+    "example_jp": "彼らは避難所を見つけた。"
+  },
+  {
+    "word": "trial",
+    "meaning": "試み",
+    "example": "It was a trial.",
+    "example_jp": "それは試みだった。"
+  },
+  {
+    "word": "trial",
+    "meaning": "裁判",
+    "example": "The trial lasted a week.",
+    "example_jp": "その裁判は1週間続いた。"
+  },
+  {
+    "word": "honor",
+    "meaning": "名誉",
+    "example": "It is an honor to meet you.",
+    "example_jp": "お会いできて光栄です。"
+  },
+  {
+    "word": "territory",
+    "meaning": "領土、なわ張り",
+    "example": "They protected their territory.",
+    "example_jp": "彼らは自分たちの領土を守った。"
+  },
+  {
+    "word": "frame",
+    "meaning": "わく",
+    "example": "The frame is broken.",
+    "example_jp": "その枠は壊れている。"
+  },
+  {
+    "word": "border",
+    "meaning": "国境地帯",
+    "example": "They crossed the border.",
+    "example_jp": "彼らは国境を越えた。"
+  },
+  {
+    "word": "statistics",
+    "meaning": "統計(学)",
+    "example": "He studies statistics.",
+    "example_jp": "彼は統計学を学んでいる。"
+  },
+  {
+    "word": "enterprise",
+    "meaning": "企業、事業",
+    "example": "He started a new enterprise.",
+    "example_jp": "彼は新しい事業を始めた。"
+  },
+  {
+    "word": "context",
+    "meaning": "文脈",
+    "example": "Understand the word in context.",
+    "example_jp": "その語を文脈の中で理解しなさい。"
+  },
+  {
+    "word": "context",
+    "meaning": "状況",
+    "example": "The context was strange.",
+    "example_jp": "その状況は奇妙だった。"
+  },
+  {
+    "word": "load",
+    "meaning": "荷物",
+    "example": "He carried a heavy load.",
+    "example_jp": "彼は重い荷物を運んだ。"
+  },
+  {
+    "word": "grain",
+    "meaning": "穀物",
+    "example": "They grow grain.",
+    "example_jp": "彼らは穀物を栽培している。"
+  },
+  {
+    "word": "review",
+    "meaning": "再検討",
+    "example": "We did a review of the plan.",
+    "example_jp": "私たちはその計画を再検討した。"
+  },
+  {
+    "word": "prejudice",
+    "meaning": "偏見",
+    "example": "He has no prejudice.",
+    "example_jp": "彼には偏見がない。"
+  },
+  {
+    "word": "strain",
+    "meaning": "負担",
+    "example": "The work caused strain.",
+    "example_jp": "その仕事は負担を引き起こした。"
+  },
+  {
+    "word": "trap",
+    "meaning": "わな",
+    "example": "He fell into a trap.",
+    "example_jp": "彼はわなに落ちた。"
+  },
+  {
+    "word": "trap",
+    "meaning": "閉じ込められる",
+    "example": "The cat was trapped.",
+    "example_jp": "その猫は閉じ込められていた。"
+  },
+  {
+    "word": "trap",
+    "meaning": "わなにかける",
+    "example": "They trapped the animal.",
+    "example_jp": "彼らはその動物をわなにかけた。"
+  },
+  {
+    "word": "temper",
+    "meaning": "気性",
+    "example": "He has a bad temper.",
+    "example_jp": "彼は短気だ。"
+  },
+  {
+    "word": "slave",
+    "meaning": "奴隷",
+    "example": "He was a slave.",
+    "example_jp": "彼は奴隷だった。"
+  },
+  {
+    "word": "wound",
+    "meaning": "傷",
+    "example": "He had a deep wound.",
+    "example_jp": "彼は深い傷を負っていた。"
+  },
+  {
+    "word": "divorce",
+    "meaning": "離婚",
+    "example": "They got a divorce.",
+    "example_jp": "彼らは離婚した。"
+  },
+  {
+    "word": "tune",
+    "meaning": "曲",
+    "example": "I like this tune.",
+    "example_jp": "私はこの曲が好きだ。"
+  },
+  {
+    "word": "height",
+    "meaning": "高さ",
+    "example": "The height is 2 meters.",
+    "example_jp": "高さは2メートルだ。"
+  },
+  {
+    "word": "height",
+    "meaning": "最盛期",
+    "example": "He was at the height of his power.",
+    "example_jp": "彼は権力の絶頂にいた。"
+  }
+]

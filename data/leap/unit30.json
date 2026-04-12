@@ -1,0 +1,482 @@
+[
+  {
+    "word": "paralyze",
+    "meaning": "麻痺させる",
+    "example": "The accident paralyzed his legs.",
+    "example_jp": "その事故が彼の足を麻痺させた。"
+  },
+  {
+    "word": "prescribe",
+    "meaning": "処方する",
+    "example": "The doctor prescribed medicine.",
+    "example_jp": "医者が薬を処方した。"
+  },
+  {
+    "word": "prescribe",
+    "meaning": "指示する",
+    "example": "The rules prescribe strict behavior.",
+    "example_jp": "規則が厳格な行動を指示している。"
+  },
+  {
+    "word": "digest",
+    "meaning": "消化する",
+    "example": "The body digests food slowly.",
+    "example_jp": "体は食べ物をゆっくりと消化する。"
+  },
+  {
+    "word": "digest",
+    "meaning": "理解する",
+    "example": "I need time to digest the news.",
+    "example_jp": "私はそのニュースを理解するのに時間が必要だ。"
+  },
+  {
+    "word": "digest",
+    "meaning": "要約",
+    "example": "I read a digest of the report.",
+    "example_jp": "私はその報告書の要約を読んだ。"
+  },
+  {
+    "word": "weary",
+    "meaning": "疲れている",
+    "example": "She looked weary after work.",
+    "example_jp": "彼女は仕事の後、疲れているように見えた。"
+  },
+  {
+    "word": "weary",
+    "meaning": "うんざりしている",
+    "example": "He is weary of the routine.",
+    "example_jp": "彼はその日課にうんざりしている。"
+  },
+  {
+    "word": "nourish",
+    "meaning": "栄養を与える",
+    "example": "Milk nourishes the baby.",
+    "example_jp": "ミルクがその赤ん坊に栄養を与える。"
+  },
+  {
+    "word": "nourish",
+    "meaning": "抱く",
+    "example": "She nourished a hope in her heart.",
+    "example_jp": "彼女は心の中に希望を抱いた。"
+  },
+  {
+    "word": "appalling",
+    "meaning": "ぞっとするような",
+    "example": "The conditions were appalling.",
+    "example_jp": "その状況はぞっとするようなものだった。"
+  },
+  {
+    "word": "flesh",
+    "meaning": "肉",
+    "example": "The wound exposed the flesh.",
+    "example_jp": "その傷が肉を露出させた。"
+  },
+  {
+    "word": "limb",
+    "meaning": "手足",
+    "example": "He injured his limb.",
+    "example_jp": "彼は手足を負傷した。"
+  },
+  {
+    "word": "erect",
+    "meaning": "直立した",
+    "example": "He stood erect.",
+    "example_jp": "彼は直立した状態で立った。"
+  },
+  {
+    "word": "erect",
+    "meaning": "建てる",
+    "example": "They erected a new building.",
+    "example_jp": "彼らは新しい建物を建てた。"
+  },
+  {
+    "word": "spinal",
+    "meaning": "脊椎の",
+    "example": "He suffered a spinal injury.",
+    "example_jp": "彼は脊椎の損傷を負った。"
+  },
+  {
+    "word": "suck",
+    "meaning": "吸う",
+    "example": "The baby sucked the milk.",
+    "example_jp": "その赤ん坊はミルクを吸った。"
+  },
+  {
+    "word": "shrug",
+    "meaning": "肩をすくめる",
+    "example": "She shrugged her shoulders.",
+    "example_jp": "彼女は肩をすくめた。"
+  },
+  {
+    "word": "shrug",
+    "meaning": "肩をすくめる",
+    "example": "He shrugged and walked away.",
+    "example_jp": "彼は肩をすくめて歩き去った。"
+  },
+  {
+    "word": "compensate",
+    "meaning": "AにBを補償する",
+    "example": "They compensated A for B.",
+    "example_jp": "彼らはAにBを補償した。"
+  },
+  {
+    "word": "abuse",
+    "meaning": "虐待",
+    "example": "The child suffered abuse.",
+    "example_jp": "その子供は虐待を受けた。"
+  },
+  {
+    "word": "abuse",
+    "meaning": "乱用",
+    "example": "Drug abuse is dangerous.",
+    "example_jp": "薬物の乱用は危険だ。"
+  },
+  {
+    "word": "abuse",
+    "meaning": "悪用する",
+    "example": "He abused his power.",
+    "example_jp": "彼は自分の権力を悪用した。"
+  },
+  {
+    "word": "bias",
+    "meaning": "偏見",
+    "example": "He has a bias against women.",
+    "example_jp": "彼は女性に対して偏見を持っている。"
+  },
+  {
+    "word": "prestige",
+    "meaning": "名声，威信",
+    "example": "The award gave him prestige.",
+    "example_jp": "その賞が彼に名声（威信）を与えた。"
+  },
+  {
+    "word": "privilege",
+    "meaning": "特権",
+    "example": "Education is a privilege.",
+    "example_jp": "教育は特権だ。"
+  },
+  {
+    "word": "feat",
+    "meaning": "偉業",
+    "example": "Building the bridge was a feat.",
+    "example_jp": "その橋を架けることは偉業だった。"
+  },
+  {
+    "word": "dignity",
+    "meaning": "威厳",
+    "example": "He kept his dignity.",
+    "example_jp": "彼は自分の威厳を保った。"
+  },
+  {
+    "word": "virtue",
+    "meaning": "美徳",
+    "example": "Honesty is a virtue.",
+    "example_jp": "誠実さは美徳だ。"
+  },
+  {
+    "word": "virtue",
+    "meaning": "長所",
+    "example": "This tool has many virtues.",
+    "example_jp": "この道具には多くの長所がある。"
+  },
+  {
+    "word": "virtue",
+    "meaning": "～のために",
+    "example": "By virtue of his skill, he won.",
+    "example_jp": "自分のスキルのために（のおかげで）、彼は勝った。"
+  },
+  {
+    "word": "aristocracy",
+    "meaning": "貴族",
+    "example": "He was born into the aristocracy.",
+    "example_jp": "彼は貴族の家に生まれた。"
+  },
+  {
+    "word": "rebel",
+    "meaning": "反逆者",
+    "example": "The rebels attacked the base.",
+    "example_jp": "反逆者たちが基地を攻撃した。"
+  },
+  {
+    "word": "rebel",
+    "meaning": "反逆する",
+    "example": "They rebelled against the king.",
+    "example_jp": "彼らは王に対して反逆した。"
+  },
+  {
+    "word": "scheme",
+    "meaning": "計画",
+    "example": "They made a new scheme.",
+    "example_jp": "彼らは新しい計画を立てた。"
+  },
+  {
+    "word": "scheme",
+    "meaning": "陰謀",
+    "example": "He discovered their scheme.",
+    "example_jp": "彼は彼らの陰謀を発見した。"
+  },
+  {
+    "word": "convention",
+    "meaning": "会議，大会",
+    "example": "The convention was held in Tokyo.",
+    "example_jp": "会議（大会）が東京で開催された。"
+  },
+  {
+    "word": "convention",
+    "meaning": "慣習",
+    "example": "It is a social convention.",
+    "example_jp": "それは社会的な慣習だ。"
+  },
+  {
+    "word": "convention",
+    "meaning": "条約",
+    "example": "They signed a convention.",
+    "example_jp": "彼らは条約に署名した。"
+  },
+  {
+    "word": "conference",
+    "meaning": "会議",
+    "example": "They held a conference on climate.",
+    "example_jp": "彼らは気候に関する会議を開いた。"
+  },
+  {
+    "word": "consent",
+    "meaning": "合意",
+    "example": "They reached consent.",
+    "example_jp": "彼らは合意に達した。"
+  },
+  {
+    "word": "consent",
+    "meaning": "合意する",
+    "example": "She consented to the plan.",
+    "example_jp": "彼女はその計画に合意した。"
+  },
+  {
+    "word": "initiative",
+    "meaning": "新構想，新計画",
+    "example": "The company launched a new initiative.",
+    "example_jp": "その会社は新しい新構想（新計画）を立ち上げた。"
+  },
+  {
+    "word": "initiative",
+    "meaning": "主導権",
+    "example": "He took the initiative.",
+    "example_jp": "彼は主導権を握った。"
+  },
+  {
+    "word": "province",
+    "meaning": "州，省",
+    "example": "He lives in a northern province.",
+    "example_jp": "彼は北部の州（省）に住んでいる。"
+  },
+  {
+    "word": "province",
+    "meaning": "地方",
+    "example": "They moved to the provinces.",
+    "example_jp": "彼らは地方へ引っ越した。"
+  },
+  {
+    "word": "colony",
+    "meaning": "植民地",
+    "example": "The island was a colony.",
+    "example_jp": "その島は植民地だった。"
+  },
+  {
+    "word": "colony",
+    "meaning": "群落",
+    "example": "An ant colony is huge.",
+    "example_jp": "アリの群落は巨大だ。"
+  },
+  {
+    "word": "frontier",
+    "meaning": "辺境，国境",
+    "example": "They explored the frontier.",
+    "example_jp": "彼らは辺境（国境）を探索した。"
+  },
+  {
+    "word": "frontier",
+    "meaning": "最前線",
+    "example": "They work on the frontiers of science.",
+    "example_jp": "彼らは科学の最前線で働いている。"
+  },
+  {
+    "word": "treaty",
+    "meaning": "条約",
+    "example": "The countries signed a treaty.",
+    "example_jp": "その国々は条約に署名した。"
+  },
+  {
+    "word": "tribe",
+    "meaning": "部族，種族",
+    "example": "The tribe lived in the forest.",
+    "example_jp": "その部族（種族）は森で暮らしていた。"
+  },
+  {
+    "word": "pension",
+    "meaning": "年金",
+    "example": "He receives a pension.",
+    "example_jp": "彼は年金を受け取っている。"
+  },
+  {
+    "word": "stake",
+    "meaning": "利害関係",
+    "example": "He has a stake in the company.",
+    "example_jp": "彼はその会社に利害関係を持っている。"
+  },
+  {
+    "word": "stake",
+    "meaning": "危険",
+    "example": "Many lives are at stake.",
+    "example_jp": "多くの命が危険にさらされている。"
+  },
+  {
+    "word": "stake",
+    "meaning": "賭け金，配当金",
+    "example": "He lost his stakes in the game.",
+    "example_jp": "彼はゲームで賭け金（配当金）を失った。"
+  },
+  {
+    "word": "coverage",
+    "meaning": "報道",
+    "example": "The news gave full coverage.",
+    "example_jp": "そのニュースは完全な報道を行った。"
+  },
+  {
+    "word": "coverage",
+    "meaning": "補償範囲",
+    "example": "The insurance coverage is wide.",
+    "example_jp": "その保険の補償範囲は広い。"
+  },
+  {
+    "word": "obligation",
+    "meaning": "責務",
+    "example": "We have an obligation to help.",
+    "example_jp": "私たちには助けるという責務がある。"
+  },
+  {
+    "word": "obligation",
+    "meaning": "恩義",
+    "example": "I owe him an obligation.",
+    "example_jp": "私は彼に恩義がある。"
+  },
+  {
+    "word": "hygiene",
+    "meaning": "衛生",
+    "example": "Good hygiene prevents illness.",
+    "example_jp": "良好な衛生が病気を防ぐ。"
+  },
+  {
+    "word": "supervisor",
+    "meaning": "監督者",
+    "example": "He is the project supervisor.",
+    "example_jp": "彼はプロジェクトの監督者だ。"
+  },
+  {
+    "word": "norm",
+    "meaning": "普通のこと",
+    "example": "This is the norm.",
+    "example_jp": "これが普通のことだ。"
+  },
+  {
+    "word": "norm",
+    "meaning": "規範",
+    "example": "Social norms change over time.",
+    "example_jp": "社会的な規範は時とともに変化する。"
+  },
+  {
+    "word": "patent",
+    "meaning": "特許",
+    "example": "He got a patent for the invention.",
+    "example_jp": "彼はその発明の特許を取った。"
+  },
+  {
+    "word": "patent",
+    "meaning": "特許をとる",
+    "example": "They patented the device.",
+    "example_jp": "彼らはその装置の特許をとった。"
+  },
+  {
+    "word": "patent",
+    "meaning": "明白な",
+    "example": "It was a patent lie.",
+    "example_jp": "それは明白な嘘だった。"
+  },
+  {
+    "word": "primitive",
+    "meaning": "原始的な",
+    "example": "They used primitive tools.",
+    "example_jp": "彼らは原始的な道具を使った。"
+  },
+  {
+    "word": "ethnic",
+    "meaning": "民族の",
+    "example": "They study ethnic culture.",
+    "example_jp": "彼らは民族の文化を研究している。"
+  },
+  {
+    "word": "anonymous",
+    "meaning": "匿名の",
+    "example": "The letter was anonymous.",
+    "example_jp": "その手紙は匿名だった。"
+  },
+  {
+    "word": "metropolitan",
+    "meaning": "大都市の",
+    "example": "He lives in a metropolitan area.",
+    "example_jp": "彼は大都市の地域に住んでいる。"
+  },
+  {
+    "word": "entitled",
+    "meaning": "権利がある",
+    "example": "You are entitled to a refund.",
+    "example_jp": "あなたには払い戻しを受ける権利がある。"
+  },
+  {
+    "word": "entitled",
+    "meaning": "～と題された",
+    "example": "The book is entitled “Hope.”",
+    "example_jp": "その本は「希望」と題されている。"
+  },
+  {
+    "word": "demographic",
+    "meaning": "人口統計上の",
+    "example": "They analyzed demographic data.",
+    "example_jp": "彼らは人口統計上のデータを分析した。"
+  },
+  {
+    "word": "demographic",
+    "meaning": "年齢層",
+    "example": "The product targets a young demographic.",
+    "example_jp": "その製品は若い年齢層をターゲットにしている。"
+  },
+  {
+    "word": "donate",
+    "meaning": "寄付する",
+    "example": "He donated money to charity.",
+    "example_jp": "彼は慈善団体にお金を寄付した。"
+  },
+  {
+    "word": "donate",
+    "meaning": "提供する",
+    "example": "She donated her kidney.",
+    "example_jp": "彼女は自分の腎臓を提供した。"
+  },
+  {
+    "word": "flourish",
+    "meaning": "栄える",
+    "example": "The business flourished.",
+    "example_jp": "そのビジネスは栄えた。"
+  },
+  {
+    "word": "conform",
+    "meaning": "合わせる",
+    "example": "He conformed to the rules.",
+    "example_jp": "彼は規則に合わせた。"
+  },
+  {
+    "word": "comply",
+    "meaning": "従う，遵守する",
+    "example": "They complied with the law.",
+    "example_jp": "彼らは法律に従った（遵守した）。"
+  }
+]

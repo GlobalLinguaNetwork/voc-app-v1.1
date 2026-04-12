@@ -1,0 +1,374 @@
+[
+  {
+    "word": "library",
+    "meaning": "図書館",
+    "example": "I study in the library.",
+    "example_jp": "私は図書館で勉強する。"
+  },
+  {
+    "word": "gym",
+    "meaning": "体育館",
+    "example": "We run in the gym.",
+    "example_jp": "私たちは体育館で走る。"
+  },
+  {
+    "word": "gym",
+    "meaning": "ジム",
+    "example": "He goes to the gym every day.",
+    "example_jp": "彼は毎日ジムに行く。"
+  },
+  {
+    "word": "museum",
+    "meaning": "博物館",
+    "example": "The museum is big.",
+    "example_jp": "その博物館は大きい。"
+  },
+  {
+    "word": "museum",
+    "meaning": "美術館",
+    "example": "We visit an art museum.",
+    "example_jp": "私たちは美術館を訪れる。"
+  },
+  {
+    "word": "theater",
+    "meaning": "劇場",
+    "example": "The theater is full.",
+    "example_jp": "その劇場はいっぱいだ。"
+  },
+  {
+    "word": "studio",
+    "meaning": "スタジオ",
+    "example": "She works in a music studio.",
+    "example_jp": "彼女は音楽スタジオで働いている。"
+  },
+  {
+    "word": "studio",
+    "meaning": "（映画）撮影所",
+    "example": "The movie studio is large.",
+    "example_jp": "その（映画）撮影所は広い。"
+  },
+  {
+    "word": "stadium",
+    "meaning": "競技場",
+    "example": "The stadium is crowded.",
+    "example_jp": "その競技場は混雑している。"
+  },
+  {
+    "word": "stadium",
+    "meaning": "スタジアム",
+    "example": "We meet at the stadium.",
+    "example_jp": "私たちはスタジアムで会う。"
+  },
+  {
+    "word": "temple",
+    "meaning": "寺院",
+    "example": "We visit an old temple.",
+    "example_jp": "私たちは古い寺院を訪れる。"
+  },
+  {
+    "word": "shrine",
+    "meaning": "聖堂",
+    "example": "This shrine is famous.",
+    "example_jp": "この聖堂は有名だ。"
+  },
+  {
+    "word": "shrine",
+    "meaning": "神社",
+    "example": "They pray at the shrine.",
+    "example_jp": "彼らは神社でお祈りをする。"
+  },
+  {
+    "word": "castle",
+    "meaning": "城",
+    "example": "The castle is beautiful.",
+    "example_jp": "その城は美しい。"
+  },
+  {
+    "word": "tower",
+    "meaning": "塔",
+    "example": "The tower is very tall.",
+    "example_jp": "その塔はとても高い。"
+  },
+  {
+    "word": "entrance",
+    "meaning": "入口",
+    "example": "This is the entrance.",
+    "example_jp": "これが入口だ。"
+  },
+  {
+    "word": "entrance",
+    "meaning": "玄関",
+    "example": "I wait at the entrance.",
+    "example_jp": "私は玄関で待つ。"
+  },
+  {
+    "word": "exit",
+    "meaning": "出口",
+    "example": "The exit is on the left.",
+    "example_jp": "出口は左側にある。"
+  },
+  {
+    "word": "architecture",
+    "meaning": "建築",
+    "example": "I study architecture.",
+    "example_jp": "私は建築を勉強する。"
+  },
+  {
+    "word": "avenue",
+    "meaning": "大通り",
+    "example": "We walk along the avenue.",
+    "example_jp": "私たちは大通りに沿って歩く。"
+  },
+  {
+    "word": "avenue",
+    "meaning": "〜街",
+    "example": "He lives on Fifth Avenue.",
+    "example_jp": "彼は5番街に住んでいる。"
+  },
+  {
+    "word": "block",
+    "meaning": "１区画",
+    "example": "I walk one block.",
+    "example_jp": "私は1区画歩く。"
+  },
+  {
+    "word": "corner",
+    "meaning": "曲がり角",
+    "example": "Turn at the corner.",
+    "example_jp": "曲がり角で曲がりなさい。"
+  },
+  {
+    "word": "intersection",
+    "meaning": "交差点",
+    "example": "The intersection is busy.",
+    "example_jp": "その交差点は交通量が多い。"
+  },
+  {
+    "word": "zone",
+    "meaning": "地帯",
+    "example": "This is a quiet zone.",
+    "example_jp": "ここは静かな地帯だ。"
+  },
+  {
+    "word": "zone",
+    "meaning": "区域",
+    "example": "The zone is large.",
+    "example_jp": "その区域は広い。"
+  },
+  {
+    "word": "square",
+    "meaning": "広場",
+    "example": "We meet in the square.",
+    "example_jp": "私たちは広場で会う。"
+  },
+  {
+    "word": "square",
+    "meaning": "正方形",
+    "example": "Draw a square.",
+    "example_jp": "正方形を描きなさい。"
+  },
+  {
+    "word": "market",
+    "meaning": "市場",
+    "example": "The market opens at nine.",
+    "example_jp": "その市場は9時に開く。"
+  },
+  {
+    "word": "path",
+    "meaning": "小道",
+    "example": "We walk on the path.",
+    "example_jp": "私たちはその小道を歩く。"
+  },
+  {
+    "word": "slope",
+    "meaning": "坂",
+    "example": "The slope is steep.",
+    "example_jp": "その坂は急だ。"
+  },
+  {
+    "word": "traffic",
+    "meaning": "交通",
+    "example": "The traffic is heavy.",
+    "example_jp": "交通は激しい。"
+  },
+  {
+    "word": "traffic",
+    "meaning": "交通量",
+    "example": "Traffic is slow today.",
+    "example_jp": "今日は交通の流れが遅い。"
+  },
+  {
+    "word": "drive",
+    "meaning": "（車を）運転する",
+    "example": "I drive a car.",
+    "example_jp": "私は車を運転する。"
+  },
+  {
+    "word": "ride",
+    "meaning": "乗る",
+    "example": "I ride a bike.",
+    "example_jp": "私は自転車に乗る。"
+  },
+  {
+    "word": "railroad",
+    "meaning": "鉄道",
+    "example": "The railroad runs through the town.",
+    "example_jp": "その鉄道は町を通り抜けて走っている。"
+  },
+  {
+    "word": "subway",
+    "meaning": "地下鉄",
+    "example": "I take the subway.",
+    "example_jp": "私は地下鉄に乗る。"
+  },
+  {
+    "word": "automobile",
+    "meaning": "自動車",
+    "example": "He buys a new automobile.",
+    "example_jp": "彼は新しい自動車を買う。"
+  },
+  {
+    "word": "engine",
+    "meaning": "エンジン",
+    "example": "The engine stops suddenly.",
+    "example_jp": "エンジンが突然止まる。"
+  },
+  {
+    "word": "wheel",
+    "meaning": "ハンドル",
+    "example": "He turns the wheel.",
+    "example_jp": "彼はハンドルを回す。"
+  },
+  {
+    "word": "license",
+    "meaning": "免許",
+    "example": "I get a driver’s license.",
+    "example_jp": "私は運転免許を取得する。"
+  },
+  {
+    "word": "license",
+    "meaning": "免許証",
+    "example": "Show me your license.",
+    "example_jp": "あなたの免許証を見せてください。"
+  },
+  {
+    "word": "airport",
+    "meaning": "空港",
+    "example": "The airport is far.",
+    "example_jp": "その空港は遠い。"
+  },
+  {
+    "word": "flight",
+    "meaning": "定期航空便",
+    "example": "My flight is late.",
+    "example_jp": "私の定期航空便は遅れている。"
+  },
+  {
+    "word": "flight",
+    "meaning": "フライト",
+    "example": "I take a flight to Tokyo.",
+    "example_jp": "私は東京へのフライトに乗る。"
+  },
+  {
+    "word": "port",
+    "meaning": "港",
+    "example": "The ship leaves the port.",
+    "example_jp": "その船は港を出発する。"
+  },
+  {
+    "word": "canal",
+    "meaning": "運河",
+    "example": "The canal is long.",
+    "example_jp": "その運河は長い。"
+  },
+  {
+    "word": "key",
+    "meaning": "鍵",
+    "example": "I lose my key.",
+    "example_jp": "私は鍵をなくす。"
+  },
+  {
+    "word": "stair",
+    "meaning": "階段",
+    "example": "The stair is narrow.",
+    "example_jp": "その階段は狭い。"
+  },
+  {
+    "word": "upstairs",
+    "meaning": "上の階に",
+    "example": "She waits upstairs.",
+    "example_jp": "彼女は上の階で待っている。"
+  },
+  {
+    "word": "floor",
+    "meaning": "床",
+    "example": "The floor is clean.",
+    "example_jp": "床はきれいだ。"
+  },
+  {
+    "word": "shelf",
+    "meaning": "棚",
+    "example": "The shelf is high.",
+    "example_jp": "その棚は高い。"
+  },
+  {
+    "word": "roof",
+    "meaning": "屋根",
+    "example": "The roof is red.",
+    "example_jp": "屋根は赤い。"
+  },
+  {
+    "word": "ladder",
+    "meaning": "はしご",
+    "example": "He climbs the ladder.",
+    "example_jp": "彼ははしごを登る。"
+  },
+  {
+    "word": "yard",
+    "meaning": "庭",
+    "example": "The kids play in the yard.",
+    "example_jp": "子供たちが庭で遊ぶ。"
+  },
+  {
+    "word": "closet",
+    "meaning": "クローゼット",
+    "example": "I open the closet.",
+    "example_jp": "私はクローゼットを開ける。"
+  },
+  {
+    "word": "refrigerator",
+    "meaning": "冷蔵庫",
+    "example": "The refrigerator is full.",
+    "example_jp": "冷蔵庫はいっぱいだ。"
+  },
+  {
+    "word": "shower",
+    "meaning": "シャワー",
+    "example": "I take a shower.",
+    "example_jp": "私はシャワーを浴びる。"
+  },
+  {
+    "word": "housework",
+    "meaning": "家事",
+    "example": "I do housework on Sunday.",
+    "example_jp": "私は日曜日に家事をする。"
+  },
+  {
+    "word": "plastic",
+    "meaning": "プラスチックの",
+    "example": "This is a plastic bag.",
+    "example_jp": "これはプラスチックの袋だ。"
+  },
+  {
+    "word": "plate",
+    "meaning": "皿",
+    "example": "I wash the plate.",
+    "example_jp": "私はその皿を洗う。"
+  },
+  {
+    "word": "glass",
+    "meaning": "グラス",
+    "example": "I drink water in a glass.",
+    "example_jp": "私はグラスで水を飲む。"
+  }
+]

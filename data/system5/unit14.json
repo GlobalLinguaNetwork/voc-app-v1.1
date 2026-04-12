@@ -1,0 +1,344 @@
+[
+  {
+    "word": "frustrate",
+    "meaning": "〈人〉を欲求不満にさせる",
+    "example": "The delay frustrated him.",
+    "example_jp": "遅れが彼を欲求不満にさせた。"
+  },
+  {
+    "word": "deprive",
+    "meaning": "AからBを奪う",
+    "example": "The storm deprived us of power.",
+    "example_jp": "嵐が私たちから電力を奪った。"
+  },
+  {
+    "word": "astonish",
+    "meaning": "～を驚嘆させる",
+    "example": "His skill astonished me.",
+    "example_jp": "彼の技術に私は驚嘆した。"
+  },
+  {
+    "word": "register",
+    "meaning": "～を登録する",
+    "example": "I registered for the class.",
+    "example_jp": "私はその授業に登録した。"
+  },
+  {
+    "word": "correspond",
+    "meaning": "一致する",
+    "example": "The two results correspond.",
+    "example_jp": "その二つの結果は一致している。"
+  },
+  {
+    "word": "cast",
+    "meaning": "～を投げる",
+    "example": "He cast a stone.",
+    "example_jp": "彼は石を投げた。"
+  },
+  {
+    "word": "attribute",
+    "meaning": "AはBのおかげだと思う",
+    "example": "I attribute my success to you.",
+    "example_jp": "私は自分の成功をあなたのおかげだと思っている。"
+  },
+  {
+    "word": "neglect",
+    "meaning": "～を無視する、怠る",
+    "example": "He neglected his work.",
+    "example_jp": "彼は仕事を怠った。"
+  },
+  {
+    "word": "starve",
+    "meaning": "飢える",
+    "example": "They starved for days.",
+    "example_jp": "彼らは何日も飢えた。"
+  },
+  {
+    "word": "resolve",
+    "meaning": "(問題など)を解決する",
+    "example": "We resolved the problem.",
+    "example_jp": "私たちはその問題を解決した。"
+  },
+  {
+    "word": "impose",
+    "meaning": "AをBに課す、押し付ける",
+    "example": "They imposed a tax on us.",
+    "example_jp": "彼らは私たちに税を課した。"
+  },
+  {
+    "word": "convert",
+    "meaning": "～を転換する",
+    "example": "They converted the room into a shop.",
+    "example_jp": "彼らはその部屋を店に改装した。"
+  },
+  {
+    "word": "scare",
+    "meaning": "～をおびえさせる",
+    "example": "The noise scared the child.",
+    "example_jp": "その音が子どもをおびえさせた。"
+  },
+  {
+    "word": "constitute",
+    "meaning": "～を構成する",
+    "example": "Women constitute half the group.",
+    "example_jp": "女性がそのグループの半分を構成している。"
+  },
+  {
+    "word": "constitute",
+    "meaning": "占める",
+    "example": "Students constitute 30%.",
+    "example_jp": "学生が30％を占めている。"
+  },
+  {
+    "word": "constitute",
+    "meaning": "～である",
+    "example": "His actions constitute a crime.",
+    "example_jp": "彼の行為は犯罪に当たる。"
+  },
+  {
+    "word": "appoint",
+    "meaning": "～を任命する",
+    "example": "They appointed him leader.",
+    "example_jp": "彼らは彼をリーダーに任命した。"
+  },
+  {
+    "word": "imply",
+    "meaning": "～を(暗に)意味する",
+    "example": "His words implied danger.",
+    "example_jp": "彼の言葉は危険を暗示していた。"
+  },
+  {
+    "word": "assign",
+    "meaning": "(仕事・物)を割り当てる",
+    "example": "She assigned me a task.",
+    "example_jp": "彼女は私に仕事を割り当てた。"
+  },
+  {
+    "word": "nod",
+    "meaning": "うなずく",
+    "example": "He nodded quietly.",
+    "example_jp": "彼は静かにうなずいた。"
+  },
+  {
+    "word": "elect",
+    "meaning": "～を選挙で選ぶ",
+    "example": "They elected her president.",
+    "example_jp": "彼らは彼女を大統領に選んだ。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "～を移す",
+    "example": "He transferred the files.",
+    "example_jp": "彼はファイルを移した。"
+  },
+  {
+    "word": "rob",
+    "meaning": "AからBを奪う",
+    "example": "They robbed him of money.",
+    "example_jp": "彼らは彼から金を奪った。"
+  },
+  {
+    "word": "capture",
+    "meaning": "～を捕らえる",
+    "example": "They captured the thief.",
+    "example_jp": "彼らはその泥棒を捕まえた。"
+  },
+  {
+    "word": "undertake",
+    "meaning": "（仕事など）を引き受ける",
+    "example": "He undertook the project.",
+    "example_jp": "彼はそのプロジェクトを引き受けた。"
+  },
+  {
+    "word": "drown",
+    "meaning": "おぼれ死ぬ",
+    "example": "He nearly drowned.",
+    "example_jp": "彼はもう少しで溺れ死ぬところだった。"
+  },
+  {
+    "word": "split",
+    "meaning": "～を割る",
+    "example": "He split the wood.",
+    "example_jp": "彼は木を割った。"
+  },
+  {
+    "word": "split",
+    "meaning": "分裂する",
+    "example": "The group split.",
+    "example_jp": "そのグループは分裂した。"
+  },
+  {
+    "word": "resort",
+    "meaning": "Aに訴える",
+    "example": "He resorted to violence.",
+    "example_jp": "彼は暴力に訴えた。"
+  },
+  {
+    "word": "descend",
+    "meaning": "下る、降りる",
+    "example": "They descended the stairs.",
+    "example_jp": "彼らは階段を下りた。"
+  },
+  {
+    "word": "irritate",
+    "meaning": "～をいらだたせる",
+    "example": "The smoke irritated my eyes.",
+    "example_jp": "煙が私の目をいらだたせた。"
+  },
+  {
+    "word": "pronounce",
+    "meaning": "〈単語など〉を発音する",
+    "example": "Please pronounce the word.",
+    "example_jp": "その単語を発音してください。"
+  },
+  {
+    "word": "equip",
+    "meaning": "～を装備させる",
+    "example": "They equipped the room with computers.",
+    "example_jp": "彼らはその部屋にコンピュータを備え付けた。"
+  },
+  {
+    "word": "cheat",
+    "meaning": "いかさまをする",
+    "example": "He cheated on the test.",
+    "example_jp": "彼はテストでカンニングをした。"
+  },
+  {
+    "word": "emerge",
+    "meaning": "〈隠れていたものが〉現れる",
+    "example": "A new idea emerged.",
+    "example_jp": "新しい考えが現れた。"
+  },
+  {
+    "word": "devote",
+    "meaning": "～をささげる",
+    "example": "She devoted her time to study.",
+    "example_jp": "彼女は勉強に時間を捧げた。"
+  },
+  {
+    "word": "heal",
+    "meaning": "治る",
+    "example": "The cut healed quickly.",
+    "example_jp": "その切り傷はすぐに治った。"
+  },
+  {
+    "word": "heal",
+    "meaning": "〈けがなど〉を治す",
+    "example": "The doctor healed the wound.",
+    "example_jp": "医者がその傷を治した。"
+  },
+  {
+    "word": "urge",
+    "meaning": "～に強く迫る、～を説得する",
+    "example": "They urged him to try.",
+    "example_jp": "彼らは彼に挑戦するよう強く促した。"
+  },
+  {
+    "word": "envy",
+    "meaning": "～をうらやむ",
+    "example": "I envy his talent.",
+    "example_jp": "私は彼の才能をうらやんでいる。"
+  },
+  {
+    "word": "chase",
+    "meaning": "～を追いかける",
+    "example": "They chased the dog.",
+    "example_jp": "彼らは犬を追いかけた。"
+  },
+  {
+    "word": "prompt",
+    "meaning": "～を促す",
+    "example": "The news prompted him to act.",
+    "example_jp": "そのニュースが彼に行動を促した。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "～を引っ込める",
+    "example": "He withdrew his hand.",
+    "example_jp": "彼は手を引っ込めた。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "引きこもる、退く",
+    "example": "She withdrew from the group.",
+    "example_jp": "彼女はそのグループから退いた。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "(預金など)を引き出す",
+    "example": "He withdrew money.",
+    "example_jp": "彼はお金を引き出した。"
+  },
+  {
+    "word": "detect",
+    "meaning": "～を探知する、～を発見する",
+    "example": "They detected a problem.",
+    "example_jp": "彼らは問題を発見した。"
+  },
+  {
+    "word": "interfere",
+    "meaning": "Aを邪魔する",
+    "example": "Noise interferes with sleep.",
+    "example_jp": "騒音が睡眠を妨げる。"
+  },
+  {
+    "word": "kid",
+    "meaning": "冗談を言う、からかう",
+    "example": "I’m just kidding.",
+    "example_jp": "冗談を言っているだけだ。"
+  },
+  {
+    "word": "launch",
+    "meaning": "(ロケットなど)を打ち上げる",
+    "example": "They launched a rocket.",
+    "example_jp": "彼らはロケットを打ち上げた。"
+  },
+  {
+    "word": "endanger",
+    "meaning": "～を危険にさらす",
+    "example": "The fire endangered the town.",
+    "example_jp": "火事が町を危険にさらした。"
+  },
+  {
+    "word": "foster",
+    "meaning": "～を促進する、育成する",
+    "example": "They foster creativity.",
+    "example_jp": "彼らは創造性を育んでいる。"
+  },
+  {
+    "word": "diminish",
+    "meaning": "減少する、衰える",
+    "example": "The pain diminished.",
+    "example_jp": "痛みが和らいだ。"
+  },
+  {
+    "word": "diminish",
+    "meaning": "～を減らす",
+    "example": "Stress diminished his health.",
+    "example_jp": "ストレスが彼の健康を損なった。"
+  },
+  {
+    "word": "spill",
+    "meaning": "～をこぼす",
+    "example": "He spilled water.",
+    "example_jp": "彼は水をこぼした。"
+  },
+  {
+    "word": "infect",
+    "meaning": "〈人〉に感染する",
+    "example": "The virus infected many people.",
+    "example_jp": "そのウイルスは多くの人に感染した。"
+  },
+  {
+    "word": "stem",
+    "meaning": "Aから生じる、Aに由来する",
+    "example": "The idea stems from history.",
+    "example_jp": "その考えは歴史に由来する。"
+  },
+  {
+    "word": "tap",
+    "meaning": "～を軽くたたく",
+    "example": "He tapped the door.",
+    "example_jp": "彼はドアを軽くたたいた。"
+  }
+]

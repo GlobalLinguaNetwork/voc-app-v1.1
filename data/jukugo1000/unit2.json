@@ -1,0 +1,404 @@
+[
+  {
+    "word": "graduate from",
+    "meaning": "～を卒業する",
+    "example": "She graduated from college.",
+    "example_jp": "彼女は大学を卒業した。"
+  },
+  {
+    "word": "differ from",
+    "meaning": "～と異なる",
+    "example": "This differs from mine.",
+    "example_jp": "これは私のものと異なる。"
+  },
+  {
+    "word": "recover from",
+    "meaning": "～から立ち直る［回復する］",
+    "example": "He recovered from a cold.",
+    "example_jp": "彼は風邪から回復した。"
+  },
+  {
+    "word": "hear from",
+    "meaning": "～から便り［電話・伝言］がある",
+    "example": "I heard from Tom yesterday.",
+    "example_jp": "昨日トムから便りがあった。"
+  },
+  {
+    "word": "believe in",
+    "meaning": "～の価値［存在］を信じる、～を信用する",
+    "example": "I believe in love.",
+    "example_jp": "私は愛の存在を信じている。"
+  },
+  {
+    "word": "succeed in",
+    "meaning": "～に成功する",
+    "example": "She succeeded in math.",
+    "example_jp": "彼女は数学で成功した。"
+  },
+  {
+    "word": "major in",
+    "meaning": "～を専攻する",
+    "example": "He majors in biology.",
+    "example_jp": "彼は生物学を専攻している。"
+  },
+  {
+    "word": "abound in",
+    "meaning": "（場所が）～に富む",
+    "example": "The lake abounds in fish.",
+    "example_jp": "その湖は魚に富んでいる。"
+  },
+  {
+    "word": "abound with",
+    "meaning": "（場所が）～に富む",
+    "example": "The forest abounds with birds.",
+    "example_jp": "その森は鳥に富んでいる。"
+  },
+  {
+    "word": "care about",
+    "meaning": "～に気にかける、～に関心を持つ",
+    "example": "I care about your idea.",
+    "example_jp": "私はあなたの考えを気に掛けている。"
+  },
+  {
+    "word": "bring about",
+    "meaning": "～を引き起こす",
+    "example": "The change brought about a new rule.",
+    "example_jp": "その変化は新しい規則を引き起こした。"
+  },
+  {
+    "word": "deal with",
+    "meaning": "～を扱う、処理する",
+    "example": "We must deal with the problem.",
+    "example_jp": "私たちはその問題を処理しなければならない。"
+  },
+  {
+    "word": "go through",
+    "meaning": "～を通過する",
+    "example": "We went through the tunnel.",
+    "example_jp": "私たちはトンネルを通過した。"
+  },
+  {
+    "word": "go through",
+    "meaning": "（苦しみなど）を経験する",
+    "example": "She went through hard times.",
+    "example_jp": "彼女は辛い時期を経験した。"
+  },
+  {
+    "word": "give up",
+    "meaning": "～をあきらめる、～を捨てる",
+    "example": "He gave up the plan.",
+    "example_jp": "彼はその計画をあきらめた。"
+  },
+  {
+    "word": "grow up",
+    "meaning": "大人になる、（事態などが）生じる",
+    "example": "Kids grow up fast.",
+    "example_jp": "子供は早く大人になる。"
+  },
+  {
+    "word": "pick up",
+    "meaning": "～を（車などに）乗せる",
+    "example": "I picked up my friend.",
+    "example_jp": "私は友人を車に乗せた。"
+  },
+  {
+    "word": "pick up",
+    "meaning": "～を拾う",
+    "example": "She picked up the pen.",
+    "example_jp": "彼女はペンを拾った。"
+  },
+  {
+    "word": "set up",
+    "meaning": "～を立てる、創設する",
+    "example": "They set up a new shop.",
+    "example_jp": "彼らは新しい店を創設した。"
+  },
+  {
+    "word": "wake up",
+    "meaning": "目が覚める",
+    "example": "I woke up early.",
+    "example_jp": "私は早く目が覚めた。"
+  },
+  {
+    "word": "wake up",
+    "meaning": "（人）の目を覚まさせる",
+    "example": "She woke up her son.",
+    "example_jp": "彼女は息子の目を覚まさせた。"
+  },
+  {
+    "word": "brush up on",
+    "meaning": "（語学など）をやり直して磨きをかける",
+    "example": "I brushed up on my English.",
+    "example_jp": "私は英語をやり直して磨きをかけた。"
+  },
+  {
+    "word": "find out",
+    "meaning": "（真相）を知る、見つけ出す",
+    "example": "We found out the truth.",
+    "example_jp": "私たちは真相を見つけ出した。"
+  },
+  {
+    "word": "carry out",
+    "meaning": "～を実行する",
+    "example": "They carried out the plan.",
+    "example_jp": "彼らはその計画を実行した。"
+  },
+  {
+    "word": "point out",
+    "meaning": "～を指摘する",
+    "example": "He pointed out the mistake.",
+    "example_jp": "彼は間違いを指摘した。"
+  },
+  {
+    "word": "figure out",
+    "meaning": "～を理解する、計算する、解く",
+    "example": "I can't figure out the answer.",
+    "example_jp": "私はその答えを解くことができない。"
+  },
+  {
+    "word": "turn out",
+    "meaning": "～であることが分かる、結果的に～になる",
+    "example": "It turned out to be true.",
+    "example_jp": "それは本当であることが分かった。"
+  },
+  {
+    "word": "turn out",
+    "meaning": "～を産出する",
+    "example": "The factory turns out cars.",
+    "example_jp": "その工場は車を産出している。"
+  },
+  {
+    "word": "turn out",
+    "meaning": "（催しなどに）繰り出す",
+    "example": "Many people turned out for the event.",
+    "example_jp": "多くの人々がそのイベントに繰り出した。"
+  },
+  {
+    "word": "fill out",
+    "meaning": "（書類など）に書き込む",
+    "example": "Please fill out the form.",
+    "example_jp": "用紙に書き込んでください。"
+  },
+  {
+    "word": "pick out",
+    "meaning": "～を選ぶ",
+    "example": "She picked out a dress.",
+    "example_jp": "彼女はドレスを選んだ。"
+  },
+  {
+    "word": "put on",
+    "meaning": "～を（身に）つける",
+    "example": "He put on his coat.",
+    "example_jp": "彼はコートを身につけた。"
+  },
+  {
+    "word": "put on",
+    "meaning": "（電気器具など）をつける",
+    "example": "She put on the light.",
+    "example_jp": "彼女は明かりをつけた。"
+  },
+  {
+    "word": "work on",
+    "meaning": "～に取り組む、手がける",
+    "example": "I am working on my report.",
+    "example_jp": "私はレポートに取り組んでいる。"
+  },
+  {
+    "word": "work on",
+    "meaning": "（薬などが）～に効く",
+    "example": "The medicine works on the pain.",
+    "example_jp": "その薬は痛みに効く。"
+  },
+  {
+    "word": "try on",
+    "meaning": "～を試着する",
+    "example": "She tried on the shoes.",
+    "example_jp": "彼女は靴を試着した。"
+  },
+  {
+    "word": "turn on",
+    "meaning": "（スイッチなど）をつける",
+    "example": "He turned on the TV.",
+    "example_jp": "彼はテレビをつけた。"
+  },
+  {
+    "word": "turn off",
+    "meaning": "（スイッチなど）を消す",
+    "example": "She turned off the light.",
+    "example_jp": "彼女は明かりを消した。"
+  },
+  {
+    "word": "take off",
+    "meaning": "～を脱ぐ",
+    "example": "He took off his shoes.",
+    "example_jp": "彼は靴を脱いだ。"
+  },
+  {
+    "word": "take off",
+    "meaning": "離陸する",
+    "example": "The plane took off.",
+    "example_jp": "飛行機が離陸した。"
+  },
+  {
+    "word": "take off",
+    "meaning": "急増する",
+    "example": "Sales took off last year.",
+    "example_jp": "売り上げが昨年急増した。"
+  },
+  {
+    "word": "take off",
+    "meaning": "～を休暇としてとる",
+    "example": "I will take off Friday.",
+    "example_jp": "私は金曜日を休みとしてとる。"
+  },
+  {
+    "word": "get along",
+    "meaning": "仲良くやっていく、進む",
+    "example": "They get along well.",
+    "example_jp": "彼らは仲良くやっていく。"
+  },
+  {
+    "word": "get along",
+    "meaning": "（なんとか）やっていく",
+    "example": "We can get along somehow.",
+    "example_jp": "私たちはなんとかやっていける。"
+  },
+  {
+    "word": "get together",
+    "meaning": "集まる",
+    "example": "We got together last night.",
+    "example_jp": "私たちは昨夜集まった。"
+  },
+  {
+    "word": "get together",
+    "meaning": "～を集める",
+    "example": "She got together the team.",
+    "example_jp": "彼女はチームを集めた。"
+  },
+  {
+    "word": "calm down",
+    "meaning": "落ち着く",
+    "example": "Please calm down.",
+    "example_jp": "落ち着いてください。"
+  },
+  {
+    "word": "calm down",
+    "meaning": "～を落ち着かせる",
+    "example": "I calmed down the child.",
+    "example_jp": "私はその子供を落ち着かせた。"
+  },
+  {
+    "word": "think over",
+    "meaning": "～をよく考える",
+    "example": "Think over the idea.",
+    "example_jp": "その考えをよく考えなさい。"
+  },
+  {
+    "word": "keep doing",
+    "meaning": "…し続ける",
+    "example": "He kept working.",
+    "example_jp": "彼は働き続けた。"
+  },
+  {
+    "word": "take place",
+    "meaning": "催される、起こる",
+    "example": "The event took place yesterday.",
+    "example_jp": "そのイベントは昨日催された。"
+  },
+  {
+    "word": "play a role in",
+    "meaning": "（～で）役割を果たす",
+    "example": "She played a role in the project.",
+    "example_jp": "彼女はそのプロジェクトで役割を果たした。"
+  },
+  {
+    "word": "play a part in",
+    "meaning": "（～で）役割を果たす",
+    "example": "He played a part in the show.",
+    "example_jp": "彼はそのショーで役割を果たした。"
+  },
+  {
+    "word": "make sure",
+    "meaning": "（～を）確かめる、確実に～をする",
+    "example": "Please make sure the door is locked.",
+    "example_jp": "ドアに鍵がかかっているか確かめてください。"
+  },
+  {
+    "word": "make sense",
+    "meaning": "意味をなす、道理にかなう",
+    "example": "His idea makes sense.",
+    "example_jp": "彼の考えは意味をなす。"
+  },
+  {
+    "word": "make a difference",
+    "meaning": "違いが生じる、重要である",
+    "example": "Your help makes a difference.",
+    "example_jp": "あなたの助けは重要である。"
+  },
+  {
+    "word": "make a mistake",
+    "meaning": "間違いをする",
+    "example": "I made a mistake.",
+    "example_jp": "私は間違いをした。"
+  },
+  {
+    "word": "make progress",
+    "meaning": "進歩する",
+    "example": "She made progress in English.",
+    "example_jp": "彼女は英語が進歩した。"
+  },
+  {
+    "word": "make up one's mind",
+    "meaning": "決心する",
+    "example": "I made up my mind.",
+    "example_jp": "私は決心した。"
+  },
+  {
+    "word": "do one's best",
+    "meaning": "最善を尽くす",
+    "example": "I will do my best.",
+    "example_jp": "私は最善を尽くす。"
+  },
+  {
+    "word": "keep one's promise",
+    "meaning": "約束を守る",
+    "example": "He kept his promise.",
+    "example_jp": "彼は約束を守った。"
+  },
+  {
+    "word": "keep one's word",
+    "meaning": "約束を守る",
+    "example": "She kept her word.",
+    "example_jp": "彼女は約束を守った。"
+  },
+  {
+    "word": "get lost",
+    "meaning": "道に迷う",
+    "example": "I got lost in the city.",
+    "example_jp": "私は街で道に迷った。"
+  },
+  {
+    "word": "enjoy oneself",
+    "meaning": "楽しい時を過ごす",
+    "example": "We enjoyed ourselves at the party.",
+    "example_jp": "私たちはパーティーで楽しい時を過ごした。"
+  },
+  {
+    "word": "have ～ off",
+    "meaning": "～を休みとしてとる",
+    "example": "I have Monday off.",
+    "example_jp": "私は月曜日を休みとしてとっている。"
+  },
+  {
+    "word": "take ～ off",
+    "meaning": "～を休みとしてとる",
+    "example": "I took a day off.",
+    "example_jp": "私は1日休みをとった。"
+  },
+  {
+    "word": "pay attention to",
+    "meaning": "～に注意を払う",
+    "example": "Please pay attention to the sign.",
+    "example_jp": "その標識に注意を払ってください。"
+  }
+]

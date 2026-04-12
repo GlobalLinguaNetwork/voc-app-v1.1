@@ -1,0 +1,302 @@
+[
+  {
+    "word": "population",
+    "meaning": "人口",
+    "example": "The population is growing.",
+    "example_jp": "人口は増加している。"
+  },
+  {
+    "word": "purpose",
+    "meaning": "目的",
+    "example": "The purpose is clear.",
+    "example_jp": "目的は明確だ。"
+  },
+  {
+    "word": "behavior",
+    "meaning": "行動",
+    "example": "His behavior changed.",
+    "example_jp": "彼の行動が変わった。"
+  },
+  {
+    "word": "lack",
+    "meaning": "不足",
+    "example": "There is a lack of food.",
+    "example_jp": "食料が不足している。"
+  },
+  {
+    "word": "skill",
+    "meaning": "技術",
+    "example": "She has great skill.",
+    "example_jp": "彼女は優れた技術を持っている。"
+  },
+  {
+    "word": "quality",
+    "meaning": "質",
+    "example": "The quality is high.",
+    "example_jp": "質が高い。"
+  },
+  {
+    "word": "environment",
+    "meaning": "環境",
+    "example": "We must protect the environment.",
+    "example_jp": "私たちは環境を守らなければならない。"
+  },
+  {
+    "word": "role",
+    "meaning": "役割",
+    "example": "He played an important role.",
+    "example_jp": "彼は重要な役割を果たした。"
+  },
+  {
+    "word": "attitude",
+    "meaning": "態度",
+    "example": "Her attitude is positive.",
+    "example_jp": "彼女の態度は前向きだ。"
+  },
+  {
+    "word": "author",
+    "meaning": "筆者",
+    "example": "The author wrote many books.",
+    "example_jp": "その著者は多くの本を書いた。"
+  },
+  {
+    "word": "research",
+    "meaning": "研究",
+    "example": "The research took years.",
+    "example_jp": "その研究には何年もかかった。"
+  },
+  {
+    "word": "opportunity",
+    "meaning": "機会",
+    "example": "This is a good opportunity.",
+    "example_jp": "これは良い機会だ。"
+  },
+  {
+    "word": "source",
+    "meaning": "源",
+    "example": "The river is the water source.",
+    "example_jp": "その川が水の源だ。"
+  },
+  {
+    "word": "carbon",
+    "meaning": "炭素",
+    "example": "Plants take in carbon.",
+    "example_jp": "植物は炭素を取り込む。"
+  },
+  {
+    "word": "shape",
+    "meaning": "形",
+    "example": "The shape is round.",
+    "example_jp": "形は丸い。"
+  },
+  {
+    "word": "advantage",
+    "meaning": "利点",
+    "example": "This plan has an advantage.",
+    "example_jp": "この計画には利点がある。"
+  },
+  {
+    "word": "method",
+    "meaning": "方法",
+    "example": "This is a new method.",
+    "example_jp": "これは新しい方法だ。"
+  },
+  {
+    "word": "habit",
+    "meaning": "習慣",
+    "example": "He has a bad habit.",
+    "example_jp": "彼には悪い習慣がある。"
+  },
+  {
+    "word": "detail",
+    "meaning": "細部",
+    "example": "I checked every detail.",
+    "example_jp": "私はすべての細部を確認した。"
+  },
+  {
+    "word": "distance",
+    "meaning": "距離",
+    "example": "The distance is long.",
+    "example_jp": "距離が長い。"
+  },
+  {
+    "word": "crowd",
+    "meaning": "群衆",
+    "example": "A crowd gathered.",
+    "example_jp": "群衆が集まった。"
+  },
+  {
+    "word": "instance",
+    "meaning": "例",
+    "example": "For instance, look at this.",
+    "example_jp": "例えば、これを見てください。"
+  },
+  {
+    "word": "desire",
+    "meaning": "願望",
+    "example": "He has a desire to learn.",
+    "example_jp": "彼は学びたいという願望を持っている。"
+  },
+  {
+    "word": "standard",
+    "meaning": "水準",
+    "example": "The standard is high.",
+    "example_jp": "水準が高い。"
+  },
+  {
+    "word": "task",
+    "meaning": "仕事",
+    "example": "I finished the task.",
+    "example_jp": "私はその仕事を終えた。"
+  },
+  {
+    "word": "generation",
+    "meaning": "世代",
+    "example": "This generation loves technology.",
+    "example_jp": "この世代は技術を好む。"
+  },
+  {
+    "word": "responsibility",
+    "meaning": "責任",
+    "example": "It is your responsibility.",
+    "example_jp": "それはあなたの責任だ。"
+  },
+  {
+    "word": "experiment",
+    "meaning": "実験",
+    "example": "The experiment failed.",
+    "example_jp": "その実験は失敗した。"
+  },
+  {
+    "word": "athlete",
+    "meaning": "運動選手",
+    "example": "He is a great athlete.",
+    "example_jp": "彼は優れた運動選手だ。"
+  },
+  {
+    "word": "decade",
+    "meaning": "10年",
+    "example": "It took a decade.",
+    "example_jp": "それには10年かかった。"
+  },
+  {
+    "word": "loss",
+    "meaning": "損失",
+    "example": "They suffered a big loss.",
+    "example_jp": "彼らは大きな損失を被った。"
+  },
+  {
+    "word": "fever",
+    "meaning": "熱",
+    "example": "She has a fever.",
+    "example_jp": "彼女は熱がある。"
+  },
+  {
+    "word": "theory",
+    "meaning": "理論",
+    "example": "The theory is difficult.",
+    "example_jp": "その理論は難しい。"
+  },
+  {
+    "word": "statement",
+    "meaning": "記述",
+    "example": "His statement was true.",
+    "example_jp": "彼の記述は正しかった。"
+  },
+  {
+    "word": "professor",
+    "meaning": "教授",
+    "example": "The professor taught math.",
+    "example_jp": "教授は数学を教えた。"
+  },
+  {
+    "word": "function",
+    "meaning": "機能",
+    "example": "This button has two functions.",
+    "example_jp": "このボタンには2つの機能がある。"
+  },
+  {
+    "word": "surface",
+    "meaning": "表面",
+    "example": "The surface is smooth.",
+    "example_jp": "表面は滑らかだ。"
+  },
+  {
+    "word": "envelope",
+    "meaning": "封筒",
+    "example": "I opened the envelope.",
+    "example_jp": "私は封筒を開けた。"
+  },
+  {
+    "word": "organization",
+    "meaning": "組織",
+    "example": "She works for a big organization.",
+    "example_jp": "彼女は大きな組織で働いている。"
+  },
+  {
+    "word": "policy",
+    "meaning": "政策",
+    "example": "The policy changed.",
+    "example_jp": "政策が変わった。"
+  },
+  {
+    "word": "resource",
+    "meaning": "資源",
+    "example": "Water is an important resource.",
+    "example_jp": "水は重要な資源だ。"
+  },
+  {
+    "word": "contrast",
+    "meaning": "対比",
+    "example": "There is a contrast between them.",
+    "example_jp": "それらの間には対比がある。"
+  },
+  {
+    "word": "flood",
+    "meaning": "洪水",
+    "example": "The flood damaged the town.",
+    "example_jp": "洪水が町に被害を与えた。"
+  },
+  {
+    "word": "mate",
+    "meaning": "連れ合い",
+    "example": "The bird found a mate.",
+    "example_jp": "その鳥は連れ合いを見つけた。"
+  },
+  {
+    "word": "goods",
+    "meaning": "商品",
+    "example": "They sell many goods.",
+    "example_jp": "彼らは多くの商品を販売している。"
+  },
+  {
+    "word": "creature",
+    "meaning": "動物",
+    "example": "The forest has many creatures.",
+    "example_jp": "その森には多くの動物がいる。"
+  },
+  {
+    "word": "structure",
+    "meaning": "構造",
+    "example": "The structure is strong.",
+    "example_jp": "その構造は強固だ。"
+  },
+  {
+    "word": "tradition",
+    "meaning": "伝統",
+    "example": "It is a long tradition.",
+    "example_jp": "それは長い伝統だ。"
+  },
+  {
+    "word": "weight",
+    "meaning": "体重",
+    "example": "He lost weight.",
+    "example_jp": "彼は体重が減った。"
+  },
+  {
+    "word": "charity",
+    "meaning": "慈善",
+    "example": "She gave money to charity.",
+    "example_jp": "彼女は慈善団体に寄付をした。"
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "word": "texture",
+    "meaning": "感触、手触り",
+    "example": "I like the texture of this fabric.",
+    "example_jp": "私はこの布地の感触（手触り）が好きだ。"
+  },
+  {
+    "word": "preliminary",
+    "meaning": "予備的な，事前の",
+    "example": "They held a preliminary meeting.",
+    "example_jp": "彼らは予備的な（事前の）会議を開いた。"
+  },
+  {
+    "word": "preliminary",
+    "meaning": "予選の",
+    "example": "She won the preliminary round.",
+    "example_jp": "彼女は予備（予選）ラウンドで勝った。"
+  },
+  {
+    "word": "preliminary",
+    "meaning": "予選",
+    "example": "He advanced after the preliminaries.",
+    "example_jp": "彼は予選の後に進出した。"
+  },
+  {
+    "word": "mandatory",
+    "meaning": "義務的な",
+    "example": "Wearing helmets is mandatory.",
+    "example_jp": "ヘルメットの着用は義務的だ。"
+  },
+  {
+    "word": "indigenous",
+    "meaning": "固有の",
+    "example": "These plants are indigenous to Japan.",
+    "example_jp": "これらの植物は日本固有のものだ。"
+  },
+  {
+    "word": "respective",
+    "meaning": "それぞれの",
+    "example": "They returned to their respective homes.",
+    "example_jp": "彼らはそれぞれの家に帰った。"
+  },
+  {
+    "word": "multiply",
+    "meaning": "増やす",
+    "example": "They multiplied the number by two.",
+    "example_jp": "彼らはその数を2倍に増やした。"
+  },
+  {
+    "word": "multiply",
+    "meaning": "AにBを掛ける",
+    "example": "Multiply A by B.",
+    "example_jp": "AにBを掛ける。"
+  },
+  {
+    "word": "multiply",
+    "meaning": "増える",
+    "example": "The problems multiplied quickly.",
+    "example_jp": "問題が急速に増えた。"
+  },
+  {
+    "word": "soar",
+    "meaning": "急上昇する",
+    "example": "Prices soared last year.",
+    "example_jp": "昨年、物価が急上昇した。"
+  },
+  {
+    "word": "soar",
+    "meaning": "舞い上がる",
+    "example": "The eagle soared into the sky.",
+    "example_jp": "ワシが空へと舞い上がった。"
+  },
+  {
+    "word": "diminish",
+    "meaning": "減少する",
+    "example": "His influence diminished over time.",
+    "example_jp": "彼の影響力は時間とともに減少した。"
+  },
+  {
+    "word": "accumulate",
+    "meaning": "蓄積する",
+    "example": "They accumulated wealth.",
+    "example_jp": "彼らは富を蓄積した。"
+  },
+  {
+    "word": "accumulate",
+    "meaning": "蓄積する",
+    "example": "Dust accumulated on the shelf.",
+    "example_jp": "棚に埃が蓄積した。"
+  },
+  {
+    "word": "exceed",
+    "meaning": "越える",
+    "example": "Sales exceeded expectations.",
+    "example_jp": "売上は期待を越えた。"
+  },
+  {
+    "word": "abundant",
+    "meaning": "豊富な",
+    "example": "The forest has abundant wildlife.",
+    "example_jp": "その森には豊富な野生生物がいる。"
+  },
+  {
+    "word": "ample",
+    "meaning": "豊富な",
+    "example": "There is ample space here.",
+    "example_jp": "ここには豊富なスペースがある。"
+  },
+  {
+    "word": "gross",
+    "meaning": "総計の",
+    "example": "The gross income increased.",
+    "example_jp": "総（総計の）収入が増えた。"
+  },
+  {
+    "word": "gross",
+    "meaning": "ひどい",
+    "example": "The food had a gross smell.",
+    "example_jp": "その食べ物はひどい臭いがした。"
+  },
+  {
+    "word": "infinite",
+    "meaning": "無限の",
+    "example": "The universe seems infinite.",
+    "example_jp": "宇宙は無限のように思える。"
+  },
+  {
+    "word": "sole",
+    "meaning": "唯一の",
+    "example": "He is the sole survivor.",
+    "example_jp": "彼は唯一の生存者だ。"
+  },
+  {
+    "word": "sole",
+    "meaning": "足の裏，靴底",
+    "example": "The sole of the shoe is worn out.",
+    "example_jp": "靴の底（靴底）がすり減っている。"
+  },
+  {
+    "word": "heap",
+    "meaning": "山",
+    "example": "There was a heap of clothes.",
+    "example_jp": "服の山があった。"
+  },
+  {
+    "word": "heap",
+    "meaning": "たくさんの～",
+    "example": "She has a heap of problems.",
+    "example_jp": "彼女はたくさんの問題を抱えている。"
+  },
+  {
+    "word": "fraction",
+    "meaning": "少量",
+    "example": "Only a fraction survived.",
+    "example_jp": "ほんの少量だけが生き残った。"
+  },
+  {
+    "word": "fraction",
+    "meaning": "分数，端数",
+    "example": "He learned fractions in math class.",
+    "example_jp": "彼は数学の授業で分数（端数）を学んだ。"
+  },
+  {
+    "word": "simultaneous",
+    "meaning": "同時の",
+    "example": "They made a simultaneous decision.",
+    "example_jp": "彼らは同時の決定を下した。"
+  },
+  {
+    "word": "medieval",
+    "meaning": "中世の",
+    "example": "The castle dates back to medieval times.",
+    "example_jp": "その城の歴史は中世の時代にまで遡る。"
+  },
+  {
+    "word": "dawn",
+    "meaning": "夜明け",
+    "example": "We left at dawn.",
+    "example_jp": "私たちは夜明けに出発した。"
+  },
+  {
+    "word": "dawn",
+    "meaning": "夜が明ける",
+    "example": "It dawned slowly.",
+    "example_jp": "ゆっくりと夜が明けた。"
+  },
+  {
+    "word": "dawn",
+    "meaning": "わかり始める",
+    "example": "The truth dawned on him.",
+    "example_jp": "真実が彼にわかり（見え）始めた。"
+  },
+  {
+    "word": "span",
+    "meaning": "期間",
+    "example": "His career spanned 30 years.",
+    "example_jp": "彼の経歴は30年の期間にわたった。"
+  },
+  {
+    "word": "span",
+    "meaning": "持続期間",
+    "example": "My attention span is short.",
+    "example_jp": "私の注意力（の持続期間）は短い。"
+  },
+  {
+    "word": "adolescent",
+    "meaning": "思春期の若者",
+    "example": "The school supports adolescents.",
+    "example_jp": "その学校は思春期の若者を支援している。"
+  },
+  {
+    "word": "adolescent",
+    "meaning": "思春期の",
+    "example": "Adolescent behavior can be unpredictable.",
+    "example_jp": "思春期の行動は予測できないことがある。"
+  },
+  {
+    "word": "millennium",
+    "meaning": "1000年間",
+    "example": "A millennium is 1000 years.",
+    "example_jp": "ミレニアム（1000年間）は1000年だ。"
+  },
+  {
+    "word": "expire",
+    "meaning": "期限が切れる",
+    "example": "The contract expired yesterday.",
+    "example_jp": "契約は昨日、期限が切れた。"
+  },
+  {
+    "word": "postpone",
+    "meaning": "延期する",
+    "example": "They postponed the event.",
+    "example_jp": "彼らはイベントを延期した。"
+  },
+  {
+    "word": "periodically",
+    "meaning": "定期的に，時折",
+    "example": "The machine is checked periodically.",
+    "example_jp": "その機械は定期的に（時折）点検される。"
+  },
+  {
+    "word": "array",
+    "meaning": "さまざまな，多彩な",
+    "example": "There was an array of choices.",
+    "example_jp": "さまざまな（多彩な）選択肢があった。"
+  },
+  {
+    "word": "realm",
+    "meaning": "領域，領土",
+    "example": "He works in the realm of science.",
+    "example_jp": "彼は科学の領域で働いている。"
+  },
+  {
+    "word": "domain",
+    "meaning": "領域",
+    "example": "This topic is outside my domain.",
+    "example_jp": "このトピックは私の領域（専門外）だ。"
+  },
+  {
+    "word": "boundary",
+    "meaning": "境界線",
+    "example": "They crossed the boundary.",
+    "example_jp": "彼らは境界線を越えた。"
+  },
+  {
+    "word": "spectrum",
+    "meaning": "範囲",
+    "example": "Opinions cover a wide spectrum.",
+    "example_jp": "意見は広い範囲にわたっている。"
+  },
+  {
+    "word": "spectrum",
+    "meaning": "スペクトル",
+    "example": "The prism showed a spectrum of colors.",
+    "example_jp": "プリズムが色のスペクトルを見せた。"
+  },
+  {
+    "word": "equip",
+    "meaning": "装備させる",
+    "example": "They equipped the room with computers.",
+    "example_jp": "彼らは部屋にコンピューターを装備させた。"
+  },
+  {
+    "word": "equip",
+    "meaning": "身につけさせる",
+    "example": "The training equipped him with skills.",
+    "example_jp": "その訓練が彼にスキルを身につけさせた。"
+  },
+  {
+    "word": "transmit",
+    "meaning": "送る，伝える",
+    "example": "They transmitted the message.",
+    "example_jp": "彼らはメッセージを送った（伝えた）。"
+  },
+  {
+    "word": "transmit",
+    "meaning": "うつす",
+    "example": "The virus can be transmitted easily.",
+    "example_jp": "そのウイルスは簡単にうつる（伝染する）可能性がある。"
+  },
+  {
+    "word": "endow",
+    "meaning": "授ける",
+    "example": "Nature endowed him with talent.",
+    "example_jp": "自然が彼に才能を授けた。"
+  },
+  {
+    "word": "inherit",
+    "meaning": "受け継ぐ",
+    "example": "She inherited her mother's house.",
+    "example_jp": "彼女は母親の家を受け継いだ。"
+  },
+  {
+    "word": "retrieve",
+    "meaning": "回収する，取り戻す",
+    "example": "He retrieved the lost file.",
+    "example_jp": "彼は失われたファイルを回収した（取り戻した）。"
+  },
+  {
+    "word": "retrieve",
+    "meaning": "検索する",
+    "example": "The computer retrieved the data.",
+    "example_jp": "コンピューターがデータを検索した。"
+  },
+  {
+    "word": "displace",
+    "meaning": "取って代わる",
+    "example": "New machines displaced old workers.",
+    "example_jp": "新しい機械が古い労働者に取って代わった。"
+  },
+  {
+    "word": "displace",
+    "meaning": "追い出す",
+    "example": "The war displaced many families.",
+    "example_jp": "戦争が多くの家族を（住居から）追い出した。"
+  },
+  {
+    "word": "bond",
+    "meaning": "きずな",
+    "example": "They formed a strong bond.",
+    "example_jp": "彼らは強いきずなを築いた。"
+  },
+  {
+    "word": "bond",
+    "meaning": "公債，社債",
+    "example": "He invested in government bonds.",
+    "example_jp": "彼は公債（国債）に投資した。"
+  },
+  {
+    "word": "hospitality",
+    "meaning": "もてなし，歓迎",
+    "example": "They showed great hospitality.",
+    "example_jp": "彼らは素晴らしいもてなし（歓迎）を示した。"
+  },
+  {
+    "word": "certificate",
+    "meaning": "証明書，免許状",
+    "example": "He received a certificate.",
+    "example_jp": "彼は証明書（免許状）を受け取った。"
+  },
+  {
+    "word": "brochure",
+    "meaning": "パンフレット",
+    "example": "She read the travel brochure.",
+    "example_jp": "彼女は旅行パンフレットを読んだ。"
+  },
+  {
+    "word": "outlet",
+    "meaning": "コンセント",
+    "example": "Plug it into the outlet.",
+    "example_jp": "それをコンセントに差し込みなさい。"
+  },
+  {
+    "word": "outlet",
+    "meaning": "販売店",
+    "example": "They opened a new outlet downtown.",
+    "example_jp": "彼らは繁華街に新しい販売店を開いた。"
+  },
+  {
+    "word": "outlet",
+    "meaning": "はけ口",
+    "example": "Writing is his emotional outlet.",
+    "example_jp": "執筆は彼の感情のはけ口だ。"
+  },
+  {
+    "word": "accommodation",
+    "meaning": "宿泊施設",
+    "example": "The hotel offers comfortable accommodations.",
+    "example_jp": "そのホテルは快適な宿泊施設を提供している。"
+  },
+  {
+    "word": "haven",
+    "meaning": "避難所，保護区",
+    "example": "The island is a safe haven.",
+    "example_jp": "その島は安全な避難所（保護区）だ。"
+  },
+  {
+    "word": "venue",
+    "meaning": "開催地，会場",
+    "example": "This hall is the venue for the concert.",
+    "example_jp": "このホールがコンサートの会場（開催地）だ。"
+  },
+  {
+    "word": "intersection",
+    "meaning": "交差点",
+    "example": "Turn left at the intersection.",
+    "example_jp": "交差点で左に曲がりなさい。"
+  },
+  {
+    "word": "pavement",
+    "meaning": "歩道",
+    "example": "She walked along the pavement.",
+    "example_jp": "彼女は歩道を歩いた。"
+  },
+  {
+    "word": "pedestrian",
+    "meaning": "歩行者",
+    "example": "The pedestrian crossed the street.",
+    "example_jp": "歩行者が通りを渡った。"
+  },
+  {
+    "word": "excursion",
+    "meaning": "小旅行，遠足",
+    "example": "We went on a school excursion.",
+    "example_jp": "私たちは学校の遠足（小旅行）に行った。"
+  },
+  {
+    "word": "shipping",
+    "meaning": "発送",
+    "example": "Shipping will take three days.",
+    "example_jp": "発送には3日かかる。"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "word": "landmark",
+    "meaning": "We visited a famous landmark.",
+    "example": "名所",
+    "example_jp": "私たちは有名な名所を訪れた。"
+  },
+  {
+    "word": "dementia",
+    "meaning": "He suffers from dementia.",
+    "example": "認知症",
+    "example_jp": "彼は認知症を患っている。"
+  },
+  {
+    "word": "flesh",
+    "meaning": "The wound cut into the flesh.",
+    "example": "肉",
+    "example_jp": "その傷は肉まで達した。"
+  },
+  {
+    "word": "collision",
+    "meaning": "The cars had a collision.",
+    "example": "衝突、対立",
+    "example_jp": "その車同士が衝突した。"
+  },
+  {
+    "word": "hazard",
+    "meaning": "This road is a hazard.",
+    "example": "危険なもの",
+    "example_jp": "この道路は危険だ。"
+  },
+  {
+    "word": "tomb",
+    "meaning": "They entered the ancient tomb.",
+    "example": "墓",
+    "example_jp": "彼らは古代の墓に入った。"
+  },
+  {
+    "word": "injection",
+    "meaning": "He got an injection.",
+    "example": "注射",
+    "example_jp": "彼は注射を受けた。"
+  },
+  {
+    "word": "breakthrough",
+    "meaning": "They made a breakthrough in research.",
+    "example": "飛躍的進歩",
+    "example_jp": "彼らは研究で飛躍的な進歩を遂げた。"
+  },
+  {
+    "word": "leather",
+    "meaning": "The bag is made of leather.",
+    "example": "革",
+    "example_jp": "そのかばんは革でできている。"
+  },
+  {
+    "word": "jewelry",
+    "meaning": "She wore beautiful jewelry.",
+    "example": "宝石",
+    "example_jp": "彼女は美しい宝飾品を身に着けていた。"
+  },
+  {
+    "word": "cue",
+    "meaning": "That was my cue to speak.",
+    "example": "合図",
+    "example_jp": "それが私が話す合図だった。"
+  },
+  {
+    "word": "ambulance",
+    "meaning": "The ambulance arrived quickly.",
+    "example": "救急車",
+    "example_jp": "救急車がすぐに到着した。"
+  },
+  {
+    "word": "estate",
+    "meaning": "He bought a large estate.",
+    "example": "不動産",
+    "example_jp": "彼は広大な不動産を買った。"
+  },
+  {
+    "word": "commodity",
+    "meaning": "Oil is an important commodity.",
+    "example": "商品",
+    "example_jp": "石油は重要な商品だ。"
+  },
+  {
+    "word": "departure",
+    "meaning": "Our departure is at noon.",
+    "example": "出発",
+    "example_jp": "私たちの出発は正午だ。"
+  },
+  {
+    "word": "phase",
+    "meaning": "This is the final phase.",
+    "example": "段階",
+    "example_jp": "これは最終段階だ。"
+  },
+  {
+    "word": "thief",
+    "meaning": "A thief stole my wallet.",
+    "example": "泥棒",
+    "example_jp": "泥棒が私の財布を盗んだ。"
+  },
+  {
+    "word": "saint",
+    "meaning": "He is treated as a saint.",
+    "example": "聖",
+    "example_jp": "彼は聖人のように扱われている。"
+  },
+  {
+    "word": "sculpture",
+    "meaning": "The museum has a new sculpture.",
+    "example": "彫刻",
+    "example_jp": "その美術館には新しい彫刻がある。"
+  },
+  {
+    "word": "grief",
+    "meaning": "She was filled with grief.",
+    "example": "悲しみ",
+    "example_jp": "彼女は悲しみに満ちていた。"
+  },
+  {
+    "word": "lane",
+    "meaning": "Stay in your lane.",
+    "example": "車線",
+    "example_jp": "車線を守ってください。"
+  },
+  {
+    "word": "predator",
+    "meaning": "Lions are predators.",
+    "example": "捕食動物",
+    "example_jp": "ライオンは捕食動物だ。"
+  },
+  {
+    "word": "fluid",
+    "meaning": "Water is a fluid.",
+    "example": "流体",
+    "example_jp": "水は流体である。"
+  },
+  {
+    "word": "incentive",
+    "meaning": "Money is a strong incentive.",
+    "example": "はげみ",
+    "example_jp": "お金は強い動機付けになる。"
+  },
+  {
+    "word": "bride",
+    "meaning": "The bride looked happy.",
+    "example": "花嫁",
+    "example_jp": "花嫁は幸せそうに見えた。"
+  },
+  {
+    "word": "intervention",
+    "meaning": "The doctor made an intervention.",
+    "example": "介入",
+    "example_jp": "医師が介入した。"
+  },
+  {
+    "word": "margin",
+    "meaning": "They won by a small margin.",
+    "example": "差",
+    "example_jp": "彼らはわずかな差で勝った。"
+  },
+  {
+    "word": "biography",
+    "meaning": "I read his biography.",
+    "example": "伝記",
+    "example_jp": "私は彼の伝記を読んだ。"
+  },
+  {
+    "word": "consent",
+    "meaning": "We need your consent.",
+    "example": "同意",
+    "example_jp": "あなたの同意が必要です。"
+  },
+  {
+    "word": "volcano",
+    "meaning": "The volcano erupted.",
+    "example": "火山",
+    "example_jp": "その火山が噴火した。"
+  },
+  {
+    "word": "rebel",
+    "meaning": "The rebels fought back.",
+    "example": "反逆者",
+    "example_jp": "反乱者たちは反撃した。"
+  },
+  {
+    "word": "metaphor",
+    "meaning": "This phrase is a metaphor.",
+    "example": "比喩",
+    "example_jp": "この表現は比喩だ。"
+  },
+  {
+    "word": "legislation",
+    "meaning": "New legislation was passed.",
+    "example": "法律",
+    "example_jp": "新しい法律が可決された。"
+  },
+  {
+    "word": "lightning",
+    "meaning": "Lightning struck the tree.",
+    "example": "雷",
+    "example_jp": "雷がその木に落ちた。"
+  },
+  {
+    "word": "pesticide",
+    "meaning": "They used pesticide on the crops.",
+    "example": "殺虫剤",
+    "example_jp": "彼らは作物に殺虫剤を使った。"
+  },
+  {
+    "word": "column",
+    "meaning": "I read his newspaper column.",
+    "example": "コラム",
+    "example_jp": "私は彼の新聞のコラムを読んだ。"
+  },
+  {
+    "word": "rumor",
+    "meaning": "There is a rumor about him.",
+    "example": "うわさ",
+    "example_jp": "彼についてのうわさがある。"
+  },
+  {
+    "word": "dust",
+    "meaning": "The shelf was covered in dust.",
+    "example": "ほこり",
+    "example_jp": "棚はほこりで覆われていた。"
+  },
+  {
+    "word": "dialogue",
+    "meaning": "They had a long dialogue.",
+    "example": "対話",
+    "example_jp": "彼らは長い対話を交わした。"
+  },
+  {
+    "word": "kindergarten",
+    "meaning": "She goes to kindergarten.",
+    "example": "幼稚園",
+    "example_jp": "彼女は幼稚園に通っている。"
+  },
+  {
+    "word": "diabetes",
+    "meaning": "He has diabetes.",
+    "example": "糖尿病",
+    "example_jp": "彼は糖尿病を患っている。"
+  },
+  {
+    "word": "obesity",
+    "meaning": "Obesity is a health problem.",
+    "example": "肥満",
+    "example_jp": "肥満は健康上の問題だ。"
+  },
+  {
+    "word": "patent",
+    "meaning": "She got a patent for her invention.",
+    "example": "特許",
+    "example_jp": "彼女は自分の発明の特許を取得した。"
+  },
+  {
+    "word": "chapter",
+    "meaning": "I finished the first chapter.",
+    "example": "章",
+    "example_jp": "私は第一章を読み終えた。"
+  },
+  {
+    "word": "palace",
+    "meaning": "They visited the palace.",
+    "example": "宮殿",
+    "example_jp": "彼らは宮殿を訪れた。"
+  },
+  {
+    "word": "laundry",
+    "meaning": "I did the laundry.",
+    "example": "洗濯",
+    "example_jp": "私は洗濯をした。"
+  },
+  {
+    "word": "ward",
+    "meaning": "He stayed in the hospital ward.",
+    "example": "病棟",
+    "example_jp": "彼は病院の病棟に入院していた。"
+  },
+  {
+    "word": "outbreak",
+    "meaning": "There was an outbreak of flu.",
+    "example": "ぼっ発",
+    "example_jp": "インフルエンザの発生があった。"
+  },
+  {
+    "word": "equation",
+    "meaning": "Solve this equation.",
+    "example": "方程式",
+    "example_jp": "この方程式を解きなさい。"
+  },
+  {
+    "word": "archaeologist",
+    "meaning": "She is an archaeologist.",
+    "example": "考古学者",
+    "example_jp": "彼女は考古学者だ。"
+  }
+]

@@ -1,0 +1,404 @@
+[
+  {
+    "word": "for sure",
+    "meaning": "確かに",
+    "example": "I will call you for sure.",
+    "example_jp": "私は確かにあなたに電話します。"
+  },
+  {
+    "word": "for certain",
+    "meaning": "確かに",
+    "example": "He is coming for certain.",
+    "example_jp": "彼は確かに来ます。"
+  },
+  {
+    "word": "under way",
+    "meaning": "進行中で",
+    "example": "The project is under way.",
+    "example_jp": "そのプロジェクトは進行中である。"
+  },
+  {
+    "word": "under construction",
+    "meaning": "建築中で",
+    "example": "The building is under construction.",
+    "example_jp": "その建物は建築中である。"
+  },
+  {
+    "word": "of late",
+    "meaning": "最近",
+    "example": "I haven’t seen him of late.",
+    "example_jp": "最近彼に会っていない。"
+  },
+  {
+    "word": "of one's own accord",
+    "meaning": "自分の意志で",
+    "example": "She left of her own accord.",
+    "example_jp": "彼女は自分の意志で立ち去った。"
+  },
+  {
+    "word": "of one's own free will",
+    "meaning": "自発的に",
+    "example": "He joined of his own free will.",
+    "example_jp": "彼は自発的に参加した。"
+  },
+  {
+    "word": "without fail",
+    "meaning": "必ず",
+    "example": "Come tomorrow without fail.",
+    "example_jp": "明日、必ず来なさい。"
+  },
+  {
+    "word": "behind the times",
+    "meaning": "時代遅れで",
+    "example": "His ideas are behind the times.",
+    "example_jp": "彼の考えは時代遅れである。"
+  },
+  {
+    "word": "beyond description",
+    "meaning": "言葉では表せないほど",
+    "example": "The beauty was beyond description.",
+    "example_jp": "その美しさは言葉では表せないほどだった。"
+  },
+  {
+    "word": "out of breath",
+    "meaning": "息切れして",
+    "example": "I was out of breath after running.",
+    "example_jp": "走ったあと、私は息切れしていた。"
+  },
+  {
+    "word": "out of character",
+    "meaning": "性格に合わない",
+    "example": "His anger was out of character.",
+    "example_jp": "彼の怒りは彼の性格に合わないものだった。"
+  },
+  {
+    "word": "no matter how",
+    "meaning": "どんなに…でも",
+    "example": "No matter how hard it is, try.",
+    "example_jp": "どんなにそれが大変でも、やってみなさい。"
+  },
+  {
+    "word": "no matter what",
+    "meaning": "何が…でも",
+    "example": "No matter what happens, stay calm.",
+    "example_jp": "何が起きても、冷静でいなさい。"
+  },
+  {
+    "word": "no matter when",
+    "meaning": "いつ…でも",
+    "example": "No matter when you come, I’m here.",
+    "example_jp": "あなたがいつ来ても、私はここにいます。"
+  },
+  {
+    "word": "what we call",
+    "meaning": "いわゆる～",
+    "example": "This is what we call a miracle.",
+    "example_jp": "これがいわゆる奇跡だ。"
+  },
+  {
+    "word": "what ～ is",
+    "meaning": "現在の～",
+    "example": "This is what he is now.",
+    "example_jp": "これが現在の彼だ。"
+  },
+  {
+    "word": "～ will do",
+    "meaning": "～は役に立つ",
+    "example": "Any pen will do.",
+    "example_jp": "どんなペンでも役に立つ。"
+  },
+  {
+    "word": "may well do",
+    "meaning": "おそらく…するだろう",
+    "example": "He may well win.",
+    "example_jp": "彼はおそらく勝つだろう。"
+  },
+  {
+    "word": "may well do",
+    "meaning": "…するのはもっともだ",
+    "example": "You may well be tired.",
+    "example_jp": "あなたが疲れているのはもっともだ。"
+  },
+  {
+    "word": "might as well do",
+    "meaning": "（どうせなら）…するほうがいい",
+    "example": "We might as well start now.",
+    "example_jp": "（どうせなら）今出発するほうがいい。"
+  },
+  {
+    "word": "cannot ～ too …",
+    "meaning": "いくら…してもしすぎることはない",
+    "example": "You cannot be too careful.",
+    "example_jp": "いくら注意してもしすぎることはない。"
+  },
+  {
+    "word": "the last ～ to do",
+    "meaning": "最も…しそうにない～",
+    "example": "He is the last person to lie.",
+    "example_jp": "彼は最も嘘をつきそうにない人だ。"
+  },
+  {
+    "word": "have A to do with B",
+    "meaning": "AはBと関係がある",
+    "example": "This has nothing to do with me.",
+    "example_jp": "これは私とは何の関係もない。"
+  },
+  {
+    "word": "to tell the truth",
+    "meaning": "実を言えば",
+    "example": "To tell the truth, I’m tired.",
+    "example_jp": "実を言えば、私は疲れている。"
+  },
+  {
+    "word": "needless to say",
+    "meaning": "言うまでもなく",
+    "example": "Needless to say, he was late.",
+    "example_jp": "言うまでもなく、彼は遅れた。"
+  },
+  {
+    "word": "feel like doing",
+    "meaning": "…したい気がする",
+    "example": "I feel like resting.",
+    "example_jp": "私は休憩したい気がする。"
+  },
+  {
+    "word": "be used to doing",
+    "meaning": "…することに慣れている",
+    "example": "I am used to driving.",
+    "example_jp": "私は運転することに慣れている。"
+  },
+  {
+    "word": "cannot help doing",
+    "meaning": "…せずにはいられない",
+    "example": "I cannot help laughing.",
+    "example_jp": "私は笑わずにはいられない。"
+  },
+  {
+    "word": "come close to doing",
+    "meaning": "もう少しで…しそうになる",
+    "example": "He came close to falling.",
+    "example_jp": "彼はもう少しで転びそうになった。"
+  },
+  {
+    "word": "come near to doing",
+    "meaning": "もう少しで…しそうになる",
+    "example": "She came near to crying.",
+    "example_jp": "彼女はもう少しで泣きそうになった。"
+  },
+  {
+    "word": "with a view to doing",
+    "meaning": "…する目的で",
+    "example": "He saved money with a view to buying a house.",
+    "example_jp": "彼は家を買う目的で貯金した。"
+  },
+  {
+    "word": "joking aside",
+    "meaning": "冗談はさておき",
+    "example": "Joking aside, we must work.",
+    "example_jp": "冗談はさておき、私たちは働かなければならない。"
+  },
+  {
+    "word": "kidding aside",
+    "meaning": "冗談はさておき",
+    "example": "Kidding aside, this is serious.",
+    "example_jp": "冗談はさておき、これは深刻だ。"
+  },
+  {
+    "word": "catch ～ doing",
+    "meaning": "～が…しているところを見つける",
+    "example": "I caught him sleeping.",
+    "example_jp": "私は彼が寝ているところを見つけた。"
+  },
+  {
+    "word": "speaking of",
+    "meaning": "～と言えば",
+    "example": "Speaking of food, I’m hungry.",
+    "example_jp": "食べ物と言えば、私はお腹が空いている。"
+  },
+  {
+    "word": "talking of",
+    "meaning": "～と言えば",
+    "example": "Talking of movies, did you see it?",
+    "example_jp": "映画と言えば、それを見ましたか。"
+  },
+  {
+    "word": "judging from",
+    "meaning": "～から判断すると",
+    "example": "Judging from his face, he is tired.",
+    "example_jp": "彼の顔から判断すると、彼は疲れている。"
+  },
+  {
+    "word": "judging by",
+    "meaning": "～から判断すると",
+    "example": "Judging by the weather, it will rain.",
+    "example_jp": "天気から判断すると、雨が降るだろう。"
+  },
+  {
+    "word": "that is",
+    "meaning": "すなわち",
+    "example": "He is kind; that is, he helps everyone.",
+    "example_jp": "彼は親切だ。すなわち、誰でも助ける。"
+  },
+  {
+    "word": "that is to say",
+    "meaning": "つまり",
+    "example": "She left early, that is to say, she was busy.",
+    "example_jp": "彼女は早く出発した。つまり、忙しかったのだ。"
+  },
+  {
+    "word": "in itself",
+    "meaning": "それ自体では",
+    "example": "The idea is good in itself.",
+    "example_jp": "その考えはそれ自体では良いものだ。"
+  },
+  {
+    "word": "to oneself",
+    "meaning": "自分だけに",
+    "example": "He kept the secret to himself.",
+    "example_jp": "彼はその秘密を自分だけにとどめた。"
+  },
+  {
+    "word": "to oneself",
+    "meaning": "自分自身に",
+    "example": "She talked to herself.",
+    "example_jp": "彼女は独り言を言った。"
+  },
+  {
+    "word": "one after another",
+    "meaning": "次々に",
+    "example": "They came one after another.",
+    "example_jp": "彼らは次々にやってきた。"
+  },
+  {
+    "word": "none other than",
+    "meaning": "ほかならぬ～",
+    "example": "The winner was none other than Tom.",
+    "example_jp": "勝者はほかならぬトムだった。"
+  },
+  {
+    "word": "would rather do",
+    "meaning": "むしろ…したい",
+    "example": "I would rather stay home.",
+    "example_jp": "私はむしろ家にいたい。"
+  },
+  {
+    "word": "had rather do",
+    "meaning": "むしろ…したい",
+    "example": "I had rather go now.",
+    "example_jp": "私はむしろ今行きたい。"
+  },
+  {
+    "word": "as many as",
+    "meaning": "～もの数の",
+    "example": "As many as 100 people came.",
+    "example_jp": "100人もの数の人々が来た。"
+  },
+  {
+    "word": "as much as",
+    "meaning": "～と同量の",
+    "example": "He ate as much as I did.",
+    "example_jp": "彼は私と同量の食事をした。"
+  },
+  {
+    "word": "as good as",
+    "meaning": "～も同然",
+    "example": "The work is as good as done.",
+    "example_jp": "その仕事は終わったも同然だ。"
+  },
+  {
+    "word": "as ～ as any",
+    "meaning": "誰にも劣らず～",
+    "example": "He is as smart as any.",
+    "example_jp": "彼は誰にも劣らず賢い。"
+  },
+  {
+    "word": "all the + 比較級",
+    "meaning": "ますます～",
+    "example": "She became all the happier.",
+    "example_jp": "彼女はますます幸せになった。"
+  },
+  {
+    "word": "that much + 比較級",
+    "meaning": "それだけいっそう～",
+    "example": "I like it that much better.",
+    "example_jp": "私はそれがそれだけいっそう好きだ。"
+  },
+  {
+    "word": "much less",
+    "meaning": "まして～はない",
+    "example": "I can’t run, much less jump.",
+    "example_jp": "私は走れない。まして跳ぶことなどできない。"
+  },
+  {
+    "word": "still less",
+    "meaning": "まして～はない",
+    "example": "He can’t read, still less write.",
+    "example_jp": "彼は読むことができない。まして書くことなどできない。"
+  },
+  {
+    "word": "what is more",
+    "meaning": "さらに",
+    "example": "He is kind, and what is more, smart.",
+    "example_jp": "彼は親切で、さらに賢い。"
+  },
+  {
+    "word": "know better than to do",
+    "meaning": "…しないだけの分別がある",
+    "example": "He knows better than to lie.",
+    "example_jp": "彼には嘘をつかないだけの分別がある。"
+  },
+  {
+    "word": "Couldn't be better.",
+    "meaning": "最高です",
+    "example": "I’m great. Couldn’t be better.",
+    "example_jp": "気分は最高です。これ以上ないほどです。"
+  },
+  {
+    "word": "worse still",
+    "meaning": "いっそう悪いことに",
+    "example": "It rained, and worse still, it snowed.",
+    "example_jp": "雨が降り、いっそう悪いことに雪が降った。"
+  },
+  {
+    "word": "worse yet",
+    "meaning": "いっそう悪いことに",
+    "example": "He was late, and worse yet, he forgot the key.",
+    "example_jp": "彼は遅刻し、いっそう悪いことに鍵を忘れた。"
+  },
+  {
+    "word": "to the best of one's knowledge",
+    "meaning": "知る限りでは",
+    "example": "To the best of my knowledge, it’s true.",
+    "example_jp": "私の知る限りでは、それは本当だ。"
+  },
+  {
+    "word": "not ～ the least",
+    "meaning": "まったく～ない",
+    "example": "I’m not the least tired.",
+    "example_jp": "私はまったく疲れていない。"
+  },
+  {
+    "word": "not ～ in the least",
+    "meaning": "まったく～ない",
+    "example": "I’m not in the least angry.",
+    "example_jp": "私はまったく怒っていない。"
+  },
+  {
+    "word": "to the full",
+    "meaning": "心ゆくまで",
+    "example": "Enjoy life to the full.",
+    "example_jp": "心ゆくまで人生を楽しみなさい。"
+  },
+  {
+    "word": "to the fullest",
+    "meaning": "十分に",
+    "example": "Live life to the fullest.",
+    "example_jp": "人生を十分に生きなさい。"
+  },
+  {
+    "word": "by far",
+    "meaning": "はるかに",
+    "example": "This is by far the best.",
+    "example_jp": "これははるかに最高だ。"
+  }
+]

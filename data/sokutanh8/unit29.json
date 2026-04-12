@@ -1,0 +1,596 @@
+[
+  {
+    "word": "clinician",
+    "meaning": "臨床医",
+    "example": "He consulted a clinician.",
+    "example_jp": "彼は臨床医に相談した。"
+  },
+  {
+    "word": "clinic",
+    "meaning": "診療所",
+    "example": "She works at a clinic.",
+    "example_jp": "彼女は診療所で働いている。"
+  },
+  {
+    "word": "diagnose",
+    "meaning": "診断する",
+    "example": "The doctor diagnosed the disease.",
+    "example_jp": "医師はその病気を診断した。"
+  },
+  {
+    "word": "scan",
+    "meaning": "細かく調べる",
+    "example": "He scanned the document.",
+    "example_jp": "彼は書類を細かく調べた。"
+  },
+  {
+    "word": "scan",
+    "meaning": "ざっと見る",
+    "example": "She scanned the room.",
+    "example_jp": "彼女は部屋をざっと見た。"
+  },
+  {
+    "word": "scan",
+    "meaning": "X線検査をする",
+    "example": "They scanned his chest.",
+    "example_jp": "彼らは彼の胸のX線検査をした。"
+  },
+  {
+    "word": "scan",
+    "meaning": "X線検査",
+    "example": "The scan showed no problem.",
+    "example_jp": "X線検査の結果、問題はなかった。"
+  },
+  {
+    "word": "analysis",
+    "meaning": "分析",
+    "example": "The analysis was detailed.",
+    "example_jp": "その分析は詳細だった。"
+  },
+  {
+    "word": "travel",
+    "meaning": "旅行する",
+    "example": "He loves to travel.",
+    "example_jp": "彼は旅行するのが大好きだ。"
+  },
+  {
+    "word": "travel",
+    "meaning": "伝わる",
+    "example": "Sound travels fast.",
+    "example_jp": "音は速く伝わる。"
+  },
+  {
+    "word": "travel",
+    "meaning": "進む",
+    "example": "The car traveled slowly.",
+    "example_jp": "車はゆっくりと進んだ。"
+  },
+  {
+    "word": "travel",
+    "meaning": "旅行",
+    "example": "His travel was long.",
+    "example_jp": "彼の旅行は長かった。"
+  },
+  {
+    "word": "depart",
+    "meaning": "出発する",
+    "example": "The train departed at noon.",
+    "example_jp": "電車は正午に出発した。"
+  },
+  {
+    "word": "depart",
+    "meaning": "から出発する",
+    "example": "The ship departed the port.",
+    "example_jp": "船は港から出発した。"
+  },
+  {
+    "word": "expedition",
+    "meaning": "遠征",
+    "example": "They went on an expedition.",
+    "example_jp": "彼らは遠征に出かけた。"
+  },
+  {
+    "word": "expedition",
+    "meaning": "探検隊",
+    "example": "The expedition team arrived.",
+    "example_jp": "探検隊が到着した。"
+  },
+  {
+    "word": "voyage",
+    "meaning": "航海",
+    "example": "The voyage lasted months.",
+    "example_jp": "その航海は数ヶ月続いた。"
+  },
+  {
+    "word": "voyage",
+    "meaning": "船旅",
+    "example": "They enjoyed the voyage.",
+    "example_jp": "彼らは船旅を楽しんだ。"
+  },
+  {
+    "word": "palace",
+    "meaning": "宮殿",
+    "example": "The king lived in a palace.",
+    "example_jp": "王は宮殿に住んでいた。"
+  },
+  {
+    "word": "ancient",
+    "meaning": "古代の",
+    "example": "Ancient cities are fascinating.",
+    "example_jp": "古代の都市は魅力的だ。"
+  },
+  {
+    "word": "ancient",
+    "meaning": "昔からの",
+    "example": "It is an ancient custom.",
+    "example_jp": "それは昔からの慣習だ。"
+  },
+  {
+    "word": "primitive",
+    "meaning": "原始的な",
+    "example": "Primitive tools were simple.",
+    "example_jp": "原始的な道具は単純だった。"
+  },
+  {
+    "word": "primitive",
+    "meaning": "原始時代の",
+    "example": "Primitive people lived here.",
+    "example_jp": "原始時代の人々がここに住んでいた。"
+  },
+  {
+    "word": "archaeologist",
+    "meaning": "考古学者",
+    "example": "He is an archaeologist.",
+    "example_jp": "彼は考古学者だ。"
+  },
+  {
+    "word": "leather",
+    "meaning": "革",
+    "example": "The bag is made of leather.",
+    "example_jp": "そのバッグは革で作られている。"
+  },
+  {
+    "word": "leather",
+    "meaning": "革製品",
+    "example": "She sells leather goods.",
+    "example_jp": "彼女は革製品を売っている。"
+  },
+  {
+    "word": "leather",
+    "meaning": "革製の",
+    "example": "He wore a leather jacket.",
+    "example_jp": "彼は革製のジャケットを着ていた。"
+  },
+  {
+    "word": "fur",
+    "meaning": "毛",
+    "example": "The cat has soft fur.",
+    "example_jp": "その猫は柔らかい毛を持っている。"
+  },
+  {
+    "word": "fur",
+    "meaning": "毛皮",
+    "example": "She bought a fur coat.",
+    "example_jp": "彼女は毛皮のコートを買った。"
+  },
+  {
+    "word": "tool",
+    "meaning": "道具",
+    "example": "This tool is useful.",
+    "example_jp": "この道具は役に立つ。"
+  },
+  {
+    "word": "tool",
+    "meaning": "手段",
+    "example": "Education is a tool for success.",
+    "example_jp": "教育は成功のための手段だ。"
+  },
+  {
+    "word": "instrument",
+    "meaning": "楽器",
+    "example": "He played a musical instrument.",
+    "example_jp": "彼は楽器を演奏した。"
+  },
+  {
+    "word": "instrument",
+    "meaning": "器具",
+    "example": "The instrument measures pressure.",
+    "example_jp": "その器具は圧力を測定する。"
+  },
+  {
+    "word": "Mediterranean",
+    "meaning": "地中海の",
+    "example": "Mediterranean food is healthy.",
+    "example_jp": "地中海の料理は健康的だ。"
+  },
+  {
+    "word": "mud",
+    "meaning": "泥",
+    "example": "His shoes were covered in mud.",
+    "example_jp": "彼の靴は泥で覆われていた。"
+  },
+  {
+    "word": "dirt",
+    "meaning": "汚れ",
+    "example": "The floor was covered with dirt.",
+    "example_jp": "床は汚れで覆われていた。"
+  },
+  {
+    "word": "dirt",
+    "meaning": "泥",
+    "example": "The kids played in the dirt.",
+    "example_jp": "子供たちは泥の中で遊んだ。"
+  },
+  {
+    "word": "clay",
+    "meaning": "粘土",
+    "example": "The pot is made of clay.",
+    "example_jp": "その壺は粘土で作られている。"
+  },
+  {
+    "word": "stream",
+    "meaning": "小川",
+    "example": "A stream flows behind the house.",
+    "example_jp": "家の後ろを小川が流れている。"
+  },
+  {
+    "word": "stream",
+    "meaning": "流れ",
+    "example": "A stream of people entered.",
+    "example_jp": "人の流れが入ってきた。"
+  },
+  {
+    "word": "tide",
+    "meaning": "潮",
+    "example": "The tide is high.",
+    "example_jp": "潮が満ちている。"
+  },
+  {
+    "word": "tide",
+    "meaning": "傾向",
+    "example": "The tide of opinion changed.",
+    "example_jp": "世論の傾向が変わった。"
+  },
+  {
+    "word": "tide",
+    "meaning": "多数",
+    "example": "A tide of people came.",
+    "example_jp": "多数の人々がやってきた。"
+  },
+  {
+    "word": "weave",
+    "meaning": "織る",
+    "example": "She wove a basket.",
+    "example_jp": "彼女はカゴを織った。"
+  },
+  {
+    "word": "weave",
+    "meaning": "作り上げる",
+    "example": "He wove a plan.",
+    "example_jp": "彼は計画を作り上げた。"
+  },
+  {
+    "word": "weave",
+    "meaning": "巣を張る",
+    "example": "The spider wove a web.",
+    "example_jp": "クモが巣を張った。"
+  },
+  {
+    "word": "textile",
+    "meaning": "織物",
+    "example": "The textile is soft.",
+    "example_jp": "その織物は柔らかい。"
+  },
+  {
+    "word": "textile",
+    "meaning": "布地",
+    "example": "The region produces textiles.",
+    "example_jp": "その地域は布地を生産している。"
+  },
+  {
+    "word": "dye",
+    "meaning": "染める",
+    "example": "She dyed the cloth red.",
+    "example_jp": "彼女は布を赤く染めた。"
+  },
+  {
+    "word": "dye",
+    "meaning": "染料",
+    "example": "The dye is natural.",
+    "example_jp": "その染料は天然だ。"
+  },
+  {
+    "word": "current",
+    "meaning": "現在の",
+    "example": "The current situation is bad.",
+    "example_jp": "現在の状況は悪い。"
+  },
+  {
+    "word": "current",
+    "meaning": "流通している",
+    "example": "This money is current.",
+    "example_jp": "このお金は流通している。"
+  },
+  {
+    "word": "current",
+    "meaning": "流れ",
+    "example": "The river current is strong.",
+    "example_jp": "川の流れは強い。"
+  },
+  {
+    "word": "currency",
+    "meaning": "通貨",
+    "example": "The currency is stable.",
+    "example_jp": "その通貨は安定している。"
+  },
+  {
+    "word": "currency",
+    "meaning": "普及",
+    "example": "The idea gained currency.",
+    "example_jp": "その考えは普及した。"
+  },
+  {
+    "word": "contemporary",
+    "meaning": "現代の",
+    "example": "Contemporary art is popular.",
+    "example_jp": "現代の芸術は人気がある。"
+  },
+  {
+    "word": "contemporary",
+    "meaning": "同時代の人",
+    "example": "He is a contemporary of her.",
+    "example_jp": "彼は彼女と同時代の人だ。"
+  },
+  {
+    "word": "escape",
+    "meaning": "逃げる",
+    "example": "He escaped from danger.",
+    "example_jp": "彼は危険から逃げた。"
+  },
+  {
+    "word": "escape",
+    "meaning": "免れる",
+    "example": "He escaped injury.",
+    "example_jp": "彼は負傷を免れた。"
+  },
+  {
+    "word": "escape",
+    "meaning": "逃亡",
+    "example": "His escape was quick.",
+    "example_jp": "彼の逃亡は素早かった。"
+  },
+  {
+    "word": "flee",
+    "meaning": "逃げる",
+    "example": "They fled the country.",
+    "example_jp": "彼らはその国を逃げた。"
+  },
+  {
+    "word": "refugee",
+    "meaning": "難民",
+    "example": "The refugees arrived safely.",
+    "example_jp": "難民たちは無事に到着した。"
+  },
+  {
+    "word": "inspect",
+    "meaning": "検査する",
+    "example": "They inspected the building.",
+    "example_jp": "彼らは建物を検査した。"
+  },
+  {
+    "word": "cycle",
+    "meaning": "周期",
+    "example": "The water cycle is natural.",
+    "example_jp": "水の周期は自然なものだ。"
+  },
+  {
+    "word": "cycle",
+    "meaning": "循環する",
+    "example": "The economy cycles.",
+    "example_jp": "経済は循環する。"
+  },
+  {
+    "word": "circle",
+    "meaning": "円",
+    "example": "Draw a circle.",
+    "example_jp": "円を描きなさい。"
+  },
+  {
+    "word": "circulation",
+    "meaning": "循環",
+    "example": "Blood circulation is important.",
+    "example_jp": "血液の循環は重要だ。"
+  },
+  {
+    "word": "circulation",
+    "meaning": "発行部数",
+    "example": "The magazine’s circulation rose.",
+    "example_jp": "その雑誌の発行部数が上がった。"
+  },
+  {
+    "word": "circulation",
+    "meaning": "流通",
+    "example": "The product is in circulation.",
+    "example_jp": "その製品は流通している。"
+  },
+  {
+    "word": "spontaneously",
+    "meaning": "自発的に",
+    "example": "The idea came spontaneously.",
+    "example_jp": "その考えは自発的に浮かんだ。"
+  },
+  {
+    "word": "spontaneously",
+    "meaning": "自然に",
+    "example": "The reaction occurred spontaneously.",
+    "example_jp": "その反応は自然に起こった。"
+  },
+  {
+    "word": "voluntary",
+    "meaning": "無償で奉仕する",
+    "example": "He did voluntary work.",
+    "example_jp": "彼は無償で奉仕する仕事をした。"
+  },
+  {
+    "word": "voluntary",
+    "meaning": "自発的な",
+    "example": "It was a voluntary action.",
+    "example_jp": "それは自発的な行動だった。"
+  },
+  {
+    "word": "voluntary",
+    "meaning": "任意の",
+    "example": "Participation is voluntary.",
+    "example_jp": "参加は任意だ。"
+  },
+  {
+    "word": "heap",
+    "meaning": "山",
+    "example": "A heap of clothes lay there.",
+    "example_jp": "服の山がそこに置かれていた。"
+  },
+  {
+    "word": "heap",
+    "meaning": "積み上げる",
+    "example": "He heaped books on the table.",
+    "example_jp": "彼はテーブルの上に本を積み上げた。"
+  },
+  {
+    "word": "pile",
+    "meaning": "積み重ね",
+    "example": "There was a pile of boxes.",
+    "example_jp": "箱の積み重ねがあった。"
+  },
+  {
+    "word": "pile",
+    "meaning": "積み重ねる",
+    "example": "He piled books on the desk.",
+    "example_jp": "彼は机の上に本を積み重ねた。"
+  },
+  {
+    "word": "pile",
+    "meaning": "積み重なる",
+    "example": "The snow piled up.",
+    "example_jp": "雪が積み重なった。"
+  },
+  {
+    "word": "array",
+    "meaning": "多様な",
+    "example": "An array of colors appeared.",
+    "example_jp": "多様な色が現れた。"
+  },
+  {
+    "word": "array",
+    "meaning": "集まり",
+    "example": "A large array of data.",
+    "example_jp": "データの大きな集まり。"
+  },
+  {
+    "word": "array",
+    "meaning": "配列",
+    "example": "The array was neatly arranged.",
+    "example_jp": "その配列は整然と並んでいた。"
+  },
+  {
+    "word": "handful",
+    "meaning": "ひとつかみ",
+    "example": "A handful of nuts.",
+    "example_jp": "ひとつかみのナッツ。"
+  },
+  {
+    "word": "fairly",
+    "meaning": "かなり",
+    "example": "It is fairly easy.",
+    "example_jp": "それはかなり簡単だ。"
+  },
+  {
+    "word": "fairly",
+    "meaning": "公正に",
+    "example": "He acted fairly.",
+    "example_jp": "彼は公正に行動した。"
+  },
+  {
+    "word": "solve",
+    "meaning": "解決する",
+    "example": "They solved the problem.",
+    "example_jp": "彼らはその問題を解決した。"
+  },
+  {
+    "word": "solve",
+    "meaning": "解く",
+    "example": "She solved the puzzle.",
+    "example_jp": "彼女はパズルを解いた。"
+  },
+  {
+    "word": "resolve",
+    "meaning": "解決する",
+    "example": "They resolved the issue.",
+    "example_jp": "彼らはその問題を解決した。"
+  },
+  {
+    "word": "resolve",
+    "meaning": "決心する",
+    "example": "He resolved to try again.",
+    "example_jp": "彼はもう一度試みることを決心した。"
+  },
+  {
+    "word": "steadily",
+    "meaning": "着実に",
+    "example": "Prices rose steadily.",
+    "example_jp": "価格は着実に上がった。"
+  },
+  {
+    "word": "steadily",
+    "meaning": "絶えず",
+    "example": "He worked steadily.",
+    "example_jp": "彼は絶えず働いた。"
+  },
+  {
+    "word": "length",
+    "meaning": "長さ",
+    "example": "The length of the table is 2 m.",
+    "example_jp": "テーブルの長さは2メートルだ。"
+  },
+  {
+    "word": "male",
+    "meaning": "オス",
+    "example": "The male bird sings.",
+    "example_jp": "オスの鳥が鳴く。"
+  },
+  {
+    "word": "male",
+    "meaning": "男性",
+    "example": "He is a male student.",
+    "example_jp": "彼は男性の学生だ。"
+  },
+  {
+    "word": "embark",
+    "meaning": "着手する",
+    "example": "They embarked on a new project.",
+    "example_jp": "彼らは新しいプロジェクトに着手した。"
+  },
+  {
+    "word": "embark",
+    "meaning": "乗船する",
+    "example": "They embarked on the ship.",
+    "example_jp": "彼らは船に乗船した。"
+  },
+  {
+    "word": "sail",
+    "meaning": "航行する",
+    "example": "They sailed across the sea.",
+    "example_jp": "彼らは海を航行した。"
+  },
+  {
+    "word": "sail",
+    "meaning": "帆",
+    "example": "The sail caught the wind.",
+    "example_jp": "帆が風を受けた。"
+  },
+  {
+    "word": "sail",
+    "meaning": "航海",
+    "example": "The sail was torn.",
+    "example_jp": "その航海（用の帆）が破れていた。"
+  }
+]

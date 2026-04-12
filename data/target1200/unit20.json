@@ -1,0 +1,350 @@
+[
+  {
+    "word": "cheerful",
+    "meaning": "元気な",
+    "example": "She is always cheerful.",
+    "example_jp": "彼女はいつも元気だ。"
+  },
+  {
+    "word": "cheerful",
+    "meaning": "陽気な",
+    "example": "His cheerful smile helps us.",
+    "example_jp": "彼の陽気な笑顔が私たちを助けてくれる。"
+  },
+  {
+    "word": "friendly",
+    "meaning": "親切な",
+    "example": "He is friendly to everyone.",
+    "example_jp": "彼は誰に対しても親切だ。"
+  },
+  {
+    "word": "friendly",
+    "meaning": "好意的な",
+    "example": "The staff are friendly.",
+    "example_jp": "スタッフは好意的だ。"
+  },
+  {
+    "word": "gentle",
+    "meaning": "優しい",
+    "example": "She has a gentle voice.",
+    "example_jp": "彼女は優しい声をしている。"
+  },
+  {
+    "word": "calm",
+    "meaning": "落ち着いた",
+    "example": "He stays calm in trouble.",
+    "example_jp": "彼はトラブルの際も落ち着いたままだ。"
+  },
+  {
+    "word": "lively",
+    "meaning": "元気な",
+    "example": "The town is lively at night.",
+    "example_jp": "その町は夜に元気だ（活気がある）。"
+  },
+  {
+    "word": "lively",
+    "meaning": "活発な",
+    "example": "She is a lively girl.",
+    "example_jp": "彼女は活発な女の子だ。"
+  },
+  {
+    "word": "shy",
+    "meaning": "恥ずかしがりの",
+    "example": "He is shy around strangers.",
+    "example_jp": "彼は不案内な人の前では恥ずかしがりだ。"
+  },
+  {
+    "word": "strict",
+    "meaning": "厳しい",
+    "example": "My teacher is strict.",
+    "example_jp": "私の先生は厳しい。"
+  },
+  {
+    "word": "strict",
+    "meaning": "厳格な",
+    "example": "They follow strict rules.",
+    "example_jp": "彼らは厳格な規則に従う。"
+  },
+  {
+    "word": "positive",
+    "meaning": "前向きの",
+    "example": "She has a positive attitude.",
+    "example_jp": "彼女は前向きの態度をとっている。"
+  },
+  {
+    "word": "negative",
+    "meaning": "後ろ向きの",
+    "example": "He is negative about the idea.",
+    "example_jp": "彼はその考えに対して後ろ向きだ。"
+  },
+  {
+    "word": "active",
+    "meaning": "活動的な",
+    "example": "She is active in sports.",
+    "example_jp": "彼女はスポーツにおいて活動的だ。"
+  },
+  {
+    "word": "active",
+    "meaning": "活発な",
+    "example": "He is an active student.",
+    "example_jp": "彼は活発な学生だ。"
+  },
+  {
+    "word": "lazy",
+    "meaning": "怠惰な",
+    "example": "He is lazy on weekends.",
+    "example_jp": "彼は週末には怠惰だ。"
+  },
+  {
+    "word": "communication",
+    "meaning": "コミュニケーション",
+    "example": "Good communication is important.",
+    "example_jp": "良いコミュニケーションは重要だ。"
+  },
+  {
+    "word": "greet",
+    "meaning": "挨拶する",
+    "example": "They greet each other.",
+    "example_jp": "彼らはお互いに挨拶する。"
+  },
+  {
+    "word": "conversation",
+    "meaning": "会話",
+    "example": "We have a long conversation.",
+    "example_jp": "私たちは長い会話をする。"
+  },
+  {
+    "word": "chat",
+    "meaning": "おしゃべりする",
+    "example": "We chat after school.",
+    "example_jp": "私たちは放課後におしゃべりする。"
+  },
+  {
+    "word": "text",
+    "meaning": "メッセージを送る",
+    "example": "I text my friend.",
+    "example_jp": "私は友達にメッセージを送る。"
+  },
+  {
+    "word": "e-mail",
+    "meaning": "Eメール",
+    "example": "I send an e-mail.",
+    "example_jp": "私はEメールを送る。"
+  },
+  {
+    "word": "address",
+    "meaning": "住所",
+    "example": "This is my address.",
+    "example_jp": "これが私の住所だ。"
+  },
+  {
+    "word": "address",
+    "meaning": "アドレス",
+    "example": "Write your e-mail address.",
+    "example_jp": "あなたのEメールアドレスを書きなさい。"
+  },
+  {
+    "word": "translate",
+    "meaning": "翻訳する",
+    "example": "I translate the sentence.",
+    "example_jp": "私はその文を翻訳する。"
+  },
+  {
+    "word": "argue",
+    "meaning": "口論する",
+    "example": "They argue about the plan.",
+    "example_jp": "彼らはその計画について口論する。"
+  },
+  {
+    "word": "argue",
+    "meaning": "言い争う",
+    "example": "We argue over small things.",
+    "example_jp": "私たちは小さなことで言い争う。"
+  },
+  {
+    "word": "claim",
+    "meaning": "主張する",
+    "example": "He claims it is true.",
+    "example_jp": "彼はそれが真実だと主張する。"
+  },
+  {
+    "word": "insist",
+    "meaning": "強く主張する",
+    "example": "She insists on her idea.",
+    "example_jp": "彼女は自身の考えを強く主張する。"
+  },
+  {
+    "word": "praise",
+    "meaning": "ほめる",
+    "example": "They praise his work.",
+    "example_jp": "彼らは彼の仕事をほめる。"
+  },
+  {
+    "word": "debate",
+    "meaning": "討論",
+    "example": "We have a debate in class.",
+    "example_jp": "私たちはクラスで討論をする。"
+  },
+  {
+    "word": "blame",
+    "meaning": "非難する",
+    "example": "Don’t blame me.",
+    "example_jp": "私を非難しないでください。"
+  },
+  {
+    "word": "joke",
+    "meaning": "冗談",
+    "example": "It is just a joke.",
+    "example_jp": "それはただの冗談だ。"
+  },
+  {
+    "word": "pronounce",
+    "meaning": "発音する",
+    "example": "Please pronounce this word.",
+    "example_jp": "この単語を発音してください。"
+  },
+  {
+    "word": "express",
+    "meaning": "言い表す",
+    "example": "I express my feelings.",
+    "example_jp": "私は自分の感情を言い表す。"
+  },
+  {
+    "word": "state",
+    "meaning": "はっきり述べる",
+    "example": "He states his opinion clearly.",
+    "example_jp": "彼は自身の意見をはっきり述べる。"
+  },
+  {
+    "word": "define",
+    "meaning": "定義する",
+    "example": "Please define the word.",
+    "example_jp": "その単語を定義してください。"
+  },
+  {
+    "word": "describe",
+    "meaning": "特徴を述べる",
+    "example": "She describes the scene.",
+    "example_jp": "彼女はその場面の特徴を述べる。"
+  },
+  {
+    "word": "refer",
+    "meaning": "言及する",
+    "example": "He refers to the book.",
+    "example_jp": "彼はその本に言及する。"
+  },
+  {
+    "word": "predict",
+    "meaning": "予測する",
+    "example": "They predict the result.",
+    "example_jp": "彼らは結果を予測する。"
+  },
+  {
+    "word": "comment",
+    "meaning": "コメント",
+    "example": "I write a short comment.",
+    "example_jp": "私は短いコメントを書く。"
+  },
+  {
+    "word": "term",
+    "meaning": "用語",
+    "example": "This is a difficult term.",
+    "example_jp": "これは難しい用語だ。"
+  },
+  {
+    "word": "term",
+    "meaning": "専門用語",
+    "example": "It is a medical term.",
+    "example_jp": "それは医療の専門用語だ。"
+  },
+  {
+    "word": "publish",
+    "meaning": "出版する",
+    "example": "They publish a new book.",
+    "example_jp": "彼らは新しい本を出版する。"
+  },
+  {
+    "word": "novel",
+    "meaning": "小説",
+    "example": "I read a long novel.",
+    "example_jp": "私は長い小説を読む。"
+  },
+  {
+    "word": "fiction",
+    "meaning": "フィクション",
+    "example": "This story is fiction.",
+    "example_jp": "この物語はフィクションだ。"
+  },
+  {
+    "word": "essay",
+    "meaning": "小論文",
+    "example": "I write an essay.",
+    "example_jp": "私は小論文を書く。"
+  },
+  {
+    "word": "newspaper",
+    "meaning": "新聞",
+    "example": "I read the newspaper.",
+    "example_jp": "私は新聞を読む。"
+  },
+  {
+    "word": "magazine",
+    "meaning": "雑誌",
+    "example": "She buys a magazine.",
+    "example_jp": "彼女は雑誌を買う。"
+  },
+  {
+    "word": "journal",
+    "meaning": "専門誌",
+    "example": "He writes for a science journal.",
+    "example_jp": "彼は科学専門誌のために書いている。"
+  },
+  {
+    "word": "article",
+    "meaning": "記事",
+    "example": "I read an article online.",
+    "example_jp": "私はオンラインで記事を読む。"
+  },
+  {
+    "word": "title",
+    "meaning": "題名",
+    "example": "The title is interesting.",
+    "example_jp": "その題名は興味深い。"
+  },
+  {
+    "word": "poem",
+    "meaning": "詩",
+    "example": "She writes a poem.",
+    "example_jp": "彼女は詩を書く。"
+  },
+  {
+    "word": "tale",
+    "meaning": "物語",
+    "example": "He tells a funny tale.",
+    "example_jp": "彼は面白い物語を話す。"
+  },
+  {
+    "word": "chapter",
+    "meaning": "章",
+    "example": "I finish the first chapter.",
+    "example_jp": "私は第一章を終える。"
+  },
+  {
+    "word": "education",
+    "meaning": "教育",
+    "example": "Education is important.",
+    "example_jp": "教育は重要だ。"
+  },
+  {
+    "word": "knowledge",
+    "meaning": "知識",
+    "example": "He has a lot of knowledge.",
+    "example_jp": "彼は多くの知識を持っている。"
+  },
+  {
+    "word": "intelligent",
+    "meaning": "知能の高い",
+    "example": "She is very intelligent.",
+    "example_jp": "彼女はとても知能が高い。"
+  }
+]

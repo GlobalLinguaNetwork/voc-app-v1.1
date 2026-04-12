@@ -1,0 +1,722 @@
+[
+  {
+    "word": "damage",
+    "meaning": "～に損害を与える",
+    "example": "The storm damaged the roof.",
+    "example_jp": "嵐で屋根が損傷しました。"
+  },
+  {
+    "word": "damage",
+    "meaning": "損害",
+    "example": "The flood caused serious damage.",
+    "example_jp": "洪水は深刻な損害をもたらしました。"
+  },
+  {
+    "word": "damage",
+    "meaning": "賠償金",
+    "example": "He paid damages for the accident.",
+    "example_jp": "彼はその事故の賠償金を支払いました。"
+  },
+  {
+    "word": "destroy",
+    "meaning": "～を破壊する",
+    "example": "Fire destroyed the house.",
+    "example_jp": "火事で家が焼失しました。"
+  },
+  {
+    "word": "destroy",
+    "meaning": "～を全滅させる",
+    "example": "The disease destroyed the crops.",
+    "example_jp": "その病気は作物を全滅させました。"
+  },
+  {
+    "word": "ruin",
+    "meaning": "～を台無しにする",
+    "example": "The rain ruined our picnic.",
+    "example_jp": "雨で私たちのピクニックは台無しになりました。"
+  },
+  {
+    "word": "ruin",
+    "meaning": "～を破滅させる",
+    "example": "Gambling ruined him.",
+    "example_jp": "ギャンブルが彼を破滅させました。"
+  },
+  {
+    "word": "ruin",
+    "meaning": "廃墟",
+    "example": "We visited the ruins of the castle.",
+    "example_jp": "私たちはその城の廃墟を訪れました。"
+  },
+  {
+    "word": "danger",
+    "meaning": "危険",
+    "example": "The bridge is in danger of collapsing.",
+    "example_jp": "その橋は崩落の危険があります。"
+  },
+  {
+    "word": "neighbor",
+    "meaning": "近所の人",
+    "example": "My neighbor is very kind.",
+    "example_jp": "私の近所の人はとても親切です。"
+  },
+  {
+    "word": "neighbor",
+    "meaning": "隣の人",
+    "example": "Don't forget your next-door neighbor.",
+    "example_jp": "隣の人のことを忘れないでください。"
+  },
+  {
+    "word": "audience",
+    "meaning": "聴衆",
+    "example": "The audience clapped loudly.",
+    "example_jp": "聴衆は大きな拍手を送りました。"
+  },
+  {
+    "word": "crowd",
+    "meaning": "群衆",
+    "example": "A large crowd gathered.",
+    "example_jp": "大勢の群衆が集まりました。"
+  },
+  {
+    "word": "author",
+    "meaning": "著者",
+    "example": "Who is the author of this book?",
+    "example_jp": "この本の著者は誰ですか。"
+  },
+  {
+    "word": "staff",
+    "meaning": "職員",
+    "example": "The hotel staff is helpful.",
+    "example_jp": "そのホテルの職員は親切です。"
+  },
+  {
+    "word": "clerk",
+    "meaning": "店員",
+    "example": "Ask the store clerk for help.",
+    "example_jp": "店員に助けを求めてください。"
+  },
+  {
+    "word": "clerk",
+    "meaning": "事務員",
+    "example": "He works as a bank clerk.",
+    "example_jp": "彼は銀行の事務員として働いています。"
+  },
+  {
+    "word": "customer",
+    "meaning": "客",
+    "example": "The customer is always right.",
+    "example_jp": "お客様は常に正しい。"
+  },
+  {
+    "word": "passenger",
+    "meaning": "乗客",
+    "example": "All passengers must wear seatbelts.",
+    "example_jp": "すべての乗客はシートベルトを着用しなければなりません。"
+  },
+  {
+    "word": "elderly",
+    "meaning": "年配の",
+    "example": "Be kind to elderly people.",
+    "example_jp": "年配の人に親切にしてください。"
+  },
+  {
+    "word": "elderly",
+    "meaning": "年配の人々",
+    "example": "The elderly need special care.",
+    "example_jp": "年配の人々は特別なケアを必要とします。"
+  },
+  {
+    "word": "female",
+    "meaning": "女性の",
+    "example": "She is a female doctor.",
+    "example_jp": "彼女は女性の医師です。"
+  },
+  {
+    "word": "female",
+    "meaning": "雌の",
+    "example": "Is the cat male or female?",
+    "example_jp": "その猫はオスですかメスですか。"
+  },
+  {
+    "word": "female",
+    "meaning": "雌",
+    "example": "The female lays eggs.",
+    "example_jp": "その雌は卵を産みます。"
+  },
+  {
+    "word": "head",
+    "meaning": "向かう",
+    "example": "We headed north.",
+    "example_jp": "私たちは北へ向かいました。"
+  },
+  {
+    "word": "head",
+    "meaning": "～を率いる",
+    "example": "He heads the team.",
+    "example_jp": "彼はそのチームを率いています。"
+  },
+  {
+    "word": "follow",
+    "meaning": "～の後について行く",
+    "example": "Follow me, please.",
+    "example_jp": "私について来てください。"
+  },
+  {
+    "word": "follow",
+    "meaning": "～に従う",
+    "example": "Follow the instructions carefully.",
+    "example_jp": "指示に注意深く従ってください。"
+  },
+  {
+    "word": "wander",
+    "meaning": "歩き回る",
+    "example": "We wandered around the town.",
+    "example_jp": "私たちは町を歩き回りました。"
+  },
+  {
+    "word": "travel",
+    "meaning": "旅行する",
+    "example": "I love to travel abroad.",
+    "example_jp": "私は海外旅行が大好きです。"
+  },
+  {
+    "word": "travel",
+    "meaning": "進む",
+    "example": "Light travels faster than sound.",
+    "example_jp": "光は音より速く進みます。"
+  },
+  {
+    "word": "pass",
+    "meaning": "～を通り過ぎる",
+    "example": "I passed him on the street.",
+    "example_jp": "私は通りで彼を追い越しました。"
+  },
+  {
+    "word": "pass",
+    "meaning": "～を抜く",
+    "example": "The car passed the truck.",
+    "example_jp": "その車はトラックを追い越しました。"
+  },
+  {
+    "word": "pass",
+    "meaning": "受かる",
+    "example": "She passed the exam.",
+    "example_jp": "彼女は試験に合格しました。"
+  },
+  {
+    "word": "pass",
+    "meaning": "～を渡す",
+    "example": "Pass me the salt, please.",
+    "example_jp": "塩を取ってください。"
+  },
+  {
+    "word": "pass",
+    "meaning": "過ぎる",
+    "example": "Time passed quickly.",
+    "example_jp": "時間が速く過ぎました。"
+  },
+  {
+    "word": "pass",
+    "meaning": "通行証",
+    "example": "Show your pass at the gate.",
+    "example_jp": "門で通行証を見せてください。"
+  },
+  {
+    "word": "likely",
+    "meaning": "～しそうだ",
+    "example": "It is likely to rain.",
+    "example_jp": "雨が降りそうです。"
+  },
+  {
+    "word": "likely",
+    "meaning": "おそらく",
+    "example": "Most likely, he will come.",
+    "example_jp": "おそらく彼は来るでしょう。"
+  },
+  {
+    "word": "natural",
+    "meaning": "当然の",
+    "example": "It is natural to feel sad.",
+    "example_jp": "悲しく感じるのは当然です。"
+  },
+  {
+    "word": "natural",
+    "meaning": "自然の",
+    "example": "We should protect the natural world.",
+    "example_jp": "私たちは自然界を守るべきです。"
+  },
+  {
+    "word": "natural",
+    "meaning": "生まれながらの",
+    "example": "He has a natural talent for music.",
+    "example_jp": "彼は生まれつき音楽の才能があります。"
+  },
+  {
+    "word": "certain",
+    "meaning": "確かな",
+    "example": "I am certain of his success.",
+    "example_jp": "私は彼の成功を確信しています。"
+  },
+  {
+    "word": "certain",
+    "meaning": "ある～",
+    "example": "A certain man called you.",
+    "example_jp": "ある男性があなたに電話しました。"
+  },
+  {
+    "word": "probably",
+    "meaning": "おそらく",
+    "example": "He will probably win.",
+    "example_jp": "彼はおそらく勝つでしょう。"
+  },
+  {
+    "word": "face",
+    "meaning": "～に直面する",
+    "example": "We face many problems.",
+    "example_jp": "私たちは多くの問題に直面しています。"
+  },
+  {
+    "word": "face",
+    "meaning": "～向きである",
+    "example": "The house faces south.",
+    "example_jp": "その家は南向きです。"
+  },
+  {
+    "word": "face",
+    "meaning": "顔",
+    "example": "She has a beautiful face.",
+    "example_jp": "彼女は美しい顔立ちをしています。"
+  },
+  {
+    "word": "avoid",
+    "meaning": "～を避ける",
+    "example": "Avoid eating too much sugar.",
+    "example_jp": "砂糖を摂りすぎないようにしてください。"
+  },
+  {
+    "word": "solve",
+    "meaning": "～を解決する",
+    "example": "I can solve this puzzle.",
+    "example_jp": "私はこのパズルを解くことができます。"
+  },
+  {
+    "word": "trouble",
+    "meaning": "問題",
+    "example": "Don't cause trouble.",
+    "example_jp": "問題を起こさないでください。"
+  },
+  {
+    "word": "trouble",
+    "meaning": "～を困らせる",
+    "example": "Sorry to trouble you.",
+    "example_jp": "お手数をおかけしてすみません。"
+  },
+  {
+    "word": "issue",
+    "meaning": "問題",
+    "example": "This is a serious issue.",
+    "example_jp": "これは深刻な問題です。"
+  },
+  {
+    "word": "issue",
+    "meaning": "号",
+    "example": "I bought the latest issue of the magazine.",
+    "example_jp": "私はその雑誌の最新号を買いました。"
+  },
+  {
+    "word": "issue",
+    "meaning": "～を発行する",
+    "example": "The bank issued new notes.",
+    "example_jp": "銀行は新しい紙幣を発行しました。"
+  },
+  {
+    "word": "cheer",
+    "meaning": "～に声援を送る",
+    "example": "We cheered on our team.",
+    "example_jp": "私たちはチームに声援を送りました。"
+  },
+  {
+    "word": "cheer",
+    "meaning": "～を励ます",
+    "example": "The news cheered him up.",
+    "example_jp": "その知らせは彼を元気づけました。"
+  },
+  {
+    "word": "cheer",
+    "meaning": "声援",
+    "example": "The crowd gave a loud cheer.",
+    "example_jp": "群衆は大きな声援を送りました。"
+  },
+  {
+    "word": "cheer",
+    "meaning": "乾杯（万歳）",
+    "example": "Three cheers for the winner!",
+    "example_jp": "勝者に万歳三唱！"
+  },
+  {
+    "word": "encourage",
+    "meaning": "～を促す",
+    "example": "My parents encouraged me to study.",
+    "example_jp": "両親は私に勉強するよう促しました。"
+  },
+  {
+    "word": "encourage",
+    "meaning": "～を励ます",
+    "example": "Her words encouraged him.",
+    "example_jp": "彼女の言葉は彼を励ましました。"
+  },
+  {
+    "word": "support",
+    "meaning": "～を支持する",
+    "example": "I support your decision.",
+    "example_jp": "私はあなたの決定を支持します。"
+  },
+  {
+    "word": "support",
+    "meaning": "～を養う",
+    "example": "He supports a large family.",
+    "example_jp": "彼は大家族を養っています。"
+  },
+  {
+    "word": "support",
+    "meaning": "～を立証する",
+    "example": "The evidence supports his theory.",
+    "example_jp": "その証拠は彼の理論を支持しています。"
+  },
+  {
+    "word": "support",
+    "meaning": "支援",
+    "example": "Thank you for your support.",
+    "example_jp": "ご支援ありがとうございます。"
+  },
+  {
+    "word": "prevent",
+    "meaning": "～を妨げる",
+    "example": "The rain prevented us from going out.",
+    "example_jp": "雨のため私たちは外出できませんでした。"
+  },
+  {
+    "word": "prevent",
+    "meaning": "～を予防する",
+    "example": "This medicine prevents colds.",
+    "example_jp": "この薬は風邪を予防します。"
+  },
+  {
+    "word": "deny",
+    "meaning": "～を否定する",
+    "example": "He denied the rumor.",
+    "example_jp": "彼はそのうわさを否定しました。"
+  },
+  {
+    "word": "deny",
+    "meaning": "～を与えない",
+    "example": "They denied him access.",
+    "example_jp": "彼らは彼に立ち入りを許可しませんでした。"
+  },
+  {
+    "word": "enable",
+    "meaning": "可能にする",
+    "example": "The scholarship enabled him to study abroad.",
+    "example_jp": "その奨学金により彼は留学することができました。"
+  },
+  {
+    "word": "succeed",
+    "meaning": "成功する",
+    "example": "He succeeded in business.",
+    "example_jp": "彼は事業で成功しました。"
+  },
+  {
+    "word": "succeed",
+    "meaning": "継ぐ",
+    "example": "He succeeded to the throne.",
+    "example_jp": "彼は王位を継承しました。"
+  },
+  {
+    "word": "miss",
+    "meaning": "～を逃す",
+    "example": "Don't miss the bus.",
+    "example_jp": "バスを逃さないでください。"
+  },
+  {
+    "word": "miss",
+    "meaning": "～を休む",
+    "example": "I missed school yesterday.",
+    "example_jp": "私は昨日学校を休みました。"
+  },
+  {
+    "word": "miss",
+    "meaning": "～を恋しく思う",
+    "example": "I miss you so much.",
+    "example_jp": "私はあなたがとても恋しいです。"
+  },
+  {
+    "word": "fail",
+    "meaning": "失敗する",
+    "example": "He failed in the attempt.",
+    "example_jp": "彼はその試みに失敗しました。"
+  },
+  {
+    "word": "fail",
+    "meaning": "～できない（～しそこなう）",
+    "example": "I never fail to call my mother.",
+    "example_jp": "私は母に電話するのを決して忘れません。"
+  },
+  {
+    "word": "fail",
+    "meaning": "落ちる",
+    "example": "She failed the math test.",
+    "example_jp": "彼女は数学のテストに落ちました。"
+  },
+  {
+    "word": "fail",
+    "meaning": "役に立たない",
+    "example": "My memory fails me.",
+    "example_jp": "記憶が頼りなくなっています。"
+  },
+  {
+    "word": "mistake",
+    "meaning": "間違い",
+    "example": "Everyone makes mistakes.",
+    "example_jp": "誰でも間違いを犯します。"
+  },
+  {
+    "word": "mistake",
+    "meaning": "間違える",
+    "example": "I mistook him for his brother.",
+    "example_jp": "私は彼を兄弟と間違えました。"
+  },
+  {
+    "word": "check",
+    "meaning": "～を調べる",
+    "example": "Please check the answers.",
+    "example_jp": "答えを確認してください。"
+  },
+  {
+    "word": "check",
+    "meaning": "～を阻止する",
+    "example": "We must check inflation.",
+    "example_jp": "インフレを抑制しなければなりません。"
+  },
+  {
+    "word": "check",
+    "meaning": "小切手",
+    "example": "I paid by check.",
+    "example_jp": "私は小切手で支払いました。"
+  },
+  {
+    "word": "check",
+    "meaning": "勘定書",
+    "example": "Can I have the check, please?",
+    "example_jp": "お勘定をお願いします。"
+  },
+  {
+    "word": "check",
+    "meaning": "検査",
+    "example": "The security check took time.",
+    "example_jp": "保安検査に時間がかかりました。"
+  },
+  {
+    "word": "check",
+    "meaning": "抑制",
+    "example": "Keep a check on your spending.",
+    "example_jp": "支出を抑えてください。"
+  },
+  {
+    "word": "hide",
+    "meaning": "～を隠す",
+    "example": "He hid the money in a box.",
+    "example_jp": "彼は箱の中にお金を隠しました。"
+  },
+  {
+    "word": "hide",
+    "meaning": "隠れる",
+    "example": "The cat hid under the bed.",
+    "example_jp": "猫はベッドの下に隠れました。"
+  },
+  {
+    "word": "draw",
+    "meaning": "～を描く",
+    "example": "She drew a picture of a flower.",
+    "example_jp": "彼女は花の絵を描きました。"
+  },
+  {
+    "word": "draw",
+    "meaning": "～を引く",
+    "example": "The noise drew my attention.",
+    "example_jp": "その音が私の注意を引きました。"
+  },
+  {
+    "word": "draw",
+    "meaning": "～を引っ張る",
+    "example": "He drew the curtain.",
+    "example_jp": "彼はカーテンを引きました。"
+  },
+  {
+    "word": "join",
+    "meaning": "～に加わる",
+    "example": "I joined the tennis club.",
+    "example_jp": "私はテニスクラブに入会しました。"
+  },
+  {
+    "word": "join",
+    "meaning": "～をつなぐ",
+    "example": "This bridge joins the two islands.",
+    "example_jp": "この橋は二つの島をつないでいます。"
+  },
+  {
+    "word": "join",
+    "meaning": "～とともにする",
+    "example": "Will you join us for dinner?",
+    "example_jp": "夕食に一緒にいかがですか。"
+  },
+  {
+    "word": "join",
+    "meaning": "参加する",
+    "example": "Please join in the discussion.",
+    "example_jp": "議論に参加してください。"
+  },
+  {
+    "word": "throw",
+    "meaning": "～を投げる",
+    "example": "He threw the ball to me.",
+    "example_jp": "彼は私にボールを投げました。"
+  },
+  {
+    "word": "throw",
+    "meaning": "～を捨てる",
+    "example": "Don't throw away the receipt.",
+    "example_jp": "領収書を捨てないでください。"
+  },
+  {
+    "word": "throw",
+    "meaning": "～を催す",
+    "example": "We threw a party for her.",
+    "example_jp": "私たちは彼女のためにパーティーを開きました。"
+  },
+  {
+    "word": "throw",
+    "meaning": "投げること",
+    "example": "That was a good throw.",
+    "example_jp": "それは良い投げでした。"
+  },
+  {
+    "word": "operate",
+    "meaning": "～を操作する",
+    "example": "Can you operate this machine?",
+    "example_jp": "この機械を操作できますか。"
+  },
+  {
+    "word": "operate",
+    "meaning": "手術する",
+    "example": "The doctor operated on the patient.",
+    "example_jp": "医者は患者を手術しました。"
+  },
+  {
+    "word": "operate",
+    "meaning": "作動する",
+    "example": "This machine operates automatically.",
+    "example_jp": "この機械は自動で作動します。"
+  },
+  {
+    "word": "repair",
+    "meaning": "～を修理する",
+    "example": "I repaired the broken chair.",
+    "example_jp": "私は壊れた椅子を修理しました。"
+  },
+  {
+    "word": "repair",
+    "meaning": "～を修復する",
+    "example": "They repaired the old painting.",
+    "example_jp": "彼らは古い絵画を修復しました。"
+  },
+  {
+    "word": "repair",
+    "meaning": "修理",
+    "example": "The car is under repair.",
+    "example_jp": "その車は修理中です。"
+  },
+  {
+    "word": "sew",
+    "meaning": "～を縫う",
+    "example": "She sewed a dress for her daughter.",
+    "example_jp": "彼女は娘のためにドレスを縫いました。"
+  },
+  {
+    "word": "sew",
+    "meaning": "～を縫いつける",
+    "example": "I sewed a button on my shirt.",
+    "example_jp": "私はシャツにボタンを縫い付けました。"
+  },
+  {
+    "word": "raise",
+    "meaning": "～を上げる",
+    "example": "Raise your hand if you know.",
+    "example_jp": "知っている人は手を挙げてください。"
+  },
+  {
+    "word": "raise",
+    "meaning": "～を育てる",
+    "example": "She raised three children alone.",
+    "example_jp": "彼女は一人で三人の子どもを育てました。"
+  },
+  {
+    "word": "raise",
+    "meaning": "～を集める",
+    "example": "We raised money for charity.",
+    "example_jp": "私たちは慈善のために資金を集めました。"
+  },
+  {
+    "word": "raise",
+    "meaning": "～を提起する",
+    "example": "He raised an important question.",
+    "example_jp": "彼は重要な問題を提起しました。"
+  },
+  {
+    "word": "raise",
+    "meaning": "昇給",
+    "example": "I got a raise last month.",
+    "example_jp": "先月昇給しました。"
+  },
+  {
+    "word": "serve",
+    "meaning": "～を出す",
+    "example": "Lunch is served at noon.",
+    "example_jp": "昼食は正午に出されます。"
+  },
+  {
+    "word": "serve",
+    "meaning": "～に役立つ",
+    "example": "This room serves as a bedroom.",
+    "example_jp": "この部屋は寝室として使われています。"
+  },
+  {
+    "word": "serve",
+    "meaning": "役立つ",
+    "example": "It will serve to remind you.",
+    "example_jp": "それはあなたの注意喚起に役立つでしょう。"
+  },
+  {
+    "word": "pour",
+    "meaning": "～を注ぐ",
+    "example": "Please pour me some tea.",
+    "example_jp": "お茶を注いでください。"
+  },
+  {
+    "word": "pour",
+    "meaning": "降りそそぐ",
+    "example": "It poured all day.",
+    "example_jp": "一日中激しく降りました。"
+  },
+  {
+    "word": "spill",
+    "meaning": "～をこぼす",
+    "example": "Don't spill the milk.",
+    "example_jp": "牛乳をこぼさないでください。"
+  },
+  {
+    "word": "spill",
+    "meaning": "流出",
+    "example": "The oil spill polluted the sea.",
+    "example_jp": "その油の流出は海を汚染しました。"
+  }
+]

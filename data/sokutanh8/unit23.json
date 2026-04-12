@@ -1,0 +1,452 @@
+[
+  {
+    "word": "argue",
+    "meaning": "主張する（≒insist）",
+    "example": "He argues that plan is wrong.",
+    "example_jp": "彼はその計画が間違っていると主張している。"
+  },
+  {
+    "word": "argue",
+    "meaning": "議論する",
+    "example": "They argue every night.",
+    "example_jp": "彼らは毎晩議論する。"
+  },
+  {
+    "word": "assert",
+    "meaning": "〈正当性など〉を主張する",
+    "example": "She asserts her right to speak.",
+    "example_jp": "彼女は自分の話す権利を主張している。"
+  },
+  {
+    "word": "criticize",
+    "meaning": "を批判する",
+    "example": "Many criticize the policy.",
+    "example_jp": "多くの人がその政策を批判している。"
+  },
+  {
+    "word": "criticize",
+    "meaning": "を批評する",
+    "example": "The paper criticizes the film's plot.",
+    "example_jp": "その論文はその映画の筋書きを批評している。"
+  },
+  {
+    "word": "critic",
+    "meaning": "評論家",
+    "example": "The critic wrote a short review.",
+    "example_jp": "その評論家は短いレビューを書いた。"
+  },
+  {
+    "word": "accuse",
+    "meaning": "を訴える",
+    "example": "They accuse him of theft.",
+    "example_jp": "彼らは彼を窃盗で訴えている。"
+  },
+  {
+    "word": "accuse",
+    "meaning": "を非難する",
+    "example": "She accused him of lying.",
+    "example_jp": "彼女は嘘をついたことで彼を非難した。"
+  },
+  {
+    "word": "automate",
+    "meaning": "自動化する",
+    "example": "The factory will automate packing.",
+    "example_jp": "その工場は梱包を自動化する予定だ。"
+  },
+  {
+    "word": "responsible",
+    "meaning": "責任がある",
+    "example": "Who is responsible for the error?",
+    "example_jp": "その誤りに対して誰に責任がありますか。"
+  },
+  {
+    "word": "responsible",
+    "meaning": "の原因である《for》",
+    "example": "The rain was responsible for the flood.",
+    "example_jp": "雨がその洪水の原因だった。"
+  },
+  {
+    "word": "due",
+    "meaning": "到着予定で",
+    "example": "The train is due at three.",
+    "example_jp": "電車は3時に到着する予定だ。"
+  },
+  {
+    "word": "due",
+    "meaning": "払われるべき",
+    "example": "The bill is due tomorrow.",
+    "example_jp": "その請求書の期限は明日だ。"
+  },
+  {
+    "word": "due",
+    "meaning": "《due to》が原因で",
+    "example": "The game was canceled due to rain.",
+    "example_jp": "その試合は雨が原因で中止された。"
+  },
+  {
+    "word": "due",
+    "meaning": "《...する》はずで《to do》",
+    "example": "You are due to arrive soon.《to do》",
+    "example_jp": "あなたはすぐ到着するはずだ。"
+  },
+  {
+    "word": "blame",
+    "meaning": "を非難する",
+    "example": "Don't blame others for this.",
+    "example_jp": "このことで他人を非難してはいけない。"
+  },
+  {
+    "word": "blame",
+    "meaning": "責任；非難",
+    "example": "The blame lies with the driver.",
+    "example_jp": "責任は運転手にある。"
+  },
+  {
+    "word": "spread",
+    "meaning": "を広げる",
+    "example": "They spread the news quickly.",
+    "example_jp": "彼らはそのニュースを素早く広めた。"
+  },
+  {
+    "word": "spread",
+    "meaning": "広がる",
+    "example": "The fire spread fast.",
+    "example_jp": "火は素早く広がった。"
+  },
+  {
+    "word": "spread",
+    "meaning": "広がり；普及",
+    "example": "The spread of the idea surprised us.",
+    "example_jp": "その考えの広がりは私たちを驚かせた。"
+  },
+  {
+    "word": "scatter",
+    "meaning": "をまき散らす",
+    "example": "Wind scattered the leaves.",
+    "example_jp": "風が葉をまき散らした。"
+  },
+  {
+    "word": "scatter",
+    "meaning": "分散する",
+    "example": "People scattered across the field.",
+    "example_jp": "人々が野原を横切って分散した。"
+  },
+  {
+    "word": "scatter",
+    "meaning": "散布",
+    "example": "The scatter of seeds was small.",
+    "example_jp": "種の散布は少なかった。"
+  },
+  {
+    "word": "prolong",
+    "meaning": "を延長する",
+    "example": "They will prolong the meeting.",
+    "example_jp": "彼らは会議を延長するだろう。"
+  },
+  {
+    "word": "fake",
+    "meaning": "偽物（の）",
+    "example": "The watch was a fake.",
+    "example_jp": "その時計は偽物だった。"
+  },
+  {
+    "word": "pretend",
+    "meaning": "ふりをする；装う",
+    "example": "He pretended to be asleep.",
+    "example_jp": "彼は眠っているふりをした。"
+  },
+  {
+    "word": "imitate",
+    "meaning": "をまねる",
+    "example": "The child imitates her father.",
+    "example_jp": "その子供は父親をまねる。"
+  },
+  {
+    "word": "contradict",
+    "meaning": "を否定する；と矛盾する",
+    "example": "His facts contradict the report.",
+    "example_jp": "彼の事実は報告書と矛盾している。"
+  },
+  {
+    "word": "conflict",
+    "meaning": "対立；紛争；不一致",
+    "example": "The conflict lasted weeks.",
+    "example_jp": "その対立は数週間続いた。"
+  },
+  {
+    "word": "conflict",
+    "meaning": "対立する《with》",
+    "example": "Their views conflict with mine.",
+    "example_jp": "彼らの見解は私のものと対立している。"
+  },
+  {
+    "word": "contrary",
+    "meaning": "反対の",
+    "example": "The result was contrary to hope.",
+    "example_jp": "結果は希望とは反対だった。"
+  },
+  {
+    "word": "contrary",
+    "meaning": "《the》逆",
+    "example": "On the contrary, I agree.",
+    "example_jp": "それどころか、私は同意する。"
+  },
+  {
+    "word": "paradox",
+    "meaning": "矛盾；逆説",
+    "example": "It is a strange paradox.",
+    "example_jp": "それは奇妙な矛盾だ。"
+  },
+  {
+    "word": "dilemma",
+    "meaning": "ジレンマ；板ばさみ",
+    "example": "She faced a hard dilemma.",
+    "example_jp": "彼女は困難なジレンマに直面した。"
+  },
+  {
+    "word": "irony",
+    "meaning": "皮肉",
+    "example": "The irony made us laugh.",
+    "example_jp": "その皮肉は私たちを笑わせた。"
+  },
+  {
+    "word": "software",
+    "meaning": "ソフトウェア",
+    "example": "Install the new software now.",
+    "example_jp": "今すぐ新しいソフトウェアをインストールしなさい。"
+  },
+  {
+    "word": "identify",
+    "meaning": "を特定する",
+    "example": "Police identified the suspect.",
+    "example_jp": "警察は容疑者を特定した。"
+  },
+  {
+    "word": "identify",
+    "meaning": "の身元を確認する",
+    "example": "He identified himself at the door.",
+    "example_jp": "彼はドアのところで自分の身元を確認した。"
+  },
+  {
+    "word": "identify",
+    "meaning": "を同一視する",
+    "example": "Many identify the two ideas as one.",
+    "example_jp": "多くの人がその2つの考えを一つとして同一視している。"
+  },
+  {
+    "word": "identical",
+    "meaning": "まったく同じの《to》",
+    "example": "The twins wore identical coats.",
+    "example_jp": "その双子はまったく同じコートを着ていた。"
+  },
+  {
+    "word": "verify",
+    "meaning": "が正しいか確認する",
+    "example": "Please verify your phone number.",
+    "example_jp": "あなたの電話番号が正しいか確認してください。"
+  },
+  {
+    "word": "signature",
+    "meaning": "署名",
+    "example": "Sign your name and add your signature.",
+    "example_jp": "名前を署名し、あなたの署名を加えなさい。"
+  },
+  {
+    "word": "surprisingly",
+    "meaning": "驚くほど（に）",
+    "example": "Surprisingly, she passed the test.",
+    "example_jp": "驚くほどに、彼女はテストに合格した。"
+  },
+  {
+    "word": "pretty",
+    "meaning": "かなり",
+    "example": "The room is pretty clean.",
+    "example_jp": "部屋はかなりきれいだ。"
+  },
+  {
+    "word": "pretty",
+    "meaning": "かわいらしい",
+    "example": "She has a pretty smile.",
+    "example_jp": "彼女はかわいらしい笑顔を持っている。"
+  },
+  {
+    "word": "beat",
+    "meaning": "たたく；たたくこと",
+    "example": "He beat the drum loudly.",
+    "example_jp": "彼は太鼓を大きくたたいた。"
+  },
+  {
+    "word": "beat",
+    "meaning": "打ち負かす；鼓動",
+    "example": "Our team beat theirs by two goals.",
+    "example_jp": "私たちのチームは2ゴール差で彼らを打ち負かした。"
+  },
+  {
+    "word": "seemingly",
+    "meaning": "外見上は；どうやら",
+    "example": "Seemingly, the shop is closed.",
+    "example_jp": "どうやら、その店は閉まっている。"
+  },
+  {
+    "word": "draw",
+    "meaning": "を描く；絵を描く",
+    "example": "She drew a small map.",
+    "example_jp": "彼女は小さな地図を描いた。"
+  },
+  {
+    "word": "draw",
+    "meaning": "を引く；を引っ張る",
+    "example": "The show draws many fans.",
+    "example_jp": "そのショーは多くのファンを引きつけている。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "を引き出す",
+    "example": "He withdrew money from the bank.",
+    "example_jp": "彼は銀行からお金を引き出した。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "退く",
+    "example": "She withdrew from the race.",
+    "example_jp": "彼女はレースから退いた。"
+  },
+  {
+    "word": "retreat",
+    "meaning": "後退",
+    "example": "The army made a retreat.",
+    "example_jp": "軍隊は後退した。"
+  },
+  {
+    "word": "retreat",
+    "meaning": "後退する",
+    "example": "The hikers retreated at dusk.",
+    "example_jp": "ハイカーたちは夕暮れ時に後退した。"
+  },
+  {
+    "word": "headline",
+    "meaning": "見出し；主な項目",
+    "example": "The story made the front headline.",
+    "example_jp": "その話は一面の見出しになった。"
+  },
+  {
+    "word": "morally",
+    "meaning": "道徳的に；道義上",
+    "example": "Morally, he did the right thing.",
+    "example_jp": "道徳的に、彼は正しいことをした。"
+  },
+  {
+    "word": "ethical",
+    "meaning": "倫理の；道義にかなった",
+    "example": "The choice was ethical and fair.",
+    "example_jp": "その選択は倫理的で公平だった。"
+  },
+  {
+    "word": "rational",
+    "meaning": "理性的な；合理的な",
+    "example": "Try to stay rational and calm.",
+    "example_jp": "理性的で冷静でいるように努めなさい。"
+  },
+  {
+    "word": "vice",
+    "meaning": "〈道徳上の〉悪徳",
+    "example": "Gambling is seen as a vice.",
+    "example_jp": "ギャンブルは悪徳と見なされている。"
+  },
+  {
+    "word": "virtue",
+    "meaning": "長所；美徳",
+    "example": "Patience is a useful virtue.",
+    "example_jp": "忍耐は役に立つ美徳だ。"
+  },
+  {
+    "word": "design",
+    "meaning": "を設計する",
+    "example": "They designed a small house.",
+    "example_jp": "彼らは小さな家を設計した。"
+  },
+  {
+    "word": "design",
+    "meaning": "設計（図）；デザイン",
+    "example": "The product has a simple design.",
+    "example_jp": "その製品は単純なデザインをしている。"
+  },
+  {
+    "word": "appeal",
+    "meaning": "訴える；魅力がある",
+    "example": "The story appeals to young readers.",
+    "example_jp": "その話は若い読者に訴える。"
+  },
+  {
+    "word": "appeal",
+    "meaning": "魅力；訴え",
+    "example": "The charity made an urgent appeal.",
+    "example_jp": "その慈善団体は緊急の訴えを行った。"
+  },
+  {
+    "word": "recipe",
+    "meaning": "調理法；秘訣",
+    "example": "Follow the recipe for soup.",
+    "example_jp": "スープの調理法に従いなさい。"
+  },
+  {
+    "word": "ingredient",
+    "meaning": "材料；成分",
+    "example": "Add the main ingredient first.",
+    "example_jp": "最初に主要な材料を加えなさい。"
+  },
+  {
+    "word": "cuisine",
+    "meaning": "料理（法）",
+    "example": "I like Italian cuisine.",
+    "example_jp": "私はイタリア料理が好きだ。"
+  },
+  {
+    "word": "prevent",
+    "meaning": "を防ぐ；を妨げる",
+    "example": "Good locks prevent theft.",
+    "example_jp": "良い鍵は窃盗を防ぐ。"
+  },
+  {
+    "word": "platform",
+    "meaning": "ホーム；演壇；プラットフォーム",
+    "example": "Wait on the platform for the train.",
+    "example_jp": "ホームで電車を待ちなさい。"
+  },
+  {
+    "word": "currently",
+    "meaning": "現在（は）",
+    "example": "The shop is currently closed.",
+    "example_jp": "その店は現在は閉まっている。"
+  },
+  {
+    "word": "allow",
+    "meaning": "Aが...するのを許す《～ A to do》",
+    "example": "The teacher allowed the students to leave.",
+    "example_jp": "先生は生徒たちが去るのを許した。"
+  },
+  {
+    "word": "allow",
+    "meaning": "を許可する",
+    "example": "The park allows dogs on leashes.",
+    "example_jp": "その公園はリードにつないだ犬を許可している。"
+  },
+  {
+    "word": "admit",
+    "meaning": "を認める",
+    "example": "He admitted his mistake.",
+    "example_jp": "彼は自分の間違いを認めた。"
+  },
+  {
+    "word": "admit",
+    "meaning": "の入場〔入学〕を認める",
+    "example": "The club admitted her as a member.",
+    "example_jp": "クラブは彼女を会員としての入場を認めた。"
+  },
+  {
+    "word": "acknowledge",
+    "meaning": "〈過失など〉を認める",
+    "example": "Please acknowledge the receipt of this letter.",
+    "example_jp": "この手紙の受け取りを認めて（知らせて）ください。"
+  }
+]

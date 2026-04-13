@@ -1,374 +1,374 @@
 [
   {
     "word": "snap",
-    "meaning": "The branch snapped.",
-    "example": "ポキンと折れる、ポキンと折る",
+    "meaning": "ポキンと折れる、ポキンと折る",
+    "example": "The branch snapped.",
     "example_jp": "枝がポキンと折れた。"
   },
   {
     "word": "donate",
-    "meaning": "She donated money.",
-    "example": "提供する",
+    "meaning": "提供する",
+    "example": "She donated money.",
     "example_jp": "彼女はお金を寄付した。"
   },
   {
     "word": "hatch",
-    "meaning": "The eggs hatched.",
-    "example": "（卵・ヒナ）かえす、かえる",
+    "meaning": "（卵・ヒナ）かえす、かえる",
+    "example": "The eggs hatched.",
     "example_jp": "卵がかえった。"
   },
   {
     "word": "enclose",
-    "meaning": "The yard is enclosed by a fence.",
-    "example": "囲む",
+    "meaning": "囲む",
+    "example": "The yard is enclosed by a fence.",
     "example_jp": "庭は柵で囲まれている。"
   },
   {
     "word": "prevail",
-    "meaning": "This idea prevails today.",
-    "example": "普及している、広まる",
+    "meaning": "普及している、広まる",
+    "example": "This idea prevails today.",
     "example_jp": "この考えは今日広まっている。"
   },
   {
     "word": "sigh",
-    "meaning": "He sighed deeply.",
-    "example": "ため息をつく",
+    "meaning": "ため息をつく",
+    "example": "He sighed deeply.",
     "example_jp": "彼は深いため息をついた。"
   },
   {
     "word": "leak",
-    "meaning": "Water leaked from the pipe.",
-    "example": "漏れる、漏らす",
+    "meaning": "漏れる、漏らす",
+    "example": "Water leaked from the pipe.",
     "example_jp": "水がパイプから漏れた。"
   },
   {
     "word": "compel",
-    "meaning": "They compelled him to speak.",
-    "example": "強制する",
+    "meaning": "強制する",
+    "example": "They compelled him to speak.",
     "example_jp": "彼らは彼に話すよう強制した。"
   },
   {
     "word": "crush",
-    "meaning": "He crushed the can.",
-    "example": "押しつぶす",
+    "meaning": "押しつぶす",
+    "example": "He crushed the can.",
     "example_jp": "彼は缶を押しつぶした。"
   },
   {
     "word": "comprehend",
-    "meaning": "I can’t comprehend the story.",
-    "example": "理解する",
+    "meaning": "理解する",
+    "example": "I can’t comprehend the story.",
     "example_jp": "私はその話を理解できない。"
   },
   {
     "word": "negotiate",
-    "meaning": "They negotiated a deal.",
-    "example": "交渉する",
+    "meaning": "交渉する",
+    "example": "They negotiated a deal.",
     "example_jp": "彼らは取引を交渉した。"
   },
   {
     "word": "persist",
-    "meaning": "The problem persisted.",
-    "example": "持続する、残る",
+    "meaning": "持続する、残る",
+    "example": "The problem persisted.",
     "example_jp": "問題は続いた。"
   },
   {
     "word": "multiply",
-    "meaning": "They multiplied the number by two.",
-    "example": "増やす、掛ける",
+    "meaning": "増やす、掛ける",
+    "example": "They multiplied the number by two.",
     "example_jp": "彼らはその数に2を掛けた。"
   },
   {
     "word": "multiply",
-    "meaning": "The cells multiplied.",
-    "example": "増える",
+    "meaning": "増える",
+    "example": "The cells multiplied.",
     "example_jp": "細胞が増えた。"
   },
   {
     "word": "conceive",
-    "meaning": "I can’t conceive the idea.",
-    "example": "想像する",
+    "meaning": "想像する",
+    "example": "I can’t conceive the idea.",
     "example_jp": "私はその考えを想像できない。"
   },
   {
     "word": "compensate",
-    "meaning": "They compensated for the loss.",
-    "example": "埋め合わせる",
+    "meaning": "埋め合わせる",
+    "example": "They compensated for the loss.",
     "example_jp": "彼らは損失を埋め合わせた。"
   },
   {
     "word": "suspend",
-    "meaning": "They suspended the event.",
-    "example": "中止する",
+    "meaning": "中止する",
+    "example": "They suspended the event.",
     "example_jp": "彼らはイベントを中止した。"
   },
   {
     "word": "suspend",
-    "meaning": "He suspended the lamp.",
-    "example": "つるす",
+    "meaning": "つるす",
+    "example": "He suspended the lamp.",
     "example_jp": "彼はランプをつるした。"
   },
   {
     "word": "stir",
-    "meaning": "The news stirred anger.",
-    "example": "かきたてる",
+    "meaning": "かきたてる",
+    "example": "The news stirred anger.",
     "example_jp": "そのニュースは怒りをかきたてた。"
   },
   {
     "word": "soak",
-    "meaning": "She soaked the clothes.",
-    "example": "浸す",
+    "meaning": "浸す",
+    "example": "She soaked the clothes.",
     "example_jp": "彼女は服を浸した。"
   },
   {
     "word": "soak",
-    "meaning": "He got soaked in the rain.",
-    "example": "びしょぬれにする",
+    "meaning": "びしょぬれにする",
+    "example": "He got soaked in the rain.",
     "example_jp": "彼は雨でびしょぬれになった。"
   },
   {
     "word": "soak",
-    "meaning": "Plants soak up water.",
-    "example": "吸収する",
+    "meaning": "吸収する",
+    "example": "Plants soak up water.",
     "example_jp": "植物は水を吸収する。"
   },
   {
     "word": "refine",
-    "meaning": "They refined the design.",
-    "example": "洗練する、磨きをかける",
+    "meaning": "洗練する、磨きをかける",
+    "example": "They refined the design.",
     "example_jp": "彼らはデザインを洗練した。"
   },
   {
     "word": "arouse",
-    "meaning": "His speech aroused interest.",
-    "example": "刺激する、かき立てる",
+    "meaning": "刺激する、かき立てる",
+    "example": "His speech aroused interest.",
     "example_jp": "彼の演説は興味をかき立てた。"
   },
   {
     "word": "precede",
-    "meaning": "A short speech preceded the event.",
-    "example": "先行する",
+    "meaning": "先行する",
+    "example": "A short speech preceded the event.",
     "example_jp": "短いスピーチがその行事に先立った。"
   },
   {
     "word": "render",
-    "meaning": "The shock rendered him silent.",
-    "example": "OをCにする、変える",
+    "meaning": "OをCにする、変える",
+    "example": "The shock rendered him silent.",
     "example_jp": "その衝撃で彼は黙ってしまった。"
   },
   {
     "word": "mount",
-    "meaning": "They mounted the camera.",
-    "example": "すえつける",
+    "meaning": "すえつける",
+    "example": "They mounted the camera.",
     "example_jp": "彼らはカメラを据え付けた。"
   },
   {
     "word": "mount",
-    "meaning": "He mounted the horse.",
-    "example": "乗る",
+    "meaning": "乗る",
+    "example": "He mounted the horse.",
     "example_jp": "彼は馬に乗った。"
   },
   {
     "word": "retreat",
-    "meaning": "The army retreated.",
-    "example": "退く",
+    "meaning": "退く",
+    "example": "The army retreated.",
     "example_jp": "軍は退いた。"
   },
   {
     "word": "startle",
-    "meaning": "The noise startled me.",
-    "example": "驚かせる",
+    "meaning": "驚かせる",
+    "example": "The noise startled me.",
     "example_jp": "その音に驚いた。"
   },
   {
     "word": "dare",
-    "meaning": "I dare to try.",
-    "example": "する勇気がある",
+    "meaning": "する勇気がある",
+    "example": "I dare to try.",
     "example_jp": "私は思い切ってやってみる。"
   },
   {
     "word": "sphere",
-    "meaning": "He works in the medical sphere.",
-    "example": "領域、範囲",
+    "meaning": "領域、範囲",
+    "example": "He works in the medical sphere.",
     "example_jp": "彼は医療分野で働いている。"
   },
   {
     "word": "sequence",
-    "meaning": "The events happened in sequence.",
-    "example": "連続、順番",
+    "meaning": "連続、順番",
+    "example": "The events happened in sequence.",
     "example_jp": "出来事は順番に起こった。"
   },
   {
     "word": "deposit",
-    "meaning": "I made a deposit.",
-    "example": "預金",
+    "meaning": "預金",
+    "example": "I made a deposit.",
     "example_jp": "私は預金をした。"
   },
   {
     "word": "deposit",
-    "meaning": "He paid a deposit.",
-    "example": "頭金",
+    "meaning": "頭金",
+    "example": "He paid a deposit.",
     "example_jp": "彼は頭金を支払った。"
   },
   {
     "word": "deposit",
-    "meaning": "The river left a deposit.",
-    "example": "堆積物",
+    "meaning": "堆積物",
+    "example": "The river left a deposit.",
     "example_jp": "川は堆積物を残した。"
   },
   {
     "word": "poll",
-    "meaning": "They took a poll.",
-    "example": "世論調査",
+    "meaning": "世論調査",
+    "example": "They took a poll.",
     "example_jp": "彼らは世論調査を行った。"
   },
   {
     "word": "poll",
-    "meaning": "The poll starts at noon.",
-    "example": "投票",
+    "meaning": "投票",
+    "example": "The poll starts at noon.",
     "example_jp": "投票は正午に始まる。"
   },
   {
     "word": "caution",
-    "meaning": "Use caution.",
-    "example": "用心",
+    "meaning": "用心",
+    "example": "Use caution.",
     "example_jp": "注意して行動してください。"
   },
   {
     "word": "rage",
-    "meaning": "He was filled with rage.",
-    "example": "激怒、怒り",
+    "meaning": "激怒、怒り",
+    "example": "He was filled with rage.",
     "example_jp": "彼は激怒で満ちていた。"
   },
   {
     "word": "formula",
-    "meaning": "They used a new formula.",
-    "example": "式、公式",
+    "meaning": "式、公式",
+    "example": "They used a new formula.",
     "example_jp": "彼らは新しい式を使った。"
   },
   {
     "word": "formula",
-    "meaning": "This is a good formula for success.",
-    "example": "方法、秘訣、解決策",
+    "meaning": "方法、秘訣、解決策",
+    "example": "This is a good formula for success.",
     "example_jp": "これは成功の良い方法だ。"
   },
   {
     "word": "plot",
-    "meaning": "The movie has a simple plot.",
-    "example": "筋",
+    "meaning": "筋",
+    "example": "The movie has a simple plot.",
     "example_jp": "その映画は筋が単純だ。"
   },
   {
     "word": "plot",
-    "meaning": "They made a plot.",
-    "example": "たくらみ、陰謀",
+    "meaning": "たくらみ、陰謀",
+    "example": "They made a plot.",
     "example_jp": "彼らはたくらみを企てた。"
   },
   {
     "word": "scope",
-    "meaning": "The scope of the study is wide.",
-    "example": "範囲",
+    "meaning": "範囲",
+    "example": "The scope of the study is wide.",
     "example_jp": "その研究の範囲は広い。"
   },
   {
     "word": "norm",
-    "meaning": "It is the social norm.",
-    "example": "規範",
+    "meaning": "規範",
+    "example": "It is the social norm.",
     "example_jp": "それは社会的規範だ。"
   },
   {
     "word": "disgust",
-    "meaning": "He felt disgust.",
-    "example": "嫌悪",
+    "meaning": "嫌悪",
+    "example": "He felt disgust.",
     "example_jp": "彼は嫌悪感を抱いた。"
   },
   {
     "word": "compromise",
-    "meaning": "They reached a compromise.",
-    "example": "妥協",
+    "meaning": "妥協",
+    "example": "They reached a compromise.",
     "example_jp": "彼らは妥協に達した。"
   },
   {
     "word": "supervisor",
-    "meaning": "He talked to his supervisor.",
-    "example": "監督者",
+    "meaning": "監督者",
+    "example": "He talked to his supervisor.",
     "example_jp": "彼は監督者と話した。"
   },
   {
     "word": "paradox",
-    "meaning": "It is a strange paradox.",
-    "example": "逆説",
+    "meaning": "逆説",
+    "example": "It is a strange paradox.",
     "example_jp": "それは奇妙な逆説だ。"
   },
   {
     "word": "tissue",
-    "meaning": "Muscle tissue is strong.",
-    "example": "（生物の）組織",
+    "meaning": "（生物の）組織",
+    "example": "Muscle tissue is strong.",
     "example_jp": "筋組織は強い。"
   },
   {
     "word": "tissue",
-    "meaning": "I used a tissue.",
-    "example": "ティッシュペーパー",
+    "meaning": "ティッシュペーパー",
+    "example": "I used a tissue.",
     "example_jp": "私はティッシュを使った。"
   },
   {
     "word": "breakdown",
-    "meaning": "The system had a breakdown.",
-    "example": "崩壊",
+    "meaning": "崩壊",
+    "example": "The system had a breakdown.",
     "example_jp": "システムは崩壊した。"
   },
   {
     "word": "Initiative",
-    "meaning": "They started a new initiative.",
-    "example": "構想、主導権",
+    "meaning": "構想、主導権",
+    "example": "They started a new initiative.",
     "example_jp": "彼らは新しい構想を始めた。"
   },
   {
     "word": "fabric",
-    "meaning": "The fabric is soft.",
-    "example": "織物、布",
+    "meaning": "織物、布",
+    "example": "The fabric is soft.",
     "example_jp": "その布地は柔らかい。"
   },
   {
     "word": "publicity",
-    "meaning": "The event got much publicity.",
-    "example": "宣伝、広告",
+    "meaning": "宣伝、広告",
+    "example": "The event got much publicity.",
     "example_jp": "そのイベントは多くの宣伝を受けた。"
   },
   {
     "word": "summit",
-    "meaning": "They reached the summit.",
-    "example": "頂上、頂点",
+    "meaning": "頂上、頂点",
+    "example": "They reached the summit.",
     "example_jp": "彼らは頂上に到達した。"
   },
   {
     "word": "summit",
-    "meaning": "Leaders met at the summit.",
-    "example": "首脳会議",
+    "meaning": "首脳会議",
+    "example": "Leaders met at the summit.",
     "example_jp": "首脳たちは首脳会議で会った。"
   },
   {
     "word": "flock",
-    "meaning": "A flock of birds flew by.",
-    "example": "群れ",
+    "meaning": "群れ",
+    "example": "A flock of birds flew by.",
     "example_jp": "鳥の群れが飛んでいった。"
   },
   {
     "word": "plague",
-    "meaning": "The plague spread quickly.",
-    "example": "疫病",
+    "meaning": "疫病",
+    "example": "The plague spread quickly.",
     "example_jp": "疫病は急速に広がった。"
   },
   {
     "word": "haste",
-    "meaning": "He left in haste.",
-    "example": "急ぐこと",
+    "meaning": "急ぐこと",
+    "example": "He left in haste.",
     "example_jp": "彼は急いで出発した。"
   },
   {
     "word": "nap",
-    "meaning": "He took a short nap.",
-    "example": "うたた寝",
+    "meaning": "うたた寝",
+    "example": "He took a short nap.",
     "example_jp": "彼は短いうたた寝をした。"
   }
 ]

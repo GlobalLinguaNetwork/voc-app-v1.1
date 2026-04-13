@@ -1,302 +1,302 @@
 [
   {
     "word": "murmur",
-    "meaning": "He murmured a few words.",
-    "example": "つぶやく",
+    "meaning": "つぶやく",
+    "example": "He murmured a few words.",
     "example_jp": "彼は小さな声で数語つぶやいた。"
   },
   {
     "word": "delete",
-    "meaning": "I deleted the file.",
-    "example": "削除する",
+    "meaning": "削除する",
+    "example": "I deleted the file.",
     "example_jp": "私はそのファイルを削除した。"
   },
   {
     "word": "inhibit",
-    "meaning": "Stress inhibits learning.",
-    "example": "阻害する",
+    "meaning": "阻害する",
+    "example": "Stress inhibits learning.",
     "example_jp": "ストレスは学習を阻害する。"
   },
   {
     "word": "divert",
-    "meaning": "The noise diverted my attention.",
-    "example": "そらす",
+    "meaning": "そらす",
+    "example": "The noise diverted my attention.",
     "example_jp": "その騒音が私の注意をそらした。"
   },
   {
     "word": "tame",
-    "meaning": "They tamed the wild horse.",
-    "example": "飼いならす",
+    "meaning": "飼いならす",
+    "example": "They tamed the wild horse.",
     "example_jp": "彼らはその野生の馬を飼いならした。"
   },
   {
     "word": "reap",
-    "meaning": "He reaped the benefits.",
-    "example": "手に入れる",
+    "meaning": "手に入れる",
+    "example": "He reaped the benefits.",
     "example_jp": "彼はその恩恵を手に入れた。"
   },
   {
     "word": "affirm",
-    "meaning": "She affirmed her belief.",
-    "example": "断言する",
+    "meaning": "断言する",
+    "example": "She affirmed her belief.",
     "example_jp": "彼女は自分の信念を断言した。"
   },
   {
     "word": "immersed",
-    "meaning": "He was immersed in work.",
-    "example": "浸る",
+    "meaning": "浸る",
+    "example": "He was immersed in work.",
     "example_jp": "彼は仕事に没頭していた。"
   },
   {
     "word": "expire",
-    "meaning": "The contract expired.",
-    "example": "期限が切れる",
+    "meaning": "期限が切れる",
+    "example": "The contract expired.",
     "example_jp": "その契約の期限が切れた。"
   },
   {
     "word": "embark",
-    "meaning": "They embarked on a journey.",
-    "example": "乗り出す",
+    "meaning": "乗り出す",
+    "example": "They embarked on a journey.",
     "example_jp": "彼らは旅に乗り出した。"
   },
   {
     "word": "vow",
-    "meaning": "He vowed to try again.",
-    "example": "誓う",
+    "meaning": "誓う",
+    "example": "He vowed to try again.",
     "example_jp": "彼はもう一度挑戦することを誓った。"
   },
   {
     "word": "foresee",
-    "meaning": "I foresee trouble ahead.",
-    "example": "予知する",
+    "meaning": "予知する",
+    "example": "I foresee trouble ahead.",
     "example_jp": "私は先に問題が起こると予見している。"
   },
   {
     "word": "adore",
-    "meaning": "She adores her dog.",
-    "example": "崇拝する",
+    "meaning": "崇拝する",
+    "example": "She adores her dog.",
     "example_jp": "彼女は自分の犬をとても可愛がっている。"
   },
   {
     "word": "yearn",
-    "meaning": "He yearned for freedom.",
-    "example": "切望する",
+    "meaning": "切望する",
+    "example": "He yearned for freedom.",
     "example_jp": "彼は自由を切望していた。"
   },
   {
     "word": "undermine",
-    "meaning": "The scandal undermined trust.",
-    "example": "弱める",
+    "meaning": "弱める",
+    "example": "The scandal undermined trust.",
     "example_jp": "そのスキャンダルは信頼を弱めた。"
   },
   {
     "word": "suck",
-    "meaning": "The baby sucked his thumb.",
-    "example": "吸う",
+    "meaning": "吸う",
+    "example": "The baby sucked his thumb.",
     "example_jp": "赤ちゃんは親指を吸った。"
   },
   {
     "word": "pledge",
-    "meaning": "They pledged support.",
-    "example": "誓う",
+    "meaning": "誓う",
+    "example": "They pledged support.",
     "example_jp": "彼らは支援を誓った。"
   },
   {
     "word": "intrude",
-    "meaning": "He intruded into my room.",
-    "example": "立ち入る",
+    "meaning": "立ち入る",
+    "example": "He intruded into my room.",
     "example_jp": "彼は私の部屋に立ち入った。"
   },
   {
     "word": "sue",
-    "meaning": "They sued the company.",
-    "example": "訴える",
+    "meaning": "訴える",
+    "example": "They sued the company.",
     "example_jp": "彼らはその会社を訴えた。"
   },
   {
     "word": "distort",
-    "meaning": "The media distorted the facts.",
-    "example": "歪曲する",
+    "meaning": "歪曲する",
+    "example": "The media distorted the facts.",
     "example_jp": "メディアは事実を歪曲した。"
   },
   {
     "word": "extinguish",
-    "meaning": "They extinguished the fire.",
-    "example": "消す",
+    "meaning": "消す",
+    "example": "They extinguished the fire.",
     "example_jp": "彼らは火を消した。"
   },
   {
     "word": "preach",
-    "meaning": "He preached peace.",
-    "example": "説教する",
+    "meaning": "説教する",
+    "example": "He preached peace.",
     "example_jp": "彼は平和を説いた。"
   },
   {
     "word": "curb",
-    "meaning": "They curbed spending.",
-    "example": "抑制する",
+    "meaning": "抑制する",
+    "example": "They curbed spending.",
     "example_jp": "彼らは支出を抑制した。"
   },
   {
     "word": "withstand",
-    "meaning": "The wall can withstand wind.",
-    "example": "耐える",
+    "meaning": "耐える",
+    "example": "The wall can withstand wind.",
     "example_jp": "その壁は風に耐えられる。"
   },
   {
     "word": "dip",
-    "meaning": "She dipped her hand in water.",
-    "example": "浸す",
+    "meaning": "浸す",
+    "example": "She dipped her hand in water.",
     "example_jp": "彼女は手を水に浸した。"
   },
   {
     "word": "recite",
-    "meaning": "He recited the poem.",
-    "example": "暗唱する",
+    "meaning": "暗唱する",
+    "example": "He recited the poem.",
     "example_jp": "彼はその詩を暗唱した。"
   },
   {
     "word": "thrust",
-    "meaning": "He thrust the box into my hands.",
-    "example": "押し込む",
+    "meaning": "押し込む",
+    "example": "He thrust the box into my hands.",
     "example_jp": "彼は箱を私の手に押し込んだ。"
   },
   {
     "word": "plead",
-    "meaning": "She pleaded for help.",
-    "example": "嘆願する",
+    "meaning": "嘆願する",
+    "example": "She pleaded for help.",
     "example_jp": "彼女は助けを懇願した。"
   },
   {
     "word": "humiliate",
-    "meaning": "They humiliated him.",
-    "example": "恥をかかせる",
+    "meaning": "恥をかかせる",
+    "example": "They humiliated him.",
     "example_jp": "彼らは彼を恥をかかせた。"
   },
   {
     "word": "discharge",
-    "meaning": "The factory discharged waste.",
-    "example": "放出する",
+    "meaning": "放出する",
+    "example": "The factory discharged waste.",
     "example_jp": "その工場は廃棄物を放出した。"
   },
   {
     "word": "condemn",
-    "meaning": "They condemned the act.",
-    "example": "非難する",
+    "meaning": "非難する",
+    "example": "They condemned the act.",
     "example_jp": "彼らはその行為を非難した。"
   },
   {
     "word": "retrieve",
-    "meaning": "I retrieved the data.",
-    "example": "検索する",
+    "meaning": "検索する",
+    "example": "I retrieved the data.",
     "example_jp": "私はデータを取り出した。"
   },
   {
     "word": "shrug",
-    "meaning": "He shrugged his shoulders.",
-    "example": "肩をすくめる",
+    "meaning": "肩をすくめる",
+    "example": "He shrugged his shoulders.",
     "example_jp": "彼は肩をすくめた。"
   },
   {
     "word": "evoke",
-    "meaning": "The song evoked memories.",
-    "example": "呼び起こす",
+    "meaning": "呼び起こす",
+    "example": "The song evoked memories.",
     "example_jp": "その歌は記憶を呼び起こした。"
   },
   {
     "word": "fetch",
-    "meaning": "He fetched the ball.",
-    "example": "取ってくる",
+    "meaning": "取ってくる",
+    "example": "He fetched the ball.",
     "example_jp": "彼はボールを取ってきた。"
   },
   {
     "word": "flatter",
-    "meaning": "He flattered his boss.",
-    "example": "お世辞を言う",
+    "meaning": "お世辞を言う",
+    "example": "He flattered his boss.",
     "example_jp": "彼は上司にお世辞を言った。"
   },
   {
     "word": "prose",
-    "meaning": "She writes simple prose.",
-    "example": "散文",
+    "meaning": "散文",
+    "example": "She writes simple prose.",
     "example_jp": "彼女は簡潔な散文を書く。"
   },
   {
     "word": "textile",
-    "meaning": "They produce textiles.",
-    "example": "織物",
+    "meaning": "織物",
+    "example": "They produce textiles.",
     "example_jp": "彼らは織物を生産している。"
   },
   {
     "word": "timber",
-    "meaning": "The house is made of timber.",
-    "example": "材木",
+    "meaning": "材木",
+    "example": "The house is made of timber.",
     "example_jp": "その家は材木で作られている。"
   },
   {
     "word": "masterpiece",
-    "meaning": "The painting is a masterpiece.",
-    "example": "傑作",
+    "meaning": "傑作",
+    "example": "The painting is a masterpiece.",
     "example_jp": "その絵は傑作だ。"
   },
   {
     "word": "riot",
-    "meaning": "A riot broke out.",
-    "example": "暴動",
+    "meaning": "暴動",
+    "example": "A riot broke out.",
     "example_jp": "暴動が発生した。"
   },
   {
     "word": "carriage",
-    "meaning": "The train carriage was full.",
-    "example": "車両",
+    "meaning": "車両",
+    "example": "The train carriage was full.",
     "example_jp": "その列車の車両は満員だった。"
   },
   {
     "word": "apparatus",
-    "meaning": "They used special apparatus.",
-    "example": "装置",
+    "meaning": "装置",
+    "example": "They used special apparatus.",
     "example_jp": "彼らは特殊な装置を使った。"
   },
   {
     "word": "fuss",
-    "meaning": "Don’t make a fuss.",
-    "example": "大騒ぎ",
+    "meaning": "大騒ぎ",
+    "example": "Don’t make a fuss.",
     "example_jp": "大騒ぎしないでください。"
   },
   {
     "word": "deficiency",
-    "meaning": "He has a vitamin deficiency.",
-    "example": "欠乏",
+    "meaning": "欠乏",
+    "example": "He has a vitamin deficiency.",
     "example_jp": "彼はビタミン欠乏症がある。"
   },
   {
     "word": "heir",
-    "meaning": "He is the heir to the throne.",
-    "example": "相続人",
+    "meaning": "相続人",
+    "example": "He is the heir to the throne.",
     "example_jp": "彼は王位の相続人だ。"
   },
   {
     "word": "equator",
-    "meaning": "The equator circles the Earth.",
-    "example": "赤道",
+    "meaning": "赤道",
+    "example": "The equator circles the Earth.",
     "example_jp": "赤道は地球を一周している。"
   },
   {
     "word": "petroleum",
-    "meaning": "They export petroleum.",
-    "example": "石油",
+    "meaning": "石油",
+    "example": "They export petroleum.",
     "example_jp": "彼らは石油を輸出している。"
   },
   {
     "word": "witch",
-    "meaning": "The story has a witch.",
-    "example": "魔女",
+    "meaning": "魔女",
+    "example": "The story has a witch.",
     "example_jp": "その物語には魔女が登場する。"
   },
   {
     "word": "vapor",
-    "meaning": "Water turns into vapor.",
-    "example": "蒸気",
+    "meaning": "蒸気",
+    "example": "Water turns into vapor.",
     "example_jp": "水は蒸気に変わる。"
   }
 ]

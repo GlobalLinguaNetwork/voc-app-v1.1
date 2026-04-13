@@ -303,19 +303,62 @@ function pickBestVoice(voices) {
   return scored[0].voice;
 }
 
+/* ── ⑤ 音声初期化 (iOS / Android / PC 共通対策) ──
+   iOS Safari: onvoiceschanged が発火しない → ポーリング必須
+   iOS Safari: ユーザー操作なしの speak() はブロックされる
+              → start ボタンタップ時にサイレント utterance でアンロックする
+   Android  : cancel() 直後の speak() で onend 未発火 → 50ms 待機で回避済み
+*/
+var iosUnlocked = false;  /* iOS音声アンロック済みフラグ */
+
 function initVoice(cb) {
-  var voices = speechSynthesis.getVoices();
-  if (voices.length > 0) {
-    selectedVoice = pickBestVoice(voices);
+  var resolved = false;
+  function resolve() {
+    if (resolved) return;
+    resolved = true;
+    var v = speechSynthesis.getVoices();
+    selectedVoice = pickBestVoice(v);
     if (cb) cb();
-  } else {
-    speechSynthesis.onvoiceschanged = function() {
-      selectedVoice = pickBestVoice(speechSynthesis.getVoices());
-      if (cb) cb();
-    };
   }
+  /* まず同期取得を試みる */
+  var voices = speechSynthesis.getVoices();
+  if (voices.length > 0) { resolve(); return; }
+  /* iOS/Android: イベント + ポーリング の両方で待つ */
+  speechSynthesis.onvoiceschanged = resolve;
+  var attempts = 0;
+  var poll = setInterval(function() {
+    attempts++;
+    if (speechSynthesis.getVoices().length > 0 || attempts >= 30) {
+      clearInterval(poll); resolve();
+    }
+  }, 100);
 }
 initVoice();
+
+/* iOS Safari 音声アンロック:
+   ユーザーのタップに直結した speak() を1回実行することで
+   以降の非同期 speak() もブロックされなくなる */
+function unlockIOSSpeech() {
+  if (iosUnlocked) return;
+  iosUnlocked = true;
+  var u = new SpeechSynthesisUtterance("");
+  u.volume = 0;
+  u.lang = "en-US";
+  speechSynthesis.speak(u);
+  speechSynthesis.cancel();
+}
+
+/* iOS Safari フリーズ対策: speaking が stuck のままになるバグを検知してリセット */
+var ttsWatchdog = null;
+function startTTSWatchdog(expectedMs) {
+  clearTimeout(ttsWatchdog);
+  ttsWatchdog = setTimeout(function() {
+    if (speechSynthesis.speaking || speechSynthesis.pending) {
+      speechSynthesis.cancel();
+    }
+  }, expectedMs + 3000);
+}
+function clearTTSWatchdog() { clearTimeout(ttsWatchdog); }
 
 /* ══ Unit選択ドロップダウン初期化 ══ */
 (function() {
@@ -353,6 +396,9 @@ function loadUnit(unitNum, callback) {
 
 /* ── 開始 ── */
 function start() {
+  /* iOS Safari: ボタンタップのタイミングで音声をアンロック（同期実行必須）*/
+  unlockIOSSpeech();
+
   currentUnit = parseInt(document.getElementById("unitSelect").value);
   autoSpeed   = parseInt(document.getElementById("revealSpeed").value);
   loadUnit(currentUnit, function(success) {
@@ -377,11 +423,18 @@ function updateUnitLabel() {
 }
 
 /* ── 次の問題 ── */
+/* Android Chrome バグ対策:
+   cancel() の直後に speak() すると onend が発火しないことがある。
+   cancel → 50ms待機 → speak の順にすることで回避する。 */
 function next() {
   if (isPaused) return;
   clearTimeout(timer1); clearTimeout(timer2);
   speechSynthesis.cancel();
+  setTimeout(function() { nextCore(); }, 50);
+}
 
+function nextCore() {
+  if (isPaused) return;
   if (index >= words.length && reviewQueue.length === 0) { showFinishScreen(); return; }
   current = reviewQueue.length > 0 ? reviewQueue.shift() : words[index++];
 
@@ -396,24 +449,41 @@ function next() {
   document.getElementById("progress").textContent     = index + " / " + words.length;
   document.getElementById("progressFill").style.width = Math.round((index / words.length) * 100) + "%";
 
-  /* ① 見出し語→例文の間隔を約400msに短縮 */
-  speak(current.word, function() {
-    if (current.example) {
-      setTimeout(function() { speak(current.example, null); }, 400);
-    }
-  });
+  /* ① 見出し語→例文 約400ms間隔
+     speak() の onend/onerror/watchdog のいずれかが必ずコールバックを呼ぶため
+     ここでは speak() に委ねるだけでよい */
+  if (current.word) {
+    speak(current.word, function() {
+      if (current && current.example) {
+        setTimeout(function() { speak(current.example, null); }, 400);
+      }
+    });
+  } else if (current && current.example) {
+    speak(current.example, null);
+  }
 
   if (document.getElementById("mode").value === "quiz") { renderQuiz(); }
   else { renderFlip(); }
 }
 
-/* ── ⑤ TTS ── */
+/* ── ⑤ TTS (iOS/Android/PC 共通) ── */
 function speak(text, cb) {
+  if (!text) { if (cb) cb(); return; }
   var u = new SpeechSynthesisUtterance(text);
   u.lang = "en-US";
   u.rate = 1.05;
   if (selectedVoice) u.voice = selectedVoice;
-  if (cb) u.onend = cb;
+  /* iOS フリーズ監視: 想定読み上げ時間+余裕でウォッチドッグを起動 */
+  var expectedMs = Math.max(1500, text.length * 120);
+  startTTSWatchdog(expectedMs);
+  u.onend = function() {
+    clearTTSWatchdog();
+    if (cb) cb();
+  };
+  u.onerror = function() {
+    clearTTSWatchdog();
+    if (cb) cb();  /* エラーでもコールバックを呼んで次へ進める */
+  };
   speechSynthesis.speak(u);
 }
 
@@ -572,6 +642,7 @@ function togglePause() {
     clearTimeout(timer1); clearTimeout(timer2); speechSynthesis.cancel();
     btn.textContent = "▶ 再開"; btn.style.background = "#d4edda"; btn.style.color = "var(--correct)";
   } else {
+    unlockIOSSpeech();  /* iOS: 再開タップでアンロック維持 */
     btn.textContent = "⏸ 一時停止"; btn.style.background = ""; btn.style.color = "";
     next();
   }
@@ -600,11 +671,13 @@ function showFinishScreen() {
 }
 
 function restart() {
+  unlockIOSSpeech();  /* iOS: タップに直結した呼び出しでアンロック維持 */
   document.getElementById("finishScreen").classList.add("hidden");
   resetState(); next();
 }
 
 function goNextUnit() {
+  unlockIOSSpeech();  /* iOS: タップに直結した呼び出しでアンロック維持 */
   if (currentUnit >= UNIT_MAX) return;
   var nextNum = currentUnit + 1;
   loadUnit(nextNum, function(success) {

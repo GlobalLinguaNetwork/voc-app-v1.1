@@ -101,7 +101,6 @@
   .radial-num { font-family: 'Lora', serif; font-size: 0.92rem; font-weight: 700; color: var(--ink); }
   .btn-close-modal { width: 100%; padding: 11px; border: none; border-radius: 10px; background: var(--ink); color: white; font-weight: 700; font-family: 'DM Sans', sans-serif; font-size: 0.9rem; cursor: pointer; }
   .btn-close-modal:hover { background: var(--accent); }
-  /* Unit履歴 */
   .unit-history-section { margin-bottom: 16px; }
   .unit-history-title { font-size: 0.68rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: 8px; }
   .unit-history-list { max-height: 160px; overflow-y: auto; border: 1px solid #e8e6e1; border-radius: 10px; }
@@ -158,7 +157,6 @@
         </div>
       </div>
     </div>
-    <!-- ③ Unit学習履歴 -->
     <div class="unit-history-section">
       <div class="unit-history-title">📖 Unit 学習履歴</div>
       <div class="unit-history-list" id="unitHistoryList">
@@ -166,7 +164,6 @@
       </div>
     </div>
     <button class="btn-close-modal" onclick="closeProgressModal()">閉じる</button>
-    <!-- ⑥ リセットボタン削除済み -->
   </div>
 </div>
 
@@ -193,7 +190,12 @@
       <option value="0">手動で次へ</option>
     </select>
 
-    <button class="btn-start" onclick="start()" style="margin-bottom: 10px;">学習を開始する →</button>
+    <!-- ★ ボタン群を更新（続きから開始機能を追加） -->
+    <div id="startBtnContainer" style="display:flex; flex-direction:column; gap:10px; margin-bottom:10px;">
+      <button class="btn-start" id="btnResume" onclick="start(true)" style="display:none; background:var(--accent);">続きから開始する</button>
+      <button class="btn-start" id="btnStart" onclick="start(false)">初めから開始する →</button>
+    </div>
+    
     <button class="btn-start" style="background:#e8e6e1; color:var(--ink);" onclick="location.href='index.html'">← 単語帳を選び直す</button>
   </div>
 
@@ -235,13 +237,8 @@
 </div>
 
 <script>
-/* ==========================================================
-   Vocab Master – study.html
-   ①見出し語→例文間隔を短縮  ②Unit番号範囲表示
-   ③Unit履歴記録  ④ハイライト強化  ⑤最適音声自動選択  ⑥リセット削除
-========================================================== */
-
 /* ══ ② 単語帳設定（Unit構成・見出し語番号範囲） ══ */
+/* ※語法・基本動詞・多義語・論理マーカーの unitCount を 1 に変更しました */
 var BOOK_CONFIG = {
   "system5":      { unitCount: 41, total: 2027, name: "システム英単語（5訂版）",   showRange: true  },
   "target1900":   { unitCount: 38, total: 1900, name: "英単語ターゲット1900",       showRange: true  },
@@ -249,13 +246,12 @@ var BOOK_CONFIG = {
   "leap":         { unitCount: 46, total: 2300, name: "英単語LEAP",                 showRange: true  },
   "sokutanh8":    { unitCount: 38, total: 1903, name: "速読英単語（必修編 8訂版）", showRange: true  },
   "jukugo1000":   { unitCount: 20, total: 1000, name: "英熟語ターゲット1000",       showRange: true  },
-  "gohou":        { unitCount: 20, total: null,  name: "語法",                       showRange: false },
-  "kihonndoushi": { unitCount: 20, total: null,  name: "基本動詞",                   showRange: false },
-  "tagigo":       { unitCount: 20, total: null,  name: "多義語",                     showRange: false },
-  "ronrimarker":  { unitCount: 20, total: null,  name: "論理マーカー",               showRange: false }
+  "gohou":        { unitCount: 1,  total: null, name: "語法",                       showRange: false },
+  "kihonndoushi": { unitCount: 1,  total: null, name: "基本動詞",                   showRange: false },
+  "tagigo":       { unitCount: 1,  total: null, name: "多義語",                     showRange: false },
+  "ronrimarker":  { unitCount: 1,  total: null, name: "論理マーカー",               showRange: false }
 };
 
-/* Unit番号 → ラベル文字列（例: "Unit 3  (101–150)"） */
 function unitRangeLabel(cfg, unitNum) {
   if (!cfg || !cfg.showRange || !cfg.total) return "Unit " + unitNum;
   var STEP = 50;
@@ -281,11 +277,8 @@ var isPaused     = false;
 var autoSpeed    = 5000;
 var currentUnit  = 1;
 
-/* ══ ⑤ 最適英語音声の自動選択 ══
-   優先度: premium/natural/enhanced/neural/Google/Siri/Samantha系 > en-US > en-XX
-*/
+/* ══ ⑤ 最適英語音声の自動選択 ══ */
 var selectedVoice = null;
-
 function pickBestVoice(voices) {
   var enVoices = voices.filter(function(v) { return /^en/i.test(v.lang); });
   if (!enVoices.length) return null;
@@ -303,14 +296,7 @@ function pickBestVoice(voices) {
   return scored[0].voice;
 }
 
-/* ── ⑤ 音声初期化 (iOS / Android / PC 共通対策) ──
-   iOS Safari: onvoiceschanged が発火しない → ポーリング必須
-   iOS Safari: ユーザー操作なしの speak() はブロックされる
-              → start ボタンタップ時にサイレント utterance でアンロックする
-   Android  : cancel() 直後の speak() で onend 未発火 → 50ms 待機で回避済み
-*/
-var iosUnlocked = false;  /* iOS音声アンロック済みフラグ */
-
+var iosUnlocked = false;
 function initVoice(cb) {
   var resolved = false;
   function resolve() {
@@ -320,10 +306,8 @@ function initVoice(cb) {
     selectedVoice = pickBestVoice(v);
     if (cb) cb();
   }
-  /* まず同期取得を試みる */
   var voices = speechSynthesis.getVoices();
   if (voices.length > 0) { resolve(); return; }
-  /* iOS/Android: イベント + ポーリング の両方で待つ */
   speechSynthesis.onvoiceschanged = resolve;
   var attempts = 0;
   var poll = setInterval(function() {
@@ -335,9 +319,6 @@ function initVoice(cb) {
 }
 initVoice();
 
-/* iOS Safari 音声アンロック:
-   ユーザーのタップに直結した speak() を1回実行することで
-   以降の非同期 speak() もブロックされなくなる */
 function unlockIOSSpeech() {
   if (iosUnlocked) return;
   iosUnlocked = true;
@@ -348,7 +329,6 @@ function unlockIOSSpeech() {
   speechSynthesis.cancel();
 }
 
-/* iOS Safari フリーズ対策: speaking が stuck のままになるバグを検知してリセット */
 var ttsWatchdog = null;
 function startTTSWatchdog(expectedMs) {
   clearTimeout(ttsWatchdog);
@@ -360,6 +340,40 @@ function startTTSWatchdog(expectedMs) {
 }
 function clearTTSWatchdog() { clearTimeout(ttsWatchdog); }
 
+/* 途中から再開するためのボタン表示ロジック */
+function updateStartButtons() {
+  var sel = document.getElementById("unitSelect");
+  if (!sel) return;
+  var unit = sel.value;
+  var key = 'vocabResume_' + BOOK + '_' + unit;
+  var savedStr = null;
+  try { savedStr = localStorage.getItem(key); } catch(e) {}
+  
+  var btnStart = document.getElementById("btnStart");
+  var btnResume = document.getElementById("btnResume");
+  
+  if (savedStr) {
+    var savedIndex = parseInt(savedStr, 10);
+    if (savedIndex > 0) {
+      btnResume.style.display = "block";
+      btnResume.textContent = "続きから開始する (" + (savedIndex + 1) + "語目〜)";
+      btnStart.textContent = "初めから開始する";
+      btnStart.style.background = "#e8e6e1";
+      btnStart.style.color = "var(--ink)";
+    } else {
+      btnResume.style.display = "none";
+      btnStart.textContent = "学習を開始する →";
+      btnStart.style.background = "var(--ink)";
+      btnStart.style.color = "white";
+    }
+  } else {
+    btnResume.style.display = "none";
+    btnStart.textContent = "学習を開始する →";
+    btnStart.style.background = "var(--ink)";
+    btnStart.style.color = "white";
+  }
+}
+
 /* ══ Unit選択ドロップダウン初期化 ══ */
 (function() {
   document.getElementById("selectedBookName").textContent = "📘 " + bookInfo.name;
@@ -368,13 +382,14 @@ function clearTTSWatchdog() { clearTimeout(ttsWatchdog); }
   for (var u = UNIT_MIN; u <= UNIT_MAX; u++) {
     var opt = document.createElement("option");
     opt.value = u;
-    opt.textContent = unitRangeLabel(bookInfo, u);  /* ② 番号範囲付き */
+    opt.textContent = unitRangeLabel(bookInfo, u);
     if (u === defaultUnit) opt.selected = true;
     sel.appendChild(opt);
   }
+  sel.addEventListener("change", updateStartButtons);
+  updateStartButtons();
 })();
 
-/* ── データ読み込み ── */
 function loadUnit(unitNum, callback) {
   fetch("data/" + BOOK + "/unit" + unitNum + ".json")
     .then(function(r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
@@ -389,22 +404,33 @@ function loadUnit(unitNum, callback) {
       callback(true);
     })
     .catch(function() {
-      alert("Unit " + unitNum + " のデータを読み込めませんでした。\n（data/" + BOOK + "/unit" + unitNum + ".json が存在するか確認してください）");
+      alert("Unit " + unitNum + " のデータを読み込めませんでした。");
       callback(false);
     });
 }
 
-/* ── 開始 ── */
-function start() {
-  /* iOS Safari: ボタンタップのタイミングで音声をアンロック（同期実行必須）*/
+/* ★ resumeFlag (途中から再開するかどうか) を引数に追加 */
+function start(resumeFlag) {
   unlockIOSSpeech();
-
   currentUnit = parseInt(document.getElementById("unitSelect").value);
   autoSpeed   = parseInt(document.getElementById("revealSpeed").value);
+  
   loadUnit(currentUnit, function(success) {
     if (!success) return;
     if (!words || words.length === 0) { alert("データが空です。"); return; }
     resetState();
+    
+    if (resumeFlag) {
+      var key = 'vocabResume_' + BOOK + '_' + currentUnit;
+      var saved = 0;
+      try { saved = parseInt(localStorage.getItem(key), 10); } catch(e) {}
+      if (!isNaN(saved) && saved > 0 && saved < words.length) {
+        index = saved;
+      }
+    } else {
+      try { localStorage.removeItem('vocabResume_' + BOOK + '_' + currentUnit); } catch(e) {}
+    }
+
     document.getElementById("setupArea").classList.add("hidden");
     document.getElementById("studyArea").classList.remove("hidden");
     updateUnitLabel();
@@ -422,10 +448,6 @@ function updateUnitLabel() {
   document.getElementById("unitLabel").textContent = "Unit " + currentUnit;
 }
 
-/* ── 次の問題 ── */
-/* Android Chrome バグ対策:
-   cancel() の直後に speak() すると onend が発火しないことがある。
-   cancel → 50ms待機 → speak の順にすることで回避する。 */
 function next() {
   if (isPaused) return;
   clearTimeout(timer1); clearTimeout(timer2);
@@ -438,6 +460,12 @@ function nextCore() {
   if (index >= words.length && reviewQueue.length === 0) { showFinishScreen(); return; }
   current = reviewQueue.length > 0 ? reviewQueue.shift() : words[index++];
 
+  // ★ 進捗の保存 (次回は「いま表示した問題」から再開するようにする)
+  var saveIndex = reviewQueue.length > 0 ? index : Math.max(0, index - 1);
+  if (saveIndex > 0) {
+    try { localStorage.setItem('vocabResume_' + BOOK + '_' + currentUnit, saveIndex); } catch(e) {}
+  }
+
   document.getElementById("word").textContent    = current.word    || "";
   document.getElementById("pos").textContent     = current.pos     || "";
   document.getElementById("example").textContent = current.example || "";
@@ -449,9 +477,6 @@ function nextCore() {
   document.getElementById("progress").textContent     = index + " / " + words.length;
   document.getElementById("progressFill").style.width = Math.round((index / words.length) * 100) + "%";
 
-  /* ① 見出し語→例文 約400ms間隔
-     speak() の onend/onerror/watchdog のいずれかが必ずコールバックを呼ぶため
-     ここでは speak() に委ねるだけでよい */
   if (current.word) {
     speak(current.word, function() {
       if (current && current.example) {
@@ -466,28 +491,19 @@ function nextCore() {
   else { renderFlip(); }
 }
 
-/* ── ⑤ TTS (iOS/Android/PC 共通) ── */
 function speak(text, cb) {
   if (!text) { if (cb) cb(); return; }
   var u = new SpeechSynthesisUtterance(text);
   u.lang = "en-US";
   u.rate = 1.05;
   if (selectedVoice) u.voice = selectedVoice;
-  /* iOS フリーズ監視: 想定読み上げ時間+余裕でウォッチドッグを起動 */
   var expectedMs = Math.max(1500, text.length * 120);
   startTTSWatchdog(expectedMs);
-  u.onend = function() {
-    clearTTSWatchdog();
-    if (cb) cb();
-  };
-  u.onerror = function() {
-    clearTTSWatchdog();
-    if (cb) cb();  /* エラーでもコールバックを呼んで次へ進める */
-  };
+  u.onend = function() { clearTTSWatchdog(); if (cb) cb(); };
+  u.onerror = function() { clearTTSWatchdog(); if (cb) cb(); };
   speechSynthesis.speak(u);
 }
 
-/* ── 四択レンダリング ── */
 function renderQuiz() {
   var choices = [current.meaning];
   var pool = words.filter(function(w) { return w.meaning !== current.meaning && w.meaning; });
@@ -515,7 +531,6 @@ function renderQuiz() {
   }
 }
 
-/* ── 四択：回答 ── */
 function answerQuiz(selected, btn) {
   clearTimeout(timer1); clearTimeout(timer2);
   lockButtons(); totalCount++;
@@ -539,7 +554,6 @@ function highlightCorrectBtn() {
   });
 }
 
-/* ── ④ 例文訳表示（ハイライト強化版） ── */
 function showExampleJp() {
   var meanEl = document.getElementById("meaning");
   var jpText = current.example_jp || "";
@@ -556,19 +570,13 @@ function showExampleJp() {
 
 function buildHighlightedJp(jpText, meaning) {
   if (!meaning) return escHtml(jpText);
-
-  /* 区切り文字で分解して候補リストを作成 */
   var raw = meaning.split(/[／/・、,，\s]+/).map(function(s){ return s.trim(); }).filter(Boolean);
-
-  /* 活用語尾を除いた語根も候補に追加 */
   var extended = [];
   raw.forEach(function(c) {
     extended.push(c);
     var root = c.replace(/(する|した|して|される|させる|な|的|に|い|く)$/, "");
     if (root.length >= 2 && root !== c) extended.push(root);
   });
-
-  /* 長い順に試みる */
   extended.sort(function(a, b){ return b.length - a.length; });
 
   var html = escHtml(jpText);
@@ -604,7 +612,6 @@ function addNextButton() {
   area.appendChild(btn);
 }
 
-/* ── めくりモード ── */
 function renderFlip() {
   var area = document.getElementById("quizArea");
   area.style.display = "block"; area.innerHTML = "";
@@ -634,7 +641,6 @@ function flip() {
   if (autoSpeed > 0) { timer2 = setTimeout(next, 2000); }
 }
 
-/* ── 一時停止 ── */
 function togglePause() {
   isPaused = !isPaused;
   var btn = document.getElementById("pauseBtn");
@@ -642,15 +648,18 @@ function togglePause() {
     clearTimeout(timer1); clearTimeout(timer2); speechSynthesis.cancel();
     btn.textContent = "▶ 再開"; btn.style.background = "#d4edda"; btn.style.color = "var(--correct)";
   } else {
-    unlockIOSSpeech();  /* iOS: 再開タップでアンロック維持 */
+    unlockIOSSpeech();
     btn.textContent = "⏸ 一時停止"; btn.style.background = ""; btn.style.color = "";
     next();
   }
 }
 
-/* ── 終了画面 ── */
 function showFinishScreen() {
   speechSynthesis.cancel();
+  
+  // 学習が完了したので、再開用の履歴をクリアする
+  try { localStorage.removeItem('vocabResume_' + BOOK + '_' + currentUnit); } catch(e) {}
+
   var pct = totalCount ? Math.round((correctCount / totalCount) * 100) : 0;
   document.getElementById("finalScore").textContent = pct + "%";
   document.getElementById("finalMsg").textContent =
@@ -659,7 +668,7 @@ function showFinishScreen() {
                 "もう一度チャレンジして定着させましょう。";
 
   recordSessionWords(words.length);
-  recordSessionUnit(BOOK, bookInfo.name, currentUnit);  /* ③ */
+  recordSessionUnit(BOOK, bookInfo.name, currentUnit);
 
   var nextBtn = document.getElementById("nextUnitBtn");
   if (currentUnit >= UNIT_MAX) {
@@ -671,13 +680,13 @@ function showFinishScreen() {
 }
 
 function restart() {
-  unlockIOSSpeech();  /* iOS: タップに直結した呼び出しでアンロック維持 */
+  unlockIOSSpeech();
   document.getElementById("finishScreen").classList.add("hidden");
   resetState(); next();
 }
 
 function goNextUnit() {
-  unlockIOSSpeech();  /* iOS: タップに直結した呼び出しでアンロック維持 */
+  unlockIOSSpeech();
   if (currentUnit >= UNIT_MAX) return;
   var nextNum = currentUnit + 1;
   loadUnit(nextNum, function(success) {
@@ -697,6 +706,7 @@ function backToSetup() {
   document.getElementById("studyArea").classList.add("hidden");
   document.getElementById("finishScreen").classList.add("hidden");
   document.getElementById("setupArea").classList.remove("hidden");
+  updateStartButtons(); // 設定に戻った際にボタンを再評価
 }
 
 function updateAccuracy() {
@@ -704,7 +714,6 @@ function updateAccuracy() {
   document.getElementById("accuracy").textContent = "正答率 " + pct + "%";
 }
 
-/* ══ ③ 進捗トラッキング ══ */
 var PROGRESS_KEY     = "vocabProgress";
 var UNIT_HISTORY_KEY = "vocabUnitHistory";
 
@@ -723,7 +732,6 @@ function recordSessionWords(count) {
   saveProgress(p);
 }
 
-/* ③ Unit履歴を記録（最新50件） */
 function recordSessionUnit(bookKey, bookName, unitNum) {
   var history = getUnitHistory();
   var cfg = BOOK_CONFIG[bookKey] || { showRange: false };
@@ -768,7 +776,6 @@ function showProgressModal() {
   document.getElementById("progressModal").classList.remove("hidden");
 }
 
-/* ③ Unit履歴描画 */
 function renderUnitHistory() {
   var history = getUnitHistory();
   var container = document.getElementById("unitHistoryList");
@@ -829,12 +836,10 @@ function renderDonut(s) {
 }
 
 function closeProgressModal() { document.getElementById("progressModal").classList.add("hidden"); }
-
-/* ⑥ リセット関連コードは削除済み */
 </script>
 
 <footer style="text-align:center; margin-top:20px; padding-bottom:12px; font-size:0.70rem; color:#9aacb8; letter-spacing:0.06em;">
-  &copy;Copyright © 2026 Takumi Wakabayashi, Global Lingua Network.
+  &copy;Copyright 2026 Takumi Wakabayashi, Global Lingua Network.
 </footer>
 </body>
 </html>

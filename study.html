@@ -35,7 +35,6 @@
   select { width: 100%; padding: 11px 34px 11px 14px; margin-bottom: 12px; border-radius: 10px; border: 1.5px solid #ddd; font-size: 0.95rem; font-family: 'DM Sans', sans-serif; background: #fafafa; color: var(--ink); appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%234a6072' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 14px center; cursor: pointer; }
   select:focus { outline: none; border-color: var(--accent); }
   
-  /* 複数選択チェックボックスのスタイル */
   .unit-actions { display: flex; gap: 8px; margin-bottom: 8px; }
   .unit-actions button { padding: 5px 10px; font-size: 0.75rem; font-weight: 700; font-family: 'DM Sans', sans-serif; border-radius: 6px; border: 1.5px solid #ddd; background: #fff; cursor: pointer; color: var(--ink-soft); transition: background 0.15s; }
   .unit-actions button:hover { background: #f0ede6; }
@@ -154,7 +153,6 @@
   .mbank-btn.green { background: var(--correct); color: white; }
   .mbank-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 
-  /* ミス単語モード表示 */
   #modeJpEn1Hint { font-size: 0.75rem; color: var(--ink-soft); font-style: italic; margin-top: 4px; }
   #jpEnDisplay { font-family: 'Lora', serif; font-size: 1.0rem; color: var(--ink-soft); line-height: 1.7; margin-top: 6px; text-align: center; max-width: 400px; padding: 10px 16px; background: #f0ede6; border-radius: 10px; }
   #jpEnDisplay .jp-blank { display: inline-block; min-width: 60px; border-bottom: 2px solid var(--ink); font-weight: 700; color: var(--ink); }
@@ -171,7 +169,6 @@
   </div>
 </div>
 
-<!-- ══ 進捗モーダル ══ -->
 <div id="progressModal" class="hidden" onclick="if(event.target===this)closeProgressModal()">
   <div class="modal-box">
     <div class="modal-title">📊 学習進捗</div>
@@ -216,7 +213,6 @@
   </div>
 </div>
 
-<!-- ══ ミス単語バンク モーダル ══ -->
 <div id="mistakeBankModal" class="hidden" onclick="if(event.target===this)closeMistakeBank()">
   <div class="mbank-box">
     <div class="mbank-title">❌ ミス単語バンク</div>
@@ -225,7 +221,6 @@
       <div class="mbank-empty">まだミスした単語はありません</div>
     </div>
     
-    <!-- ★追加: ミス単語出題用の設定領域 -->
     <div id="mbankSettings" style="display:flex; gap:8px; margin-bottom:14px; display:none;">
       <div style="flex:1;">
         <label class="field-label" style="margin-top:0;">モード</label>
@@ -256,12 +251,10 @@
 
 <div class="container">
 
-  <!-- ══ 設定 ══ -->
   <div id="setupArea" class="card">
     <h3>学習の設定</h3>
     <div id="selectedBookName" style="font-size:0.85rem; color:var(--ink-soft); margin-bottom:16px; font-weight:700;">📘 読込中...</div>
 
-    <!-- 複数選択対応のユニット選択 -->
     <label class="field-label">ユニット選択 (複数可)</label>
     <div class="unit-actions">
       <button type="button" onclick="selectAllUnits(true)">全選択</button>
@@ -269,7 +262,6 @@
     </div>
     <div id="unitCheckList" class="checkbox-list"></div>
 
-    <!-- 出題順の選択 -->
     <label class="field-label">出題順</label>
     <select id="orderSelect" onchange="updateStartButtons()">
       <option value="sequential">順番通り</option>
@@ -291,7 +283,6 @@
       <option value="0">手動で次へ</option>
     </select>
 
-    <!-- ボタン群 -->
     <div id="startBtnContainer" style="display:flex; flex-direction:column; margin-bottom:10px;">
       <button class="btn-start" id="btnResume" onclick="start(true)" style="display:none; background:var(--accent);">続きから開始する</button>
       <button class="btn-start" id="btnStart" onclick="start(false)">初めから開始する →</button>
@@ -300,7 +291,6 @@
     <button class="btn-start" style="background:#e8e6e1; color:var(--ink);" onclick="location.href='index.html'">← 単語帳を選び直す</button>
   </div>
 
-  <!-- ══ 学習 ══ -->
   <div id="studyArea" class="hidden">
     <div class="progress-wrap">
       <div id="unitLabel">Unit —</div>
@@ -492,7 +482,6 @@ function selectAllUnits(check) {
   updateStartButtons();
 }
 
-/* スタートボタンの制御（レジューム判定） */
 function updateStartButtons() {
   var checkboxes = document.querySelectorAll("#unitCheckList input[type='checkbox']:checked");
   var btnStart = document.getElementById("btnStart");
@@ -508,7 +497,6 @@ function updateStartButtons() {
     btnStart.disabled = false;
   }
 
-  // 1つのユニット＆順番通りの時のみ「続きから開始」を有効化
   if (checkboxes.length === 1 && order === "sequential") {
     var unit = checkboxes[0].value;
     var key = 'vocabResume_' + BOOK + '_' + unit;
@@ -536,7 +524,6 @@ function updateStartButtons() {
       btnStart.style.color = "white";
     }
   } else {
-    // 複数選択 or ランダム選択時
     btnResume.style.display = "none";
     var countTxt = checkboxes.length > 1 ? " (" + checkboxes.length + "ユニット)" : "";
     btnStart.textContent = "学習を開始する" + countTxt + " →";
@@ -545,7 +532,6 @@ function updateStartButtons() {
   }
 }
 
-/* 複数ファイルの非同期読み込み */
 function loadMultipleUnits(units, callback) {
   var promises = units.map(function(u) {
     return fetch("data/" + BOOK + "/unit" + u + ".json")
@@ -590,7 +576,6 @@ function start(resumeFlag) {
     
     resetState();
     
-    // レジュームの適用（単一＆順番通りのみ）
     var isSingleSequential = (currentUnitArray.length === 1 && !isRandomMode);
     if (resumeFlag && isSingleSequential) {
       var key = 'vocabResume_' + BOOK + '_' + currentUnitArray[0];
@@ -646,7 +631,6 @@ function nextCore() {
   if (index >= words.length && reviewQueue.length === 0) { showFinishScreen(); return; }
   current = reviewQueue.length > 0 ? reviewQueue.shift() : words[index++];
 
-  // ★ 進捗（レジューム）の保存
   var saveIndex = reviewQueue.length > 0 ? index : Math.max(0, index - 1);
   if (saveIndex > 0 && !isMistakeBankMode && currentUnitArray.length === 1 && !isRandomMode) {
     try { localStorage.setItem('vocabResume_' + BOOK + '_' + currentUnitArray[0], saveIndex); } catch(e) {}
@@ -798,10 +782,138 @@ function buildHighlightedJp(jpText, meaning) {
   return html;
 }
 
+/* ══ 穴埋め用の文字列生成機能（不規則変化・熟語対応版） ══ */
+function getWordForms(word) {
+  var forms = new Set();
+  var w = word.toLowerCase().trim();
+  if (!w) return [];
+  
+  forms.add(w);
+  forms.add(w + "s");
+  forms.add(w + "es");
+  forms.add(w + "'s");
+  forms.add(w + "d");
+  forms.add(w + "ed");
+  forms.add(w + "ing");
+  
+  if (w.endsWith("y")) {
+    var base = w.slice(0, -1);
+    forms.add(base + "ies");
+    forms.add(base + "ied");
+  }
+  if (w.endsWith("e")) {
+    var base = w.slice(0, -1);
+    forms.add(base + "ing");
+  }
+  var lastChar = w.slice(-1);
+  if (/[a-z]/.test(lastChar)) {
+    forms.add(w + lastChar + "ed");
+    forms.add(w + lastChar + "ing");
+  }
+  if (w.endsWith("f")) {
+    forms.add(w.slice(0, -1) + "ves");
+  } else if (w.endsWith("fe")) {
+    forms.add(w.slice(0, -2) + "ves");
+  }
+
+  // 代表的な不規則動詞の変化系
+  var irregularVerbs = {
+    "be":["am","is","are","was","were","been"], "bear":["bore","born","borne"], "beat":["beat","beaten"],
+    "become":["became"], "begin":["began","begun"], "bite":["bit","bitten"], "blow":["blew","blown"],
+    "break":["broke","broken"], "bring":["brought"], "build":["built"], "buy":["bought"], "catch":["caught"],
+    "choose":["chose","chosen"], "come":["came"], "cost":["cost"], "cut":["cut"], "deal":["dealt"],
+    "dig":["dug"], "do":["did","done","does"], "draw":["drew","drawn"], "drink":["drank","drunk"],
+    "drive":["drove","driven"], "eat":["ate","eaten"], "fall":["fell","fallen"], "feed":["fed"],
+    "feel":["felt"], "fight":["fought"], "find":["found"], "fly":["flew","flown"], "forget":["forgot","forgotten"],
+    "forgive":["forgave","forgiven"], "freeze":["froze","frozen"], "get":["got","gotten"], "give":["gave","given"],
+    "go":["went","gone","goes"], "grow":["grew","grown"], "hang":["hung"], "have":["had","has"], "hear":["heard"],
+    "hide":["hid","hidden"], "hit":["hit"], "hold":["held"], "hurt":["hurt"], "keep":["kept"], "know":["knew","known"],
+    "lay":["laid"], "lead":["led"], "leave":["left"], "lend":["lent"], "let":["let"], "lie":["lay","lain"],
+    "lose":["lost"], "make":["made"], "mean":["meant"], "meet":["met"], "pay":["paid"], "put":["put"],
+    "read":["read"], "ride":["rode","ridden"], "ring":["rang","rung"], "rise":["rose","risen"], "run":["ran"],
+    "say":["said"], "see":["saw","seen"], "sell":["sold"], "send":["sent"], "set":["set"], "shake":["shook","shaken"],
+    "shoot":["shot"], "show":["showed","shown"], "shut":["shut"], "sing":["sang","sung"], "sink":["sank","sunk"],
+    "sit":["sat"], "sleep":["slept"], "speak":["spoke","spoken"], "spend":["spent"], "spin":["spun"],
+    "stand":["stood"], "steal":["stole","stolen"], "stick":["stuck"], "strike":["struck"], "swear":["swore","sworn"],
+    "sweep":["swept"], "swim":["swam","swum"], "take":["took","taken"], "teach":["taught"], "tear":["tore","torn"],
+    "tell":["told"], "think":["thought"], "throw":["threw","thrown"], "understand":["understood"], "wake":["woke","woken"],
+    "wear":["wore","worn"], "win":["won"], "write":["wrote","written"]
+  };
+
+  if (irregularVerbs[w]) {
+    irregularVerbs[w].forEach(function(v) { forms.add(v); });
+  }
+  
+  return Array.from(forms);
+}
+
 function buildExampleBlank(example, word) {
   if (!example || !word) return example || "";
-  var pattern = new RegExp("\\b" + word.replace(/[.*+?^${}()|[\]\\]/g,"\\$&") + "(?:s|ed|ing|d|es|'s)?" + "\\b", "i");
-  return example.replace(pattern, "______");
+  
+  // 括弧などを除去したクリーンな見出し語 (例: "(to) take" -> "take")
+  var cleanW = word.replace(/\s*\(.*?\)\s*/g, " ").trim();
+  if (!cleanW) cleanW = word.trim();
+
+  // 見出し語が複数の単語からなる熟語/フレーズかどうか
+  var wordsInPhrase = cleanW.split(/(\s+)/); // スペースを保持
+  var candidateForms = [];
+
+  if (wordsInPhrase.length === 1) {
+    candidateForms = getWordForms(cleanW);
+  } else {
+    // 最初の単語を変化させたパターン (例: "take care of" -> "took care of")
+    var firstWord = wordsInPhrase[0];
+    var firstForms = getWordForms(firstWord);
+    var rest = wordsInPhrase.slice(1).join("");
+    firstForms.forEach(function(f) { candidateForms.push(f + rest); });
+    
+    // 全体をそのまま（または末尾にs等をつけたパターン）も追加
+    candidateForms = candidateForms.concat(getWordForms(cleanW));
+  }
+
+  // 長い文字列から先にマッチを試みる（部分一致の誤爆防止）
+  candidateForms.sort(function(a, b) { return b.length - a.length; });
+
+  for (var i = 0; i < candidateForms.length; i++) {
+    var cand = candidateForms[i];
+    var escaped = cand.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    var pattern = new RegExp("\\b" + escaped + "\\b", "i");
+    if (pattern.test(example)) {
+      return example.replace(pattern, "______");
+    }
+  }
+
+  // どうしても見つからない場合、単語境界を外した部分一致許容で試す
+  var escapedWord = cleanW.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  var fallbackPattern = new RegExp("\\b" + escapedWord + "(?:s|es|ed|d|ing|'s)?", "i");
+  if (fallbackPattern.test(example)) {
+    return example.replace(fallbackPattern, "______");
+  }
+
+  // 最終手段: 単語の最初の3文字以上が一致し、長さが近い単語を置換（前方一致推測）
+  var firstWordFallback = wordsInPhrase[0];
+  if (firstWordFallback.length >= 3) {
+    var prefix = firstWordFallback.substring(0, 3).toLowerCase();
+    var wordsInExample = example.match(/\b[A-Za-z]+\b/g) || [];
+    for (var j = 0; j < wordsInExample.length; j++) {
+      var w = wordsInExample[j];
+      if (w.toLowerCase().startsWith(prefix)) {
+        if (Math.abs(w.length - firstWordFallback.length) <= 3) {
+          if (wordsInPhrase.length === 1) {
+            return example.replace(new RegExp("\\b" + w + "\\b", "i"), "______");
+          } else {
+            var escapedRest = wordsInPhrase.slice(1).join("").replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+            var phrasePattern = new RegExp("\\b" + w + escapedRest + "\\b", "i");
+            if (phrasePattern.test(example)) {
+              return example.replace(phrasePattern, "______");
+            }
+          }
+        }
+      }
+    }
+  }
+
+  return example;
 }
 
 function buildHighlightedJpBlank(jpText, meaning) { return buildHighlightedJp(jpText, meaning); }
@@ -850,7 +962,6 @@ function answerJpEnQuiz(selected, btn) {
   meanEl.classList.remove("invisible");
   updateAccuracy();
   
-  // ★追加: 正解後に例文(なければ英単語)を読み上げる
   if (current.example) {
     speak(current.example, null);
   } else if (current.word) {
@@ -874,7 +985,6 @@ function autoRevealJpEnQuiz() {
   meanEl.textContent = current.example || current.word || "";
   meanEl.classList.remove("invisible");
   
-  // ★追加: 自動で答えが表示された際も例文(なければ英単語)を読み上げる
   if (current.example) {
     speak(current.example, null);
   } else if (current.word) {
@@ -1022,7 +1132,6 @@ var PROGRESS_KEY     = "vocabProgress";
 var UNIT_HISTORY_KEY = "vocabUnitHistory";
 var MISTAKE_BANK_KEY = "vocabMistakeBank";
 
-/* ══ ミス単語バンク・進捗管理等 ══ */
 function getMistakeBank() { try { var r = localStorage.getItem(MISTAKE_BANK_KEY); if (r) return JSON.parse(r); } catch(e) {} return []; }
 function saveMistakeBank(bank) { try { localStorage.setItem(MISTAKE_BANK_KEY, JSON.stringify(bank)); } catch(e) {} }
 
@@ -1050,7 +1159,6 @@ function clearAllMistakes() {
 }
 
 function showMistakeBank() { 
-  // ★ メイン画面の設定をモーダル内に初期反映
   var mainMode = document.getElementById("mode").value;
   var mainSpeed = document.getElementById("revealSpeed").value;
   var mbMode = document.getElementById("mbankMode");
@@ -1070,7 +1178,6 @@ function renderMistakeBankList() {
   document.getElementById("mbankStudyBtn").disabled = bank.length === 0;
   document.getElementById("mbankClearAllBtn").disabled = bank.length === 0;
   
-  // ★ リストが空のときは設定UIを隠す
   var settingsEl = document.getElementById("mbankSettings");
   if(settingsEl) {
     settingsEl.style.display = bank.length === 0 ? "none" : "flex";
@@ -1093,7 +1200,6 @@ function startMistakeBankStudy() {
   var bank = getMistakeBank();
   if (!bank.length) { alert("ミス単語がありません。"); return; }
   
-  // ★ モーダル内で選んだ設定をメインのselectに代入して適用
   document.getElementById("mode").value = document.getElementById("mbankMode").value;
   document.getElementById("revealSpeed").value = document.getElementById("mbankSpeed").value;
 

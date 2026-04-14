@@ -110,6 +110,35 @@
   .uh-unit { color: var(--accent); font-weight: 700; white-space: nowrap; flex-shrink: 0; }
   .uh-date { color: var(--ink-soft); font-size: 0.66rem; white-space: nowrap; flex-shrink: 0; }
   .unit-history-empty { padding: 14px; text-align: center; color: var(--ink-soft); font-size: 0.80rem; }
+
+  /* ══ ミス単語バンク ══ */
+  #mistakeBankModal { position: fixed; inset: 0; z-index: 200; background: rgba(28,43,58,0.55); backdrop-filter: blur(4px); display: flex; justify-content: center; align-items: center; padding: 16px; }
+  .mbank-box { background: var(--card-bg); border-radius: var(--radius); padding: 22px 18px 18px; max-width: 440px; width: 100%; box-shadow: 0 8px 40px rgba(28,43,58,0.28); position: relative; max-height: 88vh; display: flex; flex-direction: column; }
+  .mbank-box::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, var(--wrong), #e07b00); border-radius: var(--radius) var(--radius) 0 0; }
+  .mbank-title { font-family: 'Lora', serif; font-size: 1.05rem; font-weight: 700; color: var(--ink); margin-bottom: 4px; letter-spacing: 0.02em; }
+  .mbank-count { font-size: 0.76rem; color: var(--ink-soft); margin-bottom: 14px; }
+  .mbank-count span { font-weight: 700; color: var(--wrong); }
+  .mbank-list { flex: 1; overflow-y: auto; border: 1px solid #e8e6e1; border-radius: 10px; margin-bottom: 14px; }
+  .mbank-empty { padding: 20px; text-align: center; color: var(--ink-soft); font-size: 0.82rem; }
+  .mbank-item { display: flex; align-items: center; gap: 10px; padding: 10px 12px; border-bottom: 1px solid #f0ede6; }
+  .mbank-item:last-child { border-bottom: none; }
+  .mbank-word { font-family: 'Lora', serif; font-weight: 700; font-size: 1.0rem; color: var(--ink); min-width: 110px; flex-shrink: 0; }
+  .mbank-meaning { font-size: 0.78rem; color: var(--ink-soft); flex: 1; line-height: 1.4; }
+  .mbank-book-tag { font-size: 0.60rem; font-weight: 700; background: var(--bg); color: var(--ink-soft); border-radius: 5px; padding: 2px 6px; white-space: nowrap; flex-shrink: 0; }
+  .mbank-del { background: none; border: 1.5px solid #e0ddd8; border-radius: 6px; cursor: pointer; font-size: 0.70rem; color: var(--wrong); padding: 3px 8px; font-weight: 700; flex-shrink: 0; transition: background 0.12s; }
+  .mbank-del:hover { background: #fdecea; }
+  .mbank-actions { display: flex; gap: 8px; }
+  .mbank-btn { flex: 1; padding: 11px; border: none; border-radius: 10px; font-weight: 700; font-family: 'DM Sans', sans-serif; font-size: 0.84rem; cursor: pointer; transition: opacity 0.15s; }
+  .mbank-btn:hover { opacity: 0.85; }
+  .mbank-btn.red   { background: var(--wrong); color: white; }
+  .mbank-btn.gray  { background: #e8e6e1; color: var(--ink); }
+  .mbank-btn.green { background: var(--correct); color: white; }
+  .mbank-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+  /* ミス単語モード表示 */
+  #modeJpEn1Hint { font-size: 0.75rem; color: var(--ink-soft); font-style: italic; margin-top: 4px; }
+  #jpEnDisplay { font-family: 'Lora', serif; font-size: 1.0rem; color: var(--ink-soft); line-height: 1.7; margin-top: 6px; text-align: center; max-width: 400px; padding: 10px 16px; background: #f0ede6; border-radius: 10px; }
+  #jpEnDisplay .jp-blank { display: inline-block; min-width: 60px; border-bottom: 2px solid var(--ink); font-weight: 700; color: var(--ink); }
 </style>
 </head>
 <body>
@@ -118,6 +147,7 @@
   <div class="logo">Vocab<span>★</span>Master</div>
   <div style="display:flex;gap:8px;align-items:center;">
     <button id="progressBtn" onclick="showProgressModal()">📊 進捗</button>
+    <button id="mistakeBankBtn" onclick="showMistakeBank()" style="font-size:0.82rem;font-weight:700;background:var(--wrong);color:#fff;padding:4px 12px;border-radius:20px;letter-spacing:0.04em;border:none;cursor:pointer;font-family:'DM Sans',sans-serif;transition:background 0.15s;">❌ ミス</button>
     <div id="accuracy">正答率 —</div>
   </div>
 </div>
@@ -167,6 +197,22 @@
   </div>
 </div>
 
+<!-- ══ ミス単語バンク モーダル ══ -->
+<div id="mistakeBankModal" class="hidden" onclick="if(event.target===this)closeMistakeBank()">
+  <div class="mbank-box">
+    <div class="mbank-title">❌ ミス単語バンク</div>
+    <div class="mbank-count">蓄積数：<span id="mbankCountNum">0</span> 語　（全単語帳・横断）</div>
+    <div class="mbank-list" id="mbankList">
+      <div class="mbank-empty">まだミスした単語はありません</div>
+    </div>
+    <div class="mbank-actions">
+      <button class="mbank-btn green" id="mbankStudyBtn" onclick="startMistakeBankStudy()" disabled>🔁 ミスのみ練習</button>
+      <button class="mbank-btn gray" onclick="closeMistakeBank()">閉じる</button>
+      <button class="mbank-btn red" id="mbankClearAllBtn" onclick="clearAllMistakes()" disabled>全削除</button>
+    </div>
+  </div>
+</div>
+
 <div class="container">
 
   <!-- ══ 設定 ══ -->
@@ -179,7 +225,9 @@
 
     <label class="field-label">学習モード</label>
     <select id="mode">
-      <option value="quiz">四択クイズ</option>
+      <option value="quiz">四択クイズ（英語→日本語）</option>
+      <option value="jpen1">JP→EN 穴埋め（例文空欄）</option>
+      <option value="jpen2">JP→EN 全文（日本語→英単語）</option>
       <option value="flash">カードめくり</option>
     </select>
 
@@ -212,6 +260,7 @@
         <div id="pos"></div>
         <h2 id="word"></h2>
         <p id="example"></p>
+        <div id="jpEnDisplay" class="hidden"></div>
         <div id="meaning" class="invisible"></div>
       </div>
 
@@ -222,6 +271,7 @@
         <p id="finalMsg"></p>
         <button class="btn-finish green" onclick="restart()">もう一度このユニット</button>
         <button class="btn-finish blue"  id="nextUnitBtn" onclick="goNextUnit()">次のユニットへ →</button>
+        <button class="btn-finish" style="background:#fdecea;color:var(--wrong);" onclick="showMistakeBank()">❌ ミス単語を確認</button>
         <button class="btn-finish gray"  onclick="backToSetup()">設定に戻る</button>
       </div>
     </div>
@@ -237,6 +287,21 @@
 </div>
 
 <script>
+/* ══ ユーティリティ関数 ══ */
+function escHtml(str) {
+  if (typeof str !== 'string') return str;
+  return str.replace(/[&'`"<>]/g, function(match) {
+    return {
+      '&': '&amp;',
+      "'": '&#x27;',
+      '`': '&#x60;',
+      '"': '&quot;',
+      '<': '&lt;',
+      '>': '&gt;'
+    }[match];
+  });
+}
+
 /* ══ ② 単語帳設定（Unit構成・見出し語番号範囲） ══ */
 /* ※語法・基本動詞・多義語・論理マーカーの unitCount を 1 に変更しました */
 var BOOK_CONFIG = {
@@ -276,6 +341,7 @@ var timer2       = null;
 var isPaused     = false;
 var autoSpeed    = 5000;
 var currentUnit  = 1;
+var isMistakeBankMode = false;
 
 /* ══ ⑤ 最適英語音声の自動選択 ══ */
 var selectedVoice = null;
@@ -460,15 +526,37 @@ function nextCore() {
   if (index >= words.length && reviewQueue.length === 0) { showFinishScreen(); return; }
   current = reviewQueue.length > 0 ? reviewQueue.shift() : words[index++];
 
-  // ★ 進捗の保存 (次回は「いま表示した問題」から再開するようにする)
+  // ★ 進捗の保存
   var saveIndex = reviewQueue.length > 0 ? index : Math.max(0, index - 1);
-  if (saveIndex > 0) {
+  if (saveIndex > 0 && !isMistakeBankMode) {
     try { localStorage.setItem('vocabResume_' + BOOK + '_' + currentUnit, saveIndex); } catch(e) {}
   }
 
-  document.getElementById("word").textContent    = current.word    || "";
-  document.getElementById("pos").textContent     = current.pos     || "";
-  document.getElementById("example").textContent = current.example || "";
+  var modeVal = document.getElementById("mode").value;
+  var jpEnDisp = document.getElementById("jpEnDisplay");
+  jpEnDisp.classList.add("hidden");
+
+  if (modeVal === "jpen1") {
+    // JP→EN 穴埋め：英語例文の空欄 + 日本語例文（見出し語ハイライト）
+    var exampleBlank = buildExampleBlank(current.example, current.word);
+    document.getElementById("word").textContent    = "";
+    document.getElementById("pos").textContent     = current.pos || "";
+    document.getElementById("example").textContent = exampleBlank;
+    jpEnDisp.innerHTML = buildHighlightedJpBlank(current.example_jp || current.meaning || "", current.meaning);
+    jpEnDisp.classList.remove("hidden");
+  } else if (modeVal === "jpen2") {
+    // JP→EN 全文：日本語全文を見て英語見出し語を答える
+    document.getElementById("word").textContent    = "";
+    document.getElementById("pos").textContent     = current.pos || "";
+    document.getElementById("example").textContent = "";
+    jpEnDisp.innerHTML = escHtml(current.example_jp || current.meaning || "（日本語訳なし）");
+    jpEnDisp.classList.remove("hidden");
+  } else {
+    // 通常モード（quiz / flash）
+    document.getElementById("word").textContent    = current.word    || "";
+    document.getElementById("pos").textContent     = current.pos     || "";
+    document.getElementById("example").textContent = current.example || "";
+  }
 
   var meanEl = document.getElementById("meaning");
   meanEl.textContent = current.example_jp || current.meaning || "";
@@ -477,18 +565,22 @@ function nextCore() {
   document.getElementById("progress").textContent     = index + " / " + words.length;
   document.getElementById("progressFill").style.width = Math.round((index / words.length) * 100) + "%";
 
-  if (current.word) {
-    speak(current.word, function() {
-      if (current && current.example) {
-        setTimeout(function() { speak(current.example, null); }, 400);
-      }
-    });
-  } else if (current && current.example) {
-    speak(current.example, null);
+  if (modeVal === "jpen1" || modeVal === "jpen2") {
+    // JP→ENモードでは英語TTS不要（英語が問い）
+    renderJpEnQuiz();
+  } else {
+    if (current.word) {
+      speak(current.word, function() {
+        if (current && current.example) {
+          setTimeout(function() { speak(current.example, null); }, 400);
+        }
+      });
+    } else if (current && current.example) {
+      speak(current.example, null);
+    }
+    if (modeVal === "quiz") { renderQuiz(); }
+    else { renderFlip(); }
   }
-
-  if (document.getElementById("mode").value === "quiz") { renderQuiz(); }
-  else { renderFlip(); }
 }
 
 function speak(text, cb) {
@@ -536,7 +628,7 @@ function answerQuiz(selected, btn) {
   lockButtons(); totalCount++;
   var isCorrect = (selected === current.meaning);
   if (isCorrect) { correctCount++; btn.classList.add("correct"); }
-  else { btn.classList.add("wrong"); reviewQueue.push(current); highlightCorrectBtn(); }
+  else { btn.classList.add("wrong"); reviewQueue.push(current); addMistakeToBank(current); highlightCorrectBtn(); }
   showExampleJp();
   updateAccuracy();
   if (autoSpeed === 0) { addNextButton(); }
@@ -544,7 +636,7 @@ function answerQuiz(selected, btn) {
 }
 
 function autoRevealQuiz() {
-  totalCount++; reviewQueue.push(current); updateAccuracy();
+  totalCount++; reviewQueue.push(current); addMistakeToBank(current); updateAccuracy();
   lockButtons(); highlightCorrectBtn(); showExampleJp();
 }
 
@@ -595,9 +687,77 @@ function buildHighlightedJp(jpText, meaning) {
   return html;
 }
 
-function escHtml(s) {
-  if (!s) return "";
-  return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+/* 英語例文の見出し語を ______ に置換 */
+function buildExampleBlank(example, word) {
+  if (!example || !word) return example || "";
+  var pattern = new RegExp("\\b" + word.replace(/[.*+?^${}()|[\]\\]/g,"\\$&") + "(?:s|ed|ing|d|es|'s)?" + "\\b", "i");
+  return example.replace(pattern, "______");
+}
+
+/* 日本語例文の見出し語訳をハイライト（穴埋めモード用 - buildHighlightedJp と同ロジック） */
+function buildHighlightedJpBlank(jpText, meaning) { return buildHighlightedJp(jpText, meaning); }
+
+/* JP→EN クイズ（見出し語を四択で答える） */
+function renderJpEnQuiz() {
+  var choices = [current.word];
+  var pool = words.filter(function(w) { return w.word !== current.word && w.word; });
+  pool.sort(function() { return Math.random() - 0.5; });
+  for (var i = 0; i < pool.length && choices.length < 4; i++) {
+    if (!choices.includes(pool[i].word)) choices.push(pool[i].word);
+  }
+  // プールが足りない場合のダミー
+  var dummies = ["avoid","obtain","achieve","present","conduct","reflect","require","provide","suggest","maintain"];
+  dummies.sort(function() { return Math.random() - 0.5; });
+  for (var j = 0; j < dummies.length && choices.length < 4; j++) {
+    if (!choices.includes(dummies[j])) choices.push(dummies[j]);
+  }
+  choices.sort(function() { return Math.random() - 0.5; });
+
+  var area = document.getElementById("quizArea");
+  area.style.display = "grid"; area.innerHTML = "";
+  choices.forEach(function(c) {
+    var btn = document.createElement("button");
+    btn.className = "ans-btn"; btn.textContent = c;
+    (function(choice, el) { el.addEventListener("click", function() { answerJpEnQuiz(choice, el); }); })(c, btn);
+    area.appendChild(btn);
+  });
+  if (autoSpeed > 0) {
+    timer1 = setTimeout(function() { autoRevealJpEnQuiz(); timer2 = setTimeout(next, 2500); }, autoSpeed);
+  }
+}
+
+function answerJpEnQuiz(selected, btn) {
+  clearTimeout(timer1); clearTimeout(timer2);
+  lockButtons(); totalCount++;
+  var isCorrect = (selected === current.word);
+  if (isCorrect) {
+    correctCount++; btn.classList.add("correct");
+  } else {
+    btn.classList.add("wrong");
+    reviewQueue.push(current);
+    addMistakeToBank(current);
+    document.querySelectorAll(".ans-btn").forEach(function(b) {
+      if (b.textContent === current.word && !b.classList.contains("wrong")) b.classList.add("reveal-correct");
+    });
+  }
+  // 正解後は英語例文を表示
+  var meanEl = document.getElementById("meaning");
+  meanEl.textContent = current.example || current.word || "";
+  meanEl.classList.remove("invisible");
+  updateAccuracy();
+  if (autoSpeed === 0) { addNextButton(); }
+  else { timer2 = setTimeout(next, isCorrect ? 1200 : 2800); }
+}
+
+function autoRevealJpEnQuiz() {
+  totalCount++; reviewQueue.push(current); addMistakeToBank(current); updateAccuracy();
+  lockButtons();
+  document.querySelectorAll(".ans-btn").forEach(function(b) {
+    if (b.textContent === current.word) b.classList.add("reveal-correct");
+  });
+  var meanEl = document.getElementById("meaning");
+  meanEl.textContent = current.example || current.word || "";
+  meanEl.classList.remove("invisible");
 }
 
 function lockButtons() { document.querySelectorAll(".ans-btn").forEach(function(b){ b.disabled = true; }); }
@@ -657,8 +817,9 @@ function togglePause() {
 function showFinishScreen() {
   speechSynthesis.cancel();
   
-  // 学習が完了したので、再開用の履歴をクリアする
-  try { localStorage.removeItem('vocabResume_' + BOOK + '_' + currentUnit); } catch(e) {}
+  if (!isMistakeBankMode) {
+    try { localStorage.removeItem('vocabResume_' + BOOK + '_' + currentUnit); } catch(e) {}
+  }
 
   var pct = totalCount ? Math.round((correctCount / totalCount) * 100) : 0;
   document.getElementById("finalScore").textContent = pct + "%";
@@ -667,11 +828,15 @@ function showFinishScreen() {
     pct >= 70 ? "よくできました。苦手な単語を復習しましょう。" :
                 "もう一度チャレンジして定着させましょう。";
 
-  recordSessionWords(words.length);
-  recordSessionUnit(BOOK, bookInfo.name, currentUnit);
+  if (!isMistakeBankMode) {
+    recordSessionWords(words.length);
+    recordSessionUnit(BOOK, bookInfo.name, currentUnit);
+  }
 
   var nextBtn = document.getElementById("nextUnitBtn");
-  if (currentUnit >= UNIT_MAX) {
+  if (isMistakeBankMode) {
+    nextBtn.disabled = true; nextBtn.textContent = "ミス復習モード";
+  } else if (currentUnit >= UNIT_MAX) {
     nextBtn.disabled = true; nextBtn.textContent = "最終ユニット完了！";
   } else {
     nextBtn.disabled = false; nextBtn.textContent = "次へ Unit " + (currentUnit + 1) + " →";
@@ -700,13 +865,13 @@ function goNextUnit() {
 
 function backToSetup() {
   clearTimeout(timer1); clearTimeout(timer2); speechSynthesis.cancel();
-  isPaused = false;
+  isPaused = false; isMistakeBankMode = false;
   var pb = document.getElementById("pauseBtn");
   pb.textContent = "⏸ 一時停止"; pb.style.background = ""; pb.style.color = "";
   document.getElementById("studyArea").classList.add("hidden");
   document.getElementById("finishScreen").classList.add("hidden");
   document.getElementById("setupArea").classList.remove("hidden");
-  updateStartButtons(); // 設定に戻った際にボタンを再評価
+  updateStartButtons();
 }
 
 function updateAccuracy() {
@@ -716,6 +881,102 @@ function updateAccuracy() {
 
 var PROGRESS_KEY     = "vocabProgress";
 var UNIT_HISTORY_KEY = "vocabUnitHistory";
+var MISTAKE_BANK_KEY = "vocabMistakeBank";
+
+/* ══ ミス単語バンク ══ */
+function getMistakeBank() {
+  try { var r = localStorage.getItem(MISTAKE_BANK_KEY); if (r) return JSON.parse(r); } catch(e) {}
+  return [];
+}
+function saveMistakeBank(bank) { try { localStorage.setItem(MISTAKE_BANK_KEY, JSON.stringify(bank)); } catch(e) {} }
+
+function addMistakeToBank(wordObj) {
+  if (!wordObj || !wordObj.word) return;
+  var bank = getMistakeBank();
+  // 重複チェック（同じ単語・同じ単語帳）
+  var exists = bank.some(function(m) { return m.word === wordObj.word && m.bookKey === BOOK; });
+  if (!exists) {
+    bank.push({
+      word:       wordObj.word,
+      pos:        wordObj.pos        || "",
+      meaning:    wordObj.meaning    || "",
+      example:    wordObj.example    || "",
+      example_jp: wordObj.example_jp || "",
+      bookKey:    BOOK,
+      bookName:   bookInfo.name,
+      addedAt:    todayKey()
+    });
+    if (bank.length > 500) bank = bank.slice(bank.length - 500);
+    saveMistakeBank(bank);
+  }
+}
+
+function removeMistakeFromBank(word, bookKey) {
+  var bank = getMistakeBank();
+  bank = bank.filter(function(m) { return !(m.word === word && m.bookKey === bookKey); });
+  saveMistakeBank(bank);
+  renderMistakeBankList();
+}
+
+function clearAllMistakes() {
+  if (!confirm("ミス単語バンクをすべて削除しますか？")) return;
+  try { localStorage.removeItem(MISTAKE_BANK_KEY); } catch(e) {}
+  renderMistakeBankList();
+}
+
+function showMistakeBank() {
+  renderMistakeBankList();
+  document.getElementById("mistakeBankModal").classList.remove("hidden");
+}
+function closeMistakeBank() { document.getElementById("mistakeBankModal").classList.add("hidden"); }
+
+function renderMistakeBankList() {
+  var bank = getMistakeBank();
+  document.getElementById("mbankCountNum").textContent = bank.length;
+  var studyBtn = document.getElementById("mbankStudyBtn");
+  var clearBtn = document.getElementById("mbankClearAllBtn");
+  studyBtn.disabled = bank.length === 0;
+  clearBtn.disabled = bank.length === 0;
+
+  var listEl = document.getElementById("mbankList");
+  listEl.innerHTML = "";
+  if (!bank.length) {
+    listEl.innerHTML = '<div class="mbank-empty">まだミスした単語はありません 🎉</div>';
+    return;
+  }
+  bank.forEach(function(m) {
+    var row  = document.createElement("div"); row.className = "mbank-item";
+    var wdEl = document.createElement("div"); wdEl.className = "mbank-word"; wdEl.textContent = m.word;
+    var mnEl = document.createElement("div"); mnEl.className = "mbank-meaning";
+    mnEl.textContent = (m.meaning || "") + (m.example_jp ? "　" + m.example_jp : "");
+    var tagEl = document.createElement("div"); tagEl.className = "mbank-book-tag";
+    tagEl.textContent = m.bookName ? m.bookName.replace("英単語","").replace("（","(").replace("）",")") : m.bookKey;
+    var delBtn = document.createElement("button"); delBtn.className = "mbank-del"; delBtn.textContent = "✓ 覚えた";
+    (function(word, bookKey) {
+      delBtn.addEventListener("click", function() { removeMistakeFromBank(word, bookKey); });
+    })(m.word, m.bookKey);
+    row.appendChild(wdEl); row.appendChild(mnEl); row.appendChild(tagEl); row.appendChild(delBtn);
+    listEl.appendChild(row);
+  });
+}
+
+function startMistakeBankStudy() {
+  var bank = getMistakeBank();
+  if (!bank.length) { alert("ミス単語がありません。"); return; }
+  closeMistakeBank();
+  isMistakeBankMode = true;
+  words = bank.map(function(m) { return {
+    word: m.word, pos: m.pos, meaning: m.meaning,
+    example: m.example, example_jp: m.example_jp
+  }; });
+  words.sort(function() { return Math.random() - 0.5; });
+  resetState();
+  document.getElementById("setupArea").classList.add("hidden");
+  document.getElementById("studyArea").classList.remove("hidden");
+  document.getElementById("unitLabel").textContent = "❌ ミス復習";
+  autoSpeed = parseInt(document.getElementById("revealSpeed").value);
+  if (!selectedVoice) { initVoice(function() { next(); }); } else { next(); }
+}
 
 function getProgress() {
   try { var r = localStorage.getItem(PROGRESS_KEY); if (r) return JSON.parse(r); } catch(e) {}

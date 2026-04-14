@@ -30,23 +30,39 @@
   .card { background: var(--card-bg); border-radius: var(--radius); padding: 24px 22px 20px; box-shadow: var(--shadow); position: relative; overflow: hidden; margin-bottom: 14px; }
   .card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, var(--gold), var(--accent)); }
   #setupArea h3 { font-family: 'Lora', serif; font-size: 1.05rem; color: var(--ink-soft); margin-bottom: 6px; letter-spacing: 0.03em; }
-  label.field-label { display: block; font-size: 0.70rem; font-weight: 700; letter-spacing: 0.08em; color: var(--ink-soft); text-transform: uppercase; margin-bottom: 6px; }
-  select { width: 100%; padding: 11px 34px 11px 14px; margin-bottom: 16px; border-radius: 10px; border: 1.5px solid #ddd; font-size: 0.95rem; font-family: 'DM Sans', sans-serif; background: #fafafa; color: var(--ink); appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%234a6072' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 14px center; cursor: pointer; }
+  
+  label.field-label { display: block; font-size: 0.70rem; font-weight: 700; letter-spacing: 0.08em; color: var(--ink-soft); text-transform: uppercase; margin-bottom: 6px; margin-top: 12px; }
+  select { width: 100%; padding: 11px 34px 11px 14px; margin-bottom: 12px; border-radius: 10px; border: 1.5px solid #ddd; font-size: 0.95rem; font-family: 'DM Sans', sans-serif; background: #fafafa; color: var(--ink); appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%234a6072' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 14px center; cursor: pointer; }
   select:focus { outline: none; border-color: var(--accent); }
-  .btn-start { width: 100%; padding: 15px; background: var(--ink); color: white; border: none; border-radius: 12px; font-size: 1rem; font-weight: 700; font-family: 'DM Sans', sans-serif; cursor: pointer; letter-spacing: 0.04em; transition: background 0.18s, transform 0.12s; }
-  .btn-start:hover { background: var(--accent); }
-  .btn-start:active { transform: scale(0.98); }
+  
+  /* 追加: 複数選択チェックボックスのスタイル */
+  .unit-actions { display: flex; gap: 8px; margin-bottom: 8px; }
+  .unit-actions button { padding: 5px 10px; font-size: 0.75rem; font-weight: 700; font-family: 'DM Sans', sans-serif; border-radius: 6px; border: 1.5px solid #ddd; background: #fff; cursor: pointer; color: var(--ink-soft); transition: background 0.15s; }
+  .unit-actions button:hover { background: #f0ede6; }
+  .checkbox-list { max-height: 180px; overflow-y: auto; border: 1.5px solid #ddd; border-radius: 10px; padding: 6px; background: #fafafa; margin-bottom: 12px; }
+  .checkbox-item { display: flex; align-items: center; gap: 10px; padding: 8px; border-bottom: 1px solid #eee; font-size: 0.9rem; color: var(--ink); cursor: pointer; transition: background 0.1s; border-radius: 6px; }
+  .checkbox-item:hover { background: #f0ede6; }
+  .checkbox-item:last-child { border-bottom: none; }
+  .checkbox-item input[type="checkbox"] { width: 18px; height: 18px; accent-color: var(--accent); cursor: pointer; }
+
+  .btn-start { width: 100%; padding: 15px; background: var(--ink); color: white; border: none; border-radius: 12px; font-size: 1rem; font-weight: 700; font-family: 'DM Sans', sans-serif; cursor: pointer; letter-spacing: 0.04em; transition: background 0.18s, transform 0.12s; margin-top: 10px; }
+  .btn-start:hover:not(:disabled) { background: var(--accent); }
+  .btn-start:active:not(:disabled) { transform: scale(0.98); }
+  .btn-start:disabled { opacity: 0.5; cursor: not-allowed; }
+  
   .progress-wrap { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
-  #unitLabel { font-size: 0.70rem; font-weight: 700; color: var(--gold); letter-spacing: 0.06em; text-transform: uppercase; white-space: nowrap; }
+  #unitLabel { font-size: 0.70rem; font-weight: 700; color: var(--gold); letter-spacing: 0.06em; text-transform: uppercase; white-space: nowrap; max-width: 150px; overflow: hidden; text-overflow: ellipsis; }
   #progress { font-size: 0.78rem; font-weight: 700; color: var(--ink-soft); white-space: nowrap; letter-spacing: 0.04em; }
   .progress-track { flex: 1; height: 5px; background: #e0ddd8; border-radius: 4px; overflow: hidden; }
   .progress-fill { height: 100%; background: linear-gradient(90deg, var(--gold), var(--accent)); border-radius: 4px; transition: width 0.4s ease; width: 0%; }
+  
   #wordCard { min-height: 170px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; gap: 8px; }
   #pos { font-size: 0.70rem; font-weight: 700; letter-spacing: 0.10em; text-transform: uppercase; color: var(--gold); min-height: 1em; }
   #word { font-family: 'Lora', serif; font-size: clamp(1.8rem, 6vw, 2.6rem); font-weight: 700; color: var(--ink); line-height: 1.2; }
   #example { font-family: 'Lora', serif; font-style: italic; font-size: 0.9rem; color: var(--ink-soft); line-height: 1.6; max-width: 400px; min-height: 1.4em; }
   #meaning { font-size: 0.95rem; font-weight: 500; color: var(--ink); background: #f0ede6; border: 1.5px solid #e0dbd0; padding: 10px 18px; border-radius: 12px; margin-top: 6px; transition: opacity 0.25s; line-height: 1.7; }
   .invisible { opacity: 0; pointer-events: none; }
+  
   #quizArea { display: grid; grid-template-columns: 1fr 1fr; gap: 9px; margin-bottom: 12px; }
   button.ans-btn { background: var(--card-bg); border: 1.5px solid #e0ddd8; padding: 14px 10px; border-radius: 12px; font-size: 0.88rem; font-weight: 500; font-family: 'DM Sans', sans-serif; cursor: pointer; line-height: 1.4; transition: background 0.15s, border-color 0.15s, transform 0.1s; box-shadow: 0 2px 6px rgba(28,43,58,0.06); text-align: center; }
   button.ans-btn:hover:not(:disabled) { border-color: var(--accent); transform: translateY(-1px); box-shadow: 0 4px 10px rgba(28,43,58,0.10); }
@@ -55,6 +71,7 @@
   button.ans-btn.wrong    { background: var(--wrong)   !important; color: white !important; border-color: var(--wrong)   !important; }
   button.ans-btn.reveal-correct { background: #e8f5e9 !important; color: var(--correct) !important; border-color: var(--correct) !important; font-weight: 700; }
   button.ans-btn:disabled { cursor: default; }
+  
   #flipBtn { display: block; width: 100%; padding: 14px; background: var(--ink); color: white; border: none; border-radius: 12px; font-size: 0.95rem; font-weight: 700; font-family: 'DM Sans', sans-serif; cursor: pointer; letter-spacing: 0.04em; margin-bottom: 12px; transition: background 0.15s; }
   #flipBtn:hover { background: var(--accent); }
   .action-btns { display: flex; gap: 8px; }
@@ -62,11 +79,12 @@
   .btn-small:active { transform: scale(0.97); }
   .btn-pause { background: #e8f0fe; color: #1a56db; }
   .btn-stop  { background: #fdecea; color: var(--wrong); }
+  
   #finishScreen { position: absolute; inset: 0; background: var(--card-bg); border-radius: var(--radius); display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px; padding: 28px; z-index: 10; text-align: center; }
   #finishScreen h2 { font-family: 'Lora', serif; font-size: 1.5rem; color: var(--ink); }
   #finishScreen .score-badge { font-size: 2.4rem; font-weight: 700; color: var(--gold); font-family: 'Lora', serif; }
   #finishScreen p { color: var(--ink-soft); font-size: 0.88rem; }
-  .btn-finish { width: 100%; padding: 13px; border: none; border-radius: 10px; font-weight: 700; font-family: 'DM Sans', sans-serif; font-size: 0.92rem; cursor: pointer; transition: opacity 0.15s; }
+  .btn-finish { width: 100%; padding: 13px; border: none; border-radius: 10px; font-weight: 700; font-family: 'DM Sans', sans-serif; font-size: 0.92rem; cursor: pointer; transition: opacity 0.15s; margin-top: 4px; }
   .btn-finish:hover { opacity: 0.85; }
   .btn-finish.green  { background: var(--correct); color: white; }
   .btn-finish.blue   { background: #1a56db; color: white; }
@@ -74,6 +92,7 @@
   .btn-finish:disabled { opacity: 0.4; cursor: not-allowed; }
   .hidden { display: none !important; }
   .meaning-highlight { background: linear-gradient(120deg, #ffe082 0%, #ffd740 100%); color: #5a3e00; font-weight: 700; border-radius: 3px; padding: 1px 3px; box-shadow: 0 1px 3px rgba(201,168,76,0.25); }
+  
   #progressBtn { font-size: 0.82rem; font-weight: 700; background: var(--gold); color: #fff; padding: 4px 12px; border-radius: 20px; letter-spacing: 0.04em; border: none; cursor: pointer; font-family: 'DM Sans', sans-serif; transition: background 0.15s; }
   #progressBtn:hover { background: var(--accent); }
   #progressModal { position: fixed; inset: 0; z-index: 100; background: rgba(28,43,58,0.50); backdrop-filter: blur(4px); display: flex; justify-content: center; align-items: center; padding: 16px; }
@@ -154,6 +173,7 @@
 
 <!-- ══ 進捗モーダル ══ -->
 <div id="progressModal" class="hidden" onclick="if(event.target===this)closeProgressModal()">
+  <!-- 中身は変更なし -->
   <div class="modal-box">
     <div class="modal-title">📊 学習進捗</div>
     <div class="stat-grid">
@@ -220,8 +240,20 @@
     <h3>学習の設定</h3>
     <div id="selectedBookName" style="font-size:0.85rem; color:var(--ink-soft); margin-bottom:16px; font-weight:700;">📘 読込中...</div>
 
-    <label class="field-label">ユニット選択</label>
-    <select id="unitSelect"></select>
+    <!-- 複数選択対応のユニット選択 -->
+    <label class="field-label">ユニット選択 (複数可)</label>
+    <div class="unit-actions">
+      <button type="button" onclick="selectAllUnits(true)">全選択</button>
+      <button type="button" onclick="selectAllUnits(false)">全解除</button>
+    </div>
+    <div id="unitCheckList" class="checkbox-list"></div>
+
+    <!-- 出題順の選択 -->
+    <label class="field-label">出題順</label>
+    <select id="orderSelect" onchange="updateStartButtons()">
+      <option value="sequential">順番通り</option>
+      <option value="random">ランダムに出題</option>
+    </select>
 
     <label class="field-label">学習モード</label>
     <select id="mode">
@@ -238,8 +270,8 @@
       <option value="0">手動で次へ</option>
     </select>
 
-    <!-- ★ ボタン群を更新（続きから開始機能を追加） -->
-    <div id="startBtnContainer" style="display:flex; flex-direction:column; gap:10px; margin-bottom:10px;">
+    <!-- ボタン群 -->
+    <div id="startBtnContainer" style="display:flex; flex-direction:column; margin-bottom:10px;">
       <button class="btn-start" id="btnResume" onclick="start(true)" style="display:none; background:var(--accent);">続きから開始する</button>
       <button class="btn-start" id="btnStart" onclick="start(false)">初めから開始する →</button>
     </div>
@@ -266,10 +298,10 @@
 
       <div id="finishScreen" class="hidden">
         <div style="font-size:2rem">🎓</div>
-        <h2>Unit Complete!</h2>
+        <h2>Complete!</h2>
         <div class="score-badge" id="finalScore">—%</div>
         <p id="finalMsg"></p>
-        <button class="btn-finish green" onclick="restart()">もう一度このユニット</button>
+        <button class="btn-finish green" onclick="restart()">もう一度同じ問題を解く</button>
         <button class="btn-finish blue"  id="nextUnitBtn" onclick="goNextUnit()">次のユニットへ →</button>
         <button class="btn-finish" style="background:#fdecea;color:var(--wrong);" onclick="showMistakeBank()">❌ ミス単語を確認</button>
         <button class="btn-finish gray"  onclick="backToSetup()">設定に戻る</button>
@@ -291,19 +323,22 @@
 function escHtml(str) {
   if (typeof str !== 'string') return str;
   return str.replace(/[&'`"<>]/g, function(match) {
-    return {
-      '&': '&amp;',
-      "'": '&#x27;',
-      '`': '&#x60;',
-      '"': '&quot;',
-      '<': '&lt;',
-      '>': '&gt;'
-    }[match];
+    return { '&': '&amp;', "'": '&#x27;', '`': '&#x60;', '"': '&quot;', '<': '&lt;', '>': '&gt;' }[match];
   });
 }
 
-/* ══ ② 単語帳設定（Unit構成・見出し語番号範囲） ══ */
-/* ※語法・基本動詞・多義語・論理マーカーの unitCount を 1 に変更しました */
+function shuffleArray(array) {
+  var arr = array.slice();
+  for (var i = arr.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var temp = arr[i];
+    arr[i] = arr[j];
+    arr[j] = temp;
+  }
+  return arr;
+}
+
+/* ══ 単語帳設定 ══ */
 var BOOK_CONFIG = {
   "system5":      { unitCount: 41, total: 2027, name: "システム英単語（5訂版）",   showRange: true  },
   "target1900":   { unitCount: 38, total: 1900, name: "英単語ターゲット1900",       showRange: true  },
@@ -330,20 +365,21 @@ var bookInfo = BOOK_CONFIG[BOOK] || { unitCount: 20, total: null, name: BOOK, sh
 var UNIT_MIN = 1;
 var UNIT_MAX = bookInfo.unitCount;
 
-var words        = [];
-var index        = 0;
-var correctCount = 0;
-var totalCount   = 0;
-var reviewQueue  = [];
-var current      = null;
-var timer1       = null;
-var timer2       = null;
-var isPaused     = false;
-var autoSpeed    = 5000;
-var currentUnit  = 1;
+var words            = [];
+var index            = 0;
+var correctCount     = 0;
+var totalCount       = 0;
+var reviewQueue      = [];
+var current          = null;
+var timer1           = null;
+var timer2           = null;
+var isPaused         = false;
+var autoSpeed        = 5000;
+var currentUnitArray = [];
+var isRandomMode     = false;
 var isMistakeBankMode = false;
 
-/* ══ ⑤ 最適英語音声の自動選択 ══ */
+/* ══ 最適英語音声の自動選択 ══ */
 var selectedVoice = null;
 function pickBestVoice(voices) {
   var enVoices = voices.filter(function(v) { return /^en/i.test(v.lang); });
@@ -406,26 +442,72 @@ function startTTSWatchdog(expectedMs) {
 }
 function clearTTSWatchdog() { clearTimeout(ttsWatchdog); }
 
-/* 途中から再開するためのボタン表示ロジック */
+/* ══ チェックボックスUIの初期化と制御 ══ */
+(function() {
+  document.getElementById("selectedBookName").textContent = "📘 " + bookInfo.name;
+  var defaultUnit = parseInt(new URLSearchParams(location.search).get("unit")) || 1;
+  var listEl = document.getElementById("unitCheckList");
+  for (var u = UNIT_MIN; u <= UNIT_MAX; u++) {
+    var lbl = document.createElement("label");
+    lbl.className = "checkbox-item";
+    var chk = document.createElement("input");
+    chk.type = "checkbox";
+    chk.value = u;
+    if (u === defaultUnit) chk.checked = true;
+    chk.addEventListener("change", updateStartButtons);
+    var span = document.createElement("span");
+    span.textContent = unitRangeLabel(bookInfo, u);
+    lbl.appendChild(chk);
+    lbl.appendChild(span);
+    listEl.appendChild(lbl);
+  }
+  updateStartButtons();
+})();
+
+function selectAllUnits(check) {
+  document.querySelectorAll("#unitCheckList input[type='checkbox']").forEach(function(cb) {
+    cb.checked = check;
+  });
+  updateStartButtons();
+}
+
+/* スタートボタンの制御（レジューム判定） */
 function updateStartButtons() {
-  var sel = document.getElementById("unitSelect");
-  if (!sel) return;
-  var unit = sel.value;
-  var key = 'vocabResume_' + BOOK + '_' + unit;
-  var savedStr = null;
-  try { savedStr = localStorage.getItem(key); } catch(e) {}
-  
+  var checkboxes = document.querySelectorAll("#unitCheckList input[type='checkbox']:checked");
   var btnStart = document.getElementById("btnStart");
   var btnResume = document.getElementById("btnResume");
-  
-  if (savedStr) {
-    var savedIndex = parseInt(savedStr, 10);
-    if (savedIndex > 0) {
-      btnResume.style.display = "block";
-      btnResume.textContent = "続きから開始する (" + (savedIndex + 1) + "語目〜)";
-      btnStart.textContent = "初めから開始する";
-      btnStart.style.background = "#e8e6e1";
-      btnStart.style.color = "var(--ink)";
+  var order = document.getElementById("orderSelect").value;
+
+  if (checkboxes.length === 0) {
+    btnStart.disabled = true;
+    btnStart.textContent = "ユニットを選択してください";
+    btnResume.style.display = "none";
+    return;
+  } else {
+    btnStart.disabled = false;
+  }
+
+  // 1つのユニット＆順番通りの時のみ「続きから開始」を有効化
+  if (checkboxes.length === 1 && order === "sequential") {
+    var unit = checkboxes[0].value;
+    var key = 'vocabResume_' + BOOK + '_' + unit;
+    var savedStr = null;
+    try { savedStr = localStorage.getItem(key); } catch(e) {}
+    
+    if (savedStr) {
+      var savedIndex = parseInt(savedStr, 10);
+      if (savedIndex > 0) {
+        btnResume.style.display = "block";
+        btnResume.textContent = "続きから開始する (" + (savedIndex + 1) + "語目〜)";
+        btnStart.textContent = "初めから開始する";
+        btnStart.style.background = "#e8e6e1";
+        btnStart.style.color = "var(--ink)";
+      } else {
+        btnResume.style.display = "none";
+        btnStart.textContent = "学習を開始する →";
+        btnStart.style.background = "var(--ink)";
+        btnStart.style.color = "white";
+      }
     } else {
       btnResume.style.display = "none";
       btnStart.textContent = "学習を開始する →";
@@ -433,68 +515,71 @@ function updateStartButtons() {
       btnStart.style.color = "white";
     }
   } else {
+    // 複数選択 or ランダム選択時
     btnResume.style.display = "none";
-    btnStart.textContent = "学習を開始する →";
+    var countTxt = checkboxes.length > 1 ? " (" + checkboxes.length + "ユニット)" : "";
+    btnStart.textContent = "学習を開始する" + countTxt + " →";
     btnStart.style.background = "var(--ink)";
     btnStart.style.color = "white";
   }
 }
 
-/* ══ Unit選択ドロップダウン初期化 ══ */
-(function() {
-  document.getElementById("selectedBookName").textContent = "📘 " + bookInfo.name;
-  var sel = document.getElementById("unitSelect");
-  var defaultUnit = parseInt(new URLSearchParams(location.search).get("unit")) || 1;
-  for (var u = UNIT_MIN; u <= UNIT_MAX; u++) {
-    var opt = document.createElement("option");
-    opt.value = u;
-    opt.textContent = unitRangeLabel(bookInfo, u);
-    if (u === defaultUnit) opt.selected = true;
-    sel.appendChild(opt);
-  }
-  sel.addEventListener("change", updateStartButtons);
-  updateStartButtons();
-})();
+/* 複数ファイルの非同期読み込み */
+function loadMultipleUnits(units, callback) {
+  var promises = units.map(function(u) {
+    return fetch("data/" + BOOK + "/unit" + u + ".json")
+      .then(function(r) { if (!r.ok) throw new Error(); return r.json(); });
+  });
 
-function loadUnit(unitNum, callback) {
-  fetch("data/" + BOOK + "/unit" + unitNum + ".json")
-    .then(function(r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
-    .then(function(data) {
+  Promise.all(promises).then(function(results) {
+    var combined = [];
+    results.forEach(function(data) {
       if (Array.isArray(data)) {
-        words = data;
+        combined = combined.concat(data);
       } else {
         var found = [];
-        Object.keys(data).forEach(function(k) { if (Array.isArray(data[k]) && !found.length) found = data[k]; });
-        words = found;
+        Object.keys(data).forEach(function(k) { if(Array.isArray(data[k]) && !found.length) found = data[k]; });
+        combined = combined.concat(found);
       }
-      callback(true);
-    })
-    .catch(function() {
-      alert("Unit " + unitNum + " のデータを読み込めませんでした。");
-      callback(false);
     });
+    callback(true, combined);
+  }).catch(function(e) {
+    alert("データの読み込みに失敗しました。");
+    callback(false, []);
+  });
 }
 
-/* ★ resumeFlag (途中から再開するかどうか) を引数に追加 */
 function start(resumeFlag) {
   unlockIOSSpeech();
-  currentUnit = parseInt(document.getElementById("unitSelect").value);
-  autoSpeed   = parseInt(document.getElementById("revealSpeed").value);
+  var checkboxes = document.querySelectorAll("#unitCheckList input[type='checkbox']:checked");
+  currentUnitArray = Array.from(checkboxes).map(function(cb) { return parseInt(cb.value); });
+  isRandomMode = (document.getElementById("orderSelect").value === "random");
+  autoSpeed = parseInt(document.getElementById("revealSpeed").value);
   
-  loadUnit(currentUnit, function(success) {
+  if (currentUnitArray.length === 0) return;
+
+  loadMultipleUnits(currentUnitArray, function(success, combinedWords) {
     if (!success) return;
-    if (!words || words.length === 0) { alert("データが空です。"); return; }
+    if (!combinedWords || combinedWords.length === 0) { alert("データが空です。"); return; }
+    
+    words = combinedWords;
+    if (isRandomMode) {
+      words = shuffleArray(words);
+    }
+    
     resetState();
     
-    if (resumeFlag) {
-      var key = 'vocabResume_' + BOOK + '_' + currentUnit;
+    // レジュームの適用（単一＆順番通りのみ）
+    var isSingleSequential = (currentUnitArray.length === 1 && !isRandomMode);
+    if (resumeFlag && isSingleSequential) {
+      var key = 'vocabResume_' + BOOK + '_' + currentUnitArray[0];
       var saved = 0;
       try { saved = parseInt(localStorage.getItem(key), 10); } catch(e) {}
       if (!isNaN(saved) && saved > 0 && saved < words.length) {
         index = saved;
       }
-    } else {
-      try { localStorage.removeItem('vocabResume_' + BOOK + '_' + currentUnit); } catch(e) {}
+    } else if (isSingleSequential) {
+      try { localStorage.removeItem('vocabResume_' + BOOK + '_' + currentUnitArray[0]); } catch(e) {}
     }
 
     document.getElementById("setupArea").classList.add("hidden");
@@ -511,7 +596,21 @@ function resetState() {
 }
 
 function updateUnitLabel() {
-  document.getElementById("unitLabel").textContent = "Unit " + currentUnit;
+  var lbl = document.getElementById("unitLabel");
+  if (isMistakeBankMode) {
+    lbl.textContent = "❌ ミス復習";
+    return;
+  }
+  if (currentUnitArray.length === 1) {
+    lbl.textContent = "Unit " + currentUnitArray[0];
+  } else if (currentUnitArray.length <= 3) {
+    lbl.textContent = "Unit " + currentUnitArray.join(", ");
+  } else {
+    lbl.textContent = "Unit " + currentUnitArray[0] + " 他" + (currentUnitArray.length - 1) + "件";
+  }
+  if (isRandomMode) {
+    lbl.textContent += " (ランダム)";
+  }
 }
 
 function next() {
@@ -526,10 +625,10 @@ function nextCore() {
   if (index >= words.length && reviewQueue.length === 0) { showFinishScreen(); return; }
   current = reviewQueue.length > 0 ? reviewQueue.shift() : words[index++];
 
-  // ★ 進捗の保存
+  // ★ 進捗（レジューム）の保存
   var saveIndex = reviewQueue.length > 0 ? index : Math.max(0, index - 1);
-  if (saveIndex > 0 && !isMistakeBankMode) {
-    try { localStorage.setItem('vocabResume_' + BOOK + '_' + currentUnit, saveIndex); } catch(e) {}
+  if (saveIndex > 0 && !isMistakeBankMode && currentUnitArray.length === 1 && !isRandomMode) {
+    try { localStorage.setItem('vocabResume_' + BOOK + '_' + currentUnitArray[0], saveIndex); } catch(e) {}
   }
 
   var modeVal = document.getElementById("mode").value;
@@ -537,7 +636,6 @@ function nextCore() {
   jpEnDisp.classList.add("hidden");
 
   if (modeVal === "jpen1") {
-    // JP→EN 穴埋め：英語例文の空欄 + 日本語例文（見出し語ハイライト）
     var exampleBlank = buildExampleBlank(current.example, current.word);
     document.getElementById("word").textContent    = "";
     document.getElementById("pos").textContent     = current.pos || "";
@@ -545,14 +643,12 @@ function nextCore() {
     jpEnDisp.innerHTML = buildHighlightedJpBlank(current.example_jp || current.meaning || "", current.meaning);
     jpEnDisp.classList.remove("hidden");
   } else if (modeVal === "jpen2") {
-    // JP→EN 全文：日本語全文を見て英語見出し語を答える
     document.getElementById("word").textContent    = "";
     document.getElementById("pos").textContent     = current.pos || "";
     document.getElementById("example").textContent = "";
     jpEnDisp.innerHTML = escHtml(current.example_jp || current.meaning || "（日本語訳なし）");
     jpEnDisp.classList.remove("hidden");
   } else {
-    // 通常モード（quiz / flash）
     document.getElementById("word").textContent    = current.word    || "";
     document.getElementById("pos").textContent     = current.pos     || "";
     document.getElementById("example").textContent = current.example || "";
@@ -566,7 +662,6 @@ function nextCore() {
   document.getElementById("progressFill").style.width = Math.round((index / words.length) * 100) + "%";
 
   if (modeVal === "jpen1" || modeVal === "jpen2") {
-    // JP→ENモードでは英語TTS不要（英語が問い）
     renderJpEnQuiz();
   } else {
     if (current.word) {
@@ -650,10 +745,7 @@ function showExampleJp() {
   var meanEl = document.getElementById("meaning");
   var jpText = current.example_jp || "";
   if (!jpText) {
-    if (current.meaning) {
-      meanEl.innerHTML = escHtml(current.meaning);
-      meanEl.classList.remove("invisible");
-    }
+    if (current.meaning) { meanEl.innerHTML = escHtml(current.meaning); meanEl.classList.remove("invisible"); }
     return;
   }
   meanEl.innerHTML = buildHighlightedJp(jpText, current.meaning);
@@ -678,26 +770,21 @@ function buildHighlightedJp(jpText, meaning) {
     var esc = escHtml(cand);
     var idx = html.indexOf(esc);
     if (idx !== -1) {
-      html = html.substring(0, idx)
-           + '<span class="meaning-highlight">' + esc + '</span>'
-           + html.substring(idx + esc.length);
+      html = html.substring(0, idx) + '<span class="meaning-highlight">' + esc + '</span>' + html.substring(idx + esc.length);
       return html;
     }
   }
   return html;
 }
 
-/* 英語例文の見出し語を ______ に置換 */
 function buildExampleBlank(example, word) {
   if (!example || !word) return example || "";
   var pattern = new RegExp("\\b" + word.replace(/[.*+?^${}()|[\]\\]/g,"\\$&") + "(?:s|ed|ing|d|es|'s)?" + "\\b", "i");
   return example.replace(pattern, "______");
 }
 
-/* 日本語例文の見出し語訳をハイライト（穴埋めモード用 - buildHighlightedJp と同ロジック） */
 function buildHighlightedJpBlank(jpText, meaning) { return buildHighlightedJp(jpText, meaning); }
 
-/* JP→EN クイズ（見出し語を四択で答える） */
 function renderJpEnQuiz() {
   var choices = [current.word];
   var pool = words.filter(function(w) { return w.word !== current.word && w.word; });
@@ -705,7 +792,6 @@ function renderJpEnQuiz() {
   for (var i = 0; i < pool.length && choices.length < 4; i++) {
     if (!choices.includes(pool[i].word)) choices.push(pool[i].word);
   }
-  // プールが足りない場合のダミー
   var dummies = ["avoid","obtain","achieve","present","conduct","reflect","require","provide","suggest","maintain"];
   dummies.sort(function() { return Math.random() - 0.5; });
   for (var j = 0; j < dummies.length && choices.length < 4; j++) {
@@ -733,14 +819,11 @@ function answerJpEnQuiz(selected, btn) {
   if (isCorrect) {
     correctCount++; btn.classList.add("correct");
   } else {
-    btn.classList.add("wrong");
-    reviewQueue.push(current);
-    addMistakeToBank(current);
+    btn.classList.add("wrong"); reviewQueue.push(current); addMistakeToBank(current);
     document.querySelectorAll(".ans-btn").forEach(function(b) {
       if (b.textContent === current.word && !b.classList.contains("wrong")) b.classList.add("reveal-correct");
     });
   }
-  // 正解後は英語例文を表示
   var meanEl = document.getElementById("meaning");
   meanEl.textContent = current.example || current.word || "";
   meanEl.classList.remove("invisible");
@@ -817,8 +900,8 @@ function togglePause() {
 function showFinishScreen() {
   speechSynthesis.cancel();
   
-  if (!isMistakeBankMode) {
-    try { localStorage.removeItem('vocabResume_' + BOOK + '_' + currentUnit); } catch(e) {}
+  if (!isMistakeBankMode && currentUnitArray.length === 1 && !isRandomMode) {
+    try { localStorage.removeItem('vocabResume_' + BOOK + '_' + currentUnitArray[0]); } catch(e) {}
   }
 
   var pct = totalCount ? Math.round((correctCount / totalCount) * 100) : 0;
@@ -830,16 +913,19 @@ function showFinishScreen() {
 
   if (!isMistakeBankMode) {
     recordSessionWords(words.length);
-    recordSessionUnit(BOOK, bookInfo.name, currentUnit);
+    var recLabel = currentUnitArray.length === 1 ? currentUnitArray[0] : (currentUnitArray.length + "ユニット");
+    recordSessionUnit(BOOK, bookInfo.name, recLabel);
   }
 
   var nextBtn = document.getElementById("nextUnitBtn");
-  if (isMistakeBankMode) {
-    nextBtn.disabled = true; nextBtn.textContent = "ミス復習モード";
-  } else if (currentUnit >= UNIT_MAX) {
+  if (isMistakeBankMode || currentUnitArray.length > 1 || isRandomMode) {
+    nextBtn.style.display = "none";
+  } else if (currentUnitArray[0] >= UNIT_MAX) {
+    nextBtn.style.display = "block";
     nextBtn.disabled = true; nextBtn.textContent = "最終ユニット完了！";
   } else {
-    nextBtn.disabled = false; nextBtn.textContent = "次へ Unit " + (currentUnit + 1) + " →";
+    nextBtn.style.display = "block";
+    nextBtn.disabled = false; nextBtn.textContent = "次へ Unit " + (currentUnitArray[0] + 1) + " →";
   }
   document.getElementById("finishScreen").classList.remove("hidden");
 }
@@ -847,17 +933,31 @@ function showFinishScreen() {
 function restart() {
   unlockIOSSpeech();
   document.getElementById("finishScreen").classList.add("hidden");
+  
+  if (isRandomMode && !isMistakeBankMode) {
+    words = shuffleArray(words);
+  } else if (isMistakeBankMode) {
+    words.sort(function() { return Math.random() - 0.5; });
+  }
+
   resetState(); next();
 }
 
 function goNextUnit() {
   unlockIOSSpeech();
-  if (currentUnit >= UNIT_MAX) return;
-  var nextNum = currentUnit + 1;
-  loadUnit(nextNum, function(success) {
+  if (currentUnitArray.length !== 1 || isRandomMode) return;
+  var nextNum = currentUnitArray[0] + 1;
+  if (nextNum > UNIT_MAX) return;
+  
+  document.querySelectorAll("#unitCheckList input[type='checkbox']").forEach(function(cb) {
+    cb.checked = (parseInt(cb.value) === nextNum);
+  });
+  updateStartButtons();
+
+  currentUnitArray = [nextNum];
+  loadMultipleUnits(currentUnitArray, function(success, combinedWords) {
     if (!success) return;
-    currentUnit = nextNum;
-    document.getElementById("unitSelect").value = currentUnit;
+    words = combinedWords;
     document.getElementById("finishScreen").classList.add("hidden");
     resetState(); updateUnitLabel(); next();
   });
@@ -883,29 +983,16 @@ var PROGRESS_KEY     = "vocabProgress";
 var UNIT_HISTORY_KEY = "vocabUnitHistory";
 var MISTAKE_BANK_KEY = "vocabMistakeBank";
 
-/* ══ ミス単語バンク ══ */
-function getMistakeBank() {
-  try { var r = localStorage.getItem(MISTAKE_BANK_KEY); if (r) return JSON.parse(r); } catch(e) {}
-  return [];
-}
+/* ══ ミス単語バンク・進捗管理等 ══ */
+function getMistakeBank() { try { var r = localStorage.getItem(MISTAKE_BANK_KEY); if (r) return JSON.parse(r); } catch(e) {} return []; }
 function saveMistakeBank(bank) { try { localStorage.setItem(MISTAKE_BANK_KEY, JSON.stringify(bank)); } catch(e) {} }
 
 function addMistakeToBank(wordObj) {
   if (!wordObj || !wordObj.word) return;
   var bank = getMistakeBank();
-  // 重複チェック（同じ単語・同じ単語帳）
   var exists = bank.some(function(m) { return m.word === wordObj.word && m.bookKey === BOOK; });
   if (!exists) {
-    bank.push({
-      word:       wordObj.word,
-      pos:        wordObj.pos        || "",
-      meaning:    wordObj.meaning    || "",
-      example:    wordObj.example    || "",
-      example_jp: wordObj.example_jp || "",
-      bookKey:    BOOK,
-      bookName:   bookInfo.name,
-      addedAt:    todayKey()
-    });
+    bank.push({ word: wordObj.word, pos: wordObj.pos || "", meaning: wordObj.meaning || "", example: wordObj.example || "", example_jp: wordObj.example_jp || "", bookKey: BOOK, bookName: bookInfo.name, addedAt: todayKey() });
     if (bank.length > 500) bank = bank.slice(bank.length - 500);
     saveMistakeBank(bank);
   }
@@ -914,8 +1001,7 @@ function addMistakeToBank(wordObj) {
 function removeMistakeFromBank(word, bookKey) {
   var bank = getMistakeBank();
   bank = bank.filter(function(m) { return !(m.word === word && m.bookKey === bookKey); });
-  saveMistakeBank(bank);
-  renderMistakeBankList();
+  saveMistakeBank(bank); renderMistakeBankList();
 }
 
 function clearAllMistakes() {
@@ -924,39 +1010,24 @@ function clearAllMistakes() {
   renderMistakeBankList();
 }
 
-function showMistakeBank() {
-  renderMistakeBankList();
-  document.getElementById("mistakeBankModal").classList.remove("hidden");
-}
+function showMistakeBank() { renderMistakeBankList(); document.getElementById("mistakeBankModal").classList.remove("hidden"); }
 function closeMistakeBank() { document.getElementById("mistakeBankModal").classList.add("hidden"); }
 
 function renderMistakeBankList() {
   var bank = getMistakeBank();
   document.getElementById("mbankCountNum").textContent = bank.length;
-  var studyBtn = document.getElementById("mbankStudyBtn");
-  var clearBtn = document.getElementById("mbankClearAllBtn");
-  studyBtn.disabled = bank.length === 0;
-  clearBtn.disabled = bank.length === 0;
-
-  var listEl = document.getElementById("mbankList");
-  listEl.innerHTML = "";
-  if (!bank.length) {
-    listEl.innerHTML = '<div class="mbank-empty">まだミスした単語はありません 🎉</div>';
-    return;
-  }
+  document.getElementById("mbankStudyBtn").disabled = bank.length === 0;
+  document.getElementById("mbankClearAllBtn").disabled = bank.length === 0;
+  var listEl = document.getElementById("mbankList"); listEl.innerHTML = "";
+  if (!bank.length) { listEl.innerHTML = '<div class="mbank-empty">まだミスした単語はありません 🎉</div>'; return; }
   bank.forEach(function(m) {
-    var row  = document.createElement("div"); row.className = "mbank-item";
+    var row = document.createElement("div"); row.className = "mbank-item";
     var wdEl = document.createElement("div"); wdEl.className = "mbank-word"; wdEl.textContent = m.word;
-    var mnEl = document.createElement("div"); mnEl.className = "mbank-meaning";
-    mnEl.textContent = (m.meaning || "") + (m.example_jp ? "　" + m.example_jp : "");
-    var tagEl = document.createElement("div"); tagEl.className = "mbank-book-tag";
-    tagEl.textContent = m.bookName ? m.bookName.replace("英単語","").replace("（","(").replace("）",")") : m.bookKey;
+    var mnEl = document.createElement("div"); mnEl.className = "mbank-meaning"; mnEl.textContent = (m.meaning || "") + (m.example_jp ? "　" + m.example_jp : "");
+    var tagEl = document.createElement("div"); tagEl.className = "mbank-book-tag"; tagEl.textContent = m.bookName ? m.bookName.replace("英単語","").replace("（","(").replace("）",")") : m.bookKey;
     var delBtn = document.createElement("button"); delBtn.className = "mbank-del"; delBtn.textContent = "✓ 覚えた";
-    (function(word, bookKey) {
-      delBtn.addEventListener("click", function() { removeMistakeFromBank(word, bookKey); });
-    })(m.word, m.bookKey);
-    row.appendChild(wdEl); row.appendChild(mnEl); row.appendChild(tagEl); row.appendChild(delBtn);
-    listEl.appendChild(row);
+    (function(word, bookKey) { delBtn.addEventListener("click", function() { removeMistakeFromBank(word, bookKey); }); })(m.word, m.bookKey);
+    row.appendChild(wdEl); row.appendChild(mnEl); row.appendChild(tagEl); row.appendChild(delBtn); listEl.appendChild(row);
   });
 }
 
@@ -965,10 +1036,7 @@ function startMistakeBankStudy() {
   if (!bank.length) { alert("ミス単語がありません。"); return; }
   closeMistakeBank();
   isMistakeBankMode = true;
-  words = bank.map(function(m) { return {
-    word: m.word, pos: m.pos, meaning: m.meaning,
-    example: m.example, example_jp: m.example_jp
-  }; });
+  words = bank.map(function(m) { return { word: m.word, pos: m.pos, meaning: m.meaning, example: m.example, example_jp: m.example_jp }; });
   words.sort(function() { return Math.random() - 0.5; });
   resetState();
   document.getElementById("setupArea").classList.add("hidden");
@@ -978,10 +1046,7 @@ function startMistakeBankStudy() {
   if (!selectedVoice) { initVoice(function() { next(); }); } else { next(); }
 }
 
-function getProgress() {
-  try { var r = localStorage.getItem(PROGRESS_KEY); if (r) return JSON.parse(r); } catch(e) {}
-  return { total: 0, days: {} };
-}
+function getProgress() { try { var r = localStorage.getItem(PROGRESS_KEY); if (r) return JSON.parse(r); } catch(e) {} return { total: 0, days: {} }; }
 function saveProgress(p) { try { localStorage.setItem(PROGRESS_KEY, JSON.stringify(p)); } catch(e) {} }
 function todayKey() { var d = new Date(); return d.getFullYear() + "-" + pad2(d.getMonth()+1) + "-" + pad2(d.getDate()); }
 function pad2(n) { return n < 10 ? "0"+n : ""+n; }
@@ -993,31 +1058,22 @@ function recordSessionWords(count) {
   saveProgress(p);
 }
 
-function recordSessionUnit(bookKey, bookName, unitNum) {
+function recordSessionUnit(bookKey, bookName, unitVal) {
   var history = getUnitHistory();
   var cfg = BOOK_CONFIG[bookKey] || { showRange: false };
-  history.unshift({
-    bookKey:  bookKey,
-    bookName: bookName,
-    unitNum:  unitNum,
-    label:    unitRangeLabel(cfg, unitNum),
-    date:     todayKey()
-  });
+  var label = (typeof unitVal === "number") ? unitRangeLabel(cfg, unitVal) : "複数 (" + unitVal + ")";
+  if (isRandomMode) label += " (乱)";
+  history.unshift({ bookKey: bookKey, bookName: bookName, unitNum: unitVal, label: label, date: todayKey() });
   if (history.length > 50) history = history.slice(0, 50);
   try { localStorage.setItem(UNIT_HISTORY_KEY, JSON.stringify(history)); } catch(e) {}
 }
 
-function getUnitHistory() {
-  try { var r = localStorage.getItem(UNIT_HISTORY_KEY); if (r) return JSON.parse(r); } catch(e) {}
-  return [];
-}
+function getUnitHistory() { try { var r = localStorage.getItem(UNIT_HISTORY_KEY); if (r) return JSON.parse(r); } catch(e) {} return []; }
 
 function calcStats() {
   var p = getProgress(); var today = new Date(); var todayStr = todayKey();
-  var weekStart = new Date(today); var day = today.getDay();
-  weekStart.setDate(today.getDate() + (day === 0 ? -6 : 1 - day));
-  var tc = 0, wc = 0, mc = 0;
-  var yr = today.getFullYear(), mo = today.getMonth()+1;
+  var weekStart = new Date(today); var day = today.getDay(); weekStart.setDate(today.getDate() + (day === 0 ? -6 : 1 - day));
+  var tc = 0, wc = 0, mc = 0; var yr = today.getFullYear(), mo = today.getMonth()+1;
   Object.keys(p.days).forEach(function(k) {
     var cnt = p.days[k] || 0; var kd = new Date(k);
     if (k === todayStr) tc += cnt;
@@ -1038,20 +1094,14 @@ function showProgressModal() {
 }
 
 function renderUnitHistory() {
-  var history = getUnitHistory();
-  var container = document.getElementById("unitHistoryList");
-  container.innerHTML = "";
-  if (!history.length) {
-    container.innerHTML = '<div class="unit-history-empty">履歴がありません</div>';
-    return;
-  }
+  var history = getUnitHistory(); var container = document.getElementById("unitHistoryList"); container.innerHTML = "";
+  if (!history.length) { container.innerHTML = '<div class="unit-history-empty">履歴がありません</div>'; return; }
   history.forEach(function(item) {
-    var row  = document.createElement("div"); row.className = "unit-history-item";
+    var row = document.createElement("div"); row.className = "unit-history-item";
     var book = document.createElement("span"); book.className = "uh-book"; book.textContent = item.bookName;
     var unit = document.createElement("span"); unit.className = "uh-unit"; unit.textContent = item.label;
     var date = document.createElement("span"); date.className = "uh-date"; date.textContent = item.date;
-    row.appendChild(book); row.appendChild(unit); row.appendChild(date);
-    container.appendChild(row);
+    row.appendChild(book); row.appendChild(unit); row.appendChild(date); container.appendChild(row);
   });
 }
 
@@ -1063,9 +1113,7 @@ function renderWeekBar(s) {
   for (var i = 0; i < 7; i++) {
     var d = new Date(mon); d.setDate(mon.getDate() + i);
     var k = d.getFullYear() + "-" + pad2(d.getMonth()+1) + "-" + pad2(d.getDate());
-    var cnt = p.days[k] || 0;
-    counts.push({ label: DAYS[i], key: k, count: cnt });
-    if (cnt > maxC) maxC = cnt;
+    var cnt = p.days[k] || 0; counts.push({ label: DAYS[i], key: k, count: cnt }); if (cnt > maxC) maxC = cnt;
   }
   var container = document.getElementById("weekBarChart"); container.innerHTML = "";
   counts.forEach(function(item) {
@@ -1081,11 +1129,7 @@ function renderWeekBar(s) {
 
 function renderDonut(s) {
   var p = getProgress(); var today = new Date(); var yr = today.getFullYear(), mo = today.getMonth()+1;
-  var days = 0;
-  Object.keys(p.days).forEach(function(k) {
-    var kd = new Date(k);
-    if (kd.getFullYear() === yr && (kd.getMonth()+1) === mo && p.days[k] > 0) days++;
-  });
+  var days = 0; Object.keys(p.days).forEach(function(k) { var kd = new Date(k); if (kd.getFullYear() === yr && (kd.getMonth()+1) === mo && p.days[k] > 0) days++; });
   var goal = new Date(yr, mo, 0).getDate() * 20;
   var pct  = goal > 0 ? Math.min(100, Math.round((s.month / goal) * 100)) : 0;
   var dash = Math.round((pct / 100) * 213.6);

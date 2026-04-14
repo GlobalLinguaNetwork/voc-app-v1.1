@@ -35,7 +35,7 @@
   select { width: 100%; padding: 11px 34px 11px 14px; margin-bottom: 12px; border-radius: 10px; border: 1.5px solid #ddd; font-size: 0.95rem; font-family: 'DM Sans', sans-serif; background: #fafafa; color: var(--ink); appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%234a6072' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 14px center; cursor: pointer; }
   select:focus { outline: none; border-color: var(--accent); }
   
-  /* 追加: 複数選択チェックボックスのスタイル */
+  /* 複数選択チェックボックスのスタイル */
   .unit-actions { display: flex; gap: 8px; margin-bottom: 8px; }
   .unit-actions button { padding: 5px 10px; font-size: 0.75rem; font-weight: 700; font-family: 'DM Sans', sans-serif; border-radius: 6px; border: 1.5px solid #ddd; background: #fff; cursor: pointer; color: var(--ink-soft); transition: background 0.15s; }
   .unit-actions button:hover { background: #f0ede6; }
@@ -173,7 +173,6 @@
 
 <!-- ══ 進捗モーダル ══ -->
 <div id="progressModal" class="hidden" onclick="if(event.target===this)closeProgressModal()">
-  <!-- 中身は変更なし -->
   <div class="modal-box">
     <div class="modal-title">📊 学習進捗</div>
     <div class="stat-grid">
@@ -225,6 +224,28 @@
     <div class="mbank-list" id="mbankList">
       <div class="mbank-empty">まだミスした単語はありません</div>
     </div>
+    
+    <!-- ★追加: ミス単語出題用の設定領域 -->
+    <div id="mbankSettings" style="display:flex; gap:8px; margin-bottom:14px; display:none;">
+      <div style="flex:1;">
+        <label class="field-label" style="margin-top:0;">モード</label>
+        <select id="mbankMode" style="margin-bottom:0; font-size:0.8rem; padding:8px 24px 8px 10px; background-position: right 10px center;">
+          <option value="quiz">四択クイズ</option>
+          <option value="jpen1">JP→EN 穴埋め</option>
+          <option value="jpen2">JP→EN 全文</option>
+          <option value="flash">カードめくり</option>
+        </select>
+      </div>
+      <div style="flex:1;">
+        <label class="field-label" style="margin-top:0;">自動送り</label>
+        <select id="mbankSpeed" style="margin-bottom:0; font-size:0.8rem; padding:8px 24px 8px 10px; background-position: right 10px center;">
+          <option value="5000">5秒</option>
+          <option value="10000">10秒</option>
+          <option value="0">手動で次へ</option>
+        </select>
+      </div>
+    </div>
+
     <div class="mbank-actions">
       <button class="mbank-btn green" id="mbankStudyBtn" onclick="startMistakeBankStudy()" disabled>🔁 ミスのみ練習</button>
       <button class="mbank-btn gray" onclick="closeMistakeBank()">閉じる</button>
@@ -808,7 +829,7 @@ function renderJpEnQuiz() {
     area.appendChild(btn);
   });
   if (autoSpeed > 0) {
-    timer1 = setTimeout(function() { autoRevealJpEnQuiz(); timer2 = setTimeout(next, 2500); }, autoSpeed);
+    timer1 = setTimeout(function() { autoRevealJpEnQuiz(); timer2 = setTimeout(next, 3000); }, autoSpeed);
   }
 }
 
@@ -828,8 +849,19 @@ function answerJpEnQuiz(selected, btn) {
   meanEl.textContent = current.example || current.word || "";
   meanEl.classList.remove("invisible");
   updateAccuracy();
-  if (autoSpeed === 0) { addNextButton(); }
-  else { timer2 = setTimeout(next, isCorrect ? 1200 : 2800); }
+  
+  // ★追加: 正解後に例文(なければ英単語)を読み上げる
+  if (current.example) {
+    speak(current.example, null);
+  } else if (current.word) {
+    speak(current.word, null);
+  }
+
+  if (autoSpeed === 0) { 
+    addNextButton(); 
+  } else { 
+    timer2 = setTimeout(next, isCorrect ? 2000 : 3500); 
+  }
 }
 
 function autoRevealJpEnQuiz() {
@@ -841,6 +873,13 @@ function autoRevealJpEnQuiz() {
   var meanEl = document.getElementById("meaning");
   meanEl.textContent = current.example || current.word || "";
   meanEl.classList.remove("invisible");
+  
+  // ★追加: 自動で答えが表示された際も例文(なければ英単語)を読み上げる
+  if (current.example) {
+    speak(current.example, null);
+  } else if (current.word) {
+    speak(current.word, null);
+  }
 }
 
 function lockButtons() { document.querySelectorAll(".ans-btn").forEach(function(b){ b.disabled = true; }); }
@@ -1010,7 +1049,19 @@ function clearAllMistakes() {
   renderMistakeBankList();
 }
 
-function showMistakeBank() { renderMistakeBankList(); document.getElementById("mistakeBankModal").classList.remove("hidden"); }
+function showMistakeBank() { 
+  // ★ メイン画面の設定をモーダル内に初期反映
+  var mainMode = document.getElementById("mode").value;
+  var mainSpeed = document.getElementById("revealSpeed").value;
+  var mbMode = document.getElementById("mbankMode");
+  var mbSpeed = document.getElementById("mbankSpeed");
+  if (mbMode) mbMode.value = mainMode;
+  if (mbSpeed) mbSpeed.value = mainSpeed;
+
+  renderMistakeBankList(); 
+  document.getElementById("mistakeBankModal").classList.remove("hidden"); 
+}
+
 function closeMistakeBank() { document.getElementById("mistakeBankModal").classList.add("hidden"); }
 
 function renderMistakeBankList() {
@@ -1018,6 +1069,13 @@ function renderMistakeBankList() {
   document.getElementById("mbankCountNum").textContent = bank.length;
   document.getElementById("mbankStudyBtn").disabled = bank.length === 0;
   document.getElementById("mbankClearAllBtn").disabled = bank.length === 0;
+  
+  // ★ リストが空のときは設定UIを隠す
+  var settingsEl = document.getElementById("mbankSettings");
+  if(settingsEl) {
+    settingsEl.style.display = bank.length === 0 ? "none" : "flex";
+  }
+
   var listEl = document.getElementById("mbankList"); listEl.innerHTML = "";
   if (!bank.length) { listEl.innerHTML = '<div class="mbank-empty">まだミスした単語はありません 🎉</div>'; return; }
   bank.forEach(function(m) {
@@ -1034,6 +1092,11 @@ function renderMistakeBankList() {
 function startMistakeBankStudy() {
   var bank = getMistakeBank();
   if (!bank.length) { alert("ミス単語がありません。"); return; }
+  
+  // ★ モーダル内で選んだ設定をメインのselectに代入して適用
+  document.getElementById("mode").value = document.getElementById("mbankMode").value;
+  document.getElementById("revealSpeed").value = document.getElementById("mbankSpeed").value;
+
   closeMistakeBank();
   isMistakeBankMode = true;
   words = bank.map(function(m) { return { word: m.word, pos: m.pos, meaning: m.meaning, example: m.example, example_jp: m.example_jp }; });

@@ -313,6 +313,7 @@
         <div class="score-badge" id="finalScore">—%</div>
         <p id="finalMsg"></p>
         <button class="btn-finish green" onclick="restart()">もう一度同じ問題を解く</button>
+        <button class="btn-finish blue"  id="nextRandomBtn" onclick="nextRandom50()" style="display:none;">同じ範囲から次の50単語を解く →</button>
         <button class="btn-finish blue"  id="nextUnitBtn" onclick="goNextUnit()">次のユニットへ →</button>
         <button class="btn-finish" style="background:#fdecea;color:var(--wrong);" onclick="showMistakeBank()">❌ ミス単語を確認</button>
         <button class="btn-finish gray"  onclick="backToSetup()">設定に戻る</button>
@@ -349,6 +350,43 @@ function shuffleArray(array) {
   return arr;
 }
 
+/* ══ ランダム50単語選定ロジック（被りなし） ══ */
+function pickRandom50(sourceWords, book, units) {
+  var limit = 50;
+  var historyKey = "vocabRandomHist_" + book + "_" + units.slice().sort().join(",");
+  var history = [];
+  try {
+    var saved = localStorage.getItem(historyKey);
+    if (saved) history = JSON.parse(saved);
+  } catch(e) {}
+
+  var unasked = sourceWords.filter(function(w) { return history.indexOf(w.word) === -1; });
+  var asked   = sourceWords.filter(function(w) { return history.indexOf(w.word) !== -1; });
+  var result  = [];
+
+  // 未出題が50以上ある場合はそこから選ぶ
+  if (unasked.length >= limit) {
+    unasked = shuffleArray(unasked);
+    result = unasked.slice(0, limit);
+    history = history.concat(result.map(function(w){ return w.word; }));
+  } else {
+    // 未出題が足りない場合はすべて追加し、残りは出題済みから選んで履歴をリセット
+    unasked = shuffleArray(unasked);
+    result = result.concat(unasked);
+    
+    var shortage = limit - unasked.length;
+    asked = shuffleArray(asked);
+    var additional = asked.slice(0, shortage);
+    result = result.concat(additional);
+    
+    // 今回出題したリストだけで履歴を上書き（一巡完了の扱い）
+    history = result.map(function(w){ return w.word; });
+  }
+  
+  try { localStorage.setItem(historyKey, JSON.stringify(history)); } catch(e) {}
+  return shuffleArray(result);
+}
+
 /* ══ 単語帳設定 ══ */
 var BOOK_CONFIG = {
   "system5":      { unitCount: 41, total: 2027, name: "システム英単語（5訂版）",   showRange: true  },
@@ -377,6 +415,7 @@ var UNIT_MIN = 1;
 var UNIT_MAX = bookInfo.unitCount;
 
 var words            = [];
+var allCombinedWords = [];
 var index            = 0;
 var correctCount     = 0;
 var totalCount       = 0;
@@ -569,9 +608,15 @@ function start(resumeFlag) {
     if (!success) return;
     if (!combinedWords || combinedWords.length === 0) { alert("データが空です。"); return; }
     
-    words = combinedWords;
-    if (isRandomMode) {
-      words = shuffleArray(words);
+    allCombinedWords = combinedWords;
+    
+    // 複数ユニット＆ランダムの場合、被りなしの50単語を抽出
+    if (currentUnitArray.length > 1 && isRandomMode) {
+      words = pickRandom50(allCombinedWords, BOOK, currentUnitArray);
+    } else if (isRandomMode) {
+      words = shuffleArray(allCombinedWords);
+    } else {
+      words = allCombinedWords.slice();
     }
     
     resetState();
@@ -614,8 +659,13 @@ function updateUnitLabel() {
   } else {
     lbl.textContent = "Unit " + currentUnitArray[0] + " 他" + (currentUnitArray.length - 1) + "件";
   }
+  
   if (isRandomMode) {
-    lbl.textContent += " (ランダム)";
+    if (currentUnitArray.length > 1) {
+      lbl.textContent += " (ランダム50語)";
+    } else {
+      lbl.textContent += " (ランダム)";
+    }
   }
 }
 
@@ -1063,19 +1113,35 @@ function showFinishScreen() {
   if (!isMistakeBankMode) {
     recordSessionWords(words.length);
     var recLabel = currentUnitArray.length === 1 ? currentUnitArray[0] : (currentUnitArray.length + "ユニット");
+    if (isRandomMode && currentUnitArray.length > 1) recLabel += " (乱50語)";
     recordSessionUnit(BOOK, bookInfo.name, recLabel);
   }
 
   var nextBtn = document.getElementById("nextUnitBtn");
-  if (isMistakeBankMode || currentUnitArray.length > 1 || isRandomMode) {
+  var nextRandomBtn = document.getElementById("nextRandomBtn");
+  
+  if (isMistakeBankMode) {
     nextBtn.style.display = "none";
-  } else if (currentUnitArray[0] >= UNIT_MAX) {
-    nextBtn.style.display = "block";
-    nextBtn.disabled = true; nextBtn.textContent = "最終ユニット完了！";
+    nextRandomBtn.style.display = "none";
+  } else if (currentUnitArray.length > 1 && isRandomMode) {
+    // 複数ユニット＆ランダムの場合、専用の「次の50単語」ボタンを表示
+    nextBtn.style.display = "none";
+    nextRandomBtn.style.display = "block";
+  } else if (currentUnitArray.length > 1 || isRandomMode) {
+    nextBtn.style.display = "none";
+    nextRandomBtn.style.display = "none";
   } else {
-    nextBtn.style.display = "block";
-    nextBtn.disabled = false; nextBtn.textContent = "次へ Unit " + (currentUnitArray[0] + 1) + " →";
+    // 単一ユニット順番通り
+    nextRandomBtn.style.display = "none";
+    if (currentUnitArray[0] >= UNIT_MAX) {
+      nextBtn.style.display = "block";
+      nextBtn.disabled = true; nextBtn.textContent = "最終ユニット完了！";
+    } else {
+      nextBtn.style.display = "block";
+      nextBtn.disabled = false; nextBtn.textContent = "次へ Unit " + (currentUnitArray[0] + 1) + " →";
+    }
   }
+  
   document.getElementById("finishScreen").classList.remove("hidden");
 }
 
@@ -1092,6 +1158,16 @@ function restart() {
   resetState(); next();
 }
 
+function nextRandom50() {
+  unlockIOSSpeech();
+  document.getElementById("finishScreen").classList.add("hidden");
+  // 次の未出題の50単語を抽出する
+  words = pickRandom50(allCombinedWords, BOOK, currentUnitArray);
+  resetState(); 
+  updateUnitLabel(); 
+  next();
+}
+
 function goNextUnit() {
   unlockIOSSpeech();
   if (currentUnitArray.length !== 1 || isRandomMode) return;
@@ -1106,7 +1182,8 @@ function goNextUnit() {
   currentUnitArray = [nextNum];
   loadMultipleUnits(currentUnitArray, function(success, combinedWords) {
     if (!success) return;
-    words = combinedWords;
+    allCombinedWords = combinedWords;
+    words = combinedWords.slice();
     document.getElementById("finishScreen").classList.add("hidden");
     resetState(); updateUnitLabel(); next();
   });

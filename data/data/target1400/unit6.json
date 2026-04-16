@@ -1,0 +1,302 @@
+[
+  {
+    "word": "rest",
+    "meaning": "残り、息",
+    "example": "Take a short rest.",
+    "example_jp": "少し休んで。"
+  },
+  {
+    "word": "purpose",
+    "meaning": "目的",
+    "example": "What’s your purpose?",
+    "example_jp": "あなたの目的は何ですか？"
+  },
+  {
+    "word": "feature",
+    "meaning": "特徴",
+    "example": "This phone has new features.",
+    "example_jp": "この電話には新しい特徴がある。"
+  },
+  {
+    "word": "factor",
+    "meaning": "要因、要素",
+    "example": "Many factors affect the result.",
+    "example_jp": "多くの要因が結果に影響する。"
+  },
+  {
+    "word": "shape",
+    "meaning": "形、体調",
+    "example": "The shape is simple.",
+    "example_jp": "その形はシンプルだ。"
+  },
+  {
+    "word": "image",
+    "meaning": "イメージ、印象",
+    "example": "He changed his image.",
+    "example_jp": "彼はイメージを変えた。"
+  },
+  {
+    "word": "detail",
+    "meaning": "詳細（な情報）",
+    "example": "Tell me the details.",
+    "example_jp": "詳細を教えて。"
+  },
+  {
+    "word": "character",
+    "meaning": "性格",
+    "example": "Her character is kind.",
+    "example_jp": "彼女の性格は優しい。"
+  },
+  {
+    "word": "function",
+    "meaning": "機能",
+    "example": "This button has no function.",
+    "example_jp": "このボタンには機能がない。"
+  },
+  {
+    "word": "structure",
+    "meaning": "構造",
+    "example": "The structure is strong.",
+    "example_jp": "その構造は強い。"
+  },
+  {
+    "word": "ground",
+    "meaning": "地上",
+    "example": "The plane stayed on the ground.",
+    "example_jp": "飛行機は地上にとどまった。"
+  },
+  {
+    "word": "influence",
+    "meaning": "影響",
+    "example": "Music has a big influence on me.",
+    "example_jp": "音楽は私に大きな影響を与える。"
+  },
+  {
+    "word": "disease",
+    "meaning": "病気",
+    "example": "The disease spread quickly.",
+    "example_jp": "その病気は急速に広がった。"
+  },
+  {
+    "word": "pain",
+    "meaning": "痛み、骨折り、苦労",
+    "example": "I felt sharp pain.",
+    "example_jp": "鋭い痛みを感じた。"
+  },
+  {
+    "word": "medicine",
+    "meaning": "薬",
+    "example": "Take this medicine.",
+    "example_jp": "この薬を飲んで。"
+  },
+  {
+    "word": "death",
+    "meaning": "死",
+    "example": "He feared death.",
+    "example_jp": "彼は死を恐れていた。"
+  },
+  {
+    "word": "fear",
+    "meaning": "恐怖（心）",
+    "example": "She has a fear of heights.",
+    "example_jp": "彼女は高所恐怖症だ。"
+  },
+  {
+    "word": "memory",
+    "meaning": "記憶（力）",
+    "example": "My memory is fading.",
+    "example_jp": "私の記憶力は薄れてきている。"
+  },
+  {
+    "word": "emotion",
+    "meaning": "（喜怒哀楽の）感情",
+    "example": "He hides his emotions.",
+    "example_jp": "彼は感情を隠す。"
+  },
+  {
+    "word": "movement",
+    "meaning": "（政治的な）運動",
+    "example": "The movement gained support.",
+    "example_jp": "その運動は支持を得た。"
+  },
+  {
+    "word": "region",
+    "meaning": "（広大な）地域",
+    "example": "This region is cold.",
+    "example_jp": "この地域は寒い。"
+  },
+  {
+    "word": "climate",
+    "meaning": "（長期的な）気候",
+    "example": "The climate is changing.",
+    "example_jp": "気候が変化している。"
+  },
+  {
+    "word": "temperature",
+    "meaning": "体温",
+    "example": "My temperature is normal.",
+    "example_jp": "私の体温は正常だ。"
+  },
+  {
+    "word": "community",
+    "meaning": "地域社会",
+    "example": "The community is friendly.",
+    "example_jp": "その地域社会は親しみやすい。"
+  },
+  {
+    "word": "population",
+    "meaning": "人口",
+    "example": "The population is growing.",
+    "example_jp": "人口が増えている。"
+  },
+  {
+    "word": "generation",
+    "meaning": "世代",
+    "example": "Each generation changes.",
+    "example_jp": "各世代は変化する。"
+  },
+  {
+    "word": "present",
+    "meaning": "出席している、現在の",
+    "example": "All members are present.",
+    "example_jp": "全員が出席している。"
+  },
+  {
+    "word": "recent",
+    "meaning": "最近の",
+    "example": "I read a recent report.",
+    "example_jp": "最近の報告を読んだ。"
+  },
+  {
+    "word": "current",
+    "meaning": "現在の",
+    "example": "The current plan works.",
+    "example_jp": "現在の計画はうまくいっている。"
+  },
+  {
+    "word": "ancient",
+    "meaning": "古代の",
+    "example": "They studied ancient history.",
+    "example_jp": "彼らは古代史を学んだ。"
+  },
+  {
+    "word": "previous",
+    "meaning": "前の",
+    "example": "I liked the previous version.",
+    "example_jp": "前のバージョンが好きだった。"
+  },
+  {
+    "word": "serious",
+    "meaning": "真剣な",
+    "example": "He is serious about his work.",
+    "example_jp": "彼は仕事に真剣だ。"
+  },
+  {
+    "word": "careful",
+    "meaning": "注意深い",
+    "example": "Be careful with that.",
+    "example_jp": "それには注意して。"
+  },
+  {
+    "word": "responsible",
+    "meaning": "責任がある",
+    "example": "She is responsible for the team.",
+    "example_jp": "彼女はチームの責任者だ。"
+  },
+  {
+    "word": "active",
+    "meaning": "活動的な",
+    "example": "He is very active.",
+    "example_jp": "彼はとても活動的だ。"
+  },
+  {
+    "word": "afraid",
+    "meaning": "恐れて",
+    "example": "I’m afraid of dogs.",
+    "example_jp": "私は犬が怖い。"
+  },
+  {
+    "word": "aware",
+    "meaning": "気づいて",
+    "example": "I’m aware of the risk.",
+    "example_jp": "私はその危険に気づいている。"
+  },
+  {
+    "word": "patient",
+    "meaning": "我慢強い",
+    "example": "You must be patient.",
+    "example_jp": "我慢強くならなければならない。"
+  },
+  {
+    "word": "whole",
+    "meaning": "全体の",
+    "example": "I read the whole book.",
+    "example_jp": "私はその本を全部読んだ。"
+  },
+  {
+    "word": "low",
+    "meaning": "低い",
+    "example": "The price is low.",
+    "example_jp": "価格は低い。"
+  },
+  {
+    "word": "huge",
+    "meaning": "巨大な",
+    "example": "The building is huge.",
+    "example_jp": "その建物は巨大だ。"
+  },
+  {
+    "word": "blank",
+    "meaning": "空白の",
+    "example": "Leave the space blank.",
+    "example_jp": "そのスペースを空白にしておいて。"
+  },
+  {
+    "word": "central",
+    "meaning": "中心的な",
+    "example": "It plays a central role.",
+    "example_jp": "それは中心的な役割を果たす。"
+  },
+  {
+    "word": "safe",
+    "meaning": "安全な",
+    "example": "This area is safe.",
+    "example_jp": "この地域は安全だ。"
+  },
+  {
+    "word": "wild",
+    "meaning": "野生の",
+    "example": "We saw wild animals.",
+    "example_jp": "私たちは野生の動物を見た。"
+  },
+  {
+    "word": "eventually",
+    "meaning": "結局（は）",
+    "example": "He eventually agreed.",
+    "example_jp": "彼は結局同意した。"
+  },
+  {
+    "word": "unfortunately",
+    "meaning": "残念なことに",
+    "example": "Unfortunately, it failed.",
+    "example_jp": "残念なことに、それは失敗した。"
+  },
+  {
+    "word": "seemingly",
+    "meaning": "見たところ",
+    "example": "She was seemingly calm.",
+    "example_jp": "彼女は見たところ落ち着いていた。"
+  },
+  {
+    "word": "afterward",
+    "meaning": "後で",
+    "example": "We talked afterward.",
+    "example_jp": "私たちは後で話した。"
+  },
+  {
+    "word": "altogether",
+    "meaning": "完全に",
+    "example": "The plan failed altogether.",
+    "example_jp": "その計画は完全に失敗した。"
+  }
+]

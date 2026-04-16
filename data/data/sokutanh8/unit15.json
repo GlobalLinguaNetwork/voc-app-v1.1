@@ -1,0 +1,704 @@
+[
+  {
+    "word": "court",
+    "meaning": "法廷",
+    "example": "He went to court.",
+    "example_jp": "彼は法廷へ行った。"
+  },
+  {
+    "word": "court",
+    "meaning": "裁判所",
+    "example": "The court made a decision.",
+    "example_jp": "裁判所が決定を下した。"
+  },
+  {
+    "word": "criminal",
+    "meaning": "犯罪者",
+    "example": "He is a criminal.",
+    "example_jp": "彼は犯罪者だ。"
+  },
+  {
+    "word": "criminal",
+    "meaning": "犯罪の",
+    "example": "That was a criminal act.",
+    "example_jp": "それは犯罪の行為だった。"
+  },
+  {
+    "word": "guilty",
+    "meaning": "罪悪感を覚えて",
+    "example": "He felt guilty.",
+    "example_jp": "彼は罪悪感を覚えた。"
+  },
+  {
+    "word": "guilty",
+    "meaning": "罪を犯した",
+    "example": "He was guilty of theft.",
+    "example_jp": "彼は窃盗の罪を犯した。"
+  },
+  {
+    "word": "theft",
+    "meaning": "窃盗",
+    "example": "The theft happened at night.",
+    "example_jp": "その窃盗は夜に起こった。"
+  },
+  {
+    "word": "murder",
+    "meaning": "殺人",
+    "example": "The murder shocked the town.",
+    "example_jp": "その殺人は町にショックを与えた。"
+  },
+  {
+    "word": "unreliable",
+    "meaning": "信頼できない",
+    "example": "The data is unreliable.",
+    "example_jp": "そのデータは信頼できない。"
+  },
+  {
+    "word": "unstable",
+    "meaning": "不安定な",
+    "example": "The chair is unstable.",
+    "example_jp": "その椅子は不安定だ。"
+  },
+  {
+    "word": "unpredictable",
+    "meaning": "予測できない",
+    "example": "The weather is unpredictable.",
+    "example_jp": "天候は予測できない。"
+  },
+  {
+    "word": "confidence",
+    "meaning": "自信",
+    "example": "She has confidence.",
+    "example_jp": "彼女は自信を持っている。"
+  },
+  {
+    "word": "confidence",
+    "meaning": "信頼",
+    "example": "I have confidence in him.",
+    "example_jp": "私は彼を信頼している。"
+  },
+  {
+    "word": "odd",
+    "meaning": "奇妙な",
+    "example": "This story is odd.",
+    "example_jp": "この物語は奇妙だ。"
+  },
+  {
+    "word": "odd",
+    "meaning": "臨時の",
+    "example": "He has an odd job.",
+    "example_jp": "彼は臨時の仕事をしている。"
+  },
+  {
+    "word": "odd",
+    "meaning": "奇数の",
+    "example": "Three is an odd number.",
+    "example_jp": "3は奇数だ。"
+  },
+  {
+    "word": "odd",
+    "meaning": "可能性",
+    "example": "The odds are low.",
+    "example_jp": "その可能性は低い。"
+  },
+  {
+    "word": "fate",
+    "meaning": "運命",
+    "example": "He accepted his fate.",
+    "example_jp": "彼は自分の運命を受け入れた。"
+  },
+  {
+    "word": "destiny",
+    "meaning": "運命",
+    "example": "She met her destiny.",
+    "example_jp": "彼女は自分の運命に出会った。"
+  },
+  {
+    "word": "fatal",
+    "meaning": "致命的な",
+    "example": "It was a fatal mistake.",
+    "example_jp": "それは致命的な間違いだった。"
+  },
+  {
+    "word": "fatal",
+    "meaning": "取り返しのつかない",
+    "example": "The damage was fatal.",
+    "example_jp": "その損害は取り返しのつかないものだった。"
+  },
+  {
+    "word": "invisible",
+    "meaning": "見えない",
+    "example": "The stars are invisible to the eye.",
+    "example_jp": "星は目には見えない。"
+  },
+  {
+    "word": "visible",
+    "meaning": "見える",
+    "example": "The moon is visible tonight.",
+    "example_jp": "今夜は月が見える。"
+  },
+  {
+    "word": "stupid",
+    "meaning": "ばかな",
+    "example": "That was a stupid idea.",
+    "example_jp": "それはばかな考えだった。"
+  },
+  {
+    "word": "silly",
+    "meaning": "愚かな",
+    "example": "Don’t be silly.",
+    "example_jp": "愚かなことを言わないでください。"
+  },
+  {
+    "word": "check",
+    "meaning": "検査",
+    "example": "They did a safety check.",
+    "example_jp": "彼らは安全検査を行った。"
+  },
+  {
+    "word": "check",
+    "meaning": "点検",
+    "example": "The check was quick.",
+    "example_jp": "その点検は素早かった。"
+  },
+  {
+    "word": "check",
+    "meaning": "クローク",
+    "example": "Leave your bag at the check.",
+    "example_jp": "バッグをクロークに預けなさい。"
+  },
+  {
+    "word": "check",
+    "meaning": "小切手",
+    "example": "I wrote a check.",
+    "example_jp": "私は小切手を書いた。"
+  },
+  {
+    "word": "check",
+    "meaning": "調べる",
+    "example": "Please check the answer.",
+    "example_jp": "答えを調べてください。"
+  },
+  {
+    "word": "check",
+    "meaning": "阻止する",
+    "example": "They checked the attack.",
+    "example_jp": "彼らは攻撃を阻止した。"
+  },
+  {
+    "word": "drive",
+    "meaning": "運転する",
+    "example": "He drove the car.",
+    "example_jp": "彼は車を運転した。"
+  },
+  {
+    "word": "drive",
+    "meaning": "運転する",
+    "example": "I can drive now.",
+    "example_jp": "私は今、運転することができる。"
+  },
+  {
+    "word": "drive",
+    "meaning": "駆り立てる",
+    "example": "Fear drove him to act.",
+    "example_jp": "恐怖が彼を行動へと駆り立てた。"
+  },
+  {
+    "word": "drive",
+    "meaning": "衝動",
+    "example": "He felt a strong drive.",
+    "example_jp": "彼は強い衝動を感じた。"
+  },
+  {
+    "word": "drive",
+    "meaning": "ドライブ",
+    "example": "We went for a drive.",
+    "example_jp": "私たちはドライブに出かけた。"
+  },
+  {
+    "word": "will",
+    "meaning": "…するつもりだ",
+    "example": "I will go now.",
+    "example_jp": "私は今行くつもりだ。"
+  },
+  {
+    "word": "will",
+    "meaning": "…だろう",
+    "example": "It will rain.",
+    "example_jp": "雨が降るだろう。"
+  },
+  {
+    "word": "will",
+    "meaning": "意志",
+    "example": "She has a strong will.",
+    "example_jp": "彼女は強い意志を持っている。"
+  },
+  {
+    "word": "will",
+    "meaning": "遺言",
+    "example": "He left a will.",
+    "example_jp": "彼は遺言を残した。"
+  },
+  {
+    "word": "save",
+    "meaning": "救う",
+    "example": "He saved the child.",
+    "example_jp": "彼はその子供を救った。"
+  },
+  {
+    "word": "save",
+    "meaning": "貯蓄する",
+    "example": "She saved money.",
+    "example_jp": "彼女はお金を貯蓄した。"
+  },
+  {
+    "word": "save",
+    "meaning": "節約する",
+    "example": "This will save time.",
+    "example_jp": "これは時間の節約になる。"
+  },
+  {
+    "word": "save",
+    "meaning": "を除いて",
+    "example": "Everyone came save him.",
+    "example_jp": "彼を除いて全員が来た。"
+  },
+  {
+    "word": "serve",
+    "meaning": "役立つ",
+    "example": "This tool serves many uses.",
+    "example_jp": "この道具は多くの用途に役立つ。"
+  },
+  {
+    "word": "serve",
+    "meaning": "食事を出す",
+    "example": "They served dinner.",
+    "example_jp": "彼らは夕食を出した。"
+  },
+  {
+    "word": "serve",
+    "meaning": "仕える",
+    "example": "He served the king.",
+    "example_jp": "彼は王に仕えた。"
+  },
+  {
+    "word": "bear",
+    "meaning": "耐える",
+    "example": "I can’t bear the pain.",
+    "example_jp": "私はその痛みに耐えることができない。"
+  },
+  {
+    "word": "bear",
+    "meaning": "責任を持つ",
+    "example": "She bears responsibility.",
+    "example_jp": "彼女は責任を持っている。"
+  },
+  {
+    "word": "bear",
+    "meaning": "子を産む",
+    "example": "She bore a child.",
+    "example_jp": "彼女は子を産んだ。"
+  },
+  {
+    "word": "bear",
+    "meaning": "を有する",
+    "example": "The tree bears fruit.",
+    "example_jp": "その木は実をつけている（実を有する）。"
+  },
+  {
+    "word": "bear",
+    "meaning": "生じる",
+    "example": "The plan bore results.",
+    "example_jp": "その計画は結果を生じた。"
+  },
+  {
+    "word": "bear",
+    "meaning": "クマ",
+    "example": "A bear appeared.",
+    "example_jp": "クマが現れた。"
+  },
+  {
+    "word": "bill",
+    "meaning": "請求書",
+    "example": "I paid the bill.",
+    "example_jp": "私は請求書を支払った。"
+  },
+  {
+    "word": "bill",
+    "meaning": "紙幣",
+    "example": "He used a ten-dollar bill.",
+    "example_jp": "彼は10ドル紙幣を使った。"
+  },
+  {
+    "word": "bill",
+    "meaning": "法案",
+    "example": "The bill passed.",
+    "example_jp": "その法案が通過した。"
+  },
+  {
+    "word": "theory",
+    "meaning": "理論",
+    "example": "The theory is complex.",
+    "example_jp": "その理論は複雑だ。"
+  },
+  {
+    "word": "theory",
+    "meaning": "学説",
+    "example": "He proposed a new theory.",
+    "example_jp": "彼は新しい学説を提案した。"
+  },
+  {
+    "word": "assume",
+    "meaning": "と思い込む",
+    "example": "I assumed he knew.",
+    "example_jp": "私は彼が知っていると思い込んだ。"
+  },
+  {
+    "word": "assume",
+    "meaning": "引き受ける",
+    "example": "She assumed the role.",
+    "example_jp": "彼女はその役割を引き受けた。"
+  },
+  {
+    "word": "assume",
+    "meaning": "帯びる",
+    "example": "The idea assumed a new form.",
+    "example_jp": "その考えは新しい形態を帯びた。"
+  },
+  {
+    "word": "judge",
+    "meaning": "判断する",
+    "example": "Don’t judge others.",
+    "example_jp": "他人を判断してはいけない。"
+  },
+  {
+    "word": "judge",
+    "meaning": "裁判官",
+    "example": "The judge spoke.",
+    "example_jp": "裁判官が話をした。"
+  },
+  {
+    "word": "judge",
+    "meaning": "審判",
+    "example": "He is a fair judge.",
+    "example_jp": "彼は公正な審判だ。"
+  },
+  {
+    "word": "series",
+    "meaning": "シリーズ",
+    "example": "I watched the series.",
+    "example_jp": "私はそのシリーズを見た。"
+  },
+  {
+    "word": "series",
+    "meaning": "連続",
+    "example": "A series of events followed.",
+    "example_jp": "一連の（連続した）出来事が続いた。"
+  },
+  {
+    "word": "sequence",
+    "meaning": "順序",
+    "example": "The sequence is wrong.",
+    "example_jp": "順序が間違っている。"
+  },
+  {
+    "word": "sequence",
+    "meaning": "連続",
+    "example": "It happened in a strange sequence.",
+    "example_jp": "それは奇妙な連続の中で起こった。"
+  },
+  {
+    "word": "version",
+    "meaning": "版",
+    "example": "This is the new version.",
+    "example_jp": "これが新しい版だ。"
+  },
+  {
+    "word": "version",
+    "meaning": "意見",
+    "example": "That is his version.",
+    "example_jp": "それが彼の意見だ。"
+  },
+  {
+    "word": "version",
+    "meaning": "翻訳",
+    "example": "I read the English version.",
+    "example_jp": "私は英語版（翻訳）を読んだ。"
+  },
+  {
+    "word": "face",
+    "meaning": "顔",
+    "example": "His face is red.",
+    "example_jp": "彼の顔は赤い。"
+  },
+  {
+    "word": "face",
+    "meaning": "面する",
+    "example": "The wall faces the street.",
+    "example_jp": "壁が通りに面している。"
+  },
+  {
+    "word": "face",
+    "meaning": "直面する",
+    "example": "We face a problem.",
+    "example_jp": "私たちは問題に直面している。"
+  },
+  {
+    "word": "makeup",
+    "meaning": "化粧品",
+    "example": "She bought makeup.",
+    "example_jp": "彼女は化粧品を買った。"
+  },
+  {
+    "word": "makeup",
+    "meaning": "構造",
+    "example": "The makeup of the team changed.",
+    "example_jp": "チームの構造が変わった。"
+  },
+  {
+    "word": "makeup",
+    "meaning": "性質",
+    "example": "His makeup is gentle.",
+    "example_jp": "彼の性質は優しい。"
+  },
+  {
+    "word": "intelligence",
+    "meaning": "知能",
+    "example": "He has high intelligence.",
+    "example_jp": "彼は高い知能を持っている。"
+  },
+  {
+    "word": "intelligence",
+    "meaning": "情報",
+    "example": "They gathered intelligence.",
+    "example_jp": "彼らは情報を集めた。"
+  },
+  {
+    "word": "wisdom",
+    "meaning": "知恵",
+    "example": "She has great wisdom.",
+    "example_jp": "彼女は優れた知恵を持っている。"
+  },
+  {
+    "word": "factor",
+    "meaning": "要因",
+    "example": "Many factors caused it.",
+    "example_jp": "多くの要因がそれを引き起こした。"
+  },
+  {
+    "word": "correlation",
+    "meaning": "相関",
+    "example": "There is a correlation between them.",
+    "example_jp": "それらの間には相関がある。"
+  },
+  {
+    "word": "likelihood",
+    "meaning": "可能性",
+    "example": "The likelihood is high.",
+    "example_jp": "その可能性は高い。"
+  },
+  {
+    "word": "likewise",
+    "meaning": "同様に",
+    "example": "She smiled; he did likewise.",
+    "example_jp": "彼女は微笑んだ。彼も同様にした。"
+  },
+  {
+    "word": "likewise",
+    "meaning": "その上",
+    "example": "She is smart and likewise kind.",
+    "example_jp": "彼女は賢く、その上親切だ。"
+  },
+  {
+    "word": "worth",
+    "meaning": "価値がある",
+    "example": "This book is worth reading.",
+    "example_jp": "この本は読む価値がある。"
+  },
+  {
+    "word": "worth",
+    "meaning": "価値",
+    "example": "The painting has great worth.",
+    "example_jp": "その絵には大きな価値がある。"
+  },
+  {
+    "word": "deserve",
+    "meaning": "値する",
+    "example": "He deserves praise.",
+    "example_jp": "彼は賞賛に値する。"
+  },
+  {
+    "word": "note",
+    "meaning": "注意する",
+    "example": "Please note this point.",
+    "example_jp": "この点に注意してください。"
+  },
+  {
+    "word": "note",
+    "meaning": "気づく",
+    "example": "He noted the change.",
+    "example_jp": "彼は変化に気づいた。"
+  },
+  {
+    "word": "note",
+    "meaning": "言及する",
+    "example": "She noted his name.",
+    "example_jp": "彼女は彼の名前に言及した。"
+  },
+  {
+    "word": "note",
+    "meaning": "メモ",
+    "example": "I wrote a note.",
+    "example_jp": "私はメモを書いた。"
+  },
+  {
+    "word": "note",
+    "meaning": "記録",
+    "example": "He kept a note.",
+    "example_jp": "彼は記録をつけた。"
+  },
+  {
+    "word": "note",
+    "meaning": "紙幣",
+    "example": "This is a ten-dollar note.",
+    "example_jp": "これは10ドル紙幣だ。"
+  },
+  {
+    "word": "note",
+    "meaning": "音",
+    "example": "The note was loud.",
+    "example_jp": "その音は大きかった。"
+  },
+  {
+    "word": "emotional",
+    "meaning": "感情的な",
+    "example": "She is very emotional.",
+    "example_jp": "彼女はとても感情的だ。"
+  },
+  {
+    "word": "expression",
+    "meaning": "表情",
+    "example": "His expression changed.",
+    "example_jp": "彼の表情が変わった。"
+  },
+  {
+    "word": "expression",
+    "meaning": "表現",
+    "example": "This is a common expression.",
+    "example_jp": "これはよくある表現だ。"
+  },
+  {
+    "word": "express",
+    "meaning": "表現する",
+    "example": "He expressed his idea.",
+    "example_jp": "彼は自分の考えを表現した。"
+  },
+  {
+    "word": "express",
+    "meaning": "急行列車",
+    "example": "We took the express.",
+    "example_jp": "私たちは急行列車に乗った。"
+  },
+  {
+    "word": "express",
+    "meaning": "急行の",
+    "example": "This is an express train.",
+    "example_jp": "これは急行の列車だ。"
+  },
+  {
+    "word": "value",
+    "meaning": "価値",
+    "example": "The value is high.",
+    "example_jp": "価値は高い。"
+  },
+  {
+    "word": "value",
+    "meaning": "価値観",
+    "example": "Our values are different.",
+    "example_jp": "私たちの価値観は異なっている。"
+  },
+  {
+    "word": "value",
+    "meaning": "重要性",
+    "example": "This has great value.",
+    "example_jp": "これには大きな重要性がある。"
+  },
+  {
+    "word": "value",
+    "meaning": "値",
+    "example": "The value is 10.",
+    "example_jp": "値は10だ。"
+  },
+  {
+    "word": "value",
+    "meaning": "尊重する",
+    "example": "I value your opinion.",
+    "example_jp": "私はあなたの意見を尊重する。"
+  },
+  {
+    "word": "value",
+    "meaning": "評価する",
+    "example": "They valued the work.",
+    "example_jp": "彼らはその仕事を評価した。"
+  },
+  {
+    "word": "esteem",
+    "meaning": "尊重",
+    "example": "She has high esteem.",
+    "example_jp": "彼女は高い尊重（自尊心）を持っている。"
+  },
+  {
+    "word": "esteem",
+    "meaning": "高く評価する",
+    "example": "They esteemed him highly.",
+    "example_jp": "彼らは彼を高く評価した。"
+  },
+  {
+    "word": "happiness",
+    "meaning": "幸せ",
+    "example": "She found happiness.",
+    "example_jp": "彼女は幸せを見つけた。"
+  },
+  {
+    "word": "welfare",
+    "meaning": "福祉",
+    "example": "They support welfare.",
+    "example_jp": "彼らは福祉を支援している。"
+  },
+  {
+    "word": "welfare",
+    "meaning": "幸福",
+    "example": "His welfare matters.",
+    "example_jp": "彼の幸福は重要だ。"
+  },
+  {
+    "word": "highly",
+    "meaning": "非常に",
+    "example": "She is highly skilled.",
+    "example_jp": "彼女は非常に熟練している。"
+  },
+  {
+    "word": "highly",
+    "meaning": "高く",
+    "example": "He is highly rated.",
+    "example_jp": "彼は高く評価されている。"
+  },
+  {
+    "word": "expand",
+    "meaning": "拡大する",
+    "example": "They expanded the building.",
+    "example_jp": "彼らは建物を拡大した。"
+  },
+  {
+    "word": "expand",
+    "meaning": "広がる",
+    "example": "The city expanded.",
+    "example_jp": "都市が広がった。"
+  },
+  {
+    "word": "expand",
+    "meaning": "膨張する",
+    "example": "The balloon expanded.",
+    "example_jp": "風船が膨張した。"
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "word": "go so far as to do",
+    "meaning": "…しさえする",
+    "example": "He went so far as to lie.",
+    "example_jp": "彼は嘘をつきさえした。"
+  },
+  {
+    "word": "have no choice but to do",
+    "meaning": "…するよりほかに仕方がない",
+    "example": "We have no choice but to wait.",
+    "example_jp": "私たちは待つよりほかに仕方がない。"
+  },
+  {
+    "word": "spend ～ doing",
+    "meaning": "…して～を過ごす",
+    "example": "He spent two hours studying.",
+    "example_jp": "彼は勉強して2時間を過ごした。"
+  },
+  {
+    "word": "make a point of doing",
+    "meaning": "必ず…するようにする",
+    "example": "She makes a point of greeting everyone.",
+    "example_jp": "彼女は必ず全員に挨拶するようにしている。"
+  },
+  {
+    "word": "remain to be seen",
+    "meaning": "未定である",
+    "example": "The result remains to be seen.",
+    "example_jp": "その結果はまだ未定である。"
+  },
+  {
+    "word": "bring oneself to do",
+    "meaning": "…する気持ちになる",
+    "example": "I couldn’t bring myself to say it.",
+    "example_jp": "私はそれを言う気持ちになれなかった。"
+  },
+  {
+    "word": "take the trouble to do",
+    "meaning": "わざわざ…する",
+    "example": "He took the trouble to help me.",
+    "example_jp": "彼はわざわざ私を助けてくれた。"
+  },
+  {
+    "word": "leave nothing to be desired",
+    "meaning": "申し分ない",
+    "example": "The hotel left nothing to be desired.",
+    "example_jp": "そのホテルは申し分なかった。"
+  },
+  {
+    "word": "in order to do",
+    "meaning": "…するために",
+    "example": "He ran in order to catch the bus.",
+    "example_jp": "彼はバスに間に合うために走った。"
+  },
+  {
+    "word": "so as to do",
+    "meaning": "…するために",
+    "example": "She whispered so as to not wake him.",
+    "example_jp": "彼女は彼を起こさないために囁いた。"
+  },
+  {
+    "word": "in that",
+    "meaning": "…の点で",
+    "example": "He is lucky in that he has friends.",
+    "example_jp": "彼は友人たちがいるという点で運が良い。"
+  },
+  {
+    "word": "as long as",
+    "meaning": "…である限り",
+    "example": "You can stay as long as you want.",
+    "example_jp": "あなたが望む限り、ここにいていいですよ。"
+  },
+  {
+    "word": "so long as",
+    "meaning": "…である限り",
+    "example": "So long as you try, I’ll help.",
+    "example_jp": "あなたが努力する限り、私は助けよう。"
+  },
+  {
+    "word": "see to it that",
+    "meaning": "…するよう取り計らう",
+    "example": "See to it that he gets home.",
+    "example_jp": "彼が家に帰れるよう取り計らってください。"
+  },
+  {
+    "word": "so that ～ can do",
+    "meaning": "～が…できるように",
+    "example": "Speak clearly so that we can hear you.",
+    "example_jp": "私たちが聞こえるように、はっきりと話してください。"
+  },
+  {
+    "word": "by the time",
+    "meaning": "…までに",
+    "example": "By the time he arrived, we had left.",
+    "example_jp": "彼が到着したときまでに、私たちは出発していた。"
+  },
+  {
+    "word": "～, so that …",
+    "meaning": "～だ、その結果…",
+    "example": "It rained, so that we stayed home.",
+    "example_jp": "雨が降った。その結果、私たちは家にいた。"
+  },
+  {
+    "word": "now that",
+    "meaning": "…である以上",
+    "example": "Now that you’re here, let’s start.",
+    "example_jp": "あなたがここにいる以上、始めましょう。"
+  },
+  {
+    "word": "in case",
+    "meaning": "もし…ならば／…に備えて",
+    "example": "Take an umbrella in case it rains.",
+    "example_jp": "雨が降る場合に備えて傘を持っていきなさい。"
+  },
+  {
+    "word": "given that",
+    "meaning": "…を考慮すれば",
+    "example": "Given that he is young, he did well.",
+    "example_jp": "彼が若いことを考慮すれば、彼はよくやった。"
+  },
+  {
+    "word": "even as",
+    "meaning": "まさに…するときに",
+    "example": "Even as he spoke, she left.",
+    "example_jp": "まさに彼が話しているときに、彼女は立ち去った。"
+  },
+  {
+    "word": "if any",
+    "meaning": "もしあるとしても",
+    "example": "There were few people, if any.",
+    "example_jp": "もしあるとしても、人々はほとんどいなかった。"
+  },
+  {
+    "word": "on condition that",
+    "meaning": "…という条件で",
+    "example": "I’ll go on condition that you come.",
+    "example_jp": "あなたが来るという条件で、私は行きます。"
+  },
+  {
+    "word": "lest ～ should …",
+    "meaning": "～が…しないように",
+    "example": "Study hard lest you should fail.",
+    "example_jp": "失敗しないように、一生懸命勉強しなさい。"
+  },
+  {
+    "word": "what with A and B",
+    "meaning": "AやらBやらで",
+    "example": "What with rain and wind, we stayed home.",
+    "example_jp": "雨やら風やらで、私たちは家にいた。"
+  },
+  {
+    "word": "A, and B at that",
+    "meaning": "Aだ、その上Bでもある",
+    "example": "He is rich, and young at that.",
+    "example_jp": "彼は金持ちだ。その上若くもある。"
+  },
+  {
+    "word": "inasmuch as",
+    "meaning": "…だから",
+    "example": "He is lucky inasmuch as he has support.",
+    "example_jp": "彼は支持があるから運が良い。"
+  },
+  {
+    "word": "just about",
+    "meaning": "ほぼ",
+    "example": "I’m just about ready.",
+    "example_jp": "ほぼ準備ができた。"
+  },
+  {
+    "word": "go ahead",
+    "meaning": "進む、どうぞ",
+    "example": "Go ahead and start.",
+    "example_jp": "どうぞ始めてください。"
+  },
+  {
+    "word": "check out",
+    "meaning": "～を見てみる",
+    "example": "Check out this video.",
+    "example_jp": "この動画を見てみて。"
+  },
+  {
+    "word": "check out",
+    "meaning": "～を借り出す",
+    "example": "I checked out the book.",
+    "example_jp": "私はその本を借り出した。"
+  },
+  {
+    "word": "hold on",
+    "meaning": "待つ",
+    "example": "Hold on a second.",
+    "example_jp": "ちょっと待ってください。"
+  },
+  {
+    "word": "hold on",
+    "meaning": "頑張る",
+    "example": "Hold on and don’t give up.",
+    "example_jp": "諦めずに頑張って。"
+  },
+  {
+    "word": "hold on",
+    "meaning": "しっかりつかむ",
+    "example": "Hold on tight.",
+    "example_jp": "しっかりつかまって。"
+  },
+  {
+    "word": "hang up",
+    "meaning": "電話を切る",
+    "example": "He hung up the phone.",
+    "example_jp": "彼は電話を切った。"
+  },
+  {
+    "word": "hang up",
+    "meaning": "～を掛ける",
+    "example": "She hung up her coat.",
+    "example_jp": "彼女はコートを掛けた。"
+  },
+  {
+    "word": "give ～ a try",
+    "meaning": "～を試す",
+    "example": "Give it a try.",
+    "example_jp": "それを試してみて。"
+  },
+  {
+    "word": "give ～ a hand",
+    "meaning": "～を手伝う",
+    "example": "Give me a hand.",
+    "example_jp": "手伝ってください。"
+  },
+  {
+    "word": "call back",
+    "meaning": "折り返し電話する",
+    "example": "I’ll call you back later.",
+    "example_jp": "あとで折り返し電話します。"
+  },
+  {
+    "word": "call back",
+    "meaning": "呼び戻す",
+    "example": "They called him back to work.",
+    "example_jp": "彼らは彼を仕事に呼び戻した。"
+  },
+  {
+    "word": "from scratch",
+    "meaning": "最初から",
+    "example": "He built the house from scratch.",
+    "example_jp": "彼はその家を最初から建てた。"
+  },
+  {
+    "word": "see ～ off",
+    "meaning": "～を見送る",
+    "example": "We saw him off at the station.",
+    "example_jp": "私たちは駅で彼を見送った。"
+  },
+  {
+    "word": "hold one's breath",
+    "meaning": "息を止める",
+    "example": "He held his breath underwater.",
+    "example_jp": "彼は水中で息を止めた。"
+  },
+  {
+    "word": "at the wheel",
+    "meaning": "運転して",
+    "example": "She is at the wheel now.",
+    "example_jp": "彼女は今運転している。"
+  },
+  {
+    "word": "behind the wheel",
+    "meaning": "運転して",
+    "example": "He fell asleep behind the wheel.",
+    "example_jp": "彼は運転中に眠ってしまった。"
+  },
+  {
+    "word": "having said that",
+    "meaning": "そうは言ったものの",
+    "example": "Having said that, I still disagree.",
+    "example_jp": "そうは言ったものの、私はまだ反対だ。"
+  },
+  {
+    "word": "on the dot",
+    "meaning": "きっかりに",
+    "example": "He arrived at six on the dot.",
+    "example_jp": "彼は6時きっかりに到着した。"
+  },
+  {
+    "word": "ask ～ a favor",
+    "meaning": "～にお願いをする",
+    "example": "May I ask you a favor?",
+    "example_jp": "お願いをしてもよろしいですか。"
+  },
+  {
+    "word": "drive at",
+    "meaning": "～のつもりで言う",
+    "example": "What are you driving at?",
+    "example_jp": "あなたは何を言うつもりですか。"
+  },
+  {
+    "word": "lose face",
+    "meaning": "面目を失う",
+    "example": "He lost face after the mistake.",
+    "example_jp": "彼は間違いのあと、面目を失った。"
+  },
+  {
+    "word": "before one knows it",
+    "meaning": "あっという間に",
+    "example": "The day ended before I knew it.",
+    "example_jp": "あっという間に一日が終わった。"
+  },
+  {
+    "word": "stick around",
+    "meaning": "そこらで待つ",
+    "example": "Stick around for a while.",
+    "example_jp": "しばらくそこらで待っていなさい。"
+  },
+  {
+    "word": "call it a day",
+    "meaning": "仕事を終える",
+    "example": "Let’s call it a day.",
+    "example_jp": "今日の仕事を終えましょう。"
+  },
+  {
+    "word": "have a good command of",
+    "meaning": "～を使いこなす力がある",
+    "example": "She has a good command of English.",
+    "example_jp": "彼女は英語を使いこなす力がある。"
+  },
+  {
+    "word": "keep one's fingers crossed",
+    "meaning": "幸運を祈る",
+    "example": "I’m keeping my fingers crossed for you.",
+    "example_jp": "あなたの幸運を祈っています。"
+  },
+  {
+    "word": "pay a visit to",
+    "meaning": "訪問する",
+    "example": "We paid a visit to our uncle.",
+    "example_jp": "私たちは叔父を訪問した。"
+  },
+  {
+    "word": "serve ～ right",
+    "meaning": "当然の報いだ",
+    "example": "It serves him right.",
+    "example_jp": "それは彼にとって当然の報いだ。"
+  },
+  {
+    "word": "go to the polls",
+    "meaning": "投票に行く",
+    "example": "Many people went to the polls.",
+    "example_jp": "多くの人々が投票に行った。"
+  }
+]

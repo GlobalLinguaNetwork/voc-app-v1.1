@@ -1,0 +1,644 @@
+[
+  {
+    "word": "current",
+    "meaning": "最新の，今の",
+    "example": "This is the current plan.",
+    "example_jp": "これは最新の計画です。"
+  },
+  {
+    "word": "current",
+    "meaning": "流通して",
+    "example": "This rule is still current.",
+    "example_jp": "この規則は今も流通している。"
+  },
+  {
+    "word": "current",
+    "meaning": "流れ，風潮",
+    "example": "The river has a strong current.",
+    "example_jp": "その川は流れが速い。"
+  },
+  {
+    "word": "temporary",
+    "meaning": "一時的な",
+    "example": "This is a temporary job.",
+    "example_jp": "これは一時的な仕事です。"
+  },
+  {
+    "word": "permanent",
+    "meaning": "永久的な",
+    "example": "She got a permanent position.",
+    "example_jp": "彼女は永久的な職を得た。"
+  },
+  {
+    "word": "previous",
+    "meaning": "前の，以前の",
+    "example": "I read the previous chapter.",
+    "example_jp": "私は前の章を読んだ。"
+  },
+  {
+    "word": "former",
+    "meaning": "前者",
+    "example": "The former is better.",
+    "example_jp": "前者の方が良い。"
+  },
+  {
+    "word": "former",
+    "meaning": "元の、前の、旧",
+    "example": "He is a former teacher.",
+    "example_jp": "彼は元の教師だ。"
+  },
+  {
+    "word": "contemporary",
+    "meaning": "現代の",
+    "example": "Contemporary art is popular.",
+    "example_jp": "現代の芸術は人気がある。"
+  },
+  {
+    "word": "contemporary",
+    "meaning": "同時代の",
+    "example": "He was a contemporary of Newton.",
+    "example_jp": "彼はニュートンと同時代の人だった。"
+  },
+  {
+    "word": "contemporary",
+    "meaning": "同時代の人",
+    "example": "He met a contemporary.",
+    "example_jp": "彼は同時代の人に会った。"
+  },
+  {
+    "word": "lately",
+    "meaning": "最近",
+    "example": "I haven’t seen him lately.",
+    "example_jp": "私は最近彼に会っていない。"
+  },
+  {
+    "word": "immediately",
+    "meaning": "すぐに",
+    "example": "She left immediately.",
+    "example_jp": "彼女はすぐに出発した。"
+  },
+  {
+    "word": "immediately",
+    "meaning": "直接に",
+    "example": "The rooms are immediately connected.",
+    "example_jp": "それらの部屋は直接につながっている。"
+  },
+  {
+    "word": "deadline",
+    "meaning": "締め切り",
+    "example": "The deadline is tomorrow.",
+    "example_jp": "締め切りは明日だ。"
+  },
+  {
+    "word": "decade",
+    "meaning": "10年",
+    "example": "It took a decade to finish.",
+    "example_jp": "終えるのに10年かかった。"
+  },
+  {
+    "word": "supply",
+    "meaning": "～を供給する",
+    "example": "They supply fresh water.",
+    "example_jp": "彼らは新鮮な水を供給する。"
+  },
+  {
+    "word": "supply",
+    "meaning": "供給",
+    "example": "The water supply is low.",
+    "example_jp": "水の供給が少ない。"
+  },
+  {
+    "word": "replace",
+    "meaning": "～に取って代わる",
+    "example": "Robots may replace humans.",
+    "example_jp": "ロボットが人間に取って代わるかもしれない。"
+  },
+  {
+    "word": "replace",
+    "meaning": "AをBに取り替える",
+    "example": "She replaced A with B.",
+    "example_jp": "彼女はAをBに取り替えた。"
+  },
+  {
+    "word": "exchange",
+    "meaning": "～を交換する",
+    "example": "They exchanged gifts.",
+    "example_jp": "彼らは贈り物を交換した。"
+  },
+  {
+    "word": "exchange",
+    "meaning": "交換",
+    "example": "It was a fair exchange.",
+    "example_jp": "それは公平な交換だった。"
+  },
+  {
+    "word": "substitute",
+    "meaning": "（Bの）代わりに（A）を用いる",
+    "example": "She substituted tea for coffee.",
+    "example_jp": "彼女はコーヒーの代わりに紅茶を用いた。"
+  },
+  {
+    "word": "substitute",
+    "meaning": "代わりになる",
+    "example": "This can substitute for sugar.",
+    "example_jp": "これは砂糖の代わりになる。"
+  },
+  {
+    "word": "substitute",
+    "meaning": "代わりの",
+    "example": "He is a substitute player.",
+    "example_jp": "彼は代わりの選手だ。"
+  },
+  {
+    "word": "substitute",
+    "meaning": "代用品，代理人",
+    "example": "This is a substitute for milk.",
+    "example_jp": "これはミルクの代用品だ。"
+  },
+  {
+    "word": "submit",
+    "meaning": "提出する",
+    "example": "He submitted the form.",
+    "example_jp": "彼は用紙を提出した。"
+  },
+  {
+    "word": "submit",
+    "meaning": "服従する",
+    "example": "She submitted to the rules.",
+    "example_jp": "彼女は規則に服従した。"
+  },
+  {
+    "word": "alternative",
+    "meaning": "代わりのもの",
+    "example": "We need an alternative to this plan.",
+    "example_jp": "私たちはこの計画に代わる代わりのものが必要だ。"
+  },
+  {
+    "word": "alternative",
+    "meaning": "選択肢",
+    "example": "You have two alternatives.",
+    "example_jp": "あなたには2つの選択肢がある。"
+  },
+  {
+    "word": "alternative",
+    "meaning": "代わりの、既存のものとは違う",
+    "example": "They chose an alternative method.",
+    "example_jp": "彼らは代わりの、既存のものとは違う方法を選んだ。"
+  },
+  {
+    "word": "deliver",
+    "meaning": "～を配達する",
+    "example": "They deliver packages daily.",
+    "example_jp": "彼らは毎日荷物を配達する。"
+  },
+  {
+    "word": "deliver",
+    "meaning": "演説などをする",
+    "example": "She delivered a speech.",
+    "example_jp": "彼女は演説などをした。"
+  },
+  {
+    "word": "enclose",
+    "meaning": "～を同封する",
+    "example": "I enclosed the file.",
+    "example_jp": "私はファイルを同封した。"
+  },
+  {
+    "word": "enclose",
+    "meaning": "囲む，閉じ込める",
+    "example": "The garden is enclosed by walls.",
+    "example_jp": "その庭は壁に囲まれている。"
+  },
+  {
+    "word": "envelope",
+    "meaning": "封筒",
+    "example": "He opened the envelope.",
+    "example_jp": "彼は封筒を開けた。"
+  },
+  {
+    "word": "trick",
+    "meaning": "いたずら",
+    "example": "The kids played a trick.",
+    "example_jp": "子供たちはいたずらをした。"
+  },
+  {
+    "word": "trick",
+    "meaning": "手口，策略",
+    "example": "It was a clever trick.",
+    "example_jp": "それは巧妙な手口だった。"
+  },
+  {
+    "word": "trick",
+    "meaning": "芸，手品",
+    "example": "The dog learned a new trick.",
+    "example_jp": "その犬は新しい芸を覚えた。"
+  },
+  {
+    "word": "trick",
+    "meaning": "秘けつ",
+    "example": "The trick of cooking is timing.",
+    "example_jp": "料理の秘けつはタイミングだ。"
+  },
+  {
+    "word": "trick",
+    "meaning": "～をだます",
+    "example": "He tricked me.",
+    "example_jp": "彼は私をだました。"
+  },
+  {
+    "word": "load",
+    "meaning": "荷（物）",
+    "example": "The truck carried a heavy load.",
+    "example_jp": "そのトラックは重い荷物を運んだ。"
+  },
+  {
+    "word": "load",
+    "meaning": "AにBを積む",
+    "example": "They loaded the truck with boxes.",
+    "example_jp": "彼らはトラックに箱を積んだ。"
+  },
+  {
+    "word": "content",
+    "meaning": "中身，内容",
+    "example": "The box’s content is fragile.",
+    "example_jp": "その箱の中身は壊れやすい。"
+  },
+  {
+    "word": "content",
+    "meaning": "満足して",
+    "example": "She is content with her life.",
+    "example_jp": "彼女は自分の人生に満足している。"
+  },
+  {
+    "word": "household",
+    "meaning": "所帯，家庭",
+    "example": "Each household has a TV.",
+    "example_jp": "各家庭にテレビがある。"
+  },
+  {
+    "word": "household",
+    "meaning": "家庭の",
+    "example": "Household items are cheap.",
+    "example_jp": "家庭の品物は安い。"
+  },
+  {
+    "word": "good",
+    "meaning": "商品",
+    "example": "These goods are imported.",
+    "example_jp": "これらの商品は輸入されている。"
+  },
+  {
+    "word": "good",
+    "meaning": "利益",
+    "example": "It was for the public good.",
+    "example_jp": "それは公共の利益のためだった。"
+  },
+  {
+    "word": "good",
+    "meaning": "かなりの",
+    "example": "A good many people came.",
+    "example_jp": "かなりの多くの人が来た。"
+  },
+  {
+    "word": "luxury",
+    "meaning": "高級品，ぜいたく品",
+    "example": "A yacht is a luxury.",
+    "example_jp": "ヨットは高級品だ。"
+  },
+  {
+    "word": "luxury",
+    "meaning": "豪華な，ぜいたくな",
+    "example": "They stayed in a luxury hotel.",
+    "example_jp": "彼らは豪華なホテルに泊まった。"
+  },
+  {
+    "word": "credit",
+    "meaning": "クレジットカード",
+    "example": "I paid by credit card.",
+    "example_jp": "私はクレジットカードで支払った。"
+  },
+  {
+    "word": "credit",
+    "meaning": "功績，手柄",
+    "example": "He got credit for the idea.",
+    "example_jp": "彼はそのアイデアで功績を認められた。"
+  },
+  {
+    "word": "credit",
+    "meaning": "単位",
+    "example": "I need three more credits.",
+    "example_jp": "私はあと3単位必要だ。"
+  },
+  {
+    "word": "credit",
+    "meaning": "功績を認める",
+    "example": "They credited him for the success.",
+    "example_jp": "彼らは彼の成功に対して功績を認めた。"
+  },
+  {
+    "word": "questionnaire",
+    "meaning": "アンケート",
+    "example": "Please fill out the questionnaire.",
+    "example_jp": "アンケートにご記入ください。"
+  },
+  {
+    "word": "reservation",
+    "meaning": "予約",
+    "example": "I made a reservation.",
+    "example_jp": "私は予約をした。"
+  },
+  {
+    "word": "reservation",
+    "meaning": "慎重な姿勢",
+    "example": "She has reservations about the plan.",
+    "example_jp": "彼女はその計画に対して慎重な姿勢を見せている。"
+  },
+  {
+    "word": "fuss",
+    "meaning": "大騒ぎ",
+    "example": "Don’t make a fuss.",
+    "example_jp": "大騒ぎするな。"
+  },
+  {
+    "word": "reward",
+    "meaning": "報酬，褒美，懸賞金",
+    "example": "He received a reward.",
+    "example_jp": "彼は報酬を受け取った。"
+  },
+  {
+    "word": "reward",
+    "meaning": "褒美を与える，報いる",
+    "example": "They rewarded her effort.",
+    "example_jp": "彼らは彼女の努力に報いた。"
+  },
+  {
+    "word": "farewell",
+    "meaning": "別れ（のあいさつ）",
+    "example": "He said farewell.",
+    "example_jp": "彼は別れのあいさつを言った。"
+  },
+  {
+    "word": "reception",
+    "meaning": "もてなし，歓迎会",
+    "example": "The reception was warm.",
+    "example_jp": "そのもてなしは温かかった。"
+  },
+  {
+    "word": "reception",
+    "meaning": "フロント",
+    "example": "Ask at the reception.",
+    "example_jp": "フロントで尋ねてください。"
+  },
+  {
+    "word": "reception",
+    "meaning": "受信状況",
+    "example": "The TV reception is bad.",
+    "example_jp": "テレビの受信状況が悪い。"
+  },
+  {
+    "word": "portion",
+    "meaning": "1盛り",
+    "example": "He ate a large portion.",
+    "example_jp": "彼は一盛り分をたくさん食べた。"
+  },
+  {
+    "word": "portion",
+    "meaning": "1人前",
+    "example": "The portion is small.",
+    "example_jp": "1人前が少ない。"
+  },
+  {
+    "word": "portion",
+    "meaning": "一部",
+    "example": "A portion of the land was sold.",
+    "example_jp": "その土地の一部が売られた。"
+  },
+  {
+    "word": "laundry",
+    "meaning": "洗濯",
+    "example": "I did the laundry.",
+    "example_jp": "私は洗濯をした。"
+  },
+  {
+    "word": "laundry",
+    "meaning": "洗濯物",
+    "example": "The laundry is still wet.",
+    "example_jp": "洗濯物がまだ濡れている。"
+  },
+  {
+    "word": "laundry",
+    "meaning": "クリーニング店",
+    "example": "I took it to the laundry.",
+    "example_jp": "私はそれをクリーニング店に持っていった。"
+  },
+  {
+    "word": "nap",
+    "meaning": "昼寝，仮眠",
+    "example": "I took a short nap.",
+    "example_jp": "私は短い昼寝をした。"
+  },
+  {
+    "word": "nap",
+    "meaning": "昼寝をする",
+    "example": "He napped on the sofa.",
+    "example_jp": "彼はソファで昼寝をした。"
+  },
+  {
+    "word": "wake",
+    "meaning": "目が覚める",
+    "example": "I woke at six.",
+    "example_jp": "私は6時に目が覚めた。"
+  },
+  {
+    "word": "wake",
+    "meaning": "起こす",
+    "example": "She woke him up.",
+    "example_jp": "彼女は彼を起こした。"
+  },
+  {
+    "word": "vending machine",
+    "meaning": "自動販売機",
+    "example": "The vending machine is broken.",
+    "example_jp": "その自動販売機は壊れている。"
+  },
+  {
+    "word": "grocery",
+    "meaning": "食料雑貨店",
+    "example": "I went to the grocery.",
+    "example_jp": "私は食料雑貨店へ行った。"
+  },
+  {
+    "word": "grocery",
+    "meaning": "食料雑貨類",
+    "example": "I bought groceries.",
+    "example_jp": "私は食料雑貨類を買った。"
+  },
+  {
+    "word": "appointment",
+    "meaning": "予約",
+    "example": "I have a doctor’s appointment.",
+    "example_jp": "私は医者の予約がある。"
+  },
+  {
+    "word": "appointment",
+    "meaning": "任命，指名",
+    "example": "She got an appointment as manager.",
+    "example_jp": "彼女はマネージャーとしての任命を受けた。"
+  },
+  {
+    "word": "consult",
+    "meaning": "相談する",
+    "example": "He consulted a lawyer.",
+    "example_jp": "彼は弁護士に相談した。"
+  },
+  {
+    "word": "consult",
+    "meaning": "辞書を引く",
+    "example": "She consulted the dictionary.",
+    "example_jp": "彼女は辞書を引いた。"
+  },
+  {
+    "word": "consult",
+    "meaning": "相談する",
+    "example": "He consulted with his team.",
+    "example_jp": "彼はチームと相談した。"
+  },
+  {
+    "word": "register",
+    "meaning": "登録する，記録する",
+    "example": "She registered the car.",
+    "example_jp": "彼女は車を登録した。"
+  },
+  {
+    "word": "register",
+    "meaning": "登録する",
+    "example": "I registered for the class.",
+    "example_jp": "私はクラスに登録した。"
+  },
+  {
+    "word": "register",
+    "meaning": "記帳する",
+    "example": "He registered at the hotel.",
+    "example_jp": "彼はホテルで記帳した。"
+  },
+  {
+    "word": "register",
+    "meaning": "登録簿",
+    "example": "His name is on the register.",
+    "example_jp": "彼の名前は登録簿に載っている。"
+  },
+  {
+    "word": "dye",
+    "meaning": "～を染める",
+    "example": "She dyed her hair.",
+    "example_jp": "彼女は髪を染めた。"
+  },
+  {
+    "word": "dye",
+    "meaning": "染料",
+    "example": "The dye stained the cloth.",
+    "example_jp": "その染料は布を汚した。"
+  },
+  {
+    "word": "subscribe",
+    "meaning": "定期購読する",
+    "example": "I subscribe to the magazine.",
+    "example_jp": "私はその雑誌を定期購読している。"
+  },
+  {
+    "word": "subscribe",
+    "meaning": "支持する",
+    "example": "I can’t subscribe to that idea.",
+    "example_jp": "私はその考えを支持することができない。"
+  },
+  {
+    "word": "guarantee",
+    "meaning": "保証する",
+    "example": "They guarantee the product.",
+    "example_jp": "彼らはその製品を保証する。"
+  },
+  {
+    "word": "guarantee",
+    "meaning": "保証（期間）",
+    "example": "It has a one-year guarantee.",
+    "example_jp": "それには1年間の保証がついている。"
+  },
+  {
+    "word": "wipe",
+    "meaning": "～を拭く",
+    "example": "She wiped the table.",
+    "example_jp": "彼女はテーブルを拭いた。"
+  },
+  {
+    "word": "wipe",
+    "meaning": "一掃する，壊滅させる",
+    "example": "The storm wiped out the town.",
+    "example_jp": "嵐が町を壊滅させた。"
+  },
+  {
+    "word": "sweep",
+    "meaning": "掃く",
+    "example": "She swept the floor.",
+    "example_jp": "彼女は床を掃いた。"
+  },
+  {
+    "word": "sweep",
+    "meaning": "押し流す",
+    "example": "The waves swept the boat away.",
+    "example_jp": "波がボートを押し流した。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "乗り換える",
+    "example": "I transferred at Osaka.",
+    "example_jp": "私は大阪で乗り換えた。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "転校する",
+    "example": "He transferred to another school.",
+    "example_jp": "彼は別の学校へ転校した。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "移す，転勤させる",
+    "example": "They transferred the office.",
+    "example_jp": "彼らはオフィスを移した。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "振り込む",
+    "example": "I transferred the money.",
+    "example_jp": "私はお金を振り込んだ。"
+  },
+  {
+    "word": "divorce",
+    "meaning": "離婚する",
+    "example": "They divorced last year.",
+    "example_jp": "彼らは昨年離婚した。"
+  },
+  {
+    "word": "divorce",
+    "meaning": "～と離婚する",
+    "example": "She divorced him.",
+    "example_jp": "彼女は彼と離婚した。"
+  },
+  {
+    "word": "divorce",
+    "meaning": "離婚",
+    "example": "The divorce was final.",
+    "example_jp": "離婚が成立した。"
+  },
+  {
+    "word": "fate",
+    "meaning": "運命，宿命",
+    "example": "He accepted his fate.",
+    "example_jp": "彼は自分の運命を受け入れた。"
+  },
+  {
+    "word": "destiny",
+    "meaning": "運命",
+    "example": "She believes in destiny.",
+    "example_jp": "彼女は運命を信じている。"
+  }
+]

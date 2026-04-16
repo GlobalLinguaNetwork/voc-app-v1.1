@@ -1,0 +1,362 @@
+[
+  {
+    "word": "dictate",
+    "meaning": "書き取らせる",
+    "example": "The teacher dictated the sentence.",
+    "example_jp": "先生は文を書き取らせた。"
+  },
+  {
+    "word": "dictate",
+    "meaning": "命令する，規定する",
+    "example": "Circumstances dictated the decision.",
+    "example_jp": "状況がその決定を規定した。"
+  },
+  {
+    "word": "provoke",
+    "meaning": "引き起こす",
+    "example": "His comment provoked criticism.",
+    "example_jp": "彼のコメントは批判を引き起こした。"
+  },
+  {
+    "word": "provoke",
+    "meaning": "怒らせる",
+    "example": "She provoked him on purpose.",
+    "example_jp": "彼女はわざと彼を怒らせた。"
+  },
+  {
+    "word": "refine",
+    "meaning": "洗練させる",
+    "example": "They refined the design.",
+    "example_jp": "彼らはデザインを洗練させた。"
+  },
+  {
+    "word": "enlighten",
+    "meaning": "啓蒙する",
+    "example": "The book enlightened many readers.",
+    "example_jp": "その本は多くの読者を啓蒙した。"
+  },
+  {
+    "word": "unleash",
+    "meaning": "爆発させる，束縛を解く",
+    "example": "He unleashed his anger.",
+    "example_jp": "彼は怒りを爆発させた。"
+  },
+  {
+    "word": "prolong",
+    "meaning": "長引かせる",
+    "example": "Stress prolonged his recovery.",
+    "example_jp": "ストレスが彼の回復を長引かせた。"
+  },
+  {
+    "word": "mitigate",
+    "meaning": "緩和する",
+    "example": "The medicine mitigated the pain.",
+    "example_jp": "その薬は痛みを緩和した。"
+  },
+  {
+    "word": "grind",
+    "meaning": "挽く",
+    "example": "They ground the coffee beans.",
+    "example_jp": "彼らはコーヒー豆を挽いた。"
+  },
+  {
+    "word": "withstand",
+    "meaning": "耐える",
+    "example": "The building can withstand earthquakes.",
+    "example_jp": "その建物は地震に耐えることができる。"
+  },
+  {
+    "word": "exert",
+    "meaning": "働かせる",
+    "example": "He exerted great effort.",
+    "example_jp": "彼は多大な努力を働かせた。"
+  },
+  {
+    "word": "summon",
+    "meaning": "呼ぶ，召喚する",
+    "example": "They summoned him to court.",
+    "example_jp": "彼らは彼を法廷に召喚した。"
+  },
+  {
+    "word": "summon",
+    "meaning": "奮い立たせる",
+    "example": "She summoned her courage.",
+    "example_jp": "彼女は勇気を奮い立たせた。"
+  },
+  {
+    "word": "thrust",
+    "meaning": "強く押しつける",
+    "example": "He thrust the door open.",
+    "example_jp": "彼はドアを強く押し開けた。"
+  },
+  {
+    "word": "thrust",
+    "meaning": "突き刺す",
+    "example": "The attacker thrust a knife.",
+    "example_jp": "攻撃者はナイフを突き刺した。"
+  },
+  {
+    "word": "pierce",
+    "meaning": "突き刺す，突き通す",
+    "example": "The arrow pierced the target.",
+    "example_jp": "矢が標的を突き刺した。"
+  },
+  {
+    "word": "harness",
+    "meaning": "利用する",
+    "example": "They harnessed solar energy.",
+    "example_jp": "彼らは太陽エネルギーを利用した。"
+  },
+  {
+    "word": "excavate",
+    "meaning": "発掘する",
+    "example": "They excavated ancient ruins.",
+    "example_jp": "彼らは古代の遺跡を発掘した。"
+  },
+  {
+    "word": "evade",
+    "meaning": "逃れる",
+    "example": "He evaded responsibility.",
+    "example_jp": "彼は責任を逃れた。"
+  },
+  {
+    "word": "embody",
+    "meaning": "具体化する",
+    "example": "The statue embodies freedom.",
+    "example_jp": "その像は自由を具体化している。"
+  },
+  {
+    "word": "assimilate",
+    "meaning": "吸収する",
+    "example": "Plants assimilate nutrients.",
+    "example_jp": "植物は栄養分を吸収する。"
+  },
+  {
+    "word": "assimilate",
+    "meaning": "同化する",
+    "example": "Immigrants assimilated into society.",
+    "example_jp": "移民たちは社会に同化した。"
+  },
+  {
+    "word": "discern",
+    "meaning": "見分ける",
+    "example": "She discerned a slight difference.",
+    "example_jp": "彼女はわずかな違いを見分けた。"
+  },
+  {
+    "word": "scrutinize",
+    "meaning": "詳細に調べる，精査する",
+    "example": "They scrutinized the documents.",
+    "example_jp": "彼らは書類を精査した。"
+  },
+  {
+    "word": "streamline",
+    "meaning": "合理化する",
+    "example": "The company streamlined its operations.",
+    "example_jp": "その会社は業務を合理化した。"
+  },
+  {
+    "word": "mentor",
+    "meaning": "指導する",
+    "example": "She mentored new employees.",
+    "example_jp": "彼女は新入社員を指導した。"
+  },
+  {
+    "word": "mentor",
+    "meaning": "指導者",
+    "example": "He is a trusted mentor.",
+    "example_jp": "彼は信頼されている指導者だ。"
+  },
+  {
+    "word": "contemplate",
+    "meaning": "熟考する",
+    "example": "He contemplated the problem.",
+    "example_jp": "彼はその問題を熟考した。"
+  },
+  {
+    "word": "conjecture",
+    "meaning": "推測する",
+    "example": "They conjectured the cause.",
+    "example_jp": "彼らは原因を推測した。"
+  },
+  {
+    "word": "presume",
+    "meaning": "推定する",
+    "example": "I presume he is honest.",
+    "example_jp": "私は、彼は誠実であると推定する。"
+  },
+  {
+    "word": "presume",
+    "meaning": "前提とする",
+    "example": "The plan presumes full cooperation.",
+    "example_jp": "その計画は全面的な協力を前提としている。"
+  },
+  {
+    "word": "gauge",
+    "meaning": "判断する，評価する",
+    "example": "They gauged public opinion.",
+    "example_jp": "彼らは世論を判断した。"
+  },
+  {
+    "word": "verify",
+    "meaning": "確かめる，検証する",
+    "example": "They verified the facts.",
+    "example_jp": "彼らは事実を検証した。"
+  },
+  {
+    "word": "pledge",
+    "meaning": "誓う",
+    "example": "He pledged to support the project.",
+    "example_jp": "彼はプロジェクトを支援することを誓った。"
+  },
+  {
+    "word": "dismay",
+    "meaning": "狼狽させる",
+    "example": "The news dismayed her.",
+    "example_jp": "そのニュースは彼女を狼狽させた。"
+  },
+  {
+    "word": "dismay",
+    "meaning": "狼狽",
+    "example": "She felt deep dismay.",
+    "example_jp": "彼女は深い狼狽を感じた。"
+  },
+  {
+    "word": "lament",
+    "meaning": "深く悲しむ，嘆く",
+    "example": "They lamented his death.",
+    "example_jp": "彼らは彼の死を深く悲しんだ。"
+  },
+  {
+    "word": "perplex",
+    "meaning": "困惑させる",
+    "example": "The question perplexed him.",
+    "example_jp": "その質問は彼を困惑させた。"
+  },
+  {
+    "word": "disgust",
+    "meaning": "嫌悪を抱かせる",
+    "example": "The smell disgusted them.",
+    "example_jp": "その臭いは彼らに嫌悪を抱かせた。"
+  },
+  {
+    "word": "disgust",
+    "meaning": "嫌悪",
+    "example": "She looked away in disgust.",
+    "example_jp": "彼女は嫌悪感を持って目をそらした。"
+  },
+  {
+    "word": "evoke",
+    "meaning": "呼び起こす",
+    "example": "The song evoked memories.",
+    "example_jp": "その歌は記憶を呼び起こした。"
+  },
+  {
+    "word": "harbor",
+    "meaning": "心に抱く",
+    "example": "He harbored doubts.",
+    "example_jp": "彼は疑念を心に抱いた。"
+  },
+  {
+    "word": "harbor",
+    "meaning": "住まわせる",
+    "example": "The body can harbor bacteria.",
+    "example_jp": "体は細菌を住まわせることがある。"
+  },
+  {
+    "word": "friction",
+    "meaning": "摩擦",
+    "example": "Friction slows the movement.",
+    "example_jp": "摩擦が動きを遅くする。"
+  },
+  {
+    "word": "mutation",
+    "meaning": "突然変異",
+    "example": "The mutation caused changes.",
+    "example_jp": "その突然変異が変化を引き起こした。"
+  },
+  {
+    "word": "heredity",
+    "meaning": "遺伝",
+    "example": "Traits are passed through heredity.",
+    "example_jp": "特性は遺伝によって受け継がれる。"
+  },
+  {
+    "word": "synthesis",
+    "meaning": "合成，統合",
+    "example": "Chemical synthesis requires skill.",
+    "example_jp": "化学合成には技術が必要だ。"
+  },
+  {
+    "word": "veterinarian",
+    "meaning": "獣医",
+    "example": "She became a veterinarian.",
+    "example_jp": "彼女は獣医になった。"
+  },
+  {
+    "word": "epidemic",
+    "meaning": "流行",
+    "example": "The epidemic spread quickly.",
+    "example_jp": "流行病は急速に広がった。"
+  },
+  {
+    "word": "obesity",
+    "meaning": "肥満",
+    "example": "Obesity is a serious issue.",
+    "example_jp": "肥満は深刻な問題だ。"
+  },
+  {
+    "word": "neuron",
+    "meaning": "ニューロン",
+    "example": "Neurons transmit signals.",
+    "example_jp": "ニューロンは信号を伝達する。"
+  },
+  {
+    "word": "dementia",
+    "meaning": "認知症",
+    "example": "Dementia affects memory.",
+    "example_jp": "認知症は記憶に影響を与える。"
+  },
+  {
+    "word": "diabetes",
+    "meaning": "糖尿病",
+    "example": "Diabetes requires long-term care.",
+    "example_jp": "糖尿病は長期的なケアを必要とする。"
+  },
+  {
+    "word": "placebo",
+    "meaning": "偽薬，プラシーボ",
+    "example": "They gave a placebo to the control group.",
+    "example_jp": "彼らは対照群にプラシーボ（偽薬）を与えた。"
+  },
+  {
+    "word": "malnutrition",
+    "meaning": "栄養失調",
+    "example": "Malnutrition affects children worldwide.",
+    "example_jp": "栄養失調は世界中の子供たちに影響を及ぼしている。"
+  },
+  {
+    "word": "dehydration",
+    "meaning": "脱水",
+    "example": "Dehydration can be dangerous.",
+    "example_jp": "脱水症状は危険な場合がある。"
+  },
+  {
+    "word": "abortion",
+    "meaning": "中絶",
+    "example": "She underwent an abortion.",
+    "example_jp": "彼女は中絶手術を受けた。"
+  },
+  {
+    "word": "antibiotic",
+    "meaning": "抗生物質",
+    "example": "The doctor prescribed antibiotics.",
+    "example_jp": "医師は抗生物質を処方した。"
+  },
+  {
+    "word": "psychiatry",
+    "meaning": "精神科，精神医学",
+    "example": "He specializes in psychiatry.",
+    "example_jp": "彼は精神医学を専門としている。"
+  }
+]

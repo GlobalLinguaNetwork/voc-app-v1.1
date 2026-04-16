@@ -1,0 +1,404 @@
+[
+  {
+    "word": "embody",
+    "meaning": "具現する",
+    "example": "She embodies the spirit of kindness.",
+    "example_jp": "彼女は親切心を具現している（体現している）。"
+  },
+  {
+    "word": "embody",
+    "meaning": "包含する",
+    "example": "The new law embodies several important changes.",
+    "example_jp": "その新法はいくつかの重要な変更を包含している。"
+  },
+  {
+    "word": "illuminate",
+    "meaning": "照らす",
+    "example": "Bright floodlights illuminate the football stadium.",
+    "example_jp": "明るい投光照明がサッカースタジアムを照らしている。"
+  },
+  {
+    "word": "illuminate",
+    "meaning": "解明する",
+    "example": "The study helps to illuminate the causes of the disease.",
+    "example_jp": "その研究はその病気の原因を解明するのに役立つ。"
+  },
+  {
+    "word": "console",
+    "meaning": "慰める",
+    "example": "Nothing could console him after he lost his dog.",
+    "example_jp": "犬を亡くした後、何をもってしても彼を慰めることはできなかった。"
+  },
+  {
+    "word": "verify",
+    "meaning": "正しさを証明［確認］する",
+    "example": "Please verify your email address to complete the registration.",
+    "example_jp": "登録を完了するためにメールアドレスを確認してください。"
+  },
+  {
+    "word": "disclose",
+    "meaning": "公表する，暴く",
+    "example": "The company refused to disclose its financial details.",
+    "example_jp": "その会社は財務面の詳細を公表することを拒んだ。"
+  },
+  {
+    "word": "stack",
+    "meaning": "積む，積み重ねる",
+    "example": "Could you help me stack these boxes in the corner?",
+    "example_jp": "これらの箱を隅に積み重ねるのを手伝ってくれますか？"
+  },
+  {
+    "word": "stack",
+    "meaning": "（車が）渋滞する",
+    "example": "Traffic is starting to stack up on the highway.",
+    "example_jp": "高速道路で車が渋滞し始めている。"
+  },
+  {
+    "word": "rotate",
+    "meaning": "回転する",
+    "example": "The earth rotates on its axis once every 24 hours.",
+    "example_jp": "地球は24時間に一度、自転（回転）している。"
+  },
+  {
+    "word": "rotate",
+    "meaning": "循環する，交代する",
+    "example": "We rotate the cleaning duties among the staff.",
+    "example_jp": "私たちはスタッフ間で掃除の当番を交代（循環）させている。"
+  },
+  {
+    "word": "constrain",
+    "meaning": "強いる",
+    "example": "Economic conditions constrained them to delay the project.",
+    "example_jp": "経済状況が彼らにプロジェクトの延期を強いた。"
+  },
+  {
+    "word": "constrain",
+    "meaning": "抑える，制限する",
+    "example": "Our research is constrained by a lack of funding.",
+    "example_jp": "私たちの研究は資金不足によって制限されている（抑えられている）。"
+  },
+  {
+    "word": "hinder",
+    "meaning": "妨げる",
+    "example": "A lack of confidence can hinder your personal growth.",
+    "example_jp": "自信の欠如は個人の成長を妨げることがある。"
+  },
+  {
+    "word": "withstand",
+    "meaning": "耐える",
+    "example": "The building was designed to withstand strong earthquakes.",
+    "example_jp": "その建物は強い地震に耐えられるように設計された。"
+  },
+  {
+    "word": "tweet",
+    "meaning": "ツイートする，つぶやく",
+    "example": "The celebrity tweets about her daily life every morning.",
+    "example_jp": "その有名人は毎朝、自分の日常生活についてツイートしている。"
+  },
+  {
+    "word": "sneeze",
+    "meaning": "くしゃみをする",
+    "example": "The strong pepper made me sneeze several times.",
+    "example_jp": "強いコショウのせいで、数回くしゃみが出た。"
+  },
+  {
+    "word": "erupt",
+    "meaning": "噴火する",
+    "example": "The volcano is expected to erupt at any moment.",
+    "example_jp": "その火山はいつ噴火してもおかしくないと予想されている。"
+  },
+  {
+    "word": "erupt",
+    "meaning": "勃発する",
+    "example": "Violence erupted in the city after the football match.",
+    "example_jp": "サッカーの試合後、市内で暴力沙汰が勃発した。"
+  },
+  {
+    "word": "blur",
+    "meaning": "ぼかす，曇らせる，あいまいにする",
+    "example": "Tears began to blur her vision as she read the letter.",
+    "example_jp": "手紙を読んでいると、涙で彼女の視界が曇り（ぼやけ）始めた。"
+  },
+  {
+    "word": "overlap",
+    "meaning": "重なる，重複する",
+    "example": "Our responsibilities in the office often overlap.",
+    "example_jp": "オフィスでの私たちの責任（業務）はしばしば重なっている。"
+  },
+  {
+    "word": "embed",
+    "meaning": "埋め込まれる，はめ込まれる",
+    "example": "The microchip is embedded in the plastic card.",
+    "example_jp": "マイクロチップがそのプラスチックカードに埋め込まれている。"
+  },
+  {
+    "word": "displace",
+    "meaning": "取って代わる",
+    "example": "Smartphones have largely displaced traditional cameras.",
+    "example_jp": "スマートフォンが従来のカメラに大きく取って代わった。"
+  },
+  {
+    "word": "displace",
+    "meaning": "移動させる",
+    "example": "The flood displaced thousands of people from their homes.",
+    "example_jp": "洪水によって数千人の人々が自宅からの移動（立ち退き）を余儀なくされた。"
+  },
+  {
+    "word": "render",
+    "meaning": "（ある状態に）する",
+    "example": "The car accident rendered the road impassable.",
+    "example_jp": "その交通事故により道路は通行不能な状態になった。"
+  },
+  {
+    "word": "render",
+    "meaning": "（援助など）を与える",
+    "example": "The agency renders assistance to those in need.",
+    "example_jp": "その機関は困っている人々に援助を与えている（提供している）。"
+  },
+  {
+    "word": "plunge",
+    "meaning": "突っ込む",
+    "example": "He plunged his hands into the cold water.",
+    "example_jp": "彼は冷たい水の中に手を突っ込んだ。"
+  },
+  {
+    "word": "plunge",
+    "meaning": "没頭する，陥る",
+    "example": "The country is expected to plunge into an economic crisis.",
+    "example_jp": "その国は経済危機に陥ると予想されている。"
+  },
+  {
+    "word": "surrender",
+    "meaning": "放棄する，引き渡す",
+    "example": "The police ordered the suspect to surrender his weapon.",
+    "example_jp": "警察は容疑者に武器を引き渡すよう命じた。"
+  },
+  {
+    "word": "surrender",
+    "meaning": "屈する",
+    "example": "They refused to surrender to the enemy's demands.",
+    "example_jp": "彼らは敵の要求に屈することを拒んだ。"
+  },
+  {
+    "word": "plug",
+    "meaning": "プラグを電源に差し込む",
+    "example": "Don't forget to plug in the coffee maker.",
+    "example_jp": "コーヒーメーカーのプラグを差し込むのを忘れないで。"
+  },
+  {
+    "word": "plug",
+    "meaning": "ふさぐ",
+    "example": "He used a cork to plug the leaky pipe.",
+    "example_jp": "彼は漏れているパイプをふさぐためにコルクを使った。"
+  },
+  {
+    "word": "suck",
+    "meaning": "吸う，しゃぶる",
+    "example": "The baby sucked on her thumb until she fell asleep.",
+    "example_jp": "赤ちゃんは眠りにつくまで親指をしゃぶっていた。"
+  },
+  {
+    "word": "mock",
+    "meaning": "ばかにする，まねをしてからかう",
+    "example": "It's cruel to mock someone for their mistakes.",
+    "example_jp": "誰かの間違いをばかにするのは残酷だ。"
+  },
+  {
+    "word": "tease",
+    "meaning": "からかう，いじめる",
+    "example": "The other children teased him about his glasses.",
+    "example_jp": "他の子供たちは彼の眼鏡のことで彼をからかった。"
+  },
+  {
+    "word": "soothe",
+    "meaning": "なだめる，和らげる",
+    "example": "This ointment will help soothe the pain of the burn.",
+    "example_jp": "この軟膏は火傷の痛みを和らげるのに役立つだろう。"
+  },
+  {
+    "word": "stain",
+    "meaning": "汚す",
+    "example": "Tomato sauce will stain your white shirt if you're not careful.",
+    "example_jp": "気をつけないとトマトソースが白いシャツを汚してしまう（シミになる）。"
+  },
+  {
+    "word": "stain",
+    "meaning": "着色する",
+    "example": "They decided to stain the wooden floor dark brown.",
+    "example_jp": "彼らは木製の床を濃い茶色に着色することに決めた。"
+  },
+  {
+    "word": "shun",
+    "meaning": "避ける",
+    "example": "He began to shun publicity after the scandal broke.",
+    "example_jp": "スキャンダルが発覚した後、彼は人目を避けるようになった。"
+  },
+  {
+    "word": "stumble",
+    "meaning": "よろけながら歩く，つまずく",
+    "example": "I stumbled over a rock in the dark garden.",
+    "example_jp": "暗い庭で石につまずいた。"
+  },
+  {
+    "word": "flush",
+    "meaning": "紅潮する",
+    "example": "She felt her cheeks flush with embarrassment.",
+    "example_jp": "彼女は恥ずかしさで頬が紅潮するのを感じた。"
+  },
+  {
+    "word": "flush",
+    "meaning": "水で流す",
+    "example": "Remember to flush the toilet after use.",
+    "example_jp": "使用後はトイレの水を流すのを忘れないで。"
+  },
+  {
+    "word": "impair",
+    "meaning": "損なう",
+    "example": "Loud noise can seriously impair your hearing.",
+    "example_jp": "大きな騒音は聴覚を深刻に損なう可能性がある。"
+  },
+  {
+    "word": "presume",
+    "meaning": "と思う，推定する",
+    "example": "I presume that you will be at the meeting tomorrow.",
+    "example_jp": "あなたが明日の会議に出席するだろうと思っています。"
+  },
+  {
+    "word": "contend",
+    "meaning": "主張する",
+    "example": "The lawyer contended that the evidence was invalid.",
+    "example_jp": "弁護士はその証拠は無効であると主張した。"
+  },
+  {
+    "word": "contend",
+    "meaning": "競う",
+    "example": "Three teams are contending for the championship title.",
+    "example_jp": "3つのチームが優勝のタイトルを争っている（競っている）。"
+  },
+  {
+    "word": "roar",
+    "meaning": "うなる，ほえる",
+    "example": "We could hear a lion roar in the distance.",
+    "example_jp": "遠くでライオンがほえるのが聞こえた。"
+  },
+  {
+    "word": "roar",
+    "meaning": "大笑いする",
+    "example": "The audience roared with laughter at the comedian's joke.",
+    "example_jp": "観客は芸人のジョークに大笑いした。"
+  },
+  {
+    "word": "haunt",
+    "meaning": "（記憶・考えなどが）につきまとう",
+    "example": "The memory of the car accident haunts him to this day.",
+    "example_jp": "その交通事故の記憶が今日まで彼につきまとっている。"
+  },
+  {
+    "word": "haunt",
+    "meaning": "（幽霊などが）に出る，によく行く",
+    "example": "A ghost is said to haunt the old castle.",
+    "example_jp": "その古い城には幽霊が出ると言われている。"
+  },
+  {
+    "word": "divert",
+    "meaning": "そらす，迂回させる",
+    "example": "The accident diverted traffic to the side roads.",
+    "example_jp": "その事故により、交通は脇道へ迂回させられた。"
+  },
+  {
+    "word": "await",
+    "meaning": "待つ",
+    "example": "A warm welcome awaits you at the airport.",
+    "example_jp": "空港では温かい歓迎があなたを待っている。"
+  },
+  {
+    "word": "fetch",
+    "meaning": "持って［連れて］くる",
+    "example": "Could you please fetch some more water for the guests?",
+    "example_jp": "お客さんのために、お水をもう少し持ってきていただけますか？"
+  },
+  {
+    "word": "unify",
+    "meaning": "統合［統一］する",
+    "example": "The new leader tried to unify the divided country.",
+    "example_jp": "新しいリーダーは分裂した国を統合（統一）しようとした。"
+  },
+  {
+    "word": "inspect",
+    "meaning": "点検する，視察する",
+    "example": "The engineer inspected the bridge for any cracks.",
+    "example_jp": "エンジニアは橋にひびがないか点検した。"
+  },
+  {
+    "word": "entail",
+    "meaning": "伴う，含む",
+    "example": "The new job will entail a lot of overseas travel.",
+    "example_jp": "新しい仕事は多くの海外出張を伴うことになる。"
+  },
+  {
+    "word": "tactics",
+    "meaning": "作戦，方策，戦法",
+    "example": "The team needs to change its tactics to win the game.",
+    "example_jp": "試合に勝つために、チームは作戦（戦術）を変える必要がある。"
+  },
+  {
+    "word": "feat",
+    "meaning": "偉業，功績，妙技",
+    "example": "Climbing Mount Everest is a remarkable feat of endurance.",
+    "example_jp": "エベレストに登ることは、驚くべき忍耐の偉業である。"
+  },
+  {
+    "word": "prestige",
+    "meaning": "名声",
+    "example": "He gained a lot of prestige by winning the international award.",
+    "example_jp": "彼は国際的な賞を受賞したことで、多大な名声を得た。"
+  },
+  {
+    "word": "analogy",
+    "meaning": "類推，類似",
+    "example": "He drew an analogy between the human brain and a computer.",
+    "example_jp": "彼は人間の脳とコンピューターの間の類似点を挙げた（類推した）。"
+  },
+  {
+    "word": "conscience",
+    "meaning": "良心，分別",
+    "example": "His conscience told him that he should tell the truth.",
+    "example_jp": "彼の良心が、真実を話すべきだと彼に告げた。"
+  },
+  {
+    "word": "textile",
+    "meaning": "織物，繊維（産業）",
+    "example": "The city has long been a center for the textile industry.",
+    "example_jp": "その都市は長い間、繊維産業の中心地であった。"
+  },
+  {
+    "word": "deficit",
+    "meaning": "赤字，不足，欠陥",
+    "example": "The government is struggling to reduce the trade deficit.",
+    "example_jp": "政府は貿易赤字を減らすのに苦労している。"
+  },
+  {
+    "word": "plague",
+    "meaning": "疫病",
+    "example": "The city was devastated by a plague in the 17th century.",
+    "example_jp": "その都市は17世紀に疫病によって壊滅的な打撃を受けた。"
+  },
+  {
+    "word": "plague",
+    "meaning": "異常発生",
+    "example": "The farmers are fighting a plague of locusts.",
+    "example_jp": "農家たちはイナゴの異常発生と戦っている。"
+  },
+  {
+    "word": "hazard",
+    "meaning": "危険（要素）",
+    "example": "Ice on the road is a serious hazard for drivers.",
+    "example_jp": "道路の氷は運転手にとって深刻な危険である。"
+  },
+  {
+    "word": "metabolism",
+    "meaning": "代謝",
+    "example": "Exercise is a good way to speed up your metabolism.",
+    "example_jp": "運動は代謝を上げる良い方法だ。"
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "word": "agree",
+    "meaning": "賛成する",
+    "example": "I agree with your plan.",
+    "example_jp": "あなたの計画に賛成します。"
+  },
+  {
+    "word": "agree",
+    "meaning": "意見が一致する",
+    "example": "We agree on this issue.",
+    "example_jp": "この問題については意見が一致しています。"
+  },
+  {
+    "word": "agree",
+    "meaning": "（食べ物が）合う",
+    "example": "Spicy food doesn't agree with me.",
+    "example_jp": "辛い食べ物は私には合いません。"
+  },
+  {
+    "word": "oppose",
+    "meaning": "～に反対する",
+    "example": "I oppose the new law.",
+    "example_jp": "私はその新しい法律に反対します。"
+  },
+  {
+    "word": "advise",
+    "meaning": "～に忠告する",
+    "example": "He advised me to stop smoking.",
+    "example_jp": "彼は私に禁煙するよう忠告しました。"
+  },
+  {
+    "word": "tip",
+    "meaning": "助言（ヒント）",
+    "example": "He gave me a useful tip.",
+    "example_jp": "彼は役に立つ助言をくれました。"
+  },
+  {
+    "word": "tip",
+    "meaning": "チップ",
+    "example": "I left a tip for the waiter.",
+    "example_jp": "私はウェイターにチップを置きました。"
+  },
+  {
+    "word": "tip",
+    "meaning": "先端",
+    "example": "The tip of the pen is broken.",
+    "example_jp": "ペンの先端が壊れています。"
+  },
+  {
+    "word": "discuss",
+    "meaning": "～について話し合う",
+    "example": "We discussed the problem.",
+    "example_jp": "私たちはその問題について話し合いました。"
+  },
+  {
+    "word": "discuss",
+    "meaning": "～を話題に出す",
+    "example": "Don't discuss politics here.",
+    "example_jp": "ここで政治の話を持ち出さないでください。"
+  },
+  {
+    "word": "blame",
+    "meaning": "～に責任があるとする",
+    "example": "Don't blame me for the error.",
+    "example_jp": "その誤りのことで私を責めないでください。"
+  },
+  {
+    "word": "argue",
+    "meaning": "～と主張する",
+    "example": "He argued that he was right.",
+    "example_jp": "彼は自分が正しいと主張しました。"
+  },
+  {
+    "word": "argue",
+    "meaning": "言い争う",
+    "example": "They argue with each other often.",
+    "example_jp": "彼らはよく言い争いをします。"
+  },
+  {
+    "word": "claim",
+    "meaning": "～と主張する",
+    "example": "She claims that she saw him.",
+    "example_jp": "彼女は彼を見たと主張しています。"
+  },
+  {
+    "word": "claim",
+    "meaning": "～を要求する",
+    "example": "He claimed damages for the accident.",
+    "example_jp": "彼はその事故の損害賠償を請求しました。"
+  },
+  {
+    "word": "claim",
+    "meaning": "主張",
+    "example": "His claim is false.",
+    "example_jp": "彼の主張は誤りです。"
+  },
+  {
+    "word": "complain",
+    "meaning": "文句を言う",
+    "example": "Neighbors complained about the noise.",
+    "example_jp": "近所の人たちが騒音について文句を言いました。"
+  },
+  {
+    "word": "complain",
+    "meaning": "（病気などを）訴える",
+    "example": "She complained of a headache.",
+    "example_jp": "彼女は頭痛を訴えました。"
+  },
+  {
+    "word": "offer",
+    "meaning": "～を申し出る",
+    "example": "He offered to help me.",
+    "example_jp": "彼は私を手伝うと申し出ました。"
+  },
+  {
+    "word": "offer",
+    "meaning": "申し出",
+    "example": "I accepted his offer.",
+    "example_jp": "私は彼の申し出を受け入れました。"
+  },
+  {
+    "word": "offer",
+    "meaning": "値引き",
+    "example": "The store has a special offer.",
+    "example_jp": "その店は特別な値引きをしています。"
+  },
+  {
+    "word": "suggest",
+    "meaning": "～を示唆する",
+    "example": "Data suggests a different trend.",
+    "example_jp": "データは別の傾向を示唆しています。"
+  },
+  {
+    "word": "suggest",
+    "meaning": "～を提案する",
+    "example": "I suggest going by train.",
+    "example_jp": "電車で行くことを提案します。"
+  },
+  {
+    "word": "recommend",
+    "meaning": "～を推薦する（勧める）",
+    "example": "I recommend this book.",
+    "example_jp": "この本をおすすめします。"
+  },
+  {
+    "word": "grateful",
+    "meaning": "感謝している",
+    "example": "I am grateful for your help.",
+    "example_jp": "あなたの助けに感謝しています。"
+  },
+  {
+    "word": "apologize",
+    "meaning": "謝る",
+    "example": "I must apologize to her.",
+    "example_jp": "私は彼女に謝らなければなりません。"
+  },
+  {
+    "word": "excuse",
+    "meaning": "言い訳",
+    "example": "That's just an excuse.",
+    "example_jp": "それはただの言い訳です。"
+  },
+  {
+    "word": "excuse",
+    "meaning": "～を許す",
+    "example": "Please excuse my bad handwriting.",
+    "example_jp": "私の下手な筆跡をお許しください。"
+  },
+  {
+    "word": "excuse",
+    "meaning": "～を免除する",
+    "example": "The teacher excused him from the test.",
+    "example_jp": "先生は彼をテストから免除しました。"
+  },
+  {
+    "word": "celebrate",
+    "meaning": "～を祝う",
+    "example": "We celebrate Christmas every year.",
+    "example_jp": "私たちは毎年クリスマスを祝います。"
+  },
+  {
+    "word": "celebrate",
+    "meaning": "～を挙行する",
+    "example": "The priest celebrated mass.",
+    "example_jp": "司祭はミサを執り行いました。"
+  },
+  {
+    "word": "congratulate",
+    "meaning": "～を祝う",
+    "example": "I congratulated him on his success.",
+    "example_jp": "私は彼の成功を祝福しました。"
+  },
+  {
+    "word": "admire",
+    "meaning": "～を称賛する",
+    "example": "I admire your courage.",
+    "example_jp": "あなたの勇気を称賛します。"
+  },
+  {
+    "word": "impress",
+    "meaning": "～に感銘を与える",
+    "example": "Her speech impressed me.",
+    "example_jp": "彼女の演説に感銘を受けました。"
+  },
+  {
+    "word": "award",
+    "meaning": "賞",
+    "example": "He won a prestigious award.",
+    "example_jp": "彼は名誉ある賞を受賞しました。"
+  },
+  {
+    "word": "award",
+    "meaning": "～を授与する",
+    "example": "The judges awarded him first prize.",
+    "example_jp": "審査員たちは彼に一等賞を授与しました。"
+  },
+  {
+    "word": "explain",
+    "meaning": "～を説明する",
+    "example": "Can you explain the rule?",
+    "example_jp": "その規則を説明してもらえますか。"
+  },
+  {
+    "word": "describe",
+    "meaning": "～を説明する",
+    "example": "Describe what you saw.",
+    "example_jp": "見たことを説明してください。"
+  },
+  {
+    "word": "communicate",
+    "meaning": "意思の疎通をはかる",
+    "example": "We communicate by email.",
+    "example_jp": "私たちはメールで意思疎通を図っています。"
+  },
+  {
+    "word": "communicate",
+    "meaning": "～を伝える",
+    "example": "He communicated his ideas clearly.",
+    "example_jp": "彼は自分の考えを明確に伝えました。"
+  },
+  {
+    "word": "express",
+    "meaning": "～を表現する",
+    "example": "Words cannot express my joy.",
+    "example_jp": "言葉では私の喜びを表現できません。"
+  },
+  {
+    "word": "express",
+    "meaning": "急行",
+    "example": "I took the express to Tokyo.",
+    "example_jp": "私は急行で東京へ行きました。"
+  },
+  {
+    "word": "promise",
+    "meaning": "約束",
+    "example": "Keep your promise.",
+    "example_jp": "約束を守ってください。"
+  },
+  {
+    "word": "promise",
+    "meaning": "～を約束する",
+    "example": "I promise to be back soon.",
+    "example_jp": "すぐ戻ると約束します。"
+  },
+  {
+    "word": "information",
+    "meaning": "情報",
+    "example": "I need more information.",
+    "example_jp": "もっと情報が必要です。"
+  },
+  {
+    "word": "technology",
+    "meaning": "（科学）技術",
+    "example": "Technology changes our lives.",
+    "example_jp": "技術は私たちの生活を変えます。"
+  },
+  {
+    "word": "research",
+    "meaning": "研究",
+    "example": "He is doing scientific research.",
+    "example_jp": "彼は科学的な研究を行っています。"
+  },
+  {
+    "word": "research",
+    "meaning": "～を研究する",
+    "example": "They are researching the disease.",
+    "example_jp": "彼らはその病気を研究しています。"
+  },
+  {
+    "word": "material",
+    "meaning": "材料",
+    "example": "Wood is a natural material.",
+    "example_jp": "木は天然の材料です。"
+  },
+  {
+    "word": "material",
+    "meaning": "資料",
+    "example": "I gathered material for my essay.",
+    "example_jp": "私はエッセイのための資料を集めました。"
+  },
+  {
+    "word": "material",
+    "meaning": "物質的な",
+    "example": "He cares about material wealth.",
+    "example_jp": "彼は物質的な富を気にします。"
+  },
+  {
+    "word": "material",
+    "meaning": "重大な",
+    "example": "That is a material fact.",
+    "example_jp": "それは重要な事実です。"
+  },
+  {
+    "word": "artificial",
+    "meaning": "人工的な",
+    "example": "This juice contains artificial flavors.",
+    "example_jp": "このジュースには人工香料が含まれています。"
+  },
+  {
+    "word": "electric",
+    "meaning": "電気の",
+    "example": "I bought an electric car.",
+    "example_jp": "私は電気自動車を買いました。"
+  },
+  {
+    "word": "invent",
+    "meaning": "～を発明する",
+    "example": "Bell invented the telephone.",
+    "example_jp": "ベルは電話を発明しました。"
+  },
+  {
+    "word": "invent",
+    "meaning": "～をでっち上げる",
+    "example": "He invented a story to explain his absence.",
+    "example_jp": "彼は不在を説明するために話をでっち上げました。"
+  },
+  {
+    "word": "discover",
+    "meaning": "～を発見する",
+    "example": "Columbus discovered America.",
+    "example_jp": "コロンブスはアメリカを発見しました。"
+  },
+  {
+    "word": "discover",
+    "meaning": "～を知る",
+    "example": "I discovered that he was lying.",
+    "example_jp": "私は彼が嘘をついていることに気づきました。"
+  },
+  {
+    "word": "discover",
+    "meaning": "～に出会う",
+    "example": "I discovered a nice cafe.",
+    "example_jp": "私は素敵なカフェを見つけました。"
+  },
+  {
+    "word": "develop",
+    "meaning": "発達する",
+    "example": "The storm developed quickly.",
+    "example_jp": "嵐は急速に発達しました。"
+  },
+  {
+    "word": "develop",
+    "meaning": "～を発達させる",
+    "example": "Reading develops your mind.",
+    "example_jp": "読書は心を発達させます。"
+  },
+  {
+    "word": "develop",
+    "meaning": "～を開発する",
+    "example": "They developed a new software.",
+    "example_jp": "彼らは新しいソフトウェアを開発しました。"
+  },
+  {
+    "word": "develop",
+    "meaning": "発展させる",
+    "example": "She developed her idea into a book.",
+    "example_jp": "彼女は自分のアイデアを本に発展させました。"
+  },
+  {
+    "word": "develop",
+    "meaning": "（病気）にかかる",
+    "example": "He developed cancer.",
+    "example_jp": "彼はがんにかかりました。"
+  },
+  {
+    "word": "skill",
+    "meaning": "技術",
+    "example": "He has great cooking skills.",
+    "example_jp": "彼は料理の技術が優れています。"
+  },
+  {
+    "word": "ability",
+    "meaning": "能力",
+    "example": "She has the ability to learn fast.",
+    "example_jp": "彼女は早く学ぶ能力があります。"
+  },
+  {
+    "word": "talent",
+    "meaning": "才能",
+    "example": "He has a talent for music.",
+    "example_jp": "彼は音楽の才能があります。"
+  },
+  {
+    "word": "effort",
+    "meaning": "努力",
+    "example": "Success requires effort.",
+    "example_jp": "成功には努力が必要です。"
+  },
+  {
+    "word": "practice",
+    "meaning": "練習",
+    "example": "Practice makes perfect.",
+    "example_jp": "練習は上達のもとです。"
+  },
+  {
+    "word": "practice",
+    "meaning": "実践",
+    "example": "Put the theory into practice.",
+    "example_jp": "理論を実践に移してください。"
+  },
+  {
+    "word": "practice",
+    "meaning": "慣習",
+    "example": "It is a common practice here.",
+    "example_jp": "ここではそれが一般的な慣習です。"
+  },
+  {
+    "word": "practice",
+    "meaning": "～を練習する",
+    "example": "She practices the piano daily.",
+    "example_jp": "彼女は毎日ピアノを練習します。"
+  },
+  {
+    "word": "practice",
+    "meaning": "～を実践する",
+    "example": "He practices what he preaches.",
+    "example_jp": "彼は自分の説くことを実践しています。"
+  },
+  {
+    "word": "achieve",
+    "meaning": "～を達成する",
+    "example": "She achieved her goal.",
+    "example_jp": "彼女は目標を達成しました。"
+  },
+  {
+    "word": "manage",
+    "meaning": "何とかして～する",
+    "example": "I managed to catch the train.",
+    "example_jp": "私は何とかして電車に間に合いました。"
+  },
+  {
+    "word": "manage",
+    "meaning": "～を経営する",
+    "example": "She manages a small hotel.",
+    "example_jp": "彼女は小さなホテルを経営しています。"
+  },
+  {
+    "word": "improve",
+    "meaning": "～を改善する",
+    "example": "We need to improve our service.",
+    "example_jp": "私たちはサービスを改善する必要があります。"
+  },
+  {
+    "word": "improve",
+    "meaning": "よくなる",
+    "example": "His health has improved.",
+    "example_jp": "彼の健康は良くなりました。"
+  },
+  {
+    "word": "produce",
+    "meaning": "～を生産する",
+    "example": "This factory produces cars.",
+    "example_jp": "この工場は車を生産しています。"
+  },
+  {
+    "word": "produce",
+    "meaning": "～を取り出す",
+    "example": "He produced a ticket from his pocket.",
+    "example_jp": "彼はポケットから切符を取り出しました。"
+  },
+  {
+    "word": "produce",
+    "meaning": "農作物",
+    "example": "They sell fresh local produce.",
+    "example_jp": "彼らは新鮮な地元の農産物を販売しています。"
+  },
+  {
+    "word": "create",
+    "meaning": "～を創造する",
+    "example": "God created the world.",
+    "example_jp": "神は世界を創造しました。"
+  },
+  {
+    "word": "create",
+    "meaning": "～を引き起こす",
+    "example": "The news created a panic.",
+    "example_jp": "そのニュースはパニックを引き起こしました。"
+  },
+  {
+    "word": "establish",
+    "meaning": "～を確立する",
+    "example": "He established his reputation.",
+    "example_jp": "彼は自分の評判を確立しました。"
+  },
+  {
+    "word": "establish",
+    "meaning": "～を設立する",
+    "example": "The school was established in 1900.",
+    "example_jp": "その学校は1900年に設立されました。"
+  },
+  {
+    "word": "form",
+    "meaning": "～を形成する",
+    "example": "They formed a circle.",
+    "example_jp": "彼らは円を作りました。"
+  },
+  {
+    "word": "form",
+    "meaning": "形態",
+    "example": "Water takes a liquid form.",
+    "example_jp": "水は液体の形態をとります。"
+  },
+  {
+    "word": "form",
+    "meaning": "書式",
+    "example": "Please fill out this form.",
+    "example_jp": "この用紙にご記入ください。"
+  },
+  {
+    "word": "save",
+    "meaning": "～を省く",
+    "example": "This machine saves time.",
+    "example_jp": "この機械は時間を節約します。"
+  },
+  {
+    "word": "save",
+    "meaning": "～を貯金する",
+    "example": "I am saving money for a car.",
+    "example_jp": "私は車のためにお金を貯めています。"
+  },
+  {
+    "word": "save",
+    "meaning": "～を救う",
+    "example": "The doctor saved his life.",
+    "example_jp": "医者は彼の命を救いました。"
+  },
+  {
+    "word": "save",
+    "meaning": "～を除いて",
+    "example": "All came save him.",
+    "example_jp": "彼を除いて皆が来た。"
+  },
+  {
+    "word": "medicine",
+    "meaning": "薬",
+    "example": "Take this medicine twice a day.",
+    "example_jp": "この薬を1日2回服用してください。"
+  },
+  {
+    "word": "medicine",
+    "meaning": "医学",
+    "example": "She is studying medicine.",
+    "example_jp": "彼女は医学を勉強しています。"
+  },
+  {
+    "word": "patient",
+    "meaning": "患者",
+    "example": "The doctor examined the patient.",
+    "example_jp": "医者は患者を診察しました。"
+  },
+  {
+    "word": "patient",
+    "meaning": "忍耐強い",
+    "example": "Be patient with children.",
+    "example_jp": "子どもたちには忍耐強く接してください。"
+  },
+  {
+    "word": "condition",
+    "meaning": "状態",
+    "example": "The car is in good condition.",
+    "example_jp": "その車は良好な状態です。"
+  },
+  {
+    "word": "condition",
+    "meaning": "状況",
+    "example": "Working conditions are poor.",
+    "example_jp": "労働条件は悪いです。"
+  }
+]

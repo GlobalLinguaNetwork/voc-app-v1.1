@@ -1,0 +1,302 @@
+[
+  {
+    "word": "insist",
+    "meaning": "断固要求する",
+    "example": "He insisted on joining us.",
+    "example_jp": "彼は参加することを強く要求した。"
+  },
+  {
+    "word": "intend",
+    "meaning": "を意図する、つもりでいる",
+    "example": "I intend to study abroad.",
+    "example_jp": "私は留学するつもりだ。"
+  },
+  {
+    "word": "inspire",
+    "meaning": "を奮起させる",
+    "example": "Her speech inspired me.",
+    "example_jp": "彼女のスピーチは私を奮起させた。"
+  },
+  {
+    "word": "emphasize",
+    "meaning": "を強調する、力説する",
+    "example": "He emphasized the need for change.",
+    "example_jp": "彼は変革の必要性を強調した。"
+  },
+  {
+    "word": "propose",
+    "meaning": "を提案する",
+    "example": "She proposed a new plan.",
+    "example_jp": "彼女は新しい計画を提案した。"
+  },
+  {
+    "word": "persuade",
+    "meaning": "を説得する",
+    "example": "I persuaded him to stay.",
+    "example_jp": "私は彼を引き留めるよう説得した。"
+  },
+  {
+    "word": "convince",
+    "meaning": "に納得させる",
+    "example": "She convinced me of the truth.",
+    "example_jp": "彼女は私にその真実を納得させた。"
+  },
+  {
+    "word": "admit",
+    "meaning": "を（事実と）認める",
+    "example": "He admitted his mistake.",
+    "example_jp": "彼は自分の間違いを認めた。"
+  },
+  {
+    "word": "favor",
+    "meaning": "に賛成する、を好む",
+    "example": "I favor this idea.",
+    "example_jp": "私はこの考えに賛成だ。"
+  },
+  {
+    "word": "excuse",
+    "meaning": "を大目に見る、の言い訳をする",
+    "example": "Excuse my lateness.",
+    "example_jp": "遅れてすみません。"
+  },
+  {
+    "word": "interpret",
+    "meaning": "を解釈する",
+    "example": "How do you interpret this?",
+    "example_jp": "これをどう解釈しますか？"
+  },
+  {
+    "word": "translate",
+    "meaning": "を翻訳する",
+    "example": "She translated the text.",
+    "example_jp": "彼女はその文章を翻訳した。"
+  },
+  {
+    "word": "concentrate",
+    "meaning": "精神を集中する",
+    "example": "I can’t concentrate here.",
+    "example_jp": "ここでは集中できない。"
+  },
+  {
+    "word": "criticize",
+    "meaning": "を非難する",
+    "example": "They criticized the plan.",
+    "example_jp": "彼らはその計画を非難した。"
+  },
+  {
+    "word": "blame",
+    "meaning": "を（～のことで）責める(for)、を（～の）せいにする(on)",
+    "example": "Don’t blame me for the error.",
+    "example_jp": "そのミスを私のせいにしないで。"
+  },
+  {
+    "word": "oppose",
+    "meaning": "に反対する",
+    "example": "I oppose the idea.",
+    "example_jp": "私はその考えに反対だ。"
+  },
+  {
+    "word": "inform",
+    "meaning": "に知らせる",
+    "example": "Please inform me of the result.",
+    "example_jp": "結果を知らせてください。"
+  },
+  {
+    "word": "grant",
+    "meaning": "（人）に（物）を（求めに応じて）与える",
+    "example": "They granted him permission.",
+    "example_jp": "彼らは彼に許可を与えた。"
+  },
+  {
+    "word": "obtain",
+    "meaning": "を得る",
+    "example": "He obtained the data.",
+    "example_jp": "彼はそのデータを得た。"
+  },
+  {
+    "word": "transform",
+    "meaning": "を変える",
+    "example": "The city was transformed.",
+    "example_jp": "その都市は変貌した。"
+  },
+  {
+    "word": "alter",
+    "meaning": "を変える",
+    "example": "They altered the design.",
+    "example_jp": "彼らはデザインを変更した。"
+  },
+  {
+    "word": "arrange",
+    "meaning": "を（きちんと）並べる、手はずを整える",
+    "example": "I arranged the chairs.",
+    "example_jp": "私は椅子を並べた。"
+  },
+  {
+    "word": "interact",
+    "meaning": "相互に作用する",
+    "example": "The chemicals interact quickly.",
+    "example_jp": "その化学物質はすぐに相互作用する。"
+  },
+  {
+    "word": "handle",
+    "meaning": "（問題など）を処理する",
+    "example": "I can handle the problem.",
+    "example_jp": "私はその問題を処理できる。"
+  },
+  {
+    "word": "extend",
+    "meaning": "を延長する",
+    "example": "They extended the deadline.",
+    "example_jp": "彼らは締め切りを延長した。"
+  },
+  {
+    "word": "settle",
+    "meaning": "定住する、を決める",
+    "example": "They settled in Canada.",
+    "example_jp": "彼らはカナダに定住した。"
+  },
+  {
+    "word": "contribute",
+    "meaning": "貢献する、を寄付する",
+    "example": "She contributed to the project.",
+    "example_jp": "彼女はそのプロジェクトに貢献した。"
+  },
+  {
+    "word": "construct",
+    "meaning": "を建設する",
+    "example": "They constructed a new bridge.",
+    "example_jp": "彼らは新しい橋を建設した。"
+  },
+  {
+    "word": "consist",
+    "meaning": "成る、（本質が）ある",
+    "example": "The team consists of five members.",
+    "example_jp": "そのチームは5人で構成されている。"
+  },
+  {
+    "word": "suit",
+    "meaning": "に（色、服などが）似合う、に都合がよい",
+    "example": "Blue suits you.",
+    "example_jp": "青はあなたに似合う。"
+  },
+  {
+    "word": "tie",
+    "meaning": "を結びつける",
+    "example": "They tied the two ideas together.",
+    "example_jp": "彼らはその2つの考えを結びつけた。"
+  },
+  {
+    "word": "differ",
+    "meaning": "異なる",
+    "example": "Opinions differ.",
+    "example_jp": "意見は異なる。"
+  },
+  {
+    "word": "hate",
+    "meaning": "をひどく嫌う、憎む",
+    "example": "I hate waiting.",
+    "example_jp": "私は待つのが大嫌いだ。"
+  },
+  {
+    "word": "dislike",
+    "meaning": "を嫌う",
+    "example": "She dislikes loud music.",
+    "example_jp": "彼女は大きな音の音楽が嫌いだ。"
+  },
+  {
+    "word": "disagree",
+    "meaning": "意見が合わない",
+    "example": "We disagree on this point.",
+    "example_jp": "私たちはこの点で意見が合わない。"
+  },
+  {
+    "word": "regret",
+    "meaning": "を後悔する、を残念に思う",
+    "example": "I regret my decision.",
+    "example_jp": "私は自分の決断を後悔している。"
+  },
+  {
+    "word": "employ",
+    "meaning": "を雇用する、を（手段などに）用いる",
+    "example": "The company employs 200 people.",
+    "example_jp": "その会社は200人を雇っている。"
+  },
+  {
+    "word": "hire",
+    "meaning": "を雇う",
+    "example": "They hired a new manager.",
+    "example_jp": "彼らは新しいマネージャーを雇った。"
+  },
+  {
+    "word": "absorb",
+    "meaning": "（人）を夢中にさせる",
+    "example": "The game absorbed him.",
+    "example_jp": "そのゲームは彼を夢中にさせた。"
+  },
+  {
+    "word": "expose",
+    "meaning": "をさらす",
+    "example": "The painting was exposed to sunlight.",
+    "example_jp": "その絵は日光にさらされた。"
+  },
+  {
+    "word": "breathe",
+    "meaning": "呼吸する",
+    "example": "Just breathe slowly.",
+    "example_jp": "ゆっくり呼吸して。"
+  },
+  {
+    "word": "root",
+    "meaning": "起源、ルーツ",
+    "example": "The custom has ancient roots.",
+    "example_jp": "その習慣には古い起源がある。"
+  },
+  {
+    "word": "immigration",
+    "meaning": "（外国からの）移住",
+    "example": "Immigration increased last year.",
+    "example_jp": "昨年、移住者が増えた。"
+  },
+  {
+    "word": "tribe",
+    "meaning": "部族",
+    "example": "The tribe lived in the mountains.",
+    "example_jp": "その部族は山地に住んでいた。"
+  },
+  {
+    "word": "landscape",
+    "meaning": "風景",
+    "example": "The landscape was beautiful.",
+    "example_jp": "その風景は美しかった。"
+  },
+  {
+    "word": "agriculture",
+    "meaning": "農業",
+    "example": "Agriculture supports the region.",
+    "example_jp": "農業はその地域を支えている。"
+  },
+  {
+    "word": "soil",
+    "meaning": "土壌、土",
+    "example": "The soil is rich here.",
+    "example_jp": "ここの土壌は肥えている。"
+  },
+  {
+    "word": "mine",
+    "meaning": "鉱山",
+    "example": "They worked in a gold mine.",
+    "example_jp": "彼らは金鉱で働いていた。"
+  },
+  {
+    "word": "mass",
+    "meaning": "大衆",
+    "example": "The mass supported the movement.",
+    "example_jp": "大衆はその運動を支持した。"
+  },
+  {
+    "word": "quarter",
+    "meaning": "四分の一",
+    "example": "A quarter of the class was absent.",
+    "example_jp": "クラスの4分の1が欠席していた。"
+  }
+]

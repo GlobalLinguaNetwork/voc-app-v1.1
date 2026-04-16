@@ -1,0 +1,524 @@
+[
+  {
+    "word": "capital",
+    "meaning": "資本",
+    "example": "The company needs more capital to expand.",
+    "example_jp": "その会社は拡大するためにより多くの資本を必要としている。"
+  },
+  {
+    "word": "capital",
+    "meaning": "首都",
+    "example": "Tokyo is the capital of Japan.",
+    "example_jp": "東京は日本の首都です。"
+  },
+  {
+    "word": "capital",
+    "meaning": "大文字",
+    "example": "Write your name in capital letters.",
+    "example_jp": "自分の名前を大文字で書きなさい。"
+  },
+  {
+    "word": "outcome",
+    "meaning": "結果・成果",
+    "example": "We are waiting for the outcome of the election.",
+    "example_jp": "私たちは選挙の結果を待っている。"
+  },
+  {
+    "word": "notion",
+    "meaning": "概念・観念・見解",
+    "example": "He has a strange notion about success.",
+    "example_jp": "彼は成功について奇妙な考え（概念）を持っている。"
+  },
+  {
+    "word": "notion",
+    "meaning": "意向",
+    "example": "I have no notion of going abroad this year.",
+    "example_jp": "今年海外へ行く意向は全くない。"
+  },
+  {
+    "word": "review",
+    "meaning": "論評",
+    "example": "The movie received a positive review.",
+    "example_jp": "その映画は好意的な論評を受けた。"
+  },
+  {
+    "word": "review",
+    "meaning": "再調査",
+    "example": "The government will review its environmental policy.",
+    "example_jp": "政府は環境政策を再調査する（見直す）予定だ。"
+  },
+  {
+    "word": "review",
+    "meaning": "復習",
+    "example": "You should review the lesson every day.",
+    "example_jp": "毎日レッスンを復習すべきだ。"
+  },
+  {
+    "word": "trait",
+    "meaning": "特性",
+    "example": "Patience is one of his best traits.",
+    "example_jp": "忍耐強さは彼の最高の特性の一つだ。"
+  },
+  {
+    "word": "diversity",
+    "meaning": "多様性",
+    "example": "There is a great diversity of opinions in the group.",
+    "example_jp": "そのグループには非常に多様な意見がある。"
+  },
+  {
+    "word": "diversity",
+    "meaning": "相違点",
+    "example": "The diversity between the two cultures is interesting.",
+    "example_jp": "2つの文化の間の相違点は興味深い。"
+  },
+  {
+    "word": "victim",
+    "meaning": "犠牲者・被害者",
+    "example": "The police are helping the victims of the scam.",
+    "example_jp": "警察はその詐欺の被害者たちを助けている。"
+  },
+  {
+    "word": "occasion",
+    "meaning": "場合・時",
+    "example": "I've met him on several occasions.",
+    "example_jp": "彼には数回（いくつかの場合で）会ったことがある。"
+  },
+  {
+    "word": "occasion",
+    "meaning": "行事",
+    "example": "A wedding is a very special occasion.",
+    "example_jp": "結婚式はとても特別な行事だ。"
+  },
+  {
+    "word": "occasion",
+    "meaning": "機会",
+    "example": "He took the occasion to thank his parents.",
+    "example_jp": "彼はその機会を利用して両親に感謝を述べた。"
+  },
+  {
+    "word": "facility",
+    "meaning": "施設・設備",
+    "example": "The sports facility is open to the public.",
+    "example_jp": "そのスポーツ施設は一般に公開されている。"
+  },
+  {
+    "word": "facility",
+    "meaning": "機能",
+    "example": "The new phone has a video chat facility.",
+    "example_jp": "新しい電話にはビデオチャット機能がついている。"
+  },
+  {
+    "word": "facility",
+    "meaning": "才能",
+    "example": "She has a great facility for learning languages.",
+    "example_jp": "彼女は言語を習得する素晴らしい才能がある。"
+  },
+  {
+    "word": "stock",
+    "meaning": "在庫品・蓄え",
+    "example": "The shop has a large stock of winter clothes.",
+    "example_jp": "その店は冬服の在庫を大量に持っている。"
+  },
+  {
+    "word": "stock",
+    "meaning": "株",
+    "example": "He invested all his money in stocks.",
+    "example_jp": "彼は全財産を株に投資した。"
+  },
+  {
+    "word": "conference",
+    "meaning": "会議・協議",
+    "example": "The annual conference will be held in Tokyo.",
+    "example_jp": "年次会議が東京で開催される。"
+  },
+  {
+    "word": "humanity",
+    "meaning": "人類",
+    "example": "Pollution is a threat to all humanity.",
+    "example_jp": "汚染は全人類に対する脅威だ。"
+  },
+  {
+    "word": "humanity",
+    "meaning": "人間性・人情",
+    "example": "He treated the prisoners with humanity.",
+    "example_jp": "彼は囚人たちを人間性（思いやり）を持って扱った。"
+  },
+  {
+    "word": "humanity",
+    "meaning": "人文科学",
+    "example": "She decided to study humanities at college.",
+    "example_jp": "彼女は大学で人文科学を学ぶことに決めた。"
+  },
+  {
+    "word": "dialect",
+    "meaning": "方言",
+    "example": "He speaks with a strong Kansai dialect.",
+    "example_jp": "彼は強い関西弁（方言）を話す。"
+  },
+  {
+    "word": "proportion",
+    "meaning": "割合・部分",
+    "example": "A large proportion of the city was destroyed.",
+    "example_jp": "その都市の大部分（大きな割合）が破壊された。"
+  },
+  {
+    "word": "proportion",
+    "meaning": "釣り合い",
+    "example": "His head is large in proportion to his body.",
+    "example_jp": "彼の頭は体との釣り合いにおいて（体の割に）大きい。"
+  },
+  {
+    "word": "tip",
+    "meaning": "助言・秘訣",
+    "example": "The book gave me some useful travel tips.",
+    "example_jp": "その本は役に立つ旅行の秘訣（助言）をいくつか教えてくれた。"
+  },
+  {
+    "word": "tip",
+    "meaning": "チップ",
+    "example": "I left a small tip for the waiter.",
+    "example_jp": "ウェイターに少額のチップを残した。"
+  },
+  {
+    "word": "tip",
+    "meaning": "先端",
+    "example": "I can feel the tip of my nose.",
+    "example_jp": "鼻の先端を感じることができる。"
+  },
+  {
+    "word": "lawyer",
+    "meaning": "弁護士",
+    "example": "You should consult a lawyer about this case.",
+    "example_jp": "この件については弁護士に相談すべきだ。"
+  },
+  {
+    "word": "stuff",
+    "meaning": "物",
+    "example": "Don't leave your stuff all over the floor.",
+    "example_jp": "床に自分の物（荷物など）を散らかしたままにしないで。"
+  },
+  {
+    "word": "stuff",
+    "meaning": "素材・素質",
+    "example": "He has the stuff to be a great leader.",
+    "example_jp": "彼には偉大なリーダーになる素質がある。"
+  },
+  {
+    "word": "comfort",
+    "meaning": "快適さ",
+    "example": "She values comfort over fashion.",
+    "example_jp": "彼女は流行よりも快適さを重視する。"
+  },
+  {
+    "word": "comfort",
+    "meaning": "慰め",
+    "example": "The letter was a great comfort to her.",
+    "example_jp": "その手紙は彼女にとって大きな慰めになった。"
+  },
+  {
+    "word": "philosophy",
+    "meaning": "哲学・人生観",
+    "example": "My philosophy is to live life to the fullest.",
+    "example_jp": "私の人生観（哲学）は人生を最大限に生きることだ。"
+  },
+  {
+    "word": "philosophy",
+    "meaning": "原理",
+    "example": "The company's philosophy is based on quality.",
+    "example_jp": "その会社の経営原理（理念）は品質に基づいている。"
+  },
+  {
+    "word": "mammal",
+    "meaning": "哺乳動物",
+    "example": "Whales are mammals, not fish.",
+    "example_jp": "クジラは魚ではなく哺乳動物だ。"
+  },
+  {
+    "word": "quantity",
+    "meaning": "量・分量",
+    "example": "The factory produces a large quantity of toys.",
+    "example_jp": "その工場は大量の（多くの分量の）おもちゃを生産している。"
+  },
+  {
+    "word": "landscape",
+    "meaning": "風景",
+    "example": "The landscape here is very beautiful in winter.",
+    "example_jp": "ここの風景は冬にとても美しくなる。"
+  },
+  {
+    "word": "landscape",
+    "meaning": "領域・状況",
+    "example": "The political landscape has changed recently.",
+    "example_jp": "政治的な状況（領域）は最近変化した。"
+  },
+  {
+    "word": "tribe",
+    "meaning": "部族",
+    "example": "The tribe lives deep in the mountains.",
+    "example_jp": "その部族は山の奥深くで暮らしている。"
+  },
+  {
+    "word": "tribe",
+    "meaning": "仲間",
+    "example": "He likes to hang out with his own tribe.",
+    "example_jp": "彼は自分の仲間と一緒に過ごすのが好きだ。"
+  },
+  {
+    "word": "organ",
+    "meaning": "器官・臓器",
+    "example": "The heart is a vital organ.",
+    "example_jp": "心臓は主要な器官（臓器）だ。"
+  },
+  {
+    "word": "organ",
+    "meaning": "組織",
+    "example": "The group serves as an organ of the government.",
+    "example_jp": "そのグループは政府の組織（機関）として機能している。"
+  },
+  {
+    "word": "organ",
+    "meaning": "オルガン",
+    "example": "He plays the organ at the church.",
+    "example_jp": "彼は教会でオルガンを弾く。"
+  },
+  {
+    "word": "trial",
+    "meaning": "試み・試験",
+    "example": "The new drug is undergoing clinical trials.",
+    "example_jp": "その新薬は臨床試験（試み）を受けているところだ。"
+  },
+  {
+    "word": "trial",
+    "meaning": "裁判",
+    "example": "The trial will begin next month.",
+    "example_jp": "裁判は来月始まる予定だ。"
+  },
+  {
+    "word": "trial",
+    "meaning": "試用期間",
+    "example": "You can use the software for a trial period.",
+    "example_jp": "そのソフトウェアを試用期間の間使うことができる。"
+  },
+  {
+    "word": "norm",
+    "meaning": "規範・標準",
+    "example": "Social norms vary from country to country.",
+    "example_jp": "社会的規範（標準）は国によって異なる。"
+  },
+  {
+    "word": "code",
+    "meaning": "規範・暗号・法典",
+    "example": "The company has a strict code of conduct.",
+    "example_jp": "その会社には厳しい行動規範がある。"
+  },
+  {
+    "word": "substance",
+    "meaning": "物質",
+    "example": "Ice and water are the same substance.",
+    "example_jp": "氷と水は同じ物質だ。"
+  },
+  {
+    "word": "substance",
+    "meaning": "実体・趣旨",
+    "example": "There is no substance to the rumors.",
+    "example_jp": "それらの噂に実体（根拠）はない。"
+  },
+  {
+    "word": "multiple",
+    "meaning": "多様な・種々雑多な",
+    "example": "He has multiple sources of income.",
+    "example_jp": "彼には多様な（複数の）収入源がある。"
+  },
+  {
+    "word": "numerous",
+    "meaning": "非常に数の多い",
+    "example": "There are numerous reasons for the delay.",
+    "example_jp": "遅延には非常に多くの理由がある。"
+  },
+  {
+    "word": "narrow",
+    "meaning": "狭い・細い",
+    "example": "The street is too narrow for trucks.",
+    "example_jp": "その通りはトラックには狭すぎる。"
+  },
+  {
+    "word": "narrow",
+    "meaning": "限られた",
+    "example": "She has a narrow range of interests.",
+    "example_jp": "彼女は限られた範囲の興味しか持っていない。"
+  },
+  {
+    "word": "widespread",
+    "meaning": "広範囲にわたる・広く普及した",
+    "example": "English is a widespread language.",
+    "example_jp": "英語は広く普及した言語だ。"
+  },
+  {
+    "word": "sufficient",
+    "meaning": "十分な",
+    "example": "We have sufficient food for the week.",
+    "example_jp": "私たちには1週間分の十分な食料がある。"
+  },
+  {
+    "word": "proper",
+    "meaning": "適切な・正式の",
+    "example": "It is important to use the proper tool.",
+    "example_jp": "適切な道具を使うことが重要だ。"
+  },
+  {
+    "word": "proper",
+    "meaning": "主要な・固有の",
+    "example": "This bird is proper to Australia.",
+    "example_jp": "この鳥はオーストラリアに固有の（特有の）ものだ。"
+  },
+  {
+    "word": "linguistic",
+    "meaning": "言語の・言語学の",
+    "example": "The country has great linguistic diversity.",
+    "example_jp": "その国には多大な言語の多様性がある。"
+  },
+  {
+    "word": "annual",
+    "meaning": "年1回の・例年の",
+    "example": "Our annual meeting is held in April.",
+    "example_jp": "私たちの例年の会議は4月に開かれる。"
+  },
+  {
+    "word": "annual",
+    "meaning": "1年間の",
+    "example": "The city's annual rainfall is high.",
+    "example_jp": "その都市の1年間の（年間の）降水量は多い。"
+  },
+  {
+    "word": "contemporary",
+    "meaning": "現代の",
+    "example": "She enjoys contemporary music.",
+    "example_jp": "彼女は現代の音楽を楽しんでいる。"
+  },
+  {
+    "word": "contemporary",
+    "meaning": "同時代の・同年輩の",
+    "example": "He was a contemporary of Mozart.",
+    "example_jp": "彼はモーツァルトと同時代の人だった。"
+  },
+  {
+    "word": "contrary",
+    "meaning": "反対の",
+    "example": "Contrary to expectations, the team won.",
+    "example_jp": "予想に反して（反対に）、そのチームは勝った。"
+  },
+  {
+    "word": "strict",
+    "meaning": "厳しい・厳格な",
+    "example": "My parents were very strict with me.",
+    "example_jp": "両親は私に対してとても厳しかった（厳格だった）。"
+  },
+  {
+    "word": "civil",
+    "meaning": "市民の・民間の",
+    "example": "He is a leader in the civil rights movement.",
+    "example_jp": "彼は市民権（市民の権利）運動のリーダーだ。"
+  },
+  {
+    "word": "civil",
+    "meaning": "民事の",
+    "example": "The lawyer specializes in civil cases.",
+    "example_jp": "その弁護士は民事事件（民事の件）を専門にしている。"
+  },
+  {
+    "word": "odd",
+    "meaning": "奇妙な",
+    "example": "That's an odd thing to say.",
+    "example_jp": "それは奇妙な言い草だ。"
+  },
+  {
+    "word": "odd",
+    "meaning": "奇数の",
+    "example": "Three and five are odd numbers.",
+    "example_jp": "3と5は奇数だ。"
+  },
+  {
+    "word": "unknown",
+    "meaning": "不明の",
+    "example": "The cause of the fire is still unknown.",
+    "example_jp": "火事の原因はまだ不明だ。"
+  },
+  {
+    "word": "unknown",
+    "meaning": "知られていない・無名の",
+    "example": "She was an unknown artist until last year.",
+    "example_jp": "彼女は昨年まで無名の芸術家だった。"
+  },
+  {
+    "word": "superior",
+    "meaning": "よりすぐれた",
+    "example": "This model is superior to the old one.",
+    "example_jp": "このモデルは古いものより優れている。"
+  },
+  {
+    "word": "sensitive",
+    "meaning": "敏感な・神経質な",
+    "example": "He is very sensitive to criticism.",
+    "example_jp": "彼は批判に対して非常に敏感（神経質）だ。"
+  },
+  {
+    "word": "sensitive",
+    "meaning": "微妙な",
+    "example": "This is a very sensitive issue.",
+    "example_jp": "これは非常に微妙な問題だ。"
+  },
+  {
+    "word": "violent",
+    "meaning": "激しい・暴力的な",
+    "example": "The movie contains violent scenes.",
+    "example_jp": "その映画には暴力的なシーンが含まれている。"
+  },
+  {
+    "word": "virtual",
+    "meaning": "仮想の",
+    "example": "I went on a virtual tour of the museum.",
+    "example_jp": "私は美術館の仮想ツアーに参加した。"
+  },
+  {
+    "word": "virtual",
+    "meaning": "事実上の",
+    "example": "He is the virtual leader of the party.",
+    "example_jp": "彼はその政党の事実上のリーダーだ。"
+  },
+  {
+    "word": "regardless",
+    "meaning": "かまわない・無頓着な",
+    "example": "He went ahead regardless of the danger.",
+    "example_jp": "彼は危険をかえりみず（かまわず）突き進んだ。"
+  },
+  {
+    "word": "immediate",
+    "meaning": "即座の",
+    "example": "The plan needs immediate action.",
+    "example_jp": "その計画には即座の行動が必要だ。"
+  },
+  {
+    "word": "immediate",
+    "meaning": "当面の・すぐそばの",
+    "example": "There are no shops in the immediate area.",
+    "example_jp": "すぐそばの（当面の）範囲には店が一軒もない。"
+  },
+  {
+    "word": "immediate",
+    "meaning": "直接の",
+    "example": "What was the immediate cause of the accident?",
+    "example_jp": "その事故の直接の原因は何でしたか。"
+  },
+  {
+    "word": "crucial",
+    "meaning": "重要な",
+    "example": "This is a crucial decision for your future.",
+    "example_jp": "これはあなたの将来にとって重要な決定だ。"
+  },
+  {
+    "word": "somewhat",
+    "meaning": "いくぶん・多少",
+    "example": "The results were somewhat disappointing.",
+    "example_jp": "結果はいくぶん（多少）残念なものだった。"
+  }
+]

@@ -1,0 +1,320 @@
+[
+  {
+    "word": "month",
+    "meaning": "（暦の）月",
+    "example": "This month is very cold.",
+    "example_jp": "今月はとても寒い。"
+  },
+  {
+    "word": "week",
+    "meaning": "週",
+    "example": "I study hard this week.",
+    "example_jp": "私は今週、一生懸命勉強する。"
+  },
+  {
+    "word": "date",
+    "meaning": "日にち",
+    "example": "What is today’s date?",
+    "example_jp": "今日の日にちは何ですか？"
+  },
+  {
+    "word": "event",
+    "meaning": "行事",
+    "example": "The event starts at noon.",
+    "example_jp": "その行事は正午に始まる。"
+  },
+  {
+    "word": "future",
+    "meaning": "未来",
+    "example": "No one knows the future.",
+    "example_jp": "誰も未来を知らない。"
+  },
+  {
+    "word": "future",
+    "meaning": "将来",
+    "example": "I think about my future.",
+    "example_jp": "私は自分の将来について考える。"
+  },
+  {
+    "word": "design",
+    "meaning": "デザイン",
+    "example": "I like this simple design.",
+    "example_jp": "私はこのシンプルなデザインが好きだ。"
+  },
+  {
+    "word": "end",
+    "meaning": "終わり",
+    "example": "This is the end of the story.",
+    "example_jp": "これがその物語の終わりだ。"
+  },
+  {
+    "word": "computer",
+    "meaning": "コンピューター",
+    "example": "I use a computer every day.",
+    "example_jp": "私は毎日コンピューターを使う。"
+  },
+  {
+    "word": "plant",
+    "meaning": "植物",
+    "example": "This plant needs water.",
+    "example_jp": "この植物は水を必要とする。"
+  },
+  {
+    "word": "art",
+    "meaning": "美術",
+    "example": "She loves art.",
+    "example_jp": "彼女は美術を愛している。"
+  },
+  {
+    "word": "chance",
+    "meaning": "機会",
+    "example": "Give me one more chance.",
+    "example_jp": "私にもう一度機会をください。"
+  },
+  {
+    "word": "chance",
+    "meaning": "好機",
+    "example": "This is a good chance.",
+    "example_jp": "これは良い好機だ。"
+  },
+  {
+    "word": "history",
+    "meaning": "歴史",
+    "example": "I study world history.",
+    "example_jp": "私は世界歴史を勉強する。"
+  },
+  {
+    "word": "festival",
+    "meaning": "祭り",
+    "example": "The festival is very fun.",
+    "example_jp": "その祭りはとても楽しい。"
+  },
+  {
+    "word": "season",
+    "meaning": "季節",
+    "example": "This season is warm.",
+    "example_jp": "この季節は暖かい。"
+  },
+  {
+    "word": "fun",
+    "meaning": "楽しみ",
+    "example": "We have fun at the park.",
+    "example_jp": "私たちは公園で楽しみを持つ。"
+  },
+  {
+    "word": "host",
+    "meaning": "主人",
+    "example": "He is the host of the party.",
+    "example_jp": "彼はそのパーティーの主人だ。"
+  },
+  {
+    "word": "message",
+    "meaning": "伝言",
+    "example": "I get a message from her.",
+    "example_jp": "私は彼女から伝言を受け取る。"
+  },
+  {
+    "word": "step",
+    "meaning": "段階",
+    "example": "Take one small step.",
+    "example_jp": "一つの小さな段階を踏みなさい。"
+  },
+  {
+    "word": "popular",
+    "meaning": "人気のある",
+    "example": "This game is very popular.",
+    "example_jp": "このゲームはとても人気のあるものだ。"
+  },
+  {
+    "word": "most",
+    "meaning": "大部分の",
+    "example": "Most students like music.",
+    "example_jp": "大部分の学生は音楽が好きだ。"
+  },
+  {
+    "word": "different",
+    "meaning": "違う",
+    "example": "This book is different.",
+    "example_jp": "この本は違う。"
+  },
+  {
+    "word": "such",
+    "meaning": "そのような",
+    "example": "I have never seen such a thing.",
+    "example_jp": "私はそのようなものを見たことがない。"
+  },
+  {
+    "word": "last",
+    "meaning": "この前の",
+    "example": "I saw him last week.",
+    "example_jp": "私はこの前の週に彼に会った。"
+  },
+  {
+    "word": "same",
+    "meaning": "同じ",
+    "example": "We are in the same class.",
+    "example_jp": "私たちは同じクラスにいる。"
+  },
+  {
+    "word": "great",
+    "meaning": "すばらしい",
+    "example": "This is a great idea.",
+    "example_jp": "これはすばらしい考えだ。"
+  },
+  {
+    "word": "open",
+    "meaning": "開いている",
+    "example": "The store is open now.",
+    "example_jp": "その店は今開いている。"
+  },
+  {
+    "word": "own",
+    "meaning": "自分自身の",
+    "example": "I have my own room.",
+    "example_jp": "私は自分自身の部屋を持っている。"
+  },
+  {
+    "word": "kind",
+    "meaning": "親切な",
+    "example": "She is very kind.",
+    "example_jp": "彼女はとても親切だ。"
+  },
+  {
+    "word": "difficult",
+    "meaning": "難しい",
+    "example": "This question is difficult.",
+    "example_jp": "この質問は難しい。"
+  },
+  {
+    "word": "enough",
+    "meaning": "十分な",
+    "example": "We have enough time.",
+    "example_jp": "私たちは十分な時間を持っている。"
+  },
+  {
+    "word": "special",
+    "meaning": "特別な",
+    "example": "Today is a special day.",
+    "example_jp": "今日は特別な日だ。"
+  },
+  {
+    "word": "famous",
+    "meaning": "有名な",
+    "example": "He is a famous singer.",
+    "example_jp": "彼は有名な歌手だ。"
+  },
+  {
+    "word": "bad",
+    "meaning": "悪い",
+    "example": "The weather is bad today.",
+    "example_jp": "今日は天気が悪い。"
+  },
+  {
+    "word": "short",
+    "meaning": "短い",
+    "example": "This story is short.",
+    "example_jp": "この物語は短い。"
+  },
+  {
+    "word": "useful",
+    "meaning": "役に立つ",
+    "example": "This map is useful.",
+    "example_jp": "この地図は役に立つ。"
+  },
+  {
+    "word": "afraid",
+    "meaning": "恐れて",
+    "example": "I am afraid of dogs.",
+    "example_jp": "私は犬を恐れている。"
+  },
+  {
+    "word": "favorite",
+    "meaning": "お気に入りの",
+    "example": "This is my favorite book.",
+    "example_jp": "これは私のお気に入りの本だ。"
+  },
+  {
+    "word": "expensive",
+    "meaning": "高価な",
+    "example": "The bag is expensive.",
+    "example_jp": "そのバッグは高価だ。"
+  },
+  {
+    "word": "carry",
+    "meaning": "運ぶ",
+    "example": "I carry a heavy box.",
+    "example_jp": "私は重い箱を運ぶ。"
+  },
+  {
+    "word": "break",
+    "meaning": "壊れる",
+    "example": "The glass breaks easily.",
+    "example_jp": "そのガラスは簡単に壊れる。"
+  },
+  {
+    "word": "break",
+    "meaning": "割れる",
+    "example": "The cup breaks in my hand.",
+    "example_jp": "そのカップが私の手の中で割れる。"
+  },
+  {
+    "word": "arrive",
+    "meaning": "到着する",
+    "example": "We arrive at the station.",
+    "example_jp": "私たちは駅に到着する。"
+  },
+  {
+    "word": "fall",
+    "meaning": "落ちる",
+    "example": "Leaves fall in autumn.",
+    "example_jp": "秋に葉が落ちる。"
+  },
+  {
+    "word": "miss",
+    "meaning": "がいなくてさみしく思う",
+    "example": "I miss my friends.",
+    "example_jp": "私は友達がいなくてさみしく思う。"
+  },
+  {
+    "word": "cover",
+    "meaning": "覆う",
+    "example": "Clouds cover the sky.",
+    "example_jp": "雲が空を覆う。"
+  },
+  {
+    "word": "catch",
+    "meaning": "捕まえる",
+    "example": "I catch the ball.",
+    "example_jp": "私はボールを捕まえる。"
+  },
+  {
+    "word": "save",
+    "meaning": "救う",
+    "example": "The dog saves the boy.",
+    "example_jp": "その犬がその少年を救う。"
+  },
+  {
+    "word": "check",
+    "meaning": "点検する",
+    "example": "I check my bag again.",
+    "example_jp": "私はもう一度自分のバッグを点検する。"
+  },
+  {
+    "word": "introduce",
+    "meaning": "紹介する",
+    "example": "Let me introduce my friend.",
+    "example_jp": "私の友達を紹介させてください。"
+  },
+  {
+    "word": "join",
+    "meaning": "加わる",
+    "example": "I join the soccer team.",
+    "example_jp": "私はサッカーチームに加わる。"
+  },
+  {
+    "word": "clean",
+    "meaning": "きれいにする",
+    "example": "I clean my room.",
+    "example_jp": "私は自分の部屋をきれいにする。"
+  }
+]

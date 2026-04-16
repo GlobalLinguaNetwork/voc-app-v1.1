@@ -1,0 +1,326 @@
+[
+  {
+    "word": "come from",
+    "meaning": "〜から来ている",
+    "example": "I come from Japan.",
+    "example_jp": "私は日本から来ている。"
+  },
+  {
+    "word": "come true",
+    "meaning": "実現する",
+    "example": "My dream comes true.",
+    "example_jp": "私の夢が実現する。"
+  },
+  {
+    "word": "cut off",
+    "meaning": "〜を切り取る",
+    "example": "I cut off the tag.",
+    "example_jp": "私はそのタグを切り取る。"
+  },
+  {
+    "word": "do my best",
+    "meaning": "全力を尽くす",
+    "example": "I will do my best.",
+    "example_jp": "私は全力を尽くすつもりだ。"
+  },
+  {
+    "word": "get off",
+    "meaning": "〜を降りる",
+    "example": "I get off the bus here.",
+    "example_jp": "私はここでバスを降りる。"
+  },
+  {
+    "word": "get on",
+    "meaning": "〜に乗る",
+    "example": "I get on the train.",
+    "example_jp": "私は電車に乗る。"
+  },
+  {
+    "word": "get to",
+    "meaning": "〜に到着する",
+    "example": "We get to the station.",
+    "example_jp": "私たちは駅に到着する。"
+  },
+  {
+    "word": "go through",
+    "meaning": "〜を経験する",
+    "example": "We go through hard times.",
+    "example_jp": "私たちは辛い時期を経験する。"
+  },
+  {
+    "word": "grow up",
+    "meaning": "成長する",
+    "example": "Kids grow up fast.",
+    "example_jp": "子供たちは速く成長する。"
+  },
+  {
+    "word": "grow up",
+    "meaning": "大人になる",
+    "example": "He grows up to be a doctor.",
+    "example_jp": "彼は大人になって医者になる。"
+  },
+  {
+    "word": "hear of",
+    "meaning": "〜のことを聞く",
+    "example": "I hear of the story.",
+    "example_jp": "私はその話のことを聞く。"
+  },
+  {
+    "word": "help myself to",
+    "meaning": "〜を自由にとって食べる",
+    "example": "Please help yourself to the food.",
+    "example_jp": "その食べ物を自由にとって食べてください。"
+  },
+  {
+    "word": "look for",
+    "meaning": "〜を探す",
+    "example": "I look for my keys.",
+    "example_jp": "私は自分の鍵を探す。"
+  },
+  {
+    "word": "look forward to",
+    "meaning": "〜を楽しみに待つ",
+    "example": "I look forward to the trip.",
+    "example_jp": "私はその旅行を楽しみに待つ。"
+  },
+  {
+    "word": "look like",
+    "meaning": "〜に似ている",
+    "example": "She looks like her mother.",
+    "example_jp": "彼女は母親に似ている。"
+  },
+  {
+    "word": "pick up",
+    "meaning": "〜を拾い上げる",
+    "example": "I pick up the pen.",
+    "example_jp": "私はそのペンを拾い上げる。"
+  },
+  {
+    "word": "speak to",
+    "meaning": "〜と話す",
+    "example": "I speak to my teacher.",
+    "example_jp": "私は先生と話す。"
+  },
+  {
+    "word": "speak with",
+    "meaning": "〜と話す",
+    "example": "I speak with my friend.",
+    "example_jp": "私は友達と話す。"
+  },
+  {
+    "word": "take care of",
+    "meaning": "〜の世話をする",
+    "example": "I take care of my dog.",
+    "example_jp": "私は自分の犬の世話をする。"
+  },
+  {
+    "word": "take off",
+    "meaning": "〜を脱ぐ",
+    "example": "I take off my shoes.",
+    "example_jp": "私は靴を脱ぐ。"
+  },
+  {
+    "word": "take part in",
+    "meaning": "〜に参加する",
+    "example": "I take part in the event.",
+    "example_jp": "私はその行事に参加する。"
+  },
+  {
+    "word": "think of",
+    "meaning": "〜を思いつく",
+    "example": "I think of a good idea.",
+    "example_jp": "私は良い考えを思いつく。"
+  },
+  {
+    "word": "after school",
+    "meaning": "放課後に",
+    "example": "I play soccer after school.",
+    "example_jp": "私は放課後にサッカーをする。"
+  },
+  {
+    "word": "all over",
+    "meaning": "〜の至る所に",
+    "example": "The news spreads all over the world.",
+    "example_jp": "そのニュースは世界の至る所に広がる。"
+  },
+  {
+    "word": "all the time",
+    "meaning": "いつも",
+    "example": "She is busy all the time.",
+    "example_jp": "彼女はいつも忙しい。"
+  },
+  {
+    "word": "at first",
+    "meaning": "最初は",
+    "example": "At first, I am nervous.",
+    "example_jp": "最初は、私は緊張している。"
+  },
+  {
+    "word": "at home",
+    "meaning": "在宅して",
+    "example": "I stay at home today.",
+    "example_jp": "私は今日、在宅している（家にいる）。"
+  },
+  {
+    "word": "at last",
+    "meaning": "ついに",
+    "example": "At last, we win the game.",
+    "example_jp": "ついに、私たちは試合に勝つ。"
+  },
+  {
+    "word": "at that time",
+    "meaning": "その時に",
+    "example": "I lived here at that time.",
+    "example_jp": "私はその時にここに住んでいた。"
+  },
+  {
+    "word": "at the same time",
+    "meaning": "同時に",
+    "example": "They speak at the same time.",
+    "example_jp": "彼らは同時に話す。"
+  },
+  {
+    "word": "for a long time",
+    "meaning": "長い間",
+    "example": "I wait for a long time.",
+    "example_jp": "私は長い間待つ。"
+  },
+  {
+    "word": "for the first time",
+    "meaning": "初めて",
+    "example": "I visit Tokyo for the first time.",
+    "example_jp": "私は初めて東京を訪れる。"
+  },
+  {
+    "word": "in the end",
+    "meaning": "結局",
+    "example": "In the end, he says yes.",
+    "example_jp": "結局、彼はイエスと言う。"
+  },
+  {
+    "word": "in the future",
+    "meaning": "将来",
+    "example": "I want to travel more in the future.",
+    "example_jp": "私は将来もっと旅行したい。"
+  },
+  {
+    "word": "in this way",
+    "meaning": "このようにして",
+    "example": "We learn in this way.",
+    "example_jp": "私たちはこのようにして学ぶ。"
+  },
+  {
+    "word": "more than",
+    "meaning": "〜より多い",
+    "example": "I have more than ten books.",
+    "example_jp": "私は10冊より多い本を持っている。"
+  },
+  {
+    "word": "of course",
+    "meaning": "もちろん",
+    "example": "Of course, I agree.",
+    "example_jp": "もちろん、私は同意する。"
+  },
+  {
+    "word": "on my way to",
+    "meaning": "〜に行く途中で",
+    "example": "I meet him on my way to school.",
+    "example_jp": "私は学校に行く途中で彼に会う。"
+  },
+  {
+    "word": "over there",
+    "meaning": "あそこに",
+    "example": "Look at the house over there.",
+    "example_jp": "あそこにある家を見てください。"
+  },
+  {
+    "word": "these days",
+    "meaning": "近ごろ",
+    "example": "It is warm these days.",
+    "example_jp": "近ごろは暖かい。"
+  },
+  {
+    "word": "a kind of",
+    "meaning": "一種の",
+    "example": "This is a kind of fruit.",
+    "example_jp": "これは一種の果物だ。"
+  },
+  {
+    "word": "a lot of",
+    "meaning": "たくさんの",
+    "example": "I have a lot of friends.",
+    "example_jp": "私はたくさんの友達がいる。"
+  },
+  {
+    "word": "lots of",
+    "meaning": "たくさんの",
+    "example": "She has lots of homework.",
+    "example_jp": "彼女はたくさんの宿題がある。"
+  },
+  {
+    "word": "A such as B",
+    "meaning": "BのようなA",
+    "example": "I like sports such as soccer.",
+    "example_jp": "私はサッカーのようなスポーツが好きだ。"
+  },
+  {
+    "word": "and so on",
+    "meaning": "など",
+    "example": "We need pens, paper, and so on.",
+    "example_jp": "私たちはペンや紙などが必要だ。"
+  },
+  {
+    "word": "here is",
+    "meaning": "これが〜です",
+    "example": "Here is your bag.",
+    "example_jp": "これがあなたのバッグです。"
+  },
+  {
+    "word": "here are",
+    "meaning": "これが〜です",
+    "example": "Here are the books.",
+    "example_jp": "これがその本です。"
+  },
+  {
+    "word": "How about ~ ?",
+    "meaning": "〜はいかがですか？",
+    "example": "How about this one?",
+    "example_jp": "これはいかがですか？"
+  },
+  {
+    "word": "no longer",
+    "meaning": "もはや〜ない",
+    "example": "I no longer live here.",
+    "example_jp": "私はもはやここに住んでいない。"
+  },
+  {
+    "word": "not only A but B",
+    "meaning": "AだけでなくBも",
+    "example": "She is not only kind but smart.",
+    "example_jp": "彼女は親切なだけでなく賢くもある。"
+  },
+  {
+    "word": "so ~ that …",
+    "meaning": "とても〜なので…",
+    "example": "It is so cold that I stay home.",
+    "example_jp": "とても寒いので私は家にいる。"
+  },
+  {
+    "word": "too ~ to …",
+    "meaning": "あまりに〜なので…できない",
+    "example": "It is too hot to walk.",
+    "example_jp": "あまりに暑いので歩くことができない。"
+  },
+  {
+    "word": "used to",
+    "meaning": "以前はよく…した",
+    "example": "I used to play baseball.",
+    "example_jp": "私は以前はよく野球をした。"
+  },
+  {
+    "word": "would like to",
+    "meaning": "…したいと思う",
+    "example": "I would like to go there.",
+    "example_jp": "私はそこに行きたいと思う。"
+  }
+]

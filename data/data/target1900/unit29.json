@@ -1,0 +1,482 @@
+[
+  {
+    "word": "update",
+    "meaning": "を最新のものにする，をアップデートする",
+    "example": "You need to update your software to the latest version.",
+    "example_jp": "ソフトウェアを最新のバージョンにアップデートする必要がある。"
+  },
+  {
+    "word": "refresh",
+    "meaning": "（気分）をさわやかにする",
+    "example": "A glass of cold water refreshed me after the long walk.",
+    "example_jp": "長い散歩の後、一杯の冷たい水が気分をさわやかにしてくれた。"
+  },
+  {
+    "word": "refresh",
+    "meaning": "（記憶など）を新たにする",
+    "example": "Looking at old photos helped refresh my memory of the trip.",
+    "example_jp": "古い写真を見ると、旅行の記憶を新たにするのに役立った。"
+  },
+  {
+    "word": "refresh",
+    "meaning": "を最新のものにする",
+    "example": "Please refresh the web page to see the new comments.",
+    "example_jp": "新しいコメントを表示するために、ウェブページを最新の状態（更新）にしてください。"
+  },
+  {
+    "word": "bloom",
+    "meaning": "花が咲く",
+    "example": "The cherry blossoms bloom early in April.",
+    "example_jp": "桜の花は4月上旬に咲く。"
+  },
+  {
+    "word": "bloom",
+    "meaning": "栄える",
+    "example": "The small town bloomed after the new factory opened.",
+    "example_jp": "新しい工場がオープンした後、その小さな町は栄えた。"
+  },
+  {
+    "word": "conquer",
+    "meaning": "を征服する",
+    "example": "The empire conquered many lands in the ancient world.",
+    "example_jp": "その帝国は古代世界で多くの土地を征服した。"
+  },
+  {
+    "word": "conquer",
+    "meaning": "を克服する",
+    "example": "He finally conquered his fear of public speaking.",
+    "example_jp": "彼はついに人前で話すことへの恐怖を克服した。"
+  },
+  {
+    "word": "induce",
+    "meaning": "を引き起こす",
+    "example": "The medicine may induce drowsiness as a side effect.",
+    "example_jp": "その薬は副作用として眠気を引き起こす可能性がある。"
+  },
+  {
+    "word": "induce",
+    "meaning": "を説得する",
+    "example": "Nothing could induce him to change his mind.",
+    "example_jp": "何をもってしても、彼を説得して考えを変えさせることはできなかった。"
+  },
+  {
+    "word": "attain",
+    "meaning": "を獲得する，達成する",
+    "example": "She worked hard to attain her goal of becoming a doctor.",
+    "example_jp": "彼女は医者になるという目標を達成するために懸命に働いた。"
+  },
+  {
+    "word": "attain",
+    "meaning": "に達する",
+    "example": "The temperature attained a record high this afternoon.",
+    "example_jp": "今日の午後、気温は記録的な高さに達した。"
+  },
+  {
+    "word": "spray",
+    "meaning": "を吹きかける，に吹きつける",
+    "example": "Don't forget to spray perfume before you go out.",
+    "example_jp": "出かける前に香水を吹きかけるのを忘れないで。"
+  },
+  {
+    "word": "retrieve",
+    "meaning": "（情報）を検索する",
+    "example": "The computer can quickly retrieve data from the server.",
+    "example_jp": "コンピューターはサーバーから素早くデータを検索できる。"
+  },
+  {
+    "word": "retrieve",
+    "meaning": "を取り戻す，を回復する",
+    "example": "He managed to retrieve his lost bag from the station.",
+    "example_jp": "彼は駅で紛失したバッグを何とか取り戻した。"
+  },
+  {
+    "word": "portray",
+    "meaning": "を描く",
+    "example": "The novel portrays life in a small village 100 years ago.",
+    "example_jp": "その小説は100年前の小さな村の生活を描いている。"
+  },
+  {
+    "word": "portray",
+    "meaning": "（の役）を演じる",
+    "example": "He portrayed the character of a detective in the movie.",
+    "example_jp": "彼は映画で探偵の役を演じた。"
+  },
+  {
+    "word": "scratch",
+    "meaning": "を引っかく",
+    "example": "The cat scratched the wooden door.",
+    "example_jp": "猫が木製のドアを引っかいた。"
+  },
+  {
+    "word": "scratch",
+    "meaning": "を取り消す，削除する",
+    "example": "I had to scratch my original plan and start over.",
+    "example_jp": "当初の計画を取り消して、最初からやり直さなければならなかった。"
+  },
+  {
+    "word": "designate",
+    "meaning": "を指定する",
+    "example": "This area is designated as a non-smoking zone.",
+    "example_jp": "このエリアは禁煙区域に指定されている。"
+  },
+  {
+    "word": "designate",
+    "meaning": "を任命する",
+    "example": "He was designated as the team leader for the new project.",
+    "example_jp": "彼は新プロジェクトのチームリーダーに任命された。"
+  },
+  {
+    "word": "contradict",
+    "meaning": "と矛盾する",
+    "example": "Her words contradict what she said yesterday.",
+    "example_jp": "彼女の言葉は、昨日彼女が言ったことと矛盾している。"
+  },
+  {
+    "word": "contradict",
+    "meaning": "に反対意見を言う",
+    "example": "Nobody dared to contradict the boss during the meeting.",
+    "example_jp": "会議中、誰もあえてボスに反対意見を言おうとはしなかった。"
+  },
+  {
+    "word": "sigh",
+    "meaning": "ため息をつく",
+    "example": "She sighed with relief when she heard the good news.",
+    "example_jp": "良い知らせを聞いて、彼女は安心のため息をついた。"
+  },
+  {
+    "word": "disrupt",
+    "meaning": "を混乱させる，を分裂させる",
+    "example": "The protest disrupted traffic in the city center.",
+    "example_jp": "抗議デモが都心の交通を混乱させた。"
+  },
+  {
+    "word": "depart",
+    "meaning": "出発する",
+    "example": "The train is scheduled to depart at 10 a.m.",
+    "example_jp": "列車は午前10時に出発する予定だ。"
+  },
+  {
+    "word": "depart",
+    "meaning": "それる",
+    "example": "I decided to depart from the usual routine and try something new.",
+    "example_jp": "いつものルーチンからそれて、何か新しいことを試してみることにした。"
+  },
+  {
+    "word": "navigate",
+    "meaning": "誘導する，操縦する，航行する",
+    "example": "The pilot had to navigate the plane through a heavy storm.",
+    "example_jp": "パイロットは激しい嵐の中を飛行機で操縦（航行）しなければならなかった。"
+  },
+  {
+    "word": "beg",
+    "meaning": "切に頼む，懇願する",
+    "example": "He begged his parents for a new bike for Christmas.",
+    "example_jp": "彼はクリスマスに新しい自転車を買ってくれるよう、親に切に頼んだ。"
+  },
+  {
+    "word": "inhabit",
+    "meaning": "に住んでいる",
+    "example": "Many rare animals inhabit this tropical rainforest.",
+    "example_jp": "この熱帯雨林には多くの希少動物が住んでいる。"
+  },
+  {
+    "word": "inhabit",
+    "meaning": "に宿る，存する",
+    "example": "A strange spirit was said to inhabit the old house.",
+    "example_jp": "その古い家には奇妙な霊が宿っていると言われていた。"
+  },
+  {
+    "word": "diagnose",
+    "meaning": "を診断する",
+    "example": "The doctor diagnosed him with a common cold.",
+    "example_jp": "医師は彼を風邪と診断した。"
+  },
+  {
+    "word": "comprehend",
+    "meaning": "を理解する",
+    "example": "I cannot comprehend why he made such a decision.",
+    "example_jp": "なぜ彼がそのような決定をしたのか、私には理解できない。"
+  },
+  {
+    "word": "oblige",
+    "meaning": "に義務づける",
+    "example": "The contract obliges you to complete the work by Friday.",
+    "example_jp": "契約により、あなたはその仕事を金曜日までに終わらせる義務がある。"
+  },
+  {
+    "word": "oblige",
+    "meaning": "に恩恵を施す",
+    "example": "I would be much obliged if you could help me with this.",
+    "example_jp": "これをお手伝いいただければ、大変ありがたく存じます（恩義を感じます）。"
+  },
+  {
+    "word": "cram",
+    "meaning": "に詰め込む",
+    "example": "He tried to cram all his clothes into one suitcase.",
+    "example_jp": "彼はすべての服を一つのスーツケースに詰め込もうとした。"
+  },
+  {
+    "word": "cram",
+    "meaning": "詰め込み勉強をする",
+    "example": "She had to cram for the history exam all night.",
+    "example_jp": "彼女は一晩中、歴史の試験のために詰め込み勉強をしなければならなかった。"
+  },
+  {
+    "word": "flock",
+    "meaning": "群がる，集まる",
+    "example": "Tourists flock to the beach during the summer months.",
+    "example_jp": "夏の間、観光客がビーチに群がる。"
+  },
+  {
+    "word": "underestimate",
+    "meaning": "過小評価する，軽く見る",
+    "example": "Never underestimate the power of hard work.",
+    "example_jp": "努力の力を決して過小評価して（軽く見て）はいけない。"
+  },
+  {
+    "word": "clarify",
+    "meaning": "を明確にする",
+    "example": "Could you clarify what you meant by that comment?",
+    "example_jp": "その発言が何を意味していたのか、明確にしていただけますか？"
+  },
+  {
+    "word": "spark",
+    "meaning": "を引き起こす，を刺激する",
+    "example": "The new book sparked a nationwide debate.",
+    "example_jp": "その新しい本が全国的な論争を引き起こした。"
+  },
+  {
+    "word": "spark",
+    "meaning": "スパークする",
+    "example": "The damaged wire started to spark.",
+    "example_jp": "損傷したワイヤーがスパークし始めた。"
+  },
+  {
+    "word": "seize",
+    "meaning": "をつかむ，を奪い取る，を没収する",
+    "example": "She seized the opportunity to travel abroad.",
+    "example_jp": "彼女は海外旅行をする機会を（しっかり）つかんだ。"
+  },
+  {
+    "word": "soar",
+    "meaning": "急上昇する",
+    "example": "Oil prices soared after the news was announced.",
+    "example_jp": "ニュースの発表後、石油価格が急上昇した。"
+  },
+  {
+    "word": "soar",
+    "meaning": "空高く飛ぶ",
+    "example": "Eagles soar high above the mountains.",
+    "example_jp": "ワシが山のはるか上空を高く飛んでいる。"
+  },
+  {
+    "word": "glow",
+    "meaning": "光り輝く，赤く燃える，紅潮する",
+    "example": "Her face glowed with happiness after the wedding.",
+    "example_jp": "結婚式の後、彼女の顔は幸せで輝いていた（紅潮していた）。"
+  },
+  {
+    "word": "disguise",
+    "meaning": "を変装させる",
+    "example": "He disguised himself as a waiter to get into the party.",
+    "example_jp": "彼はパーティーに潜り込むために、ウェイターに変装した。"
+  },
+  {
+    "word": "disguise",
+    "meaning": "を偽る",
+    "example": "She tried to disguise her true feelings with a smile.",
+    "example_jp": "彼女は笑顔で本当の気持ちを偽ろうとした。"
+  },
+  {
+    "word": "distort",
+    "meaning": "を歪める，歪む",
+    "example": "The media was accused of distorting the truth.",
+    "example_jp": "メディアは真実を歪めているとして非難された。"
+  },
+  {
+    "word": "undermine",
+    "meaning": "を徐々にむしばむ，を侵食する",
+    "example": "The constant criticism undermined his self-confidence.",
+    "example_jp": "絶え間ない批判が、彼の自信を徐々にむしばんだ。"
+  },
+  {
+    "word": "abolish",
+    "meaning": "を廃止する",
+    "example": "The country decided to abolish the death penalty.",
+    "example_jp": "その国は死刑制度を廃止することに決めた。"
+  },
+  {
+    "word": "strip",
+    "meaning": "を取り去る",
+    "example": "The company was stripped of its license to operate.",
+    "example_jp": "その会社は営業許可（ライセンス）を取り去られた。"
+  },
+  {
+    "word": "strip",
+    "meaning": "を裸にする",
+    "example": "He had to strip to his waist for the medical exam.",
+    "example_jp": "彼は健康診断のために上半身裸（腰から上を裸）にならなければならなかった。"
+  },
+  {
+    "word": "dispose",
+    "meaning": "を処分する",
+    "example": "Please dispose of your trash in the bins provided.",
+    "example_jp": "ゴミは備え付けのゴミ箱に処分してください。"
+  },
+  {
+    "word": "dispose",
+    "meaning": "を（...する）気にさせる",
+    "example": "His friendly attitude disposed me to like him.",
+    "example_jp": "彼の友好的な態度は、私を彼を好きになる気にさせた。"
+  },
+  {
+    "word": "dispose",
+    "meaning": "を配置する",
+    "example": "The general disposed his troops along the river.",
+    "example_jp": "将軍は川沿いに軍隊を配置した。"
+  },
+  {
+    "word": "dump",
+    "meaning": "を投棄する，をどさっと落とす",
+    "example": "It is illegal to dump toxic waste into the ocean.",
+    "example_jp": "有毒廃棄物を海に投棄することは違法だ。"
+  },
+  {
+    "word": "weave",
+    "meaning": "を織る",
+    "example": "The traditional basket was woven from long grass.",
+    "example_jp": "その伝統的なカゴは長い草で織られていた。"
+  },
+  {
+    "word": "weave",
+    "meaning": "（計画・物語など）を作り上げる",
+    "example": "The author wove a complex story with many characters.",
+    "example_jp": "著者は多くの登場人物が登場する複雑な物語を作り上げた。"
+  },
+  {
+    "word": "refine",
+    "meaning": "を洗練する",
+    "example": "The athlete worked hard to refine his technique.",
+    "example_jp": "その選手は自分の技術を洗練させるために懸命に努力した。"
+  },
+  {
+    "word": "refine",
+    "meaning": "を精製する",
+    "example": "Sugar is refined from sugarcane in this factory.",
+    "example_jp": "この工場ではサトウキビから砂糖が精製されている。"
+  },
+  {
+    "word": "enrich",
+    "meaning": "を豊かにする",
+    "example": "Reading books can greatly enrich your vocabulary.",
+    "example_jp": "本を読むことは、あなたの語彙を大いに豊かにしてくれる。"
+  },
+  {
+    "word": "enrich",
+    "meaning": "（物質）を濃縮化する",
+    "example": "The plant is used to enrich uranium for fuel.",
+    "example_jp": "その施設は、燃料のためにウランを濃縮化するのに使われる。"
+  },
+  {
+    "word": "coordinate",
+    "meaning": "を調整する，組織する，コーディネートする",
+    "example": "We need to coordinate our efforts to finish the project.",
+    "example_jp": "プロジェクトを終わらせるために、私たちは努力を調整（組織）する必要がある。"
+  },
+  {
+    "word": "headline",
+    "meaning": "（新聞などの）見出し",
+    "example": "The front-page headline caught everyone's attention.",
+    "example_jp": "一面の見出しがみんなの注目を引いた。"
+  },
+  {
+    "word": "internship",
+    "meaning": "実務研修，研修期間",
+    "example": "He is doing an internship at a major law firm.",
+    "example_jp": "彼は大手の法律事務所で実務研修（インターンシップ）を受けている。"
+  },
+  {
+    "word": "outlet",
+    "meaning": "直売店，特売店",
+    "example": "We bought cheap clothes at the factory outlet.",
+    "example_jp": "私たちは工場直売店（アウトレット）で安い服を買った。"
+  },
+  {
+    "word": "outlet",
+    "meaning": "はけ口",
+    "example": "Sports can be a great outlet for stress.",
+    "example_jp": "スポーツはストレスの素晴らしいはけ口になりうる。"
+  },
+  {
+    "word": "outlet",
+    "meaning": "コンセント",
+    "example": "Is there an electrical outlet near this desk?",
+    "example_jp": "この机の近くにコンセント（電気の取り出し口）はありますか？"
+  },
+  {
+    "word": "remedy",
+    "meaning": "治療（法），治療薬，解決法",
+    "example": "Ginger tea is a popular home remedy for a cold.",
+    "example_jp": "生姜茶は風邪の一般的な家庭療法（治療法）だ。"
+  },
+  {
+    "word": "pill",
+    "meaning": "錠剤，丸薬，ピル",
+    "example": "The doctor told me to take one pill every morning.",
+    "example_jp": "医者は私に毎朝1錠の錠剤を飲むように言った。"
+  },
+  {
+    "word": "reception",
+    "meaning": "反応",
+    "example": "The new product received a positive reception from the public.",
+    "example_jp": "新製品は一般の人々から好意的な反応を受けた。"
+  },
+  {
+    "word": "reception",
+    "meaning": "宴会，受付",
+    "example": "Please check in at the reception when you arrive at the hotel.",
+    "example_jp": "ホテルに到着したら受付でチェックインしてください。"
+  },
+  {
+    "word": "reception",
+    "meaning": "受信（状態）",
+    "example": "Mobile phone reception is very poor in the mountains.",
+    "example_jp": "山の中では携帯電話の受信状態が非常に悪い。"
+  },
+  {
+    "word": "transaction",
+    "meaning": "（商）取引",
+    "example": "The online transaction was completed in seconds.",
+    "example_jp": "オンライン取引は数秒で完了した。"
+  },
+  {
+    "word": "transaction",
+    "meaning": "（人と人との）交流",
+    "example": "Language is a tool for social transaction.",
+    "example_jp": "言語は社会的交流（対話）のための道具だ。"
+  },
+  {
+    "word": "mutation",
+    "meaning": "突然変異（体），変化",
+    "example": "The virus changed through a genetic mutation.",
+    "example_jp": "そのウイルスは遺伝子の突然変異によって変化した。"
+  },
+  {
+    "word": "dairy",
+    "meaning": "乳製品",
+    "example": "Some people are allergic to dairy products like milk and cheese.",
+    "example_jp": "牛乳やチーズなどの乳製品にアレルギーを持つ人もいる。"
+  },
+  {
+    "word": "dairy",
+    "meaning": "乳製品加工所，販売者",
+    "example": "The local dairy delivers fresh milk every morning.",
+    "example_jp": "地元の乳製品販売者が毎朝新鮮な牛乳を届けてくれる。"
+  },
+  {
+    "word": "compassion",
+    "meaning": "同情",
+    "example": "He showed great compassion for the homeless family.",
+    "example_jp": "彼はそのホームレスの家族に対して深い同情を示した。"
+  }
+]

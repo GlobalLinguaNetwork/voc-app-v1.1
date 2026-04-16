@@ -1,0 +1,656 @@
+[
+  {
+    "word": "cheek",
+    "meaning": "ほお",
+    "example": "He kissed her cheek.",
+    "example_jp": "彼は彼女のほおにキスした。"
+  },
+  {
+    "word": "pull",
+    "meaning": "引く",
+    "example": "He pulled the door.",
+    "example_jp": "彼はドアを引いた。"
+  },
+  {
+    "word": "pull",
+    "meaning": "車を寄せる",
+    "example": "The car pulled over.",
+    "example_jp": "車が脇に寄った。"
+  },
+  {
+    "word": "upward",
+    "meaning": "上の方に",
+    "example": "The balloon moved upward.",
+    "example_jp": "風船は上の方に動いた。"
+  },
+  {
+    "word": "upward",
+    "meaning": "上昇して",
+    "example": "Prices are moving upward.",
+    "example_jp": "価格は上昇している。"
+  },
+  {
+    "word": "upward",
+    "meaning": "上方への",
+    "example": "The upward path is steep.",
+    "example_jp": "上方への道は急だ。"
+  },
+  {
+    "word": "eyebrow",
+    "meaning": "まゆ",
+    "example": "She raised her eyebrows.",
+    "example_jp": "彼女はまゆを上げた。"
+  },
+  {
+    "word": "slightly",
+    "meaning": "わずかに",
+    "example": "It is slightly different.",
+    "example_jp": "それはわずかに異なっている。"
+  },
+  {
+    "word": "prove",
+    "meaning": "証明する",
+    "example": "He proved the theory.",
+    "example_jp": "彼はその理論を証明した。"
+  },
+  {
+    "word": "prove",
+    "meaning": "…とわかる",
+    "example": "The rumor proved to be false.",
+    "example_jp": "その噂は間違いであるとわかった。"
+  },
+  {
+    "word": "gene",
+    "meaning": "遺伝子",
+    "example": "This gene affects height.",
+    "example_jp": "この遺伝子は身長に影響を与える。"
+  },
+  {
+    "word": "basic",
+    "meaning": "基礎の",
+    "example": "Basic skills are important.",
+    "example_jp": "基礎のスキルは重要だ。"
+  },
+  {
+    "word": "basic",
+    "meaning": "基礎知識",
+    "example": "He learned the basics.",
+    "example_jp": "彼は基礎知識を学んだ。"
+  },
+  {
+    "word": "cell",
+    "meaning": "細胞",
+    "example": "The body has many cells.",
+    "example_jp": "体には多くの細胞がある。"
+  },
+  {
+    "word": "cell",
+    "meaning": "電池",
+    "example": "The battery cell is weak.",
+    "example_jp": "その電池（単電池）が弱っている。"
+  },
+  {
+    "word": "cell",
+    "meaning": "独房",
+    "example": "He stayed in a prison cell.",
+    "example_jp": "彼は刑務所の独房にいた。"
+  },
+  {
+    "word": "pass",
+    "meaning": "合格する",
+    "example": "He passed the exam.",
+    "example_jp": "彼は試験に合格した。"
+  },
+  {
+    "word": "pass",
+    "meaning": "通過する",
+    "example": "We passed the station.",
+    "example_jp": "私たちは駅を通過した。"
+  },
+  {
+    "word": "pass",
+    "meaning": "渡す",
+    "example": "He passed the ball to me.",
+    "example_jp": "彼は私にボールを渡した。"
+  },
+  {
+    "word": "pass",
+    "meaning": "経過する",
+    "example": "Time passed quickly.",
+    "example_jp": "時間はすぐに経過した。"
+  },
+  {
+    "word": "pass",
+    "meaning": "…として通る",
+    "example": "It passes for a good idea.",
+    "example_jp": "それは良い考えとして通る。"
+  },
+  {
+    "word": "pass",
+    "meaning": "入場許可証",
+    "example": "I bought a one-day pass.",
+    "example_jp": "私は1日入場許可証を買った。"
+  },
+  {
+    "word": "behavior",
+    "meaning": "行動",
+    "example": "His behavior was strange.",
+    "example_jp": "彼の行動は奇妙だった。"
+  },
+  {
+    "word": "behavior",
+    "meaning": "態度",
+    "example": "Good behavior is important.",
+    "example_jp": "良い態度は重要だ。"
+  },
+  {
+    "word": "experiment",
+    "meaning": "実験する",
+    "example": "They did an experiment.",
+    "example_jp": "彼らは実験した。"
+  },
+  {
+    "word": "experiment",
+    "meaning": "実験",
+    "example": "The experiment succeeded.",
+    "example_jp": "その実験は成功した。"
+  },
+  {
+    "word": "end",
+    "meaning": "最後",
+    "example": "This is the end.",
+    "example_jp": "これが最後だ。"
+  },
+  {
+    "word": "end",
+    "meaning": "目的",
+    "example": "His end was peaceful.",
+    "example_jp": "彼の目的は平和的なものだった。"
+  },
+  {
+    "word": "end",
+    "meaning": "端",
+    "example": "The end of the road is near.",
+    "example_jp": "道の端が近い。"
+  },
+  {
+    "word": "end",
+    "meaning": "終わる",
+    "example": "The show ended.",
+    "example_jp": "ショーが終わった。"
+  },
+  {
+    "word": "end",
+    "meaning": "終わらせる",
+    "example": "They ended the meeting.",
+    "example_jp": "彼らは会議を終わらせた。"
+  },
+  {
+    "word": "basis",
+    "meaning": "基礎",
+    "example": "This idea is the basis.",
+    "example_jp": "この考えが基礎だ。"
+  },
+  {
+    "word": "basis",
+    "meaning": "根拠",
+    "example": "There is no basis for the claim.",
+    "example_jp": "その主張には根拠がない。"
+  },
+  {
+    "word": "basis",
+    "meaning": "基準",
+    "example": "We judge on a case-by-case basis.",
+    "example_jp": "私たちはケースバイケースの基準で判断する。"
+  },
+  {
+    "word": "premise",
+    "meaning": "前提",
+    "example": "The premise is wrong.",
+    "example_jp": "前提が間違っている。"
+  },
+  {
+    "word": "premise",
+    "meaning": "敷地",
+    "example": "Smoking is banned on the premises.",
+    "example_jp": "敷地内での喫煙は禁止されている。"
+  },
+  {
+    "word": "action",
+    "meaning": "行動",
+    "example": "We must take action.",
+    "example_jp": "私たちは行動を起こさなければならない。"
+  },
+  {
+    "word": "like",
+    "meaning": "好む",
+    "example": "I like music.",
+    "example_jp": "私は音楽を好む。"
+  },
+  {
+    "word": "like",
+    "meaning": "…のように",
+    "example": "He runs like the wind.",
+    "example_jp": "彼は風のように走る。"
+  },
+  {
+    "word": "dislike",
+    "meaning": "嫌う",
+    "example": "I dislike noise.",
+    "example_jp": "私は騒音を嫌う。"
+  },
+  {
+    "word": "dislike",
+    "meaning": "嫌悪",
+    "example": "She showed her dislike.",
+    "example_jp": "彼女は嫌悪を示した。"
+  },
+  {
+    "word": "researcher",
+    "meaning": "研究者",
+    "example": "She is a researcher.",
+    "example_jp": "彼女は研究者だ。"
+  },
+  {
+    "word": "research",
+    "meaning": "研究",
+    "example": "He does cancer research.",
+    "example_jp": "彼はがんの研究をしている。"
+  },
+  {
+    "word": "research",
+    "meaning": "研究する",
+    "example": "They researched the topic.",
+    "example_jp": "彼らはそのトピックを研究した。"
+  },
+  {
+    "word": "survey",
+    "meaning": "調査",
+    "example": "They conducted a survey.",
+    "example_jp": "彼らは調査を行った。"
+  },
+  {
+    "word": "survey",
+    "meaning": "概観",
+    "example": "The book gives a survey of history.",
+    "example_jp": "その本は歴史の概観を述べている。"
+  },
+  {
+    "word": "survey",
+    "meaning": "調査する",
+    "example": "They surveyed the land.",
+    "example_jp": "彼らは土地を調査した。"
+  },
+  {
+    "word": "variation",
+    "meaning": "変異",
+    "example": "There is wide variation.",
+    "example_jp": "広い変異がある。"
+  },
+  {
+    "word": "variation",
+    "meaning": "変化",
+    "example": "Temperature variation is large.",
+    "example_jp": "温度の変化は大きい。"
+  },
+  {
+    "word": "variation",
+    "meaning": "差異",
+    "example": "There are variations in size.",
+    "example_jp": "サイズに差異がある。"
+  },
+  {
+    "word": "variation",
+    "meaning": "多様性",
+    "example": "The species shows variation.",
+    "example_jp": "その種は多様性を示している。"
+  },
+  {
+    "word": "vary",
+    "meaning": "異なる",
+    "example": "Prices vary by season.",
+    "example_jp": "価格は季節によって異なる。"
+  },
+  {
+    "word": "vary",
+    "meaning": "変わる",
+    "example": "The color varies.",
+    "example_jp": "色が変わる。"
+  },
+  {
+    "word": "differ",
+    "meaning": "…の点で異なる",
+    "example": "They differ in size.",
+    "example_jp": "それらはサイズの点で異なる。"
+  },
+  {
+    "word": "differ",
+    "meaning": "…とは異なる",
+    "example": "This differs from that.",
+    "example_jp": "これはあれとは異なる。"
+  },
+  {
+    "word": "particular",
+    "meaning": "特定の",
+    "example": "A particular reason exists.",
+    "example_jp": "特定の理由が存在する。"
+  },
+  {
+    "word": "particular",
+    "meaning": "特別の",
+    "example": "She is particular about food.",
+    "example_jp": "彼女は食べ物について特別のこだわりがある。"
+  },
+  {
+    "word": "partly",
+    "meaning": "部分的に",
+    "example": "It is partly true.",
+    "example_jp": "それは部分的に真実だ。"
+  },
+  {
+    "word": "partially",
+    "meaning": "部分的に",
+    "example": "The road is partially closed.",
+    "example_jp": "道路は部分的に閉鎖されている。"
+  },
+  {
+    "word": "partially",
+    "meaning": "不完全に",
+    "example": "The work is partially done.",
+    "example_jp": "その仕事は不完全に終わっている。"
+  },
+  {
+    "word": "suggest",
+    "meaning": "提案する",
+    "example": "He suggested a plan.",
+    "example_jp": "彼は計画を提案した。"
+  },
+  {
+    "word": "suggest",
+    "meaning": "示唆する",
+    "example": "The data suggests a trend.",
+    "example_jp": "そのデータは傾向を示唆している。"
+  },
+  {
+    "word": "explain",
+    "meaning": "説明する",
+    "example": "He explained the rule.",
+    "example_jp": "彼は規則を説明した。"
+  },
+  {
+    "word": "narrative",
+    "meaning": "語り",
+    "example": "The narrative was long.",
+    "example_jp": "その語りは長かった。"
+  },
+  {
+    "word": "narrative",
+    "meaning": "物語の",
+    "example": "This is a narrative style.",
+    "example_jp": "これは物語のスタイルだ。"
+  },
+  {
+    "word": "influence",
+    "meaning": "影響を及ぼす",
+    "example": "The movie influenced him.",
+    "example_jp": "その映画は彼に影響を及ぼした。"
+  },
+  {
+    "word": "influence",
+    "meaning": "影響",
+    "example": "He has great influence.",
+    "example_jp": "彼は大きな影響力を持っている。"
+  },
+  {
+    "word": "gender",
+    "meaning": "性",
+    "example": "Gender roles differ.",
+    "example_jp": "性の役割は異なる。"
+  },
+  {
+    "word": "sex",
+    "meaning": "性別",
+    "example": "Write your sex here.",
+    "example_jp": "ここにあなたの性別を書きなさい。"
+  },
+  {
+    "word": "bias",
+    "meaning": "偏見",
+    "example": "He has a bias against women.",
+    "example_jp": "彼は女性に対して偏見を持っている。"
+  },
+  {
+    "word": "bias",
+    "meaning": "先入観",
+    "example": "There is bias in the data.",
+    "example_jp": "そのデータには先入観（バイアス）がある。"
+  },
+  {
+    "word": "prejudice",
+    "meaning": "偏見",
+    "example": "He has prejudice against foreigners.",
+    "example_jp": "彼は外国人に対して偏見を持っている。"
+  },
+  {
+    "word": "prejudice",
+    "meaning": "先入観",
+    "example": "Prejudice harms society.",
+    "example_jp": "先入観は社会を傷つける。"
+  },
+  {
+    "word": "stereotype",
+    "meaning": "固定観念",
+    "example": "This is a common stereotype.",
+    "example_jp": "これは一般的な固定観念だ。"
+  },
+  {
+    "word": "deeply",
+    "meaning": "非常に",
+    "example": "I deeply respect him.",
+    "example_jp": "私は彼を非常に尊敬している。"
+  },
+  {
+    "word": "deeply",
+    "meaning": "深く",
+    "example": "She was deeply moved.",
+    "example_jp": "彼女は深く感動した。"
+  },
+  {
+    "word": "shallow",
+    "meaning": "浅い",
+    "example": "The water is shallow.",
+    "example_jp": "水が浅い。"
+  },
+  {
+    "word": "shallow",
+    "meaning": "浅はかな",
+    "example": "His thinking is shallow.",
+    "example_jp": "彼の考えは浅はかだ。"
+  },
+  {
+    "word": "root",
+    "meaning": "根",
+    "example": "The tree has deep roots.",
+    "example_jp": "その木には深い根がある。"
+  },
+  {
+    "word": "root",
+    "meaning": "根源",
+    "example": "The root of the problem is here.",
+    "example_jp": "問題の根源はここにある。"
+  },
+  {
+    "word": "root",
+    "meaning": "定着している",
+    "example": "The custom is rooted in history.",
+    "example_jp": "その習慣は歴史に定着している。"
+  },
+  {
+    "word": "root",
+    "meaning": "根付かせる",
+    "example": "They rooted the plant.",
+    "example_jp": "彼らはその植物を根付かせた。"
+  },
+  {
+    "word": "stem",
+    "meaning": "由来する",
+    "example": "The idea stems from fear.",
+    "example_jp": "その考えは恐怖に由来する。"
+  },
+  {
+    "word": "stem",
+    "meaning": "生じる",
+    "example": "Problems stem from stress.",
+    "example_jp": "問題はストレスから生じる。"
+  },
+  {
+    "word": "stem",
+    "meaning": "茎",
+    "example": "The stem is long.",
+    "example_jp": "茎が長い。"
+  },
+  {
+    "word": "stem",
+    "meaning": "幹",
+    "example": "The tree has a thick stem.",
+    "example_jp": "その木は太い幹を持っている。"
+  },
+  {
+    "word": "amazing",
+    "meaning": "素晴らしい",
+    "example": "The view is amazing.",
+    "example_jp": "その眺めは素晴らしい。"
+  },
+  {
+    "word": "amazing",
+    "meaning": "びっくりさせるような",
+    "example": "His speed is amazing.",
+    "example_jp": "彼のスピードはびっくりさせるようなものだ。"
+  },
+  {
+    "word": "startle",
+    "meaning": "びっくりさせる",
+    "example": "The noise startled me.",
+    "example_jp": "その騒音が私をびっくりさせた。"
+  },
+  {
+    "word": "fix",
+    "meaning": "修理する",
+    "example": "He fixed the car.",
+    "example_jp": "彼は車を修理した。"
+  },
+  {
+    "word": "fix",
+    "meaning": "固定する",
+    "example": "They fixed the sign.",
+    "example_jp": "彼らは看板を固定した。"
+  },
+  {
+    "word": "fix",
+    "meaning": "用意する",
+    "example": "She fixed dinner.",
+    "example_jp": "彼女は夕食を用意した。"
+  },
+  {
+    "word": "pin",
+    "meaning": "ピンで留める",
+    "example": "She pinned the paper.",
+    "example_jp": "彼女は紙をピンで留めた。"
+  },
+  {
+    "word": "pin",
+    "meaning": "組み伏せる",
+    "example": "He pinned him to the ground.",
+    "example_jp": "彼は彼を地面に組み伏せた。"
+  },
+  {
+    "word": "view",
+    "meaning": "見解",
+    "example": "This is my view on the issue.",
+    "example_jp": "これがその問題に対する私の見解だ。"
+  },
+  {
+    "word": "view",
+    "meaning": "眺め",
+    "example": "The view is beautiful.",
+    "example_jp": "眺めが美しい。"
+  },
+  {
+    "word": "view",
+    "meaning": "視野",
+    "example": "He has a wide view.",
+    "example_jp": "彼は広い視野を持っている。"
+  },
+  {
+    "word": "view",
+    "meaning": "見る",
+    "example": "I viewed the movie.",
+    "example_jp": "私はその映画を見た。"
+  },
+  {
+    "word": "view",
+    "meaning": "みなす",
+    "example": "They view him as a leader.",
+    "example_jp": "彼らは彼をリーダーとみなしている。"
+  },
+  {
+    "word": "tend",
+    "meaning": "…しがちである",
+    "example": "He tends to forget.",
+    "example_jp": "彼は忘れがちである。"
+  },
+  {
+    "word": "tend",
+    "meaning": "傾向がある",
+    "example": "Plants tend to grow upward.",
+    "example_jp": "植物は上の方へ育つ傾向がある。"
+  },
+  {
+    "word": "incline",
+    "meaning": "気にさせる",
+    "example": "The news inclined him to quit.",
+    "example_jp": "その知らせは彼に辞める気にさせた。"
+  },
+  {
+    "word": "incline",
+    "meaning": "傾ける",
+    "example": "He inclined his head.",
+    "example_jp": "彼は頭を傾けた。"
+  },
+  {
+    "word": "professional",
+    "meaning": "プロの",
+    "example": "She is a professional singer.",
+    "example_jp": "彼女はプロの歌手だ。"
+  },
+  {
+    "word": "professional",
+    "meaning": "専門的な",
+    "example": "He gave professional advice.",
+    "example_jp": "彼は専門的なアドバイスを与えた。"
+  },
+  {
+    "word": "occupation",
+    "meaning": "職業",
+    "example": "Teaching is his occupation.",
+    "example_jp": "教えることが彼の職業だ。"
+  },
+  {
+    "word": "occupation",
+    "meaning": "占領",
+    "example": "The army ended the occupation.",
+    "example_jp": "軍は占領を終えた。"
+  },
+  {
+    "word": "occupy",
+    "meaning": "占める",
+    "example": "The table occupies space.",
+    "example_jp": "そのテーブルが場所を占めている。"
+  },
+  {
+    "word": "occupy",
+    "meaning": "占領する",
+    "example": "The army occupied the city.",
+    "example_jp": "軍はその都市を占領した。"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "word": "forecast",
+    "meaning": "予報",
+    "example": "The forecast looks sunny.",
+    "example_jp": "予報では晴れるようだ。"
+  },
+  {
+    "word": "speculate",
+    "meaning": "思索する",
+    "example": "They speculated about the cause.",
+    "example_jp": "彼らは原因について思索した。"
+  },
+  {
+    "word": "bet",
+    "meaning": "きっと～だと思う",
+    "example": "I bet he’s right.",
+    "example_jp": "きっと彼が正しいと思う。"
+  },
+  {
+    "word": "quote",
+    "meaning": "引用する",
+    "example": "She quoted his words.",
+    "example_jp": "彼女は彼の言葉を引用した。"
+  },
+  {
+    "word": "consult",
+    "meaning": "意見を求める",
+    "example": "I consulted my teacher.",
+    "example_jp": "私は先生に意見を求めた。"
+  },
+  {
+    "word": "dispute",
+    "meaning": "に異議を唱える",
+    "example": "They disputed the decision.",
+    "example_jp": "彼らはその決定に異議を唱えた。"
+  },
+  {
+    "word": "accumulate",
+    "meaning": "集める、蓄積する",
+    "example": "Dust accumulated on the shelf.",
+    "example_jp": "棚にほこりが蓄積した。"
+  },
+  {
+    "word": "grasp",
+    "meaning": "ぎゅっとつかむ、理解する",
+    "example": "She grasped my hand.",
+    "example_jp": "彼女は私の手をぎゅっとつかんだ。"
+  },
+  {
+    "word": "grip",
+    "meaning": "をしっかり握る",
+    "example": "He gripped the handle tightly.",
+    "example_jp": "彼は取っ手をしっかり握った。"
+  },
+  {
+    "word": "seize",
+    "meaning": "つかむ",
+    "example": "She seized the chance.",
+    "example_jp": "彼女はチャンスをつかんだ。"
+  },
+  {
+    "word": "comprehend",
+    "meaning": "理解する",
+    "example": "I can’t comprehend the idea.",
+    "example_jp": "私はその考えを理解できない。"
+  },
+  {
+    "word": "constitute",
+    "meaning": "構成する",
+    "example": "These parts constitute the whole.",
+    "example_jp": "これらの部品が全体を構成している。"
+  },
+  {
+    "word": "reinforce",
+    "meaning": "強化する",
+    "example": "The experience reinforced my belief.",
+    "example_jp": "その経験は私の信念を強化した。"
+  },
+  {
+    "word": "resort",
+    "meaning": "訴える",
+    "example": "He resorted to violence.",
+    "example_jp": "彼は暴力に訴えた。"
+  },
+  {
+    "word": "donate",
+    "meaning": "寄付する",
+    "example": "She donated money to charity.",
+    "example_jp": "彼女は慈善団体に寄付した。"
+  },
+  {
+    "word": "obey",
+    "meaning": "従う",
+    "example": "You must obey the rules.",
+    "example_jp": "規則に従わなければならない。"
+  },
+  {
+    "word": "dedicate",
+    "meaning": "ささげる",
+    "example": "He dedicated his life to science.",
+    "example_jp": "彼は人生を科学にささげた。"
+  },
+  {
+    "word": "transmit",
+    "meaning": "伝える",
+    "example": "The signal was transmitted clearly.",
+    "example_jp": "信号は明確に伝えられた。"
+  },
+  {
+    "word": "equip",
+    "meaning": "装備する",
+    "example": "The room is equipped with a TV.",
+    "example_jp": "その部屋にはテレビが装備されている。"
+  },
+  {
+    "word": "bind",
+    "meaning": "縛る",
+    "example": "He bound the boxes with rope.",
+    "example_jp": "彼は箱をロープで縛った。"
+  },
+  {
+    "word": "pose",
+    "meaning": "投げかける",
+    "example": "The question posed a challenge.",
+    "example_jp": "その質問は難題を投げかけた。"
+  },
+  {
+    "word": "pause",
+    "meaning": "休止する",
+    "example": "She paused for a moment.",
+    "example_jp": "彼女は少しの間休止した。"
+  },
+  {
+    "word": "hesitate",
+    "meaning": "ためらう、躊躇する",
+    "example": "Don’t hesitate to ask.",
+    "example_jp": "遠慮せずに聞いてください。"
+  },
+  {
+    "word": "split",
+    "meaning": "分割する",
+    "example": "We split the bill.",
+    "example_jp": "私たちは勘定を分割した。"
+  },
+  {
+    "word": "bend",
+    "meaning": "曲げる",
+    "example": "He bent the wire.",
+    "example_jp": "彼はワイヤーを曲げた。"
+  },
+  {
+    "word": "tap",
+    "meaning": "軽くたたく",
+    "example": "She tapped my shoulder.",
+    "example_jp": "彼女は私の肩を軽くたたいた。"
+  },
+  {
+    "word": "boil",
+    "meaning": "沸かす",
+    "example": "Boil the water first.",
+    "example_jp": "まず水を沸かしてください。"
+  },
+  {
+    "word": "bow",
+    "meaning": "おじぎする",
+    "example": "They bowed politely.",
+    "example_jp": "彼らは丁寧におじぎした。"
+  },
+  {
+    "word": "conceal",
+    "meaning": "隠す",
+    "example": "He concealed the truth.",
+    "example_jp": "彼は真実を隠した。"
+  },
+  {
+    "word": "dispose",
+    "meaning": "を処分する",
+    "example": "I disposed of the trash.",
+    "example_jp": "私はごみを処分した。"
+  },
+  {
+    "word": "cheat",
+    "meaning": "だます",
+    "example": "He cheated on the test.",
+    "example_jp": "彼はテストで不正をした。"
+  },
+  {
+    "word": "distract",
+    "meaning": "（注意など）をそらす",
+    "example": "Noise distracted me.",
+    "example_jp": "騒音で注意がそがれた。"
+  },
+  {
+    "word": "exclude",
+    "meaning": "締め出す",
+    "example": "They excluded him from the group.",
+    "example_jp": "彼らは彼をグループから締め出した。"
+  },
+  {
+    "word": "astonish",
+    "meaning": "驚かせる",
+    "example": "Her talent astonished us.",
+    "example_jp": "彼女の才能に私たちは驚かされた。"
+  },
+  {
+    "word": "thrill",
+    "meaning": "わくわくさせる",
+    "example": "The story thrilled me.",
+    "example_jp": "その話は私をわくわくさせた。"
+  },
+  {
+    "word": "leap",
+    "meaning": "跳ぶ",
+    "example": "The cat leaped onto the table.",
+    "example_jp": "猫がテーブルに跳び乗った。"
+  },
+  {
+    "word": "postpone",
+    "meaning": "延期する",
+    "example": "They postponed the meeting.",
+    "example_jp": "彼らは会議を延期した。"
+  },
+  {
+    "word": "dismiss",
+    "meaning": "解雇する",
+    "example": "The company dismissed him.",
+    "example_jp": "会社は彼を解雇した。"
+  },
+  {
+    "word": "resign",
+    "meaning": "辞める",
+    "example": "She resigned from her job.",
+    "example_jp": "彼女は仕事を辞めた。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "退く",
+    "example": "The army withdrew.",
+    "example_jp": "軍は退いた。"
+  },
+  {
+    "word": "fade",
+    "meaning": "消えていく",
+    "example": "The sound faded away.",
+    "example_jp": "音が消えていった。"
+  },
+  {
+    "word": "vanish",
+    "meaning": "消え失せる",
+    "example": "The cat vanished suddenly.",
+    "example_jp": "猫は突然消え失せた。"
+  },
+  {
+    "word": "continent",
+    "meaning": "大陸",
+    "example": "Asia is the largest continent.",
+    "example_jp": "アジアは最大の大陸だ。"
+  },
+  {
+    "word": "geography",
+    "meaning": "地理、地理学",
+    "example": "He studies geography.",
+    "example_jp": "彼は地理学を学んでいる。"
+  },
+  {
+    "word": "ecology",
+    "meaning": "生態系",
+    "example": "Ecology is complex.",
+    "example_jp": "生態系は複雑だ。"
+  },
+  {
+    "word": "inhabitant",
+    "meaning": "住民",
+    "example": "The island has many inhabitants.",
+    "example_jp": "その島には多くの住民がいる。"
+  },
+  {
+    "word": "suburb",
+    "meaning": "郊外",
+    "example": "They live in the suburbs.",
+    "example_jp": "彼らは郊外に住んでいる。"
+  },
+  {
+    "word": "furniture",
+    "meaning": "家具",
+    "example": "We bought new furniture.",
+    "example_jp": "私たちは新しい家具を買った。"
+  },
+  {
+    "word": "refrigerator",
+    "meaning": "冷蔵庫",
+    "example": "The refrigerator is empty.",
+    "example_jp": "冷蔵庫は空っぽだ。"
+  },
+  {
+    "word": "garbage",
+    "meaning": "(生）ごみ",
+    "example": "Take out the garbage.",
+    "example_jp": "生ごみを出してください。"
+  }
+]

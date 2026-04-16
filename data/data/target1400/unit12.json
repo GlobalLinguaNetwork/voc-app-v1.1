@@ -1,0 +1,302 @@
+[
+  {
+    "word": "electricity",
+    "meaning": "電気",
+    "example": "Electricity is essential.",
+    "example_jp": "電気は不可欠だ。"
+  },
+  {
+    "word": "cancer",
+    "meaning": "癌",
+    "example": "He is fighting cancer.",
+    "example_jp": "彼は癌と闘っている。"
+  },
+  {
+    "word": "plague",
+    "meaning": "疫病",
+    "example": "The plague spread quickly.",
+    "example_jp": "疫病は急速に広がった。"
+  },
+  {
+    "word": "threat",
+    "meaning": "恐れ、予兆",
+    "example": "There is a threat of flooding.",
+    "example_jp": "洪水の恐れがある。"
+  },
+  {
+    "word": "flood",
+    "meaning": "洪水",
+    "example": "The flood damaged homes.",
+    "example_jp": "洪水が家を損壊した。"
+  },
+  {
+    "word": "earthquake",
+    "meaning": "地震",
+    "example": "The earthquake shook the city.",
+    "example_jp": "地震が街を揺らした。"
+  },
+  {
+    "word": "disaster",
+    "meaning": "災害",
+    "example": "The disaster shocked everyone.",
+    "example_jp": "その災害は皆を衝撃させた。"
+  },
+  {
+    "word": "crisis",
+    "meaning": "危機",
+    "example": "The country faced a crisis.",
+    "example_jp": "国は危機に直面した。"
+  },
+  {
+    "word": "victim",
+    "meaning": "被害者、犠牲者",
+    "example": "The victims need support.",
+    "example_jp": "被害者たちは支援を必要としている。"
+  },
+  {
+    "word": "wealth",
+    "meaning": "富、財産",
+    "example": "He gained great wealth.",
+    "example_jp": "彼は大きな富を得た。"
+  },
+  {
+    "word": "fund",
+    "meaning": "資金、基金",
+    "example": "They raised a fund.",
+    "example_jp": "彼らは資金を集めた。"
+  },
+  {
+    "word": "capital",
+    "meaning": "資本",
+    "example": "They invested capital.",
+    "example_jp": "彼らは資本を投資した。"
+  },
+  {
+    "word": "profit",
+    "meaning": "収益",
+    "example": "The company made a profit.",
+    "example_jp": "会社は収益を上げた。"
+  },
+  {
+    "word": "talent",
+    "meaning": "才能",
+    "example": "She has great talent.",
+    "example_jp": "彼女には素晴らしい才能がある。"
+  },
+  {
+    "word": "capacity",
+    "meaning": "能力",
+    "example": "He has the capacity to lead.",
+    "example_jp": "彼には指導する能力がある。"
+  },
+  {
+    "word": "scholar",
+    "meaning": "（主に人文系の）学者",
+    "example": "She is a respected scholar.",
+    "example_jp": "彼女は尊敬される学者だ。"
+  },
+  {
+    "word": "tradition",
+    "meaning": "伝統",
+    "example": "This festival has a long tradition.",
+    "example_jp": "この祭りには長い伝統がある。"
+  },
+  {
+    "word": "literature",
+    "meaning": "文学",
+    "example": "He studies English literature.",
+    "example_jp": "彼は英文学を研究している。"
+  },
+  {
+    "word": "lecture",
+    "meaning": "講義、講演",
+    "example": "The lecture was interesting.",
+    "example_jp": "その講義は興味深かった。"
+  },
+  {
+    "word": "manner",
+    "meaning": "方法、行儀、作法",
+    "example": "He spoke in a polite manner.",
+    "example_jp": "彼は丁寧な態度で話した。"
+  },
+  {
+    "word": "symbol",
+    "meaning": "象徴",
+    "example": "The dove is a symbol of peace.",
+    "example_jp": "ハトは平和の象徴だ。"
+  },
+  {
+    "word": "analysis",
+    "meaning": "分析",
+    "example": "The analysis was detailed.",
+    "example_jp": "分析は詳細だった。"
+  },
+  {
+    "word": "version",
+    "meaning": "…版",
+    "example": "This is the latest version.",
+    "example_jp": "これは最新の版だ。"
+  },
+  {
+    "word": "perspective",
+    "meaning": "観点",
+    "example": "We need a new perspective.",
+    "example_jp": "新しい観点が必要だ。"
+  },
+  {
+    "word": "vision",
+    "meaning": "（将来の）展望",
+    "example": "She has a clear vision.",
+    "example_jp": "彼女には明確な展望がある。"
+  },
+  {
+    "word": "sight",
+    "meaning": "見えること",
+    "example": "The sight amazed us.",
+    "example_jp": "その光景は私たちを驚かせた。"
+  },
+  {
+    "word": "insight",
+    "meaning": "洞察（力）",
+    "example": "He has deep insight.",
+    "example_jp": "彼には深い洞察力がある。"
+  },
+  {
+    "word": "bilingual",
+    "meaning": "バイリンガルの，2言語を話す",
+    "example": "She is bilingual.",
+    "example_jp": "彼女はバイリンガルだ。"
+  },
+  {
+    "word": "capable",
+    "meaning": "能力がある",
+    "example": "He is capable of leading.",
+    "example_jp": "彼には指導する能力がある。"
+  },
+  {
+    "word": "willing",
+    "meaning": "をいとわない",
+    "example": "I’m willing to help.",
+    "example_jp": "喜んで手伝うよ。"
+  },
+  {
+    "word": "eager",
+    "meaning": "熱望して",
+    "example": "She is eager to learn.",
+    "example_jp": "彼女は学ぶことを熱望している。"
+  },
+  {
+    "word": "amazing",
+    "meaning": "驚くほどの",
+    "example": "The view was amazing.",
+    "example_jp": "その景色は驚くほど美しかった。"
+  },
+  {
+    "word": "calm",
+    "meaning": "冷静な",
+    "example": "He stayed calm.",
+    "example_jp": "彼は冷静でいた。"
+  },
+  {
+    "word": "quiet",
+    "meaning": "静かな",
+    "example": "The room was quiet.",
+    "example_jp": "部屋は静かだった。"
+  },
+  {
+    "word": "senior",
+    "meaning": "高齢者の、（地位などが）上級の",
+    "example": "She works with senior citizens.",
+    "example_jp": "彼女は高齢者と働いている。"
+  },
+  {
+    "word": "elderly",
+    "meaning": "年配の",
+    "example": "The elderly need support.",
+    "example_jp": "高齢者は支援を必要としている。"
+  },
+  {
+    "word": "firm",
+    "meaning": "確固とした",
+    "example": "He has a firm belief.",
+    "example_jp": "彼には確固とした信念がある。"
+  },
+  {
+    "word": "severe",
+    "meaning": "（痛みなどが）ひどい、厳しい",
+    "example": "She felt severe pain.",
+    "example_jp": "彼女はひどい痛みを感じた。"
+  },
+  {
+    "word": "tough",
+    "meaning": "困難な",
+    "example": "The task was tough.",
+    "example_jp": "その作業は困難だった。"
+  },
+  {
+    "word": "rapid",
+    "meaning": "急速な",
+    "example": "The change was rapid.",
+    "example_jp": "変化は急速だった。"
+  },
+  {
+    "word": "immediate",
+    "meaning": "即座の",
+    "example": "We need immediate action.",
+    "example_jp": "即座の行動が必要だ。"
+  },
+  {
+    "word": "vast",
+    "meaning": "広大な",
+    "example": "The desert is vast.",
+    "example_jp": "その砂漠は広大だ。"
+  },
+  {
+    "word": "enormous",
+    "meaning": "巨大な、莫大な",
+    "example": "They made an enormous effort.",
+    "example_jp": "彼らは莫大な努力をした。"
+  },
+  {
+    "word": "broad",
+    "meaning": "広範囲な",
+    "example": "She has broad knowledge.",
+    "example_jp": "彼女は広範囲の知識を持っている。"
+  },
+  {
+    "word": "narrow",
+    "meaning": "（幅が）狭い",
+    "example": "The road is narrow.",
+    "example_jp": "その道は狭い。"
+  },
+  {
+    "word": "tiny",
+    "meaning": "とても小さな",
+    "example": "The insect was tiny.",
+    "example_jp": "その虫はとても小さかった。"
+  },
+  {
+    "word": "efficient",
+    "meaning": "効率の良い",
+    "example": "The system is efficient.",
+    "example_jp": "そのシステムは効率が良い。"
+  },
+  {
+    "word": "constant",
+    "meaning": "絶え間ない",
+    "example": "He felt constant stress.",
+    "example_jp": "彼は絶え間ないストレスを感じていた。"
+  },
+  {
+    "word": "nearby",
+    "meaning": "すぐ近くの",
+    "example": "We met at a nearby café.",
+    "example_jp": "私たちは近くのカフェで会った。"
+  },
+  {
+    "word": "distant",
+    "meaning": "遠い",
+    "example": "They saw a distant light.",
+    "example_jp": "彼らは遠くの光を見た。"
+  }
+]

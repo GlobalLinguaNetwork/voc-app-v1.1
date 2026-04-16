@@ -1,0 +1,392 @@
+[
+  {
+    "word": "posture",
+    "meaning": "姿勢",
+    "example": "Good posture is important for your back health.",
+    "example_jp": "良い姿勢を保つことは背中の健康に重要です。"
+  },
+  {
+    "word": "posture",
+    "meaning": "心構え",
+    "example": "The country adopted a defensive posture during the crisis.",
+    "example_jp": "その国は危機の間、防衛的な心構え（態勢）をとった。"
+  },
+  {
+    "word": "curse",
+    "meaning": "悪態，ののしりの言葉",
+    "example": "He muttered a curse under his breath when he tripped.",
+    "example_jp": "彼はつまずいたとき、小声で悪態をついた。"
+  },
+  {
+    "word": "curse",
+    "meaning": "呪い，災い",
+    "example": "High house prices have been a curse for young families.",
+    "example_jp": "住宅価格の高騰は、若い家族にとって災いとなってきた。"
+  },
+  {
+    "word": "funeral",
+    "meaning": "葬式",
+    "example": "Many relatives attended the funeral to pay their respects.",
+    "example_jp": "敬意を表すために、多くの親戚が葬式に参列した。"
+  },
+  {
+    "word": "census",
+    "meaning": "調査（国勢・交通など）",
+    "example": "The government conducts a national census every five years.",
+    "example_jp": "政府は5年ごとに国勢調査を行っている。"
+  },
+  {
+    "word": "encyclopedia",
+    "meaning": "百科事典",
+    "example": "I used an online encyclopedia to research the topic.",
+    "example_jp": "そのトピックを調べるためにオンラインの百科事典を利用した。"
+  },
+  {
+    "word": "cereal",
+    "meaning": "穀物，シリアル",
+    "example": "I usually have a bowl of cereal for breakfast.",
+    "example_jp": "私はたいてい朝食にシリアルを一杯食べる。"
+  },
+  {
+    "word": "fragment",
+    "meaning": "断片",
+    "example": "Archaeologists found fragments of ancient pottery.",
+    "example_jp": "考古学者たちは古代の陶器の断片を発見した。"
+  },
+  {
+    "word": "patch",
+    "meaning": "部分，斑点",
+    "example": "There are some icy patches on the road this morning.",
+    "example_jp": "今朝は道路にいくつか凍結している部分がある。"
+  },
+  {
+    "word": "patch",
+    "meaning": "継ぎ，貼り薬",
+    "example": "He wore a nicotine patch to help him stop smoking.",
+    "example_jp": "彼は禁煙を助けるためにニコチンパッチ（貼り薬）を貼っていた。"
+  },
+  {
+    "word": "rubbish",
+    "meaning": "ごみ",
+    "example": "Please put your rubbish in the bin.",
+    "example_jp": "ごみはゴミ箱に入れてください。"
+  },
+  {
+    "word": "rubbish",
+    "meaning": "つまらないもの",
+    "example": "That movie was absolute rubbish.",
+    "example_jp": "あの映画は全くつまらないものだった。"
+  },
+  {
+    "word": "maze",
+    "meaning": "迷路，複雑に込み入ったもの",
+    "example": "The office was a maze of narrow corridors.",
+    "example_jp": "その事務所は狭い廊下が入り組んだ迷路のようだった。"
+  },
+  {
+    "word": "outlook",
+    "meaning": "見解，見通し",
+    "example": "She has a very positive outlook on life.",
+    "example_jp": "彼女は人生に対して非常に前向きな見解（考え方）を持っている。"
+  },
+  {
+    "word": "outlook",
+    "meaning": "眺め",
+    "example": "The hotel room has a wonderful outlook over the ocean.",
+    "example_jp": "ホテルの部屋からは海の素晴らしい眺めが楽しめる。"
+  },
+  {
+    "word": "breakthrough",
+    "meaning": "大発見，飛躍的進歩",
+    "example": "Scientists have made a major breakthrough in cancer research.",
+    "example_jp": "科学者たちはがん研究において大きな飛躍的進歩を遂げた。"
+  },
+  {
+    "word": "triumph",
+    "meaning": "勝利，偉業",
+    "example": "The team's victory was a great personal triumph for the coach.",
+    "example_jp": "チームの勝利は、コーチにとって個人的な大きな偉業だった。"
+  },
+  {
+    "word": "ally",
+    "meaning": "同盟国，提携者",
+    "example": "The two countries have been close allies for decades.",
+    "example_jp": "その二国は数十年にわたり緊密な同盟国である。"
+  },
+  {
+    "word": "spectator",
+    "meaning": "観客",
+    "example": "The stadium was filled with thousands of spectators.",
+    "example_jp": "スタジアムは何千人もの観客で埋め尽くされた。"
+  },
+  {
+    "word": "sphere",
+    "meaning": "領域",
+    "example": "He is well-known in the political sphere.",
+    "example_jp": "彼は政治の領域（分野）でよく知られている。"
+  },
+  {
+    "word": "sphere",
+    "meaning": "球体，天体",
+    "example": "The earth is not a perfect sphere.",
+    "example_jp": "地球は完全な球体ではない。"
+  },
+  {
+    "word": "county",
+    "meaning": "（行政上の）郡，州",
+    "example": "She lives in a small village in the county of Kent.",
+    "example_jp": "彼女はケント州にある小さな村に住んでいる。"
+  },
+  {
+    "word": "behalf",
+    "meaning": "利益，味方",
+    "example": "The lawyer spoke on behalf of his client.",
+    "example_jp": "弁護士はクライアントの利益のために（に代わって）話した。"
+  },
+  {
+    "word": "interval",
+    "meaning": "間隔，合間，小休止",
+    "example": "The trains run at ten-minute intervals.",
+    "example_jp": "列車は10分間隔で運行している。"
+  },
+  {
+    "word": "circulation",
+    "meaning": "循環，流通",
+    "example": "Exercise helps to improve blood circulation.",
+    "example_jp": "運動は血液の循環を良くするのに役立つ。"
+  },
+  {
+    "word": "circulation",
+    "meaning": "発行部数",
+    "example": "The newspaper has a daily circulation of 500,000.",
+    "example_jp": "その新聞は1日50万部の発行部数がある。"
+  },
+  {
+    "word": "blade",
+    "meaning": "刃",
+    "example": "The knife has a very sharp blade.",
+    "example_jp": "そのナイフは非常に鋭い刃を持っている。"
+  },
+  {
+    "word": "blade",
+    "meaning": "羽根，葉",
+    "example": "A single blade of grass was growing through the concrete.",
+    "example_jp": "コンクリートの間から、草の葉が一本生えていた。"
+  },
+  {
+    "word": "theft",
+    "meaning": "窃盗（罪）",
+    "example": "He was arrested and charged with car theft.",
+    "example_jp": "彼は逮捕され、自動車窃盗罪で起訴された。"
+  },
+  {
+    "word": "vacuum",
+    "meaning": "真空，空虚",
+    "example": "The leader's death left a power vacuum in the government.",
+    "example_jp": "リーダーの死は、政府内に権力の空虚（空白）を残した。"
+  },
+  {
+    "word": "collision",
+    "meaning": "衝突，対立",
+    "example": "The two cars were involved in a head-on collision.",
+    "example_jp": "その2台の車は正面衝突を起こした。"
+  },
+  {
+    "word": "bargain",
+    "meaning": "買い得品",
+    "example": "This designer bag was a real bargain at half price.",
+    "example_jp": "このデザイナーズバッグは半額で、本当に買い得品だった。"
+  },
+  {
+    "word": "bargain",
+    "meaning": "取引，契約",
+    "example": "We made a bargain to help each other with our homework.",
+    "example_jp": "私たちはお互いの宿題を手伝うという約束（取引）をした。"
+  },
+  {
+    "word": "landmark",
+    "meaning": "目印",
+    "example": "The Eiffel Tower is a famous landmark in Paris.",
+    "example_jp": "エッフェル塔はパリの有名な目印（建物）だ。"
+  },
+  {
+    "word": "landmark",
+    "meaning": "画期的な出来事",
+    "example": "The discovery was a landmark in the history of medicine.",
+    "example_jp": "その発見は医学史における画期的な出来事だった。"
+  },
+  {
+    "word": "revenue",
+    "meaning": "歳入，収益",
+    "example": "The company's annual revenue has increased this year.",
+    "example_jp": "その会社の年間収益は今年増加した。"
+  },
+  {
+    "word": "treaty",
+    "meaning": "条約，協定",
+    "example": "The two nations signed a peace treaty to end the war.",
+    "example_jp": "両国は戦争を終結させるために平和条約に署名した。"
+  },
+  {
+    "word": "supreme",
+    "meaning": "最高の",
+    "example": "The Supreme Court made a final decision on the case.",
+    "example_jp": "最高裁判所がその事件について最終決定を下した。"
+  },
+  {
+    "word": "thorough",
+    "meaning": "徹底的な",
+    "example": "The police conducted a thorough search of the house.",
+    "example_jp": "警察はその家の徹底的な捜索を行った。"
+  },
+  {
+    "word": "naked",
+    "meaning": "裸の",
+    "example": "The baby was naked after his bath.",
+    "example_jp": "赤ちゃんはお風呂上がりで裸だった。"
+  },
+  {
+    "word": "sincere",
+    "meaning": "心からの，誠実な",
+    "example": "Please accept my sincere apologies for the delay.",
+    "example_jp": "遅延に対する私の心からの謝罪を受け入れてください。"
+  },
+  {
+    "word": "tame",
+    "meaning": "飼いならされた，人に慣れた",
+    "example": "The deer in the park are very tame and will eat from your hand.",
+    "example_jp": "その公園のシカはとても人に慣れていて、手から餌を食べる。"
+  },
+  {
+    "word": "tame",
+    "meaning": "退屈な",
+    "example": "The party was a bit tame compared to last year's.",
+    "example_jp": "去年のものと比べると、そのパーティーは少し退屈だった。"
+  },
+  {
+    "word": "insufficient",
+    "meaning": "不十分な，不適当な",
+    "example": "The evidence against him was insufficient to prove him guilty.",
+    "example_jp": "彼に対する証拠は、有罪を証明するには不十分だった。"
+  },
+  {
+    "word": "dim",
+    "meaning": "薄暗い，ぼんやりした",
+    "example": "He could see a dim light in the distance.",
+    "example_jp": "彼は遠くに薄暗い明かりが見えた。"
+  },
+  {
+    "word": "acute",
+    "meaning": "激しい，急性の",
+    "example": "He felt an acute pain in his chest and called a doctor.",
+    "example_jp": "彼は胸に激しい痛みを感じ、医者を呼んだ。"
+  },
+  {
+    "word": "acute",
+    "meaning": "鋭い",
+    "example": "Dogs have an acute sense of hearing.",
+    "example_jp": "犬は鋭い聴覚を持っている。"
+  },
+  {
+    "word": "disabled",
+    "meaning": "障害のある",
+    "example": "The building has special access for disabled people.",
+    "example_jp": "その建物には障害のある人のための特別な入り口がある。"
+  },
+  {
+    "word": "metropolitan",
+    "meaning": "大都市の，首都圏の",
+    "example": "The Tokyo metropolitan area is one of the largest in the world.",
+    "example_jp": "東京の大都市圏（首都圏）は世界最大級の一つだ。"
+  },
+  {
+    "word": "monetary",
+    "meaning": "金銭的な，金融の",
+    "example": "The item has sentimental value, but no real monetary value.",
+    "example_jp": "その品物には思い出の価値はあるが、本当の金銭的価値はない。"
+  },
+  {
+    "word": "alternate",
+    "meaning": "代わりの",
+    "example": "We had to take an alternate route because of the roadwork.",
+    "example_jp": "道路工事のため、私たちは代わりのルートを通らなければならなかった。"
+  },
+  {
+    "word": "alternate",
+    "meaning": "交互の",
+    "example": "The cake has alternate layers of chocolate and cream.",
+    "example_jp": "そのケーキはチョコとクリームの層が交互になっている。"
+  },
+  {
+    "word": "partial",
+    "meaning": "部分的な",
+    "example": "The company only offered a partial refund for the damaged goods.",
+    "example_jp": "会社は破損した商品に対して、部分的な返金のみを提示した。"
+  },
+  {
+    "word": "partial",
+    "meaning": "不公平な",
+    "example": "A judge should not be partial toward either side.",
+    "example_jp": "裁判官はどちらか一方に対して不公平であってはならない。"
+  },
+  {
+    "word": "divine",
+    "meaning": "神の",
+    "example": "Some people believe that kings have a divine right to rule.",
+    "example_jp": "王には統治するための神聖な（神の）権利がある、と信じる人もいる。"
+  },
+  {
+    "word": "drastic",
+    "meaning": "徹底的な，抜本的な，極端な",
+    "example": "The company needs to take drastic measures to save money.",
+    "example_jp": "会社は節約のために抜本的な（徹底的な）措置をとる必要がある。"
+  },
+  {
+    "word": "fierce",
+    "meaning": "猛烈な，どう猛な",
+    "example": "There is fierce competition between the two companies.",
+    "example_jp": "その2社の間には猛烈な競争がある。"
+  },
+  {
+    "word": "sole",
+    "meaning": "唯一の，単独の",
+    "example": "He is the sole survivor of the plane crash.",
+    "example_jp": "彼はその飛行機事故の唯一の生存者だ。"
+  },
+  {
+    "word": "spontaneous",
+    "meaning": "自然発生的な，自発的な",
+    "example": "The crowd broke into spontaneous applause.",
+    "example_jp": "群衆から自然発生的な拍手がわき起こった。"
+  },
+  {
+    "word": "spatial",
+    "meaning": "空間の",
+    "example": "Video games can help improve spatial awareness.",
+    "example_jp": "テレビゲームは空間認識能力を高めるのに役立つ。"
+  },
+  {
+    "word": "neat",
+    "meaning": "きちんとした，見事な",
+    "example": "She always keeps her desk very neat and tidy.",
+    "example_jp": "彼女はいつも机を非常にきちんとした状態に保っている。"
+  },
+  {
+    "word": "tidy",
+    "meaning": "整頓された",
+    "example": "The children finally made their room tidy.",
+    "example_jp": "子供たちはついに自分たちの部屋を整頓した。"
+  },
+  {
+    "word": "tidy",
+    "meaning": "相当の",
+    "example": "Selling the house brought them a tidy profit.",
+    "example_jp": "家を売ることで、彼らは相当の利益を得た。"
+  },
+  {
+    "word": "loyal",
+    "meaning": "忠実な，誠実な",
+    "example": "The dog was a loyal companion to his owner.",
+    "example_jp": "その犬は飼い主に対して忠実な仲間だった。"
+  }
+]

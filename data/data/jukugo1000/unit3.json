@@ -1,0 +1,386 @@
+[
+  {
+    "word": "take care of",
+    "meaning": "～に気をつける、～の世話をする",
+    "example": "I take care of my dog.",
+    "example_jp": "私は自分の犬の世話をする。"
+  },
+  {
+    "word": "look forward to",
+    "meaning": "～を楽しみに待つ",
+    "example": "I look forward to the trip.",
+    "example_jp": "私はその旅行を楽しみに待っている。"
+  },
+  {
+    "word": "ask for",
+    "meaning": "～を求める",
+    "example": "He asked for help.",
+    "example_jp": "彼は助けを求めた。"
+  },
+  {
+    "word": "get rid of",
+    "meaning": "（厄介なもの）を取り除く",
+    "example": "I got rid of old clothes.",
+    "example_jp": "私は古い服を取り除いた。"
+  },
+  {
+    "word": "fall in love with",
+    "meaning": "（事・物）を大好きになる",
+    "example": "She fell in love with music.",
+    "example_jp": "彼女は音楽を大好きになった。"
+  },
+  {
+    "word": "fall in love with",
+    "meaning": "（人）と恋に落ちる",
+    "example": "He fell in love with her.",
+    "example_jp": "彼は彼女と恋に落ちた。"
+  },
+  {
+    "word": "used to do",
+    "meaning": "～したものだった",
+    "example": "I used to play soccer.",
+    "example_jp": "私はサッカーをしたものだった。"
+  },
+  {
+    "word": "used to be",
+    "meaning": "昔は～であった",
+    "example": "There used to be a park here.",
+    "example_jp": "昔はここに公園があった。"
+  },
+  {
+    "word": "had better do",
+    "meaning": "…したほうがいい、…すべきだ",
+    "example": "You had better rest.",
+    "example_jp": "あなたは休んだほうがいい。"
+  },
+  {
+    "word": "help A with B",
+    "meaning": "AのBを手伝う、AをBで助ける",
+    "example": "She helped me with my homework.",
+    "example_jp": "彼女は私が宿題をするのを手伝ってくれた。"
+  },
+  {
+    "word": "prefer A to B",
+    "meaning": "ＢよりＡを好む",
+    "example": "I prefer tea to coffee.",
+    "example_jp": "私はコーヒーよりお茶を好む。"
+  },
+  {
+    "word": "turn A into B",
+    "meaning": "ＡをＢに変える",
+    "example": "The sun turns water into steam.",
+    "example_jp": "太陽は水を水蒸気に変える。"
+  },
+  {
+    "word": "prevent A from B",
+    "meaning": "AがBするのを妨げる",
+    "example": "The rain prevented us from playing.",
+    "example_jp": "雨が、私たちが遊ぶのを妨げた。"
+  },
+  {
+    "word": "remind A of B",
+    "meaning": "AにBを思い出させる",
+    "example": "This photo reminds me of home.",
+    "example_jp": "この写真は私に故郷を思い出させる。"
+  },
+  {
+    "word": "remind A about B",
+    "meaning": "AにBを思い出させる",
+    "example": "Please remind me about the meeting.",
+    "example_jp": "私に会議のことを思い出させてください。"
+  },
+  {
+    "word": "regard A as B",
+    "meaning": "AをBとみなす",
+    "example": "They regard him as a hero.",
+    "example_jp": "彼らは彼をヒーローとみなしている。"
+  },
+  {
+    "word": "associate A with B",
+    "meaning": "AをBと結びつけて考える",
+    "example": "I associate summer with the beach.",
+    "example_jp": "私は夏をビーチと結びつけて考える。"
+  },
+  {
+    "word": "inform A of B",
+    "meaning": "AにBを知らせる",
+    "example": "He informed me of the news.",
+    "example_jp": "彼は私にその知らせを知らせた。"
+  },
+  {
+    "word": "inform A about B",
+    "meaning": "AにBを知らせる",
+    "example": "She informed us about the plan.",
+    "example_jp": "彼女は私たちにその計画を知らせた。"
+  },
+  {
+    "word": "after all",
+    "meaning": "結局（は）、やっぱり",
+    "example": "He came after all.",
+    "example_jp": "彼は結局やって来た。"
+  },
+  {
+    "word": "all the time",
+    "meaning": "いつも、常に",
+    "example": "She is busy all the time.",
+    "example_jp": "彼女はいつも忙しい。"
+  },
+  {
+    "word": "all the way",
+    "meaning": "ずっと、はるばる",
+    "example": "We walked all the way home.",
+    "example_jp": "私たちは家までずっと歩いた。"
+  },
+  {
+    "word": "and so on",
+    "meaning": "～など",
+    "example": "We talked about music, movies, and so on.",
+    "example_jp": "私たちは音楽や映画などについて話した。"
+  },
+  {
+    "word": "and forth",
+    "meaning": "～など",
+    "example": "He ran, jumped, and so forth.",
+    "example_jp": "彼は走り、跳び、などした。"
+  },
+  {
+    "word": "and yet",
+    "meaning": "それにも関わらず",
+    "example": "She is young, and yet very wise.",
+    "example_jp": "彼女は若い、それにも関わらず非常に賢い。"
+  },
+  {
+    "word": "as ～ as possible",
+    "meaning": "できる限り～",
+    "example": "Please come as soon as possible.",
+    "example_jp": "できる限りすぐ来てください。"
+  },
+  {
+    "word": "as ～ as one can",
+    "meaning": "できる限り～",
+    "example": "Run as fast as you can.",
+    "example_jp": "できる限り速く走りなさい。"
+  },
+  {
+    "word": "as a result of",
+    "meaning": "（～の）結果として",
+    "example": "As a result of the storm, school closed.",
+    "example_jp": "嵐の結果として、学校は休みになった。"
+  },
+  {
+    "word": "as a whole",
+    "meaning": "全体として（の）",
+    "example": "Japan as a whole is safe.",
+    "example_jp": "日本は全体として安全である。"
+  },
+  {
+    "word": "as usual",
+    "meaning": "いつものように",
+    "example": "He was late as usual.",
+    "example_jp": "彼はいつものように遅れた。"
+  },
+  {
+    "word": "at best",
+    "meaning": "よくても、せいぜい",
+    "example": "We can get 20 tickets at best.",
+    "example_jp": "私たちはよくても20枚のチケットしか手に入れられない。"
+  },
+  {
+    "word": "at least",
+    "meaning": "少なくとも",
+    "example": "We need at least five people.",
+    "example_jp": "私たちは少なくとも5人の人間が必要だ。"
+  },
+  {
+    "word": "at most",
+    "meaning": "せいぜい、多くても",
+    "example": "It takes ten minutes at most.",
+    "example_jp": "それはせいぜい10分かかる。"
+  },
+  {
+    "word": "at a time",
+    "meaning": "一度に",
+    "example": "Take one paper at a time.",
+    "example_jp": "一度に一枚の紙を取りなさい。"
+  },
+  {
+    "word": "at once",
+    "meaning": "すぐに",
+    "example": "Come here at once.",
+    "example_jp": "すぐにここに来なさい。"
+  },
+  {
+    "word": "at once",
+    "meaning": "同時に",
+    "example": "They spoke at once.",
+    "example_jp": "彼らは同時に話した。"
+  },
+  {
+    "word": "at all",
+    "meaning": "（否定文）まったく",
+    "example": "I don’t know him at all.",
+    "example_jp": "私は彼のことをまったく知らない。"
+  },
+  {
+    "word": "at all",
+    "meaning": "（疑問文）一体、そもそも",
+    "example": "What do you want at all?",
+    "example_jp": "一体何が欲しいのですか？"
+  },
+  {
+    "word": "at all",
+    "meaning": "（肯定文）そもそも、ともかく",
+    "example": "He is kind at all.",
+    "example_jp": "彼はそもそも親切だ。"
+  },
+  {
+    "word": "at any rate",
+    "meaning": "とにかく、いずれにしても",
+    "example": "At any rate, we must try.",
+    "example_jp": "とにかく、私たちはやってみなければならない。"
+  },
+  {
+    "word": "at random",
+    "meaning": "無作為に、手当たり次第に",
+    "example": "He picked a card at random.",
+    "example_jp": "彼は無作為にカードを引いた。"
+  },
+  {
+    "word": "more or less",
+    "meaning": "多かれ少なかれ",
+    "example": "He is more or less right.",
+    "example_jp": "彼は多かれ少なかれ正しい。"
+  },
+  {
+    "word": "more or less",
+    "meaning": "ほぼ、おおよそ",
+    "example": "It is more or less finished.",
+    "example_jp": "それはほぼ終わっている。"
+  },
+  {
+    "word": "at times",
+    "meaning": "ときどき",
+    "example": "She gets angry at times.",
+    "example_jp": "彼女はときどき怒る。"
+  },
+  {
+    "word": "between you and me",
+    "meaning": "ここだけの話だが、内緒だが",
+    "example": "Between you and me, I’m tired.",
+    "example_jp": "ここだけの話だが、私は疲れている。"
+  },
+  {
+    "word": "by hand",
+    "meaning": "手で",
+    "example": "The bag was made by hand.",
+    "example_jp": "そのバッグは手で作られた。"
+  },
+  {
+    "word": "by mistake",
+    "meaning": "間違って",
+    "example": "I called him by mistake.",
+    "example_jp": "私は間違って彼に電話した。"
+  },
+  {
+    "word": "by no means",
+    "meaning": "全然～ない",
+    "example": "It is by no means easy.",
+    "example_jp": "それは全然簡単ではない。"
+  },
+  {
+    "word": "by the way",
+    "meaning": "ところで",
+    "example": "By the way, how is your mother?",
+    "example_jp": "ところで、お母様はいかがですか？"
+  },
+  {
+    "word": "far from",
+    "meaning": "～からほど遠い、～どころではない",
+    "example": "The work is far from easy.",
+    "example_jp": "その仕事は簡単どころではない。"
+  },
+  {
+    "word": "for a while",
+    "meaning": "しばらくの間",
+    "example": "Please wait for a while.",
+    "example_jp": "しばらくの間待ってください。"
+  },
+  {
+    "word": "for example",
+    "meaning": "例えば",
+    "example": "I like fruit, for example apples.",
+    "example_jp": "私は果物、例えばリンゴが好きだ。"
+  },
+  {
+    "word": "for instance",
+    "meaning": "例えば",
+    "example": "Many people, for instance students, use it.",
+    "example_jp": "多くの人々、例えば学生がそれを使う。"
+  },
+  {
+    "word": "for one thing",
+    "meaning": "一つには",
+    "example": "I can’t go. For one thing, I’m busy.",
+    "example_jp": "行けません。一つには、忙しいのです。"
+  },
+  {
+    "word": "in a hurry",
+    "meaning": "急いで、あせって",
+    "example": "He left in a hurry.",
+    "example_jp": "彼は急いで立ち去った。"
+  },
+  {
+    "word": "in addition to",
+    "meaning": "（～に）加えて、さらに",
+    "example": "In addition to English, he studies math.",
+    "example_jp": "英語に加えて、彼は数学を勉強している。"
+  },
+  {
+    "word": "in any case",
+    "meaning": "とにかく、いずれにしても",
+    "example": "In any case, we must go.",
+    "example_jp": "とにかく、私たちは行かなければならない。"
+  },
+  {
+    "word": "in any event",
+    "meaning": "とにかく、いずれにしても",
+    "example": "In any event, be careful.",
+    "example_jp": "とにかく、注意しなさい。"
+  },
+  {
+    "word": "in detail",
+    "meaning": "詳細に",
+    "example": "She explained it in detail.",
+    "example_jp": "彼女はそれを詳細に説明した。"
+  },
+  {
+    "word": "in fact",
+    "meaning": "実際に",
+    "example": "He is kind. In fact, he helps everyone.",
+    "example_jp": "彼は親切だ。実際に、彼はみんなを助けている。"
+  },
+  {
+    "word": "in fact",
+    "meaning": "（対照して）実際は",
+    "example": "I thought it was easy. In fact, it was hard.",
+    "example_jp": "それは簡単だと思った。実際は、大変だった。"
+  },
+  {
+    "word": "in general",
+    "meaning": "一般に",
+    "example": "In general, cats are quiet.",
+    "example_jp": "一般に、猫は静かだ。"
+  },
+  {
+    "word": "in general",
+    "meaning": "一般の",
+    "example": "People in general like music.",
+    "example_jp": "一般の人々は音楽が好きだ。"
+  },
+  {
+    "word": "in other words",
+    "meaning": "言い換えれば、つまり",
+    "example": "In other words, it is too late.",
+    "example_jp": "言い換えれば、遅すぎたのだ。"
+  }
+]

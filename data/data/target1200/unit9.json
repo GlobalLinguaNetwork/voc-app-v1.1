@@ -1,0 +1,440 @@
+[
+  {
+    "word": "figure",
+    "meaning": "数",
+    "example": "This figure is very large.",
+    "example_jp": "この数はとても大きい。"
+  },
+  {
+    "word": "figure",
+    "meaning": "数値",
+    "example": "The figure is correct.",
+    "example_jp": "その数値は正しい。"
+  },
+  {
+    "word": "direction",
+    "meaning": "方向",
+    "example": "Go in this direction.",
+    "example_jp": "この方向に行きなさい。"
+  },
+  {
+    "word": "bit",
+    "meaning": "少し",
+    "example": "I need a bit of help.",
+    "example_jp": "私は少しの助けを必要としている。"
+  },
+  {
+    "word": "bit",
+    "meaning": "少量",
+    "example": "Add a bit of sugar.",
+    "example_jp": "少量の砂糖を加えなさい。"
+  },
+  {
+    "word": "contrast",
+    "meaning": "対比",
+    "example": "There is a big contrast between the two.",
+    "example_jp": "その2つの間には大きな対比がある。"
+  },
+  {
+    "word": "contrast",
+    "meaning": "差異",
+    "example": "The contrast is clear.",
+    "example_jp": "その差異は明白だ。"
+  },
+  {
+    "word": "religion",
+    "meaning": "宗教",
+    "example": "He studies religion.",
+    "example_jp": "彼は宗教を研究している。"
+  },
+  {
+    "word": "harmony",
+    "meaning": "調和",
+    "example": "They live in harmony.",
+    "example_jp": "彼らは調和して暮らしている。"
+  },
+  {
+    "word": "harmony",
+    "meaning": "一致",
+    "example": "The colors have harmony.",
+    "example_jp": "それらの色には一致（調和）がある。"
+  },
+  {
+    "word": "pattern",
+    "meaning": "模様",
+    "example": "I like this pattern.",
+    "example_jp": "私はこの模様が好きだ。"
+  },
+  {
+    "word": "pattern",
+    "meaning": "図柄",
+    "example": "The pattern is beautiful.",
+    "example_jp": "その図柄は美しい。"
+  },
+  {
+    "word": "stage",
+    "meaning": "段階",
+    "example": "This is the first stage.",
+    "example_jp": "これが最初の段階だ。"
+  },
+  {
+    "word": "degree",
+    "meaning": "程度",
+    "example": "The degree of change is small.",
+    "example_jp": "変化の程度は小さい。"
+  },
+  {
+    "word": "emergency",
+    "meaning": "緊急",
+    "example": "This is an emergency.",
+    "example_jp": "これは緊急事態だ。"
+  },
+  {
+    "word": "origin",
+    "meaning": "起源",
+    "example": "The origin of the word is Latin.",
+    "example_jp": "その単語の起源はラテン語だ。"
+  },
+  {
+    "word": "battle",
+    "meaning": "戦闘",
+    "example": "The battle lasts one day.",
+    "example_jp": "その戦闘は1日続く。"
+  },
+  {
+    "word": "enemy",
+    "meaning": "敵",
+    "example": "He faces his enemy.",
+    "example_jp": "彼は敵に立ち向かう。"
+  },
+  {
+    "word": "note",
+    "meaning": "メモ",
+    "example": "I write a short note.",
+    "example_jp": "私は短いメモを書く。"
+  },
+  {
+    "word": "countryside",
+    "meaning": "田舎",
+    "example": "I live in the countryside.",
+    "example_jp": "私は田舎に住んでいる。"
+  },
+  {
+    "word": "contest",
+    "meaning": "競技会",
+    "example": "I join the contest.",
+    "example_jp": "私はその競技会に参加する。"
+  },
+  {
+    "word": "contest",
+    "meaning": "コンテスト",
+    "example": "She wins the contest.",
+    "example_jp": "彼女はそのコンテストで優勝する。"
+  },
+  {
+    "word": "sort",
+    "meaning": "種類",
+    "example": "This sort is common.",
+    "example_jp": "この種類は一般的だ。"
+  },
+  {
+    "word": "depth",
+    "meaning": "深さ",
+    "example": "The depth of the lake is great.",
+    "example_jp": "その湖の深さはものすごい。"
+  },
+  {
+    "word": "top",
+    "meaning": "最高部",
+    "example": "He stands at the top.",
+    "example_jp": "彼は最高部に立っている。"
+  },
+  {
+    "word": "top",
+    "meaning": "頂上",
+    "example": "The top of the mountain is snowy.",
+    "example_jp": "山の頂上は雪に覆われている。"
+  },
+  {
+    "word": "theme",
+    "meaning": "テーマ",
+    "example": "The theme is love.",
+    "example_jp": "テーマは愛だ。"
+  },
+  {
+    "word": "theme",
+    "meaning": "主題",
+    "example": "This book has a clear theme.",
+    "example_jp": "この本には明確な主題がある。"
+  },
+  {
+    "word": "sentence",
+    "meaning": "文",
+    "example": "This sentence is easy.",
+    "example_jp": "この文は簡単だ。"
+  },
+  {
+    "word": "cycle",
+    "meaning": "周期",
+    "example": "The cycle repeats every year.",
+    "example_jp": "その周期は毎年繰り返される。"
+  },
+  {
+    "word": "concept",
+    "meaning": "概念",
+    "example": "The concept is simple.",
+    "example_jp": "その概念は単純だ。"
+  },
+  {
+    "word": "rhythm",
+    "meaning": "リズム",
+    "example": "I like the rhythm of this song.",
+    "example_jp": "私はこの歌のリズムが好きだ。"
+  },
+  {
+    "word": "tradition",
+    "meaning": "伝統",
+    "example": "This is an old tradition.",
+    "example_jp": "これは古い伝統だ。"
+  },
+  {
+    "word": "theory",
+    "meaning": "理論",
+    "example": "The theory is difficult.",
+    "example_jp": "その理論は難しい。"
+  },
+  {
+    "word": "theory",
+    "meaning": "説",
+    "example": "He explains his theory.",
+    "example_jp": "彼は自身の説を説明する。"
+  },
+  {
+    "word": "correct",
+    "meaning": "正しい",
+    "example": "Your answer is correct.",
+    "example_jp": "あなたの答えは正しい。"
+  },
+  {
+    "word": "blank",
+    "meaning": "白紙の",
+    "example": "The page is blank.",
+    "example_jp": "ページは白紙だ。"
+  },
+  {
+    "word": "blank",
+    "meaning": "空白の",
+    "example": "Leave a blank space.",
+    "example_jp": "空白のスペースを残しなさい。"
+  },
+  {
+    "word": "quiet",
+    "meaning": "静かな",
+    "example": "The room is quiet.",
+    "example_jp": "部屋は静かだ。"
+  },
+  {
+    "word": "smooth",
+    "meaning": "滑らかな",
+    "example": "The surface is smooth.",
+    "example_jp": "表面は滑らかだ。"
+  },
+  {
+    "word": "smooth",
+    "meaning": "すべすべした",
+    "example": "Her skin is smooth.",
+    "example_jp": "彼女の肌はすべすべしている。"
+  },
+  {
+    "word": "wet",
+    "meaning": "濡れた",
+    "example": "My shoes are wet.",
+    "example_jp": "私の靴は濡れている。"
+  },
+  {
+    "word": "wet",
+    "meaning": "湿った",
+    "example": "The ground is wet.",
+    "example_jp": "地面は湿っている。"
+  },
+  {
+    "word": "chief",
+    "meaning": "最高の",
+    "example": "He is the chief doctor.",
+    "example_jp": "彼は最高の医師だ。"
+  },
+  {
+    "word": "chief",
+    "meaning": "最高位の",
+    "example": "She has a chief role.",
+    "example_jp": "彼女は最高位の役割を担っている。"
+  },
+  {
+    "word": "raw",
+    "meaning": "生の",
+    "example": "I eat raw fish.",
+    "example_jp": "私は生の魚を食べる。"
+  },
+  {
+    "word": "personal",
+    "meaning": "個人の",
+    "example": "This is my personal opinion.",
+    "example_jp": "これは私の個人の意見だ。"
+  },
+  {
+    "word": "personal",
+    "meaning": "個人的な",
+    "example": "It is a personal matter.",
+    "example_jp": "それは個人的な事柄だ。"
+  },
+  {
+    "word": "double",
+    "meaning": "２倍の",
+    "example": "I need a double portion.",
+    "example_jp": "私は2倍の分量が必要だ。"
+  },
+  {
+    "word": "dirty",
+    "meaning": "汚れた",
+    "example": "The floor is dirty.",
+    "example_jp": "床は汚れている。"
+  },
+  {
+    "word": "normal",
+    "meaning": "普通の",
+    "example": "This is a normal day.",
+    "example_jp": "これは普通の日だ。"
+  },
+  {
+    "word": "full",
+    "meaning": "いっぱいの",
+    "example": "The box is full.",
+    "example_jp": "箱はいっぱいだ。"
+  },
+  {
+    "word": "simple",
+    "meaning": "簡単な",
+    "example": "The rule is simple.",
+    "example_jp": "そのルールは簡単だ。"
+  },
+  {
+    "word": "equal",
+    "meaning": "等しい",
+    "example": "The two sides are equal.",
+    "example_jp": "両側は等しい。"
+  },
+  {
+    "word": "equal",
+    "meaning": "同等の",
+    "example": "They have equal power.",
+    "example_jp": "彼らは同等の力を持っている。"
+  },
+  {
+    "word": "quick",
+    "meaning": "短時間の",
+    "example": "I take a quick break.",
+    "example_jp": "私は短時間の休憩をとる。"
+  },
+  {
+    "word": "quick",
+    "meaning": "すばやい",
+    "example": "He gives a quick answer.",
+    "example_jp": "彼はすばやい答えを出す。"
+  },
+  {
+    "word": "rapid",
+    "meaning": "急速な",
+    "example": "The rapid change surprises us.",
+    "example_jp": "急速な変化が私たちを驚かせる。"
+  },
+  {
+    "word": "rapid",
+    "meaning": "急激な",
+    "example": "The river has a rapid flow.",
+    "example_jp": "その川は急激な流れだ。"
+  },
+  {
+    "word": "ideal",
+    "meaning": "理想的な",
+    "example": "This is an ideal place.",
+    "example_jp": "これは理想的な場所だ。"
+  },
+  {
+    "word": "rough",
+    "meaning": "大まかな",
+    "example": "This is a rough idea.",
+    "example_jp": "これは大まかなアイデアだ。"
+  },
+  {
+    "word": "rough",
+    "meaning": "粗い",
+    "example": "The road is rough.",
+    "example_jp": "道路は粗い。"
+  },
+  {
+    "word": "silent",
+    "meaning": "無言の",
+    "example": "The room is silent.",
+    "example_jp": "部屋は無言（静まり返っている）だ。"
+  },
+  {
+    "word": "silent",
+    "meaning": "静かな",
+    "example": "The street is silent at night.",
+    "example_jp": "夜、通りは静かだ。"
+  },
+  {
+    "word": "violent",
+    "meaning": "暴力的な",
+    "example": "It is a violent storm.",
+    "example_jp": "それは暴力的な嵐だ。"
+  },
+  {
+    "word": "rich",
+    "meaning": "豊富の",
+    "example": "The soil is rich.",
+    "example_jp": "土壌は豊富だ。"
+  },
+  {
+    "word": "rich",
+    "meaning": "金持ちの",
+    "example": "He is a rich man.",
+    "example_jp": "彼は金持ちの男だ。"
+  },
+  {
+    "word": "perfect",
+    "meaning": "完全な",
+    "example": "This is a perfect plan.",
+    "example_jp": "これは完全な計画だ。"
+  },
+  {
+    "word": "perfect",
+    "meaning": "完璧な",
+    "example": "Her work is perfect.",
+    "example_jp": "彼女の仕事は完璧だ。"
+  },
+  {
+    "word": "weak",
+    "meaning": "弱い",
+    "example": "He is weak after the illness.",
+    "example_jp": "彼は病気の後で弱っている。"
+  },
+  {
+    "word": "weak",
+    "meaning": "弱った",
+    "example": "The bridge is weak now.",
+    "example_jp": "橋は今、弱っている。"
+  },
+  {
+    "word": "upper",
+    "meaning": "上の方の",
+    "example": "The upper floor is quiet.",
+    "example_jp": "上の方の階は静かだ。"
+  },
+  {
+    "word": "upper",
+    "meaning": "高い方の",
+    "example": "The upper part is broken.",
+    "example_jp": "高い方の部分は壊れている。"
+  }
+]

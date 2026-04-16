@@ -1,0 +1,668 @@
+[
+  {
+    "word": "persuade",
+    "meaning": "～を説得して～させる",
+    "example": "I persuaded him to join us.",
+    "example_jp": "私は彼を説得して私たちに加わらせた。"
+  },
+  {
+    "word": "convince",
+    "meaning": "～を確信させる",
+    "example": "I convinced him of my innocence.",
+    "example_jp": "私は彼に自分の無実を確信させた。"
+  },
+  {
+    "word": "convince",
+    "meaning": "～を説得して～させる",
+    "example": "She convinced me to go.",
+    "example_jp": "彼女は私を説得して行かせた。"
+  },
+  {
+    "word": "inspire",
+    "meaning": "～を奮起させる",
+    "example": "His speech inspired the team.",
+    "example_jp": "彼のスピーチはチームを奮起させた。"
+  },
+  {
+    "word": "inspire",
+    "meaning": "創作のヒントを与える",
+    "example": "Nature inspired this poem.",
+    "example_jp": "自然がこの詩の創作のヒントを与えた。"
+  },
+  {
+    "word": "discourage",
+    "meaning": "やる気をなくさせる",
+    "example": "Don't let failure discourage you.",
+    "example_jp": "失敗でやる気をなくさないようにしなさい。"
+  },
+  {
+    "word": "promote",
+    "meaning": "～を促進する",
+    "example": "Exercise promotes good health.",
+    "example_jp": "運動は健康を促進する。"
+  },
+  {
+    "word": "promote",
+    "meaning": "昇進する",
+    "example": "He was promoted to manager.",
+    "example_jp": "彼はマネージャーに昇進した。"
+  },
+  {
+    "word": "boost",
+    "meaning": "～を促進させる（増大させる）",
+    "example": "The news boosted our morale.",
+    "example_jp": "そのニュースは私たちの士気を促進させた（高めた）。"
+  },
+  {
+    "word": "expand",
+    "meaning": "拡大する",
+    "example": "The universe is expanding.",
+    "example_jp": "宇宙は拡大している。"
+  },
+  {
+    "word": "expand",
+    "meaning": "～を拡大する",
+    "example": "We expanded our business.",
+    "example_jp": "私たちはビジネスを拡大した。"
+  },
+  {
+    "word": "extend",
+    "meaning": "～を延長する",
+    "example": "We extended the deadline.",
+    "example_jp": "私たちは締め切りを延長した。"
+  },
+  {
+    "word": "extend",
+    "meaning": "伸びる",
+    "example": "The road extends for miles.",
+    "example_jp": "その道路は何マイルにもわたって伸びている。"
+  },
+  {
+    "word": "broaden",
+    "meaning": "～を広げる",
+    "example": "Travel broadens your mind.",
+    "example_jp": "旅は視野（心）を広げてくれる。"
+  },
+  {
+    "word": "broaden",
+    "meaning": "広がる",
+    "example": "His smile broadened.",
+    "example_jp": "彼の笑顔が広がった。"
+  },
+  {
+    "word": "spread",
+    "meaning": "～を広げる",
+    "example": "She spread the map on the desk.",
+    "example_jp": "彼女は机の上に地図を広げた。"
+  },
+  {
+    "word": "spread",
+    "meaning": "広がる",
+    "example": "The fire spread quickly.",
+    "example_jp": "火はすぐに広がった。"
+  },
+  {
+    "word": "spread",
+    "meaning": "広がり",
+    "example": "The spread of the disease was fast.",
+    "example_jp": "その病気の広がりは速かった。"
+  },
+  {
+    "word": "tie",
+    "meaning": "～を縛る",
+    "example": "Tie the newspapers together.",
+    "example_jp": "新聞を一緒に縛りなさい。"
+  },
+  {
+    "word": "tie",
+    "meaning": "～を結ぶ",
+    "example": "He tied his shoelaces.",
+    "example_jp": "彼は靴紐を結んだ。"
+  },
+  {
+    "word": "tie",
+    "meaning": "ネクタイ",
+    "example": "He wore a blue tie.",
+    "example_jp": "彼は青いネクタイをしていた。"
+  },
+  {
+    "word": "tie",
+    "meaning": "きずな",
+    "example": "Family ties are strong.",
+    "example_jp": "家族のきずなは強い。"
+  },
+  {
+    "word": "fasten",
+    "meaning": "～を固定する（留める）",
+    "example": "Fasten your seatbelt.",
+    "example_jp": "シートベルトを固定しなさい（留めなさい）。"
+  },
+  {
+    "word": "fix",
+    "meaning": "～を固定する",
+    "example": "He fixed the shelf to the wall.",
+    "example_jp": "彼は棚を壁に固定した。"
+  },
+  {
+    "word": "fix",
+    "meaning": "～を修理する",
+    "example": "Can you fix my computer?",
+    "example_jp": "私のコンピュータを修理できますか。"
+  },
+  {
+    "word": "fix",
+    "meaning": "～を作る",
+    "example": "I'll fix dinner tonight.",
+    "example_jp": "今夜は私が夕食を作ります。"
+  },
+  {
+    "word": "install",
+    "meaning": "～を設置する",
+    "example": "They installed a new camera.",
+    "example_jp": "彼らは新しいカメラを設置した。"
+  },
+  {
+    "word": "install",
+    "meaning": "～をインストールする",
+    "example": "I installed the software.",
+    "example_jp": "私はソフトウェアをインストールした。"
+  },
+  {
+    "word": "resist",
+    "meaning": "～を我慢する",
+    "example": "I couldn't resist the cake.",
+    "example_jp": "私はそのケーキを我慢することができなかった。"
+  },
+  {
+    "word": "resist",
+    "meaning": "～に抵抗する",
+    "example": "The army resisted the attack.",
+    "example_jp": "軍隊はその攻撃に抵抗した。"
+  },
+  {
+    "word": "obey",
+    "meaning": "～に従う",
+    "example": "You must obey the rules.",
+    "example_jp": "規則に従わなければならない。"
+  },
+  {
+    "word": "engage",
+    "meaning": "従事する",
+    "example": "He engages in politics.",
+    "example_jp": "彼は政治に従事している。"
+  },
+  {
+    "word": "engage",
+    "meaning": "関与する",
+    "example": "We need to engage with customers.",
+    "example_jp": "私たちは顧客と関与する必要がある。"
+  },
+  {
+    "word": "engage",
+    "meaning": "～を引く",
+    "example": "The story engaged my interest.",
+    "example_jp": "その話は私の興味を引いた。"
+  },
+  {
+    "word": "bump",
+    "meaning": "ぶつかる",
+    "example": "I bumped into the table.",
+    "example_jp": "私はテーブルにぶつかった。"
+  },
+  {
+    "word": "bump",
+    "meaning": "偶然出会う",
+    "example": "I bumped into John yesterday.",
+    "example_jp": "昨日、ジョンに偶然出会った。"
+  },
+  {
+    "word": "bend",
+    "meaning": "身をかがめる",
+    "example": "He bent down to pick it up.",
+    "example_jp": "彼はそれを拾うために身をかがめた。"
+  },
+  {
+    "word": "bend",
+    "meaning": "～を曲げる",
+    "example": "Bend your knees.",
+    "example_jp": "膝を曲げなさい。"
+  },
+  {
+    "word": "bend",
+    "meaning": "カーブ",
+    "example": "There is a sharp bend in the road.",
+    "example_jp": "道路に急なカーブがある。"
+  },
+  {
+    "word": "hug",
+    "meaning": "～を抱きしめる",
+    "example": "She hugged her daughter.",
+    "example_jp": "彼女は娘を抱きしめた。"
+  },
+  {
+    "word": "hug",
+    "meaning": "抱擁",
+    "example": "Give me a hug.",
+    "example_jp": "私を抱擁して（抱きしめて）。"
+  },
+  {
+    "word": "stare",
+    "meaning": "じっと見つめる",
+    "example": "Don't stare at me.",
+    "example_jp": "私をじっと見つめないで。"
+  },
+  {
+    "word": "stare",
+    "meaning": "凝視",
+    "example": "He gave me a cold stare.",
+    "example_jp": "彼は私を冷たく凝視した。"
+  },
+  {
+    "word": "gaze",
+    "meaning": "見つめる",
+    "example": "She gazed at the stars.",
+    "example_jp": "彼女は星を見つめた。"
+  },
+  {
+    "word": "gaze",
+    "meaning": "視線",
+    "example": "I felt his gaze on me.",
+    "example_jp": "私は彼の視線を自分に感じた。"
+  },
+  {
+    "word": "glance",
+    "meaning": "ちらりと見る",
+    "example": "He glanced at the clock.",
+    "example_jp": "彼はちらりと時計を見た。"
+  },
+  {
+    "word": "glance",
+    "meaning": "ちらりと見ること",
+    "example": "I took a quick glance.",
+    "example_jp": "私は素早くちらりと見た。"
+  },
+  {
+    "word": "glimpse",
+    "meaning": "～がちらりと見える",
+    "example": "I glimpsed him in the crowd.",
+    "example_jp": "人混みの中で彼の姿がちらりと見えた。"
+  },
+  {
+    "word": "glimpse",
+    "meaning": "ちらりと見えること",
+    "example": "I caught a glimpse of the sea.",
+    "example_jp": "海がちらりと見えるのをとらえた。"
+  },
+  {
+    "word": "stretch",
+    "meaning": "～を伸ばす",
+    "example": "He stretched his arms.",
+    "example_jp": "彼は腕を伸ばした。"
+  },
+  {
+    "word": "stretch",
+    "meaning": "伸びる",
+    "example": "The sweater stretched.",
+    "example_jp": "セーターが伸びた。"
+  },
+  {
+    "word": "stretch",
+    "meaning": "広がり",
+    "example": "A long stretch of road.",
+    "example_jp": "道路の長い広がり。"
+  },
+  {
+    "word": "stumble",
+    "meaning": "つまずく",
+    "example": "I stumbled over a stone.",
+    "example_jp": "私は石につまずいた。"
+  },
+  {
+    "word": "stumble",
+    "meaning": "偶然出会う",
+    "example": "I stumbled across an old letter.",
+    "example_jp": "私は古い手紙に偶然出会った。"
+  },
+  {
+    "word": "press",
+    "meaning": "～を押す",
+    "example": "Press the button.",
+    "example_jp": "ボタンを押しなさい。"
+  },
+  {
+    "word": "press",
+    "meaning": "～を押しつける",
+    "example": "He pressed the money on me.",
+    "example_jp": "彼は私にお金を押しつけた。"
+  },
+  {
+    "word": "press",
+    "meaning": "報道機関",
+    "example": "The press covered the story.",
+    "example_jp": "報道機関がその話を報じた。"
+  },
+  {
+    "word": "drag",
+    "meaning": "～を引きずる",
+    "example": "Don't drag your feet.",
+    "example_jp": "足を引きずってはいけない。"
+  },
+  {
+    "word": "lean",
+    "meaning": "寄りかかる",
+    "example": "Don't lean against the door.",
+    "example_jp": "ドアに寄りかかってはいけない。"
+  },
+  {
+    "word": "lean",
+    "meaning": "身を乗り出す",
+    "example": "He leaned forward.",
+    "example_jp": "彼は身を乗り出した。"
+  },
+  {
+    "word": "lean",
+    "meaning": "痩せている",
+    "example": "He has a lean body.",
+    "example_jp": "彼は痩せている体つきをしている。"
+  },
+  {
+    "word": "scratch",
+    "meaning": "～をひっかく",
+    "example": "The cat scratched me.",
+    "example_jp": "猫が私をひっかいた。"
+  },
+  {
+    "word": "scratch",
+    "meaning": "ひっかき傷",
+    "example": "It's just a scratch.",
+    "example_jp": "ただのひっかき傷だ。"
+  },
+  {
+    "word": "bow",
+    "meaning": "おじぎする",
+    "example": "He bowed to the king.",
+    "example_jp": "彼は王におじぎした。"
+  },
+  {
+    "word": "bow",
+    "meaning": "おじぎ",
+    "example": "He made a deep bow.",
+    "example_jp": "彼は深くおじぎをした。"
+  },
+  {
+    "word": "nod",
+    "meaning": "うなずく",
+    "example": "She nodded in agreement.",
+    "example_jp": "彼女は同意してうなずいた。"
+  },
+  {
+    "word": "nod",
+    "meaning": "うたた寝する",
+    "example": "He nodded off in class.",
+    "example_jp": "彼は授業中にうたた寝した。"
+  },
+  {
+    "word": "nod",
+    "meaning": "うなずき",
+    "example": "He gave me a nod.",
+    "example_jp": "彼は私にうなずいて見せた。"
+  },
+  {
+    "word": "sigh",
+    "meaning": "ため息をつく",
+    "example": "She sighed deeply.",
+    "example_jp": "彼女は深くため息をついた。"
+  },
+  {
+    "word": "sigh",
+    "meaning": "ため息",
+    "example": "He let out a sigh.",
+    "example_jp": "彼はため息を漏らした。"
+  },
+  {
+    "word": "yawn",
+    "meaning": "あくびをする",
+    "example": "Stop yawning.",
+    "example_jp": "あくびをするのをやめなさい。"
+  },
+  {
+    "word": "yawn",
+    "meaning": "あくび",
+    "example": "He stifled a yawn.",
+    "example_jp": "彼はあくびをかみ殺した。"
+  },
+  {
+    "word": "sneeze",
+    "meaning": "くしゃみをする",
+    "example": "Dust makes me sneeze.",
+    "example_jp": "埃のせいでくしゃみが出る。"
+  },
+  {
+    "word": "bury",
+    "meaning": "～を埋める",
+    "example": "The dog buried a bone.",
+    "example_jp": "犬が骨を埋めた。"
+  },
+  {
+    "word": "bury",
+    "meaning": "～を埋葬する",
+    "example": "He was buried yesterday.",
+    "example_jp": "彼は昨日埋葬された。"
+  },
+  {
+    "word": "perform",
+    "meaning": "～を遂行する",
+    "example": "He performed his task well.",
+    "example_jp": "彼は任務を立派に遂行した。"
+  },
+  {
+    "word": "perform",
+    "meaning": "～を演奏する",
+    "example": "The band performed live.",
+    "example_jp": "バンドはライブで演奏した。"
+  },
+  {
+    "word": "perform",
+    "meaning": "やる（振る舞う）",
+    "example": "The team performed poorly.",
+    "example_jp": "チームの振る舞い（成績）は良くなかった。"
+  },
+  {
+    "word": "adopt",
+    "meaning": "～を採用する",
+    "example": "We adopted a new plan.",
+    "example_jp": "私たちは新しい計画を採用した。"
+  },
+  {
+    "word": "adopt",
+    "meaning": "～を養子にする",
+    "example": "They adopted an orphan.",
+    "example_jp": "彼らは孤児を養子にした。"
+  },
+  {
+    "word": "escape",
+    "meaning": "逃れる",
+    "example": "The bird escaped from the cage.",
+    "example_jp": "鳥が籠から逃れた。"
+  },
+  {
+    "word": "escape",
+    "meaning": "～を避ける",
+    "example": "He escaped punishment.",
+    "example_jp": "彼は罰を受けるのを避けた。"
+  },
+  {
+    "word": "escape",
+    "meaning": "逃亡",
+    "example": "He made his escape.",
+    "example_jp": "彼は逃亡を図った。"
+  },
+  {
+    "word": "scatter",
+    "meaning": "～をまき散らす",
+    "example": "The wind scattered the leaves.",
+    "example_jp": "風が葉をまき散らした。"
+  },
+  {
+    "word": "scatter",
+    "meaning": "散る",
+    "example": "The crowd scattered.",
+    "example_jp": "群衆が散った。"
+  },
+  {
+    "word": "fold",
+    "meaning": "～を折る",
+    "example": "Fold the paper in half.",
+    "example_jp": "紙を半分に折りなさい。"
+  },
+  {
+    "word": "fold",
+    "meaning": "～を折りたたむ",
+    "example": "Fold up your clothes.",
+    "example_jp": "服を折りたたみなし。"
+  },
+  {
+    "word": "fold",
+    "meaning": "（腕）を組む",
+    "example": "He folded his arms.",
+    "example_jp": "彼は腕を組んだ。"
+  },
+  {
+    "word": "fold",
+    "meaning": "折りたためる",
+    "example": "This chair folds flat.",
+    "example_jp": "この椅子は平らに折りたためる。"
+  },
+  {
+    "word": "hang",
+    "meaning": "～を掛ける",
+    "example": "Hang your coat on the hook.",
+    "example_jp": "コートをフックに掛けなさい。"
+  },
+  {
+    "word": "hang",
+    "meaning": "～を絞首刑にする",
+    "example": "He was hanged for murder.",
+    "example_jp": "彼は殺人の罪で絞首刑にされた。"
+  },
+  {
+    "word": "hang",
+    "meaning": "ぶら下がる",
+    "example": "Monkeys hang from trees.",
+    "example_jp": "猿が木にぶら下がっている。"
+  },
+  {
+    "word": "release",
+    "meaning": "～を解放する",
+    "example": "They released the prisoner.",
+    "example_jp": "彼らは囚人を解放した。"
+  },
+  {
+    "word": "release",
+    "meaning": "～を発表する",
+    "example": "The movie was released today.",
+    "example_jp": "その映画は今日発表された（公開された）。"
+  },
+  {
+    "word": "release",
+    "meaning": "～を放出する",
+    "example": "The factory released toxic gas.",
+    "example_jp": "工場が毒ガスを放出した。"
+  },
+  {
+    "word": "release",
+    "meaning": "発売（解放）",
+    "example": "The release of the new product.",
+    "example_jp": "新製品の発売（解放）。"
+  },
+  {
+    "word": "strike",
+    "meaning": "～を打つ",
+    "example": "He struck the table.",
+    "example_jp": "彼はテーブルを打った。"
+  },
+  {
+    "word": "strike",
+    "meaning": "～を襲う",
+    "example": "An earthquake struck the area.",
+    "example_jp": "地震がその地域を襲った。"
+  },
+  {
+    "word": "strike",
+    "meaning": "思い浮かぶ",
+    "example": "A good idea struck me.",
+    "example_jp": "良いアイデアが思い浮かんだ。"
+  },
+  {
+    "word": "strike",
+    "meaning": "印象を与える",
+    "example": "It struck me as odd.",
+    "example_jp": "それは私に奇妙な印象を与えた。"
+  },
+  {
+    "word": "strike",
+    "meaning": "ストライキ",
+    "example": "The workers are on strike.",
+    "example_jp": "労働者たちはストライキ中だ。"
+  },
+  {
+    "word": "beat",
+    "meaning": "～を打つ（鼓動する）",
+    "example": "My heart is beating fast.",
+    "example_jp": "心臓が速く打っている（鼓動している）。"
+  },
+  {
+    "word": "beat",
+    "meaning": "～に勝つ",
+    "example": "I beat him at tennis.",
+    "example_jp": "私はテニスで彼に勝った。"
+  },
+  {
+    "word": "protect",
+    "meaning": "～を守る",
+    "example": "Wear a helmet to protect your head.",
+    "example_jp": "頭を守るためにヘルメットを被りなさい。"
+  },
+  {
+    "word": "twist",
+    "meaning": "～を曲げる（回す）",
+    "example": "Twist the cap off.",
+    "example_jp": "キャップを回して（曲げて）取りなさい。"
+  },
+  {
+    "word": "twist",
+    "meaning": "～をひねる",
+    "example": "I twisted my ankle.",
+    "example_jp": "私は足首をひねった。"
+  },
+  {
+    "word": "skip",
+    "meaning": "～を抜かす（サボる）",
+    "example": "Don't skip breakfast.",
+    "example_jp": "朝食を抜かして（サボって）はいけない。"
+  },
+  {
+    "word": "expose",
+    "meaning": "～をさらす",
+    "example": "Don't expose the film to light.",
+    "example_jp": "フィルムを光にさらしてはいけない。"
+  },
+  {
+    "word": "expose",
+    "meaning": "～を暴露する",
+    "example": "He exposed the truth.",
+    "example_jp": "彼は真実を暴露した。"
+  },
+  {
+    "word": "stir",
+    "meaning": "～を混ぜる",
+    "example": "Stir the soup well.",
+    "example_jp": "スープをよく混ぜなさい。"
+  },
+  {
+    "word": "stir",
+    "meaning": "～を呼び覚ます",
+    "example": "The song stirred my memories.",
+    "example_jp": "その歌は私の記憶を呼び覚ました。"
+  }
+]

@@ -1,0 +1,1232 @@
+[
+  {
+    "word": "but",
+    "meaning": "しかし（逆接）",
+    "example": "I was tired, but I worked.",
+    "example_jp": "私は疲れていたが、働いた。"
+  },
+  {
+    "word": "however",
+    "meaning": "しかし（逆接）",
+    "example": "It was hot; however, he ran.",
+    "example_jp": "暑かった。しかし、彼は走った。"
+  },
+  {
+    "word": "yet",
+    "meaning": "しかし（それにもかかわらず）",
+    "example": "It was late, yet he stayed.",
+    "example_jp": "遅かったが、それでも（それにもかかわらず）彼は残った。"
+  },
+  {
+    "word": "nevertheless",
+    "meaning": "それでも（逆接）",
+    "example": "It was hard; nevertheless he tried.",
+    "example_jp": "それは大変だった。それでも彼はやってみた。"
+  },
+  {
+    "word": "still",
+    "meaning": "それでも（逆接）",
+    "example": "It was dark; still he walked.",
+    "example_jp": "暗かった。それでも彼は歩いた。"
+  },
+  {
+    "word": "conversely",
+    "meaning": "その反対に（対立）",
+    "example": "He is quiet; conversely, she is loud.",
+    "example_jp": "彼は静かだ。その反対に、彼女はにぎやかだ。"
+  },
+  {
+    "word": "instead",
+    "meaning": "それどころか（逆転）",
+    "example": "I wanted tea; instead I drank water.",
+    "example_jp": "お茶が欲しかった。それどころか（代わりに）私は水を飲んだ。"
+  },
+  {
+    "word": "rather",
+    "meaning": "むしろ（逆転）",
+    "example": "He didn’t stop; rather he ran faster.",
+    "example_jp": "彼は止まらなかった。むしろ、もっと速く走った。"
+  },
+  {
+    "word": "though",
+    "meaning": "〜だが（譲歩）",
+    "example": "Though it rained, we played.",
+    "example_jp": "雨が降ったが、私たちは遊んだ。"
+  },
+  {
+    "word": "although",
+    "meaning": "〜だが（譲歩）",
+    "example": "Although he was sick, he came.",
+    "example_jp": "彼は病気だったが、やって来た。"
+  },
+  {
+    "word": "even though",
+    "meaning": "〜にもかかわらず",
+    "example": "Even though it’s small, it’s useful.",
+    "example_jp": "それは小さいにもかかわらず、役に立つ。"
+  },
+  {
+    "word": "even if",
+    "meaning": "たとえ〜でも",
+    "example": "Even if it rains, I will go.",
+    "example_jp": "たとえ雨が降っても、私は行くだろう。"
+  },
+  {
+    "word": "while",
+    "meaning": "〜だが（対比）",
+    "example": "He is tall, while I am short.",
+    "example_jp": "彼は背が高いが（対照的に）、私は低い。"
+  },
+  {
+    "word": "as … as",
+    "meaning": "〜だが（譲歩）",
+    "example": "Tired as he was, he worked.",
+    "example_jp": "彼は疲れていたが、働いた。"
+  },
+  {
+    "word": "whether",
+    "meaning": "〜であろうと",
+    "example": "Whether you like it or not, we go.",
+    "example_jp": "あなたがそれを好きであろうとなかろうと、私たちは行く。"
+  },
+  {
+    "word": "whatever",
+    "meaning": "どんな〜でも",
+    "example": "Whatever he says, I don’t care.",
+    "example_jp": "彼がどんなことを言っても、私は気にしない。"
+  },
+  {
+    "word": "in spite of",
+    "meaning": "〜にもかかわらず",
+    "example": "In spite of the rain, we went.",
+    "example_jp": "雨にもかかわらず、私たちは行った。"
+  },
+  {
+    "word": "despite",
+    "meaning": "〜にもかかわらず",
+    "example": "Despite the noise, I slept.",
+    "example_jp": "騒音にもかかわらず、私は眠った。"
+  },
+  {
+    "word": "with all",
+    "meaning": "〜にもかかわらず",
+    "example": "With all his money, he is sad.",
+    "example_jp": "あれほどのお金を持っているにもかかわらず、彼は悲しんでいる。"
+  },
+  {
+    "word": "for all",
+    "meaning": "〜にもかかわらず",
+    "example": "For all his efforts, he failed.",
+    "example_jp": "あらゆる努力にもかかわらず、彼は失敗した。"
+  },
+  {
+    "word": "regardless of",
+    "meaning": "〜に関係なく",
+    "example": "Regardless of age, anyone can join.",
+    "example_jp": "年齢に関係なく、誰でも参加できる。"
+  },
+  {
+    "word": "even",
+    "meaning": "〜でさえ",
+    "example": "He is kind, even to strangers.",
+    "example_jp": "彼は見知らぬ人にさえ親切だ。"
+  },
+  {
+    "word": "while",
+    "meaning": "一方で（対比）",
+    "example": "He likes cats, while she likes dogs.",
+    "example_jp": "彼は猫が好きだが、一方で彼女は犬が好きだ。"
+  },
+  {
+    "word": "whereas",
+    "meaning": "一方で（対比）",
+    "example": "He is slow, whereas she is fast.",
+    "example_jp": "彼は遅いが、一方で彼女は速い。"
+  },
+  {
+    "word": "some … others",
+    "meaning": "ある人は〜他の人は…",
+    "example": "Some like tea; others like coffee.",
+    "example_jp": "お茶が好きな人もいれば、コーヒーが好きな人もいる。"
+  },
+  {
+    "word": "one … another",
+    "meaning": "一方は〜もう一方は…",
+    "example": "One is red; another is blue.",
+    "example_jp": "一つは赤で、もう一つは青だ。"
+  },
+  {
+    "word": "one … the other",
+    "meaning": "一方は〜他方は…",
+    "example": "One is big; the other is small.",
+    "example_jp": "一方は大きく、他方は小さい。"
+  },
+  {
+    "word": "the former … the latter",
+    "meaning": "前者〜後者",
+    "example": "The former is easy; the latter is hard.",
+    "example_jp": "前者は簡単だが、後者は難しい。"
+  },
+  {
+    "word": "on the other hand",
+    "meaning": "一方で",
+    "example": "He is shy; on the other hand, she is bold.",
+    "example_jp": "彼は内気だ。一方で彼女は大胆だ。"
+  },
+  {
+    "word": "meanwhile",
+    "meaning": "一方で",
+    "example": "I cooked; meanwhile, he cleaned.",
+    "example_jp": "私は料理をした。一方で、彼は掃除をした。"
+  },
+  {
+    "word": "on the contrary",
+    "meaning": "その反対に",
+    "example": "I’m not tired; on the contrary, I’m fine.",
+    "example_jp": "私は疲れていない。その反対に、元気だ。"
+  },
+  {
+    "word": "unlike",
+    "meaning": "〜とは違って",
+    "example": "Unlike him, she studies hard.",
+    "example_jp": "彼とは違って、彼女は一生懸命勉強する。"
+  },
+  {
+    "word": "at the same time",
+    "meaning": "同時に／一方で",
+    "example": "It’s hard; at the same time, it’s fun.",
+    "example_jp": "それは大変だが、同時に（一方で）楽しい。"
+  },
+  {
+    "word": "in contrast",
+    "meaning": "対照的に",
+    "example": "He is tall; in contrast, she is short.",
+    "example_jp": "彼は背が高い。対照的に、彼女は低い。"
+  },
+  {
+    "word": "compared to",
+    "meaning": "〜と比べて",
+    "example": "He is small compared to his brother.",
+    "example_jp": "兄と比べると、彼は小さい。"
+  },
+  {
+    "word": "not A but B",
+    "meaning": "AではなくB",
+    "example": "I want not tea but coffee.",
+    "example_jp": "私はお茶ではなく、コーヒーが欲しい。"
+  },
+  {
+    "word": "instead of A, B",
+    "meaning": "AではなくB",
+    "example": "Instead of tea, I drank coffee.",
+    "example_jp": "お茶の代わりに（お茶ではなく）、コーヒーを飲んだ。"
+  },
+  {
+    "word": "rather than A, B",
+    "meaning": "AではなくB",
+    "example": "Rather than wait, I left.",
+    "example_jp": "待つよりも（待つのではなく）、私は去った。"
+  },
+  {
+    "word": "on the contrary",
+    "meaning": "むしろ（逆転）",
+    "example": "He didn’t fail; on the contrary, he won.",
+    "example_jp": "彼は失敗しなかった。むしろ（それどころか）、彼は勝った。"
+  },
+  {
+    "word": "It is true … but",
+    "meaning": "たしかに〜だが",
+    "example": "It is true he is young, but he is strong.",
+    "example_jp": "たしかに彼は若いが、彼は力強い。"
+  },
+  {
+    "word": "To be sure … but",
+    "meaning": "たしかに〜だが",
+    "example": "To be sure it’s small, but it’s useful.",
+    "example_jp": "たしかにそれは小さいが、役に立つ。"
+  },
+  {
+    "word": "Certainly … but",
+    "meaning": "もちろん〜だが",
+    "example": "Certainly it’s hard, but I’ll try.",
+    "example_jp": "もちろんそれは大変だが、やってみるつもりだ。"
+  },
+  {
+    "word": "Indeed … but",
+    "meaning": "確かに〜だが",
+    "example": "Indeed he is rich, but he is not happy.",
+    "example_jp": "確かに彼は金持ちだが、幸せではない。"
+  },
+  {
+    "word": "Of course … but",
+    "meaning": "もちろん〜だが",
+    "example": "Of course I agree, but I’m busy.",
+    "example_jp": "もちろん同意するが、私は忙しい。"
+  },
+  {
+    "word": "No doubt … but",
+    "meaning": "確かに〜だが",
+    "example": "No doubt he is smart, but he is lazy.",
+    "example_jp": "確かに彼は賢いが、怠惰だ。"
+  },
+  {
+    "word": "S may V … but",
+    "meaning": "〜かもしれないが",
+    "example": "He may be slow, but he is careful.",
+    "example_jp": "彼は遅いかもしれないが、注意深い。"
+  },
+  {
+    "word": "It seems … but",
+    "meaning": "〜のようだが",
+    "example": "It seems easy, but it’s not.",
+    "example_jp": "簡単なようだが、そうではない。"
+  },
+  {
+    "word": "Yes … but",
+    "meaning": "確かに〜だが",
+    "example": "Yes it’s cheap, but it’s weak.",
+    "example_jp": "確かに安いが、もろい。"
+  },
+  {
+    "word": "S do V … but",
+    "meaning": "確かに〜するが",
+    "example": "I do like it, but it’s expensive.",
+    "example_jp": "確かにそれは好きだが、値段が高い。"
+  },
+  {
+    "word": "I am not saying … but",
+    "meaning": "〜と言うわけではないが",
+    "example": "I’m not saying he’s bad, but he is late.",
+    "example_jp": "彼が悪いと言っているわけではないが、彼は遅刻している。"
+  },
+  {
+    "word": "This is not to say … but",
+    "meaning": "〜ということではないが",
+    "example": "This is not to say he’s wrong, but he is slow.",
+    "example_jp": "彼が間違っているということではないが、彼は仕事が遅い。"
+  },
+  {
+    "word": "not always … but",
+    "meaning": "いつも〜とは限らないが",
+    "example": "It’s not always easy, but it’s fun.",
+    "example_jp": "いつも簡単だとは限らないが、それは楽しい。"
+  },
+  {
+    "word": "generally … but",
+    "meaning": "一般には〜だが",
+    "example": "Generally it’s safe, but not today.",
+    "example_jp": "一般には安全だが、今日は違う。"
+  },
+  {
+    "word": "commonly … but",
+    "meaning": "一般には〜だが",
+    "example": "Commonly it’s used, but not here.",
+    "example_jp": "一般的には使われているが、ここでは使われていない。"
+  },
+  {
+    "word": "on the whole … but",
+    "meaning": "概して〜だが",
+    "example": "On the whole it’s good, but a bit slow.",
+    "example_jp": "概して良いものだが、少し遅い。"
+  },
+  {
+    "word": "in many cases … but",
+    "meaning": "多くの場合〜だが",
+    "example": "In many cases it works, but not now.",
+    "example_jp": "多くの場合うまくいくが、今はダメだ。"
+  },
+  {
+    "word": "in most cases … but",
+    "meaning": "たいてい〜だが",
+    "example": "In most cases it’s true, but not always.",
+    "example_jp": "たいてい（ほとんどの場合）は本当だが、いつもとは限らない。"
+  },
+  {
+    "word": "typically … but",
+    "meaning": "典型的には〜だが",
+    "example": "Typically it’s easy, but this one is hard.",
+    "example_jp": "典型的には簡単だが、これは難しい。"
+  },
+  {
+    "word": "usually … but",
+    "meaning": "たいてい〜だが",
+    "example": "Usually he is kind, but today he is angry.",
+    "example_jp": "たいてい彼は親切だが、今日は怒っている。"
+  },
+  {
+    "word": "often … but",
+    "meaning": "しばしば〜だが",
+    "example": "Often it’s fine, but not today.",
+    "example_jp": "しばしば晴れるが、今日は晴れていない。"
+  },
+  {
+    "word": "sometimes … but",
+    "meaning": "時々〜だが",
+    "example": "Sometimes it’s fun, but sometimes not.",
+    "example_jp": "時々楽しいこともあるが、そうでない時もある。"
+  },
+  {
+    "word": "in theory … but",
+    "meaning": "理論上〜だが",
+    "example": "In theory it works, but not in practice.",
+    "example_jp": "理論上はうまくいくが、実際にはそうはいかない。"
+  },
+  {
+    "word": "at first … but",
+    "meaning": "最初は〜だが",
+    "example": "At first it was hard, but now it’s easy.",
+    "example_jp": "最初は大変だったが、今は簡単だ。"
+  },
+  {
+    "word": "initially … but",
+    "meaning": "最初は〜だが",
+    "example": "Initially he agreed, but later he left.",
+    "example_jp": "最初は彼は同意したが、後で立ち去った。"
+  },
+  {
+    "word": "at first glance … but",
+    "meaning": "一見〜だが",
+    "example": "At first glance it’s simple, but it’s not.",
+    "example_jp": "一見単純だが、実はそうではない。"
+  },
+  {
+    "word": "in other words",
+    "meaning": "言い換え（つまり）",
+    "example": "He is lazy; in other words, he never works.",
+    "example_jp": "彼は怠惰だ。言い換えれば（つまり）、彼は決して働かない。"
+  },
+  {
+    "word": "that is",
+    "meaning": "言い換え（すなわち）",
+    "example": "I need rest; that is, I need sleep.",
+    "example_jp": "私には休息が必要だ。すなわち、睡眠が必要なのだ。"
+  },
+  {
+    "word": "that is to say",
+    "meaning": "言い換え（すなわち）",
+    "example": "He left; that is to say, he quit.",
+    "example_jp": "彼は去った。すなわち、彼は辞めたのだ。"
+  },
+  {
+    "word": "：",
+    "meaning": "言い換え（すなわち）",
+    "example": "He has one goal: to win.",
+    "example_jp": "彼には一つの目標がある。すなわち、勝つことだ。"
+  },
+  {
+    "word": "—",
+    "meaning": "言い換え（すなわち）",
+    "example": "He has one fear — losing.",
+    "example_jp": "彼には一つの恐怖がある。すなわち、負けることだ。"
+  },
+  {
+    "word": "or",
+    "meaning": "言い換え（つまり）",
+    "example": "It is hard, or difficult.",
+    "example_jp": "それはハードだ、つまり難しい。"
+  },
+  {
+    "word": "i.e.",
+    "meaning": "言い換え（すなわち）",
+    "example": "He studies math, i.e., numbers.",
+    "example_jp": "彼は数学、すなわち数字を研究している。"
+  },
+  {
+    "word": "namely",
+    "meaning": "言い換え（すなわち）",
+    "example": "He met one person, namely Tom.",
+    "example_jp": "彼は一人の人物に会った。すなわちトムである。"
+  },
+  {
+    "word": "in short",
+    "meaning": "要約（要するに）",
+    "example": "In short, he failed.",
+    "example_jp": "要するに、彼は失敗した。"
+  },
+  {
+    "word": "in brief",
+    "meaning": "要約（手短に言えば）",
+    "example": "In brief, it was bad.",
+    "example_jp": "手短に言えば、それは良くなかった。"
+  },
+  {
+    "word": "in a word",
+    "meaning": "要約（ひと言で）",
+    "example": "In a word, he won.",
+    "example_jp": "ひと言で言えば、彼は勝った。"
+  },
+  {
+    "word": "strictly speaking",
+    "meaning": "厳密に言えば",
+    "example": "Strictly speaking, it is wrong.",
+    "example_jp": "厳密に言えば、それは間違っている。"
+  },
+  {
+    "word": "specifically",
+    "meaning": "具体的に言うと",
+    "example": "Specifically, I mean your plan.",
+    "example_jp": "具体的に言うと、私はあなたの計画のことを指している。"
+  },
+  {
+    "word": "It means that",
+    "meaning": "意味（〜を意味する）",
+    "example": "It means that he is right.",
+    "example_jp": "それは、彼が正しいということを意味する。"
+  },
+  {
+    "word": "in fact",
+    "meaning": "強調（実は）",
+    "example": "He looks young; in fact, he is 40.",
+    "example_jp": "彼は若く見えるが、実は40歳だ。"
+  },
+  {
+    "word": "indeed",
+    "meaning": "強調（実に）",
+    "example": "He is kind; indeed, he helps all.",
+    "example_jp": "彼は親切だ。実に、彼は全員を助けている。"
+  },
+  {
+    "word": "on the contrary",
+    "meaning": "逆の言い換え（それどころか）",
+    "example": "He is not weak; on the contrary, he is strong.",
+    "example_jp": "彼は弱くない。それどころか、彼は強い。"
+  },
+  {
+    "word": "for example",
+    "meaning": "例示（例えば）",
+    "example": "I like fruit, for example apples.",
+    "example_jp": "私は果物、例えばリンゴが好きだ。"
+  },
+  {
+    "word": "e.g.",
+    "meaning": "例示（例えば）",
+    "example": "I like sports, e.g., soccer.",
+    "example_jp": "私はスポーツ、例えばサッカーが好きだ。"
+  },
+  {
+    "word": "for instance",
+    "meaning": "例示（例えば）",
+    "example": "I like music, for instance jazz.",
+    "example_jp": "私は音楽、例えばジャズが好きだ。"
+  },
+  {
+    "word": "suppose",
+    "meaning": "例示（例えば）",
+    "example": "Suppose you lose your phone.",
+    "example_jp": "例えば、あなたが携帯電話を失くしたと仮定してみよう。"
+  },
+  {
+    "word": "say",
+    "meaning": "例示（例えば）",
+    "example": "Say you meet a stranger.",
+    "example_jp": "例えば、あなたが見知らぬ人に会ったと言ってみよう（仮定しよう）。"
+  },
+  {
+    "word": "including",
+    "meaning": "例示（〜を含めて）",
+    "example": "I like animals, including dogs.",
+    "example_jp": "私は、犬を含めて動物が好きだ。"
+  },
+  {
+    "word": "such as",
+    "meaning": "例示（〜のような）",
+    "example": "I like food such as rice.",
+    "example_jp": "私は米のような食べ物が好きだ。"
+  },
+  {
+    "word": "like",
+    "meaning": "例示（〜のような）",
+    "example": "I like colors like blue.",
+    "example_jp": "私は青のような色が好きだ。"
+  },
+  {
+    "word": "：",
+    "meaning": "例示（〜など）",
+    "example": "He has many hobbies: reading, music, games.",
+    "example_jp": "彼には読書、音楽、ゲームなど多くの趣味がある。"
+  },
+  {
+    "word": "take … as an example",
+    "meaning": "例示（例として）",
+    "example": "Take Japan as an example.",
+    "example_jp": "日本を例として挙げてみよう。"
+  },
+  {
+    "word": "in illustration of",
+    "meaning": "例証（〜の例として）",
+    "example": "In illustration of this, look at Japan.",
+    "example_jp": "これの例証として、日本を見てみなさい。"
+  },
+  {
+    "word": "needless to say",
+    "meaning": "言うまでもなく",
+    "example": "Needless to say, he was happy.",
+    "example_jp": "言うまでもなく、彼は幸せだった。"
+  },
+  {
+    "word": "not to mention",
+    "meaning": "言うまでもなく",
+    "example": "He is smart, not to mention kind.",
+    "example_jp": "彼は、親切であることは言うまでもなく、賢い。"
+  },
+  {
+    "word": "to say nothing of",
+    "meaning": "言うまでもなく",
+    "example": "He has money, to say nothing of time.",
+    "example_jp": "彼は、時間は言うまでもなく、お金も持っている。"
+  },
+  {
+    "word": "let alone",
+    "meaning": "まして〜はできない",
+    "example": "He can’t run, let alone swim.",
+    "example_jp": "彼は泳ぐことはおろか、走ることさえ（まして走ることさえ）できない。"
+  },
+  {
+    "word": "in particular",
+    "meaning": "特に",
+    "example": "I like fruit, in particular apples.",
+    "example_jp": "私は果物、特にリンゴが好きだ。"
+  },
+  {
+    "word": "especially",
+    "meaning": "特に",
+    "example": "I like music, especially pop.",
+    "example_jp": "私は音楽、特にポップスが好きだ。"
+  },
+  {
+    "word": "even",
+    "meaning": "極端な例（〜でさえ）",
+    "example": "Even a child knows that.",
+    "example_jp": "子供でさえそれを知っている。"
+  },
+  {
+    "word": "This is seen in",
+    "meaning": "例証（〜に見られる）",
+    "example": "This is seen in his work.",
+    "example_jp": "これは彼の作品の中に見られる。"
+  },
+  {
+    "word": "and",
+    "meaning": "追加（〜と）",
+    "example": "He ate and drank.",
+    "example_jp": "彼は食べて、そして飲んだ。"
+  },
+  {
+    "word": "also",
+    "meaning": "追加（〜もまた）",
+    "example": "She sings and also dances.",
+    "example_jp": "彼女は歌い、そしてまた踊る。"
+  },
+  {
+    "word": "too",
+    "meaning": "追加（〜もまた）",
+    "example": "I like it too.",
+    "example_jp": "私もそれが好きだ。"
+  },
+  {
+    "word": "moreover",
+    "meaning": "さらに",
+    "example": "It is cheap; moreover, it is safe.",
+    "example_jp": "それは安い。さらに、安全だ。"
+  },
+  {
+    "word": "furthermore",
+    "meaning": "さらに",
+    "example": "It is easy; furthermore, it is fun.",
+    "example_jp": "それは簡単だ。さらに、楽しい。"
+  },
+  {
+    "word": "what is more",
+    "meaning": "さらに",
+    "example": "He is kind; what is more, he is smart.",
+    "example_jp": "彼は親切だ。さらに、彼は賢い。"
+  },
+  {
+    "word": "besides",
+    "meaning": "そのうえ",
+    "example": "It is cold; besides, it is windy.",
+    "example_jp": "寒い。そのうえ、風が強い。"
+  },
+  {
+    "word": "additionally",
+    "meaning": "さらに",
+    "example": "It is small; additionally, it is light.",
+    "example_jp": "それは小さい。さらに、軽い。"
+  },
+  {
+    "word": "further",
+    "meaning": "さらに",
+    "example": "He worked hard; further, he helped us.",
+    "example_jp": "彼は一生懸命働いた。さらに、彼は私たちを助けてくれた。"
+  },
+  {
+    "word": "another",
+    "meaning": "もう一つの",
+    "example": "I need another pen.",
+    "example_jp": "もう一本の（もう一つの）ペンが必要だ。"
+  },
+  {
+    "word": "；",
+    "meaning": "追加（また）",
+    "example": "He is tall; he is fast.",
+    "example_jp": "彼は背が高い。また、彼は速い。"
+  },
+  {
+    "word": "on the top of",
+    "meaning": "〜に加えて",
+    "example": "He is strong on the top of being fast.",
+    "example_jp": "彼は速いことに加えて、力強い。"
+  },
+  {
+    "word": "in addition",
+    "meaning": "加えて",
+    "example": "He is smart; in addition, he is polite.",
+    "example_jp": "彼は賢い。加えて、彼は礼儀正しい。"
+  },
+  {
+    "word": "in addition to",
+    "meaning": "〜に加えて",
+    "example": "In addition to tea, I bought coffee.",
+    "example_jp": "お茶に加えて、コーヒーを買った。"
+  },
+  {
+    "word": "as well as",
+    "meaning": "〜もまた",
+    "example": "He plays piano as well as guitar.",
+    "example_jp": "彼はギターだけでなく（もまた）ピアノも弾く。"
+  },
+  {
+    "word": "not only A but also B",
+    "meaning": "AだけでなくBも",
+    "example": "He is not only tall but also strong.",
+    "example_jp": "彼は背が高いだけでなく、力も強い。"
+  },
+  {
+    "word": "not A alone but also B",
+    "meaning": "AだけでなくBも",
+    "example": "He alone is not wrong but also you.",
+    "example_jp": "彼だけでななく、あなたも間違っている。"
+  },
+  {
+    "word": "more importantly",
+    "meaning": "さらに重要なことに",
+    "example": "He is kind; more importantly, he is honest.",
+    "example_jp": "彼は親切だ。さらに重要なことに、彼は正直だ。"
+  },
+  {
+    "word": "equally important",
+    "meaning": "同様に重要",
+    "example": "Safety is important; equally important is trust.",
+    "example_jp": "安全は重要だ。同様に重要なのは信頼である。"
+  },
+  {
+    "word": "not to mention",
+    "meaning": "言うまでもなく",
+    "example": "He is rich, not to mention famous.",
+    "example_jp": "彼は有名であることは言うまでもなく、金持ちだ。"
+  },
+  {
+    "word": "even",
+    "meaning": "〜でさえ",
+    "example": "Even a child knows this.",
+    "example_jp": "子供でさえこれを知っている。"
+  },
+  {
+    "word": "at the same time",
+    "meaning": "同時に／加えて",
+    "example": "It is hard; at the same time, it is fun.",
+    "example_jp": "それは大変だが、同時に楽しい。"
+  },
+  {
+    "word": "additional",
+    "meaning": "追加の",
+    "example": "We need additional help.",
+    "example_jp": "私たちは追加の助けを必要としている。"
+  },
+  {
+    "word": "first",
+    "meaning": "第1に",
+    "example": "First, wash your hands.",
+    "example_jp": "第1に、手を洗いなさい。"
+  },
+  {
+    "word": "firstly",
+    "meaning": "第1に",
+    "example": "Firstly, we need money.",
+    "example_jp": "第1に、私たちはお金が必要だ。"
+  },
+  {
+    "word": "first of all",
+    "meaning": "まず第一に",
+    "example": "First of all, listen.",
+    "example_jp": "まず第一に、聞きなさい。"
+  },
+  {
+    "word": "in the first place",
+    "meaning": "そもそも",
+    "example": "In the first place, it was wrong.",
+    "example_jp": "そもそも、それは間違っていた。"
+  },
+  {
+    "word": "to begin with",
+    "meaning": "まず初めに",
+    "example": "To begin with, we need a plan.",
+    "example_jp": "まず初めに、計画が必要だ。"
+  },
+  {
+    "word": "to start with",
+    "meaning": "まず初めに",
+    "example": "To start with, check the list.",
+    "example_jp": "まず初めに、リストをチェックしなさい。"
+  },
+  {
+    "word": "second",
+    "meaning": "第2に",
+    "example": "Second, open the box.",
+    "example_jp": "第2に、箱を開けなさい。"
+  },
+  {
+    "word": "secondly",
+    "meaning": "第2に",
+    "example": "Secondly, read the note.",
+    "example_jp": "第2に、メモを読みなさい。"
+  },
+  {
+    "word": "in the second place",
+    "meaning": "第2に",
+    "example": "In the second place, it is slow.",
+    "example_jp": "第2に、それは遅い。"
+  },
+  {
+    "word": "next",
+    "meaning": "次に",
+    "example": "Next, cut the paper.",
+    "example_jp": "次に、紙を切りなさい。"
+  },
+  {
+    "word": "then",
+    "meaning": "それから",
+    "example": "Mix it, then cook it.",
+    "example_jp": "混ぜなさい、それからそれを調理しなさい。"
+  },
+  {
+    "word": "last",
+    "meaning": "最後に",
+    "example": "Last, close the door.",
+    "example_jp": "最後に、ドアを閉めなさい。"
+  },
+  {
+    "word": "lastly",
+    "meaning": "最後に",
+    "example": "Lastly, say goodbye.",
+    "example_jp": "最後に、さようならを言いなさい。"
+  },
+  {
+    "word": "finally",
+    "meaning": "最後に",
+    "example": "Finally, we finished.",
+    "example_jp": "最後に（ついに）、私たちは終えた。"
+  },
+  {
+    "word": "last but not least",
+    "meaning": "最後に大事なこと",
+    "example": "Last but not least, thank you.",
+    "example_jp": "最後に大事なことですが、ありがとうございました。"
+  },
+  {
+    "word": "some … others",
+    "meaning": "ある人は〜他の人は",
+    "example": "Some like tea; others like coffee.",
+    "example_jp": "お茶が好きな人もいれば、コーヒーが好きな人もいる。"
+  },
+  {
+    "word": "one … another",
+    "meaning": "一つは〜もう一つは",
+    "example": "One is red; another is blue.",
+    "example_jp": "一つは赤で、もう一つは青だ。"
+  },
+  {
+    "word": "one … the others",
+    "meaning": "一つは〜残りは",
+    "example": "One is big; the others are small.",
+    "example_jp": "一つは大きく、残りは小さい。"
+  },
+  {
+    "word": "like",
+    "meaning": "〜のように",
+    "example": "He runs like a cat.",
+    "example_jp": "彼は猫のように走る。"
+  },
+  {
+    "word": "just like",
+    "meaning": "ちょうど〜のように",
+    "example": "She sings just like her mother.",
+    "example_jp": "彼女はちょうど母親のように歌う。"
+  },
+  {
+    "word": "just as",
+    "meaning": "ちょうど〜のように",
+    "example": "Just as he came, it rained.",
+    "example_jp": "ちょうど彼が来た時、雨が降った。"
+  },
+  {
+    "word": "similarly",
+    "meaning": "同様に",
+    "example": "He is tall; similarly, his brother is tall.",
+    "example_jp": "彼は背が高い。同様に彼の兄も背が高い。"
+  },
+  {
+    "word": "equally",
+    "meaning": "同様に",
+    "example": "She is smart; equally, she is kind.",
+    "example_jp": "彼女は賢い。同様に彼女は親切だ。"
+  },
+  {
+    "word": "likewise",
+    "meaning": "同様に",
+    "example": "He helped me; likewise, I helped him.",
+    "example_jp": "彼は私を助けてくれた。同様に私も彼を助けた。"
+  },
+  {
+    "word": "in the same way",
+    "meaning": "同様に",
+    "example": "She studies hard; in the same way, he studies.",
+    "example_jp": "彼女は一生懸命勉強する。同様に彼も勉強する。"
+  },
+  {
+    "word": "parallel to",
+    "meaning": "〜と同様に／平行して",
+    "example": "His plan is parallel to mine.",
+    "example_jp": "彼の計画は私のものと同様である。"
+  },
+  {
+    "word": "because",
+    "meaning": "原因（〜だから）",
+    "example": "I stayed home because it rained.",
+    "example_jp": "雨が降ったから、私は家にいた。"
+  },
+  {
+    "word": "as",
+    "meaning": "原因（〜なので）",
+    "example": "As it was late, we left.",
+    "example_jp": "遅かったので、私たちは出発した。"
+  },
+  {
+    "word": "since",
+    "meaning": "原因（〜なので）",
+    "example": "Since you are here, let’s start.",
+    "example_jp": "あなたがここにいるので、始めましょう。"
+  },
+  {
+    "word": "now that",
+    "meaning": "原因（今や〜なので）",
+    "example": "Now that he is here, we can begin.",
+    "example_jp": "今や彼がここにいるので、私たちは始めることができる。"
+  },
+  {
+    "word": "for",
+    "meaning": "理由（〜だから）",
+    "example": "I left early, for I was tired.",
+    "example_jp": "私は疲れていたから、早く出発した。"
+  },
+  {
+    "word": "after all",
+    "meaning": "理由（なにしろ〜だから）",
+    "example": "He stayed; after all, he was sick.",
+    "example_jp": "彼は残った。なにしろ彼は病気だったからだ。"
+  },
+  {
+    "word": "because of",
+    "meaning": "原因（〜のため）",
+    "example": "The game stopped because of rain.",
+    "example_jp": "雨のため、試合は中断した。"
+  },
+  {
+    "word": "due to",
+    "meaning": "原因（〜のため）",
+    "example": "The bus was late due to snow.",
+    "example_jp": "雪のため、バスは遅れた。"
+  },
+  {
+    "word": "on account of",
+    "meaning": "原因（〜のため）",
+    "example": "We stayed home on account of the storm.",
+    "example_jp": "嵐のため、私たちは家にいた。"
+  },
+  {
+    "word": "owing to",
+    "meaning": "原因（〜のため）",
+    "example": "Owing to the noise, I woke up.",
+    "example_jp": "騒音のため、私は目が覚めた。"
+  },
+  {
+    "word": "The reason is that",
+    "meaning": "理由（理由は〜）",
+    "example": "The reason is that he was sick.",
+    "example_jp": "理由は、彼が病気だったからだ。"
+  },
+  {
+    "word": "This is because",
+    "meaning": "理由（これは〜だからだ）",
+    "example": "He left. This is because he was tired.",
+    "example_jp": "彼は去った。これは彼が疲れていたからだ。"
+  },
+  {
+    "word": "as a result of",
+    "meaning": "結果（〜の結果）",
+    "example": "As a result of the rain, the game ended.",
+    "example_jp": "雨の結果、試合は終わった。"
+  },
+  {
+    "word": "This is evidenced by",
+    "meaning": "根拠（〜が示すように）",
+    "example": "He works hard, as is evidenced by his success.",
+    "example_jp": "彼の成功が示すように、彼は一生懸命働いている。"
+  },
+  {
+    "word": "seeing that",
+    "meaning": "理由（〜なので）",
+    "example": "Seeing that it’s late, let’s go.",
+    "example_jp": "遅いようなので（なので）、行きましょう。"
+  },
+  {
+    "word": "so",
+    "meaning": "結果（だから）",
+    "example": "It rained, so we stayed in.",
+    "example_jp": "雨が降った、だから私たちは中にいた。"
+  },
+  {
+    "word": "therefore",
+    "meaning": "結果（ゆえに）",
+    "example": "It was late; therefore we left.",
+    "example_jp": "遅かった、ゆえに私たちは出発した。"
+  },
+  {
+    "word": "thus",
+    "meaning": "結果（よって）",
+    "example": "He was sick; thus he stayed home.",
+    "example_jp": "彼は病気だった、よって彼は家にいた。"
+  },
+  {
+    "word": "hence",
+    "meaning": "結果（だから）",
+    "example": "It was cold; hence the fire.",
+    "example_jp": "寒かった、だから火（を焚いた）。"
+  },
+  {
+    "word": "consequently",
+    "meaning": "結果（その結果）",
+    "example": "It snowed; consequently school closed.",
+    "example_jp": "雪が降った。その結果、学校は休みになった。"
+  },
+  {
+    "word": "accordingly",
+    "meaning": "結果（それに応じて）",
+    "example": "It was full; accordingly we waited.",
+    "example_jp": "満員だった、それに応じて私たちは待った。"
+  },
+  {
+    "word": "as a result",
+    "meaning": "結果（その結果）",
+    "example": "It broke; as a result we stopped.",
+    "example_jp": "それは壊れた。その結果、私たちは中止した。"
+  },
+  {
+    "word": "as a consequence",
+    "meaning": "結果（その結果）",
+    "example": "It failed; as a consequence we tried again.",
+    "example_jp": "それは失敗した。その結果、私たちはもう一度試みた。"
+  },
+  {
+    "word": "in consequence",
+    "meaning": "結果（その結果）",
+    "example": "It was dark; in consequence he fell.",
+    "example_jp": "暗かった。その結果、彼は転んだ。"
+  },
+  {
+    "word": "This is why",
+    "meaning": "結果（だから〜）",
+    "example": "He was sick. This is why he stayed home.",
+    "example_jp": "彼は病気だった。だから彼は家にいたのだ。"
+  },
+  {
+    "word": "so that",
+    "meaning": "結果（その結果）",
+    "example": "It rained, so that we stayed inside.",
+    "example_jp": "雨が降った。その結果、私たちは室内にいた。"
+  },
+  {
+    "word": "so … that",
+    "meaning": "結果（とても〜なので）",
+    "example": "It was so cold that I stayed home.",
+    "example_jp": "とても寒かったので、私は家にいた。"
+  },
+  {
+    "word": "such … that",
+    "meaning": "結果（とても〜なので）",
+    "example": "It was such a storm that we stayed home.",
+    "example_jp": "とても激しい嵐だったので、私たちは家にいた。"
+  },
+  {
+    "word": "This indicates that",
+    "meaning": "示す（〜を示している）",
+    "example": "This indicates that he is right.",
+    "example_jp": "このことは、彼が正しいということを示している。"
+  },
+  {
+    "word": "cause",
+    "meaning": "原因→結果（引き起こす）",
+    "example": "The rain caused a delay.",
+    "example_jp": "雨が遅れを引き起こした。"
+  },
+  {
+    "word": "be caused by",
+    "meaning": "結果←原因（〜によって）",
+    "example": "The delay was caused by rain.",
+    "example_jp": "遅れは雨によって引き起こされた。"
+  },
+  {
+    "word": "result in",
+    "meaning": "原因→結果（〜の結果〜になる）",
+    "example": "His plan resulted in success.",
+    "example_jp": "彼の計画は成功という結果になった。"
+  },
+  {
+    "word": "result from",
+    "meaning": "結果←原因（〜から生じる）",
+    "example": "The problem resulted from a mistake.",
+    "example_jp": "その問題は間違いから生じた。"
+  },
+  {
+    "word": "bring about",
+    "meaning": "原因→結果（もたらす）",
+    "example": "His idea brought about change.",
+    "example_jp": "彼の考えが変化をもたらした。"
+  },
+  {
+    "word": "lead to",
+    "meaning": "原因→結果（〜につながる）",
+    "example": "Hard work leads to success.",
+    "example_jp": "一生懸命に働くことは成功につながる。"
+  },
+  {
+    "word": "contribute to",
+    "meaning": "原因→結果（〜の一因となる）",
+    "example": "Stress contributes to illness.",
+    "example_jp": "ストレスは病気の一因となる。"
+  },
+  {
+    "word": "in conclusion",
+    "meaning": "結論（結論として）",
+    "example": "In conclusion, we must act.",
+    "example_jp": "結論として、私たちは行動しなければならない。"
+  },
+  {
+    "word": "to conclude",
+    "meaning": "結論（まとめると）",
+    "example": "To conclude, this is true.",
+    "example_jp": "まとめると（結論を言えば）、これは本当だ。"
+  },
+  {
+    "word": "to summarize",
+    "meaning": "結論（要するに）",
+    "example": "To summarize, he won.",
+    "example_jp": "要するに、彼は勝った。"
+  },
+  {
+    "word": "to sum up",
+    "meaning": "結論（要するに）",
+    "example": "To sum up, it was good.",
+    "example_jp": "要するに、それは良かった。"
+  },
+  {
+    "word": "in summary",
+    "meaning": "結論（まとめ）",
+    "example": "In summary, we agree.",
+    "example_jp": "まとめとして、私たちは同意する。"
+  },
+  {
+    "word": "in short",
+    "meaning": "要約（要するに）",
+    "example": "In short, he quit.",
+    "example_jp": "要するに、彼は辞めた。"
+  },
+  {
+    "word": "in brief",
+    "meaning": "要約（手短に）",
+    "example": "In brief, it failed.",
+    "example_jp": "手短に言えば、それは失敗した。"
+  },
+  {
+    "word": "in a word",
+    "meaning": "要約（ひと言で）",
+    "example": "In a word, no.",
+    "example_jp": "ひと言で言えば、ノーだ。"
+  },
+  {
+    "word": "all in all",
+    "meaning": "全体として",
+    "example": "All in all, it was fine.",
+    "example_jp": "全体として、それは良かった。"
+  },
+  {
+    "word": "eventually",
+    "meaning": "結局（最後には）",
+    "example": "He tried; eventually he won.",
+    "example_jp": "彼は挑戦した。そして結局最後には勝った。"
+  },
+  {
+    "word": "ultimately",
+    "meaning": "結局（最終的に）",
+    "example": "He worked; ultimately he succeeded.",
+    "example_jp": "彼は働いた。そして最終的に成功した。"
+  },
+  {
+    "word": "in any event",
+    "meaning": "ともかく",
+    "example": "In any event, we must go.",
+    "example_jp": "ともかく、私たちは行かなければならない。"
+  },
+  {
+    "word": "in closing",
+    "meaning": "締めくくりに",
+    "example": "In closing, thank you.",
+    "example_jp": "締めくくりに、ありがとうございました。"
+  },
+  {
+    "word": "in the end",
+    "meaning": "結局（最後には）",
+    "example": "In the end, he left.",
+    "example_jp": "結局（最後には）、彼は去った。"
+  },
+  {
+    "word": "in the long run",
+    "meaning": "長い目で見れば",
+    "example": "In the long run, it helps.",
+    "example_jp": "長い目で見れば、それは助けになる。"
+  },
+  {
+    "word": "it follows that",
+    "meaning": "〜という結果になる",
+    "example": "It follows that he is right.",
+    "example_jp": "（論理の結果として）彼は正しいということになる。"
+  },
+  {
+    "word": "overall",
+    "meaning": "全体的に",
+    "example": "Overall, it was good.",
+    "example_jp": "全体的に、それは良かった。"
+  },
+  {
+    "word": "taken together",
+    "meaning": "総合すれば",
+    "example": "Taken together, the facts show this.",
+    "example_jp": "それらを総合すれば、事実はこれを示している。"
+  },
+  {
+    "word": "above all",
+    "meaning": "何よりも",
+    "example": "Above all, be kind.",
+    "example_jp": "何よりも、親切でありなさい。"
+  }
+]

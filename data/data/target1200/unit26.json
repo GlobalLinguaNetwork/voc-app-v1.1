@@ -1,0 +1,356 @@
+[
+  {
+    "word": "cloth",
+    "meaning": "布",
+    "example": "This cloth is soft.",
+    "example_jp": "この布は柔らかい。"
+  },
+  {
+    "word": "cloth",
+    "meaning": "布地",
+    "example": "The cloth is blue.",
+    "example_jp": "その布地は青い。"
+  },
+  {
+    "word": "paper",
+    "meaning": "紙",
+    "example": "I write on paper.",
+    "example_jp": "私は紙の上に書く。"
+  },
+  {
+    "word": "iron",
+    "meaning": "鉄",
+    "example": "This tool is made of iron.",
+    "example_jp": "この道具は鉄でできている。"
+  },
+  {
+    "word": "iron",
+    "meaning": "鉄分",
+    "example": "This food has iron.",
+    "example_jp": "この食べ物には鉄分が含まれている。"
+  },
+  {
+    "word": "audience",
+    "meaning": "聴衆",
+    "example": "The audience claps loudly.",
+    "example_jp": "聴衆が大きな音で拍手する。"
+  },
+  {
+    "word": "audience",
+    "meaning": "観客",
+    "example": "A large audience watches the show.",
+    "example_jp": "大勢の観客がそのショーを見る。"
+  },
+  {
+    "word": "police",
+    "meaning": "警察官",
+    "example": "The police arrive quickly.",
+    "example_jp": "警察官がすぐに到着する。"
+  },
+  {
+    "word": "staff",
+    "meaning": "スタッフ",
+    "example": "The staff are kind.",
+    "example_jp": "スタッフは親切だ。"
+  },
+  {
+    "word": "staff",
+    "meaning": "職員",
+    "example": "The staff help customers.",
+    "example_jp": "職員が客を助ける。"
+  },
+  {
+    "word": "furniture",
+    "meaning": "家具",
+    "example": "The room has new furniture.",
+    "example_jp": "部屋には新しい家具がある。"
+  },
+  {
+    "word": "stuff",
+    "meaning": "物",
+    "example": "I have a lot of stuff.",
+    "example_jp": "私はたくさんの物を持っている。"
+  },
+  {
+    "word": "baggage",
+    "meaning": "手荷物",
+    "example": "I carry heavy baggage.",
+    "example_jp": "私は重い手荷物を運ぶ。"
+  },
+  {
+    "word": "information",
+    "meaning": "情報",
+    "example": "I need more information.",
+    "example_jp": "私はもっと多くの情報を必要とする。"
+  },
+  {
+    "word": "ability",
+    "meaning": "能力",
+    "example": "She has the ability to sing well.",
+    "example_jp": "彼女は上手に歌う能力がある。"
+  },
+  {
+    "word": "advice",
+    "meaning": "助言",
+    "example": "He gives me good advice.",
+    "example_jp": "彼は私に良い助言をくれる。"
+  },
+  {
+    "word": "beauty",
+    "meaning": "美しさ",
+    "example": "The beauty of the lake surprises me.",
+    "example_jp": "湖の美しさは私を驚かせる。"
+  },
+  {
+    "word": "death",
+    "meaning": "死",
+    "example": "His death is sad news.",
+    "example_jp": "彼の死は悲しいニュースだ。"
+  },
+  {
+    "word": "freedom",
+    "meaning": "自由",
+    "example": "We enjoy freedom.",
+    "example_jp": "私たちは自由を楽しむ。"
+  },
+  {
+    "word": "peace",
+    "meaning": "平和",
+    "example": "We hope for peace.",
+    "example_jp": "私たちは平和を望む。"
+  },
+  {
+    "word": "customer",
+    "meaning": "客",
+    "example": "The customer buys a book.",
+    "example_jp": "客が本を買う。"
+  },
+  {
+    "word": "guest",
+    "meaning": "招待客",
+    "example": "The guest arrives at noon.",
+    "example_jp": "招待客が正午に到着する。"
+  },
+  {
+    "word": "habit",
+    "meaning": "習慣",
+    "example": "He has a habit of reading.",
+    "example_jp": "彼には読書の習慣がある。"
+  },
+  {
+    "word": "custom",
+    "meaning": "慣習",
+    "example": "This is a Japanese custom.",
+    "example_jp": "これは日本の慣習だ。"
+  },
+  {
+    "word": "fee",
+    "meaning": "料金",
+    "example": "The entrance fee is 500 yen.",
+    "example_jp": "入場料金は500円だ。"
+  },
+  {
+    "word": "fare",
+    "meaning": "運賃",
+    "example": "The bus fare is cheap.",
+    "example_jp": "バスの運賃は安い。"
+  },
+  {
+    "word": "appointment",
+    "meaning": "約束",
+    "example": "I have an appointment at 3.",
+    "example_jp": "私は3時に約束がある。"
+  },
+  {
+    "word": "appointment",
+    "meaning": "予約",
+    "example": "I make a doctor’s appointment.",
+    "example_jp": "私は医者の予約をする。"
+  },
+  {
+    "word": "idea",
+    "meaning": "考え",
+    "example": "I have a good idea.",
+    "example_jp": "私には良い考えがある。"
+  },
+  {
+    "word": "fact",
+    "meaning": "事実",
+    "example": "It is a fact.",
+    "example_jp": "それは事実だ。"
+  },
+  {
+    "word": "feeling",
+    "meaning": "気持ち",
+    "example": "I tell you my feelings.",
+    "example_jp": "私はあなたに自分の気持ちを伝える。"
+  },
+  {
+    "word": "evidence",
+    "meaning": "証拠",
+    "example": "They find new evidence.",
+    "example_jp": "彼らは新しい証拠を見つける。"
+  },
+  {
+    "word": "other",
+    "meaning": "もう一方",
+    "example": "I choose the other one.",
+    "example_jp": "私はもう一方のものを選ぶ。"
+  },
+  {
+    "word": "another",
+    "meaning": "別の物",
+    "example": "I want another cup.",
+    "example_jp": "私は別のコップが欲しい。"
+  },
+  {
+    "word": "each",
+    "meaning": "それぞれ",
+    "example": "Each student has a book.",
+    "example_jp": "それぞれの学生が本を持っている。"
+  },
+  {
+    "word": "both",
+    "meaning": "両方",
+    "example": "Both answers are correct.",
+    "example_jp": "両方の答えが正しい。"
+  },
+  {
+    "word": "either",
+    "meaning": "どちらでも",
+    "example": "Either way is fine.",
+    "example_jp": "どちらの道でも良い。"
+  },
+  {
+    "word": "neither",
+    "meaning": "どちらも…ない",
+    "example": "Neither answer is right.",
+    "example_jp": "どちらの答えも正しくない。"
+  },
+  {
+    "word": "none",
+    "meaning": "誰も…ない",
+    "example": "None of them know it.",
+    "example_jp": "彼らの誰もそれを知らない。"
+  },
+  {
+    "word": "something",
+    "meaning": "何か",
+    "example": "I hear something.",
+    "example_jp": "私は何かを聞く。"
+  },
+  {
+    "word": "anything",
+    "meaning": "何も〜ない",
+    "example": "I don’t know anything.",
+    "example_jp": "私は何も知らない。"
+  },
+  {
+    "word": "anything",
+    "meaning": "何か",
+    "example": "Do you want anything?",
+    "example_jp": "何か欲しいですか？"
+  },
+  {
+    "word": "anything",
+    "meaning": "何でも",
+    "example": "You can choose anything.",
+    "example_jp": "あなたは何でも選ぶことができる。"
+  },
+  {
+    "word": "nothing",
+    "meaning": "何も〜ない",
+    "example": "Nothing happens.",
+    "example_jp": "何も起こらない。"
+  },
+  {
+    "word": "everything",
+    "meaning": "すべての物",
+    "example": "Everything is ready.",
+    "example_jp": "すべての物の準備ができている。"
+  },
+  {
+    "word": "everyone",
+    "meaning": "みんな",
+    "example": "Everyone is here.",
+    "example_jp": "みんなここにいる。"
+  },
+  {
+    "word": "someone",
+    "meaning": "誰か",
+    "example": "Someone calls me.",
+    "example_jp": "誰かが私を呼ぶ。"
+  },
+  {
+    "word": "anyone",
+    "meaning": "誰でも",
+    "example": "Anyone can join.",
+    "example_jp": "誰でも参加できる。"
+  },
+  {
+    "word": "anyone",
+    "meaning": "誰も〜ない",
+    "example": "I don’t know anyone here.",
+    "example_jp": "私はここで誰も知らない。"
+  },
+  {
+    "word": "nobody",
+    "meaning": "誰も〜ない",
+    "example": "Nobody knows the answer.",
+    "example_jp": "誰も答えを知らない。"
+  },
+  {
+    "word": "main",
+    "meaning": "主な",
+    "example": "This is the main point.",
+    "example_jp": "これが主な要点だ。"
+  },
+  {
+    "word": "daily",
+    "meaning": "毎日の",
+    "example": "This is my daily routine.",
+    "example_jp": "これは私の毎日のルーチンだ。"
+  },
+  {
+    "word": "alone",
+    "meaning": "ただ１人で",
+    "example": "He lives alone.",
+    "example_jp": "彼はただ1人で住んでいる。"
+  },
+  {
+    "word": "aware",
+    "meaning": "気づいて",
+    "example": "I am aware of the danger.",
+    "example_jp": "私は危険に気づいている。"
+  },
+  {
+    "word": "awake",
+    "meaning": "目が覚めて",
+    "example": "I am awake now.",
+    "example_jp": "私は今目が覚めている。"
+  },
+  {
+    "word": "asleep",
+    "meaning": "眠って",
+    "example": "He is asleep.",
+    "example_jp": "彼は眠っている。"
+  },
+  {
+    "word": "alive",
+    "meaning": "生きている",
+    "example": "The fish is still alive.",
+    "example_jp": "その魚はまだ生きている。"
+  },
+  {
+    "word": "alike",
+    "meaning": "似ている",
+    "example": "The twins look alike.",
+    "example_jp": "その双子は似ている。"
+  },
+  {
+    "word": "alike",
+    "meaning": "同様な",
+    "example": "They have alike ideas.",
+    "example_jp": "彼らは同様な考えを持っている。"
+  }
+]

@@ -1,0 +1,638 @@
+[
+  {
+    "word": "Christian",
+    "meaning": "キリスト教徒",
+    "example": "He is a Christian.",
+    "example_jp": "彼はキリスト教徒だ。"
+  },
+  {
+    "word": "Christian",
+    "meaning": "キリスト教の",
+    "example": "Christian culture spread widely.",
+    "example_jp": "キリスト教の文化が広く普及した。"
+  },
+  {
+    "word": "stiff",
+    "meaning": "凝った",
+    "example": "My neck is stiff.",
+    "example_jp": "首が凝っている。"
+  },
+  {
+    "word": "stiff",
+    "meaning": "固い",
+    "example": "The material is stiff.",
+    "example_jp": "その素材は固い。"
+  },
+  {
+    "word": "solid",
+    "meaning": "しっかりした",
+    "example": "The building has a solid structure.",
+    "example_jp": "その建物はしっかりした構造をしている。"
+  },
+  {
+    "word": "solid",
+    "meaning": "固体の",
+    "example": "Water becomes solid at 0°C.",
+    "example_jp": "水は0度で固体の状態（氷）になる。"
+  },
+  {
+    "word": "solid",
+    "meaning": "固い",
+    "example": "The rock is solid.",
+    "example_jp": "その岩は固い。"
+  },
+  {
+    "word": "solid",
+    "meaning": "固体",
+    "example": "Ice is a solid.",
+    "example_jp": "氷は固体だ。"
+  },
+  {
+    "word": "liquid",
+    "meaning": "液体",
+    "example": "Water is a liquid.",
+    "example_jp": "水は液体だ。"
+  },
+  {
+    "word": "liquid",
+    "meaning": "液体の",
+    "example": "The liquid spilled.",
+    "example_jp": "その液体のものがこぼれた。"
+  },
+  {
+    "word": "cover",
+    "meaning": "覆う",
+    "example": "Snow covered the ground.",
+    "example_jp": "雪が地面を覆った。"
+  },
+  {
+    "word": "cover",
+    "meaning": "わたる",
+    "example": "The book covers many topics.",
+    "example_jp": "その本は多くの話題にわたっている。"
+  },
+  {
+    "word": "cover",
+    "meaning": "カバー",
+    "example": "The cover is blue.",
+    "example_jp": "カバーは青色だ。"
+  },
+  {
+    "word": "cover",
+    "meaning": "表紙",
+    "example": "The magazine cover is colorful.",
+    "example_jp": "雑誌の表紙はカラフルだ。"
+  },
+  {
+    "word": "disguise",
+    "meaning": "変装させる",
+    "example": "He disguised himself as a doctor.",
+    "example_jp": "彼は自分を医者に変装させた。"
+  },
+  {
+    "word": "disguise",
+    "meaning": "隠す",
+    "example": "She disguised her feelings.",
+    "example_jp": "彼女は自分の感情を隠した。"
+  },
+  {
+    "word": "disguise",
+    "meaning": "変装",
+    "example": "His disguise was perfect.",
+    "example_jp": "彼の変装は完璧だった。"
+  },
+  {
+    "word": "disguise",
+    "meaning": "見せかけ",
+    "example": "It was only a disguise.",
+    "example_jp": "それは単なる見せかけにすぎなかった。"
+  },
+  {
+    "word": "conceal",
+    "meaning": "隠す",
+    "example": "He concealed the truth.",
+    "example_jp": "彼は真実を隠した。"
+  },
+  {
+    "word": "uncover",
+    "meaning": "暴露する",
+    "example": "They uncovered the secret.",
+    "example_jp": "彼らは秘密を暴露した。"
+  },
+  {
+    "word": "undergo",
+    "meaning": "受ける",
+    "example": "He underwent surgery.",
+    "example_jp": "彼は手術を受けた。"
+  },
+  {
+    "word": "undergo",
+    "meaning": "経験する",
+    "example": "She underwent many hardships.",
+    "example_jp": "彼女は多くの苦難を経験した。"
+  },
+  {
+    "word": "craft",
+    "meaning": "技術",
+    "example": "She learned the craft of pottery.",
+    "example_jp": "彼女は陶芸の技術を学んだ。"
+  },
+  {
+    "word": "craft",
+    "meaning": "工芸",
+    "example": "He sells handmade crafts.",
+    "example_jp": "彼は手作りの工芸品を売っている。"
+  },
+  {
+    "word": "sculpture",
+    "meaning": "彫刻",
+    "example": "The museum displays sculptures.",
+    "example_jp": "美術館は彫刻を展示している。"
+  },
+  {
+    "word": "masterpiece",
+    "meaning": "傑作",
+    "example": "This painting is a masterpiece.",
+    "example_jp": "この絵画は傑作だ。"
+  },
+  {
+    "word": "print",
+    "meaning": "印刷する",
+    "example": "They printed the document.",
+    "example_jp": "彼らは書類を印刷した。"
+  },
+  {
+    "word": "print",
+    "meaning": "出版する",
+    "example": "The company prints books.",
+    "example_jp": "その会社は本を出版している。"
+  },
+  {
+    "word": "print",
+    "meaning": "印刷",
+    "example": "The print is clear.",
+    "example_jp": "印刷が鮮明だ。"
+  },
+  {
+    "word": "press",
+    "meaning": "押す",
+    "example": "He pressed the button.",
+    "example_jp": "彼はボタンを押した。"
+  },
+  {
+    "word": "press",
+    "meaning": "強要する",
+    "example": "They pressed him to decide.",
+    "example_jp": "彼らは彼に決断するよう強要した。"
+  },
+  {
+    "word": "press",
+    "meaning": "報道機関",
+    "example": "The press reported the event.",
+    "example_jp": "報道機関がその出来事を報じた。"
+  },
+  {
+    "word": "press",
+    "meaning": "印刷",
+    "example": "The press printed the book.",
+    "example_jp": "印刷機がその本を印刷した。"
+  },
+  {
+    "word": "edit",
+    "meaning": "編集する",
+    "example": "She edited the article.",
+    "example_jp": "彼女はその記事を編集した。"
+  },
+  {
+    "word": "edit",
+    "meaning": "修正する",
+    "example": "He edited the text.",
+    "example_jp": "彼はテキストを修正した。"
+  },
+  {
+    "word": "revise",
+    "meaning": "修正する",
+    "example": "They revised the plan.",
+    "example_jp": "彼らは計画を修正した。"
+  },
+  {
+    "word": "revise",
+    "meaning": "改訂する",
+    "example": "The book was revised.",
+    "example_jp": "その本は改訂された。"
+  },
+  {
+    "word": "draft",
+    "meaning": "下書き",
+    "example": "He wrote a draft.",
+    "example_jp": "彼は下書きを書いた。"
+  },
+  {
+    "word": "draft",
+    "meaning": "下書きを書く",
+    "example": "She drafted the proposal.",
+    "example_jp": "彼女は提案書の下書きを書いた。"
+  },
+  {
+    "word": "greatly",
+    "meaning": "大いに",
+    "example": "I greatly appreciate your help.",
+    "example_jp": "あなたの助けに大いに感謝します。"
+  },
+  {
+    "word": "greatly",
+    "meaning": "非常に",
+    "example": "The quality improved greatly.",
+    "example_jp": "品質が非常に向上した。"
+  },
+  {
+    "word": "leisure",
+    "meaning": "余暇",
+    "example": "He enjoys leisure activities.",
+    "example_jp": "彼は余暇の活動を楽しんでいる。"
+  },
+  {
+    "word": "leisure",
+    "meaning": "暇",
+    "example": "She spent her leisure reading.",
+    "example_jp": "彼女は暇な時間を読書に費やした。"
+  },
+  {
+    "word": "lazy",
+    "meaning": "怠惰な",
+    "example": "He is lazy in the morning.",
+    "example_jp": "彼は朝、怠惰だ。"
+  },
+  {
+    "word": "lazy",
+    "meaning": "くつろいだ",
+    "example": "It was a lazy afternoon.",
+    "example_jp": "それはくつろいだ午後だった。"
+  },
+  {
+    "word": "apart",
+    "meaning": "離れて",
+    "example": "They live far apart.",
+    "example_jp": "彼らは遠く離れて住んでいる。"
+  },
+  {
+    "word": "apart",
+    "meaning": "個々に",
+    "example": "The parts came apart.",
+    "example_jp": "部品が個々に（バラバラに）なった。"
+  },
+  {
+    "word": "sole",
+    "meaning": "唯一の",
+    "example": "He is the sole survivor.",
+    "example_jp": "彼が唯一の生存者だ。"
+  },
+  {
+    "word": "sole",
+    "meaning": "単独の",
+    "example": "She made the sole decision.",
+    "example_jp": "彼女が単独の決定を下した。"
+  },
+  {
+    "word": "course",
+    "meaning": "進路",
+    "example": "The ship changed its course.",
+    "example_jp": "船は進路を変更した。"
+  },
+  {
+    "word": "course",
+    "meaning": "課程",
+    "example": "He took a math course.",
+    "example_jp": "彼は数学の課程を履修した。"
+  },
+  {
+    "word": "course",
+    "meaning": "講座",
+    "example": "She teaches a history course.",
+    "example_jp": "彼女は歴史の講座を教えている。"
+  },
+  {
+    "word": "course",
+    "meaning": "成り行き",
+    "example": "The course of events changed.",
+    "example_jp": "事の成り行きが変わった。"
+  },
+  {
+    "word": "course",
+    "meaning": "1品",
+    "example": "The first course was soup.",
+    "example_jp": "最初の1品はスープだった。"
+  },
+  {
+    "word": "discourse",
+    "meaning": "講演",
+    "example": "He gave a discourse on art.",
+    "example_jp": "彼は芸術についての講演を行った。"
+  },
+  {
+    "word": "discourse",
+    "meaning": "対話",
+    "example": "Their discourse lasted hours.",
+    "example_jp": "彼らの対話は何時間も続いた。"
+  },
+  {
+    "word": "equality",
+    "meaning": "平等",
+    "example": "They fought for equality.",
+    "example_jp": "彼らは平等のために戦った。"
+  },
+  {
+    "word": "accessible",
+    "meaning": "利用できる",
+    "example": "The library is accessible to all.",
+    "example_jp": "その図書館は誰でも利用できる。"
+  },
+  {
+    "word": "accessible",
+    "meaning": "行ける",
+    "example": "The town is accessible by train.",
+    "example_jp": "その町へは電車で行ける。"
+  },
+  {
+    "word": "utilize",
+    "meaning": "利用する",
+    "example": "They utilized the data.",
+    "example_jp": "彼らはデータを利用した。"
+  },
+  {
+    "word": "exploit",
+    "meaning": "開発する",
+    "example": "They exploited natural resources.",
+    "example_jp": "彼らは天然資源を開発した。"
+  },
+  {
+    "word": "exploit",
+    "meaning": "利用する",
+    "example": "He exploited the opportunity.",
+    "example_jp": "彼はその機会を利用した。"
+  },
+  {
+    "word": "exploit",
+    "meaning": "搾取する",
+    "example": "The workers were exploited.",
+    "example_jp": "労働者たちは搾取された。"
+  },
+  {
+    "word": "exert",
+    "meaning": "用いる",
+    "example": "He exerted all his strength.",
+    "example_jp": "彼は全力をもちいた。"
+  },
+  {
+    "word": "exert",
+    "meaning": "行使する",
+    "example": "She exerted pressure.",
+    "example_jp": "彼女は圧力を行使した。"
+  },
+  {
+    "word": "discuss",
+    "meaning": "話し合う",
+    "example": "They discussed the problem.",
+    "example_jp": "彼らはその問題について話し合った。"
+  },
+  {
+    "word": "negotiate",
+    "meaning": "交渉する",
+    "example": "They negotiated for peace.",
+    "example_jp": "彼らは平和のために交渉した。"
+  },
+  {
+    "word": "negotiate",
+    "meaning": "取り決める",
+    "example": "They negotiated a contract.",
+    "example_jp": "彼らは契約を取り決めた。"
+  },
+  {
+    "word": "consult",
+    "meaning": "相談する",
+    "example": "He consulted a doctor.",
+    "example_jp": "彼は医者に相談した。"
+  },
+  {
+    "word": "consult",
+    "meaning": "調べる",
+    "example": "She consulted a dictionary.",
+    "example_jp": "彼女は辞書を調べた。"
+  },
+  {
+    "word": "compromise",
+    "meaning": "妥協",
+    "example": "They reached a compromise.",
+    "example_jp": "彼らは妥協に至った。"
+  },
+  {
+    "word": "compromise",
+    "meaning": "妥協する",
+    "example": "They compromised on the price.",
+    "example_jp": "彼らは価格について妥協した。"
+  },
+  {
+    "word": "agenda",
+    "meaning": "議題",
+    "example": "The agenda includes five items.",
+    "example_jp": "議題には5つの項目が含まれている。"
+  },
+  {
+    "word": "agenda",
+    "meaning": "課題",
+    "example": "Climate change is on the agenda.",
+    "example_jp": "気候変動が検討すべき課題となっている。"
+  },
+  {
+    "word": "broad",
+    "meaning": "広範囲に及ぶ",
+    "example": "He has broad knowledge.",
+    "example_jp": "彼は広範囲に及ぶ知識を持っている。"
+  },
+  {
+    "word": "broad",
+    "meaning": "広い",
+    "example": "The road is broad.",
+    "example_jp": "その道は広い。"
+  },
+  {
+    "word": "enrich",
+    "meaning": "豊かにする",
+    "example": "Travel enriched his life.",
+    "example_jp": "旅行が彼の人生を豊かにした。"
+  },
+  {
+    "word": "broadcast",
+    "meaning": "放送する",
+    "example": "They broadcast the news.",
+    "example_jp": "彼らはニュースを放送した。"
+  },
+  {
+    "word": "broadcast",
+    "meaning": "放送",
+    "example": "The broadcast starts at 6.",
+    "example_jp": "放送は6時に始まる。"
+  },
+  {
+    "word": "critically",
+    "meaning": "危険なほどに",
+    "example": "He was critically injured.",
+    "example_jp": "彼は危険なほどに負傷した。"
+  },
+  {
+    "word": "critically",
+    "meaning": "批判的に",
+    "example": "She read the book critically.",
+    "example_jp": "彼女はその本を批判的に読んだ。"
+  },
+  {
+    "word": "critically",
+    "meaning": "決定的に",
+    "example": "The issue is critically important.",
+    "example_jp": "その問題は決定的に重要だ。"
+  },
+  {
+    "word": "critical",
+    "meaning": "批判的な",
+    "example": "He is critical of the plan.",
+    "example_jp": "彼はその計画に対して批判的だ。"
+  },
+  {
+    "word": "critical",
+    "meaning": "重大な",
+    "example": "This is a critical moment.",
+    "example_jp": "今は重大な局面だ。"
+  },
+  {
+    "word": "critical",
+    "meaning": "危機的な",
+    "example": "The patient is in critical condition.",
+    "example_jp": "患者は危機的な状態にある。"
+  },
+  {
+    "word": "crisis",
+    "meaning": "危機",
+    "example": "The country faced a crisis.",
+    "example_jp": "その国は危機に直面した。"
+  },
+  {
+    "word": "realm",
+    "meaning": "領域",
+    "example": "He works in the realm of science.",
+    "example_jp": "彼は科学の領域で働いている。"
+  },
+  {
+    "word": "realm",
+    "meaning": "分野",
+    "example": "This belongs to the artistic realm.",
+    "example_jp": "これは芸術分野に属する。"
+  },
+  {
+    "word": "territory",
+    "meaning": "領土",
+    "example": "The country expanded its territory.",
+    "example_jp": "その国は領土を拡大した。"
+  },
+  {
+    "word": "territory",
+    "meaning": "縄張り",
+    "example": "This is his territory.",
+    "example_jp": "ここは彼の縄張りだ。"
+  },
+  {
+    "word": "territory",
+    "meaning": "領域",
+    "example": "She works in the medical territory.",
+    "example_jp": "彼女は医療の領域で働いている。"
+  },
+  {
+    "word": "empire",
+    "meaning": "帝国",
+    "example": "The Roman Empire lasted long.",
+    "example_jp": "ローマ帝国は長く続いた。"
+  },
+  {
+    "word": "ruler",
+    "meaning": "統治者",
+    "example": "The ruler governed the land.",
+    "example_jp": "統治者がその土地を治めた。"
+  },
+  {
+    "word": "ruler",
+    "meaning": "定規",
+    "example": "Use a ruler to draw a line.",
+    "example_jp": "線を引くために定規を使いなさい。"
+  },
+  {
+    "word": "prevalent",
+    "meaning": "普及している",
+    "example": "The idea is prevalent today.",
+    "example_jp": "その考えは今日、普及している。"
+  },
+  {
+    "word": "prevalent",
+    "meaning": "流行している",
+    "example": "The disease is prevalent in the area.",
+    "example_jp": "その病気はその地域で流行している。"
+  },
+  {
+    "word": "further",
+    "meaning": "さらに遠くへ",
+    "example": "He walked further.",
+    "example_jp": "彼はさらに遠くへ歩いた。"
+  },
+  {
+    "word": "further",
+    "meaning": "さらなる",
+    "example": "Further research is needed.",
+    "example_jp": "さらなる研究が必要だ。"
+  },
+  {
+    "word": "further",
+    "meaning": "さらに昔に",
+    "example": "It happened further in the past.",
+    "example_jp": "それはさらに昔に起こった。"
+  },
+  {
+    "word": "distant",
+    "meaning": "遠い",
+    "example": "The mountain looks distant.",
+    "example_jp": "山が遠くに見える。"
+  },
+  {
+    "word": "distant",
+    "meaning": "冷やかな",
+    "example": "She was distant toward him.",
+    "example_jp": "彼女は彼に対して冷やかだった。"
+  },
+  {
+    "word": "remote",
+    "meaning": "遠く離れた",
+    "example": "The village is remote.",
+    "example_jp": "その村は遠く離れている。"
+  },
+  {
+    "word": "career",
+    "meaning": "職業",
+    "example": "He started a new career.",
+    "example_jp": "彼は新しい職業を始めた。"
+  },
+  {
+    "word": "career",
+    "meaning": "経歴",
+    "example": "She has a long career in music.",
+    "example_jp": "彼女は音楽において長い経歴を持っている。"
+  },
+  {
+    "word": "counterpart",
+    "meaning": "相当する物",
+    "example": "His counterpart in France agreed.",
+    "example_jp": "フランスの相当する物（組織等）が同意した。"
+  },
+  {
+    "word": "counterpart",
+    "meaning": "同等の相手",
+    "example": "She met her counterpart in the company.",
+    "example_jp": "彼女は社内の同等の相手（役職者）に会った。"
+  }
+]

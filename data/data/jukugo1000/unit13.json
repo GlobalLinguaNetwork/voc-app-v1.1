@@ -1,0 +1,374 @@
+[
+  {
+    "word": "in need of",
+    "meaning": "～を必要として",
+    "example": "We are in need of help.",
+    "example_jp": "私たちは助けを必要としている。"
+  },
+  {
+    "word": "in response to",
+    "meaning": "～に応じて",
+    "example": "He acted in response to the call.",
+    "example_jp": "彼はその呼びかけに応じて行動した。"
+  },
+  {
+    "word": "in favor of",
+    "meaning": "～に賛成して",
+    "example": "They voted in favor of the plan.",
+    "example_jp": "彼らはその計画に賛成して投票した。"
+  },
+  {
+    "word": "in favor of",
+    "meaning": "～のほうを選んで",
+    "example": "She chose tea in favor of coffee.",
+    "example_jp": "彼女はコーヒーよりお茶のほうを選んだ。"
+  },
+  {
+    "word": "in the face of",
+    "meaning": "～に直面して",
+    "example": "He stayed calm in the face of danger.",
+    "example_jp": "彼は危険に直面しても冷静でいた。"
+  },
+  {
+    "word": "in the face of",
+    "meaning": "～にもかかわらず",
+    "example": "They continued in the face of difficulties.",
+    "example_jp": "彼らは困難にもかかわらず継続した。"
+  },
+  {
+    "word": "in charge of",
+    "meaning": "～を管理して",
+    "example": "She is in charge of the class.",
+    "example_jp": "彼女はそのクラスを管理している。"
+  },
+  {
+    "word": "in relation to",
+    "meaning": "～と比べて、関連して",
+    "example": "Prices rose in relation to demand.",
+    "example_jp": "価格は需要と関連して上昇した。"
+  },
+  {
+    "word": "in place of",
+    "meaning": "～の代わりに",
+    "example": "Use this in place of sugar.",
+    "example_jp": "砂糖の代わりにこれを使ってください。"
+  },
+  {
+    "word": "in the presence of",
+    "meaning": "～のいるところで",
+    "example": "He spoke in the presence of his parents.",
+    "example_jp": "彼は両親のいるところで話した。"
+  },
+  {
+    "word": "in honor of",
+    "meaning": "～に敬意を表して",
+    "example": "They held a party in honor of her.",
+    "example_jp": "彼らは彼女に敬意を表してパーティーを開いた。"
+  },
+  {
+    "word": "in light of",
+    "meaning": "～を考慮して",
+    "example": "In light of the facts, we changed the plan.",
+    "example_jp": "事実を考慮して、私たちは計画を変更した。"
+  },
+  {
+    "word": "in harmony with",
+    "meaning": "～と調和して",
+    "example": "The house is in harmony with nature.",
+    "example_jp": "その家は自然と調和している。"
+  },
+  {
+    "word": "in exchange for",
+    "meaning": "～と交換に",
+    "example": "He gave his watch in exchange for money.",
+    "example_jp": "彼は金銭と交換に時計を渡した。"
+  },
+  {
+    "word": "for the sake of",
+    "meaning": "～のために",
+    "example": "He worked hard for the sake of his family.",
+    "example_jp": "彼は家族のために一生懸命働いた。"
+  },
+  {
+    "word": "for fear of",
+    "meaning": "～を恐れて",
+    "example": "She left early for fear of being late.",
+    "example_jp": "彼女は遅れるのを恐れて早く出発した。"
+  },
+  {
+    "word": "for lack of",
+    "meaning": "～がないために",
+    "example": "The plan failed for lack of money.",
+    "example_jp": "その計画は資金がないために失敗した。"
+  },
+  {
+    "word": "for want of",
+    "meaning": "～が不足しているために",
+    "example": "The plant died for want of water.",
+    "example_jp": "その植物は水が不足しているために枯れた。"
+  },
+  {
+    "word": "at the expense of",
+    "meaning": "～を犠牲にして",
+    "example": "He succeeded at the expense of his health.",
+    "example_jp": "彼は健康を犠牲にして成功した。"
+  },
+  {
+    "word": "at the sight of",
+    "meaning": "～を見て",
+    "example": "She screamed at the sight of a snake.",
+    "example_jp": "彼女は蛇を見て悲鳴を上げた。"
+  },
+  {
+    "word": "at the mercy of",
+    "meaning": "～のなすがままになって",
+    "example": "They were at the mercy of the storm.",
+    "example_jp": "彼らは嵐のなすがままになっていた。"
+  },
+  {
+    "word": "as opposed to",
+    "meaning": "～ではなく、～と対照的に",
+    "example": "He chose peace as opposed to war.",
+    "example_jp": "彼は戦争ではなく平和を選んだ。"
+  },
+  {
+    "word": "by means of",
+    "meaning": "～を用いて",
+    "example": "They traveled by means of a boat.",
+    "example_jp": "彼らはボートを用いて旅をした。"
+  },
+  {
+    "word": "by virtue of",
+    "meaning": "～のおかげで",
+    "example": "He succeeded by virtue of effort.",
+    "example_jp": "彼は努力のおかげで成功した。"
+  },
+  {
+    "word": "in virtue of",
+    "meaning": "～によって",
+    "example": "The law applies in virtue of its authority.",
+    "example_jp": "その法律はその権威によって適用される。"
+  },
+  {
+    "word": "on behalf of",
+    "meaning": "～を代表して",
+    "example": "I spoke on behalf of the team.",
+    "example_jp": "私はチームを代表して話した。"
+  },
+  {
+    "word": "in behalf of",
+    "meaning": "～のために",
+    "example": "They acted in behalf of the children.",
+    "example_jp": "彼らは子供たちのために行動した。"
+  },
+  {
+    "word": "on a charge of",
+    "meaning": "～の容疑で",
+    "example": "He was arrested on a charge of theft.",
+    "example_jp": "彼は窃盗の容疑で逮捕された。"
+  },
+  {
+    "word": "with regard to",
+    "meaning": "～に関して",
+    "example": "With regard to your question, here is the answer.",
+    "example_jp": "あなたのご質問に関して、こちらが回答です。"
+  },
+  {
+    "word": "in regard to",
+    "meaning": "～に関して",
+    "example": "In regard to the plan, we agree.",
+    "example_jp": "その計画に関して、私たちは同意する。"
+  },
+  {
+    "word": "in part",
+    "meaning": "一部には",
+    "example": "The plan succeeded in part.",
+    "example_jp": "その計画は一部には成功した。"
+  },
+  {
+    "word": "in turn",
+    "meaning": "次に、順番に",
+    "example": "He spoke, and she answered in turn.",
+    "example_jp": "彼が話し、次に彼女が順番に答えた。"
+  },
+  {
+    "word": "in place",
+    "meaning": "整っている、用意ができて",
+    "example": "Everything is in place.",
+    "example_jp": "すべてが整っている。"
+  },
+  {
+    "word": "in practice",
+    "meaning": "実際には",
+    "example": "In practice, it is hard to do.",
+    "example_jp": "実際には、それを行うのは難しい。"
+  },
+  {
+    "word": "in demand",
+    "meaning": "需要がある",
+    "example": "This product is in demand.",
+    "example_jp": "この製品は需要がある。"
+  },
+  {
+    "word": "in the meantime",
+    "meaning": "その間に",
+    "example": "I will study; in the meantime, wait here.",
+    "example_jp": "私は勉強する。その間にここで待っていなさい。"
+  },
+  {
+    "word": "meanwhile",
+    "meaning": "一方で",
+    "example": "She cooked; meanwhile, he cleaned.",
+    "example_jp": "彼女は料理をした。一方で、彼は掃除をした。"
+  },
+  {
+    "word": "in all likelihood",
+    "meaning": "十中八九",
+    "example": "In all likelihood, it will rain.",
+    "example_jp": "十中八九、雨が降るだろう。"
+  },
+  {
+    "word": "at work",
+    "meaning": "仕事中で",
+    "example": "He is at work now.",
+    "example_jp": "彼は今仕事中だ。"
+  },
+  {
+    "word": "at work",
+    "meaning": "作用して",
+    "example": "A new idea is at work.",
+    "example_jp": "新しい考えが作用している。"
+  },
+  {
+    "word": "at risk",
+    "meaning": "危険な状態で",
+    "example": "The building is at risk.",
+    "example_jp": "その建物は危険な状態にある。"
+  },
+  {
+    "word": "at a loss",
+    "meaning": "途方に暮れて",
+    "example": "I was at a loss for words.",
+    "example_jp": "私は言葉に詰まって途方に暮れた。"
+  },
+  {
+    "word": "at first sight",
+    "meaning": "一見したところでは",
+    "example": "At first sight, it looked easy.",
+    "example_jp": "一見したところでは、それは簡単に思えた。"
+  },
+  {
+    "word": "at heart",
+    "meaning": "心の底では",
+    "example": "He is kind at heart.",
+    "example_jp": "彼は心の底では親切だ。"
+  },
+  {
+    "word": "at intervals",
+    "meaning": "時折",
+    "example": "The bell rang at intervals.",
+    "example_jp": "ベルが時折鳴った。"
+  },
+  {
+    "word": "on average",
+    "meaning": "平均して",
+    "example": "We spend 30 minutes on average.",
+    "example_jp": "私たちは平均して30分を費やす。"
+  },
+  {
+    "word": "on an average",
+    "meaning": "平均して",
+    "example": "On an average, prices are rising.",
+    "example_jp": "平均して、価格は上昇している。"
+  },
+  {
+    "word": "on a daily basis",
+    "meaning": "～の基準で",
+    "example": "We check it on a daily basis.",
+    "example_jp": "私たちはそれを日々の基準でチェックしている。"
+  },
+  {
+    "word": "on a large scale",
+    "meaning": "～な規模で",
+    "example": "The event was held on a large scale.",
+    "example_jp": "そのイベントは大きな規模で開催された。"
+  },
+  {
+    "word": "on display",
+    "meaning": "展示して",
+    "example": "The art is on display.",
+    "example_jp": "その美術品は展示されている。"
+  },
+  {
+    "word": "on the increase",
+    "meaning": "増加中で",
+    "example": "Prices are on the increase.",
+    "example_jp": "価格は増加中である。"
+  },
+  {
+    "word": "on guard",
+    "meaning": "警戒して",
+    "example": "Be on guard at night.",
+    "example_jp": "夜間は警戒しなさい。"
+  },
+  {
+    "word": "to some extent",
+    "meaning": "～の程度に",
+    "example": "I agree to some extent.",
+    "example_jp": "私はある程度まで同意する。"
+  },
+  {
+    "word": "to a great extent",
+    "meaning": "～の程度に",
+    "example": "The plan failed to a great extent.",
+    "example_jp": "その計画はかなりの程度失敗した。"
+  },
+  {
+    "word": "to one's surprise",
+    "meaning": "～が驚いたことには",
+    "example": "To my surprise, he won.",
+    "example_jp": "私が驚いたことには、彼は勝った。"
+  },
+  {
+    "word": "to the point",
+    "meaning": "要を得た",
+    "example": "His answer was to the point.",
+    "example_jp": "彼の回答は要を得ていた。"
+  },
+  {
+    "word": "to make matters worse",
+    "meaning": "さらに悪いことに",
+    "example": "It rained, and to make matters worse, it was cold.",
+    "example_jp": "雨が降り、さらに悪いことに寒かった。"
+  },
+  {
+    "word": "to one's advantage",
+    "meaning": "（人）に有利に",
+    "example": "The rule worked to his advantage.",
+    "example_jp": "その規則は彼に有利に働いた。"
+  },
+  {
+    "word": "from now on",
+    "meaning": "～から以後は",
+    "example": "From now on, be careful.",
+    "example_jp": "これからは気を付けなさい。"
+  },
+  {
+    "word": "from then on",
+    "meaning": "～から以後は",
+    "example": "From then on, he changed.",
+    "example_jp": "それ以後は、彼は変わった。"
+  },
+  {
+    "word": "from this point of view",
+    "meaning": "～の視点から",
+    "example": "From this point of view, it is good.",
+    "example_jp": "この視点から、それは良い。"
+  },
+  {
+    "word": "from my point of view",
+    "meaning": "～の視点から",
+    "example": "From my point of view, it is fair.",
+    "example_jp": "私の視点から、それは公平だ。"
+  }
+]

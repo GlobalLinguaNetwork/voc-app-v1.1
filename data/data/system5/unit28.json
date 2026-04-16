@@ -1,0 +1,302 @@
+[
+  {
+    "word": "scratch",
+    "meaning": "かく",
+    "example": "He scratched his arm.",
+    "example_jp": "彼は腕をかいた。"
+  },
+  {
+    "word": "roar",
+    "meaning": "ほえる",
+    "example": "The lion roared.",
+    "example_jp": "ライオンがほえた。"
+  },
+  {
+    "word": "quote",
+    "meaning": "引用する",
+    "example": "He quoted a famous line.",
+    "example_jp": "彼は有名な一節を引用した。"
+  },
+  {
+    "word": "bloom",
+    "meaning": "咲く",
+    "example": "The flowers bloomed.",
+    "example_jp": "花が咲いた。"
+  },
+  {
+    "word": "insert",
+    "meaning": "差し込む",
+    "example": "Insert the card here.",
+    "example_jp": "ここにカードを差し込んでください。"
+  },
+  {
+    "word": "awaiting",
+    "meaning": "待つ",
+    "example": "I am awaiting your reply.",
+    "example_jp": "あなたの返事を待っています。"
+  },
+  {
+    "word": "dread",
+    "meaning": "恐れる",
+    "example": "I dread the test.",
+    "example_jp": "私はその試験を恐れている。"
+  },
+  {
+    "word": "conceal",
+    "meaning": "隠す",
+    "example": "He concealed the truth.",
+    "example_jp": "彼は真実を隠した。"
+  },
+  {
+    "word": "enrich",
+    "meaning": "豊かにする",
+    "example": "Reading enriches the mind.",
+    "example_jp": "読書は心を豊かにする。"
+  },
+  {
+    "word": "cling",
+    "meaning": "固執する",
+    "example": "He clung to the idea.",
+    "example_jp": "彼はその考えに固執した。"
+  },
+  {
+    "word": "surpass",
+    "meaning": "まさる",
+    "example": "This result surpasses expectations.",
+    "example_jp": "この結果は期待を上回った。"
+  },
+  {
+    "word": "suppress",
+    "meaning": "抑える",
+    "example": "He suppressed his anger.",
+    "example_jp": "彼は怒りを抑えた。"
+  },
+  {
+    "word": "portray",
+    "meaning": "描く",
+    "example": "The movie portrayed his life.",
+    "example_jp": "その映画は彼の人生を描いた。"
+  },
+  {
+    "word": "soaring",
+    "meaning": "急上昇する",
+    "example": "Prices are soaring.",
+    "example_jp": "物価が急上昇している。"
+  },
+  {
+    "word": "drain",
+    "meaning": "排出する",
+    "example": "The water drained away.",
+    "example_jp": "水は流れ去った。"
+  },
+  {
+    "word": "glow",
+    "meaning": "ボーッと光る",
+    "example": "The lamp glowed softly.",
+    "example_jp": "ランプがやわらかく光った。"
+  },
+  {
+    "word": "migrate",
+    "meaning": "移住する",
+    "example": "Birds migrate in winter.",
+    "example_jp": "鳥は冬に移動する。"
+  },
+  {
+    "word": "exclaim",
+    "meaning": "叫ぶ",
+    "example": "“Wow!” he exclaimed.",
+    "example_jp": "「わあ！」と彼は叫んだ。"
+  },
+  {
+    "word": "exert",
+    "meaning": "及ぼす",
+    "example": "He exerted great effort.",
+    "example_jp": "彼は大きな努力を払った。"
+  },
+  {
+    "word": "disguise",
+    "meaning": "隠す",
+    "example": "He disguised his voice.",
+    "example_jp": "彼は声を変装した。"
+  },
+  {
+    "word": "accelerate",
+    "meaning": "加速する",
+    "example": "The car accelerated.",
+    "example_jp": "車は加速した。"
+  },
+  {
+    "word": "dwell",
+    "meaning": "住む",
+    "example": "They dwell in the mountains.",
+    "example_jp": "彼らは山に住んでいる。"
+  },
+  {
+    "word": "integrate",
+    "meaning": "融けこませる",
+    "example": "She integrated into the group.",
+    "example_jp": "彼女はそのグループに溶け込んだ。"
+  },
+  {
+    "word": "weep",
+    "meaning": "泣く",
+    "example": "She wept quietly.",
+    "example_jp": "彼女は静かに泣いた。"
+  },
+  {
+    "word": "reassure",
+    "meaning": "安心させる",
+    "example": "He reassured me.",
+    "example_jp": "彼は私を安心させてくれた。"
+  },
+  {
+    "word": "crawl",
+    "meaning": "はって進む",
+    "example": "The baby crawled.",
+    "example_jp": "赤ちゃんがはいはいした。"
+  },
+  {
+    "word": "restrain",
+    "meaning": "抑制する",
+    "example": "He restrained his anger.",
+    "example_jp": "彼は怒りを抑えた。"
+  },
+  {
+    "word": "resent",
+    "meaning": "腹を立てる",
+    "example": "She resented his words.",
+    "example_jp": "彼女は彼の言葉に腹を立てた。"
+  },
+  {
+    "word": "yell",
+    "meaning": "大声で叫ぶ",
+    "example": "He yelled loudly.",
+    "example_jp": "彼は大声で叫んだ。"
+  },
+  {
+    "word": "assess",
+    "meaning": "評価する",
+    "example": "They assessed the damage.",
+    "example_jp": "彼らは被害を評価した。"
+  },
+  {
+    "word": "carve",
+    "meaning": "彫る",
+    "example": "He carved the wood.",
+    "example_jp": "彼は木を彫った。"
+  },
+  {
+    "word": "halt",
+    "meaning": "止める",
+    "example": "They halted the project.",
+    "example_jp": "彼らはプロジェクトを中止した。"
+  },
+  {
+    "word": "inspect",
+    "meaning": "検査する",
+    "example": "They inspected the car.",
+    "example_jp": "彼らは車を検査した。"
+  },
+  {
+    "word": "tackle",
+    "meaning": "取り組む",
+    "example": "They tackled the problem.",
+    "example_jp": "彼らはその問題に取り組んだ。"
+  },
+  {
+    "word": "omit",
+    "meaning": "省く",
+    "example": "He omitted the last part.",
+    "example_jp": "彼は最後の部分を省いた。"
+  },
+  {
+    "word": "chew",
+    "meaning": "かむ",
+    "example": "She chewed gum.",
+    "example_jp": "彼女はガムをかんだ。"
+  },
+  {
+    "word": "resume",
+    "meaning": "再開する",
+    "example": "They resumed the meeting.",
+    "example_jp": "彼らは会議を再開した。"
+  },
+  {
+    "word": "mold",
+    "meaning": "作る",
+    "example": "They molded the clay.",
+    "example_jp": "彼らは粘土を形作った。"
+  },
+  {
+    "word": "accommodate",
+    "meaning": "収容できる",
+    "example": "The room can accommodate 50 people.",
+    "example_jp": "その部屋は50人を収容できる。"
+  },
+  {
+    "word": "erase",
+    "meaning": "消す",
+    "example": "He erased the mistake.",
+    "example_jp": "彼は間違いを消した。"
+  },
+  {
+    "word": "inferred",
+    "meaning": "推量する",
+    "example": "I inferred the meaning.",
+    "example_jp": "私は意味を推測した。"
+  },
+  {
+    "word": "revive",
+    "meaning": "生き返らせる",
+    "example": "They revived the tradition.",
+    "example_jp": "彼らはその伝統を復活させた。"
+  },
+  {
+    "word": "contemplate",
+    "meaning": "考える",
+    "example": "He contemplated the idea.",
+    "example_jp": "彼はその考えを熟考した。"
+  },
+  {
+    "word": "rotate",
+    "meaning": "回転する",
+    "example": "The earth rotates.",
+    "example_jp": "地球は回転する。"
+  },
+  {
+    "word": "disrupt",
+    "meaning": "かき乱す",
+    "example": "The noise disrupted the class.",
+    "example_jp": "その騒音が授業をかき乱した。"
+  },
+  {
+    "word": "navigate",
+    "meaning": "進路を決める",
+    "example": "He navigated the ship.",
+    "example_jp": "彼は船の航路を操った。"
+  },
+  {
+    "word": "ache",
+    "meaning": "痛む",
+    "example": "My back aches.",
+    "example_jp": "背中が痛む。"
+  },
+  {
+    "word": "discard",
+    "meaning": "捨てる",
+    "example": "They discarded old papers.",
+    "example_jp": "彼らは古い書類を捨てた。"
+  },
+  {
+    "word": "incorporate",
+    "meaning": "取り入れる",
+    "example": "They incorporated new ideas.",
+    "example_jp": "彼らは新しい考えを取り入れた。"
+  },
+  {
+    "word": "overtake",
+    "meaning": "追い越す",
+    "example": "The car overtook the truck.",
+    "example_jp": "車がトラックを追い越した。"
+  }
+]

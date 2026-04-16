@@ -1,0 +1,302 @@
+[
+  {
+    "word": "luggage",
+    "meaning": "荷物",
+    "example": "I carried my luggage.",
+    "example_jp": "私は荷物を運んだ。"
+  },
+  {
+    "word": "behalf",
+    "meaning": "代表して",
+    "example": "I spoke on your behalf.",
+    "example_jp": "私はあなたの代理で話した。"
+  },
+  {
+    "word": "impulse",
+    "meaning": "衝動",
+    "example": "He acted on impulse.",
+    "example_jp": "彼は衝動的に行動した。"
+  },
+  {
+    "word": "debris",
+    "meaning": "破片",
+    "example": "Debris covered the road.",
+    "example_jp": "破片が道路を覆っていた。"
+  },
+  {
+    "word": "beast",
+    "meaning": "野獣",
+    "example": "The beast roared.",
+    "example_jp": "野獣がほえた。"
+  },
+  {
+    "word": "superstition",
+    "meaning": "迷信",
+    "example": "It is just a superstition.",
+    "example_jp": "それはただの迷信だ。"
+  },
+  {
+    "word": "illusion",
+    "meaning": "幻想、錯覚",
+    "example": "It was an illusion.",
+    "example_jp": "それは幻想だった。"
+  },
+  {
+    "word": "thread",
+    "meaning": "糸",
+    "example": "The thread broke.",
+    "example_jp": "糸が切れた。"
+  },
+  {
+    "word": "intake",
+    "meaning": "摂取量",
+    "example": "Reduce your sugar intake.",
+    "example_jp": "砂糖の摂取量を減らしなさい。"
+  },
+  {
+    "word": "feast",
+    "meaning": "宴会",
+    "example": "They had a big feast.",
+    "example_jp": "彼らは盛大な宴会を開いた。"
+  },
+  {
+    "word": "transition",
+    "meaning": "移り変わり",
+    "example": "The transition was slow.",
+    "example_jp": "移り変わりはゆっくりだった。"
+  },
+  {
+    "word": "misery",
+    "meaning": "悲惨さ",
+    "example": "He lived in misery.",
+    "example_jp": "彼は悲惨な生活を送った。"
+  },
+  {
+    "word": "radiation",
+    "meaning": "放射線",
+    "example": "The device gives off radiation.",
+    "example_jp": "その装置は放射線を放出する。"
+  },
+  {
+    "word": "log",
+    "meaning": "丸太",
+    "example": "He cut a log.",
+    "example_jp": "彼は丸太を切った。"
+  },
+  {
+    "word": "consensus",
+    "meaning": "合意",
+    "example": "They reached a consensus.",
+    "example_jp": "彼らは合意に達した。"
+  },
+  {
+    "word": "deed",
+    "meaning": "行い",
+    "example": "It was a kind deed.",
+    "example_jp": "それは親切な行いだった。"
+  },
+  {
+    "word": "proverb",
+    "meaning": "ことわざ",
+    "example": "I know that proverb.",
+    "example_jp": "私はそのことわざを知っている。"
+  },
+  {
+    "word": "compliment",
+    "meaning": "ほめ言葉",
+    "example": "She gave me a compliment.",
+    "example_jp": "彼女は私にほめ言葉をくれた。"
+  },
+  {
+    "word": "flame",
+    "meaning": "炎",
+    "example": "The flame grew stronger.",
+    "example_jp": "炎が強くなった。"
+  },
+  {
+    "word": "anniversary",
+    "meaning": "記念日",
+    "example": "Today is our anniversary.",
+    "example_jp": "今日は私たちの記念日だ。"
+  },
+  {
+    "word": "conscience",
+    "meaning": "良心",
+    "example": "His conscience hurt him.",
+    "example_jp": "彼は良心の呵責を感じた。"
+  },
+  {
+    "word": "expedition",
+    "meaning": "探検",
+    "example": "They went on an expedition.",
+    "example_jp": "彼らは探検に出かけた。"
+  },
+  {
+    "word": "offspring",
+    "meaning": "子孫",
+    "example": "The bird fed its offspring.",
+    "example_jp": "その鳥は子に餌を与えた。"
+  },
+  {
+    "word": "allowance",
+    "meaning": "こづかい",
+    "example": "He gets a monthly allowance.",
+    "example_jp": "彼は毎月お小遣いをもらっている。"
+  },
+  {
+    "word": "headline",
+    "meaning": "大見出し",
+    "example": "I read the headline.",
+    "example_jp": "私は大見出しを読んだ。"
+  },
+  {
+    "word": "treaty",
+    "meaning": "条約",
+    "example": "They signed a treaty.",
+    "example_jp": "彼らは条約に署名した。"
+  },
+  {
+    "word": "monument",
+    "meaning": "記念碑",
+    "example": "We visited the monument.",
+    "example_jp": "私たちは記念碑を訪れた。"
+  },
+  {
+    "word": "worm",
+    "meaning": "虫",
+    "example": "A worm crawled on the ground.",
+    "example_jp": "地面に虫が這っていた。"
+  },
+  {
+    "word": "remedy",
+    "meaning": "治療法",
+    "example": "This is a good remedy.",
+    "example_jp": "これは良い治療法だ。"
+  },
+  {
+    "word": "encyclopedia",
+    "meaning": "百科事典",
+    "example": "I looked it up in an encyclopedia.",
+    "example_jp": "私は百科事典でそれを調べた。"
+  },
+  {
+    "word": "glimpse",
+    "meaning": "ちらり",
+    "example": "I caught a glimpse of her.",
+    "example_jp": "私は彼女をちらりと見かけた。"
+  },
+  {
+    "word": "personnel",
+    "meaning": "職員",
+    "example": "The company hired new personnel.",
+    "example_jp": "会社は新しい職員を雇った。"
+  },
+  {
+    "word": "triumph",
+    "meaning": "勝利",
+    "example": "The team celebrated their triumph.",
+    "example_jp": "チームは勝利を祝った。"
+  },
+  {
+    "word": "arithmetic",
+    "meaning": "算数",
+    "example": "He studied arithmetic.",
+    "example_jp": "彼は算数を勉強した。"
+  },
+  {
+    "word": "self-esteem",
+    "meaning": "自尊心",
+    "example": "She has high self-esteem.",
+    "example_jp": "彼女は高い自尊心を持っている。"
+  },
+  {
+    "word": "microbe",
+    "meaning": "微生物",
+    "example": "The water contained microbes.",
+    "example_jp": "その水には微生物が含まれていた。"
+  },
+  {
+    "word": "odds",
+    "meaning": "可能性",
+    "example": "The odds are low.",
+    "example_jp": "可能性は低い。"
+  },
+  {
+    "word": "chaos",
+    "meaning": "混沌",
+    "example": "The room was in chaos.",
+    "example_jp": "部屋は混沌としていた。"
+  },
+  {
+    "word": "destiny",
+    "meaning": "運命",
+    "example": "He accepted his destiny.",
+    "example_jp": "彼は自分の運命を受け入れた。"
+  },
+  {
+    "word": "diameter",
+    "meaning": "直径",
+    "example": "The diameter is 10 cm.",
+    "example_jp": "直径は10センチだ。"
+  },
+  {
+    "word": "lottery",
+    "meaning": "宝くじ",
+    "example": "He won the lottery.",
+    "example_jp": "彼は宝くじに当たった。"
+  },
+  {
+    "word": "souvenir",
+    "meaning": "みやげ物",
+    "example": "I bought a souvenir.",
+    "example_jp": "私はお土産を買った。"
+  },
+  {
+    "word": "trail",
+    "meaning": "小道",
+    "example": "They walked along the trail.",
+    "example_jp": "彼らは小道に沿って歩いた。"
+  },
+  {
+    "word": "ratio",
+    "meaning": "比率",
+    "example": "The ratio is 2 to 1.",
+    "example_jp": "比率は2対1だ。"
+  },
+  {
+    "word": "sword",
+    "meaning": "剣",
+    "example": "He drew his sword.",
+    "example_jp": "彼は剣を抜いた。"
+  },
+  {
+    "word": "whistle",
+    "meaning": "笛",
+    "example": "I heard a whistle.",
+    "example_jp": "私は笛の音を聞いた。"
+  },
+  {
+    "word": "sentiment",
+    "meaning": "感情",
+    "example": "He expressed his sentiment.",
+    "example_jp": "彼は感情を表した。"
+  },
+  {
+    "word": "chore",
+    "meaning": "雑用",
+    "example": "I finished my chores.",
+    "example_jp": "私は雑用を終えた。"
+  },
+  {
+    "word": "courtesy",
+    "meaning": "礼儀",
+    "example": "She showed great courtesy.",
+    "example_jp": "彼女は大変礼儀正しかった。"
+  },
+  {
+    "word": "mayor",
+    "meaning": "市長",
+    "example": "The mayor gave a speech.",
+    "example_jp": "市長が演説をした。"
+  }
+]

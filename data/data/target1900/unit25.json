@@ -1,0 +1,410 @@
+[
+  {
+    "word": "infer",
+    "meaning": "を推論する，推測する",
+    "example": "What can we infer from the results of the survey?",
+    "example_jp": "調査の結果から何が推測できるだろうか。"
+  },
+  {
+    "word": "esteem",
+    "meaning": "を尊敬する",
+    "example": "He is highly esteemed by his colleagues for his honesty.",
+    "example_jp": "彼はその正直さから、同僚たちに非常に尊敬されている。"
+  },
+  {
+    "word": "esteem",
+    "meaning": "を見なす",
+    "example": "I would esteem it a great honor to work with you.",
+    "example_jp": "あなたと共にお仕事ができることを大変光栄に存じます（光栄と見なします）。"
+  },
+  {
+    "word": "tackle",
+    "meaning": "に取り組む",
+    "example": "The government is determined to tackle the housing crisis.",
+    "example_jp": "政府は住宅危機に取り組む決意をしている。"
+  },
+  {
+    "word": "tackle",
+    "meaning": "と話をつける",
+    "example": "I'll tackle my boss about getting a raise tomorrow.",
+    "example_jp": "明日、昇給についてボスと話をつけようと思う。"
+  },
+  {
+    "word": "venture",
+    "meaning": "危険を冒して進む，を思い切ってする",
+    "example": "The explorers ventured deep into the unexplored jungle.",
+    "example_jp": "探検家たちは未踏のジャングルの奥深くへと危険を冒して進んだ。"
+  },
+  {
+    "word": "accelerate",
+    "meaning": "を加速させる，促進する",
+    "example": "The new technology will help accelerate the production process.",
+    "example_jp": "新技術は生産工程の促進に役立つだろう。"
+  },
+  {
+    "word": "accustom",
+    "meaning": "（人）を慣れさせる",
+    "example": "It took him a few months to accustom himself to the cold climate.",
+    "example_jp": "彼が寒い気候に自分を慣れさせるのに数ヶ月かかった。"
+  },
+  {
+    "word": "amuse",
+    "meaning": "をおもしろがらせる，楽しませる",
+    "example": "The clown performed many tricks to amuse the children.",
+    "example_jp": "ピエロは子供たちを楽しませるために多くの手品を披露した。"
+  },
+  {
+    "word": "flourish",
+    "meaning": "繁栄する，繁茂する",
+    "example": "The civilization began to flourish along the river banks.",
+    "example_jp": "その文明は川の堤に沿って繁栄し始めた。"
+  },
+  {
+    "word": "flourish",
+    "meaning": "を振りかざす",
+    "example": "The conductor flourished his baton to signal the start.",
+    "example_jp": "指揮者は開始の合図としてタクトを振りかざした。"
+  },
+  {
+    "word": "thrive",
+    "meaning": "繁栄する，うまくいく，繁茂する",
+    "example": "The local economy is thriving due to increased tourism.",
+    "example_jp": "観光客の増加により、地元経済は繁栄している。"
+  },
+  {
+    "word": "nurture",
+    "meaning": "をはぐくむ，を養成する",
+    "example": "Parents should nurture their children's creative talents.",
+    "example_jp": "親は子供の創造的な才能をはぐくむべきだ。"
+  },
+  {
+    "word": "click",
+    "meaning": "クリックする，カチッと鳴らす",
+    "example": "Please click the link below to download the file.",
+    "example_jp": "ファイルをダウンロードするには、下のリンクをクリックしてください。"
+  },
+  {
+    "word": "spin",
+    "meaning": "回転する，を回転させる",
+    "example": "The figure skater began to spin rapidly on the ice.",
+    "example_jp": "フィギュアスケーターが氷の上で素早く回転し始めた。"
+  },
+  {
+    "word": "spin",
+    "meaning": "（糸）を紡ぐ",
+    "example": "The old woman was spinning wool into yarn.",
+    "example_jp": "その老婦人は羊毛を紡いで糸にしていた。"
+  },
+  {
+    "word": "clip",
+    "meaning": "を切り抜く，切り取る",
+    "example": "She clipped several recipes from the magazine.",
+    "example_jp": "彼女は雑誌からいくつかのレシピを切り抜いた。"
+  },
+  {
+    "word": "clip",
+    "meaning": "をクリップで留める",
+    "example": "He clipped the documents together and put them in a folder.",
+    "example_jp": "彼は書類をクリップで留めてフォルダーに入れた。"
+  },
+  {
+    "word": "drag",
+    "meaning": "を引きずる",
+    "example": "The heavy box was too big to lift, so I had to drag it.",
+    "example_jp": "重い箱は持ち上げるには大きすぎたので、引きずらなければならなかった。"
+  },
+  {
+    "word": "drag",
+    "meaning": "ぐずぐずする，長引く",
+    "example": "The meeting dragged on for three hours without any conclusion.",
+    "example_jp": "会議は結論が出ないまま3時間もだらだらと続いた。"
+  },
+  {
+    "word": "cast",
+    "meaning": "を投じる",
+    "example": "The setting sun cast a long shadow across the field.",
+    "example_jp": "沈む夕日が野原に長い影を投じた。"
+  },
+  {
+    "word": "cast",
+    "meaning": "に役を当てる",
+    "example": "The director decided to cast her as the main character.",
+    "example_jp": "監督は彼女を主人公の役に当てることに決めた。"
+  },
+  {
+    "word": "scatter",
+    "meaning": "をまき散らす，分散する",
+    "example": "The wind scattered the leaves all over the yard.",
+    "example_jp": "風が庭中に落ち葉をまき散らした。"
+  },
+  {
+    "word": "tempt",
+    "meaning": "を（...する）気にさせる，を引きつける",
+    "example": "The delicious smell of the cake tempted me to eat it.",
+    "example_jp": "ケーキの美味しそうな匂いが、私をそれを食べたい気にさせた。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "を引き出す",
+    "example": "I need to go to the bank to withdraw some cash.",
+    "example_jp": "いくらか現金を出し（引き出し）に銀行へ行く必要がある。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "を撤回する",
+    "example": "The politician was forced to withdraw his controversial statement.",
+    "example_jp": "その政治家は、物議を醸した発言の撤回を余儀なくされた。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "撤退する",
+    "example": "The army began to withdraw from the border region.",
+    "example_jp": "軍は国境地帯からの撤退を開始した。"
+  },
+  {
+    "word": "yawn",
+    "meaning": "あくびをする",
+    "example": "He tried to hide his yawn during the long speech.",
+    "example_jp": "彼は長い演説の間、あくびを隠そうとした。"
+  },
+  {
+    "word": "blink",
+    "meaning": "まばたきする，点滅する",
+    "example": "The bright light made me blink my eyes.",
+    "example_jp": "まぶしい光に、私はまばたきをした。"
+  },
+  {
+    "word": "dye",
+    "meaning": "を染める，染まる",
+    "example": "She decided to dye her hair blue for the party.",
+    "example_jp": "彼女はパーティーのために髪を青く染めることにした。"
+  },
+  {
+    "word": "spill",
+    "meaning": "をこぼす，こぼれる",
+    "example": "I accidentally spilled coffee all over my shirt.",
+    "example_jp": "うっかりシャツの上にコーヒーをこぼしてしまった。"
+  },
+  {
+    "word": "irritate",
+    "meaning": "をいらいらさせる",
+    "example": "The constant noise from the street really irritates me.",
+    "example_jp": "通りの絶え間ない騒音が、私を本当にいらいらさせる。"
+  },
+  {
+    "word": "irritate",
+    "meaning": "をひりひりさせる",
+    "example": "Strong soap can irritate your sensitive skin.",
+    "example_jp": "強い石鹸は敏感な肌をひりひりさせる（刺激する）ことがある。"
+  },
+  {
+    "word": "insult",
+    "meaning": "を侮辱する",
+    "example": "He felt deeply insulted by her rude comments.",
+    "example_jp": "彼は彼女の失礼なコメントに深く侮辱されたと感じた。"
+  },
+  {
+    "word": "enforce",
+    "meaning": "を施行［実施］する",
+    "example": "It's the police's job to enforce the traffic laws.",
+    "example_jp": "交通法規を施行（実施）するのが警察の仕事だ。"
+  },
+  {
+    "word": "enforce",
+    "meaning": "を（～に）強制する",
+    "example": "Parents shouldn't enforce their own views on their children.",
+    "example_jp": "親は自分の考えを子供に強制すべきではない。"
+  },
+  {
+    "word": "rob",
+    "meaning": "から（金品を）奪う",
+    "example": "A man tried to rob the convenience store last night.",
+    "example_jp": "昨夜、男がコンビニから金品を奪おうとした。"
+  },
+  {
+    "word": "drain",
+    "meaning": "（液体）を流出させる，流れ出る",
+    "example": "You should drain the water from the pasta after boiling.",
+    "example_jp": "パスタを茹でた後は、お湯を流し出すべきだ。"
+  },
+  {
+    "word": "suspend",
+    "meaning": "を停職［停学，出場停止］にする",
+    "example": "The athlete was suspended for two games after the fight.",
+    "example_jp": "その選手は喧嘩の後、2試合の出場停止処分を受けた。"
+  },
+  {
+    "word": "suspend",
+    "meaning": "を一時的に中断する",
+    "example": "The construction was suspended due to a lack of funds.",
+    "example_jp": "資金不足のため、建設工事は一時的に中断された。"
+  },
+  {
+    "word": "drift",
+    "meaning": "漂う，さまよう，押し流す",
+    "example": "The boat began to drift out to sea.",
+    "example_jp": "ボートは海の方へと漂い始めた。"
+  },
+  {
+    "word": "forgive",
+    "meaning": "を許す，を免除する",
+    "example": "I will never forgive him for lying to me.",
+    "example_jp": "嘘をついた彼を私は決して許さない。"
+  },
+  {
+    "word": "revise",
+    "meaning": "を修正する，を改訂する",
+    "example": "The author had to revise the first chapter of his book.",
+    "example_jp": "著者は本の第一章を修正しなければならなかった。"
+  },
+  {
+    "word": "recruit",
+    "meaning": "を募る，新人を補充する",
+    "example": "The company is looking to recruit more software engineers.",
+    "example_jp": "その会社は、より多くのソフトウェア・エンジニアを募ろうとしている。"
+  },
+  {
+    "word": "twist",
+    "meaning": "をねじる，ひねる",
+    "example": "He twisted his ankle while playing soccer.",
+    "example_jp": "彼はサッカーをしている最中に足首をひねった。"
+  },
+  {
+    "word": "twist",
+    "meaning": "を歪曲する",
+    "example": "Don't twist my words to make it sound like I agreed.",
+    "example_jp": "私が同意したかのように聞こえるよう、言葉を歪曲しないで。"
+  },
+  {
+    "word": "crush",
+    "meaning": "を押しつぶす",
+    "example": "Be careful not to crush the eggs in the shopping bag.",
+    "example_jp": "買い物袋の中の卵を押しつぶさないように気をつけて。"
+  },
+  {
+    "word": "crush",
+    "meaning": "を弾圧する",
+    "example": "The rebellion was quickly crushed by the government forces.",
+    "example_jp": "反乱は政府軍によってすぐに弾圧された。"
+  },
+  {
+    "word": "pin",
+    "meaning": "をピンで留める，突き刺す",
+    "example": "She pinned a flower to her dress.",
+    "example_jp": "彼女はドレスに花をピンで留めた。"
+  },
+  {
+    "word": "uncover",
+    "meaning": "を暴く，発掘する",
+    "example": "The investigation uncovered a large corruption scandal.",
+    "example_jp": "調査により、大規模な汚職スキャンダルが暴かれた。"
+  },
+  {
+    "word": "exploit",
+    "meaning": "を活用する",
+    "example": "We should fully exploit the potential of solar energy.",
+    "example_jp": "私たちは太陽エネルギーの可能性を十分に活用すべきだ。"
+  },
+  {
+    "word": "exploit",
+    "meaning": "を搾取する，につけ込む",
+    "example": "The company was accused of exploiting cheap labor.",
+    "example_jp": "その会社は安価な労働力を搾取しているとして非難された。"
+  },
+  {
+    "word": "implement",
+    "meaning": "を実行［実施］する",
+    "example": "The school plan to implement a new language program next year.",
+    "example_jp": "学校は来年、新しい語学プログラムを実施する計画だ。"
+  },
+  {
+    "word": "integrate",
+    "meaning": "を統合する，融合する",
+    "example": "The aim is to integrate the two systems into one.",
+    "example_jp": "目的は、2つのシステムを1つに統合することだ。"
+  },
+  {
+    "word": "incorporate",
+    "meaning": "を取り入れる，合併する",
+    "example": "We should incorporate your suggestions into the final design.",
+    "example_jp": "あなたの提案を最終的なデザインに取り入れるべきだ。"
+  },
+  {
+    "word": "incorporate",
+    "meaning": "を法人にする",
+    "example": "They decided to incorporate the business last month.",
+    "example_jp": "彼らは先月、その事業を法人化することに決めた。"
+  },
+  {
+    "word": "profile",
+    "meaning": "人物の紹介",
+    "example": "The magazine published a profile of the successful CEO.",
+    "example_jp": "その雑誌は、成功したCEOの人物紹介を掲載した。"
+  },
+  {
+    "word": "profile",
+    "meaning": "横顔，輪郭",
+    "example": "The mountains stood out in dark profile against the sky.",
+    "example_jp": "山々が空を背景に暗い輪郭となって浮かび上がっていた。"
+  },
+  {
+    "word": "appetite",
+    "meaning": "食欲，欲求",
+    "example": "The long walk gave me a healthy appetite.",
+    "example_jp": "長い散歩のおかげで、健全な食欲がわいた。"
+  },
+  {
+    "word": "impulse",
+    "meaning": "衝動，刺激",
+    "example": "I felt a sudden impulse to buy that expensive watch.",
+    "example_jp": "あの高価な時計を買いたいという突然の衝動を感じた。"
+  },
+  {
+    "word": "script",
+    "meaning": "台本",
+    "example": "The actors spent all morning reading through the script.",
+    "example_jp": "俳優たちは午前中ずっと台本に目を通すのに費やした。"
+  },
+  {
+    "word": "script",
+    "meaning": "筆跡",
+    "example": "The letter was written in a beautiful, elegant script.",
+    "example_jp": "その手紙は美しく優雅な筆跡で書かれていた。"
+  },
+  {
+    "word": "anniversary",
+    "meaning": "（～周年）記念日",
+    "example": "Today is our tenth wedding anniversary.",
+    "example_jp": "今日は私たちの10回目の結婚記念日だ。"
+  },
+  {
+    "word": "pension",
+    "meaning": "年金",
+    "example": "He is living comfortably on his state pension.",
+    "example_jp": "彼は公的年金で快適に暮らしている。"
+  },
+  {
+    "word": "temper",
+    "meaning": "気質，機嫌，かんしゃく",
+    "example": "She has a very calm and steady temper.",
+    "example_jp": "彼女は非常に穏やかで安定した気質の持ち主だ。"
+  },
+  {
+    "word": "cortex",
+    "meaning": "皮質，樹皮",
+    "example": "The cerebral cortex plays a key role in memory and attention.",
+    "example_jp": "大脳皮質は記憶や注意力において重要な役割を果たしている。"
+  },
+  {
+    "word": "syndrome",
+    "meaning": "症候群，現象",
+    "example": "Fatigue and headache are common symptoms of the syndrome.",
+    "example_jp": "疲労と頭痛はその症候群の一般的な症状だ。"
+  },
+  {
+    "word": "chamber",
+    "meaning": "（特定の目的の）部屋，議場",
+    "example": "The meeting was held in the council chamber.",
+    "example_jp": "会議は評議会の議場（部屋）で行われた。"
+  }
+]

@@ -1,0 +1,608 @@
+[
+  {
+    "word": "pace",
+    "meaning": "歩調",
+    "example": "He walked at a fast pace.",
+    "example_jp": "彼は速い歩調で歩いた。"
+  },
+  {
+    "word": "pace",
+    "meaning": "速度",
+    "example": "The pace of progress is slow.",
+    "example_jp": "進歩の速度が遅い。"
+  },
+  {
+    "word": "prompt",
+    "meaning": "刺激する",
+    "example": "The news prompted him to act.",
+    "example_jp": "そのニュースが彼を行動するよう刺激した。"
+  },
+  {
+    "word": "prompt",
+    "meaning": "即座の",
+    "example": "He gave a prompt reply.",
+    "example_jp": "彼は即座の返事をした。"
+  },
+  {
+    "word": "prompt",
+    "meaning": "迅速な",
+    "example": "The service was prompt.",
+    "example_jp": "サービスは迅速だった。"
+  },
+  {
+    "word": "advantage",
+    "meaning": "利点",
+    "example": "This plan has many advantages.",
+    "example_jp": "この計画には多くの利点がある。"
+  },
+  {
+    "word": "advantage",
+    "meaning": "有利",
+    "example": "He used his advantage.",
+    "example_jp": "彼は自分の有利な立場を利用した。"
+  },
+  {
+    "word": "advantage",
+    "meaning": "利益",
+    "example": "It brought financial advantage.",
+    "example_jp": "それは金銭的な利益をもたらした。"
+  },
+  {
+    "word": "disadvantage",
+    "meaning": "不利益",
+    "example": "This method has a disadvantage.",
+    "example_jp": "この方法には不利益がある。"
+  },
+  {
+    "word": "disadvantage",
+    "meaning": "不利な点",
+    "example": "He is at a disadvantage.",
+    "example_jp": "彼は不利な点（状況）にある。"
+  },
+  {
+    "word": "drawback",
+    "meaning": "欠点",
+    "example": "The only drawback is the cost.",
+    "example_jp": "唯一の欠点は費用だ。"
+  },
+  {
+    "word": "loyalty",
+    "meaning": "忠誠",
+    "example": "He showed loyalty to his team.",
+    "example_jp": "彼はチームへの忠誠心を示した。"
+  },
+  {
+    "word": "discount",
+    "meaning": "割引",
+    "example": "I got a 20% discount.",
+    "example_jp": "私は20%の割引を受けた。"
+  },
+  {
+    "word": "discount",
+    "meaning": "割引する",
+    "example": "They discounted the price.",
+    "example_jp": "彼らは価格を割引した。"
+  },
+  {
+    "word": "discount",
+    "meaning": "軽視する",
+    "example": "He discounted the rumor.",
+    "example_jp": "彼はそのうわさを軽視した。"
+  },
+  {
+    "word": "coupon",
+    "meaning": "クーポン",
+    "example": "I used a coupon at the store.",
+    "example_jp": "私は店でクーポンを使った。"
+  },
+  {
+    "word": "access",
+    "meaning": "利用権",
+    "example": "Students have access to the library.",
+    "example_jp": "学生は図書館の利用権を持っている。"
+  },
+  {
+    "word": "access",
+    "meaning": "接近",
+    "example": "The building has easy access.",
+    "example_jp": "その建物は接近（アクセス）が容易だ。"
+  },
+  {
+    "word": "access",
+    "meaning": "アクセスする",
+    "example": "You can access the data online.",
+    "example_jp": "オンラインでデータにアクセスできる。"
+  },
+  {
+    "word": "privilege",
+    "meaning": "特権",
+    "example": "Education is a privilege.",
+    "example_jp": "教育は一つの特権だ。"
+  },
+  {
+    "word": "privilege",
+    "meaning": "特典",
+    "example": "Members get special privileges.",
+    "example_jp": "会員は特別な特典を得る。"
+  },
+  {
+    "word": "entitle",
+    "meaning": "権利を与える",
+    "example": "The ticket entitles you to a free drink.",
+    "example_jp": "そのチケットはあなたに無料の飲み物の権利を与える。"
+  },
+  {
+    "word": "humble",
+    "meaning": "謙虚な",
+    "example": "He is humble despite his success.",
+    "example_jp": "彼は成功しているにもかかわらず、謙虚だ。"
+  },
+  {
+    "word": "humble",
+    "meaning": "地位が低い",
+    "example": "He came from a humble family.",
+    "example_jp": "彼は地位の低い家庭の出身だ。"
+  },
+  {
+    "word": "humble",
+    "meaning": "重要ではない",
+    "example": "It is a humble job.",
+    "example_jp": "それは重要ではない（つつましい）仕事だ。"
+  },
+  {
+    "word": "modest",
+    "meaning": "謙虚な",
+    "example": "She is modest about her success.",
+    "example_jp": "彼女は自分の成功について謙虚だ。"
+  },
+  {
+    "word": "modest",
+    "meaning": "控えめな",
+    "example": "They live on a modest income.",
+    "example_jp": "彼らは控えめな収入で暮らしている。"
+  },
+  {
+    "word": "miserable",
+    "meaning": "惨めな",
+    "example": "He felt miserable after the loss.",
+    "example_jp": "彼は負けた後、惨めな気分になった。"
+  },
+  {
+    "word": "obtain",
+    "meaning": "入手する",
+    "example": "He obtained a visa.",
+    "example_jp": "彼はビザを入手した。"
+  },
+  {
+    "word": "obtain",
+    "meaning": "得る",
+    "example": "She obtained information.",
+    "example_jp": "彼女は情報を得た。"
+  },
+  {
+    "word": "inherit",
+    "meaning": "相続する",
+    "example": "He inherited the house.",
+    "example_jp": "彼はその家を相続した。"
+  },
+  {
+    "word": "inherit",
+    "meaning": "受け継ぐ",
+    "example": "She inherited her mother’s talent.",
+    "example_jp": "彼女は母親の才能を受け継いだ。"
+  },
+  {
+    "word": "insurance",
+    "meaning": "保険",
+    "example": "He bought health insurance.",
+    "example_jp": "彼は健康保険に入った。"
+  },
+  {
+    "word": "premium",
+    "meaning": "保険料",
+    "example": "The insurance premium is high.",
+    "example_jp": "その保険料は高い。"
+  },
+  {
+    "word": "premium",
+    "meaning": "割増料金",
+    "example": "They paid a premium for the service.",
+    "example_jp": "彼らはそのサービスに割増料金を払った。"
+  },
+  {
+    "word": "premium",
+    "meaning": "高級な",
+    "example": "This is a premium product.",
+    "example_jp": "これは高級な製品だ。"
+  },
+  {
+    "word": "convert",
+    "meaning": "転換する",
+    "example": "They converted the room into an office.",
+    "example_jp": "彼らはその部屋をオフィスに転換した。"
+  },
+  {
+    "word": "standardize",
+    "meaning": "標準化する",
+    "example": "They standardized the rules.",
+    "example_jp": "彼らは規則を標準化した。"
+  },
+  {
+    "word": "undoubtedly",
+    "meaning": "確かに",
+    "example": "He is undoubtedly right.",
+    "example_jp": "彼は確かに正しい。"
+  },
+  {
+    "word": "undoubtedly",
+    "meaning": "明らかに",
+    "example": "Undoubtedly, this is true.",
+    "example_jp": "明らかに、これは本当だ。"
+  },
+  {
+    "word": "positive",
+    "meaning": "肯定的な",
+    "example": "She has a positive attitude.",
+    "example_jp": "彼女は肯定的な態度を持っている。"
+  },
+  {
+    "word": "positive",
+    "meaning": "確信して",
+    "example": "He is positive about the result.",
+    "example_jp": "彼は結果について確信している。"
+  },
+  {
+    "word": "positive",
+    "meaning": "陽性の",
+    "example": "The test result was positive.",
+    "example_jp": "検査結果は陽性だった。"
+  },
+  {
+    "word": "negative",
+    "meaning": "否定的な",
+    "example": "He gave a negative answer.",
+    "example_jp": "彼は否定的な答えを出した。"
+  },
+  {
+    "word": "negative",
+    "meaning": "消極的な",
+    "example": "She is negative about the plan.",
+    "example_jp": "彼女はその計画に消極的だ。"
+  },
+  {
+    "word": "negative",
+    "meaning": "陰性の",
+    "example": "The test result was negative.",
+    "example_jp": "検査結果は陰性だった。"
+  },
+  {
+    "word": "enjoyment",
+    "meaning": "楽しみ",
+    "example": "Reading gives me enjoyment.",
+    "example_jp": "読書は私に楽しみを与えてくれる。"
+  },
+  {
+    "word": "enjoyment",
+    "meaning": "享受",
+    "example": "He found enjoyment in music.",
+    "example_jp": "彼は音楽に享受（楽しみ）を見出した。"
+  },
+  {
+    "word": "invest",
+    "meaning": "投資する",
+    "example": "He invested in stocks.",
+    "example_jp": "彼は株に投資した。"
+  },
+  {
+    "word": "invest",
+    "meaning": "与える",
+    "example": "They invested him with authority.",
+    "example_jp": "彼らは彼に権威を与えた。"
+  },
+  {
+    "word": "fund",
+    "meaning": "基金",
+    "example": "They raised a fund.",
+    "example_jp": "彼らは基金を募った。"
+  },
+  {
+    "word": "fund",
+    "meaning": "資金",
+    "example": "The fund supports students.",
+    "example_jp": "その資金（基金）が学生を支援している。"
+  },
+  {
+    "word": "invention",
+    "meaning": "発明",
+    "example": "The telephone is a great invention.",
+    "example_jp": "電話は素晴らしい発明だ。"
+  },
+  {
+    "word": "intend",
+    "meaning": "つもりだ",
+    "example": "I intend to study abroad.",
+    "example_jp": "私は留学するつもりだ。"
+  },
+  {
+    "word": "intensive",
+    "meaning": "集中的な",
+    "example": "They had intensive training.",
+    "example_jp": "彼らは集中的なトレーニングを受けた。"
+  },
+  {
+    "word": "intensive",
+    "meaning": "徹底的な",
+    "example": "The study was intensive.",
+    "example_jp": "その研究は徹底的だった。"
+  },
+  {
+    "word": "aspiration",
+    "meaning": "熱望",
+    "example": "She has aspirations to be a doctor.",
+    "example_jp": "彼女は医者になることを熱望している。"
+  },
+  {
+    "word": "aspiration",
+    "meaning": "野望",
+    "example": "His aspiration is strong.",
+    "example_jp": "彼の野望は強い。"
+  },
+  {
+    "word": "replace",
+    "meaning": "取って代わる",
+    "example": "This machine replaced the old one.",
+    "example_jp": "この機械が古いものに取って代わった。"
+  },
+  {
+    "word": "replace",
+    "meaning": "取り替える",
+    "example": "He replaced the battery.",
+    "example_jp": "彼はバッテリーを取り替えた。"
+  },
+  {
+    "word": "displace",
+    "meaning": "取って代わる",
+    "example": "New technology displaced old methods.",
+    "example_jp": "新しい技術が古い方法に取って代わった。"
+  },
+  {
+    "word": "substitute",
+    "meaning": "代用品",
+    "example": "Use honey as a substitute for sugar.",
+    "example_jp": "砂糖の代用品として蜂蜜を使いなさい。"
+  },
+  {
+    "word": "substitute",
+    "meaning": "代わりに使う",
+    "example": "She substituted water for milk.",
+    "example_jp": "彼女は牛乳の代わりに水を使った。"
+  },
+  {
+    "word": "substitute",
+    "meaning": "代理人",
+    "example": "He is a substitute teacher.",
+    "example_jp": "彼は代理人の教師（代用教員）だ。"
+  },
+  {
+    "word": "agent",
+    "meaning": "代理人",
+    "example": "He is a travel agent.",
+    "example_jp": "彼は旅行代理人だ。"
+  },
+  {
+    "word": "agent",
+    "meaning": "業者",
+    "example": "The agent handled the sale.",
+    "example_jp": "その業者（代理人）が販売を担当した。"
+  },
+  {
+    "word": "agency",
+    "meaning": "代理店",
+    "example": "She works at an advertising agency.",
+    "example_jp": "彼女は広告代理店で働いている。"
+  },
+  {
+    "word": "agency",
+    "meaning": "機関",
+    "example": "A government agency announced it.",
+    "example_jp": "政府機関がそれを発表した。"
+  },
+  {
+    "word": "sufficient",
+    "meaning": "十分な",
+    "example": "The food is sufficient for all.",
+    "example_jp": "食べ物は全員に十分だ。"
+  },
+  {
+    "word": "adequate",
+    "meaning": "十分な",
+    "example": "The room is adequate for two.",
+    "example_jp": "その部屋は2人には十分だ。"
+  },
+  {
+    "word": "adequate",
+    "meaning": "適切な",
+    "example": "He gave an adequate answer.",
+    "example_jp": "彼は適切な答えを出した。"
+  },
+  {
+    "word": "abundant",
+    "meaning": "豊富な",
+    "example": "The area has abundant water.",
+    "example_jp": "その地域は水が豊富だ。"
+  },
+  {
+    "word": "subject",
+    "meaning": "主題",
+    "example": "The subject is difficult.",
+    "example_jp": "その主題は難しい。"
+  },
+  {
+    "word": "subject",
+    "meaning": "科目",
+    "example": "Math is my favorite subject.",
+    "example_jp": "数学は私の大好きな科目だ。"
+  },
+  {
+    "word": "subject",
+    "meaning": "被験者",
+    "example": "The subjects participated in the test.",
+    "example_jp": "被験者たちがテストに参加した。"
+  },
+  {
+    "word": "subject",
+    "meaning": "影響を受けやすい",
+    "example": "He is subject to stress.",
+    "example_jp": "彼はストレスの影響を受けやすい。"
+  },
+  {
+    "word": "subject",
+    "meaning": "服従させる",
+    "example": "They subjected him to tests.",
+    "example_jp": "彼らは彼をテストに服従させた（受けさせた）。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "転送する",
+    "example": "He transferred the files.",
+    "example_jp": "彼はファイルを転送した。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "振り込む",
+    "example": "She transferred money.",
+    "example_jp": "彼女は金を振り込んだ。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "移動させる",
+    "example": "They transferred him to Tokyo.",
+    "example_jp": "彼らは彼を東京へ移動（転勤）させた。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "移る",
+    "example": "He transferred to another school.",
+    "example_jp": "彼は別の学校に移った（転校した）。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "移転",
+    "example": "The transfer took place yesterday.",
+    "example_jp": "移転は昨日行われた。"
+  },
+  {
+    "word": "transition",
+    "meaning": "移り変わり",
+    "example": "The transition was smooth.",
+    "example_jp": "移り変わり（移行）はスムーズだった。"
+  },
+  {
+    "word": "transition",
+    "meaning": "過渡期",
+    "example": "He is in a transition period.",
+    "example_jp": "彼は過渡期にいる。"
+  },
+  {
+    "word": "artistic",
+    "meaning": "芸術の",
+    "example": "She has artistic talent.",
+    "example_jp": "彼女には芸術の才能がある。"
+  },
+  {
+    "word": "aesthetic",
+    "meaning": "美的な",
+    "example": "The design has aesthetic value.",
+    "example_jp": "そのデザインには美的な価値がある。"
+  },
+  {
+    "word": "aesthetic",
+    "meaning": "美学の",
+    "example": "He studies aesthetic theory.",
+    "example_jp": "彼は美学の理論を研究している。"
+  },
+  {
+    "word": "economical",
+    "meaning": "経済的な",
+    "example": "This car is economical.",
+    "example_jp": "この車は経済的だ。"
+  },
+  {
+    "word": "economical",
+    "meaning": "倹約する",
+    "example": "She is economical with money.",
+    "example_jp": "彼女はお金を倹約する。"
+  },
+  {
+    "word": "economics",
+    "meaning": "経済学",
+    "example": "He studies economics.",
+    "example_jp": "彼は経済学を研究している。"
+  },
+  {
+    "word": "means",
+    "meaning": "手段",
+    "example": "We need a means of communication.",
+    "example_jp": "私たちは伝達の手段が必要だ。"
+  },
+  {
+    "word": "means",
+    "meaning": "財力",
+    "example": "He has the means to buy a house.",
+    "example_jp": "彼には家を買うための財力がある。"
+  },
+  {
+    "word": "convey",
+    "meaning": "伝える",
+    "example": "He conveyed his feelings.",
+    "example_jp": "彼は自分の気持ちを伝えた。"
+  },
+  {
+    "word": "convey",
+    "meaning": "運ぶ",
+    "example": "The truck conveyed goods.",
+    "example_jp": "トラックが商品を運んだ。"
+  },
+  {
+    "word": "package",
+    "meaning": "小包",
+    "example": "The package arrived today.",
+    "example_jp": "小包が今日、届いた。"
+  },
+  {
+    "word": "package",
+    "meaning": "パッケージ",
+    "example": "The package includes a guide.",
+    "example_jp": "そのパッケージにはガイドが含まれている。"
+  },
+  {
+    "word": "package",
+    "meaning": "包装する",
+    "example": "They packaged the products.",
+    "example_jp": "彼らは製品を包装した。"
+  },
+  {
+    "word": "novel",
+    "meaning": "小説",
+    "example": "He wrote a novel.",
+    "example_jp": "彼は小説を書いた。"
+  },
+  {
+    "word": "novel",
+    "meaning": "斬新な",
+    "example": "The idea is novel.",
+    "example_jp": "その考えは斬新だ。"
+  },
+  {
+    "word": "bible",
+    "meaning": "聖書",
+    "example": "The Bible is important in Christianity.",
+    "example_jp": "聖書はキリスト教において重要だ。"
+  },
+  {
+    "word": "bible",
+    "meaning": "必読書",
+    "example": "This book is the bible of cooking.",
+    "example_jp": "この本は料理の必読書（バイブル）だ。"
+  }
+]

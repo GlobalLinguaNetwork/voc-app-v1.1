@@ -1,0 +1,614 @@
+[
+  {
+    "word": "path",
+    "meaning": "小道",
+    "example": "We walked along the path.",
+    "example_jp": "私たちは小道に沿って歩いた。"
+  },
+  {
+    "word": "path",
+    "meaning": "進路",
+    "example": "He chose a new career path.",
+    "example_jp": "彼は新しいキャリアの進路を選んだ。"
+  },
+  {
+    "word": "pave",
+    "meaning": "舗装する",
+    "example": "The road is paved with stones.",
+    "example_jp": "その道路は石で舗装されている。"
+  },
+  {
+    "word": "pedestrian",
+    "meaning": "歩行者",
+    "example": "The street is full of pedestrians.",
+    "example_jp": "通りは歩行者でいっぱいだ。"
+  },
+  {
+    "word": "stumble",
+    "meaning": "つまずく",
+    "example": "He stumbled on a rock.",
+    "example_jp": "彼は石につまずいた。"
+  },
+  {
+    "word": "stumble",
+    "meaning": "つまずき",
+    "example": "His stumble surprised everyone.",
+    "example_jp": "彼のつまずきは皆を驚かせた。"
+  },
+  {
+    "word": "drag",
+    "meaning": "引きずる",
+    "example": "He dragged the heavy box.",
+    "example_jp": "彼は重い箱を引きずった。"
+  },
+  {
+    "word": "drag",
+    "meaning": "のろのろ進む",
+    "example": "The line dragged slowly.",
+    "example_jp": "列はのろのろ進んだ。"
+  },
+  {
+    "word": "crawl",
+    "meaning": "這う",
+    "example": "The baby crawled.",
+    "example_jp": "赤ちゃんが這った。"
+  },
+  {
+    "word": "crawl",
+    "meaning": "のろのろ進む",
+    "example": "Traffic crawled along.",
+    "example_jp": "交通（の流れ）はのろのろ進んだ。"
+  },
+  {
+    "word": "measure",
+    "meaning": "測る",
+    "example": "They measured the room.",
+    "example_jp": "彼らは部屋を測った。"
+  },
+  {
+    "word": "measure",
+    "meaning": "評価する",
+    "example": "We must measure progress.",
+    "example_jp": "私たちは進捗を評価しなければならない。"
+  },
+  {
+    "word": "measure",
+    "meaning": "手段",
+    "example": "This is a safety measure.",
+    "example_jp": "これは安全手段だ。"
+  },
+  {
+    "word": "measure",
+    "meaning": "対策",
+    "example": "They took strong measures.",
+    "example_jp": "彼らは強力な対策を講じた。"
+  },
+  {
+    "word": "describe",
+    "meaning": "描写する",
+    "example": "He described the scene.",
+    "example_jp": "彼はその場面を描写した。"
+  },
+  {
+    "word": "describe",
+    "meaning": "述べる",
+    "example": "She described the plan.",
+    "example_jp": "彼女はその計画を述べた。"
+  },
+  {
+    "word": "describe",
+    "meaning": "説明する",
+    "example": "Please describe the rule.",
+    "example_jp": "その規則を説明してください。"
+  },
+  {
+    "word": "promotion",
+    "meaning": "昇進",
+    "example": "He got a promotion.",
+    "example_jp": "彼は昇進した。"
+  },
+  {
+    "word": "promotion",
+    "meaning": "販売促進",
+    "example": "They started a sales promotion.",
+    "example_jp": "彼らは販売促進を始めた。"
+  },
+  {
+    "word": "promote",
+    "meaning": "促進する",
+    "example": "They promoted the product.",
+    "example_jp": "彼らはその製品を促進した。"
+  },
+  {
+    "word": "promote",
+    "meaning": "昇進させる",
+    "example": "He was promoted to manager.",
+    "example_jp": "彼はマネージャーに昇進させられた。"
+  },
+  {
+    "word": "salary",
+    "meaning": "給料",
+    "example": "His monthly salary is high.",
+    "example_jp": "彼の月給（給料）は高い。"
+  },
+  {
+    "word": "wallet",
+    "meaning": "財布",
+    "example": "He lost his wallet.",
+    "example_jp": "彼は財布を失くした。"
+  },
+  {
+    "word": "objective",
+    "meaning": "客観的な",
+    "example": "This is an objective view.",
+    "example_jp": "これは客観的な見方だ。"
+  },
+  {
+    "word": "objective",
+    "meaning": "目標",
+    "example": "Our objective is clear.",
+    "example_jp": "私たちの目標は明確だ。"
+  },
+  {
+    "word": "subjective",
+    "meaning": "主観的な",
+    "example": "His opinion is subjective.",
+    "example_jp": "彼の意見は主観的だ。"
+  },
+  {
+    "word": "motivation",
+    "meaning": "やる気",
+    "example": "He lost motivation.",
+    "example_jp": "彼はやる気を失った。"
+  },
+  {
+    "word": "motivation",
+    "meaning": "動機づけ",
+    "example": "What is your motivation?",
+    "example_jp": "あなたの動機づけは何ですか。"
+  },
+  {
+    "word": "motive",
+    "meaning": "動機",
+    "example": "The motive is unclear.",
+    "example_jp": "その動機は不明確だ。"
+  },
+  {
+    "word": "incentive",
+    "meaning": "励み",
+    "example": "Money is an incentive.",
+    "example_jp": "お金は励みになる。"
+  },
+  {
+    "word": "incentive",
+    "meaning": "動機",
+    "example": "They offered an incentive.",
+    "example_jp": "彼らは動機（報奨）を提示した。"
+  },
+  {
+    "word": "inspire",
+    "meaning": "鼓舞する",
+    "example": "The story inspired him.",
+    "example_jp": "その話は彼を鼓舞した。"
+  },
+  {
+    "word": "inspire",
+    "meaning": "喚起する",
+    "example": "The view inspired hope.",
+    "example_jp": "その景色は希望を喚起した。"
+  },
+  {
+    "word": "choice",
+    "meaning": "選択",
+    "example": "You have a choice.",
+    "example_jp": "あなたには選択肢（選択）がある。"
+  },
+  {
+    "word": "choice",
+    "meaning": "選択の自由",
+    "example": "Freedom of choice is important.",
+    "example_jp": "選択の自由は重要だ。"
+  },
+  {
+    "word": "option",
+    "meaning": "選択肢",
+    "example": "You have two options.",
+    "example_jp": "あなたには2つの選択肢がある。"
+  },
+  {
+    "word": "option",
+    "meaning": "選択の自由",
+    "example": "It is an option to stay.",
+    "example_jp": "滞在することは一つの選択の自由だ。"
+  },
+  {
+    "word": "vote",
+    "meaning": "投票する",
+    "example": "They voted yesterday.",
+    "example_jp": "彼らは昨日、投票した。"
+  },
+  {
+    "word": "vote",
+    "meaning": "投票",
+    "example": "The vote was close.",
+    "example_jp": "その投票は接戦だった。"
+  },
+  {
+    "word": "poll",
+    "meaning": "世論調査",
+    "example": "The poll shows support.",
+    "example_jp": "世論調査は支持を示している。"
+  },
+  {
+    "word": "poll",
+    "meaning": "投票",
+    "example": "The poll begins at 8.",
+    "example_jp": "投票は8時に始まる。"
+  },
+  {
+    "word": "poll",
+    "meaning": "票を獲得する",
+    "example": "He polled many votes.",
+    "example_jp": "彼は多くの票を獲得した。"
+  },
+  {
+    "word": "elect",
+    "meaning": "選ぶ",
+    "example": "They elected a new leader.",
+    "example_jp": "彼らは新しいリーダーを選んだ。"
+  },
+  {
+    "word": "surgeon",
+    "meaning": "外科医",
+    "example": "He is a heart surgeon.",
+    "example_jp": "彼は心臓外科医だ。"
+  },
+  {
+    "word": "base",
+    "meaning": "基礎を置く",
+    "example": "The theory is based on facts.",
+    "example_jp": "その理論は事実に基礎を置いている。"
+  },
+  {
+    "word": "base",
+    "meaning": "土台",
+    "example": "The base of the tower is wide.",
+    "example_jp": "その塔の土台は広い。"
+  },
+  {
+    "word": "former",
+    "meaning": "前の",
+    "example": "The former president spoke.",
+    "example_jp": "前（前任）の大統領が話をした。"
+  },
+  {
+    "word": "former",
+    "meaning": "前者",
+    "example": "A and B: A is the former.",
+    "example_jp": "AとB：Aが前者だ。"
+  },
+  {
+    "word": "latter",
+    "meaning": "後半の",
+    "example": "The latter half is better.",
+    "example_jp": "後半の方が良い。"
+  },
+  {
+    "word": "latter",
+    "meaning": "後者",
+    "example": "A and B: B is the latter.",
+    "example_jp": "AとB：Bが後者だ。"
+  },
+  {
+    "word": "accept",
+    "meaning": "受け入れる",
+    "example": "He accepted the offer.",
+    "example_jp": "彼は申し出を受け入れた。"
+  },
+  {
+    "word": "accept",
+    "meaning": "承認する",
+    "example": "They accepted the rule.",
+    "example_jp": "彼らはその規則を承認した。"
+  },
+  {
+    "word": "patient",
+    "meaning": "患者",
+    "example": "The patient is stable.",
+    "example_jp": "その患者の状態は安定している。"
+  },
+  {
+    "word": "patient",
+    "meaning": "忍耐強い",
+    "example": "She is patient with children.",
+    "example_jp": "彼女は子供に対して忍耐強い。"
+  },
+  {
+    "word": "tolerate",
+    "meaning": "許す",
+    "example": "I can’t tolerate noise.",
+    "example_jp": "私は騒音を許す（耐える）ことができない。"
+  },
+  {
+    "word": "tolerate",
+    "meaning": "耐える",
+    "example": "Plants tolerate cold.",
+    "example_jp": "植物は寒さに耐える。"
+  },
+  {
+    "word": "endure",
+    "meaning": "耐える",
+    "example": "He endured the pain.",
+    "example_jp": "彼は痛みに耐えた。"
+  },
+  {
+    "word": "temper",
+    "meaning": "気性",
+    "example": "He has a bad temper.",
+    "example_jp": "彼は気性が荒い。"
+  },
+  {
+    "word": "temper",
+    "meaning": "短気",
+    "example": "He lost his temper.",
+    "example_jp": "彼は短気を起こした。"
+  },
+  {
+    "word": "temper",
+    "meaning": "機嫌",
+    "example": "She is in a good temper.",
+    "example_jp": "彼女は機嫌が良い。"
+  },
+  {
+    "word": "temper",
+    "meaning": "加減する",
+    "example": "Temper the heat.",
+    "example_jp": "熱を加減しなさい。"
+  },
+  {
+    "word": "survive",
+    "meaning": "生き残る",
+    "example": "He survived the accident.",
+    "example_jp": "彼はその事故で生き残った。"
+  },
+  {
+    "word": "survive",
+    "meaning": "生き延びる",
+    "example": "He survived the war.",
+    "example_jp": "彼は戦争を生き延びた。"
+  },
+  {
+    "word": "primarily",
+    "meaning": "主として",
+    "example": "The plan is primarily for safety.",
+    "example_jp": "その計画は主として安全のためだ。"
+  },
+  {
+    "word": "primarily",
+    "meaning": "第一に",
+    "example": "Primarily, we need time.",
+    "example_jp": "第一に、私たちは時間が必要だ。"
+  },
+  {
+    "word": "refuse",
+    "meaning": "断る",
+    "example": "He refused to go.",
+    "example_jp": "彼は行くのを断った。"
+  },
+  {
+    "word": "refuse",
+    "meaning": "拒否する",
+    "example": "They refused the offer.",
+    "example_jp": "彼らは申し出を拒否した。"
+  },
+  {
+    "word": "refuse",
+    "meaning": "ゴミ",
+    "example": "The street was full of refuse.",
+    "example_jp": "通りはゴミでいっぱいだった。"
+  },
+  {
+    "word": "deny",
+    "meaning": "否定する",
+    "example": "He denied the rumor.",
+    "example_jp": "彼は噂を否定した。"
+  },
+  {
+    "word": "reject",
+    "meaning": "拒絶する",
+    "example": "They rejected the plan.",
+    "example_jp": "彼らはその計画を拒絶した。"
+  },
+  {
+    "word": "limit",
+    "meaning": "制限する",
+    "example": "They limited the number.",
+    "example_jp": "彼らは数を制限した。"
+  },
+  {
+    "word": "limit",
+    "meaning": "抑える",
+    "example": "Limit sugar intake.",
+    "example_jp": "砂糖の摂取を抑えなさい。"
+  },
+  {
+    "word": "limit",
+    "meaning": "限界",
+    "example": "There is a limit.",
+    "example_jp": "限界がある。"
+  },
+  {
+    "word": "limit",
+    "meaning": "制限",
+    "example": "The limit on speed is 60.",
+    "example_jp": "速度の制限は60だ。"
+  },
+  {
+    "word": "lower",
+    "meaning": "下げる",
+    "example": "They lowered the price.",
+    "example_jp": "彼らは価格を下げた。"
+  },
+  {
+    "word": "lower",
+    "meaning": "低い方の",
+    "example": "The lower shelf is empty.",
+    "example_jp": "低い方の棚は空だ。"
+  },
+  {
+    "word": "shorten",
+    "meaning": "短くする",
+    "example": "They shortened the skirt.",
+    "example_jp": "彼らはスカートを短くした。"
+  },
+  {
+    "word": "risk",
+    "meaning": "危険",
+    "example": "There is a risk of fire.",
+    "example_jp": "火災の危険がある。"
+  },
+  {
+    "word": "risk",
+    "meaning": "危険にさらす",
+    "example": "He risked his life.",
+    "example_jp": "彼は命を危険にさらした。"
+  },
+  {
+    "word": "risk",
+    "meaning": "あえて…する",
+    "example": "He risked losing everything.",
+    "example_jp": "彼はすべてを失う危険をあえて冒した。"
+  },
+  {
+    "word": "hazard",
+    "meaning": "危険",
+    "example": "This is a fire hazard.",
+    "example_jp": "これは火災の危険だ。"
+  },
+  {
+    "word": "scary",
+    "meaning": "恐ろしい",
+    "example": "The movie was scary.",
+    "example_jp": "その映画は恐ろしかった。"
+  },
+  {
+    "word": "present",
+    "meaning": "現在の",
+    "example": "The present situation is bad.",
+    "example_jp": "現在の状況は悪い。"
+  },
+  {
+    "word": "present",
+    "meaning": "出席して",
+    "example": "He is present today.",
+    "example_jp": "彼は今日、出席している。"
+  },
+  {
+    "word": "present",
+    "meaning": "存在する",
+    "example": "Water is present everywhere.",
+    "example_jp": "水はどこにでも存在する。"
+  },
+  {
+    "word": "present",
+    "meaning": "現在",
+    "example": "The present is important.",
+    "example_jp": "現在は重要だ。"
+  },
+  {
+    "word": "present",
+    "meaning": "贈り物",
+    "example": "I got a present.",
+    "example_jp": "私は贈り物をもらった。"
+  },
+  {
+    "word": "present",
+    "meaning": "提出する",
+    "example": "He presented the report.",
+    "example_jp": "彼は報告書を提出した。"
+  },
+  {
+    "word": "present",
+    "meaning": "発表する",
+    "example": "She presented her idea.",
+    "example_jp": "彼女は自分の考えを発表した。"
+  },
+  {
+    "word": "entity",
+    "meaning": "実在するもの",
+    "example": "A company is a legal entity.",
+    "example_jp": "会社は法的に実在するものだ。"
+  },
+  {
+    "word": "entity",
+    "meaning": "実在",
+    "example": "The entity exists independently.",
+    "example_jp": "その実在は独立して存在する。"
+  },
+  {
+    "word": "submit",
+    "meaning": "提出する",
+    "example": "He submitted the report.",
+    "example_jp": "彼は報告書を提出した。"
+  },
+  {
+    "word": "submit",
+    "meaning": "服従させる",
+    "example": "They submitted him to rules.",
+    "example_jp": "彼らは彼を規則に服従させた。"
+  },
+  {
+    "word": "submit",
+    "meaning": "服従する",
+    "example": "He submitted to authority.",
+    "example_jp": "彼は権威に服従した。"
+  },
+  {
+    "word": "conform",
+    "meaning": "従う",
+    "example": "He conforms to rules.",
+    "example_jp": "彼は規則に従う。"
+  },
+  {
+    "word": "conform",
+    "meaning": "適合する",
+    "example": "The design conforms to standards.",
+    "example_jp": "そのデザインは基準に適合している。"
+  },
+  {
+    "word": "annual",
+    "meaning": "年1回の",
+    "example": "The annual event is fun.",
+    "example_jp": "その年1回の行事は楽しい。"
+  },
+  {
+    "word": "annual",
+    "meaning": "1年間の",
+    "example": "The annual budget increased.",
+    "example_jp": "1年間の予算が増加した。"
+  },
+  {
+    "word": "millennium",
+    "meaning": "千年",
+    "example": "A millennium passed.",
+    "example_jp": "千年が過ぎた。"
+  },
+  {
+    "word": "millennium",
+    "meaning": "千年祭",
+    "example": "They celebrated the millennium.",
+    "example_jp": "彼らは千年祭を祝った。"
+  },
+  {
+    "word": "session",
+    "meaning": "集まり",
+    "example": "The session lasted two hours.",
+    "example_jp": "その集まりは2時間続いた。"
+  },
+  {
+    "word": "session",
+    "meaning": "会議",
+    "example": "The session begins at noon.",
+    "example_jp": "会議は正午に始まる。"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "word": "outbreak",
+    "meaning": "発生，勃発",
+    "example": "The government is trying to contain the outbreak of the virus.",
+    "example_jp": "政府はそのウイルスの発生を封じ込めようとしている。"
+  },
+  {
+    "word": "chaos",
+    "meaning": "混沌，大混乱",
+    "example": "The city was in total chaos after the heavy snowstorm.",
+    "example_jp": "大吹雪の後、街は完全な大混乱に陥った。"
+  },
+  {
+    "word": "nightmare",
+    "meaning": "悪夢，不安感",
+    "example": "The traffic jam turned into a complete nightmare.",
+    "example_jp": "その交通渋滞は完全な悪夢（のような状況）となった。"
+  },
+  {
+    "word": "horror",
+    "meaning": "恐怖",
+    "example": "She watched the scene in horror.",
+    "example_jp": "彼女は恐怖の中でその光景を見た。"
+  },
+  {
+    "word": "horror",
+    "meaning": "強い嫌悪，嫌な物",
+    "example": "To my horror, the presentation was a total failure.",
+    "example_jp": "嫌なことに、プレゼンは完全に失敗だった。"
+  },
+  {
+    "word": "cluster",
+    "meaning": "集団",
+    "example": "A cluster of people gathered around the street performer.",
+    "example_jp": "街頭パフォーマーの周りに人々の集団が集まった。"
+  },
+  {
+    "word": "cluster",
+    "meaning": "（植物の）房，束",
+    "example": "The vine had beautiful clusters of grapes.",
+    "example_jp": "そのブドウの木には美しいブドウの房がなっていた。"
+  },
+  {
+    "word": "pollen",
+    "meaning": "花粉",
+    "example": "Bees carry pollen from one flower to another.",
+    "example_jp": "ミツバチはある花から別の花へ花粉を運ぶ。"
+  },
+  {
+    "word": "hive",
+    "meaning": "ミツバチの巣",
+    "example": "Wild bees built a hive in the old tree.",
+    "example_jp": "野生のミツバチが古い木の中に巣を作った。"
+  },
+  {
+    "word": "hive",
+    "meaning": "人の集まる所",
+    "example": "The office was a hive of activity before the deadline.",
+    "example_jp": "締め切り前、オフィスは活気に満ちた（人の集まる）場所だった。"
+  },
+  {
+    "word": "irrigation",
+    "meaning": "灌漑",
+    "example": "The desert was turned into farmland through irrigation.",
+    "example_jp": "その砂漠は灌漑によって農地に変えられた。"
+  },
+  {
+    "word": "dose",
+    "meaning": "服用量，照射量",
+    "example": "Do not exceed the recommended dose of this medicine.",
+    "example_jp": "この薬の推奨服用量を超えないようにしてください。"
+  },
+  {
+    "word": "suicide",
+    "meaning": "自殺，自殺的行為",
+    "example": "Quitting your job without a plan is career suicide.",
+    "example_jp": "計画なしに仕事を辞めるのは、キャリアにおける自殺行為だ。"
+  },
+  {
+    "word": "feast",
+    "meaning": "祝宴，大ごちそう",
+    "example": "The king prepared a grand feast for his guests.",
+    "example_jp": "王は客人のために盛大な祝宴（ごちそう）を用意した。"
+  },
+  {
+    "word": "feast",
+    "meaning": "楽しみ",
+    "example": "The museum is a visual feast for art lovers.",
+    "example_jp": "その美術館は芸術愛好家にとって目を楽しませてくれるもの（楽しみ）だ。"
+  },
+  {
+    "word": "cuisine",
+    "meaning": "料理，料理法",
+    "example": "This restaurant is famous for its authentic Italian cuisine.",
+    "example_jp": "このレストランは本場のイタリア料理で有名だ。"
+  },
+  {
+    "word": "rumor",
+    "meaning": "うわさ",
+    "example": "There is a rumor that the CEO will resign soon.",
+    "example_jp": "CEOがまもなく辞任するといううわさがある。"
+  },
+  {
+    "word": "proverb",
+    "meaning": "ことわざ",
+    "example": "As the proverb goes, \"Time is money.\"",
+    "example_jp": "ことわざにある通り、「時は金なり」だ。"
+  },
+  {
+    "word": "signature",
+    "meaning": "署名",
+    "example": "Please put your signature at the bottom of the form.",
+    "example_jp": "用紙の最下部に署名をお願いします。"
+  },
+  {
+    "word": "signature",
+    "meaning": "特徴",
+    "example": "The chef's signature dish is grilled salmon.",
+    "example_jp": "そのシェフの特徴的な（看板）料理はサーモンのグリルだ。"
+  },
+  {
+    "word": "formula",
+    "meaning": "方法，解決策",
+    "example": "There is no magic formula for success.",
+    "example_jp": "成功のための魔法のような解決策（方法）などない。"
+  },
+  {
+    "word": "formula",
+    "meaning": "公式",
+    "example": "Students have to memorize the mathematical formula.",
+    "example_jp": "生徒たちはその数学の公式を覚えなければならない。"
+  },
+  {
+    "word": "tuition",
+    "meaning": "授業料",
+    "example": "University tuition fees have increased significantly.",
+    "example_jp": "大学の授業料が大幅に上がった。"
+  },
+  {
+    "word": "tuition",
+    "meaning": "指導",
+    "example": "The school offers private tuition in English.",
+    "example_jp": "その学校は英語の個人指導を提供している。"
+  },
+  {
+    "word": "intake",
+    "meaning": "摂取量",
+    "example": "You should reduce your daily intake of salt.",
+    "example_jp": "1日の塩分摂取量を減らすべきだ。"
+  },
+  {
+    "word": "intake",
+    "meaning": "受け入れ数",
+    "example": "The university has a large intake of international students.",
+    "example_jp": "その大学は留学生の受け入れ数が多い。"
+  },
+  {
+    "word": "spectrum",
+    "meaning": "スペクトル，範囲",
+    "example": "The report covers a broad spectrum of issues.",
+    "example_jp": "その報告書は幅広い範囲の問題を網羅している。"
+  },
+  {
+    "word": "kidney",
+    "meaning": "腎臓",
+    "example": "Alcohol can cause damage to your liver and kidneys.",
+    "example_jp": "アルコールは肝臓や腎臓にダメージを与える可能性がある。"
+  },
+  {
+    "word": "gear",
+    "meaning": "用具，器具",
+    "example": "We need to pack all our camping gear.",
+    "example_jp": "キャンプ用具を一式詰め込む必要がある。"
+  },
+  {
+    "word": "gear",
+    "meaning": "歯車，ギア",
+    "example": "The bike has 21 different gears.",
+    "example_jp": "その自転車には21段階のギアがついている。"
+  },
+  {
+    "word": "aisle",
+    "meaning": "通路",
+    "example": "Would you like a window seat or an aisle seat?",
+    "example_jp": "窓側の席と通路側の席、どちらがいいですか？"
+  },
+  {
+    "word": "grief",
+    "meaning": "深い悲しみ",
+    "example": "They were overcome with grief after the loss of their friend.",
+    "example_jp": "彼らは友人を亡くした後、深い悲しみに打ちひしがれた。"
+  },
+  {
+    "word": "destiny",
+    "meaning": "運命",
+    "example": "She believed it was her destiny to become a doctor.",
+    "example_jp": "彼女は医者になることが自分の運命だと信じていた。"
+  },
+  {
+    "word": "skull",
+    "meaning": "頭骨，頭蓋骨",
+    "example": "The doctor examined the X-ray of the patient's skull.",
+    "example_jp": "医師は患者の頭蓋骨のX線写真を調べた。"
+  },
+  {
+    "word": "skull",
+    "meaning": "頭脳",
+    "example": "Try to get some sense into your thick skull!",
+    "example_jp": "その分厚い頭（頭脳）で少しは分別を持ちなさい！"
+  },
+  {
+    "word": "tomb",
+    "meaning": "墓",
+    "example": "Archaeologists discovered an ancient royal tomb.",
+    "example_jp": "考古学者たちが古代の王の墓を発見した。"
+  },
+  {
+    "word": "monk",
+    "meaning": "修道士，僧",
+    "example": "The monk spent his whole life in the monastery.",
+    "example_jp": "その僧（修道士）は生涯を修道院で過ごした。"
+  },
+  {
+    "word": "worship",
+    "meaning": "崇拝，礼拝，賛美",
+    "example": "People gather at the temple for morning worship.",
+    "example_jp": "人々は朝の礼拝のために寺院に集まる。"
+  },
+  {
+    "word": "outstanding",
+    "meaning": "際立った",
+    "example": "She received an award for her outstanding performance.",
+    "example_jp": "彼女は際立った（優れた）業績に対して賞状を受け取った。"
+  },
+  {
+    "word": "outstanding",
+    "meaning": "未払いの，未解決の",
+    "example": "You still have an outstanding balance on your credit card.",
+    "example_jp": "クレジットカードにまだ未払いの残高があります。"
+  },
+  {
+    "word": "unprecedented",
+    "meaning": "前例のない，空前の",
+    "example": "The company reported unprecedented growth this year.",
+    "example_jp": "その会社は今年、前例のない（空前の）成長を報告した。"
+  },
+  {
+    "word": "infinite",
+    "meaning": "無限の，無数の",
+    "example": "The universe seems to be infinite.",
+    "example_jp": "宇宙は無限であるように思われる。"
+  },
+  {
+    "word": "worthwhile",
+    "meaning": "価値がある，立派な",
+    "example": "Volunteering is a worthwhile activity.",
+    "example_jp": "ボランティア活動は価値がある活動だ。"
+  },
+  {
+    "word": "indispensable",
+    "meaning": "不可欠な",
+    "example": "A smartphone has become indispensable in daily life.",
+    "example_jp": "スマートフォンは日常生活において不可欠なものになった。"
+  },
+  {
+    "word": "compulsory",
+    "meaning": "義務的な，強制的な",
+    "example": "Education is compulsory for children in this country.",
+    "example_jp": "この国では子供の教育は義務的（義務教育）だ。"
+  },
+  {
+    "word": "probable",
+    "meaning": "十分にありそうな",
+    "example": "It is probable that the project will be finished on time.",
+    "example_jp": "プロジェクトが予定通りに終わることは十分にありそうだ。"
+  },
+  {
+    "word": "ambiguous",
+    "meaning": "あいまいな，多義的な",
+    "example": "The ending of the movie was very ambiguous.",
+    "example_jp": "その映画の結末は非常にあいまいだった。"
+  },
+  {
+    "word": "obscure",
+    "meaning": "知られていない",
+    "example": "He started his career at an obscure local newspaper.",
+    "example_jp": "彼は世に知られていない地方紙でキャリアをスタートさせた。"
+  },
+  {
+    "word": "obscure",
+    "meaning": "不明瞭な",
+    "example": "The meaning of the sentence is obscure.",
+    "example_jp": "その文の意味は不明瞭だ。"
+  },
+  {
+    "word": "skeptical",
+    "meaning": "懐疑的な",
+    "example": "I'm skeptical about the new plan's success.",
+    "example_jp": "私は新しい計画の成功について懐疑的だ。"
+  },
+  {
+    "word": "fragile",
+    "meaning": "壊れやすい，虚弱な",
+    "example": "Handle this box with care; the contents are fragile.",
+    "example_jp": "この箱は慎重に扱ってください。中身は壊れやすいです。"
+  },
+  {
+    "word": "static",
+    "meaning": "静的な，動きのない",
+    "example": "The population of the village has remained static for years.",
+    "example_jp": "その村の人口は長年動きのない（一定の）ままだ。"
+  },
+  {
+    "word": "gradual",
+    "meaning": "徐々の，緩やかな",
+    "example": "There has been a gradual improvement in his health.",
+    "example_jp": "彼の健康状態には徐々の（緩やかな）改善が見られる。"
+  },
+  {
+    "word": "vocal",
+    "meaning": "声の，発声の",
+    "example": "The singer has amazing vocal range.",
+    "example_jp": "その歌手は驚くべき声の（発声）範囲を持っている。"
+  },
+  {
+    "word": "vocal",
+    "meaning": "はっきりものを言う",
+    "example": "She is a vocal critic of the government's policy.",
+    "example_jp": "彼女は政府の政策に対してはっきりものを言う（公然と批判する）批判家だ。"
+  },
+  {
+    "word": "vivid",
+    "meaning": "鮮やかな，生き生きとした",
+    "example": "I have a vivid memory of my first trip abroad.",
+    "example_jp": "私は最初の海外旅行の鮮やかな（鮮明な）記憶がある。"
+  },
+  {
+    "word": "imperial",
+    "meaning": "帝国の，皇帝の",
+    "example": "Tokyo is the site of the Japanese Imperial Palace.",
+    "example_jp": "東京は日本の皇居（帝国の宮殿）がある場所だ。"
+  },
+  {
+    "word": "hostile",
+    "meaning": "敵意のある",
+    "example": "The environment was hostile to new business.",
+    "example_jp": "その環境は新規ビジネスに対して敵意的（不都合）だった。"
+  },
+  {
+    "word": "superficial",
+    "meaning": "表面的な",
+    "example": "The wound was superficial and didn't need stitches.",
+    "example_jp": "その傷は表面的なもので、縫う必要はなかった。"
+  },
+  {
+    "word": "scarce",
+    "meaning": "乏しい",
+    "example": "Food and water became scarce during the long drought.",
+    "example_jp": "長い干ばつの間、食料と水が乏しくなった。"
+  },
+  {
+    "word": "scarce",
+    "meaning": "珍しい",
+    "example": "Good jobs are scarce in this small town.",
+    "example_jp": "この小さな町では、良い仕事は珍しい（めったにない）。"
+  },
+  {
+    "word": "gross",
+    "meaning": "総計の",
+    "example": "Our company's gross profit increased this year.",
+    "example_jp": "わが社の総（計）利益は今年増加した。"
+  },
+  {
+    "word": "gross",
+    "meaning": "甚だしい，粗野な",
+    "example": "It was a gross violation of human rights.",
+    "example_jp": "それは甚だしい人権侵害だった。"
+  },
+  {
+    "word": "inherent",
+    "meaning": "生来の，本来的に備わっている",
+    "example": "There are inherent risks in any investment.",
+    "example_jp": "どんな投資にも、本来的に備わっている（固有の）リスクがある。"
+  },
+  {
+    "word": "notable",
+    "meaning": "注目に値する，著名な",
+    "example": "The city is notable for its historic architecture.",
+    "example_jp": "その都市は歴史的な建築物で注目に値する（有名である）。"
+  }
+]

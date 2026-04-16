@@ -1,0 +1,302 @@
+[
+  {
+    "word": "trash",
+    "meaning": "ごみ",
+    "example": "He took out the trash.",
+    "example_jp": "彼はごみを出した。"
+  },
+  {
+    "word": "litter",
+    "meaning": "(公共の場での)ごみ",
+    "example": "The park was full of litter.",
+    "example_jp": "公園はごみでいっぱいだった。"
+  },
+  {
+    "word": "trace",
+    "meaning": "名残；（通った）跡",
+    "example": "There was no trace of him.",
+    "example_jp": "彼の名残は何もなかった。"
+  },
+  {
+    "word": "row",
+    "meaning": "列",
+    "example": "They sat in the front row.",
+    "example_jp": "彼らは最前列に座った。"
+  },
+  {
+    "word": "core",
+    "meaning": "核心、中心",
+    "example": "Trust is the core of our team.",
+    "example_jp": "信頼が私たちのチームの核心だ。"
+  },
+  {
+    "word": "orbit",
+    "meaning": "軌道",
+    "example": "The satellite entered orbit.",
+    "example_jp": "その衛星は軌道に入った。"
+  },
+  {
+    "word": "galaxy",
+    "meaning": "銀河",
+    "example": "We live in the Milky Way galaxy.",
+    "example_jp": "私たちは天の川銀河に住んでいる。"
+  },
+  {
+    "word": "myth",
+    "meaning": "神話",
+    "example": "The story is just a myth.",
+    "example_jp": "その話はただの神話だ。"
+  },
+  {
+    "word": "faith",
+    "meaning": "信頼",
+    "example": "I have faith in you.",
+    "example_jp": "私はあなたを信頼している。"
+  },
+  {
+    "word": "wisdom",
+    "meaning": "知恵",
+    "example": "She shared her wisdom.",
+    "example_jp": "彼女は自分の知恵を分けてくれた。"
+  },
+  {
+    "word": "obligation",
+    "meaning": "義務",
+    "example": "It is our obligation to help.",
+    "example_jp": "助けることは私たちの義務だ。"
+  },
+  {
+    "word": "privilege",
+    "meaning": "特典、特権",
+    "example": "It’s a privilege to be here.",
+    "example_jp": "ここにいられるのは特権だ。"
+  },
+  {
+    "word": "discrimination",
+    "meaning": "差別",
+    "example": "Discrimination must end.",
+    "example_jp": "差別はなくさなければならない。"
+  },
+  {
+    "word": "ambition",
+    "meaning": "願望",
+    "example": "She has big ambitions.",
+    "example_jp": "彼女には大きな願望がある。"
+  },
+  {
+    "word": "illusion",
+    "meaning": "錯覚",
+    "example": "The image was an illusion.",
+    "example_jp": "その映像は錯覚だった。"
+  },
+  {
+    "word": "instinct",
+    "meaning": "本能",
+    "example": "Animals act on instinct.",
+    "example_jp": "動物は本能で行動する。"
+  },
+  {
+    "word": "shame",
+    "meaning": "残念なこと",
+    "example": "It’s a shame we lost.",
+    "example_jp": "負けてしまって残念だ。"
+  },
+  {
+    "word": "humor",
+    "meaning": "ユーモア",
+    "example": "He has a good sense of humor.",
+    "example_jp": "彼はユーモアのセンスが良い。"
+  },
+  {
+    "word": "courage",
+    "meaning": "勇気",
+    "example": "She showed great courage.",
+    "example_jp": "彼女は大きな勇気を示した。"
+  },
+  {
+    "word": "sympathy",
+    "meaning": "同情、共感",
+    "example": "I feel sympathy for him.",
+    "example_jp": "私は彼に同情する。"
+  },
+  {
+    "word": "tragedy",
+    "meaning": "悲惨な出来事",
+    "example": "The accident was a tragedy.",
+    "example_jp": "その事故は悲惨な出来事だった。"
+  },
+  {
+    "word": "fate",
+    "meaning": "運命",
+    "example":": "They accepted their fate.",
+    "example_jp": "彼らは自分たちの運命を受け入れた。"
+  },
+  {
+    "word": "destiny",
+    "meaning": "運命",
+    "example": "She believes it was destiny.",
+    "example_jp": "彼女はそれが運命だったと信じている。"
+  },
+  {
+    "word": "abuse",
+    "meaning": "乱用する",
+    "example": "He abused his power.",
+    "example_jp": "彼は権力を乱用した。"
+  },
+  {
+    "word": "wound",
+    "meaning": "傷",
+    "example": "The wound healed slowly.",
+    "example_jp": "その傷はゆっくり治った。"
+  },
+  {
+    "word": "fever",
+    "meaning": "熱",
+    "example": "She has a high fever.",
+    "example_jp": "彼女は高熱がある。"
+  },
+  {
+    "word": "infection",
+    "meaning": "伝染病",
+    "example": "The infection spread quickly.",
+    "example_jp": "その伝染病は急速に広がった。"
+  },
+  {
+    "word": "brave",
+    "meaning": "勇敢な",
+    "example": "He made a brave decision.",
+    "example_jp": "彼は勇敢な決断をした。"
+  },
+  {
+    "word": "brilliant",
+    "meaning": "すばらしい",
+    "example": "Her idea was brilliant.",
+    "example_jp": "彼女のアイデアはすばらしかった。"
+  },
+  {
+    "word": "gentle",
+    "meaning": "優しい",
+    "example": "He has a gentle voice.",
+    "example_jp": "彼は優しい声をしている。"
+  },
+  {
+    "word": "noble",
+    "meaning": "高貴な",
+    "example": "She has a noble spirit.",
+    "example_jp": "彼女は高貴な精神を持っている。"
+  },
+  {
+    "word": "royal",
+    "meaning": "王室の",
+    "example": "He visited the royal palace.",
+    "example_jp": "彼は王室の宮殿を訪れた。"
+  },
+  {
+    "word": "sacred",
+    "meaning": "神聖な",
+    "example": "This place is sacred.",
+    "example_jp": "この場所は神聖だ。"
+  },
+  {
+    "word": "holy",
+    "meaning": "神聖な",
+    "example": "It is a holy site.",
+    "example_jp": "そこは神聖な場所だ。"
+  },
+  {
+    "word": "decent",
+    "meaning": "きちんとした",
+    "example": "He has a decent job.",
+    "example_jp": "彼はきちんとした仕事をしている。"
+  },
+  {
+    "word": "grateful",
+    "meaning": "感謝している",
+    "example": "I’m grateful for your help.",
+    "example_jp": "あなたの助けに感謝している。"
+  },
+  {
+    "word": "fond",
+    "meaning": "好む",
+    "example": "She is fond of music.",
+    "example_jp": "彼女は音楽が好きだ。"
+  },
+  {
+    "word": "selfish",
+    "meaning": "自分勝手な",
+    "example": "He acted selfishly.",
+    "example_jp": "彼は自分勝手に行動した。"
+  },
+  {
+    "word": "awkward",
+    "meaning": "厄介な，ぎこちない",
+    "example": "The silence felt awkward.",
+    "example_jp": "沈黙がぎこちなかった。"
+  },
+  {
+    "word": "awful",
+    "meaning": "ひどい",
+    "example": "The weather was awful.",
+    "example_jp": "天気はひどかった。"
+  },
+  {
+    "word": "ultimate",
+    "meaning": "最終的な",
+    "example": "This is our ultimate goal.",
+    "example_jp": "これが私たちの最終目標だ。"
+  },
+  {
+    "word": "dynamic",
+    "meaning": "活動的な",
+    "example": "She is a dynamic leader.",
+    "example_jp": "彼女は活動的なリーダーだ。"
+  },
+  {
+    "word": "tremendous",
+    "meaning": "とてつもない",
+    "example": "They made tremendous progress.",
+    "example_jp": "彼らはとてつもない進歩を遂げた。"
+  },
+  {
+    "word": "abundant",
+    "meaning": "豊富な",
+    "example": "The forest has abundant wildlife.",
+    "example_jp": "その森には豊富な野生生物がいる。"
+  },
+  {
+    "word": "dull",
+    "meaning": "退屈な",
+    "example": "The movie was dull.",
+    "example_jp": "その映画は退屈だった。"
+  },
+  {
+    "word": "urgent",
+    "meaning": "緊急の",
+    "example": "This is an urgent matter.",
+    "example_jp": "これは緊急の問題だ。"
+  },
+  {
+    "word": "spare",
+    "meaning": "余分の",
+    "example": "Do you have a spare key?",
+    "example_jp": "予備の鍵はありますか？"
+  },
+  {
+    "word": "tight",
+    "meaning": "きつい",
+    "example": "These shoes are tight.",
+    "example_jp": "この靴はきつい。"
+  },
+  {
+    "word": "shallow",
+    "meaning": "浅い",
+    "example": "The water is shallow here.",
+    "example_jp": "ここの水は浅い。"
+  },
+  {
+    "word": "superficial",
+    "meaning": "浅はかな",
+    "example": "His knowledge is superficial.",
+    "example_jp": "彼の知識は浅はかだ。"
+  }
+]

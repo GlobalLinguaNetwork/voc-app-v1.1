@@ -1,0 +1,560 @@
+[
+  {
+    "word": "debate",
+    "meaning": "討論",
+    "example": "The candidates held a debate.",
+    "example_jp": "候補者たちは討論を行った。"
+  },
+  {
+    "word": "debate",
+    "meaning": "～を討論する",
+    "example": "They debated the issue.",
+    "example_jp": "彼らはその問題について討論した。"
+  },
+  {
+    "word": "criticize",
+    "meaning": "～を批判する",
+    "example": "Don't criticize others.",
+    "example_jp": "他人を批判してはいけない。"
+  },
+  {
+    "word": "accuse",
+    "meaning": "～を非難する",
+    "example": "He accused her of lying.",
+    "example_jp": "彼は彼女が嘘をついていると非難した。"
+  },
+  {
+    "word": "accuse",
+    "meaning": "～を告訴する",
+    "example": "She was accused of theft.",
+    "example_jp": "彼女は窃盗で告訴された。"
+  },
+  {
+    "word": "insist",
+    "meaning": "言い張る",
+    "example": "She insisted on going alone.",
+    "example_jp": "彼女は一人で行くと言い張った。"
+  },
+  {
+    "word": "insist",
+    "meaning": "～と主張する",
+    "example": "He insisted that he was right.",
+    "example_jp": "彼は自分が正しいと主張した。"
+  },
+  {
+    "word": "object",
+    "meaning": "～に反対する",
+    "example": "I object to the plan.",
+    "example_jp": "私はその計画に反対する。"
+  },
+  {
+    "word": "object",
+    "meaning": "物",
+    "example": "What is that object?",
+    "example_jp": "あの物は何ですか。"
+  },
+  {
+    "word": "object",
+    "meaning": "目的",
+    "example": "What is the object of the game?",
+    "example_jp": "そのゲームの目的は何ですか。"
+  },
+  {
+    "word": "object",
+    "meaning": "対象",
+    "example": "He is an object of pity.",
+    "example_jp": "彼は哀れみの対象だ。"
+  },
+  {
+    "word": "protest",
+    "meaning": "抗議する",
+    "example": "Workers protested against low wages.",
+    "example_jp": "労働者たちは低賃金に抗議した。"
+  },
+  {
+    "word": "protest",
+    "meaning": "抗議",
+    "example": "They made a protest.",
+    "example_jp": "彼らは抗議を行った。"
+  },
+  {
+    "word": "controversial",
+    "meaning": "論争を招く",
+    "example": "That is a controversial topic.",
+    "example_jp": "それは論争を招く話題だ。"
+  },
+  {
+    "word": "bound",
+    "meaning": "きっと～",
+    "example": "It is bound to happen.",
+    "example_jp": "それはきっと起こる。"
+  },
+  {
+    "word": "bound",
+    "meaning": "～行きで",
+    "example": "This train is bound for Tokyo.",
+    "example_jp": "この列車は東京行きだ。"
+  },
+  {
+    "word": "bet",
+    "meaning": "きっと～だと思う",
+    "example": "I bet he will come.",
+    "example_jp": "彼はきっと来ると思う。"
+  },
+  {
+    "word": "bet",
+    "meaning": "～を賭ける",
+    "example": "I bet 10 dollars on the horse.",
+    "example_jp": "私はその馬に10ドルを賭けた。"
+  },
+  {
+    "word": "demand",
+    "meaning": "～を要求する",
+    "example": "Workers demanded higher wages.",
+    "example_jp": "労働者たちはより高い賃金を要求した。"
+  },
+  {
+    "word": "demand",
+    "meaning": "要求（需要）",
+    "example": "There is a high demand for oil.",
+    "example_jp": "石油への高い需要（要求）がある。"
+  },
+  {
+    "word": "desire",
+    "meaning": "願望",
+    "example": "He has a strong desire to win.",
+    "example_jp": "彼には勝ちたいという強い願望がある。"
+  },
+  {
+    "word": "desire",
+    "meaning": "～を強く望む",
+    "example": "I desire peace.",
+    "example_jp": "私は平和を強く望む。"
+  },
+  {
+    "word": "praise",
+    "meaning": "褒める",
+    "example": "He praised her for her courage.",
+    "example_jp": "彼は彼女の勇気を褒めた。"
+  },
+  {
+    "word": "praise",
+    "meaning": "賞賛",
+    "example": "He deserves praise.",
+    "example_jp": "彼は賞賛に値する。"
+  },
+  {
+    "word": "honor",
+    "meaning": "名誉",
+    "example": "It is a great honor.",
+    "example_jp": "それは大変な名誉だ。"
+  },
+  {
+    "word": "honor",
+    "meaning": "～を敬う",
+    "example": "We honor our ancestors.",
+    "example_jp": "私たちは先祖を敬う。"
+  },
+  {
+    "word": "chat",
+    "meaning": "おしゃべりする",
+    "example": "We chatted for hours.",
+    "example_jp": "私たちは何時間もおしゃべりした。"
+  },
+  {
+    "word": "chat",
+    "meaning": "おしゃべ",
+    "example": "Let's have a chat.",
+    "example_jp": "おしゃべりしよう。"
+  },
+  {
+    "word": "refer",
+    "meaning": "言及する",
+    "example": "He referred to the incident.",
+    "example_jp": "彼はその事件に言及した。"
+  },
+  {
+    "word": "refer",
+    "meaning": "示す",
+    "example": "This symbol refers to danger.",
+    "example_jp": "この記号は危険を示す。"
+  },
+  {
+    "word": "mention",
+    "meaning": "～について述べる",
+    "example": "Don't mention it.",
+    "example_jp": "それについては述べないで。"
+  },
+  {
+    "word": "convey",
+    "meaning": "～を伝える",
+    "example": "Please convey my message.",
+    "example_jp": "私のメッセージを伝えてください。"
+  },
+  {
+    "word": "convey",
+    "meaning": "～を運ぶ",
+    "example": "This pipe conveys water.",
+    "example_jp": "このパイプは水を運ぶ。"
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "～を示す",
+    "example": "He demonstrated how to use it.",
+    "example_jp": "彼はそれの使い方を示した。"
+  },
+  {
+    "word": "emphasize",
+    "meaning": "～を強調する",
+    "example": "He emphasized the importance of health.",
+    "example_jp": "彼は健康の重要性を強調した。"
+  },
+  {
+    "word": "exaggerate",
+    "meaning": "～を誇張する",
+    "example": "Don't exaggerate the problem.",
+    "example_jp": "問題を誇張してはいけない。"
+  },
+  {
+    "word": "exaggerate",
+    "meaning": "誇張する（大げさに言う）",
+    "example": "He tends to exaggerate.",
+    "example_jp": "彼は誇張する（大げさに言う）傾向がある。"
+  },
+  {
+    "word": "reply",
+    "meaning": "返事をする",
+    "example": "I replied to his email.",
+    "example_jp": "私は彼のメールに返事をした。"
+  },
+  {
+    "word": "reply",
+    "meaning": "返事",
+    "example": "I received no reply.",
+    "example_jp": "返事を受け取らなかった。"
+  },
+  {
+    "word": "respond",
+    "meaning": "返答する",
+    "example": "He responded to my question.",
+    "example_jp": "彼は私の質問に返答した。"
+  },
+  {
+    "word": "respond",
+    "meaning": "対応する",
+    "example": "The government responded quickly.",
+    "example_jp": "政府は素早く対応した。"
+  },
+  {
+    "word": "whisper",
+    "meaning": "ささやく",
+    "example": "She whispered in my ear.",
+    "example_jp": "彼女は私の耳元でささやいた。"
+  },
+  {
+    "word": "whisper",
+    "meaning": "ささやき",
+    "example": "He spoke in a whisper.",
+    "example_jp": "彼はささやき声で話した。"
+  },
+  {
+    "word": "remark",
+    "meaning": "発言",
+    "example": "He made a rude remark.",
+    "example_jp": "彼は失礼な発言をした。"
+  },
+  {
+    "word": "remark",
+    "meaning": "～と発言する",
+    "example": "He remarked that it was cold.",
+    "example_jp": "彼は寒いと発言した。"
+  },
+  {
+    "word": "observe",
+    "meaning": "～を観察する",
+    "example": "I observed the birds.",
+    "example_jp": "私は鳥を観察した。"
+  },
+  {
+    "word": "observe",
+    "meaning": "～と述べる",
+    "example": "He observed that she looked tired.",
+    "example_jp": "彼は彼女が疲れているようだと述べた。"
+  },
+  {
+    "word": "observe",
+    "meaning": "～を遵守する",
+    "example": "Observe the rules.",
+    "example_jp": "規則を遵守しなさい。"
+  },
+  {
+    "word": "observe",
+    "meaning": "～を祝う",
+    "example": "We observe Christmas.",
+    "example_jp": "私たちはクリスマスを祝う。"
+  },
+  {
+    "word": "theory",
+    "meaning": "理論",
+    "example": "Einstein's theory of relativity.",
+    "example_jp": "アインシュタインの相対性理論。"
+  },
+  {
+    "word": "theory",
+    "meaning": "説",
+    "example": "There is a theory that life exists on Mars.",
+    "example_jp": "火星に生命が存在するという説がある。"
+  },
+  {
+    "word": "analysis",
+    "meaning": "分析",
+    "example": "He made a detailed analysis.",
+    "example_jp": "彼は詳細な分析を行った。"
+  },
+  {
+    "word": "phenomenon",
+    "meaning": "現象",
+    "example": "Lightning is a natural phenomenon.",
+    "example_jp": "雷は自然現象だ。"
+  },
+  {
+    "word": "phenomenon",
+    "meaning": "天才",
+    "example": "He is a phenomenon in the music world.",
+    "example_jp": "彼は音楽界の天才だ。"
+  },
+  {
+    "word": "device",
+    "meaning": "装置",
+    "example": "This is a useful device.",
+    "example_jp": "これは便利な装置だ。"
+  },
+  {
+    "word": "experiment",
+    "meaning": "実験",
+    "example": "We conducted an experiment.",
+    "example_jp": "私たちは実験を行った。"
+  },
+  {
+    "word": "experiment",
+    "meaning": "実験する",
+    "example": "He experimented with new ideas.",
+    "example_jp": "彼は新しいアイデアで実験した。"
+  },
+  {
+    "word": "chemical",
+    "meaning": "化学物質",
+    "example": "Avoid harmful chemicals.",
+    "example_jp": "有害な化学物質を避けなさい。"
+  },
+  {
+    "word": "chemical",
+    "meaning": "化学の",
+    "example": "It is a chemical reaction.",
+    "example_jp": "それは化学反応だ。"
+  },
+  {
+    "word": "fuel",
+    "meaning": "燃料",
+    "example": "The car ran out of fuel.",
+    "example_jp": "車は燃料切れになった。"
+  },
+  {
+    "word": "fuel",
+    "meaning": "～を大きくする",
+    "example": "His anger fueled the conflict.",
+    "example_jp": "彼の怒りが紛争を大きくした。"
+  },
+  {
+    "word": "nuclear",
+    "meaning": "原子力の",
+    "example": "Nuclear power is controversial.",
+    "example_jp": "原子力発電は論争を招いている。"
+  },
+  {
+    "word": "statistics",
+    "meaning": "統計（値）",
+    "example": "The statistics show a decline.",
+    "example_jp": "統計（値）は下落を示している。"
+  },
+  {
+    "word": "statistics",
+    "meaning": "統計学",
+    "example": "Statistics is a branch of math.",
+    "example_jp": "統計学は数学の一分野だ。"
+  },
+  {
+    "word": "pursue",
+    "meaning": "～を追跡する",
+    "example": "He pursued the thief.",
+    "example_jp": "彼は泥棒を追跡した。"
+  },
+  {
+    "word": "pursue",
+    "meaning": "～を追求する",
+    "example": "Pursue your dreams.",
+    "example_jp": "夢を追求しなさい。"
+  },
+  {
+    "word": "accomplish",
+    "meaning": "～をやり遂げる",
+    "example": "He accomplished his mission.",
+    "example_jp": "彼は任務をやり遂げた。"
+  },
+  {
+    "word": "overcome",
+    "meaning": "～を克服する",
+    "example": "She overcame many difficulties.",
+    "example_jp": "彼女は多くの困難を克服した。"
+  },
+  {
+    "word": "fulfill",
+    "meaning": "～を果たす",
+    "example": "He fulfilled his promise.",
+    "example_jp": "彼は約束を果たした。"
+  },
+  {
+    "word": "fulfill",
+    "meaning": "～を満たす",
+    "example": "This product fulfills a need.",
+    "example_jp": "この製品はニーズを満たす。"
+  },
+  {
+    "word": "devote",
+    "meaning": "～をささげる",
+    "example": "He devoted his life to science.",
+    "example_jp": "彼は科学に一生をささげた。"
+  },
+  {
+    "word": "strive",
+    "meaning": "努力する",
+    "example": "We must strive for peace.",
+    "example_jp": "私たちは平和のために努力しなければならない。"
+  },
+  {
+    "word": "aim",
+    "meaning": "狙う",
+    "example": "He aimed at the target.",
+    "example_jp": "彼は標的を狙った。"
+  },
+  {
+    "word": "aim",
+    "meaning": "～向けだ",
+    "example": "This book is aimed at children.",
+    "example_jp": "この本は子供向けだ。"
+  },
+  {
+    "word": "aim",
+    "meaning": "狙い（目的）",
+    "example": "My aim is to become a doctor.",
+    "example_jp": "私の狙い（目的）は医者になることだ。"
+  },
+  {
+    "word": "challenge",
+    "meaning": "難問（課題）",
+    "example": "We face a new challenge.",
+    "example_jp": "私たちは新しい難問（課題）に直面している。"
+  },
+  {
+    "word": "challenge",
+    "meaning": "～に異議を唱える",
+    "example": "He challenged the decision.",
+    "example_jp": "彼はその決定に異議を唱えた。"
+  },
+  {
+    "word": "trial",
+    "meaning": "試み（試練）",
+    "example": "It was a trial of strength.",
+    "example_jp": "それは力の試み（試練）だった。"
+  },
+  {
+    "word": "trial",
+    "meaning": "裁判",
+    "example": "The trial lasted three days.",
+    "example_jp": "その裁判は3日間続いた。"
+  },
+  {
+    "word": "dizzy",
+    "meaning": "めまいがして",
+    "example": "I feel dizzy.",
+    "example_jp": "めまいがする。"
+  },
+  {
+    "word": "appetite",
+    "meaning": "食欲",
+    "example": "I have a good appetite.",
+    "example_jp": "私は食欲が旺盛だ。"
+  },
+  {
+    "word": "starve",
+    "meaning": "餓死する",
+    "example": "Many people starved to death.",
+    "example_jp": "多くの人が餓死した。"
+  },
+  {
+    "word": "starve",
+    "meaning": "とてもお腹が空いている",
+    "example": "I'm starving!",
+    "example_jp": "とてもお腹が空いている！"
+  },
+  {
+    "word": "mental",
+    "meaning": "精神の",
+    "example": "Mental health is important.",
+    "example_jp": "精神の健康は重要だ。"
+  },
+  {
+    "word": "mental",
+    "meaning": "知力の",
+    "example": "She has great mental ability.",
+    "example_jp": "彼女には優れた知力がある。"
+  },
+  {
+    "word": "rest",
+    "meaning": "休憩",
+    "example": "Let's take a rest.",
+    "example_jp": "休憩しよう。"
+  },
+  {
+    "word": "rest",
+    "meaning": "残り",
+    "example": "I ate the rest of the cake.",
+    "example_jp": "私はケーキの残りを食べた。"
+  },
+  {
+    "word": "rest",
+    "meaning": "休む",
+    "example": "I'm going to rest for a while.",
+    "example_jp": "しばらく休むつもりだ。"
+  },
+  {
+    "word": "rest",
+    "meaning": "～次第だ",
+    "example": "Success rests on hard work.",
+    "example_jp": "成功は懸命な努力次第だ。"
+  },
+  {
+    "word": "rest",
+    "meaning": "～を休ませる",
+    "example": "Rest your eyes.",
+    "example_jp": "目を休ませなさい。"
+  },
+  {
+    "word": "surgery",
+    "meaning": "手術",
+    "example": "He underwent heart surgery.",
+    "example_jp": "彼は心臓の手術を受けた。"
+  },
+  {
+    "word": "surgery",
+    "meaning": "外科",
+    "example": "She is a professor of surgery.",
+    "example_jp": "彼女は外科の教授だ。"
+  },
+  {
+    "word": "disease",
+    "meaning": "病気",
+    "example": "Cancer is a serious disease.",
+    "example_jp": "癌は深刻な病気だ。"
+  }
+]

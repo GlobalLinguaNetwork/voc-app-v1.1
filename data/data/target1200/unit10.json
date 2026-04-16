@@ -1,0 +1,368 @@
+[
+  {
+    "word": "inner",
+    "meaning": "内部の",
+    "example": "This is the inner part.",
+    "example_jp": "これは内部の部分だ。"
+  },
+  {
+    "word": "inner",
+    "meaning": "中心部の",
+    "example": "He feels inner peace.",
+    "example_jp": "彼は中心部の平和（心の平安）を感じている。"
+  },
+  {
+    "word": "awful",
+    "meaning": "ひどい",
+    "example": "The weather is awful today.",
+    "example_jp": "今日は天気がひどい。"
+  },
+  {
+    "word": "false",
+    "meaning": "間違った",
+    "example": "The answer is false.",
+    "example_jp": "その答えは間違っている。"
+  },
+  {
+    "word": "vivid",
+    "meaning": "鮮やかな",
+    "example": "The colors are vivid.",
+    "example_jp": "色が鮮やかだ。"
+  },
+  {
+    "word": "pure",
+    "meaning": "純粋な",
+    "example": "This is pure water.",
+    "example_jp": "これは純粋な水だ。"
+  },
+  {
+    "word": "minor",
+    "meaning": "重要でない",
+    "example": "It is a minor problem.",
+    "example_jp": "それは重要でない問題だ。"
+  },
+  {
+    "word": "minor",
+    "meaning": "小さい方の",
+    "example": "He plays a minor role.",
+    "example_jp": "彼は小さい方の（端役の）役割を演じる。"
+  },
+  {
+    "word": "mild",
+    "meaning": "穏やかな",
+    "example": "The weather is mild today.",
+    "example_jp": "今日は天気が穏やかだ。"
+  },
+  {
+    "word": "admire",
+    "meaning": "賞賛する",
+    "example": "I admire her work.",
+    "example_jp": "私は彼女の仕事を賞賛する。"
+  },
+  {
+    "word": "admire",
+    "meaning": "感嘆する",
+    "example": "We admire the view.",
+    "example_jp": "私たちはその眺めに感嘆する。"
+  },
+  {
+    "word": "drop",
+    "meaning": "落とす",
+    "example": "I drop the pen.",
+    "example_jp": "私はペンを落とす。"
+  },
+  {
+    "word": "reflect",
+    "meaning": "映し出す",
+    "example": "The lake reflects the sky.",
+    "example_jp": "湖が空を映し出す。"
+  },
+  {
+    "word": "reflect",
+    "meaning": "反射する",
+    "example": "The mirror reflects light.",
+    "example_jp": "鏡が光を反射する。"
+  },
+  {
+    "word": "dig",
+    "meaning": "掘る",
+    "example": "They dig a hole.",
+    "example_jp": "彼らは穴を掘る。"
+  },
+  {
+    "word": "beg",
+    "meaning": "懇願する",
+    "example": "I beg for help.",
+    "example_jp": "私は助けを懇願する。"
+  },
+  {
+    "word": "freeze",
+    "meaning": "凍る",
+    "example": "The water freezes in winter.",
+    "example_jp": "水は冬に凍る。"
+  },
+  {
+    "word": "adopt",
+    "meaning": "採用する",
+    "example": "They adopt a new rule.",
+    "example_jp": "彼らは新しい規則を採用する。"
+  },
+  {
+    "word": "measure",
+    "meaning": "測る",
+    "example": "I measure the table.",
+    "example_jp": "私はテーブルを測る。"
+  },
+  {
+    "word": "flow",
+    "meaning": "流れる",
+    "example": "The river flows fast.",
+    "example_jp": "川は速く流れる。"
+  },
+  {
+    "word": "fulfill",
+    "meaning": "実現させる",
+    "example": "I fulfill my dream.",
+    "example_jp": "私は自分の夢を実現させる。"
+  },
+  {
+    "word": "deliver",
+    "meaning": "配達する",
+    "example": "They deliver the box.",
+    "example_jp": "彼らは箱を配達する。"
+  },
+  {
+    "word": "wrap",
+    "meaning": "包む",
+    "example": "I wrap the gift.",
+    "example_jp": "私は贈り物を包む。"
+  },
+  {
+    "word": "knock",
+    "meaning": "ノックする",
+    "example": "I knock on the door.",
+    "example_jp": "私はドアをノックする。"
+  },
+  {
+    "word": "spell",
+    "meaning": "つづる",
+    "example": "Please spell your name.",
+    "example_jp": "あなたの名前をつづってください。"
+  },
+  {
+    "word": "rush",
+    "meaning": "急いで行く",
+    "example": "I rush to school.",
+    "example_jp": "私は学校へ急いで行く。"
+  },
+  {
+    "word": "pray",
+    "meaning": "祈る",
+    "example": "I pray for peace.",
+    "example_jp": "私は平和を祈る。"
+  },
+  {
+    "word": "reject",
+    "meaning": "拒絶する",
+    "example": "They reject the plan.",
+    "example_jp": "彼らはその計画を拒絶する。"
+  },
+  {
+    "word": "protest",
+    "meaning": "抗議する",
+    "example": "Many people protest.",
+    "example_jp": "多くの人々が抗議する。"
+  },
+  {
+    "word": "handle",
+    "meaning": "扱う",
+    "example": "I handle the problem.",
+    "example_jp": "私はその問題を扱う。"
+  },
+  {
+    "word": "handle",
+    "meaning": "処理する",
+    "example": "She handles the work well.",
+    "example_jp": "彼女はその仕事をうまく処理する。"
+  },
+  {
+    "word": "disturb",
+    "meaning": "邪魔する",
+    "example": "Noise disturbs me.",
+    "example_jp": "騒音が私の邪魔をする。"
+  },
+  {
+    "word": "gather",
+    "meaning": "集める",
+    "example": "We gather information.",
+    "example_jp": "私たちは情報を集める。"
+  },
+  {
+    "word": "copy",
+    "meaning": "写しをとる",
+    "example": "I copy the file.",
+    "example_jp": "私はそのファイルの写しをとる。"
+  },
+  {
+    "word": "press",
+    "meaning": "押す",
+    "example": "I press the button.",
+    "example_jp": "私はボタンを押す。"
+  },
+  {
+    "word": "consist",
+    "meaning": "成り立つ",
+    "example": "The team consists of ten people.",
+    "example_jp": "そのチームは10人の人々で成り立つ。"
+  },
+  {
+    "word": "assist",
+    "meaning": "手助けする",
+    "example": "I assist my teacher.",
+    "example_jp": "私は先生を手助けする。"
+  },
+  {
+    "word": "kick",
+    "meaning": "蹴る",
+    "example": "He kicks the ball.",
+    "example_jp": "彼はボールを蹴る。"
+  },
+  {
+    "word": "link",
+    "meaning": "結びつける",
+    "example": "The road links the towns.",
+    "example_jp": "道路が町を結びつける。"
+  },
+  {
+    "word": "link",
+    "meaning": "関連づける",
+    "example": "The ideas link together.",
+    "example_jp": "考えが互いに関連づけられる。"
+  },
+  {
+    "word": "adjust",
+    "meaning": "順応する",
+    "example": "I adjust to the new life.",
+    "example_jp": "私は新しい生活に順応する。"
+  },
+  {
+    "word": "adjust",
+    "meaning": "適応する",
+    "example": "He adjusts the chair.",
+    "example_jp": "彼は椅子を適応させる。"
+  },
+  {
+    "word": "defend",
+    "meaning": "守る",
+    "example": "They defend the town.",
+    "example_jp": "彼らは町を守る。"
+  },
+  {
+    "word": "shut",
+    "meaning": "閉める",
+    "example": "I shut the window.",
+    "example_jp": "私は窓を閉める。"
+  },
+  {
+    "word": "shut",
+    "meaning": "閉じる",
+    "example": "The store shuts at six.",
+    "example_jp": "店は6時に閉じる。"
+  },
+  {
+    "word": "bear",
+    "meaning": "耐える",
+    "example": "I cannot bear the pain.",
+    "example_jp": "私はその痛みに耐えることができない。"
+  },
+  {
+    "word": "task",
+    "meaning": "仕事",
+    "example": "This is a hard task.",
+    "example_jp": "これは骨の折れる仕事だ。"
+  },
+  {
+    "word": "hug",
+    "meaning": "抱擁",
+    "example": "She gives me a hug.",
+    "example_jp": "彼女は私に抱擁をしてくれる。"
+  },
+  {
+    "word": "clue",
+    "meaning": "手がかり",
+    "example": "This clue helps us.",
+    "example_jp": "この手がかりが私たちを助けてくれる。"
+  },
+  {
+    "word": "percent",
+    "meaning": "パーセント",
+    "example": "Ten percent is small.",
+    "example_jp": "10パーセントは小さい。"
+  },
+  {
+    "word": "dozen",
+    "meaning": "１ダース",
+    "example": "I buy a dozen eggs.",
+    "example_jp": "私は卵を1ダース買う。"
+  },
+  {
+    "word": "ghost",
+    "meaning": "幽霊",
+    "example": "He sees a ghost.",
+    "example_jp": "彼は幽霊を見る。"
+  },
+  {
+    "word": "error",
+    "meaning": "誤り",
+    "example": "I find an error.",
+    "example_jp": "私は誤りを見つける。"
+  },
+  {
+    "word": "trend",
+    "meaning": "流行",
+    "example": "This trend is popular.",
+    "example_jp": "この流行は人気がある。"
+  },
+  {
+    "word": "trend",
+    "meaning": "トレンド",
+    "example": "The trend continues.",
+    "example_jp": "トレンドは続く。"
+  },
+  {
+    "word": "thought",
+    "meaning": "考え",
+    "example": "That is a good thought.",
+    "example_jp": "それは良い考えだ。"
+  },
+  {
+    "word": "alarm",
+    "meaning": "警報",
+    "example": "The alarm rings.",
+    "example_jp": "警報が鳴る。"
+  },
+  {
+    "word": "sample",
+    "meaning": "見本",
+    "example": "This is a free sample.",
+    "example_jp": "これは無料の見本だ。"
+  },
+  {
+    "word": "sample",
+    "meaning": "試供品",
+    "example": "I try the sample.",
+    "example_jp": "私はその試供品を試す。"
+  },
+  {
+    "word": "shadow",
+    "meaning": "影",
+    "example": "The tree makes a shadow.",
+    "example_jp": "木が影を作る。"
+  },
+  {
+    "word": "shadow",
+    "meaning": "陰",
+    "example": "He stands in the shadow.",
+    "example_jp": "彼は陰に立っている。"
+  }
+]

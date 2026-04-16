@@ -1,0 +1,464 @@
+[
+  {
+    "word": "unit",
+    "meaning": "単位",
+    "example": "Length is measured in units.",
+    "example_jp": "長さは単位で測られる。"
+  },
+  {
+    "word": "diameter",
+    "meaning": "直径",
+    "example": "The circle has a diameter of 10 cm.",
+    "example_jp": "その円は直径が10cmある。"
+  },
+  {
+    "word": "arithmetic",
+    "meaning": "算術",
+    "example": "He is good at arithmetic.",
+    "example_jp": "彼は算術が得意だ。"
+  },
+  {
+    "word": "quantity",
+    "meaning": "量",
+    "example": "They bought a large quantity of rice.",
+    "example_jp": "彼らは大量の米を買った。"
+  },
+  {
+    "word": "deficiency",
+    "meaning": "欠乏，不足",
+    "example": "The plant died from nutrient deficiency.",
+    "example_jp": "その植物は栄養欠乏で枯れた。"
+  },
+  {
+    "word": "maximum",
+    "meaning": "最大限",
+    "example": "The maximum is 100 points.",
+    "example_jp": "最大限は100点だ。"
+  },
+  {
+    "word": "bunch",
+    "meaning": "束，房",
+    "example": "She bought a bunch of flowers.",
+    "example_jp": "彼女は一束の花を買った。"
+  },
+  {
+    "word": "lessen",
+    "meaning": "減らす",
+    "example": "They tried to lessen the damage.",
+    "example_jp": "彼らは被害を減らそうとした。"
+  },
+  {
+    "word": "era",
+    "meaning": "時代",
+    "example": "We live in a new era.",
+    "example_jp": "私たちは新しい時代に生きている。"
+  },
+  {
+    "word": "session",
+    "meaning": "期間",
+    "example": "The training session lasted an hour.",
+    "example_jp": "研修期間は1時間続いた。"
+  },
+  {
+    "word": "session",
+    "meaning": "会期",
+    "example": "Parliament began its session.",
+    "example_jp": "国会が会期を始めた。"
+  },
+  {
+    "word": "session",
+    "meaning": "集まり",
+    "example": "We had a study session.",
+    "example_jp": "私たちは勉強の集まりを持った。"
+  },
+  {
+    "word": "pause",
+    "meaning": "休止",
+    "example": "There was a short pause.",
+    "example_jp": "短い休止があった。"
+  },
+  {
+    "word": "pause",
+    "meaning": "休止する",
+    "example": "He paused before speaking.",
+    "example_jp": "彼は話す前に休止した。"
+  },
+  {
+    "word": "annual",
+    "meaning": "年に1度の",
+    "example": "They held an annual event.",
+    "example_jp": "彼らは年に1度のイベントを開催した。"
+  },
+  {
+    "word": "annual",
+    "meaning": "1年間の",
+    "example": "The annual budget increased.",
+    "example_jp": "1年間の予算が増加した。"
+  },
+  {
+    "word": "eternal",
+    "meaning": "永遠の",
+    "example": "They wished for eternal youth.",
+    "example_jp": "彼らは永遠の若さを願った。"
+  },
+  {
+    "word": "initial",
+    "meaning": "最初の",
+    "example": "His initial reaction was surprise.",
+    "example_jp": "彼の最初の反応は驚きだった。"
+  },
+  {
+    "word": "initial",
+    "meaning": "頭文字，イニシャル",
+    "example": "Write your initials here.",
+    "example_jp": "ここに頭文字（イニシャル）を書いてください。"
+  },
+  {
+    "word": "prior",
+    "meaning": "～より前の",
+    "example": "Prior to the meeting, read this.",
+    "example_jp": "会議より前にこれを読みなさい。"
+  },
+  {
+    "word": "prior",
+    "meaning": "前の",
+    "example": "She has prior experience.",
+    "example_jp": "彼女には前の経験がある。"
+  },
+  {
+    "word": "subsequent",
+    "meaning": "続いて起こる",
+    "example": "Subsequent events changed everything.",
+    "example_jp": "続いて起こる出来事がすべてを変えた。"
+  },
+  {
+    "word": "meanwhile",
+    "meaning": "その間",
+    "example": "She cooked; meanwhile, he cleaned.",
+    "example_jp": "彼女は料理をし、その間、彼は掃除をした。"
+  },
+  {
+    "word": "meanwhile",
+    "meaning": "その一方で",
+    "example": "He is strict; meanwhile, she is kind.",
+    "example_jp": "彼は厳しいが、その一方で彼女は親切だ。"
+  },
+  {
+    "word": "routine",
+    "meaning": "決まりきった仕事",
+    "example": "Cleaning is part of my routine.",
+    "example_jp": "掃除は私の決まりきった仕事の一部だ。"
+  },
+  {
+    "word": "routine",
+    "meaning": "日常の",
+    "example": "She follows a routine schedule.",
+    "example_jp": "彼女は日常のスケジュールに従っている。"
+  },
+  {
+    "word": "souvenir",
+    "meaning": "土産，記念品",
+    "example": "I bought a souvenir in Kyoto.",
+    "example_jp": "私は京都でお土産（記念品）を買った。"
+  },
+  {
+    "word": "brick",
+    "meaning": "れんが",
+    "example": "The house is made of brick.",
+    "example_jp": "その家はれんがでできている。"
+  },
+  {
+    "word": "brick",
+    "meaning": "積み木",
+    "example": "The child played with bricks.",
+    "example_jp": "その子は積み木で遊んだ。"
+  },
+  {
+    "word": "pole",
+    "meaning": "棒，さお，柱",
+    "example": "He climbed the pole.",
+    "example_jp": "彼は棒（さお、柱）に登った。"
+  },
+  {
+    "word": "pole",
+    "meaning": "極",
+    "example": "The North Pole is freezing.",
+    "example_jp": "北極は凍えるほど寒い。"
+  },
+  {
+    "word": "mischief",
+    "meaning": "いたずら",
+    "example": "The kids got into mischief.",
+    "example_jp": "子供たちはいたずらをした。"
+  },
+  {
+    "word": "superstition",
+    "meaning": "迷信",
+    "example": "It is just a superstition.",
+    "example_jp": "それは単なる迷信だ。"
+  },
+  {
+    "word": "storage",
+    "meaning": "貯蔵，保管",
+    "example": "The room is used for storage.",
+    "example_jp": "その部屋は貯蔵（保管）のために使われている。"
+  },
+  {
+    "word": "shelter",
+    "meaning": "避難（所）",
+    "example": "They found shelter from the rain.",
+    "example_jp": "彼らは雨からの避難（所）を見つけた。"
+  },
+  {
+    "word": "shelter",
+    "meaning": "住居",
+    "example": "The shelter houses many people.",
+    "example_jp": "その住居には多くの人が住んでいる。"
+  },
+  {
+    "word": "garment",
+    "meaning": "衣類",
+    "example": "She bought a new garment.",
+    "example_jp": "彼女は新しい衣類を買った。"
+  },
+  {
+    "word": "canal",
+    "meaning": "運河",
+    "example": "Boats moved along the canal.",
+    "example_jp": "船が運河に沿って進んだ。"
+  },
+  {
+    "word": "cabinet",
+    "meaning": "戸棚",
+    "example": "He opened the cabinet.",
+    "example_jp": "彼は戸棚を開けた。"
+  },
+  {
+    "word": "cabinet",
+    "meaning": "内閣",
+    "example": "The Cabinet met today.",
+    "example_jp": "今日、内閣が集まった。"
+  },
+  {
+    "word": "incident",
+    "meaning": "出来事",
+    "example": "A strange incident occurred.",
+    "example_jp": "奇妙な出来事が発生した。"
+  },
+  {
+    "word": "circumstance",
+    "meaning": "状況，事情",
+    "example": "Under the circumstances, we left.",
+    "example_jp": "状況（事情）を考慮して、私たちは出発した。"
+  },
+  {
+    "word": "fetch",
+    "meaning": "取って来る",
+    "example": "Please fetch some water.",
+    "example_jp": "水を取って来てください。"
+  },
+  {
+    "word": "distribute",
+    "meaning": "分配する，配る",
+    "example": "They distributed food.",
+    "example_jp": "彼らは食べ物を分配した（配った）。"
+  },
+  {
+    "word": "distribute",
+    "meaning": "分布している",
+    "example": "The species is widely distributed.",
+    "example_jp": "その種は広く分布している。"
+  },
+  {
+    "word": "purchase",
+    "meaning": "購入する",
+    "example": "She purchased a new phone.",
+    "example_jp": "彼女は新しい電話を購入した。"
+  },
+  {
+    "word": "purchase",
+    "meaning": "購入（品）",
+    "example": "It was a good purchase.",
+    "example_jp": "それは良い購入（品）だった。"
+  },
+  {
+    "word": "statue",
+    "meaning": "像",
+    "example": "They saw a large statue.",
+    "example_jp": "彼らは大きな像を見た。"
+  },
+  {
+    "word": "sculpture",
+    "meaning": "彫刻",
+    "example": "The museum has ancient sculpture.",
+    "example_jp": "その博物館には古代の彫刻がある。"
+  },
+  {
+    "word": "myth",
+    "meaning": "神話（俗説）",
+    "example": "The story is a modern myth.",
+    "example_jp": "その話は現代の神話（俗説）だ。"
+  },
+  {
+    "word": "myth",
+    "meaning": "古代の神話",
+    "example": "Greek myths are famous.",
+    "example_jp": "ギリシャの古代の神話は有名だ。"
+  },
+  {
+    "word": "craft",
+    "meaning": "工芸（品）",
+    "example": "She sells handmade crafts.",
+    "example_jp": "彼女は手作りの工芸（品）を売っている。"
+  },
+  {
+    "word": "craft",
+    "meaning": "技術",
+    "example": "He learned his craft from his father.",
+    "example_jp": "彼は父親から技術を学んだ。"
+  },
+  {
+    "word": "craft",
+    "meaning": "船，乗り物",
+    "example": "The craft left the harbor.",
+    "example_jp": "その船（乗り物）は港を離れた。"
+  },
+  {
+    "word": "journal",
+    "meaning": "雑誌，専門誌",
+    "example": "He published a paper in a journal.",
+    "example_jp": "彼は雑誌（専門誌）に論文を発表した。"
+  },
+  {
+    "word": "journal",
+    "meaning": "日誌，日記",
+    "example": "He kept a daily journal.",
+    "example_jp": "彼は毎日日誌（日記）をつけていた。"
+  },
+  {
+    "word": "encyclopedia",
+    "meaning": "百科事典",
+    "example": "I looked it up in an encyclopedia.",
+    "example_jp": "私はそれを百科事典で調べた。"
+  },
+  {
+    "word": "heaven",
+    "meaning": "天国",
+    "example": "They believed he went to heaven.",
+    "example_jp": "彼らは彼が天国へ行ったと信じていた。"
+  },
+  {
+    "word": "heaven",
+    "meaning": "空",
+    "example": "Birds flew across the heavens.",
+    "example_jp": "鳥が空を横切って飛んだ。"
+  },
+  {
+    "word": "funeral",
+    "meaning": "葬式",
+    "example": "Many people attended the funeral.",
+    "example_jp": "多くの人が葬式に参列した。"
+  },
+  {
+    "word": "soul",
+    "meaning": "魂",
+    "example": "He prayed for her soul.",
+    "example_jp": "彼は彼女の魂のために祈った。"
+  },
+  {
+    "word": "soul",
+    "meaning": "人",
+    "example": "Not a soul was there.",
+    "example_jp": "そこには一人の人（魂）もいなかった。"
+  },
+  {
+    "word": "priest",
+    "meaning": "神父，僧侶，牧師",
+    "example": "The priest led the ceremony.",
+    "example_jp": "神父（僧侶、牧師）が儀式を執り行った。"
+  },
+  {
+    "word": "faith",
+    "meaning": "信仰",
+    "example": "She has strong faith.",
+    "example_jp": "彼女は強い信仰を持っている。"
+  },
+  {
+    "word": "faith",
+    "meaning": "信頼",
+    "example": "I have faith in you.",
+    "example_jp": "私はあなたを信頼している。"
+  },
+  {
+    "word": "sacred",
+    "meaning": "神聖な",
+    "example": "This place is sacred.",
+    "example_jp": "この場所は神聖だ。"
+  },
+  {
+    "word": "divine",
+    "meaning": "神の",
+    "example": "They believed in divine power.",
+    "example_jp": "彼らは神の力を信じていた。"
+  },
+  {
+    "word": "Muslim",
+    "meaning": "イスラム教徒",
+    "example": "He is a Muslim.",
+    "example_jp": "彼はイスラム教徒だ。"
+  },
+  {
+    "word": "context",
+    "meaning": "文脈",
+    "example": "Understand the word in context.",
+    "example_jp": "文脈の中でその単語を理解しなさい。"
+  },
+  {
+    "word": "context",
+    "meaning": "状況",
+    "example": "The context explains the situation.",
+    "example_jp": "状況がその事態を説明している。"
+  },
+  {
+    "word": "singular",
+    "meaning": "単数の",
+    "example": "Use the singular form.",
+    "example_jp": "単数の形式を使いなさい。"
+  },
+  {
+    "word": "singular",
+    "meaning": "比類なき",
+    "example": "She has singular talent.",
+    "example_jp": "彼女には比類なき才能がある。"
+  },
+  {
+    "word": "singular",
+    "meaning": "奇妙な",
+    "example": "That was a singular event.",
+    "example_jp": "それは奇妙な出来事だった。"
+  },
+  {
+    "word": "command",
+    "meaning": "言語を操る力",
+    "example": "He has a good command of English.",
+    "example_jp": "彼は英語を操る力が優れている。"
+  },
+  {
+    "word": "command",
+    "meaning": "命令",
+    "example": "He gave a command.",
+    "example_jp": "彼は命令を下した。"
+  },
+  {
+    "word": "command",
+    "meaning": "見渡せる",
+    "example": "The view commands the valley.",
+    "example_jp": "その眺めは谷を見渡せる。"
+  },
+  {
+    "word": "command",
+    "meaning": "集める",
+    "example": "The project commands attention.",
+    "example_jp": "そのプロジェクトは注目を集めている。"
+  }
+]

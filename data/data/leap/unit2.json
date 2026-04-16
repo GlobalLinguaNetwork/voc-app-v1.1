@@ -1,0 +1,698 @@
+[
+  {
+    "word": "medical",
+    "meaning": "医療の",
+    "example": "He needs immediate medical attention.",
+    "example_jp": "彼は直ちに医療処置を受ける必要があります。"
+  },
+  {
+    "word": "medical",
+    "meaning": "医学の",
+    "example": "She reads medical journals.",
+    "example_jp": "彼女は医学雑誌を読んでいます。"
+  },
+  {
+    "word": "stress",
+    "meaning": "ストレス",
+    "example": "Work causes a lot of stress.",
+    "example_jp": "仕事は多くのストレスを引き起こします。"
+  },
+  {
+    "word": "stress",
+    "meaning": "強調",
+    "example": "He put stress on punctuality.",
+    "example_jp": "彼は時間厳守を強調しました。"
+  },
+  {
+    "word": "stress",
+    "meaning": "～を強調する",
+    "example": "The teacher stressed the importance of review.",
+    "example_jp": "先生は復習の重要性を強調しました。"
+  },
+  {
+    "word": "suffer",
+    "meaning": "苦しむ",
+    "example": "She suffers from migraines.",
+    "example_jp": "彼女は片頭痛に悩まされています。"
+  },
+  {
+    "word": "suffer",
+    "meaning": "（苦痛，損害）を経験する",
+    "example": "The company suffered a huge loss.",
+    "example_jp": "その会社は大きな損失を被りました。"
+  },
+  {
+    "word": "exercise",
+    "meaning": "運動",
+    "example": "Regular exercise is healthy.",
+    "example_jp": "定期的な運動は健康に良いです。"
+  },
+  {
+    "word": "exercise",
+    "meaning": "練習（問題）",
+    "example": "Do the grammar exercises.",
+    "example_jp": "文法の練習問題をやりなさい。"
+  },
+  {
+    "word": "exercise",
+    "meaning": "運動する",
+    "example": "I exercise every morning.",
+    "example_jp": "私は毎朝運動します。"
+  },
+  {
+    "word": "exercise",
+    "meaning": "～を行使する",
+    "example": "Citizens should exercise their rights.",
+    "example_jp": "市民は自分の権利を行使すべきです。"
+  },
+  {
+    "word": "breathe",
+    "meaning": "呼吸する",
+    "example": "It's hard to breathe here.",
+    "example_jp": "ここでは呼吸がしにくいです。"
+  },
+  {
+    "word": "thirsty",
+    "meaning": "のどが渇いた",
+    "example": "I am thirsty after running.",
+    "example_jp": "走った後でのどが渇きました。"
+  },
+  {
+    "word": "thirsty",
+    "meaning": "切望して",
+    "example": "He is thirsty for knowledge.",
+    "example_jp": "彼は知識を切望しています。"
+  },
+  {
+    "word": "physical",
+    "meaning": "身体的な",
+    "example": "He has great physical strength.",
+    "example_jp": "彼は優れた体力を持っています。"
+  },
+  {
+    "word": "physical",
+    "meaning": "物理的な",
+    "example": "Gravity is a physical law.",
+    "example_jp": "重力は物理的な法則です。"
+  },
+  {
+    "word": "fever",
+    "meaning": "熱",
+    "example": "I have a high fever.",
+    "example_jp": "私は高熱があります。"
+  },
+  {
+    "word": "fever",
+    "meaning": "熱狂",
+    "example": "The World Cup fever gripped the nation.",
+    "example_jp": "ワールドカップ熱が国中を包みました。"
+  },
+  {
+    "word": "strength",
+    "meaning": "体力",
+    "example": "He showed his physical strength.",
+    "example_jp": "彼は体力を見せました。"
+  },
+  {
+    "word": "strength",
+    "meaning": "力",
+    "example": "Unity gives us strength.",
+    "example_jp": "団結は私たちに力を与えます。"
+  },
+  {
+    "word": "tear",
+    "meaning": "涙",
+    "example": "Tears ran down her face.",
+    "example_jp": "涙が彼女の頬を伝いました。"
+  },
+  {
+    "word": "tear",
+    "meaning": "～を引き裂く",
+    "example": "Don't tear up the letter.",
+    "example_jp": "その手紙を引き裂かないでください。"
+  },
+  {
+    "word": "taste",
+    "meaning": "～の味がする",
+    "example": "This soup tastes good.",
+    "example_jp": "このスープはおいしい味がします。"
+  },
+  {
+    "word": "taste",
+    "meaning": "～の味をみる",
+    "example": "Please taste the sauce.",
+    "example_jp": "ソースの味を試してください。"
+  },
+  {
+    "word": "taste",
+    "meaning": "味",
+    "example": "It has a sweet taste.",
+    "example_jp": "それは甘い味がします。"
+  },
+  {
+    "word": "taste",
+    "meaning": "好み",
+    "example": "Everyone has different tastes.",
+    "example_jp": "人それぞれ好みは違います。"
+  },
+  {
+    "word": "rule",
+    "meaning": "規則",
+    "example": "Follow the rules.",
+    "example_jp": "規則に従ってください。"
+  },
+  {
+    "word": "rule",
+    "meaning": "～を支配する",
+    "example": "The king ruled the country wisely.",
+    "example_jp": "王は賢明に国を治めました。"
+  },
+  {
+    "word": "role",
+    "meaning": "役割",
+    "example": "She played a key role.",
+    "example_jp": "彼女は重要な役割を果たしました。"
+  },
+  {
+    "word": "habit",
+    "meaning": "習慣",
+    "example": "Smoking is a bad habit.",
+    "example_jp": "喫煙は悪い習慣です。"
+  },
+  {
+    "word": "custom",
+    "meaning": "習慣",
+    "example": "It is a Japanese custom.",
+    "example_jp": "それは日本の習慣です。"
+  },
+  {
+    "word": "custom",
+    "meaning": "税関",
+    "example": "He went through customs.",
+    "example_jp": "彼は税関を通過しました。"
+  },
+  {
+    "word": "tradition",
+    "meaning": "伝統",
+    "example": "We follow family traditions.",
+    "example_jp": "私たちは家族の伝統に従います。"
+  },
+  {
+    "word": "society",
+    "meaning": "社会",
+    "example": "Modern society is complex.",
+    "example_jp": "現代社会は複雑です。"
+  },
+  {
+    "word": "society",
+    "meaning": "社会（団体/協会）",
+    "example": "I joined the drama society.",
+    "example_jp": "私は演劇協会に参加しました。"
+  },
+  {
+    "word": "society",
+    "meaning": "～と同席すること",
+    "example": "I enjoy your society.",
+    "example_jp": "あなたと一緒にいるのは楽しいです。"
+  },
+  {
+    "word": "society",
+    "meaning": "協会",
+    "example": "The Royal Society met today.",
+    "example_jp": "王立協会は今日会合を開きました。"
+  },
+  {
+    "word": "law",
+    "meaning": "法律",
+    "example": "Obey the law.",
+    "example_jp": "法律を守りなさい。"
+  },
+  {
+    "word": "law",
+    "meaning": "法律",
+    "example": "They passed a new law.",
+    "example_jp": "彼らは新しい法律を可決しました。"
+  },
+  {
+    "word": "law",
+    "meaning": "法則",
+    "example": "The law of gravity affects us all.",
+    "example_jp": "重力の法則は私たち全員に影響します。"
+  },
+  {
+    "word": "ancestor",
+    "meaning": "祖先",
+    "example": "My ancestors came from Italy.",
+    "example_jp": "私の先祖はイタリア出身です。"
+  },
+  {
+    "word": "population",
+    "meaning": "人口",
+    "example": "The city has a large population.",
+    "example_jp": "その都市は人口が多いです。"
+  },
+  {
+    "word": "population",
+    "meaning": "住民",
+    "example": "The local population supports the plan.",
+    "example_jp": "地元住民はその計画を支持しています。"
+  },
+  {
+    "word": "native",
+    "meaning": "母国の",
+    "example": "He is a native speaker of English.",
+    "example_jp": "彼は英語のネイティブスピーカーです。"
+  },
+  {
+    "word": "native",
+    "meaning": "生まれの人",
+    "example": "She is a native of Kyoto.",
+    "example_jp": "彼女は京都の出身です。"
+  },
+  {
+    "word": "abroad",
+    "meaning": "海外へ",
+    "example": "He went abroad to study.",
+    "example_jp": "彼は留学のために海外へ行きました。"
+  },
+  {
+    "word": "abroad",
+    "meaning": "海外で",
+    "example": "She lives abroad.",
+    "example_jp": "彼女は海外に住んでいます。"
+  },
+  {
+    "word": "local",
+    "meaning": "その土地の",
+    "example": "I like local food.",
+    "example_jp": "私はその土地の食べ物が好きです。"
+  },
+  {
+    "word": "local",
+    "meaning": "地方の（各駅停車の）",
+    "example": "This is a local train.",
+    "example_jp": "これは各駅停車の電車です。"
+  },
+  {
+    "word": "local",
+    "meaning": "地元の人",
+    "example": "Locals know the best spots.",
+    "example_jp": "地元の人は良い場所をよく知っています。"
+  },
+  {
+    "word": "survey",
+    "meaning": "調査",
+    "example": "They conducted a survey.",
+    "example_jp": "彼らは調査を実施しました。"
+  },
+  {
+    "word": "survey",
+    "meaning": "～を調査する",
+    "example": "They surveyed the land.",
+    "example_jp": "彼らはその土地を調査しました。"
+  },
+  {
+    "word": "value",
+    "meaning": "価値",
+    "example": "This ring has great value.",
+    "example_jp": "この指輪は大きな価値があります。"
+  },
+  {
+    "word": "value",
+    "meaning": "価値観",
+    "example": "We share the same values.",
+    "example_jp": "私たちは同じ価値観を共有しています。"
+  },
+  {
+    "word": "value",
+    "meaning": "お買い得品",
+    "example": "This set is good value.",
+    "example_jp": "このセットはお買い得です。"
+  },
+  {
+    "word": "value",
+    "meaning": "～を重んじる",
+    "example": "I value your friendship.",
+    "example_jp": "私はあなたの友情を大切に思います。"
+  },
+  {
+    "word": "treasure",
+    "meaning": "財宝",
+    "example": "Pirates buried the treasure.",
+    "example_jp": "海賊たちは財宝を埋めました。"
+  },
+  {
+    "word": "treasure",
+    "meaning": "大事な物［人］",
+    "example": "You are my treasure.",
+    "example_jp": "あなたは私の大切な存在です。"
+  },
+  {
+    "word": "treasure",
+    "meaning": "～を大事にする",
+    "example": "I treasure this photo.",
+    "example_jp": "私はこの写真を大事にしています。"
+  },
+  {
+    "word": "fashion",
+    "meaning": "流行",
+    "example": "Long skirts are in fashion.",
+    "example_jp": "ロングスカートが流行しています。"
+  },
+  {
+    "word": "fashion",
+    "meaning": "流儀",
+    "example": "He spoke in a strange fashion.",
+    "example_jp": "彼は奇妙な流儀で話しました。"
+  },
+  {
+    "word": "fashion",
+    "meaning": "～を作る",
+    "example": "He fashioned a boat from wood.",
+    "example_jp": "彼は木でボートを作りました。"
+  },
+  {
+    "word": "public",
+    "meaning": "大衆（一般の人々）",
+    "example": "The museum is open to the public.",
+    "example_jp": "その博物館は一般公開されています。"
+  },
+  {
+    "word": "public",
+    "meaning": "公共の",
+    "example": "It is a public library.",
+    "example_jp": "それは公共の図書館です。"
+  },
+  {
+    "word": "evidence",
+    "meaning": "証拠",
+    "example": "There is no evidence of crime.",
+    "example_jp": "犯罪の証拠はありません。"
+  },
+  {
+    "word": "vote",
+    "meaning": "投票（数）",
+    "example": "He got the most votes.",
+    "example_jp": "彼が最も多くの票を得ました。"
+  },
+  {
+    "word": "vote",
+    "meaning": "投票する",
+    "example": "I voted for him.",
+    "example_jp": "私は彼に投票しました。"
+  },
+  {
+    "word": "government",
+    "meaning": "政府",
+    "example": "The government raised taxes.",
+    "example_jp": "政府は税金を引き上げました。"
+  },
+  {
+    "word": "nation",
+    "meaning": "国家",
+    "example": "Japan is an island nation.",
+    "example_jp": "日本は島国です。"
+  },
+  {
+    "word": "nation",
+    "meaning": "国民",
+    "example": "The whole nation cheered.",
+    "example_jp": "国中が歓声を上げました。"
+  },
+  {
+    "word": "capital",
+    "meaning": "首都",
+    "example": "Tokyo is the capital of Japan.",
+    "example_jp": "東京は日本の首都です。"
+  },
+  {
+    "word": "capital",
+    "meaning": "資本",
+    "example": "We need more capital to start.",
+    "example_jp": "始めるにはもっと資本が必要です。"
+  },
+  {
+    "word": "capital",
+    "meaning": "死に値する（重大な）",
+    "example": "Murder is a capital offense.",
+    "example_jp": "殺人は死に値する重大な犯罪です。"
+  },
+  {
+    "word": "state",
+    "meaning": "州",
+    "example": "California is a large state.",
+    "example_jp": "カリフォルニアは広い州です。"
+  },
+  {
+    "word": "state",
+    "meaning": "状態",
+    "example": "Water is in a liquid state.",
+    "example_jp": "水は液体の状態にあります。"
+  },
+  {
+    "word": "state",
+    "meaning": "国家",
+    "example": "The state controls the army.",
+    "example_jp": "国家が軍隊を統制しています。"
+  },
+  {
+    "word": "state",
+    "meaning": "述べる",
+    "example": "Please state your name.",
+    "example_jp": "あなたの名前を述べてください。"
+  },
+  {
+    "word": "political",
+    "meaning": "政治的な",
+    "example": "He joined a political party.",
+    "example_jp": "彼は政党に参加しました。"
+  },
+  {
+    "word": "price",
+    "meaning": "価格",
+    "example": "The price is too high.",
+    "example_jp": "価格が高すぎます。"
+  },
+  {
+    "word": "price",
+    "meaning": "物価",
+    "example": "Prices are rising.",
+    "example_jp": "物価が上昇しています。"
+  },
+  {
+    "word": "price",
+    "meaning": "代償",
+    "example": "Fame comes at a price.",
+    "example_jp": "名声には代償が伴います。"
+  },
+  {
+    "word": "sum",
+    "meaning": "金額",
+    "example": "He paid a large sum of money.",
+    "example_jp": "彼は多額の金を支払いました。"
+  },
+  {
+    "word": "sum",
+    "meaning": "合計",
+    "example": "The sum of 2 and 3 is 5.",
+    "example_jp": "2と3の合計は5です。"
+  },
+  {
+    "word": "sum",
+    "meaning": "計算",
+    "example": "I can do simple sums.",
+    "example_jp": "私は簡単な計算ができます。"
+  },
+  {
+    "word": "sum",
+    "meaning": "～を要約する",
+    "example": "To sum up, we agree.",
+    "example_jp": "要するに、私たちは同意します。"
+  },
+  {
+    "word": "budget",
+    "meaning": "予算",
+    "example": "We have a limited budget.",
+    "example_jp": "私たちには限られた予算があります。"
+  },
+  {
+    "word": "budget",
+    "meaning": "安い",
+    "example": "It is a budget hotel.",
+    "example_jp": "それは格安ホテルです。"
+  },
+  {
+    "word": "fee",
+    "meaning": "料金",
+    "example": "The entrance fee is 10 dollars.",
+    "example_jp": "入場料は10ドルです。"
+  },
+  {
+    "word": "fee",
+    "meaning": "謝礼",
+    "example": "The lawyer's fee was high.",
+    "example_jp": "弁護士の報酬は高額でした。"
+  },
+  {
+    "word": "fare",
+    "meaning": "運賃",
+    "example": "The bus fare is 200 yen.",
+    "example_jp": "バスの運賃は200円です。"
+  },
+  {
+    "word": "bill",
+    "meaning": "勘定",
+    "example": "Can I have the bill, please?",
+    "example_jp": "お会計をお願いします。"
+  },
+  {
+    "word": "bill",
+    "meaning": "請求書",
+    "example": "I received the electricity bill.",
+    "example_jp": "電気の請求書が届きました。"
+  },
+  {
+    "word": "bill",
+    "meaning": "紙幣",
+    "example": "He has a ten-dollar bill.",
+    "example_jp": "彼は10ドル紙幣を持っています。"
+  },
+  {
+    "word": "bill",
+    "meaning": "法案",
+    "example": "The bill passed the Diet.",
+    "example_jp": "その法案は国会で可決されました。"
+  },
+  {
+    "word": "trade",
+    "meaning": "貿易",
+    "example": "International trade is important.",
+    "example_jp": "国際貿易は重要です。"
+  },
+  {
+    "word": "trade",
+    "meaning": "～業",
+    "example": "He is in the tourist trade.",
+    "example_jp": "彼は観光業に従事しています。"
+  },
+  {
+    "word": "trade",
+    "meaning": "商売",
+    "example": "Trade is brisk today.",
+    "example_jp": "今日は商売が盛んです。"
+  },
+  {
+    "word": "trade",
+    "meaning": "～を交換する",
+    "example": "I traded my pen for his pencil.",
+    "example_jp": "私は自分のペンと彼の鉛筆を交換しました。"
+  },
+  {
+    "word": "wealth",
+    "meaning": "富",
+    "example": "He acquired great wealth.",
+    "example_jp": "彼は莫大な富を得ました。"
+  },
+  {
+    "word": "wealth",
+    "meaning": "豊富な～",
+    "example": "The book has a wealth of information.",
+    "example_jp": "その本は豊富な情報を含んでいます。"
+  },
+  {
+    "word": "economy",
+    "meaning": "経済",
+    "example": "The world economy is growing.",
+    "example_jp": "世界経済は成長しています。"
+  },
+  {
+    "word": "economy",
+    "meaning": "節約",
+    "example": "Practice economy in everything.",
+    "example_jp": "あらゆる面で節約を心がけなさい。"
+  },
+  {
+    "word": "cost",
+    "meaning": "（費用）を要する",
+    "example": "The trip cost me 100 dollars.",
+    "example_jp": "その旅行は私に100ドルかかりました。"
+  },
+  {
+    "word": "cost",
+    "meaning": "～を犠牲にする",
+    "example": "The war cost many lives.",
+    "example_jp": "その戦争は多くの命を犠牲にしました。"
+  },
+  {
+    "word": "cost",
+    "meaning": "費用",
+    "example": "The cost of living is high.",
+    "example_jp": "生活費が高いです。"
+  },
+  {
+    "word": "company",
+    "meaning": "会社",
+    "example": "I work for a big company.",
+    "example_jp": "私は大きな会社で働いています。"
+  },
+  {
+    "word": "company",
+    "meaning": "一緒にいること",
+    "example": "I enjoy your company.",
+    "example_jp": "あなたと一緒にいるのは楽しいです。"
+  },
+  {
+    "word": "company",
+    "meaning": "仲間",
+    "example": "He is good company.",
+    "example_jp": "彼は一緒にいて楽しい仲間です。"
+  },
+  {
+    "word": "company",
+    "meaning": "来客",
+    "example": "We have company tonight.",
+    "example_jp": "今夜は来客があります。"
+  },
+  {
+    "word": "task",
+    "meaning": "仕事",
+    "example": "I have a difficult task to do.",
+    "example_jp": "私はやらなければならない難しい仕事があります。"
+  },
+  {
+    "word": "earn",
+    "meaning": "（金）を稼ぐ",
+    "example": "He earns a good salary.",
+    "example_jp": "彼は良い給料を稼いでいます。"
+  },
+  {
+    "word": "earn",
+    "meaning": "（評判など）を得る",
+    "example": "She earned a reputation as a writer.",
+    "example_jp": "彼女は作家としての評判を得ました。"
+  },
+  {
+    "word": "hurt",
+    "meaning": "痛む",
+    "example": "My leg hurts.",
+    "example_jp": "私の足が痛みます。"
+  },
+  {
+    "word": "hurt",
+    "meaning": "傷つける",
+    "example": "Don't hurt his feelings.",
+    "example_jp": "彼の気持ちを傷つけないでください。"
+  },
+  {
+    "word": "injure",
+    "meaning": "～を痛める",
+    "example": "He injured his back.",
+    "example_jp": "彼は背中を痛めました。"
+  },
+  {
+    "word": "injure",
+    "meaning": "～をけがさせる",
+    "example": "The accident injured five people.",
+    "example_jp": "その事故で5人がけがをしました。"
+  }
+]

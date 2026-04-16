@@ -1,0 +1,566 @@
+[
+  {
+    "word": "pollution",
+    "meaning": "汚染",
+    "example": "Air pollution is a serious problem.",
+    "example_jp": "大気汚染は深刻な問題です。"
+  },
+  {
+    "word": "sight",
+    "meaning": "光景",
+    "example": "The sunset was a beautiful sight.",
+    "example_jp": "夕焼けは美しい光景でした。"
+  },
+  {
+    "word": "sight",
+    "meaning": "視力",
+    "example": "He lost his sight in an accident.",
+    "example_jp": "彼は事故で視力を失いました。"
+  },
+  {
+    "word": "view",
+    "meaning": "眺め",
+    "example": "The view from the top is amazing.",
+    "example_jp": "頂上からの眺めは素晴らしいです。"
+  },
+  {
+    "word": "view",
+    "meaning": "見解",
+    "example": "What is your view on this issue?",
+    "example_jp": "この問題についてあなたの見解は何ですか。"
+  },
+  {
+    "word": "view",
+    "meaning": "～とみなす",
+    "example": "He views life as a game.",
+    "example_jp": "彼は人生をゲームのようにみなしています。"
+  },
+  {
+    "word": "landscape",
+    "meaning": "風景",
+    "example": "The landscape changed as we drove.",
+    "example_jp": "私たちが車で走るにつれて風景が変わりました。"
+  },
+  {
+    "word": "landscape",
+    "meaning": "情勢",
+    "example": "The political landscape is shifting.",
+    "example_jp": "政治的情勢が変化しています。"
+  },
+  {
+    "word": "nature",
+    "meaning": "自然",
+    "example": "We should protect nature.",
+    "example_jp": "私たちは自然を守るべきです。"
+  },
+  {
+    "word": "nature",
+    "meaning": "性質",
+    "example": "It is the nature of fire to burn.",
+    "example_jp": "火は燃える性質を持っています。"
+  },
+  {
+    "word": "seed",
+    "meaning": "種",
+    "example": "I planted flower seeds.",
+    "example_jp": "私は花の種をまきました。"
+  },
+  {
+    "word": "seed",
+    "meaning": "シード選手",
+    "example": "He is the top seed in the tournament.",
+    "example_jp": "彼は大会で第1シードです。"
+  },
+  {
+    "word": "plant",
+    "meaning": "植物",
+    "example": "This plant needs sunlight.",
+    "example_jp": "この植物は日光が必要です。"
+  },
+  {
+    "word": "plant",
+    "meaning": "工場（発電所）",
+    "example": "They built a new power plant.",
+    "example_jp": "彼らは新しい発電所を建設しました。"
+  },
+  {
+    "word": "plant",
+    "meaning": "～を植える",
+    "example": "We planted trees in the park.",
+    "example_jp": "私たちは公園に木を植えました。"
+  },
+  {
+    "word": "bloom",
+    "meaning": "咲く",
+    "example": "Cherry blossoms bloom in spring.",
+    "example_jp": "桜は春に咲きます。"
+  },
+  {
+    "word": "bloom",
+    "meaning": "開花",
+    "example": "The roses are in full bloom.",
+    "example_jp": "バラが満開です。"
+  },
+  {
+    "word": "harvest",
+    "meaning": "収穫",
+    "example": "The rice harvest was good this year.",
+    "example_jp": "今年の稲の収穫は良好でした。"
+  },
+  {
+    "word": "harvest",
+    "meaning": "～を収穫する",
+    "example": "Farmers harvest crops in autumn.",
+    "example_jp": "農家は秋に作物を収穫します。"
+  },
+  {
+    "word": "harvest",
+    "meaning": "～を摘出する",
+    "example": "Doctors harvested the organ for transplant.",
+    "example_jp": "医師たちは移植のために臓器を摘出しました。"
+  },
+  {
+    "word": "insect",
+    "meaning": "昆虫",
+    "example": "Ants are insects.",
+    "example_jp": "アリは昆虫です。"
+  },
+  {
+    "word": "earthquake",
+    "meaning": "地震",
+    "example": "An earthquake hit the city.",
+    "example_jp": "地震がその都市を襲いました。"
+  },
+  {
+    "word": "temperature",
+    "meaning": "気温",
+    "example": "The temperature dropped to zero.",
+    "example_jp": "気温は0度まで下がりました。"
+  },
+  {
+    "word": "temperature",
+    "meaning": "体温",
+    "example": "I have a slight temperature.",
+    "example_jp": "私は微熱があります。"
+  },
+  {
+    "word": "degree",
+    "meaning": "度（温度）",
+    "example": "Water boils at 100 degrees Celsius.",
+    "example_jp": "水は摂氏100度で沸騰します。"
+  },
+  {
+    "word": "degree",
+    "meaning": "程度",
+    "example": "I agree with you to some degree.",
+    "example_jp": "ある程度あなたに賛成です。"
+  },
+  {
+    "word": "degree",
+    "meaning": "学位",
+    "example": "He has a master's degree.",
+    "example_jp": "彼は修士号を持っています。"
+  },
+  {
+    "word": "flood",
+    "meaning": "洪水",
+    "example": "The flood destroyed the bridge.",
+    "example_jp": "洪水が橋を破壊しました。"
+  },
+  {
+    "word": "flood",
+    "meaning": "～を水浸しにする",
+    "example": "The rain flooded the streets.",
+    "example_jp": "雨で通りが水浸しになりました。"
+  },
+  {
+    "word": "freeze",
+    "meaning": "凍る",
+    "example": "Water freezes at 0 degrees.",
+    "example_jp": "水は0度で凍ります。"
+  },
+  {
+    "word": "freeze",
+    "meaning": "～を凍らせる",
+    "example": "We freeze vegetables to keep them fresh.",
+    "example_jp": "私たちは野菜を新鮮に保つために冷凍します。"
+  },
+  {
+    "word": "reflect",
+    "meaning": "～を反射する",
+    "example": "The mirror reflects light.",
+    "example_jp": "鏡は光を反射します。"
+  },
+  {
+    "word": "reflect",
+    "meaning": "～を反映する",
+    "example": "The movie reflects the times.",
+    "example_jp": "その映画は時代を反映しています。"
+  },
+  {
+    "word": "reflect",
+    "meaning": "熟考する",
+    "example": "I reflected on my mistakes.",
+    "example_jp": "私は自分の過ちを熟考しました。"
+  },
+  {
+    "word": "polite",
+    "meaning": "礼儀正しい",
+    "example": "He is a polite young man.",
+    "example_jp": "彼は礼儀正しい若者です。"
+  },
+  {
+    "word": "rude",
+    "meaning": "無礼な",
+    "example": "It is rude to point at people.",
+    "example_jp": "人を指さすのは無礼です。"
+  },
+  {
+    "word": "lonely",
+    "meaning": "孤独な",
+    "example": "I feel lonely without you.",
+    "example_jp": "あなたがいないと寂しく感じます。"
+  },
+  {
+    "word": "lazy",
+    "meaning": "怠惰な",
+    "example": "Don't be lazy.",
+    "example_jp": "怠けないでください。"
+  },
+  {
+    "word": "lazy",
+    "meaning": "くつろいだ",
+    "example": "We enjoyed a lazy afternoon.",
+    "example_jp": "私たちはのんびりした午後を楽しみました。"
+  },
+  {
+    "word": "strict",
+    "meaning": "厳しい",
+    "example": "My father is strict about manners.",
+    "example_jp": "私の父は礼儀に厳しいです。"
+  },
+  {
+    "word": "ugly",
+    "meaning": "醜い",
+    "example": "That is an ugly building.",
+    "example_jp": "あれは醜い建物です。"
+  },
+  {
+    "word": "intelligent",
+    "meaning": "知的な",
+    "example": "Dolphins are intelligent animals.",
+    "example_jp": "イルカは知的な動物です。"
+  },
+  {
+    "word": "silly",
+    "meaning": "ばかな",
+    "example": "Don't ask silly questions.",
+    "example_jp": "ばかな質問をしないでください。"
+  },
+  {
+    "word": "nervous",
+    "meaning": "あがって",
+    "example": "I felt nervous before the speech.",
+    "example_jp": "スピーチの前に緊張しました。"
+  },
+  {
+    "word": "nervous",
+    "meaning": "神経質な",
+    "example": "He is a nervous person.",
+    "example_jp": "彼は神経質な人です。"
+  },
+  {
+    "word": "nervous",
+    "meaning": "神経の",
+    "example": "The nervous system controls the body.",
+    "example_jp": "神経系は身体を制御します。"
+  },
+  {
+    "word": "awake",
+    "meaning": "目を覚まして",
+    "example": "The baby is wide awake.",
+    "example_jp": "赤ちゃんはすっかり目を覚ましています。"
+  },
+  {
+    "word": "alone",
+    "meaning": "1人で",
+    "example": "She lives alone.",
+    "example_jp": "彼女は一人で暮らしています。"
+  },
+  {
+    "word": "alone",
+    "meaning": "～だけ",
+    "example": "Money alone cannot buy happiness.",
+    "example_jp": "お金だけでは幸福は買えません。"
+  },
+  {
+    "word": "attitude",
+    "meaning": "態度",
+    "example": "He has a positive attitude.",
+    "example_jp": "彼は前向きな態度を持っています。"
+  },
+  {
+    "word": "character",
+    "meaning": "性格",
+    "example": "He has a cheerful character.",
+    "example_jp": "彼は陽気な性格です。"
+  },
+  {
+    "word": "character",
+    "meaning": "登場人物",
+    "example": "Who is your favorite character?",
+    "example_jp": "あなたの好きな登場人物は誰ですか。"
+  },
+  {
+    "word": "character",
+    "meaning": "文字",
+    "example": "Chinese characters are difficult.",
+    "example_jp": "漢字は難しいです。"
+  },
+  {
+    "word": "characteristic",
+    "meaning": "特徴",
+    "example": "Kindness is her main characteristic.",
+    "example_jp": "親切さが彼女の主な特徴です。"
+  },
+  {
+    "word": "characteristic",
+    "meaning": "特有の",
+    "example": "The zebra has characteristic stripes.",
+    "example_jp": "シマウマには特徴的な縞模様があります。"
+  },
+  {
+    "word": "feature",
+    "meaning": "特徴",
+    "example": "This car has many safety features.",
+    "example_jp": "この車には多くの安全機能があります。"
+  },
+  {
+    "word": "feature",
+    "meaning": "特集記事",
+    "example": "The magazine had a feature on travel.",
+    "example_jp": "その雑誌には旅行に関する特集記事がありました。"
+  },
+  {
+    "word": "feature",
+    "meaning": "～を特集する",
+    "example": "The show features new artists.",
+    "example_jp": "その番組は新しいアーティストを特集しています。"
+  },
+  {
+    "word": "detail",
+    "meaning": "詳細",
+    "example": "Tell me the details of the plan.",
+    "example_jp": "その計画の詳細を教えてください。"
+  },
+  {
+    "word": "detail",
+    "meaning": "細部",
+    "example": "Pay attention to detail.",
+    "example_jp": "細部に注意を払ってください。"
+  },
+  {
+    "word": "advantage",
+    "meaning": "利点",
+    "example": "He has an advantage over me.",
+    "example_jp": "彼は私より有利です。"
+  },
+  {
+    "word": "fault",
+    "meaning": "欠点（不具合）",
+    "example": "The machine has a fault.",
+    "example_jp": "その機械には不具合があります。"
+  },
+  {
+    "word": "fault",
+    "meaning": "責任",
+    "example": "It's not my fault.",
+    "example_jp": "それは私の責任ではありません。"
+  },
+  {
+    "word": "fault",
+    "meaning": "断層",
+    "example": "An earthquake occurs at a fault line.",
+    "example_jp": "地震は断層線で発生します。"
+  },
+  {
+    "word": "quality",
+    "meaning": "質",
+    "example": "We aim for high quality.",
+    "example_jp": "私たちは高品質を目指します。"
+  },
+  {
+    "word": "quality",
+    "meaning": "資質",
+    "example": "He has leadership qualities.",
+    "example_jp": "彼にはリーダーシップの資質があります。"
+  },
+  {
+    "word": "correct",
+    "meaning": "正確な",
+    "example": "Your answer is correct.",
+    "example_jp": "あなたの答えは正しいです。"
+  },
+  {
+    "word": "correct",
+    "meaning": "～を訂正する",
+    "example": "Please correct my mistakes.",
+    "example_jp": "私の間違いを訂正してください。"
+  },
+  {
+    "word": "ideal",
+    "meaning": "理想的な",
+    "example": "It is an ideal place for a picnic.",
+    "example_jp": "そこはピクニックに理想的な場所です。"
+  },
+  {
+    "word": "ideal",
+    "meaning": "理想",
+    "example": "He pursues high ideals.",
+    "example_jp": "彼は高い理想を追求しています。"
+  },
+  {
+    "word": "fair",
+    "meaning": "公正な",
+    "example": "The judge made a fair decision.",
+    "example_jp": "裁判官は公正な判決を下しました。"
+  },
+  {
+    "word": "fair",
+    "meaning": "品評会（見本市）",
+    "example": "We went to the book fair.",
+    "example_jp": "私たちは本の見本市に行きました。"
+  },
+  {
+    "word": "appropriate",
+    "meaning": "適切な",
+    "example": "Wear appropriate clothes for the party.",
+    "example_jp": "パーティーにふさわしい服を着てください。"
+  },
+  {
+    "word": "famous",
+    "meaning": "有名な（～で）",
+    "example": "This town is famous for its apples.",
+    "example_jp": "この町はリンゴで有名です。"
+  },
+  {
+    "word": "famous",
+    "meaning": "有名な（～として）",
+    "example": "He is famous as a singer.",
+    "example_jp": "彼は歌手として有名です。"
+  },
+  {
+    "word": "elementary",
+    "meaning": "初歩的な",
+    "example": "It is an elementary mistake.",
+    "example_jp": "それは初歩的な間違いです。"
+  },
+  {
+    "word": "major",
+    "meaning": "主要な",
+    "example": "Pollution is a major problem.",
+    "example_jp": "汚染は主要な問題です。"
+  },
+  {
+    "word": "major",
+    "meaning": "専攻する",
+    "example": "She majors in history.",
+    "example_jp": "彼女は歴史を専攻しています。"
+  },
+  {
+    "word": "major",
+    "meaning": "専攻",
+    "example": "His major is economics.",
+    "example_jp": "彼の専攻は経済学です。"
+  },
+  {
+    "word": "matter",
+    "meaning": "重要である",
+    "example": "It doesn't matter to me.",
+    "example_jp": "それは私にとって重要ではありません。"
+  },
+  {
+    "word": "matter",
+    "meaning": "物質",
+    "example": "The universe is made of matter.",
+    "example_jp": "宇宙は物質でできています。"
+  },
+  {
+    "word": "matter",
+    "meaning": "事態（状況）",
+    "example": "To make matters worse, it rained.",
+    "example_jp": "さらに悪いことに、雨が降りました。"
+  },
+  {
+    "word": "bright",
+    "meaning": "明るい",
+    "example": "The sun is bright today.",
+    "example_jp": "今日は太陽が明るいです。"
+  },
+  {
+    "word": "bright",
+    "meaning": "賢い",
+    "example": "She is a bright student.",
+    "example_jp": "彼女は賢い生徒です。"
+  },
+  {
+    "word": "brilliant",
+    "meaning": "輝いている",
+    "example": "The diamond is brilliant.",
+    "example_jp": "そのダイヤモンドは輝いています。"
+  },
+  {
+    "word": "brilliant",
+    "meaning": "すばらしい",
+    "example": "He had a brilliant idea.",
+    "example_jp": "彼は素晴らしいアイデアを思いつきました。"
+  },
+  {
+    "word": "lively",
+    "meaning": "生き生きとした",
+    "example": "They had a lively discussion.",
+    "example_jp": "彼らは活発な議論をしました。"
+  },
+  {
+    "word": "comfortable",
+    "meaning": "快適な",
+    "example": "This sofa is very comfortable.",
+    "example_jp": "このソファはとても快適です。"
+  },
+  {
+    "word": "comfortable",
+    "meaning": "心地よい",
+    "example": "I don't feel comfortable with him.",
+    "example_jp": "彼と一緒にいると居心地がよくありません。"
+  },
+  {
+    "word": "pleasant",
+    "meaning": "楽しい（心地よい）",
+    "example": "We had a pleasant time.",
+    "example_jp": "私たちは楽しい時間を過ごしました。"
+  },
+  {
+    "word": "convenient",
+    "meaning": "都合がよい",
+    "example": "When is convenient for you?",
+    "example_jp": "あなたにとって都合の良い時間はいつですか。"
+  },
+  {
+    "word": "convenient",
+    "meaning": "近くて便利がよい",
+    "example": "My house is convenient to the station.",
+    "example_jp": "私の家は駅から近くて便利です。"
+  },
+  {
+    "word": "false",
+    "meaning": "誤った",
+    "example": "That statement is false.",
+    "example_jp": "その主張は誤りです。"
+  },
+  {
+    "word": "false",
+    "meaning": "偽の",
+    "example": "He gave a false name.",
+    "example_jp": "彼は偽名を名乗りました。"
+  }
+]

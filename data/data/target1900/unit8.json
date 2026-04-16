@@ -1,0 +1,452 @@
+[
+  {
+    "word": "manner",
+    "meaning": "作法",
+    "example": "It is bad manners to talk with your mouth full.",
+    "example_jp": "口に食べ物を入れたまま話すのは、作法（マナー）が悪い。"
+  },
+  {
+    "word": "manner",
+    "meaning": "方法・物腰",
+    "example": "He answered the question in a professional manner.",
+    "example_jp": "彼はプロらしい方法（物腰）で質問に答えた。"
+  },
+  {
+    "word": "threat",
+    "meaning": "脅威・脅迫",
+    "example": "Global warming is a serious threat to the earth.",
+    "example_jp": "地球温暖化は地球にとって深刻な脅威だ。"
+  },
+  {
+    "word": "threat",
+    "meaning": "（悪い）兆し",
+    "example": "There is a threat of rain this afternoon.",
+    "example_jp": "今日の午後は雨の兆しがある。"
+  },
+  {
+    "word": "resident",
+    "meaning": "居住者・滞在者",
+    "example": "The residents of the apartment complain about the noise.",
+    "example_jp": "アパートの居住者たちは騒音に苦情を言っている。"
+  },
+  {
+    "word": "wealth",
+    "meaning": "富・富裕",
+    "example": "He spent his life accumulating great wealth.",
+    "example_jp": "彼は莫大な富を蓄えることに人生を費やした。"
+  },
+  {
+    "word": "wealth",
+    "meaning": "資源・豊富さ",
+    "example": "The book contains a wealth of information.",
+    "example_jp": "その本には豊富な（資源のような）情報が含まれている。"
+  },
+  {
+    "word": "institution",
+    "meaning": "機関・協会・施設",
+    "example": "She works for a famous financial institution.",
+    "example_jp": "彼女は有名な金融機関で働いている。"
+  },
+  {
+    "word": "institution",
+    "meaning": "制度",
+    "example": "Marriage is a social institution.",
+    "example_jp": "結婚は社会的な制度である。"
+  },
+  {
+    "word": "authority",
+    "meaning": "当局",
+    "example": "You should report the accident to the authorities.",
+    "example_jp": "その事故を関係当局に報告すべきだ。"
+  },
+  {
+    "word": "authority",
+    "meaning": "権威・権限",
+    "example": "He is an authority on modern art.",
+    "example_jp": "彼は現代美術の権威だ。"
+  },
+  {
+    "word": "vote",
+    "meaning": "投票・投票結果",
+    "example": "The motion was passed by a majority vote.",
+    "example_jp": "その動議は過半数の投票で可決された。"
+  },
+  {
+    "word": "vote",
+    "meaning": "選挙権",
+    "example": "Women won the vote in the early 20th century.",
+    "example_jp": "20世紀初頭に女性は選挙権を勝ち取った。"
+  },
+  {
+    "word": "sight",
+    "meaning": "光景・名所",
+    "example": "The sunset was a beautiful sight.",
+    "example_jp": "夕日は美しい光景だった。"
+  },
+  {
+    "word": "sight",
+    "meaning": "見ること・視野",
+    "example": "The ship was lost from sight in the fog.",
+    "example_jp": "船は霧の中に消えて見えなくなった（視野から消えた）。"
+  },
+  {
+    "word": "sight",
+    "meaning": "視力",
+    "example": "He has poor sight and needs glasses.",
+    "example_jp": "彼は視力が悪く、眼鏡が必要だ。"
+  },
+  {
+    "word": "campaign",
+    "meaning": "運動",
+    "example": "The election campaign starts next week.",
+    "example_jp": "選挙運動が来週始まる。"
+  },
+  {
+    "word": "campaign",
+    "meaning": "軍事行動",
+    "example": "The general led a successful military campaign.",
+    "example_jp": "将軍は軍事行動を成功に導いた。"
+  },
+  {
+    "word": "fund",
+    "meaning": "基金・資金",
+    "example": "The school raised a fund for new computers.",
+    "example_jp": "学校は新しいコンピュータのために基金を募った。"
+  },
+  {
+    "word": "web",
+    "meaning": "ウェブ",
+    "example": "You can find more information on the Web.",
+    "example_jp": "ウェブ上でもっと情報を見つけることができます。"
+  },
+  {
+    "word": "web",
+    "meaning": "（クモの）巣",
+    "example": "A spider was spinning a web in the corner.",
+    "example_jp": "クモが隅で巣を張っていた。"
+  },
+  {
+    "word": "symbol",
+    "meaning": "象徴・シンボル・標章",
+    "example": "The dove is a symbol of peace.",
+    "example_jp": "ハトは平和の象徴だ。"
+  },
+  {
+    "word": "symbol",
+    "meaning": "記号",
+    "example": "What does this mathematical symbol mean?",
+    "example_jp": "この数学の記号はどういう意味ですか。"
+  },
+  {
+    "word": "analysis",
+    "meaning": "分析（結果）",
+    "example": "The blood analysis showed no problems.",
+    "example_jp": "血液分析の結果、問題は見られなかった。"
+  },
+  {
+    "word": "version",
+    "meaning": "版",
+    "example": "This is the latest version of the software.",
+    "example_jp": "これがソフトウェアの最新版だ。"
+  },
+  {
+    "word": "version",
+    "meaning": "解釈",
+    "example": "Her version of the story was different from his.",
+    "example_jp": "彼女のその話に対する解釈（言い分）は、彼のものとは違っていた。"
+  },
+  {
+    "word": "perspective",
+    "meaning": "観点・見方・大局観",
+    "example": "We need a global perspective on this issue.",
+    "example_jp": "この問題には地球規模の観点（大局観）が必要だ。"
+  },
+  {
+    "word": "perspective",
+    "meaning": "遠近法",
+    "example": "The drawing uses perspective to show depth.",
+    "example_jp": "その図面は奥行きを出すために遠近法を使っている。"
+  },
+  {
+    "word": "crisis",
+    "meaning": "危機",
+    "example": "The country is facing an economic crisis.",
+    "example_jp": "その国は経済的な危機に直面している。"
+  },
+  {
+    "word": "disaster",
+    "meaning": "災害・惨事",
+    "example": "The earthquake was a terrible disaster.",
+    "example_jp": "その地震はひどい災害だった。"
+  },
+  {
+    "word": "lecture",
+    "meaning": "講義・講演",
+    "example": "I attended a lecture on psychology today.",
+    "example_jp": "今日、心理学の講義に出席した。"
+  },
+  {
+    "word": "lecture",
+    "meaning": "説教",
+    "example": "My father gave me a lecture about honesty.",
+    "example_jp": "父は正直さについて私に説教をした。"
+  },
+  {
+    "word": "psychology",
+    "meaning": "心理学",
+    "example": "He major in psychology at university.",
+    "example_jp": "彼は大学で心理学を専攻した。"
+  },
+  {
+    "word": "psychology",
+    "meaning": "心理（状態）",
+    "example": "I don't understand the psychology of criminals.",
+    "example_jp": "犯罪者の心理（状態）は理解できない。"
+  },
+  {
+    "word": "gender",
+    "meaning": "（社会的・文化的）性・性別",
+    "example": "Gender roles are changing in modern society.",
+    "example_jp": "現代社会において性（ジェンダー）の役割は変化している。"
+  },
+  {
+    "word": "custom",
+    "meaning": "（社会的な）慣習",
+    "example": "It's a local custom to exchange gifts.",
+    "example_jp": "贈り物を交換するのは地元の慣習だ。"
+  },
+  {
+    "word": "custom",
+    "meaning": "税関・関税",
+    "example": "I had to wait at customs for an hour.",
+    "example_jp": "税関で1時間待たなければならなかった。"
+  },
+  {
+    "word": "court",
+    "meaning": "裁判所・法廷・裁判",
+    "example": "The case is going to court tomorrow.",
+    "example_jp": "その事件は明日、裁判にかけられる。"
+  },
+  {
+    "word": "court",
+    "meaning": "宮廷",
+    "example": "The king lives in the royal court.",
+    "example_jp": "王は王宮（宮廷）に住んでいる。"
+  },
+  {
+    "word": "court",
+    "meaning": "中庭",
+    "example": "The house has a small inner court.",
+    "example_jp": "その家には小さな中庭がある。"
+  },
+  {
+    "word": "desert",
+    "meaning": "砂漠・不毛の地",
+    "example": "Camels are well adapted to life in the desert.",
+    "example_jp": "ラクダは砂漠での生活によく適応している。"
+  },
+  {
+    "word": "soil",
+    "meaning": "土地・土壌",
+    "example": "The plants grow well in this rich soil.",
+    "example_jp": "この豊かな土壌では植物がよく育つ。"
+  },
+  {
+    "word": "soil",
+    "meaning": "（悪事などの）温床",
+    "example": "Poverty is often the soil of crime.",
+    "example_jp": "貧困はしばしば犯罪の温床となる。"
+  },
+  {
+    "word": "agriculture",
+    "meaning": "農業・農学・畜産",
+    "example": "Modern agriculture uses a lot of technology.",
+    "example_jp": "現代の農業は多くの技術を使っている。"
+  },
+  {
+    "word": "fossil",
+    "meaning": "化石",
+    "example": "We found a fish fossil in the rock.",
+    "example_jp": "岩の中に魚の化石を見つけた。"
+  },
+  {
+    "word": "fossil",
+    "meaning": "時代遅れの人［物］",
+    "example": "The old typewriter is a fossil of a bygone era.",
+    "example_jp": "その古いタイプライターは過ぎ去った時代の遺物（時代遅れの物）だ。"
+  },
+  {
+    "word": "document",
+    "meaning": "文書・書類・記録・資料",
+    "example": "Please sign this official document.",
+    "example_jp": "この公文書（書類）に署名してください。"
+  },
+  {
+    "word": "vocabulary",
+    "meaning": "語彙",
+    "example": "Reading books helps increase your vocabulary.",
+    "example_jp": "本を読むことは語彙を増やすのに役立つ。"
+  },
+  {
+    "word": "intelligent",
+    "meaning": "聡明な・知能を有する",
+    "example": "She is a very intelligent student.",
+    "example_jp": "彼女はとても聡明な学生だ。"
+  },
+  {
+    "word": "conscious",
+    "meaning": "意識して・気づいて",
+    "example": "She was conscious of the high cost.",
+    "example_jp": "彼女は費用が高いことに気づいていた（意識していた）。"
+  },
+  {
+    "word": "capable",
+    "meaning": "能力がある・有能な",
+    "example": "He is a very capable manager.",
+    "example_jp": "彼はとても有能なマネージャーだ。"
+  },
+  {
+    "word": "accurate",
+    "meaning": "正確な・精密な",
+    "example": "This watch is very accurate.",
+    "example_jp": "この時計は非常に正確だ。"
+  },
+  {
+    "word": "fundamental",
+    "meaning": "基本的な・必須の",
+    "example": "Food is a fundamental human need.",
+    "example_jp": "食べ物は人間の基本的な欲求（必須のもの）だ。"
+  },
+  {
+    "word": "artificial",
+    "meaning": "人工の",
+    "example": "This plant is made of artificial silk.",
+    "example_jp": "この植物は人工のシルクでできている。"
+  },
+  {
+    "word": "artificial",
+    "meaning": "不自然な",
+    "example": "She gave me an artificial smile.",
+    "example_jp": "彼女は不自然な（作り物の）笑顔を向けた。"
+  },
+  {
+    "word": "firm",
+    "meaning": "確固たる・堅固な・安定した",
+    "example": "He has a firm belief in his success.",
+    "example_jp": "彼は自分の成功を確固たるものと信じている。"
+  },
+  {
+    "word": "overall",
+    "meaning": "総合的な・全体的な",
+    "example": "The overall cost was lower than expected.",
+    "example_jp": "総合的な費用は予想より低かった。"
+  },
+  {
+    "word": "rural",
+    "meaning": "田舎の・田園の",
+    "example": "He grew up in a quiet rural area.",
+    "example_jp": "彼は静かな田舎の地域で育った。"
+  },
+  {
+    "word": "military",
+    "meaning": "軍の・軍事（用）の",
+    "example": "He is doing his military service.",
+    "example_jp": "彼は兵役（軍の公務）についている。"
+  },
+  {
+    "word": "nuclear",
+    "meaning": "核の・原子力の",
+    "example": "They are against nuclear power plants.",
+    "example_jp": "彼らは原子力発電所に反対している。"
+  },
+  {
+    "word": "biological",
+    "meaning": "生物学（上）の",
+    "example": "Eating is a basic biological need.",
+    "example_jp": "食べることは基本的な生物学的欲求だ。"
+  },
+  {
+    "word": "constant",
+    "meaning": "絶え間ない",
+    "example": "The baby's constant crying woke me up.",
+    "example_jp": "赤ちゃんの絶え間ない泣き声で目が覚めた。"
+  },
+  {
+    "word": "constant",
+    "meaning": "一定の",
+    "example": "Maintain a constant speed on the highway.",
+    "example_jp": "高速道路では一定の速度を保ちなさい。"
+  },
+  {
+    "word": "severe",
+    "meaning": "厳しい・猛烈な",
+    "example": "The island suffered from a severe storm.",
+    "example_jp": "その島は猛烈な嵐に見舞われた。"
+  },
+  {
+    "word": "visual",
+    "meaning": "視覚の・目に見える",
+    "example": "Charts provide a good visual aid.",
+    "example_jp": "図表は良い視覚的な助けになる。"
+  },
+  {
+    "word": "enormous",
+    "meaning": "莫大な・巨大な",
+    "example": "The project requires an enormous amount of money.",
+    "example_jp": "そのプロジェクトには莫大な額の資金が必要だ。"
+  },
+  {
+    "word": "convenient",
+    "meaning": "便利な・都合のいい",
+    "example": "Online shopping is very convenient.",
+    "example_jp": "オンラインショッピングはとても便利だ。"
+  },
+  {
+    "word": "domestic",
+    "meaning": "家庭の",
+    "example": "He enjoys doing domestic chores.",
+    "example_jp": "彼は家庭の雑事をするのが好きだ。"
+  },
+  {
+    "word": "domestic",
+    "meaning": "国内の",
+    "example": "Japan's domestic market is shrinking.",
+    "example_jp": "日本の国内市場は縮小している。"
+  },
+  {
+    "word": "domestic",
+    "meaning": "飼いならされた",
+    "example": "Cats and dogs are domestic animals.",
+    "example_jp": "犬や猫は飼いならされた動物（家畜・ペット）だ。"
+  },
+  {
+    "word": "mass",
+    "meaning": "大規模な・大量の",
+    "example": "The volcano produced a mass of smoke.",
+    "example_jp": "火山が大量の煙を出した。"
+  },
+  {
+    "word": "mass",
+    "meaning": "大衆（向け）の",
+    "example": "Television is a form of mass media.",
+    "example_jp": "テレビは大衆媒体（マスメディア）の一形態だ。"
+  },
+  {
+    "word": "typical",
+    "meaning": "典型的な・特有の",
+    "example": "This is a typical example of her style.",
+    "example_jp": "これは彼女のスタイルの典型的な例だ。"
+  },
+  {
+    "word": "overseas",
+    "meaning": "海外へ・に・で",
+    "example": "She plans to study overseas next year.",
+    "example_jp": "彼女は来年海外で勉強する計画だ。"
+  },
+  {
+    "word": "nevertheless",
+    "meaning": "それにもかかわらず",
+    "example": "It was raining; nevertheless, we went out.",
+    "example_jp": "雨が降っていた。それにもかかわらず私たちは外出した。"
+  }
+]

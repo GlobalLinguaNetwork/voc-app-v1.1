@@ -1,0 +1,398 @@
+[
+  {
+    "word": "blame A for B",
+    "meaning": "BのことでAを非難する、BをAのせいにする",
+    "example": "They blamed him for the mistake.",
+    "example_jp": "彼らはその間違いのことで彼を非難した。"
+  },
+  {
+    "word": "punish A for B",
+    "meaning": "BのことでAを罰する",
+    "example": "They punished him for lying.",
+    "example_jp": "彼らは嘘をついたことで彼を罰した。"
+  },
+  {
+    "word": "forgive A for B",
+    "meaning": "BのことでAを許す",
+    "example": "I forgave her for the trouble.",
+    "example_jp": "私はその迷惑のことで彼女を許した。"
+  },
+  {
+    "word": "deprive A of B",
+    "meaning": "AからBを奪う",
+    "example": "The storm deprived us of power.",
+    "example_jp": "嵐が私たちから電力を奪った。"
+  },
+  {
+    "word": "rob A of B",
+    "meaning": "AからBを奪う",
+    "example": "The thief robbed him of his wallet.",
+    "example_jp": "泥棒が彼から財布を奪った。"
+  },
+  {
+    "word": "cure A of B",
+    "meaning": "AのBを治す",
+    "example": "The doctor cured him of the disease.",
+    "example_jp": "医者が彼の病気を治した。"
+  },
+  {
+    "word": "cure A of B",
+    "meaning": "AのB（悪癖）を取り除く",
+    "example": "The program cured him of his bad habit.",
+    "example_jp": "そのプログラムが彼の悪癖を取り除いた。"
+  },
+  {
+    "word": "accuse A of B",
+    "meaning": "BのことでAを非難する、告訴する",
+    "example": "They accused him of stealing.",
+    "example_jp": "彼らは盗みのことで彼を非難した。"
+  },
+  {
+    "word": "suspect A of B",
+    "meaning": "BについてAを疑う",
+    "example": "I suspected him of lying.",
+    "example_jp": "私は彼が嘘をついているのではないかと疑った。"
+  },
+  {
+    "word": "assure A of B",
+    "meaning": "AにBを保証する",
+    "example": "She assured me of her support.",
+    "example_jp": "彼女は私に彼女の支持を保証した。"
+  },
+  {
+    "word": "transform A into B",
+    "meaning": "AをBに変える",
+    "example": "The magician transformed the card into a bird.",
+    "example_jp": "魔法使いはそのカードを鳥に変えた。"
+  },
+  {
+    "word": "transform A to B",
+    "meaning": "AをBに変える",
+    "example": "The factory transformed waste to energy.",
+    "example_jp": "その工場は廃棄物をエネルギーに変えた。"
+  },
+  {
+    "word": "talk A into B",
+    "meaning": "Aを説得してBをさせる",
+    "example": "She talked him into joining.",
+    "example_jp": "彼女は彼を説得して参加させた。"
+  },
+  {
+    "word": "present A with B",
+    "meaning": "AにBを贈る",
+    "example": "They presented him with a gift.",
+    "example_jp": "彼らは彼に贈り物を贈った。"
+  },
+  {
+    "word": "diagnose A as B",
+    "meaning": "AをBと診断する",
+    "example": "He was diagnosed as sick.",
+    "example_jp": "彼は病気だと診断された。"
+  },
+  {
+    "word": "strike A as B",
+    "meaning": "AにBの印象を与える",
+    "example": "His idea struck me as strange.",
+    "example_jp": "彼の考えは私に奇妙な印象を与えた。"
+  },
+  {
+    "word": "congratulate A on B",
+    "meaning": "BのことでAを祝う",
+    "example": "I congratulated her on her success.",
+    "example_jp": "私は彼女の成功のことで彼女を祝った。"
+  },
+  {
+    "word": "congratulate A for B",
+    "meaning": "BのことでAを祝う",
+    "example": "They congratulated him for his effort.",
+    "example_jp": "彼らは彼の努力のことで彼を祝った。"
+  },
+  {
+    "word": "name A after B",
+    "meaning": "AをBにちなんで名づける",
+    "example": "They named the baby after her grandmother.",
+    "example_jp": "彼らはその赤ん坊を彼女の祖母にちなんで名づけた。"
+  },
+  {
+    "word": "make an effort",
+    "meaning": "努力する",
+    "example": "He made an effort to study.",
+    "example_jp": "彼は勉強するために努力した。"
+  },
+  {
+    "word": "make efforts",
+    "meaning": "努力する",
+    "example": "They made efforts to improve.",
+    "example_jp": "彼らは改善するために努力した。"
+  },
+  {
+    "word": "make way",
+    "meaning": "道をあける",
+    "example": "Please make way for the ambulance.",
+    "example_jp": "救急車のために道をあけてください。"
+  },
+  {
+    "word": "live a ～ life",
+    "meaning": "～の生活をする",
+    "example": "They live a happy life.",
+    "example_jp": "彼らは幸せな生活をしている。"
+  },
+  {
+    "word": "lead a ～ life",
+    "meaning": "～の生活をする",
+    "example": "He leads a quiet life.",
+    "example_jp": "彼は静かな生活をしている。"
+  },
+  {
+    "word": "make a living",
+    "meaning": "生計を立てる",
+    "example": "She makes a living by teaching.",
+    "example_jp": "彼女は教えることで生計を立てている。"
+  },
+  {
+    "word": "earn one's living",
+    "meaning": "生計を立てる",
+    "example": "He earns his living as a cook.",
+    "example_jp": "彼は料理人として生計を立てている。"
+  },
+  {
+    "word": "take one's place",
+    "meaning": "いつもの席に着く",
+    "example": "He took his place at the table.",
+    "example_jp": "彼はテーブルのいつもの席に着いた。"
+  },
+  {
+    "word": "take one's place",
+    "meaning": "～に取って代わる",
+    "example": "New machines took his place.",
+    "example_jp": "新しい機械が彼に取って代わった。"
+  },
+  {
+    "word": "take turns",
+    "meaning": "交代でする",
+    "example": "They took turns driving.",
+    "example_jp": "彼らは交代で運転した。"
+  },
+  {
+    "word": "take a chance",
+    "meaning": "思い切ってやってみる",
+    "example": "Take a chance and try it.",
+    "example_jp": "思い切ってやってみて。"
+  },
+  {
+    "word": "take chances",
+    "meaning": "賭ける",
+    "example": "He likes to take chances.",
+    "example_jp": "彼は賭けることが好きだ。"
+  },
+  {
+    "word": "take shape",
+    "meaning": "形をとる",
+    "example": "The plan is taking shape.",
+    "example_jp": "その計画は形をとりつつある。"
+  },
+  {
+    "word": "take a seat",
+    "meaning": "着席する",
+    "example": "Please take a seat.",
+    "example_jp": "どうぞ着席してください。"
+  },
+  {
+    "word": "have a seat",
+    "meaning": "着席する",
+    "example": "Have a seat, please.",
+    "example_jp": "どうぞお座りください。"
+  },
+  {
+    "word": "take a risk",
+    "meaning": "危険を冒す",
+    "example": "He took a risk to save her.",
+    "example_jp": "彼は彼女を救うために危険を冒した。"
+  },
+  {
+    "word": "take risks",
+    "meaning": "危険を冒す",
+    "example": "She often takes risks.",
+    "example_jp": "彼女はよく危険を冒す。"
+  },
+  {
+    "word": "shake hands",
+    "meaning": "握手する",
+    "example": "They shook hands.",
+    "example_jp": "彼らは握手した。"
+  },
+  {
+    "word": "change hands",
+    "meaning": "持ち主が変わる",
+    "example": "The shop changed hands.",
+    "example_jp": "その店は持ち主が変わった。"
+  },
+  {
+    "word": "have a say in",
+    "meaning": "発言権を持つ",
+    "example": "Workers have a say in the decision.",
+    "example_jp": "労働者はその決定において発言権を持つ。"
+  },
+  {
+    "word": "have one's way",
+    "meaning": "思い通りにする",
+    "example": "He always has his own way.",
+    "example_jp": "彼はいつも自分の思い通りにする。"
+  },
+  {
+    "word": "keep one's temper",
+    "meaning": "冷静さを保つ",
+    "example": "He kept his temper.",
+    "example_jp": "彼は冷静さを保った。"
+  },
+  {
+    "word": "hold one's temper",
+    "meaning": "冷静さを保つ",
+    "example": "She held her temper.",
+    "example_jp": "彼女は冷静さを保った。"
+  },
+  {
+    "word": "take advantage of",
+    "meaning": "～を利用する、つけ込む",
+    "example": "He took advantage of the chance.",
+    "example_jp": "彼はそのチャンスを利用した。"
+  },
+  {
+    "word": "take control of",
+    "meaning": "～を制御する、支配する",
+    "example": "They took control of the city.",
+    "example_jp": "彼らはその都市を支配した。"
+  },
+  {
+    "word": "make use of",
+    "meaning": "～を利用する",
+    "example": "We made use of the data.",
+    "example_jp": "私たちはそのデータを利用した。"
+  },
+  {
+    "word": "make fun of",
+    "meaning": "～をからかう",
+    "example": "They make fun of him.",
+    "example_jp": "彼らは彼をからかう。"
+  },
+  {
+    "word": "make friends with",
+    "meaning": "～と親しくなる",
+    "example": "She made friends with her neighbors.",
+    "example_jp": "彼女は近所の人たちと親しくなった。"
+  },
+  {
+    "word": "make much of",
+    "meaning": "～を重要視する",
+    "example": "They make much of education.",
+    "example_jp": "彼らは教育を重要視している。"
+  },
+  {
+    "word": "make much of",
+    "meaning": "～を理解する（否定文）",
+    "example": "I can’t make much of his idea.",
+    "example_jp": "私は彼の考えをあまり理解できない。"
+  },
+  {
+    "word": "have difficulty doing",
+    "meaning": "～するのが困難である",
+    "example": "I had difficulty finding the place.",
+    "example_jp": "私はその場所を見つけるのが困難だった。"
+  },
+  {
+    "word": "have access to",
+    "meaning": "～を利用できる",
+    "example": "Students have access to the library.",
+    "example_jp": "学生は図書館を利用できる。"
+  },
+  {
+    "word": "have an influence on",
+    "meaning": "～に影響を与える",
+    "example": "The weather has an influence on crops.",
+    "example_jp": "天候は作物に影響を与える。"
+  },
+  {
+    "word": "have an effect on",
+    "meaning": "～に影響を与える",
+    "example": "Music has an effect on mood.",
+    "example_jp": "音楽は気分に影響を与える。"
+  },
+  {
+    "word": "have a liking for",
+    "meaning": "～を好む",
+    "example": "She has a liking for sweets.",
+    "example_jp": "彼女は甘いものを好む。"
+  },
+  {
+    "word": "give rise to",
+    "meaning": "～を引き起こす",
+    "example": "The news gave rise to rumors.",
+    "example_jp": "そのニュースは噂を引き起こした。"
+  },
+  {
+    "word": "give birth to",
+    "meaning": "～を産む",
+    "example": "She gave birth to a baby.",
+    "example_jp": "彼女は赤ちゃんを産んだ。"
+  },
+  {
+    "word": "give birth to",
+    "meaning": "～の原因になる",
+    "example": "The idea gave birth to a new project.",
+    "example_jp": "その考えが新しいプロジェクトの原因になった。"
+  },
+  {
+    "word": "find one's way to",
+    "meaning": "～へたどり着く",
+    "example": "He found his way to the station.",
+    "example_jp": "彼は駅へたどり着いた。"
+  },
+  {
+    "word": "keep an eye on",
+    "meaning": "～に気を付ける",
+    "example": "Keep an eye on the kids.",
+    "example_jp": "子供たちに気を付けて。"
+  },
+  {
+    "word": "fall victim to",
+    "meaning": "～の犠牲になる",
+    "example": "Many fell victim to the scam.",
+    "example_jp": "多くの人がその詐欺の犠牲になった。"
+  },
+  {
+    "word": "catch sight of",
+    "meaning": "～を見つける",
+    "example": "I caught sight of a bird.",
+    "example_jp": "私は鳥を見つけた。"
+  },
+  {
+    "word": "put emphasis on",
+    "meaning": "～を強調する",
+    "example": "They put emphasis on safety.",
+    "example_jp": "彼らは安全を強調した。"
+  },
+  {
+    "word": "put stress on",
+    "meaning": "～を重視する",
+    "example": "The teacher put stress on reading.",
+    "example_jp": "先生は読解を重視した。"
+  },
+  {
+    "word": "be related to",
+    "meaning": "～と関係がある",
+    "example": "This is related to the topic.",
+    "example_jp": "これはそのトピックと関係がある。"
+  },
+  {
+    "word": "be related to",
+    "meaning": "～と婚姻関係がある",
+    "example": "She is related to him.",
+    "example_jp": "彼女は彼と婚姻関係がある。"
+  },
+  {
+    "word": "be similar to",
+    "meaning": "～に似ている",
+    "example": "This is similar to mine.",
+    "example_jp": "これは私のものに似ている。"
+  }
+]

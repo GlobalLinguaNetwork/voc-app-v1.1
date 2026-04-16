@@ -1,0 +1,344 @@
+[
+  {
+    "word": "cash",
+    "meaning": "現金",
+    "example": "I pay in cash.",
+    "example_jp": "私は現金で支払う。"
+  },
+  {
+    "word": "earn",
+    "meaning": "お金を得る",
+    "example": "I earn money from my job.",
+    "example_jp": "私は仕事でお金を得る。"
+  },
+  {
+    "word": "reward",
+    "meaning": "報酬",
+    "example": "He gets a reward.",
+    "example_jp": "彼は報酬を得る。"
+  },
+  {
+    "word": "income",
+    "meaning": "収入",
+    "example": "Her income is high.",
+    "example_jp": "彼女の収入は高い。"
+  },
+  {
+    "word": "budget",
+    "meaning": "予算",
+    "example": "We make a budget.",
+    "example_jp": "私たちは予算を立てる。"
+  },
+  {
+    "word": "tax",
+    "meaning": "税金",
+    "example": "We pay tax every year.",
+    "example_jp": "私たちは毎年税金を払う。"
+  },
+  {
+    "word": "consume",
+    "meaning": "消費する",
+    "example": "We consume too much energy.",
+    "example_jp": "私たちはあまりに多くのエネルギーを消費する。"
+  },
+  {
+    "word": "benefit",
+    "meaning": "利益",
+    "example": "This plan has many benefits.",
+    "example_jp": "この計画には多くの利益がある。"
+  },
+  {
+    "word": "benefit",
+    "meaning": "恩恵",
+    "example": "We get a big benefit.",
+    "example_jp": "私たちは大きな恩恵を受ける。"
+  },
+  {
+    "word": "wealth",
+    "meaning": "富",
+    "example": "He has great wealth.",
+    "example_jp": "彼は大きな富を持っている。"
+  },
+  {
+    "word": "wealth",
+    "meaning": "財産",
+    "example": "They protect their wealth.",
+    "example_jp": "彼らは自分たちの財産を保護する。"
+  },
+  {
+    "word": "price",
+    "meaning": "価格",
+    "example": "The price is low.",
+    "example_jp": "価格は低い。"
+  },
+  {
+    "word": "cheap",
+    "meaning": "安い",
+    "example": "This bag is cheap.",
+    "example_jp": "このバッグは安い。"
+  },
+  {
+    "word": "reasonable",
+    "meaning": "手頃な",
+    "example": "The price is reasonable.",
+    "example_jp": "価格は手頃な。"
+  },
+  {
+    "word": "sale",
+    "meaning": "特売",
+    "example": "The store has a sale.",
+    "example_jp": "その店は特売を行っている。"
+  },
+  {
+    "word": "charge",
+    "meaning": "料金",
+    "example": "The charge is 500 yen.",
+    "example_jp": "料金は500円だ。"
+  },
+  {
+    "word": "advertisement",
+    "meaning": "広告",
+    "example": "I see an advertisement online.",
+    "example_jp": "私はオンラインで広告を見る。"
+  },
+  {
+    "word": "commercial",
+    "meaning": "営利的な",
+    "example": "This is a commercial product.",
+    "example_jp": "これは営利的な製品だ。"
+  },
+  {
+    "word": "commercial",
+    "meaning": "商業的な",
+    "example": "They make a commercial film.",
+    "example_jp": "彼らは商業的な映画を作る。"
+  },
+  {
+    "word": "trade",
+    "meaning": "貿易",
+    "example": "They do trade with other countries.",
+    "example_jp": "彼らは他国と貿易を行う。"
+  },
+  {
+    "word": "trade",
+    "meaning": "取引",
+    "example": "We trade goods.",
+    "example_jp": "私たちは品物を取引する。"
+  },
+  {
+    "word": "import",
+    "meaning": "輸入する",
+    "example": "Japan imports food.",
+    "example_jp": "日本は食料を輸入する。"
+  },
+  {
+    "word": "export",
+    "meaning": "輸出する",
+    "example": "They export cars.",
+    "example_jp": "彼らは車を輸出する。"
+  },
+  {
+    "word": "factory",
+    "meaning": "工場",
+    "example": "He works in a factory.",
+    "example_jp": "彼は工場で働いている。"
+  },
+  {
+    "word": "agriculture",
+    "meaning": "農業",
+    "example": "Agriculture is important.",
+    "example_jp": "農業は重要だ。"
+  },
+  {
+    "word": "society",
+    "meaning": "社会",
+    "example": "We live in a modern society.",
+    "example_jp": "私たちは現代社会に住んでいる。"
+  },
+  {
+    "word": "community",
+    "meaning": "地域社会",
+    "example": "This community is friendly.",
+    "example_jp": "この地域社会は親切だ。"
+  },
+  {
+    "word": "organization",
+    "meaning": "組織",
+    "example": "She joins an organization.",
+    "example_jp": "彼女は組織に加わる。"
+  },
+  {
+    "word": "committee",
+    "meaning": "委員会",
+    "example": "The committee meets today.",
+    "example_jp": "委員会は今日集まる。"
+  },
+  {
+    "word": "charity",
+    "meaning": "慈善事業",
+    "example": "They give money to charity.",
+    "example_jp": "彼らは慈善事業にお金を出す。"
+  },
+  {
+    "word": "citizen",
+    "meaning": "市民",
+    "example": "He is a Japanese citizen.",
+    "example_jp": "彼は日本市民だ。"
+  },
+  {
+    "word": "duty",
+    "meaning": "義務",
+    "example": "It is our duty to help.",
+    "example_jp": "助けることは私たちの義務だ。"
+  },
+  {
+    "word": "law",
+    "meaning": "法律",
+    "example": "We must follow the law.",
+    "example_jp": "私たちは法律に従わなければならない。"
+  },
+  {
+    "word": "judge",
+    "meaning": "裁判官",
+    "example": "The judge makes a decision.",
+    "example_jp": "裁判官が決定を下す。"
+  },
+  {
+    "word": "court",
+    "meaning": "法廷",
+    "example": "The court is open.",
+    "example_jp": "法廷は開いている。"
+  },
+  {
+    "word": "court",
+    "meaning": "裁判所",
+    "example": "He goes to court.",
+    "example_jp": "彼は裁判所に行く。"
+  },
+  {
+    "word": "guard",
+    "meaning": "警戒",
+    "example": "The guard watches the gate.",
+    "example_jp": "守衛（ガード）が門を警戒している。"
+  },
+  {
+    "word": "arrest",
+    "meaning": "逮捕する",
+    "example": "The police arrest the man.",
+    "example_jp": "警察はその男を逮捕する。"
+  },
+  {
+    "word": "punish",
+    "meaning": "罰する",
+    "example": "They punish the criminal.",
+    "example_jp": "彼らは犯罪者を罰する。"
+  },
+  {
+    "word": "crime",
+    "meaning": "犯罪",
+    "example": "Crime is a big problem.",
+    "example_jp": "犯罪は大きな問題だ。"
+  },
+  {
+    "word": "murder",
+    "meaning": "殺人",
+    "example": "The murder shocks the town.",
+    "example_jp": "その殺人は町にショックを与える。"
+  },
+  {
+    "word": "murder",
+    "meaning": "殺人事件",
+    "example": "Police investigate the murder.",
+    "example_jp": "警察はその殺人事件を調査する。"
+  },
+  {
+    "word": "shoot",
+    "meaning": "撃つ",
+    "example": "He shoots the target.",
+    "example_jp": "彼は標的を撃つ。"
+  },
+  {
+    "word": "steal",
+    "meaning": "盗む",
+    "example": "Someone steals my bag.",
+    "example_jp": "誰かが私のバッグを盗む。"
+  },
+  {
+    "word": "rob",
+    "meaning": "奪う",
+    "example": "They rob the bank.",
+    "example_jp": "彼らは銀行を奪う。"
+  },
+  {
+    "word": "thief",
+    "meaning": "泥棒",
+    "example": "The thief runs away.",
+    "example_jp": "泥棒が逃げていく。"
+  },
+  {
+    "word": "victim",
+    "meaning": "犠牲者",
+    "example": "The victim needs help.",
+    "example_jp": "犠牲者は助けを必要としている。"
+  },
+  {
+    "word": "drug",
+    "meaning": "薬物",
+    "example": "This drug is dangerous.",
+    "example_jp": "この薬物は危険だ。"
+  },
+  {
+    "word": "poverty",
+    "meaning": "貧困",
+    "example": "Poverty is a global issue.",
+    "example_jp": "貧困は世界的な問題だ。"
+  },
+  {
+    "word": "government",
+    "meaning": "政府",
+    "example": "The government makes new rules.",
+    "example_jp": "政府は新しい規則を作る。"
+  },
+  {
+    "word": "policy",
+    "meaning": "政策",
+    "example": "This is an important policy.",
+    "example_jp": "これは重要な政策だ。"
+  },
+  {
+    "word": "policy",
+    "meaning": "方針",
+    "example": "They change their policy.",
+    "example_jp": "彼らは自分たちの方針を変える。"
+  },
+  {
+    "word": "nation",
+    "meaning": "国家",
+    "example": "Japan is a peaceful nation.",
+    "example_jp": "日本は平和な国家だ。"
+  },
+  {
+    "word": "capital",
+    "meaning": "首都",
+    "example": "Tokyo is the capital of Japan.",
+    "example_jp": "東京は日本の首都だ。"
+  },
+  {
+    "word": "international",
+    "meaning": "国際的な",
+    "example": "This is an international event.",
+    "example_jp": "これは国際的な行事だ。"
+  },
+  {
+    "word": "global",
+    "meaning": "全世界の",
+    "example": "We face global problems.",
+    "example_jp": "私たちは全世界の問題に直面している。"
+  },
+  {
+    "word": "election",
+    "meaning": "選挙",
+    "example": "The election is next month.",
+    "example_jp": "選挙は来月だ。"
+  }
+]

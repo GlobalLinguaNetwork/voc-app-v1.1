@@ -1,0 +1,380 @@
+[
+  {
+    "word": "mill",
+    "meaning": "製造工場，製粉所",
+    "example": "My grandfather worked in a steel mill for forty years.",
+    "example_jp": "私の祖父は鋼鉄工場で40年間働いていた。"
+  },
+  {
+    "word": "mill",
+    "meaning": "粉ひき機",
+    "example": "He used a pepper mill to season the steak.",
+    "example_jp": "彼はステーキに味付けをするためにペッパーミル（胡椒ひき機）を使った。"
+  },
+  {
+    "word": "abuse",
+    "meaning": "乱用",
+    "example": "The official was arrested for the abuse of power.",
+    "example_jp": "その役人は職権乱用で逮捕された。"
+  },
+  {
+    "word": "abuse",
+    "meaning": "虐待",
+    "example": "The organization works to prevent child abuse.",
+    "example_jp": "その組織は児童虐待を防ぐために活動している。"
+  },
+  {
+    "word": "vice",
+    "meaning": "悪，欠点",
+    "example": "Greed is a vice that can ruin a person's life.",
+    "example_jp": "強欲は人の人生を台無しにしかねない悪徳だ。"
+  },
+  {
+    "word": "fate",
+    "meaning": "運命，結末",
+    "example": "No one knows what fate has in store for us.",
+    "example_jp": "運命が私たちに何を用意しているのか、誰にもわからない。"
+  },
+  {
+    "word": "tragedy",
+    "meaning": "悲劇（的な事態）",
+    "example": "The car accident was a terrible tragedy for the community.",
+    "example_jp": "その自動車事故は地域住民にとって恐ろしい悲劇だった。"
+  },
+  {
+    "word": "scenario",
+    "meaning": "筋書き，脚本，事態",
+    "example": "Let's consider the worst-case scenario.",
+    "example_jp": "最悪の事態（筋書き）を考えてみよう。"
+  },
+  {
+    "word": "allergy",
+    "meaning": "アレルギー",
+    "example": "I have a severe allergy to peanuts.",
+    "example_jp": "私はピーナッツに対してひどいアレルギーがある。"
+  },
+  {
+    "word": "wound",
+    "meaning": "傷，痛手",
+    "example": "The nurse cleaned the wound on his leg.",
+    "example_jp": "看護師は彼の足の傷を洗浄した。"
+  },
+  {
+    "word": "antibiotic",
+    "meaning": "抗生物質",
+    "example": "The doctor prescribed an antibiotic for my throat infection.",
+    "example_jp": "医者は私の喉の感染症に抗生物質を処方した。"
+  },
+  {
+    "word": "vaccine",
+    "meaning": "ワクチン",
+    "example": "The new vaccine provides protection against the virus.",
+    "example_jp": "その新しいワクチンはウイルスに対する保護効果（免疫）を与える。"
+  },
+  {
+    "word": "metaphor",
+    "meaning": "隠喩，比喩",
+    "example": "Life is often used as a metaphor for a journey.",
+    "example_jp": "人生はしばしば旅の比喩として使われる。"
+  },
+  {
+    "word": "folk",
+    "meaning": "人々，皆さん",
+    "example": "Ordinary folk are worried about rising prices.",
+    "example_jp": "一般の人々は物価の上昇を心配している。"
+  },
+  {
+    "word": "folk",
+    "meaning": "家族",
+    "example": "I'm going home to visit my folks over the holidays.",
+    "example_jp": "連休中に実家の家族に会いに行くつもりだ。"
+  },
+  {
+    "word": "fare",
+    "meaning": "（乗り物の）料金",
+    "example": "How much is the bus fare to the airport?",
+    "example_jp": "空港までのバス料金はいくらですか？"
+  },
+  {
+    "word": "transition",
+    "meaning": "移り変わり，過渡期",
+    "example": "The country is in a period of transition to democracy.",
+    "example_jp": "その国は民主主義への過渡期にある。"
+  },
+  {
+    "word": "maximum",
+    "meaning": "最大限",
+    "example": "The car can reach a maximum speed of 200 km/h.",
+    "example_jp": "その車は最高（最大限の）時速200キロに達することができる。"
+  },
+  {
+    "word": "galaxy",
+    "meaning": "星雲，銀河（系）",
+    "example": "Our solar system is located in the Milky Way galaxy.",
+    "example_jp": "私たちの太陽系は天の川銀河の中に位置している。"
+  },
+  {
+    "word": "mineral",
+    "meaning": "鉱物，ミネラル",
+    "example": "This bottled water is rich in essential minerals.",
+    "example_jp": "このボトル入りの水は必須ミネラルが豊富だ。"
+  },
+  {
+    "word": "skeleton",
+    "meaning": "骨格，骨組み",
+    "example": "The human skeleton consists of 206 bones.",
+    "example_jp": "人間の骨格は206個の骨で構成されている。"
+  },
+  {
+    "word": "skeleton",
+    "meaning": "概略",
+    "example": "She wrote a skeleton outline of her speech.",
+    "example_jp": "彼女はスピーチの概略（骨組み）を書いた。"
+  },
+  {
+    "word": "counterpart",
+    "meaning": "相当する物［人］",
+    "example": "The Japanese Prime Minister met with his British counterpart.",
+    "example_jp": "日本の首相はイギリスの首相（相当する人物）と会談した。"
+  },
+  {
+    "word": "stroke",
+    "meaning": "脳卒中",
+    "example": "He is recovering in the hospital after having a stroke.",
+    "example_jp": "彼は脳卒中を起こした後、病院で回復中だ。"
+  },
+  {
+    "word": "stroke",
+    "meaning": "打つこと，一撃",
+    "example": "The player hit the ball with a powerful stroke.",
+    "example_jp": "その選手は力強い打撃（ストローク）でボールを打った。"
+  },
+  {
+    "word": "pedestrian",
+    "meaning": "歩行者",
+    "example": "Drivers must yield to pedestrians at the crosswalk.",
+    "example_jp": "運転手は横断歩道で歩行者に道を譲らなければならない。"
+  },
+  {
+    "word": "trail",
+    "meaning": "小道",
+    "example": "We followed a narrow trail through the forest.",
+    "example_jp": "私たちは森の中の狭い小道を進んだ。"
+  },
+  {
+    "word": "trail",
+    "meaning": "跡，手がかり",
+    "example": "The police found a trail of blood leading to the car.",
+    "example_jp": "警察は車へと続く血の跡を見つけた。"
+  },
+  {
+    "word": "ecology",
+    "meaning": "生態学，生態系",
+    "example": "Oil spills can cause severe damage to the local ecology.",
+    "example_jp": "原油流出は地元の生態系に深刻なダメージを与えかねない。"
+  },
+  {
+    "word": "ecology",
+    "meaning": "環境保護",
+    "example": "The government is promoting policies based on ecology.",
+    "example_jp": "政府は環境保護に基づいた政策を推進している。"
+  },
+  {
+    "word": "sibling",
+    "meaning": "きょうだい",
+    "example": "Do you have any siblings?",
+    "example_jp": "きょうだいはいますか？"
+  },
+  {
+    "word": "ratio",
+    "meaning": "比率",
+    "example": "The ratio of students to teachers is ten to one.",
+    "example_jp": "生徒と教師の比率は10対1だ。"
+  },
+  {
+    "word": "mixture",
+    "meaning": "混合（物）",
+    "example": "Air is a mixture of several different gases.",
+    "example_jp": "空気はいくつかの異なる気体の混合物だ。"
+  },
+  {
+    "word": "charm",
+    "meaning": "魅力",
+    "example": "The old town has a certain quiet charm.",
+    "example_jp": "その旧市街には、ある種の変化のない静かな魅力がある。"
+  },
+  {
+    "word": "charm",
+    "meaning": "お守り",
+    "example": "She wears a lucky charm around her neck.",
+    "example_jp": "彼女は首に幸運のお守りを下げている。"
+  },
+  {
+    "word": "ambition",
+    "meaning": "願望，野望，野心",
+    "example": "His ambition is to become a world-famous chef.",
+    "example_jp": "彼の野望は世界的に有名なシェフになることだ。"
+  },
+  {
+    "word": "prominent",
+    "meaning": "卓越した，目立つ",
+    "example": "He is a prominent figure in the medical field.",
+    "example_jp": "彼は医学界における著名な（卓越した）人物だ。"
+  },
+  {
+    "word": "radical",
+    "meaning": "急進的な",
+    "example": "The party is calling for radical changes to the law.",
+    "example_jp": "その政党は法律の急進的な変更を求めている。"
+  },
+  {
+    "word": "radical",
+    "meaning": "根本的な",
+    "example": "We need to find a radical solution to this problem.",
+    "example_jp": "私たちはこの問題に対して根本的な解決策を見つける必要がある。"
+  },
+  {
+    "word": "prompt",
+    "meaning": "即座の，迅速な",
+    "example": "Thank you for your prompt reply to my email.",
+    "example_jp": "メールへの迅速な返信をありがとうございます。"
+  },
+  {
+    "word": "informal",
+    "meaning": "形式ばらない，くだけた",
+    "example": "The meeting will be very informal, so don't worry about a suit.",
+    "example_jp": "会議はとても形式ばらないものなので、スーツの心配はいりません。"
+  },
+  {
+    "word": "mutual",
+    "meaning": "相互の",
+    "example": "The agreement was based on mutual respect.",
+    "example_jp": "その合意は相互の尊重に基づいていた。"
+  },
+  {
+    "word": "mutual",
+    "meaning": "共通の",
+    "example": "We were introduced to each other by a mutual friend.",
+    "example_jp": "私たちは共通の友人によってお互いを紹介された。"
+  },
+  {
+    "word": "neutral",
+    "meaning": "中立の，はっきりしない",
+    "example": "Switzerland remained neutral during the war.",
+    "example_jp": "スイスは戦時中、中立を保った。"
+  },
+  {
+    "word": "alert",
+    "meaning": "警戒して，敏速な",
+    "example": "The guards were alert for any signs of trouble.",
+    "example_jp": "警備員たちはトラブルの兆候がないか警戒していた。"
+  },
+  {
+    "word": "magnetic",
+    "meaning": "磁気の",
+    "example": "A compass needle points north due to magnetic force.",
+    "example_jp": "コンパスの針は磁気によって北を指す。"
+  },
+  {
+    "word": "magnetic",
+    "meaning": "人を引きつける",
+    "example": "He has a magnetic personality that attracts everyone.",
+    "example_jp": "彼には皆を引きつける魅力的な（磁石のような）個性がある。"
+  },
+  {
+    "word": "polar",
+    "meaning": "極地の",
+    "example": "Polar bears live in the Arctic regions.",
+    "example_jp": "ホッキョクグマは北極圏（極地）に住んでいる。"
+  },
+  {
+    "word": "fluent",
+    "meaning": "流ちょうな",
+    "example": "She is fluent in both English and French.",
+    "example_jp": "彼女は英語とフランス語の両方が流ちょうだ。"
+  },
+  {
+    "word": "external",
+    "meaning": "外部の，対外的な",
+    "example": "Apply the cream only for external use.",
+    "example_jp": "そのクリームは外用（外部への使用）としてのみ使いなさい。"
+  },
+  {
+    "word": "passive",
+    "meaning": "受動的な，消極的な",
+    "example": "He took a passive role in the group discussion.",
+    "example_jp": "彼はグループディスカッションで受動的な役割をとった。"
+  },
+  {
+    "word": "awful",
+    "meaning": "ひどい，嫌な",
+    "example": "The weather was absolutely awful all weekend.",
+    "example_jp": "週末の間ずっと、天気は本当にひどかった。"
+  },
+  {
+    "word": "unrelated",
+    "meaning": "無関係の",
+    "example": "The two events are completely unrelated to each other.",
+    "example_jp": "その2つの出来事は、お互いにまったく無関係だ。"
+  },
+  {
+    "word": "cruel",
+    "meaning": "残酷な，むごい",
+    "example": "It is cruel to keep animals in small cages.",
+    "example_jp": "動物を小さな檻に入れておくのは残酷だ。"
+  },
+  {
+    "word": "fake",
+    "meaning": "偽の，見せかけだけの",
+    "example": "He was caught trying to use a fake ID.",
+    "example_jp": "彼は偽の身分証を使おうとして捕まった。"
+  },
+  {
+    "word": "vulnerable",
+    "meaning": "弱い，傷つきやすい",
+    "example": "Young children are especially vulnerable to the flu.",
+    "example_jp": "小さな子供は特にインフルエンザにかかりやすい（弱い）。"
+  },
+  {
+    "word": "urgent",
+    "meaning": "緊急の",
+    "example": "The patient needs urgent medical attention.",
+    "example_jp": "その患者は緊急の治療を必要としている。"
+  },
+  {
+    "word": "spiritual",
+    "meaning": "精神の，霊的な",
+    "example": "Yoga helps people find their spiritual balance.",
+    "example_jp": "ヨガは人々が精神的なバランスを見つける助けになる。"
+  },
+  {
+    "word": "modest",
+    "meaning": "謙虚な",
+    "example": "Despite his success, he remains very modest.",
+    "example_jp": "成功したにもかかわらず、彼は非常に謙虚なままだ。"
+  },
+  {
+    "word": "modest",
+    "meaning": "適度な，質素な",
+    "example": "They live in a modest house in the suburbs.",
+    "example_jp": "彼らは郊外の質素な（適度な大きさの）家に住んでいる。"
+  },
+  {
+    "word": "keen",
+    "meaning": "熱心な，強い",
+    "example": "She is keen to start her new job next week.",
+    "example_jp": "彼女は来週から新しい仕事を始めるのを熱望している（熱心だ）。"
+  },
+  {
+    "word": "keen",
+    "meaning": "鋭敏な",
+    "example": "Dogs have a very keen sense of smell.",
+    "example_jp": "犬は非常に鋭敏な嗅覚を持っている。"
+  },
+  {
+    "word": "nonetheless",
+    "meaning": "それにもかかわらず",
+    "example": "It was raining; nonetheless, we decided to go for a walk.",
+    "example_jp": "雨が降っていた。それにもかかわらず、私たちは散歩に行くことにした。"
+  }
+]

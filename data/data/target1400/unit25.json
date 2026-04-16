@@ -1,0 +1,302 @@
+[
+  {
+    "word": "whisper",
+    "meaning": "ささやく",
+    "example": "She whispered my name.",
+    "example_jp": "彼女は私の名前をささやいた。"
+  },
+  {
+    "word": "yell",
+    "meaning": "叫ぶ",
+    "example": "He yelled for help.",
+    "example_jp": "彼は助けを求めて叫んだ。"
+  },
+  {
+    "word": "scream",
+    "meaning": "叫び声をあげる",
+    "example": "She screamed loudly.",
+    "example_jp": "彼女は大声で叫び声をあげた。"
+  },
+  {
+    "word": "nod",
+    "meaning": "うなずく",
+    "example": "He nodded in agreement.",
+    "example_jp": "彼は同意してうなずいた。"
+  },
+  {
+    "word": "swallow",
+    "meaning": "飲み込む",
+    "example": "She swallowed the pill.",
+    "example_jp": "彼女は薬を飲み込んだ。"
+  },
+  {
+    "word": "yawn",
+    "meaning": "あくびをする",
+    "example": "He yawned during the meeting.",
+    "example_jp": "彼は会議中にあくびをした。"
+  },
+  {
+    "word": "cough",
+    "meaning": "咳をする",
+    "example": "She coughed all night.",
+    "example_jp": "彼女は一晩中咳をしていた。"
+  },
+  {
+    "word": "hug",
+    "meaning": "抱きしめる",
+    "example": "They hugged tightly.",
+    "example_jp": "彼らは強く抱きしめ合った。"
+  },
+  {
+    "word": "sweep",
+    "meaning": "掃く",
+    "example": "He swept the floor.",
+    "example_jp": "彼は床を掃いた。"
+  },
+  {
+    "word": "polish",
+    "meaning": "磨く",
+    "example": "She polished her shoes.",
+    "example_jp": "彼女は靴を磨いた。"
+  },
+  {
+    "word": "decorate",
+    "meaning": "装飾する",
+    "example": "They decorated the room.",
+    "example_jp": "彼らは部屋を装飾した。"
+  },
+  {
+    "word": "shed",
+    "meaning": "（涙）を流す",
+    "example": "She shed tears of joy.",
+    "example_jp": "彼女は喜びの涙を流した。"
+  },
+  {
+    "word": "drag",
+    "meaning": "引きずる",
+    "example": "He dragged the heavy bag.",
+    "example_jp": "彼は重いバッグを引きずった。"
+  },
+  {
+    "word": "spoil",
+    "meaning": "台無しにする",
+    "example": "Rain spoiled our plans.",
+    "example_jp": "雨で私たちの計画は台無しになった。"
+  },
+  {
+    "word": "burst",
+    "meaning": "破裂する",
+    "example": "The balloon burst.",
+    "example_jp": "風船が破裂した。"
+  },
+  {
+    "word": "explode",
+    "meaning": "爆発する",
+    "example": "The bomb exploded.",
+    "example_jp": "爆弾が爆発した。"
+  },
+  {
+    "word": "compromise",
+    "meaning": "妥協する",
+    "example": "They compromised on the issue.",
+    "example_jp": "彼らはその問題で妥協した。"
+  },
+  {
+    "word": "exaggerate",
+    "meaning": "誇張する",
+    "example": "He exaggerated the story.",
+    "example_jp": "彼はその話を誇張した。"
+  },
+  {
+    "word": "exploit",
+    "meaning": "搾取する",
+    "example": "They exploited the workers.",
+    "example_jp": "彼らは労働者を搾取した。"
+  },
+  {
+    "word": "utilize",
+    "meaning": "利用する",
+    "example": "We utilized the data.",
+    "example_jp": "私たちはそのデータを利用した。"
+  },
+  {
+    "word": "irritate",
+    "meaning": "いらいらさせる",
+    "example": "The noise irritated me.",
+    "example_jp": "その騒音は私をいらいらさせた。"
+  },
+  {
+    "word": "insult",
+    "meaning": "侮辱する",
+    "example": "He insulted my friend.",
+    "example_jp": "彼は私の友人を侮辱した。"
+  },
+  {
+    "word": "deceive",
+    "meaning": "だます",
+    "example": "She deceived him.",
+    "example_jp": "彼女は彼をだました。"
+  },
+  {
+    "word": "violate",
+    "meaning": "違反する",
+    "example": "He violated the rules.",
+    "example_jp": "彼は規則に違反した。"
+  },
+  {
+    "word": "disgust",
+    "meaning": "嫌悪感を持たせる",
+    "example": "The smell disgusted us.",
+    "example_jp": "そのにおいは私たちに嫌悪感を抱かせた。"
+  },
+  {
+    "word": "endure",
+    "meaning": "我慢する",
+    "example": "She endured the pain.",
+    "example_jp": "彼女は痛みに耐えた。"
+  },
+  {
+    "word": "tolerate",
+    "meaning": "耐える",
+    "example": "I can’t tolerate the heat.",
+    "example_jp": "私はこの暑さに耐えられない。"
+  },
+  {
+    "word": "suspend",
+    "meaning": "一時停止する",
+    "example": "They suspended the service.",
+    "example_jp": "彼らはサービスを一時停止した。"
+  },
+  {
+    "word": "cease",
+    "meaning": "やめる",
+    "example": "The noise finally ceased.",
+    "example_jp": "騒音はついにやんだ。"
+  },
+  {
+    "word": "appoint",
+    "meaning": "任命する",
+    "example": "She was appointed leader.",
+    "example_jp": "彼女はリーダーに任命された。"
+  },
+  {
+    "word": "undertake",
+    "meaning": "引き受ける",
+    "example": "He undertook the project.",
+    "example_jp": "彼はそのプロジェクトを引き受けた。"
+  },
+  {
+    "word": "overtake",
+    "meaning": "追いつく",
+    "example": "The car overtook the truck.",
+    "example_jp": "その車はトラックに追いついた。"
+  },
+  {
+    "word": "proceed",
+    "meaning": "移る",
+    "example": "Let’s proceed to the next step.",
+    "example_jp": "次のステップに移りましょう。"
+  },
+  {
+    "word": "commute",
+    "meaning": "通勤[通学]する",
+    "example": "He commutes by train.",
+    "example_jp": "彼は電車で通勤している。"
+  },
+  {
+    "word": "flourish",
+    "meaning": "繁盛する；繁殖する",
+    "example": "The business is flourishing.",
+    "example_jp": "その店は繁盛している。"
+  },
+  {
+    "word": "thrive",
+    "meaning": "栄える",
+    "example": "The town is thriving.",
+    "example_jp": "その町は栄えている。"
+  },
+  {
+    "word": "venture",
+    "meaning": "思い切って行く",
+    "example": "He ventured into the forest.",
+    "example_jp": "彼は思い切って森に入った。"
+  },
+  {
+    "word": "accustom",
+    "meaning": "慣れさせる",
+    "example": "I accustomed myself to the cold.",
+    "example_jp": "私は寒さに慣れた。"
+  },
+  {
+    "word": "rear",
+    "meaning": "育てる",
+    "example": "They reared three children.",
+    "example_jp": "彼らは3人の子どもを育てた。"
+  },
+  {
+    "word": "inherit",
+    "meaning": "相続する",
+    "example": "She inherited the house.",
+    "example_jp": "彼女はその家を相続した。"
+  },
+  {
+    "word": "blossom",
+    "meaning": "開花する",
+    "example": "The trees blossomed early.",
+    "example_jp": "木々は早く開花した。"
+  },
+  {
+    "word": "esteem",
+    "meaning": "尊敬する",
+    "example": "I esteem him highly.",
+    "example_jp": "私は彼を深く尊敬している。"
+  },
+  {
+    "word": "merchant",
+    "meaning": "商人",
+    "example": "The merchant sold spices.",
+    "example_jp": "その商人は香辛料を売っていた。"
+  },
+  {
+    "word": "fare",
+    "meaning": "運賃",
+    "example": "The bus fare increased.",
+    "example_jp": "バスの運賃が上がった。"
+  },
+  {
+    "word": "voyage",
+    "meaning": "航海",
+    "example": "The voyage took two weeks.",
+    "example_jp": "その航海は2週間かかった。"
+  },
+  {
+    "word": "crew",
+    "meaning": "乗組員",
+    "example": "The crew prepared the ship.",
+    "example_jp": "乗組員は船を準備した。"
+  },
+  {
+    "word": "luggage",
+    "meaning": "手荷物",
+    "example": "She lost her luggage.",
+    "example_jp": "彼女は手荷物を失くした。"
+  },
+  {
+    "word": "horizon",
+    "meaning": "水平線、地平線",
+    "example": "The sun set below the horizon.",
+    "example_jp": "太陽が地平線の下に沈んだ。"
+  },
+  {
+    "word": "lightning",
+    "meaning": "稲妻",
+    "example": "Lightning struck the tree.",
+    "example_jp": "稲妻が木に落ちた。"
+  },
+  {
+    "word": "dawn",
+    "meaning": "夜明け",
+    "example": "We left at dawn.",
+    "example_jp": "私たちは夜明けに出発した。"
+  }
+]

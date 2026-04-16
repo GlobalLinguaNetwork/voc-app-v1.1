@@ -1,0 +1,446 @@
+[
+  {
+    "word": "possess",
+    "meaning": "を所有している",
+    "example": "He possesses a vast amount of knowledge.",
+    "example_jp": "彼は膨大な知識を所有している。"
+  },
+  {
+    "word": "possess",
+    "meaning": "の心をとらえる",
+    "example": "A sudden fear possessed him.",
+    "example_jp": "突然の恐怖が彼の心をとらえた。"
+  },
+  {
+    "word": "dominate",
+    "meaning": "を支配する・優勢である",
+    "example": "One company dominates the smartphone market.",
+    "example_jp": "一企業がスマートフォン市場を支配している。"
+  },
+  {
+    "word": "guarantee",
+    "meaning": "を保証する",
+    "example": "We guarantee that this product is safe.",
+    "example_jp": "この製品が安全であることを保証します。"
+  },
+  {
+    "word": "melt",
+    "meaning": "溶ける・を溶かす",
+    "example": "The ice is melting quickly in the sun.",
+    "example_jp": "氷が太陽の下で急速に溶けている。"
+  },
+  {
+    "word": "melt",
+    "meaning": "なごむ",
+    "example": "Her kind words melted his heart.",
+    "example_jp": "彼女の優しい言葉が彼の心をなごませた。"
+  },
+  {
+    "word": "embarrass",
+    "meaning": "に恥ずかしい思いをさせる",
+    "example": "I didn't mean to embarrass you in front of everyone.",
+    "example_jp": "みんなの前であなたに恥ずかしい思いをさせるつもりはなかった。"
+  },
+  {
+    "word": "discourage",
+    "meaning": "やる気をなくさせる・落胆させる",
+    "example": "Don't let one failure discourage you.",
+    "example_jp": "一度の失敗でやる気をなくさないでください。"
+  },
+  {
+    "word": "detect",
+    "meaning": "を感知する・見つけ出す・気づく",
+    "example": "The machine can detect small amounts of radiation.",
+    "example_jp": "その機械は微量の放射線を感知することができる。"
+  },
+  {
+    "word": "devote",
+    "meaning": "をささげる",
+    "example": "She devoted her life to helping others.",
+    "example_jp": "彼女は他者を助けることに人生をささげた。"
+  },
+  {
+    "word": "urge",
+    "meaning": "に（強く）促す・主張する・駆り立てる",
+    "example": "The doctor urged him to stop smoking.",
+    "example_jp": "医師は彼に禁煙するよう強く促した。"
+  },
+  {
+    "word": "lend",
+    "meaning": "を貸す",
+    "example": "Could you lend me your pen for a second?",
+    "example_jp": "ペンをちょっと貸していただけますか。"
+  },
+  {
+    "word": "lend",
+    "meaning": "（人）に（助言・援助など）を与える",
+    "example": "The expert lent his advice to the project.",
+    "example_jp": "専門家はそのプロジェクトに助言を与えた。"
+  },
+  {
+    "word": "restrict",
+    "meaning": "を制限する",
+    "example": "The hospital restricts the number of visitors.",
+    "example_jp": "病院は訪問者の数を制限している。"
+  },
+  {
+    "word": "isolate",
+    "meaning": "を孤立させる",
+    "example": "Patients with the virus were isolated from others.",
+    "example_jp": "ウイルスに感染した患者は他から孤立（隔離）された。"
+  },
+  {
+    "word": "accompany",
+    "meaning": "に同行する",
+    "example": "Children must be accompanied by an adult.",
+    "example_jp": "子供は大人の同行が必要です。"
+  },
+  {
+    "word": "accompany",
+    "meaning": "に付随する",
+    "example": "Strong winds often accompany heavy rain.",
+    "example_jp": "強風は大抵、大雨に付随して起こる。"
+  },
+  {
+    "word": "exhaust",
+    "meaning": "を疲れ果てさせる",
+    "example": "The long journey exhausted the travelers.",
+    "example_jp": "長い旅が旅行者たちを疲れ果てさせた。"
+  },
+  {
+    "word": "exhaust",
+    "meaning": "を使い尽くす",
+    "example": "We have exhausted our natural resources.",
+    "example_jp": "私たちは天然資源を使い尽くしてしまった。"
+  },
+  {
+    "word": "exhaust",
+    "meaning": "排気する",
+    "example": "The system exhausts hot air to the outside.",
+    "example_jp": "そのシステムは熱気を外部へ排気する。"
+  },
+  {
+    "word": "annoy",
+    "meaning": "を悩ます",
+    "example": "The noise from the street annoyed me all night.",
+    "example_jp": "通りからの騒音がひと晩中私を悩ませた。"
+  },
+  {
+    "word": "annoy",
+    "meaning": "腹が立つ",
+    "example": "I was annoyed by his constant complaints.",
+    "example_jp": "彼の絶え間ない不平に私は腹が立った。"
+  },
+  {
+    "word": "endanger",
+    "meaning": "を危険にさらす",
+    "example": "Pollution endangers the lives of many animals.",
+    "example_jp": "汚染は多くの動物の命を危険にさらしている。"
+  },
+  {
+    "word": "acknowledge",
+    "meaning": "（事実など）を認める",
+    "example": "He acknowledged that he had made a mistake.",
+    "example_jp": "彼は自分が間違いを犯したという事実を認めた。"
+  },
+  {
+    "word": "acknowledge",
+    "meaning": "に謝意を表す",
+    "example": "She wrote a letter to acknowledge their help.",
+    "example_jp": "彼女は彼らの助けに対して謝意を表すために手紙を書いた。"
+  },
+  {
+    "word": "admire",
+    "meaning": "に敬服［感心］する",
+    "example": "I admire him for his courage.",
+    "example_jp": "私は彼の勇気に敬服している。"
+  },
+  {
+    "word": "evaluate",
+    "meaning": "を評価・査定する",
+    "example": "We need to evaluate the results of the survey.",
+    "example_jp": "私たちは調査の結果を評価する必要がある。"
+  },
+  {
+    "word": "declare",
+    "meaning": "を宣言する",
+    "example": "The country declared independence last year.",
+    "example_jp": "その国は昨年、独立を宣言した。"
+  },
+  {
+    "word": "declare",
+    "meaning": "を申告する",
+    "example": "Do you have anything to declare at customs?",
+    "example_jp": "税関で申告するものはありますか。"
+  },
+  {
+    "word": "secure",
+    "meaning": "を確保する",
+    "example": "She managed to secure a seat on the train.",
+    "example_jp": "彼女は列車の座席をなんとか確保した。"
+  },
+  {
+    "word": "secure",
+    "meaning": "を守る",
+    "example": "The building is secured with a high fence.",
+    "example_jp": "その建物は高い柵で守られている。"
+  },
+  {
+    "word": "specialize",
+    "meaning": "専門とする・専攻する",
+    "example": "This lawyer specializes in family law.",
+    "example_jp": "この弁護士は家族法を専門としている。"
+  },
+  {
+    "word": "attribute",
+    "meaning": "（結果など）を（～に）帰する",
+    "example": "He attributes his success to hard work.",
+    "example_jp": "彼は自分の成功を懸命な努力の結果であるとしている（努力に帰している）。"
+  },
+  {
+    "word": "pretend",
+    "meaning": "（の）ふりをする",
+    "example": "She pretended not to see me.",
+    "example_jp": "彼女は私が見えないふりをした。"
+  },
+  {
+    "word": "bury",
+    "meaning": "を埋める・埋葬する",
+    "example": "The dog buried its bone in the garden.",
+    "example_jp": "犬は庭に骨を埋めた。"
+  },
+  {
+    "word": "bury",
+    "meaning": "を隠す",
+    "example": "She buried her face in her hands and cried.",
+    "example_jp": "彼女は両手に顔を隠して（埋めて）泣いた。"
+  },
+  {
+    "word": "reverse",
+    "meaning": "を逆転させる・反対にする",
+    "example": "The court reversed the previous decision.",
+    "example_jp": "裁判所は以前の決定を逆転させた。"
+  },
+  {
+    "word": "resist",
+    "meaning": "に抵抗する",
+    "example": "The soldiers resisted the enemy attack.",
+    "example_jp": "兵士たちは敵の攻撃に抵抗した。"
+  },
+  {
+    "word": "resist",
+    "meaning": "を我慢する",
+    "example": "I couldn't resist eating the chocolate cake.",
+    "example_jp": "チョコレートケーキを食べるのを我慢できなかった。"
+  },
+  {
+    "word": "scare",
+    "meaning": "をおびえさせる・脅す",
+    "example": "The sudden thunder scared the children.",
+    "example_jp": "突然の雷が子供たちをおびえさせた。"
+  },
+  {
+    "word": "imitate",
+    "meaning": "をまねる・模造する",
+    "example": "Young children often imitate their parents.",
+    "example_jp": "幼い子供はしばしば親のまねをする。"
+  },
+  {
+    "word": "assist",
+    "meaning": "援助する・手伝う",
+    "example": "We are here to assist you with your project.",
+    "example_jp": "私たちはあなたのプロジェクトを援助するためにここにいます。"
+  },
+  {
+    "word": "resemble",
+    "meaning": "に似ている",
+    "example": "She closely resembles her mother.",
+    "example_jp": "彼女は母親にとてもよく似ている。"
+  },
+  {
+    "word": "retire",
+    "meaning": "引退する・退職する",
+    "example": "My father plans to retire next year.",
+    "example_jp": "父は来年退職する予定だ。"
+  },
+  {
+    "word": "retire",
+    "meaning": "退く",
+    "example": "The general ordered the troops to retire.",
+    "example_jp": "将軍は軍隊に退く（撤退する）よう命じた。"
+  },
+  {
+    "word": "neglect",
+    "meaning": "をおろそかにする・怠る",
+    "example": "Don't neglect your health while you're busy.",
+    "example_jp": "忙しい時でも健康をおろそかにしてはいけない。"
+  },
+  {
+    "word": "neglect",
+    "meaning": "を無視する",
+    "example": "He neglected my warnings and got into trouble.",
+    "example_jp": "彼は私の警告を無視してトラブルに巻き込まれた。"
+  },
+  {
+    "word": "collapse",
+    "meaning": "崩壊する・（人が）倒れる",
+    "example": "The old building collapsed during the earthquake.",
+    "example_jp": "その古い建物は地震の最中に崩壊した。"
+  },
+  {
+    "word": "collapse",
+    "meaning": "を折り畳む",
+    "example": "This chair can be easily collapsed for storage.",
+    "example_jp": "この椅子は収納のために簡単に折り畳むことができる。"
+  },
+  {
+    "word": "reform",
+    "meaning": "を改革する",
+    "example": "The government is trying to reform the tax system.",
+    "example_jp": "政府は税制を改革しようとしている。"
+  },
+  {
+    "word": "reform",
+    "meaning": "を改心させる",
+    "example": "Prison should aim to reform criminals.",
+    "example_jp": "刑務所は犯罪者を改心させることを目的とすべきだ。"
+  },
+  {
+    "word": "protest",
+    "meaning": "（に）抗議する",
+    "example": "They went to the streets to protest against the war.",
+    "example_jp": "彼らは戦争に抗議するために街頭に出た。"
+  },
+  {
+    "word": "protest",
+    "meaning": "を主張する",
+    "example": "He protested that he was innocent.",
+    "example_jp": "彼は自分が無実であると主張した。"
+  },
+  {
+    "word": "owe",
+    "meaning": "に借りがある",
+    "example": "I owe you ten dollars for the coffee.",
+    "example_jp": "コーヒー代としてあなたに10ドルの借りがある。"
+  },
+  {
+    "word": "owe",
+    "meaning": "のおかげである",
+    "example": "I owe my success to my parents.",
+    "example_jp": "私の成功は両親のおかげだ。"
+  },
+  {
+    "word": "sustain",
+    "meaning": "を持続させる・支える",
+    "example": "We need enough water to sustain life.",
+    "example_jp": "生命を支える（持続させる）ために十分な水が必要だ。"
+  },
+  {
+    "word": "assign",
+    "meaning": "を割り当てる",
+    "example": "The teacher assigned a lot of homework to us.",
+    "example_jp": "先生は私たちにたくさんの宿題を割り当てた。"
+  },
+  {
+    "word": "assign",
+    "meaning": "を（～に）配属する",
+    "example": "He was assigned to the sales department.",
+    "example_jp": "彼は営業部に配属された。"
+  },
+  {
+    "word": "accomplish",
+    "meaning": "を成し遂げる",
+    "example": "You can accomplish anything if you work hard.",
+    "example_jp": "一生懸命働けば、どんなことでも成し遂げることができる。"
+  },
+  {
+    "word": "wisdom",
+    "meaning": "知恵・賢明さ・学識",
+    "example": "He showed great wisdom in his decision.",
+    "example_jp": "彼はその決定において素晴らしい知恵（賢明さ）を見せた。"
+  },
+  {
+    "word": "literacy",
+    "meaning": "読み書きの能力",
+    "example": "The country has a very high literacy rate.",
+    "example_jp": "その国は非常に高い識字（読み書きの能力）率を誇っている。"
+  },
+  {
+    "word": "literacy",
+    "meaning": "（特定分野の）知識",
+    "example": "Computer literacy is essential in modern business.",
+    "example_jp": "現代のビジネスにおいて、コンピュータの知識（リテラシー）は不可欠だ。"
+  },
+  {
+    "word": "heritage",
+    "meaning": "遺産",
+    "example": "The castle is part of Japan's cultural heritage.",
+    "example_jp": "その城は日本の文化的遺産の一部だ。"
+  },
+  {
+    "word": "mission",
+    "meaning": "使命",
+    "example": "Our mission is to help children in need.",
+    "example_jp": "私たちの使命は困っている子供たちを助けることだ。"
+  },
+  {
+    "word": "mission",
+    "meaning": "（外交）使節団",
+    "example": "The trade mission visited several countries.",
+    "example_jp": "貿易使節団はいくつかの国を訪問した。"
+  },
+  {
+    "word": "mission",
+    "meaning": "布教",
+    "example": "He spent years on a mission in Africa.",
+    "example_jp": "彼はアフリカでの布教活動に数年を費やした。"
+  },
+  {
+    "word": "license",
+    "meaning": "免許・許可",
+    "example": "You need a license to drive a car.",
+    "example_jp": "車を運転するには免許が必要だ。"
+  },
+  {
+    "word": "elite",
+    "meaning": "エリート",
+    "example": "The team consists of the political elite.",
+    "example_jp": "そのチームは政治的エリートで構成されている。"
+  },
+  {
+    "word": "layer",
+    "meaning": "層",
+    "example": "The ozone layer protects us from the sun.",
+    "example_jp": "オゾン層が私たちを太陽から守っている。"
+  },
+  {
+    "word": "motor",
+    "meaning": "モーター",
+    "example": "The washing machine's motor stopped working.",
+    "example_jp": "洗濯機のモーターが動かなくなった。"
+  },
+  {
+    "word": "motor",
+    "meaning": "原動力",
+    "example": "Curiosity was the motor for his research.",
+    "example_jp": "好奇心が彼の研究の原動力だった。"
+  },
+  {
+    "word": "protein",
+    "meaning": "たんぱく質",
+    "example": "Eggs are a good source of protein.",
+    "example_jp": "卵は良質なたんぱく質源だ。"
+  },
+  {
+    "word": "profession",
+    "meaning": "職業・専門職",
+    "example": "She is a member of the medical profession.",
+    "example_jp": "彼女は医療職（専門職）の一員だ。"
+  },
+  {
+    "word": "profession",
+    "meaning": "同業者仲間",
+    "example": "The news spread quickly throughout the profession.",
+    "example_jp": "そのニュースは同業者仲間の間に素早く広まった。"
+  }
+]

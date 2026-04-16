@@ -1,0 +1,338 @@
+[
+  {
+    "word": "cardiologist",
+    "meaning": "心臓専門医",
+    "example": "She consulted a cardiologist.",
+    "example_jp": "彼女は心臓専門医に相談した。"
+  },
+  {
+    "word": "kidney",
+    "meaning": "腎臓",
+    "example": "The kidney filters waste from the blood.",
+    "example_jp": "腎臓は血液から老廃物をろ過する。"
+  },
+  {
+    "word": "posture",
+    "meaning": "好ましい姿勢",
+    "example": "Good posture prevents back pain.",
+    "example_jp": "正しい姿勢は腰痛を防ぐ。"
+  },
+  {
+    "word": "metabolism",
+    "meaning": "代謝",
+    "example": "Exercise boosts metabolism.",
+    "example_jp": "運動は代謝を高める。"
+  },
+  {
+    "word": "famine",
+    "meaning": "飢饉",
+    "example": "The famine caused many deaths.",
+    "example_jp": "飢饉が多くの死をもたらした。"
+  },
+  {
+    "word": "riot",
+    "meaning": "暴動",
+    "example": "A riot broke out downtown.",
+    "example_jp": "繁華街で暴動が起きた。"
+  },
+  {
+    "word": "asylum",
+    "meaning": "亡命",
+    "example": "He sought asylum in another country.",
+    "example_jp": "彼は他国に亡命を求めた。"
+  },
+  {
+    "word": "workforce",
+    "meaning": "労働人口，総労働力",
+    "example": "The company expanded its workforce.",
+    "example_jp": "その会社は労働力（労働人口）を拡大した。"
+  },
+  {
+    "word": "prefecture",
+    "meaning": "県，府",
+    "example": "He lives in Fukui Prefecture.",
+    "example_jp": "彼は福井県に住んでいる。"
+  },
+  {
+    "word": "hierarchy",
+    "meaning": "階層構造",
+    "example": "The organization has a strict hierarchy.",
+    "example_jp": "その組織には厳格な階層構造がある。"
+  },
+  {
+    "word": "autonomy",
+    "meaning": "自治権，自主性",
+    "example": "The region gained autonomy.",
+    "example_jp": "その地域は自治権を得た。"
+  },
+  {
+    "word": "delegation",
+    "meaning": "代表団，使節団",
+    "example": "A delegation visited the embassy.",
+    "example_jp": "代表団が大使館を訪れた。"
+  },
+  {
+    "word": "congress",
+    "meaning": "議会，会議",
+    "example": "Congress passed the bill.",
+    "example_jp": "議会はその法案を可決した。"
+  },
+  {
+    "word": "census",
+    "meaning": "国勢調査",
+    "example": "The census revealed population changes.",
+    "example_jp": "国勢調査によって人口の変化が明らかになった。"
+  },
+  {
+    "word": "monarch",
+    "meaning": "君主",
+    "example": "The monarch ruled for decades.",
+    "example_jp": "その君主は何十年もの間統治した。"
+  },
+  {
+    "word": "monopoly",
+    "meaning": "独占（権，品），独占企業",
+    "example": "The company held a monopoly on the product.",
+    "example_jp": "その会社はその製品の独占権（独占）を握っていた。"
+  },
+  {
+    "word": "surplus",
+    "meaning": "余剰",
+    "example": "They produced a surplus of food.",
+    "example_jp": "彼らは余剰の食料を生産した。"
+  },
+  {
+    "word": "surplus",
+    "meaning": "余剰金，黒字",
+    "example": "The budget ended with a surplus.",
+    "example_jp": "予算は黒字（余剰金）で終わった。"
+  },
+  {
+    "word": "expertise",
+    "meaning": "専門的知識，技術",
+    "example": "She has expertise in robotics.",
+    "example_jp": "彼女はロボット工学の専門的知識（技術）を持っている。"
+  },
+  {
+    "word": "quota",
+    "meaning": "ノルマ，割り当て",
+    "example": "They met their sales quota.",
+    "example_jp": "彼らは販売ノルマ（割り当て）を達成した。"
+  },
+  {
+    "word": "subordinate",
+    "meaning": "部下",
+    "example": "He manages several subordinates.",
+    "example_jp": "彼は数人の部下を管理している。"
+  },
+  {
+    "word": "subordinate",
+    "meaning": "下位の",
+    "example": "Subordinate roles are essential.",
+    "example_jp": "下位の役割も不可欠だ。"
+  },
+  {
+    "word": "warehouse",
+    "meaning": "倉庫，問屋",
+    "example": "The goods are stored in a warehouse.",
+    "example_jp": "商品（貨物）は倉庫に保管されている。"
+  },
+  {
+    "word": "peasant",
+    "meaning": "小作農",
+    "example": "The peasants worked in the fields.",
+    "example_jp": "小作農たちは畑で働いた。"
+  },
+  {
+    "word": "correlation",
+    "meaning": "相関関係",
+    "example": "There is a correlation between diet and health.",
+    "example_jp": "食生活と健康の間には相関関係がある。"
+  },
+  {
+    "word": "asymmetry",
+    "meaning": "非対称，不釣り合い",
+    "example": "The design shows asymmetry.",
+    "example_jp": "そのデザインは非対称（不釣り合い）を示している。"
+  },
+  {
+    "word": "disparity",
+    "meaning": "相違，不均衡",
+    "example": "There is a disparity in income levels.",
+    "example_jp": "所得水準には不均衡（相違）がある。"
+  },
+  {
+    "word": "divergence",
+    "meaning": "逸脱，相違",
+    "example": "The data shows a divergence of opinions.",
+    "example_jp": "そのデータは意見の相違（逸脱）を示している。"
+  },
+  {
+    "word": "divergence",
+    "meaning": "発散",
+    "example": "The equation indicates divergence.",
+    "example_jp": "その方程式は発散を示している。"
+  },
+  {
+    "word": "clash",
+    "meaning": "衝突，対立",
+    "example": "A clash occurred between the groups.",
+    "example_jp": "グループ間で衝突（対立）が起こった。"
+  },
+  {
+    "word": "clash",
+    "meaning": "衝突する",
+    "example": "The two leaders clashed over policy.",
+    "example_jp": "2人のリーダーは政策をめぐって衝突した。"
+  },
+  {
+    "word": "persecution",
+    "meaning": "迫害",
+    "example": "They fled from persecution.",
+    "example_jp": "彼らは迫害から逃れた。"
+  },
+  {
+    "word": "genocide",
+    "meaning": "大量虐殺",
+    "example": "The genocide shocked the world.",
+    "example_jp": "その大量虐殺は世界を震撼させた。"
+  },
+  {
+    "word": "atrocity",
+    "meaning": "残虐行為",
+    "example": "The war was full of atrocities.",
+    "example_jp": "その戦争は残虐行為に満ちていた。"
+  },
+  {
+    "word": "bribe",
+    "meaning": "賄賂",
+    "example": "He accepted a bribe.",
+    "example_jp": "彼は賄賂を受け取った。"
+  },
+  {
+    "word": "culprit",
+    "meaning": "犯人",
+    "example": "The police caught the culprit.",
+    "example_jp": "警察は犯人を捕まえた。"
+  },
+  {
+    "word": "culprit",
+    "meaning": "元凶",
+    "example": "Stress is the main culprit of fatigue.",
+    "example_jp": "ストレスは疲労の主な元凶だ。"
+  },
+  {
+    "word": "hostage",
+    "meaning": "人質",
+    "example": "The hostage was released safely.",
+    "example_jp": "人質は無事に解放された。"
+  },
+  {
+    "word": "conspiracy",
+    "meaning": "陰謀",
+    "example": "They uncovered a conspiracy.",
+    "example_jp": "彼らは陰謀を暴いた。"
+  },
+  {
+    "word": "peril",
+    "meaning": "危機",
+    "example": "The climbers were in great peril.",
+    "example_jp": "登山者たちは大きな危機に瀕していた。"
+  },
+  {
+    "word": "pitfall",
+    "meaning": "落とし穴，隠れた危険",
+    "example": "The plan has several pitfalls.",
+    "example_jp": "その計画にはいくつかの落とし穴（隠れた危険）がある。"
+  },
+  {
+    "word": "itinerary",
+    "meaning": "旅程表",
+    "example": "He checked the travel itinerary.",
+    "example_jp": "彼は旅行の旅程表を確認した。"
+  },
+  {
+    "word": "upheaval",
+    "meaning": "大変動",
+    "example": "The country faced political upheaval.",
+    "example_jp": "その国は政治的な大変動に直面した。"
+  },
+  {
+    "word": "commencement",
+    "meaning": "開始",
+    "example": "The commencement of the project was delayed.",
+    "example_jp": "プロジェクトの開始が遅れた。"
+  },
+  {
+    "word": "commencement",
+    "meaning": "卒業式，学位授与式",
+    "example": "She attended her commencement ceremony.",
+    "example_jp": "彼女は卒業式（学位授与式）に出席した。"
+  },
+  {
+    "word": "threshold",
+    "meaning": "始まり",
+    "example": "The discovery marked a new threshold.",
+    "example_jp": "その発見は新しい（時代などの）始まりを記した。"
+  },
+  {
+    "word": "onset",
+    "meaning": "始まり",
+    "example": "The onset of winter was early.",
+    "example_jp": "冬の始まりが早かった。"
+  },
+  {
+    "word": "momentum",
+    "meaning": "勢い，はずみ",
+    "example": "The team gained momentum.",
+    "example_jp": "チームは勢い（はずみ）に乗った。"
+  },
+  {
+    "word": "deterrent",
+    "meaning": "抑止するもの",
+    "example": "The alarm system is a strong deterrent.",
+    "example_jp": "警報システムは強力な抑止するものだ。"
+  },
+  {
+    "word": "geometry",
+    "meaning": "幾何学",
+    "example": "She studies geometry.",
+    "example_jp": "彼女は幾何学を勉強している。"
+  },
+  {
+    "word": "anthropologist",
+    "meaning": "人類学者",
+    "example": "The anthropologist studied ancient cultures.",
+    "example_jp": "その人類学者は古代文化を研究した。"
+  },
+  {
+    "word": "internship",
+    "meaning": "実務研修，医学研修",
+    "example": "He completed a summer internship.",
+    "example_jp": "彼は夏のインターンシップ（実務研修）を修了した。"
+  },
+  {
+    "word": "paradigm",
+    "meaning": "理論的枠組",
+    "example": "The theory changed the scientific paradigm.",
+    "example_jp": "その理論は科学的なパラダイム（理論的枠組）を変えた。"
+  },
+  {
+    "word": "altruism",
+    "meaning": "利他主義",
+    "example": "Altruism is valued in many cultures.",
+    "example_jp": "利他主義は多くの文化で高く評価されている。"
+  },
+  {
+    "word": "claustrophobia",
+    "meaning": "閉所恐怖症",
+    "example": "He suffers from claustrophobia.",
+    "example_jp": "彼は閉所恐怖症に苦しんでいる。"
+  },
+  {
+    "word": "Antarctic",
+    "meaning": "南極地方",
+    "example": "They explored the Antarctic.",
+    "example_jp": "彼らは南極地方を探検した。"
+  }
+]

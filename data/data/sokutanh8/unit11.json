@@ -1,0 +1,446 @@
+[
+  {
+    "word": "volcano",
+    "meaning": "火山",
+    "example": "The volcano erupted last year.",
+    "example_jp": "その火山は昨年噴火した。"
+  },
+  {
+    "word": "erupt",
+    "meaning": "噴火する",
+    "example": "The volcano erupted suddenly.",
+    "example_jp": "その火山は突然噴火した。"
+  },
+  {
+    "word": "collapse",
+    "meaning": "崩壊する",
+    "example": "The building collapsed.",
+    "example_jp": "その建物は崩壊した。"
+  },
+  {
+    "word": "collapse",
+    "meaning": "倒れる",
+    "example": "He collapsed from illness.",
+    "example_jp": "彼は病気で倒れた。"
+  },
+  {
+    "word": "collapse",
+    "meaning": "崩壊",
+    "example": "The collapse shocked the town.",
+    "example_jp": "その崩壊は町にショックを与えた。"
+  },
+  {
+    "word": "extinction",
+    "meaning": "絶滅",
+    "example": "Many animals face extinction.",
+    "example_jp": "多くの動物が絶滅に直面している。"
+  },
+  {
+    "word": "explode",
+    "meaning": "爆発する",
+    "example": "The bomb exploded.",
+    "example_jp": "爆弾が爆発した。"
+  },
+  {
+    "word": "explode",
+    "meaning": "急増する",
+    "example": "Prices exploded last year.",
+    "example_jp": "価格が昨年急増した。"
+  },
+  {
+    "word": "mine",
+    "meaning": "鉱山",
+    "example": "They worked in a gold mine.",
+    "example_jp": "彼らは金鉱（鉱山）で働いた。"
+  },
+  {
+    "word": "mine",
+    "meaning": "地雷",
+    "example": "He stepped on a mine.",
+    "example_jp": "彼は地雷を踏んだ。"
+  },
+  {
+    "word": "chamber",
+    "meaning": "小室",
+    "example": "The heart has four chambers.",
+    "example_jp": "心臓には4つの小室がある。"
+  },
+  {
+    "word": "chamber",
+    "meaning": "部屋",
+    "example": "They met in the chamber.",
+    "example_jp": "彼らはその部屋で会った。"
+  },
+  {
+    "word": "chamber",
+    "meaning": "会議所",
+    "example": "The chamber voted today.",
+    "example_jp": "会議所は今日、投票を行った。"
+  },
+  {
+    "word": "cabin",
+    "meaning": "小屋",
+    "example": "They stayed in a small cabin.",
+    "example_jp": "彼らは小さな小屋に滞在した。"
+  },
+  {
+    "word": "cabin",
+    "meaning": "船室",
+    "example": "The ship has many cabins.",
+    "example_jp": "その船には多くの船室がある。"
+  },
+  {
+    "word": "manipulate",
+    "meaning": "操る",
+    "example": "He manipulated the machine.",
+    "example_jp": "彼はその機械を操った。"
+  },
+  {
+    "word": "manipulate",
+    "meaning": "操る",
+    "example": "They manipulated public opinion.",
+    "example_jp": "彼らは世論を操った。"
+  },
+  {
+    "word": "visual",
+    "meaning": "視覚の",
+    "example": "This is a visual signal.",
+    "example_jp": "これは視覚の合図だ。"
+  },
+  {
+    "word": "visual",
+    "meaning": "目に見える",
+    "example": "The change is clearly visual.",
+    "example_jp": "その変化は明らかで目に見える。"
+  },
+  {
+    "word": "motion",
+    "meaning": "運動",
+    "example": "The motion was fast.",
+    "example_jp": "その運動は速かった。"
+  },
+  {
+    "word": "motion",
+    "meaning": "動議",
+    "example": "They made a motion in the meeting.",
+    "example_jp": "彼らは会議で動議を出した。"
+  },
+  {
+    "word": "motion",
+    "meaning": "動作",
+    "example": "His motion was slow.",
+    "example_jp": "彼の動作はゆっくりだった。"
+  },
+  {
+    "word": "movement",
+    "meaning": "運動団体",
+    "example": "The movement grew quickly.",
+    "example_jp": "その運動団体は急速に成長した。"
+  },
+  {
+    "word": "movement",
+    "meaning": "動き",
+    "example": "I saw a small movement.",
+    "example_jp": "私は小さな動きを見た。"
+  },
+  {
+    "word": "movement",
+    "meaning": "移動",
+    "example": "The movement of people increased.",
+    "example_jp": "人々の移動が増加した。"
+  },
+  {
+    "word": "frame",
+    "meaning": "枠",
+    "example": "The picture has a wooden frame.",
+    "example_jp": "その写真には木製の枠がある。"
+  },
+  {
+    "word": "frame",
+    "meaning": "骨組み",
+    "example": "The house has a strong frame.",
+    "example_jp": "その家には強い骨組みがある。"
+  },
+  {
+    "word": "frame",
+    "meaning": "体格",
+    "example": "He has a large frame.",
+    "example_jp": "彼は大きな体格をしている。"
+  },
+  {
+    "word": "frame",
+    "meaning": "コマ",
+    "example": "The movie has 24 frames per second.",
+    "example_jp": "その映画は1秒間に24コマある。"
+  },
+  {
+    "word": "frame",
+    "meaning": "枠にはめる",
+    "example": "They framed the photo.",
+    "example_jp": "彼らはその写真を枠にはめた。"
+  },
+  {
+    "word": "avoid",
+    "meaning": "避ける",
+    "example": "He avoided the question.",
+    "example_jp": "彼はその質問を避けた。"
+  },
+  {
+    "word": "refrain",
+    "meaning": "差し控える",
+    "example": "Please refrain from smoking.",
+    "example_jp": "喫煙は差し控えてください。"
+  },
+  {
+    "word": "collision",
+    "meaning": "衝突",
+    "example": "The cars had a collision.",
+    "example_jp": "車が衝突した。"
+  },
+  {
+    "word": "crash",
+    "meaning": "墜落する",
+    "example": "The plane crashed.",
+    "example_jp": "飛行機が墜落した。"
+  },
+  {
+    "word": "crash",
+    "meaning": "衝突する",
+    "example": "The cars crashed.",
+    "example_jp": "車が衝突した。"
+  },
+  {
+    "word": "crash",
+    "meaning": "衝突",
+    "example": "The crash caused damage.",
+    "example_jp": "その衝突は損害を引き起こした。"
+  },
+  {
+    "word": "crash",
+    "meaning": "故障",
+    "example": "The computer had a crash.",
+    "example_jp": "コンピューターが故障した。"
+  },
+  {
+    "word": "bump",
+    "meaning": "ぶつかる",
+    "example": "He bumped into the wall.",
+    "example_jp": "彼は壁にぶつかった。"
+  },
+  {
+    "word": "bump",
+    "meaning": "でこぼこ",
+    "example": "The road has a bump.",
+    "example_jp": "道路にでこぼこがある。"
+  },
+  {
+    "word": "bump",
+    "meaning": "減速帯",
+    "example": "The car slowed at the bump.",
+    "example_jp": "車はその減速帯でスピードを落とした。"
+  },
+  {
+    "word": "pattern",
+    "meaning": "パターン",
+    "example": "This pattern is common.",
+    "example_jp": "このパターンはよくある。"
+  },
+  {
+    "word": "pattern",
+    "meaning": "傾向",
+    "example": "The pattern changed.",
+    "example_jp": "傾向が変わった。"
+  },
+  {
+    "word": "pattern",
+    "meaning": "模様",
+    "example": "The dress has a nice pattern.",
+    "example_jp": "そのドレスには素敵な模様がある。"
+  },
+  {
+    "word": "degree",
+    "meaning": "程度",
+    "example": "The degree of heat is high.",
+    "example_jp": "熱の程度が高い。"
+  },
+  {
+    "word": "degree",
+    "meaning": "度",
+    "example": "It is 20 degrees today.",
+    "example_jp": "今日は20度だ。"
+  },
+  {
+    "word": "degree",
+    "meaning": "学位",
+    "example": "She earned a degree.",
+    "example_jp": "彼女は学位を取得した。"
+  },
+  {
+    "word": "trigger",
+    "meaning": "きっかけになる",
+    "example": "The event triggered change.",
+    "example_jp": "その出来事が変化のきっかけになった。"
+  },
+  {
+    "word": "trigger",
+    "meaning": "引き金",
+    "example": "He pulled the trigger.",
+    "example_jp": "彼は引き金を引いた。"
+  },
+  {
+    "word": "trigger",
+    "meaning": "誘因",
+    "example": "Stress is a trigger for illness.",
+    "example_jp": "ストレスは病気の誘因だ。"
+  },
+  {
+    "word": "cue",
+    "meaning": "合図",
+    "example": "He gave a cue to start.",
+    "example_jp": "彼は開始の合図を送った。"
+  },
+  {
+    "word": "cue",
+    "meaning": "刺激",
+    "example": "The music was a cue.",
+    "example_jp": "その音楽は刺激だった。"
+  },
+  {
+    "word": "cue",
+    "meaning": "きっかけ",
+    "example": "That was my cue to speak.",
+    "example_jp": "それが私が話すきっかけだった。"
+  },
+  {
+    "word": "cue",
+    "meaning": "ヒント",
+    "example": "He needed a cue.",
+    "example_jp": "彼はヒントを必要としていた。"
+  },
+  {
+    "word": "clue",
+    "meaning": "手がかり",
+    "example": "This clue helps us.",
+    "example_jp": "この手がかりは私たちの助けになる。"
+  },
+  {
+    "word": "signal",
+    "meaning": "合図",
+    "example": "He sent a signal.",
+    "example_jp": "彼は合図を送った。"
+  },
+  {
+    "word": "signal",
+    "meaning": "信号",
+    "example": "The signal turned red.",
+    "example_jp": "信号が赤に変わった。"
+  },
+  {
+    "word": "signal",
+    "meaning": "合図する",
+    "example": "He signaled the start.",
+    "example_jp": "彼は開始の合図をした。"
+  },
+  {
+    "word": "signal",
+    "meaning": "…と合図する",
+    "example": "He signaled that he agreed.",
+    "example_jp": "彼は同意したと合図した。"
+  },
+  {
+    "word": "organ",
+    "meaning": "器官",
+    "example": "The heart is an organ.",
+    "example_jp": "心臓は器官だ。"
+  },
+  {
+    "word": "organ",
+    "meaning": "組織",
+    "example": "The group is a large organ.",
+    "example_jp": "そのグループは大きな組織だ。"
+  },
+  {
+    "word": "tissue",
+    "meaning": "組織",
+    "example": "Muscle tissue is strong.",
+    "example_jp": "筋肉の組織は強い。"
+  },
+  {
+    "word": "tissue",
+    "meaning": "ティッシュ",
+    "example": "I used a tissue.",
+    "example_jp": "私はティッシュを使った。"
+  },
+  {
+    "word": "transplant",
+    "meaning": "移植する",
+    "example": "They transplanted a kidney.",
+    "example_jp": "彼らは腎臓を移植した。"
+  },
+  {
+    "word": "transplant",
+    "meaning": "移動させる",
+    "example": "The tree was transplanted.",
+    "example_jp": "その木は移動させられた。"
+  },
+  {
+    "word": "transplant",
+    "meaning": "移植",
+    "example": "The transplant was successful.",
+    "example_jp": "その移植は成功した。"
+  },
+  {
+    "word": "function",
+    "meaning": "機能",
+    "example": "The machine has many functions.",
+    "example_jp": "その機械には多くの機能がある。"
+  },
+  {
+    "word": "function",
+    "meaning": "役割",
+    "example": "His role functions well.",
+    "example_jp": "彼の役割はうまく機能している。"
+  },
+  {
+    "word": "function",
+    "meaning": "機能する",
+    "example": "The system functions smoothly.",
+    "example_jp": "そのシステムはスムーズに機能する。"
+  },
+  {
+    "word": "dozen",
+    "meaning": "ダース",
+    "example": "I bought a dozen eggs.",
+    "example_jp": "私は1ダースの卵を買った。"
+  },
+  {
+    "word": "dozen",
+    "meaning": "10あまり",
+    "example": "A dozen people came.",
+    "example_jp": "10あまり（12人）の人々が来た。"
+  },
+  {
+    "word": "load",
+    "meaning": "積む",
+    "example": "They loaded the truck.",
+    "example_jp": "彼らはトラックに荷を積んだ。"
+  },
+  {
+    "word": "load",
+    "meaning": "いっぱい載せる",
+    "example": "The bag was loaded with books.",
+    "example_jp": "そのバッグは本でいっぱい載せられていた。"
+  },
+  {
+    "word": "load",
+    "meaning": "積み荷",
+    "example": "The load was heavy.",
+    "example_jp": "その積み荷は重かった。"
+  },
+  {
+    "word": "load",
+    "meaning": "重",
+    "example": "Stress is a heavy load.",
+    "example_jp": "ストレスは重い荷（重）だ。"
+  }
+]

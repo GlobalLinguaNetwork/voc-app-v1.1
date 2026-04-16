@@ -1,0 +1,302 @@
+[
+  {
+    "word": "achieve",
+    "meaning": "～を達成する",
+    "example": "We achieved our goal.",
+    "example_jp": "私たちは目標を達成した。"
+  },
+  {
+    "word": "enable",
+    "meaning": "～を可能にする",
+    "example": "This tool enables us to work fast.",
+    "example_jp": "この道具は私たちが速く働くことを可能にする。"
+  },
+  {
+    "word": "intend",
+    "meaning": "つもりだ",
+    "example": "I intend to study abroad.",
+    "example_jp": "私は留学するつもりだ。"
+  },
+  {
+    "word": "obtain",
+    "meaning": "～を得る",
+    "example": "He obtained a visa.",
+    "example_jp": "彼はビザを取得した。"
+  },
+  {
+    "word": "divide",
+    "meaning": "分割する",
+    "example": "Divide the cake into four.",
+    "example_jp": "ケーキを4つに分けなさい。"
+  },
+  {
+    "word": "annoy",
+    "meaning": "～をいらいらさせる",
+    "example": "The noise annoyed me.",
+    "example_jp": "その騒音は私をいらいらさせた。"
+  },
+  {
+    "word": "differ",
+    "meaning": "異なる",
+    "example": "The two ideas differ.",
+    "example_jp": "その2つの考えは異なる。"
+  },
+  {
+    "word": "educate",
+    "meaning": "～を教育する",
+    "example": "They educate children well.",
+    "example_jp": "彼らは子どもたちをよく教育する。"
+  },
+  {
+    "word": "borrow",
+    "meaning": "～を借りる",
+    "example": "I borrowed a book.",
+    "example_jp": "私は本を借りた。"
+  },
+  {
+    "word": "invent",
+    "meaning": "～を発明する",
+    "example": "He invented a new machine.",
+    "example_jp": "彼は新しい機械を発明した。"
+  },
+  {
+    "word": "promote",
+    "meaning": "～を促進する",
+    "example": "They promoted the product.",
+    "example_jp": "彼らはその製品を促進した。"
+  },
+  {
+    "word": "advise",
+    "meaning": "～に忠告する",
+    "example": "She advised me to rest.",
+    "example_jp": "彼女は私に休むよう忠告した。"
+  },
+  {
+    "word": "retire",
+    "meaning": "辞める",
+    "example": "He retired last year.",
+    "example_jp": "彼は昨年辞めた。"
+  },
+  {
+    "word": "permit",
+    "meaning": "～を許す",
+    "example": "They permitted us to enter.",
+    "example_jp": "彼らは私たちが入ることを許した。"
+  },
+  {
+    "word": "recommend",
+    "meaning": "～を勧める",
+    "example": "I recommend this book.",
+    "example_jp": "私はこの本を勧める。"
+  },
+  {
+    "word": "apologize",
+    "meaning": "謝る",
+    "example": "I apologize for the mistake.",
+    "example_jp": "その間違いについて謝ります。"
+  },
+  {
+    "word": "inform",
+    "meaning": "～に知らせる",
+    "example": "Please inform me of the time.",
+    "example_jp": "時間を教えてください。"
+  },
+  {
+    "word": "oppose",
+    "meaning": "～に反対する",
+    "example": "They opposed the plan.",
+    "example_jp": "彼らはその計画に反対した。"
+  },
+  {
+    "word": "trust",
+    "meaning": "～を信用する",
+    "example": "I trust you.",
+    "example_jp": "私はあなたを信頼している。"
+  },
+  {
+    "word": "select",
+    "meaning": "～を選ぶ",
+    "example": "Select one answer.",
+    "example_jp": "答えを1つ選びなさい。"
+  },
+  {
+    "word": "praise",
+    "meaning": "～をほめる",
+    "example": "They praised his work.",
+    "example_jp": "彼らは彼の仕事をほめた。"
+  },
+  {
+    "word": "handle",
+    "meaning": "～に対処する",
+    "example": "I can handle the problem.",
+    "example_jp": "私はその問題に対処できる。"
+  },
+  {
+    "word": "propose",
+    "meaning": "～を提案する",
+    "example": "He proposed a new idea.",
+    "example_jp": "彼は新しい考えを提案した。"
+  },
+  {
+    "word": "breathe",
+    "meaning": "～を呼吸する",
+    "example": "Breathe slowly.",
+    "example_jp": "ゆっくり呼吸しなさい。"
+  },
+  {
+    "word": "criticize",
+    "meaning": "～を非難する",
+    "example": "They criticized the plan.",
+    "example_jp": "彼らはその計画を批判した。"
+  },
+  {
+    "word": "overcome",
+    "meaning": "～に打ち勝つ",
+    "example": "She overcame her fear.",
+    "example_jp": "彼女は恐怖に打ち勝った。"
+  },
+  {
+    "word": "possess",
+    "meaning": "～を持っている",
+    "example": "He possesses great skill.",
+    "example_jp": "彼は優れた技術を持っている。"
+  },
+  {
+    "word": "predict",
+    "meaning": "～を予言する",
+    "example": "They predicted rain.",
+    "example_jp": "彼らは雨を予測した。"
+  },
+  {
+    "word": "publish",
+    "meaning": "～を出版する",
+    "example": "She published a book.",
+    "example_jp": "彼女は本を出版した。"
+  },
+  {
+    "word": "floating",
+    "meaning": "浮かぶ",
+    "example": "A leaf is floating on the water.",
+    "example_jp": "葉が水の上に浮かんでいる。"
+  },
+  {
+    "word": "recall",
+    "meaning": "～を思い出す",
+    "example": "I recall his name.",
+    "example_jp": "私は彼の名前を思い出す。"
+  },
+  {
+    "word": "explore",
+    "meaning": "～を探検する",
+    "example": "They explored the cave.",
+    "example_jp": "彼らはその洞窟を探検した。"
+  },
+  {
+    "word": "pretend",
+    "meaning": "ふりをする",
+    "example": "He pretended to sleep.",
+    "example_jp": "彼は眠っているふりをした。"
+  },
+  {
+    "word": "absorb",
+    "meaning": "～を吸収する",
+    "example": "Plants absorb water.",
+    "example_jp": "植物は水を吸収する。"
+  },
+  {
+    "word": "resemble",
+    "meaning": "～に似ている",
+    "example": "She resembles her mother.",
+    "example_jp": "彼女は母親に似ている。"
+  },
+  {
+    "word": "tear",
+    "meaning": "～を引き裂く",
+    "example": "He tore the paper.",
+    "example_jp": "彼はその紙を引き裂いた。"
+  },
+  {
+    "word": "consume",
+    "meaning": "～を消費する",
+    "example": "We consume too much energy.",
+    "example_jp": "私たちはあまりにも多くのエネルギーを消費している。"
+  },
+  {
+    "word": "compete",
+    "meaning": "競争する",
+    "example": "They compete for the prize.",
+    "example_jp": "彼らは賞をめぐって競争する。"
+  },
+  {
+    "word": "quit",
+    "meaning": "～をやめる",
+    "example": "He quit his job.",
+    "example_jp": "彼は仕事を辞めた。"
+  },
+  {
+    "word": "announce",
+    "meaning": "～を発表する",
+    "example": "They announced the result.",
+    "example_jp": "彼らは結果を発表した。"
+  },
+  {
+    "word": "react",
+    "meaning": "反応する",
+    "example": "He reacted quickly.",
+    "example_jp": "彼は素早く反応した。"
+  },
+  {
+    "word": "wander",
+    "meaning": "歩き回る",
+    "example": "He wandered around the park.",
+    "example_jp": "彼は公園を歩き回った。"
+  },
+  {
+    "word": "text",
+    "meaning": "メールを送る",
+    "example": "I texted my friend.",
+    "example_jp": "私は友達にメールを送った。"
+  },
+  {
+    "word": "generate",
+    "meaning": "～を生み出す",
+    "example": "The engine generates power.",
+    "example_jp": "エンジンは動力を生み出す。"
+  },
+  {
+    "word": "score",
+    "meaning": "～を取る",
+    "example": "She scored two goals.",
+    "example_jp": "彼女は2点を取った。"
+  },
+  {
+    "word": "government",
+    "meaning": "政府",
+    "example": "The government made a plan.",
+    "example_jp": "政府は計画を立てた。"
+  },
+  {
+    "word": "knowledge",
+    "meaning": "知識",
+    "example": "He has much knowledge.",
+    "example_jp": "彼は多くの知識を持っている。"
+  },
+  {
+    "word": "nation",
+    "meaning": "国",
+    "example": "Japan is a peaceful nation.",
+    "example_jp": "日本は平和な国だ。"
+  },
+  {
+    "word": "effort",
+    "meaning": "努力",
+    "example": "She made a great effort.",
+    "example_jp": "彼女は大きな努力をした。"
+  },
+  {
+    "word": "period",
+    "meaning": "時代",
+    "example": "It was a long period.",
+    "example_jp": "それは長い期間だった。"
+  }
+]

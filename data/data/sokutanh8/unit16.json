@@ -1,0 +1,674 @@
+[
+  {
+    "word": "extend",
+    "meaning": "延長する",
+    "example": "They extended the meeting.",
+    "example_jp": "彼らはその会議を延長した。"
+  },
+  {
+    "word": "extend",
+    "meaning": "延びる",
+    "example": "The road extends far.",
+    "example_jp": "その道は遠くまで延びている。"
+  },
+  {
+    "word": "extend",
+    "meaning": "広がる",
+    "example": "The forest extends to the river.",
+    "example_jp": "森が川まで広がっている。"
+  },
+  {
+    "word": "extend",
+    "meaning": "広げる",
+    "example": "They extended the garden.",
+    "example_jp": "彼らは庭を広げた。"
+  },
+  {
+    "word": "repeat",
+    "meaning": "繰り返す",
+    "example": "Please repeat the word.",
+    "example_jp": "その言葉を繰り返してください。"
+  },
+  {
+    "word": "dedicate",
+    "meaning": "ささげる",
+    "example": "He dedicated his life to science.",
+    "example_jp": "彼は人生を科学にささげた。"
+  },
+  {
+    "word": "dedicated",
+    "meaning": "熱心な",
+    "example": "She is a dedicated worker.",
+    "example_jp": "彼女は熱心な働き手だ。"
+  },
+  {
+    "word": "continue",
+    "meaning": "続ける",
+    "example": "They continued the game.",
+    "example_jp": "彼らは試合を続けた。"
+  },
+  {
+    "word": "continue",
+    "meaning": "続く",
+    "example": "The rain continued.",
+    "example_jp": "雨が続いた。"
+  },
+  {
+    "word": "national",
+    "meaning": "全国的な",
+    "example": "It became a national event.",
+    "example_jp": "それは全国的な行事になった。"
+  },
+  {
+    "word": "national",
+    "meaning": "国民の",
+    "example": "National pride is strong.",
+    "example_jp": "国民の誇りは強い。"
+  },
+  {
+    "word": "national",
+    "meaning": "国立の",
+    "example": "He works at a national museum.",
+    "example_jp": "彼は国立博物館で働いている。"
+  },
+  {
+    "word": "civilization",
+    "meaning": "文明",
+    "example": "Ancient civilization grew here.",
+    "example_jp": "古代文明がここで発展した。"
+  },
+  {
+    "word": "educational",
+    "meaning": "教育の",
+    "example": "This is an educational program.",
+    "example_jp": "これは教育のプログラムだ。"
+  },
+  {
+    "word": "discipline",
+    "meaning": "学問分野",
+    "example": "Physics is a discipline.",
+    "example_jp": "物理学は一つの学問分野だ。"
+  },
+  {
+    "word": "discipline",
+    "meaning": "規律",
+    "example": "The school has strict discipline.",
+    "example_jp": "その学校には厳しい規律がある。"
+  },
+  {
+    "word": "discipline",
+    "meaning": "訓練",
+    "example": "Training builds discipline.",
+    "example_jp": "トレーニングは訓練（自制心）を築く。"
+  },
+  {
+    "word": "discipline",
+    "meaning": "訓練する",
+    "example": "They disciplined the team.",
+    "example_jp": "彼らはチームを訓練した。"
+  },
+  {
+    "word": "grade",
+    "meaning": "学年",
+    "example": "She is in the first grade.",
+    "example_jp": "彼女は1学年だ。"
+  },
+  {
+    "word": "grade",
+    "meaning": "程度",
+    "example": "The grade of quality is high.",
+    "example_jp": "品質の程度が高い。"
+  },
+  {
+    "word": "grade",
+    "meaning": "成績",
+    "example": "He got a good grade.",
+    "example_jp": "彼は良い成績を取った。"
+  },
+  {
+    "word": "grade",
+    "meaning": "段階別にする",
+    "example": "They graded the books.",
+    "example_jp": "彼らは本を段階別にした。"
+  },
+  {
+    "word": "gradually",
+    "meaning": "徐々に",
+    "example": "It gradually changed.",
+    "example_jp": "それは徐々に変化した。"
+  },
+  {
+    "word": "simple",
+    "meaning": "単純な",
+    "example": "The rule is simple.",
+    "example_jp": "その規則は単純だ。"
+  },
+  {
+    "word": "simple",
+    "meaning": "質素な",
+    "example": "They live a simple life.",
+    "example_jp": "彼らは質素な生活を送っている。"
+  },
+  {
+    "word": "teenager",
+    "meaning": "10代の若者",
+    "example": "He is a teenager.",
+    "example_jp": "彼は10代の若者だ。"
+  },
+  {
+    "word": "aging",
+    "meaning": "老化",
+    "example": "Aging is natural.",
+    "example_jp": "老化は自然なことだ。"
+  },
+  {
+    "word": "aging",
+    "meaning": "老朽化",
+    "example": "The aging building needs repair.",
+    "example_jp": "老朽化した建物は修理が必要だ。"
+  },
+  {
+    "word": "aging",
+    "meaning": "老化の",
+    "example": "Aging cells slow down.",
+    "example_jp": "老化の細胞は働きが鈍くなる。"
+  },
+  {
+    "word": "comprehend",
+    "meaning": "理解する",
+    "example": "I comprehend the idea.",
+    "example_jp": "私はその考えを理解する。"
+  },
+  {
+    "word": "elaborate",
+    "meaning": "手の込んだ",
+    "example": "It is an elaborate design.",
+    "example_jp": "それは手の込んだデザインだ。"
+  },
+  {
+    "word": "elaborate",
+    "meaning": "精巧な",
+    "example": "The machine is elaborate.",
+    "example_jp": "その機械は精巧だ。"
+  },
+  {
+    "word": "elaborate",
+    "meaning": "詳しく述べる",
+    "example": "He elaborated on the plan.",
+    "example_jp": "彼は計画について詳しく述べた。"
+  },
+  {
+    "word": "detail",
+    "meaning": "詳細",
+    "example": "The detail is important.",
+    "example_jp": "詳細は重要だ。"
+  },
+  {
+    "word": "detail",
+    "meaning": "細部",
+    "example": "Look at the small details.",
+    "example_jp": "小さな細部を見なさい。"
+  },
+  {
+    "word": "subtle",
+    "meaning": "微妙な",
+    "example": "She made a subtle change.",
+    "example_jp": "彼女は微妙な変化を加えた。"
+  },
+  {
+    "word": "subtle",
+    "meaning": "かすかな",
+    "example": "I felt a subtle smell.",
+    "example_jp": "私はかすかな匂いを感じた。"
+  },
+  {
+    "word": "faint",
+    "meaning": "かすかな",
+    "example": "I heard a faint sound.",
+    "example_jp": "私はかすかな音を聞いた。"
+  },
+  {
+    "word": "faint",
+    "meaning": "気を失う",
+    "example": "He fainted suddenly.",
+    "example_jp": "彼は突然気を失った。"
+  },
+  {
+    "word": "material",
+    "meaning": "原料",
+    "example": "This is good material.",
+    "example_jp": "これは良い原料だ。"
+  },
+  {
+    "word": "material",
+    "meaning": "資料",
+    "example": "The book has useful material.",
+    "example_jp": "その本には役立つ資料がある。"
+  },
+  {
+    "word": "material",
+    "meaning": "題材",
+    "example": "The story gave material for study.",
+    "example_jp": "その話は研究のための題材を与えた。"
+  },
+  {
+    "word": "material",
+    "meaning": "物質",
+    "example": "They bought new material.",
+    "example_jp": "彼らは新しい物質（材料）を買った。"
+  },
+  {
+    "word": "material",
+    "meaning": "道具",
+    "example": "He needs material tools.",
+    "example_jp": "彼は道具を必要としている。"
+  },
+  {
+    "word": "material",
+    "meaning": "物質的な",
+    "example": "They live a material life.",
+    "example_jp": "彼らは物質的な生活を送っている。"
+  },
+  {
+    "word": "substance",
+    "meaning": "物質",
+    "example": "Water is a substance.",
+    "example_jp": "水は物質だ。"
+  },
+  {
+    "word": "substance",
+    "meaning": "本質",
+    "example": "The idea has substance.",
+    "example_jp": "その考えには本質がある。"
+  },
+  {
+    "word": "substance",
+    "meaning": "重要性",
+    "example": "The issue has great substance.",
+    "example_jp": "その問題には大きな重要性がある。"
+  },
+  {
+    "word": "wonder",
+    "meaning": "…かなと思う",
+    "example": "I wonder if he knows.",
+    "example_jp": "彼は知っているのかなと思う。"
+  },
+  {
+    "word": "wonder",
+    "meaning": "驚く",
+    "example": "He wondered at the view.",
+    "example_jp": "彼はその景色に驚いた。"
+  },
+  {
+    "word": "wonder",
+    "meaning": "驚き",
+    "example": "It was a wonder.",
+    "example_jp": "それは驚きだった。"
+  },
+  {
+    "word": "wonder",
+    "meaning": "不思議なこと",
+    "example": "This is a natural wonder.",
+    "example_jp": "これは自然の不思議なことだ。"
+  },
+  {
+    "word": "discourage",
+    "meaning": "落胆させる",
+    "example": "The failure discouraged him.",
+    "example_jp": "その失敗は彼を落胆させた。"
+  },
+  {
+    "word": "discourage",
+    "meaning": "妨害する",
+    "example": "Rain discouraged our plan.",
+    "example_jp": "雨が私たちの計画を妨害した。"
+  },
+  {
+    "word": "foundation",
+    "meaning": "基礎",
+    "example": "Math is the foundation of science.",
+    "example_jp": "数学は科学の基礎だ。"
+  },
+  {
+    "word": "foundation",
+    "meaning": "設立",
+    "example": "The foundation was built in 1900.",
+    "example_jp": "その設立は1900年に行われた。"
+  },
+  {
+    "word": "infrastructure",
+    "meaning": "インフラ",
+    "example": "The city improved its infrastructure.",
+    "example_jp": "その都市はインフラを改善した。"
+  },
+  {
+    "word": "chore",
+    "meaning": "雑用",
+    "example": "I finished my chores.",
+    "example_jp": "私は雑用を終えた。"
+  },
+  {
+    "word": "chore",
+    "meaning": "退屈な仕事",
+    "example": "Cleaning is a chore.",
+    "example_jp": "掃除は退屈な仕事だ。"
+  },
+  {
+    "word": "lifetime",
+    "meaning": "一生",
+    "example": "He worked there for a lifetime.",
+    "example_jp": "彼はそこで一生働いた。"
+  },
+  {
+    "word": "adventure",
+    "meaning": "冒険",
+    "example": "They went on an adventure.",
+    "example_jp": "彼らは冒険に出かけた。"
+  },
+  {
+    "word": "venture",
+    "meaning": "冒険的事業",
+    "example": "He started a new venture.",
+    "example_jp": "彼は新しい冒険的事業を始めた。"
+  },
+  {
+    "word": "venture",
+    "meaning": "思い切って…する",
+    "example": "She ventured to ask.",
+    "example_jp": "彼女は思い切って尋ねてみた。"
+  },
+  {
+    "word": "venture",
+    "meaning": "危険を冒して行く",
+    "example": "They ventured into the forest.",
+    "example_jp": "彼らは危険を冒して森の中へ行った。"
+  },
+  {
+    "word": "frontier",
+    "meaning": "未開拓分野",
+    "example": "AI is the new frontier.",
+    "example_jp": "AIは新しい未開拓分野だ。"
+  },
+  {
+    "word": "frontier",
+    "meaning": "最先端",
+    "example": "This is the frontier of science.",
+    "example_jp": "これが科学の最先端だ。"
+  },
+  {
+    "word": "frontier",
+    "meaning": "辺境",
+    "example": "They lived near the frontier.",
+    "example_jp": "彼らは辺境の近くに住んでいた。"
+  },
+  {
+    "word": "involve",
+    "meaning": "含む",
+    "example": "The job involves travel.",
+    "example_jp": "その仕事は旅行を含む。"
+  },
+  {
+    "word": "involve",
+    "meaning": "巻き込む",
+    "example": "The story involves many people.",
+    "example_jp": "その話は多くの人々を巻き込む。"
+  },
+  {
+    "word": "involve",
+    "meaning": "関連させる",
+    "example": "The idea involves math.",
+    "example_jp": "その考えは数学を関連させる。"
+  },
+  {
+    "word": "involved",
+    "meaning": "夢中で",
+    "example": "He is deeply involved.",
+    "example_jp": "彼は深く夢中になっている。"
+  },
+  {
+    "word": "relevant",
+    "meaning": "関連がある",
+    "example": "This is relevant to the topic.",
+    "example_jp": "これはトピックに関連がある。"
+  },
+  {
+    "word": "relevant",
+    "meaning": "適切な",
+    "example": "Her comment was relevant.",
+    "example_jp": "彼女のコメントは適切だった。"
+  },
+  {
+    "word": "prior",
+    "meaning": "前の",
+    "example": "I had a prior meeting.",
+    "example_jp": "私には前の会議があった。"
+  },
+  {
+    "word": "knowledge",
+    "meaning": "知識",
+    "example": "He has knowledge of history.",
+    "example_jp": "彼は歴史の知識を持っている。"
+  },
+  {
+    "word": "knowledge",
+    "meaning": "認識",
+    "example": "My knowledge is limited.",
+    "example_jp": "私の認識は限られている。"
+  },
+  {
+    "word": "enhance",
+    "meaning": "高める",
+    "example": "The change enhanced quality.",
+    "example_jp": "その変更が品質を高めた。"
+  },
+  {
+    "word": "enhance",
+    "meaning": "向上させる",
+    "example": "Training enhances skills.",
+    "example_jp": "トレーニングがスキルを向上させる。"
+  },
+  {
+    "word": "boost",
+    "meaning": "高める",
+    "example": "The news boosted sales.",
+    "example_jp": "そのニュースが売上を高めた。"
+  },
+  {
+    "word": "boost",
+    "meaning": "励まし",
+    "example": "His words gave me a boost.",
+    "example_jp": "彼の言葉が私に励ましを与えた。"
+  },
+  {
+    "word": "boost",
+    "meaning": "増加",
+    "example": "There was a boost in demand.",
+    "example_jp": "需要の増加があった。"
+  },
+  {
+    "word": "reinforce",
+    "meaning": "補強する",
+    "example": "They reinforced the wall.",
+    "example_jp": "彼らは壁を補強した。"
+  },
+  {
+    "word": "reinforce",
+    "meaning": "強化する",
+    "example": "The event reinforced trust.",
+    "example_jp": "その出来事が信頼を強化した。"
+  },
+  {
+    "word": "clarify",
+    "meaning": "明らかにする",
+    "example": "He clarified the point.",
+    "example_jp": "彼はその点を明らかにした。"
+  },
+  {
+    "word": "prediction",
+    "meaning": "予測",
+    "example": "His prediction was right.",
+    "example_jp": "彼の予測は正しかった。"
+  },
+  {
+    "word": "prediction",
+    "meaning": "予言",
+    "example": "The prediction surprised us.",
+    "example_jp": "その予言は私たちを驚かせた。"
+  },
+  {
+    "word": "predict",
+    "meaning": "予測する",
+    "example": "They predicted rain.",
+    "example_jp": "彼らは雨を予測した。"
+  },
+  {
+    "word": "predict",
+    "meaning": "予言する",
+    "example": "He predicted the event.",
+    "example_jp": "彼はその出来事を予言した。"
+  },
+  {
+    "word": "attention",
+    "meaning": "注目",
+    "example": "He got attention.",
+    "example_jp": "彼は注目を集めた。"
+  },
+  {
+    "word": "attention",
+    "meaning": "注意",
+    "example": "Pay attention.",
+    "example_jp": "注意を払いなさい。"
+  },
+  {
+    "word": "attention",
+    "meaning": "世話",
+    "example": "She gave him attention.",
+    "example_jp": "彼女は彼の世話をした。"
+  },
+  {
+    "word": "infer",
+    "meaning": "推論する",
+    "example": "I inferred the answer.",
+    "example_jp": "私は答えを推論した。"
+  },
+  {
+    "word": "speculate",
+    "meaning": "推測する",
+    "example": "They speculated about the cause.",
+    "example_jp": "彼らは原因について推測した。"
+  },
+  {
+    "word": "speculate",
+    "meaning": "投機する",
+    "example": "He speculated in stocks.",
+    "example_jp": "彼は株に投機した。"
+  },
+  {
+    "word": "hypothesis",
+    "meaning": "仮説",
+    "example": "The hypothesis was tested.",
+    "example_jp": "その仮説は検証された。"
+  },
+  {
+    "word": "hypothesis",
+    "meaning": "前提",
+    "example": "This is the hypothesis of the study.",
+    "example_jp": "これが研究の前提だ。"
+  },
+  {
+    "word": "determine",
+    "meaning": "決定する",
+    "example": "They determined the result.",
+    "example_jp": "彼らは結果を決定した。"
+  },
+  {
+    "word": "determine",
+    "meaning": "決心させる",
+    "example": "The news determined him to act.",
+    "example_jp": "そのニュースが彼に行動を決心させた。"
+  },
+  {
+    "word": "distinguish",
+    "meaning": "区別する",
+    "example": "I can distinguish the sounds.",
+    "example_jp": "私はそれらの音を区別できる。"
+  },
+  {
+    "word": "distinct",
+    "meaning": "異なった",
+    "example": "The two ideas are distinct.",
+    "example_jp": "その2つの考えは異なっている。"
+  },
+  {
+    "word": "distinct",
+    "meaning": "明瞭な",
+    "example": "She has a distinct voice.",
+    "example_jp": "彼女は明瞭な声をしている。"
+  },
+  {
+    "word": "peculiar",
+    "meaning": "特有の",
+    "example": "This smell is peculiar to cats.",
+    "example_jp": "この匂いは猫に特有のものだ。"
+  },
+  {
+    "word": "peculiar",
+    "meaning": "奇妙な",
+    "example": "His behavior is peculiar.",
+    "example_jp": "彼の振る舞いは奇妙だ。"
+  },
+  {
+    "word": "overall",
+    "meaning": "全体的な",
+    "example": "The overall result is good.",
+    "example_jp": "全体的な結果は良好だ。"
+  },
+  {
+    "word": "overall",
+    "meaning": "全体的に",
+    "example": "Overall, it was fine.",
+    "example_jp": "全体的に、それは良かった。"
+  },
+  {
+    "word": "overall",
+    "meaning": "総計で",
+    "example": "They earned 10 points overall.",
+    "example_jp": "彼らは総計で10ポイントを獲得した。"
+  },
+  {
+    "word": "finally",
+    "meaning": "ついに",
+    "example": "He finally arrived.",
+    "example_jp": "彼はついに到着した。"
+  },
+  {
+    "word": "finally",
+    "meaning": "最後に",
+    "example": "Finally, we finished.",
+    "example_jp": "最後に、私たちは終えた。"
+  },
+  {
+    "word": "trouble",
+    "meaning": "困ること",
+    "example": "He had trouble with math.",
+    "example_jp": "彼は数学で困ることがあった。"
+  },
+  {
+    "word": "trouble",
+    "meaning": "苦労",
+    "example": "She faced trouble at work.",
+    "example_jp": "彼女は職場で苦労に直面した。"
+  },
+  {
+    "word": "trouble",
+    "meaning": "問題",
+    "example": "The machine has a trouble.",
+    "example_jp": "その機械には問題がある。"
+  },
+  {
+    "word": "trouble",
+    "meaning": "困らせる",
+    "example": "The noise troubled me.",
+    "example_jp": "その騒音が私を困らせた。"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "word": "crack",
+    "meaning": "割れる，砕ける",
+    "example": "The glass cracked.",
+    "example_jp": "ガラスが割れた。"
+  },
+  {
+    "word": "crack",
+    "meaning": "音を出す",
+    "example": "The branch cracked loudly.",
+    "example_jp": "枝が大きな音を立てた。"
+  },
+  {
+    "word": "crack",
+    "meaning": "割る，砕く",
+    "example": "He cracked the egg.",
+    "example_jp": "彼は卵を割った。"
+  },
+  {
+    "word": "crack",
+    "meaning": "割れ目",
+    "example": "A crack appeared in the wall.",
+    "example_jp": "壁に割れ目が生じた。"
+  },
+  {
+    "word": "transition",
+    "meaning": "移り変わり，推移",
+    "example": "The country is in a period of transition.",
+    "example_jp": "その国は移り変わりの時期にある。"
+  },
+  {
+    "word": "game-changer",
+    "meaning": "革命的なこと・人・物",
+    "example": "This invention is a game-changer.",
+    "example_jp": "この発明は革命的なものだ。"
+  },
+  {
+    "word": "reinforce",
+    "meaning": "補強する",
+    "example": "They reinforced the bridge.",
+    "example_jp": "彼らはその橋を補強した。"
+  },
+  {
+    "word": "foster",
+    "meaning": "育成する",
+    "example": "The school fosters creativity.",
+    "example_jp": "その学校は創造性を育成する。"
+  },
+  {
+    "word": "foster",
+    "meaning": "里親になる",
+    "example": "They decided to foster a child.",
+    "example_jp": "彼らは子供の里親になることを決めた。"
+  },
+  {
+    "word": "foster",
+    "meaning": "里親の",
+    "example": "She is a foster parent.",
+    "example_jp": "彼女は里親だ。"
+  },
+  {
+    "word": "breakdown",
+    "meaning": "崩壊",
+    "example": "The system suffered a breakdown.",
+    "example_jp": "システムが崩壊した。"
+  },
+  {
+    "word": "breakdown",
+    "meaning": "故障",
+    "example": "The car had a breakdown.",
+    "example_jp": "車が故障した。"
+  },
+  {
+    "word": "breakdown",
+    "meaning": "衰弱",
+    "example": "He had a mental breakdown.",
+    "example_jp": "彼は精神的な衰弱に陥った。"
+  },
+  {
+    "word": "collapse",
+    "meaning": "崩壊する，倒れる",
+    "example": "The building collapsed.",
+    "example_jp": "建物が崩壊した。"
+  },
+  {
+    "word": "collapse",
+    "meaning": "崩壊，倒れること",
+    "example": "The collapse shocked everyone.",
+    "example_jp": "その崩壊は皆に衝撃を与えた。"
+  },
+  {
+    "word": "render",
+    "meaning": "OをCにする",
+    "example": "The shock rendered him speechless.",
+    "example_jp": "そのショックで彼は口がきけない状態になった。"
+  },
+  {
+    "word": "render",
+    "meaning": "与える",
+    "example": "They rendered aid to the victims.",
+    "example_jp": "彼らは犠牲者に援助を与えた。"
+  },
+  {
+    "word": "impair",
+    "meaning": "低下させる，損なう",
+    "example": "Alcohol impairs judgment.",
+    "example_jp": "アルコールは判断力を低下させる。"
+  },
+  {
+    "word": "undermine",
+    "meaning": "弱める，揺るがす",
+    "example": "The scandal undermined trust.",
+    "example_jp": "そのスキャンダルは信頼を揺るがした。"
+  },
+  {
+    "word": "cope",
+    "meaning": "対処する",
+    "example": "He cannot cope with stress.",
+    "example_jp": "彼はストレスに対処することができない。"
+  },
+  {
+    "word": "tackle",
+    "meaning": "取り組む",
+    "example": "They tackled the problem.",
+    "example_jp": "彼らはその問題に取り組んだ。"
+  },
+  {
+    "word": "demolish",
+    "meaning": "取り壊す",
+    "example": "They demolished the old building.",
+    "example_jp": "彼らはその古い建物を取り壊した。"
+  },
+  {
+    "word": "confine",
+    "meaning": "閉じ込める",
+    "example": "They confined him to the room.",
+    "example_jp": "彼らは彼を部屋に閉じ込めた。"
+  },
+  {
+    "word": "confine",
+    "meaning": "制限する",
+    "example": "Illness confined her activities.",
+    "example_jp": "病気が彼女の活動を制限した。"
+  },
+  {
+    "word": "designate",
+    "meaning": "指定する",
+    "example": "He was designated as leader.",
+    "example_jp": "彼はリーダーとして指定された。"
+  },
+  {
+    "word": "regulate",
+    "meaning": "規制する",
+    "example": "The government regulates prices.",
+    "example_jp": "政府が価格を規制している。"
+  },
+  {
+    "word": "regulate",
+    "meaning": "調整する",
+    "example": "The device regulates temperature.",
+    "example_jp": "その装置が温度を調整する。"
+  },
+  {
+    "word": "refrain",
+    "meaning": "控える",
+    "example": "Please refrain from smoking.",
+    "example_jp": "喫煙はご遠慮（お控え）ください。"
+  },
+  {
+    "word": "prohibit",
+    "meaning": "禁じる",
+    "example": "The law prohibits drinking here.",
+    "example_jp": "法律がここでの飲酒を禁じている。"
+  },
+  {
+    "word": "halt",
+    "meaning": "止める",
+    "example": "They halted the project.",
+    "example_jp": "彼らはそのプロジェクトを止めた。"
+  },
+  {
+    "word": "halt",
+    "meaning": "止まる",
+    "example": "The train halted suddenly.",
+    "example_jp": "電車が突然止まった。"
+  },
+  {
+    "word": "halt",
+    "meaning": "停止",
+    "example": "The halt lasted ten minutes.",
+    "example_jp": "その停止は10分間続いた。"
+  },
+  {
+    "word": "constraint",
+    "meaning": "制約",
+    "example": "We worked under many constraints.",
+    "example_jp": "私たちは多くの制約の下で働いた。"
+  },
+  {
+    "word": "stimulate",
+    "meaning": "刺激する",
+    "example": "Music stimulates the brain.",
+    "example_jp": "音楽は脳を刺激する。"
+  },
+  {
+    "word": "animate",
+    "meaning": "活気づける",
+    "example": "The speech animated the crowd.",
+    "example_jp": "その演説は群衆を活気づけた。"
+  },
+  {
+    "word": "animate",
+    "meaning": "アニメ化する",
+    "example": "The story was animated for TV.",
+    "example_jp": "その物語はテレビ用にアニメ化された。"
+  },
+  {
+    "word": "spur",
+    "meaning": "駆り立てる，促す",
+    "example": "The victory spurred him on.",
+    "example_jp": "その勝利が彼を駆り立てた。"
+  },
+  {
+    "word": "spur",
+    "meaning": "拍車，刺激，動機",
+    "example": "Fear was the spur for action.",
+    "example_jp": "恐怖が行動の動機となった。"
+  },
+  {
+    "word": "urge",
+    "meaning": "強く勧める，せき立てる",
+    "example": "They urged him to try again.",
+    "example_jp": "彼らは彼にもう一度試すよう強く勧めた。"
+  },
+  {
+    "word": "urge",
+    "meaning": "衝動",
+    "example": "He felt an urge to run.",
+    "example_jp": "彼は走りたいという衝動を感じた。"
+  },
+  {
+    "word": "compel",
+    "meaning": "強制する",
+    "example": "They compelled him to confess.",
+    "example_jp": "彼らは彼に告白を強制した。"
+  },
+  {
+    "word": "blur",
+    "meaning": "ぼやかす",
+    "example": "Tears blurred my vision.",
+    "example_jp": "涙が私の視界をぼやかした。"
+  },
+  {
+    "word": "blur",
+    "meaning": "ぼやける",
+    "example": "The image blurred.",
+    "example_jp": "画像がぼやけた。"
+  },
+  {
+    "word": "divert",
+    "meaning": "方向を変える",
+    "example": "They diverted the river.",
+    "example_jp": "彼らは川の方向を変えた。"
+  },
+  {
+    "word": "divert",
+    "meaning": "そらす",
+    "example": "The noise diverted my attention.",
+    "example_jp": "騒音が私の注意をそらした。"
+  },
+  {
+    "word": "reverse",
+    "meaning": "逆転する，覆す",
+    "example": "They reversed the decision.",
+    "example_jp": "彼らはその決定を覆した。"
+  },
+  {
+    "word": "reverse",
+    "meaning": "逆",
+    "example": "The reverse is also true.",
+    "example_jp": "その逆もまた真実だ。"
+  },
+  {
+    "word": "reverse",
+    "meaning": "逆の",
+    "example": "They drove in reverse.",
+    "example_jp": "彼らは逆の方向に運転した。"
+  },
+  {
+    "word": "overshadow",
+    "meaning": "影を薄くさせる",
+    "example": "His success overshadowed mine.",
+    "example_jp": "彼の成功が私の成功の影を薄くさせた。"
+  },
+  {
+    "word": "worsen",
+    "meaning": "悪化させる",
+    "example": "The situation worsened.",
+    "example_jp": "状況が悪化した。"
+  },
+  {
+    "word": "jeopardize",
+    "meaning": "危険にさらす",
+    "example": "His actions jeopardized his career.",
+    "example_jp": "彼の行動は彼のキャリアを危険にさらした。"
+  },
+  {
+    "word": "supplement",
+    "meaning": "補う",
+    "example": "She supplemented her income.",
+    "example_jp": "彼女は収入を補った。"
+  },
+  {
+    "word": "supplement",
+    "meaning": "補充，栄養補助食品",
+    "example": "He takes vitamin supplements.",
+    "example_jp": "彼はビタミンサプリメント（栄養補助食品）を摂っている。"
+  },
+  {
+    "word": "supplement",
+    "meaning": "付録",
+    "example": "The book has a supplement.",
+    "example_jp": "その本には付録がついている。"
+  },
+  {
+    "word": "pose",
+    "meaning": "もたらす",
+    "example": "The issue poses a problem.",
+    "example_jp": "その問題は困難をもたらす。"
+  },
+  {
+    "word": "induce",
+    "meaning": "引き起こす",
+    "example": "The drug induced sleep.",
+    "example_jp": "その薬は眠りを引き起こした。"
+  },
+  {
+    "word": "induce",
+    "meaning": "説得する",
+    "example": "They induced him to join.",
+    "example_jp": "彼らは彼に参加するよう説得した。"
+  },
+  {
+    "word": "betray",
+    "meaning": "裏切る",
+    "example": "He betrayed his friend.",
+    "example_jp": "彼は友人を裏切った。"
+  },
+  {
+    "word": "betray",
+    "meaning": "漏らす，さらけ出す",
+    "example": "His smile betrayed his fear.",
+    "example_jp": "彼の微笑みが彼の恐怖をさらけ出した。"
+  },
+  {
+    "word": "bully",
+    "meaning": "いじめる",
+    "example": "They bullied the new student.",
+    "example_jp": "彼らは新入生をいじめた。"
+  },
+  {
+    "word": "bully",
+    "meaning": "いじめっ子",
+    "example": "He was known as a bully.",
+    "example_jp": "彼はいいじめっ子として知られていた。"
+  },
+  {
+    "word": "disregard",
+    "meaning": "無視する",
+    "example": "He disregarded the warning.",
+    "example_jp": "彼は警告を無視した。"
+  },
+  {
+    "word": "squeeze",
+    "meaning": "搾る",
+    "example": "She squeezed the lemon.",
+    "example_jp": "彼女はレモンを搾った。"
+  },
+  {
+    "word": "squeeze",
+    "meaning": "強く押す",
+    "example": "He squeezed my hand.",
+    "example_jp": "彼は私の手を強く押した。"
+  },
+  {
+    "word": "rub",
+    "meaning": "こする",
+    "example": "She rubbed the table clean.",
+    "example_jp": "彼女はテーブルをこすって綺麗にした。"
+  },
+  {
+    "word": "rub",
+    "meaning": "こすりつける",
+    "example": "The cat rubbed against my leg.",
+    "example_jp": "猫が私の足に体をこすりつけた。"
+  },
+  {
+    "word": "smash",
+    "meaning": "粉砕する",
+    "example": "He smashed the bottle.",
+    "example_jp": "彼はボトルを粉砕した。"
+  },
+  {
+    "word": "insert",
+    "meaning": "差し込む",
+    "example": "Insert the key into the lock.",
+    "example_jp": "鍵を錠に差し込みなさい。"
+  },
+  {
+    "word": "insert",
+    "meaning": "書き込む",
+    "example": "They inserted a note into the text.",
+    "example_jp": "彼らは本文中に注釈を書き込んだ。"
+  },
+  {
+    "word": "detach",
+    "meaning": "A from B.	AをBから切り離す",
+    "example": "He detached A from B.",
+    "example_jp": "彼はAをBから切り離した。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "引っ込める",
+    "example": "He withdrew his hand.",
+    "example_jp": "彼は手を引っ込めた。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "引き出す",
+    "example": "She withdrew money from the bank.",
+    "example_jp": "彼女は銀行からお金を引き出した。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "退く",
+    "example": "The army withdrew.",
+    "example_jp": "軍隊は退いた。"
+  },
+  {
+    "word": "compile",
+    "meaning": "まとめる，編纂する",
+    "example": "They compiled a dictionary.",
+    "example_jp": "彼らは辞書を編纂した。"
+  },
+  {
+    "word": "browse",
+    "meaning": "拾い読みする",
+    "example": "He browsed in the library.",
+    "example_jp": "彼は図書館で拾い読みをした。"
+  },
+  {
+    "word": "browse",
+    "meaning": "拾い読みする",
+    "example": "She browsed the magazine.",
+    "example_jp": "彼女はその雑誌を拾い読みした。"
+  },
+  {
+    "word": "manipulate",
+    "meaning": "操作する",
+    "example": "He manipulated the machine.",
+    "example_jp": "彼はその機械を操作した。"
+  },
+  {
+    "word": "implement",
+    "meaning": "実行する",
+    "example": "They implemented the plan.",
+    "example_jp": "彼らはその計画を実行した。"
+  },
+  {
+    "word": "implement",
+    "meaning": "道具",
+    "example": "The farmer used simple implements.",
+    "example_jp": "その農夫は簡単な道具を使った。"
+  },
+  {
+    "word": "execute",
+    "meaning": "遂行する，実行する",
+    "example": "They executed the plan.",
+    "example_jp": "彼らはその計画を遂行した。"
+  },
+  {
+    "word": "execute",
+    "meaning": "処刑する",
+    "example": "The prisoner was executed.",
+    "example_jp": "その囚人は処刑された。"
+  },
+  {
+    "word": "host",
+    "meaning": "主催する",
+    "example": "The city hosted the event.",
+    "example_jp": "その都市がイベントを主催した。"
+  },
+  {
+    "word": "host",
+    "meaning": "多くの",
+    "example": "A host of problems appeared.",
+    "example_jp": "多くの問題が現れた。"
+  },
+  {
+    "word": "host",
+    "meaning": "主人，主催者，宿主",
+    "example": "She was a kind host.",
+    "example_jp": "彼女は親切な主催者だった。"
+  },
+  {
+    "word": "mount",
+    "meaning": "据え付ける",
+    "example": "They mounted the camera on the wall.",
+    "example_jp": "彼らは壁にカメラを据え付けた。"
+  },
+  {
+    "word": "mount",
+    "meaning": "乗る",
+    "example": "He mounted the horse.",
+    "example_jp": "彼は馬に乗った。"
+  },
+  {
+    "word": "mount",
+    "meaning": "増加する",
+    "example": "Costs are mounting.",
+    "example_jp": "費用が増加している。"
+  }
+]

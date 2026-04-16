@@ -1,0 +1,584 @@
+[
+  {
+    "word": "ease",
+    "meaning": "容易さ",
+    "example": "The task was done with ease.",
+    "example_jp": "その課題は容易に行われた。"
+  },
+  {
+    "word": "ease",
+    "meaning": "安楽さ",
+    "example": "The chair gives ease.",
+    "example_jp": "その椅子は安楽さを与える。"
+  },
+  {
+    "word": "ease",
+    "meaning": "和らげる",
+    "example": "Music eased his stress.",
+    "example_jp": "音楽が彼のストレスを和らげた。"
+  },
+  {
+    "word": "relieve",
+    "meaning": "取り除く",
+    "example": "The medicine relieved the pain.",
+    "example_jp": "その薬は痛みを取り除いた。"
+  },
+  {
+    "word": "relieve",
+    "meaning": "安心させる",
+    "example": "His words relieved me.",
+    "example_jp": "彼の言葉が私を安心させた。"
+  },
+  {
+    "word": "sadness",
+    "meaning": "悲しみ",
+    "example": "He felt deep sadness.",
+    "example_jp": "彼は深い悲しみを感じた。"
+  },
+  {
+    "word": "desperate",
+    "meaning": "必死の",
+    "example": "He made a desperate attempt.",
+    "example_jp": "彼は必死の試みをした。"
+  },
+  {
+    "word": "desperate",
+    "meaning": "絶望的な",
+    "example": "The situation is desperate.",
+    "example_jp": "状況は絶望的だ。"
+  },
+  {
+    "word": "desperate",
+    "meaning": "たまらない",
+    "example": "She is desperate for help.",
+    "example_jp": "彼女は助けが欲しくてたまらない。"
+  },
+  {
+    "word": "grief",
+    "meaning": "深い悲しみ",
+    "example": "She was filled with grief.",
+    "example_jp": "彼女は深い悲しみに満たされていた。"
+  },
+  {
+    "word": "reveal",
+    "meaning": "明らかにする",
+    "example": "They revealed the truth.",
+    "example_jp": "彼らは真実を明らかにした。"
+  },
+  {
+    "word": "unlock",
+    "meaning": "鍵を開ける",
+    "example": "He unlocked the door.",
+    "example_jp": "彼はドアの鍵を開けた。"
+  },
+  {
+    "word": "incident",
+    "meaning": "出来事",
+    "example": "A strange incident occurred.",
+    "example_jp": "奇妙な出来事が起こった。"
+  },
+  {
+    "word": "incident",
+    "meaning": "事件",
+    "example": "The police investigated the incident.",
+    "example_jp": "警察はその事件を調査した。"
+  },
+  {
+    "word": "accidentally",
+    "meaning": "偶然に",
+    "example": "He accidentally broke the glass.",
+    "example_jp": "彼は偶然にグラスを割った。"
+  },
+  {
+    "word": "accidentally",
+    "meaning": "偶然にも",
+    "example": "I accidentally met him.",
+    "example_jp": "私は偶然にも彼に会った。"
+  },
+  {
+    "word": "accidentally",
+    "meaning": "うっかり",
+    "example": "She accidentally sent the email.",
+    "example_jp": "彼女はうっかりメールを送った。"
+  },
+  {
+    "word": "fond",
+    "meaning": "大好きで",
+    "example": "He is fond of music.",
+    "example_jp": "彼は音楽が大好きだ。"
+  },
+  {
+    "word": "fond",
+    "meaning": "楽しい",
+    "example": "We have fond memories.",
+    "example_jp": "私たちには楽しい思い出がある。"
+  },
+  {
+    "word": "industry",
+    "meaning": "産業",
+    "example": "The car industry is large.",
+    "example_jp": "自動車産業は大きい。"
+  },
+  {
+    "word": "industry",
+    "meaning": "工業",
+    "example": "He works in the steel industry.",
+    "example_jp": "彼は鉄鋼工業で働いている。"
+  },
+  {
+    "word": "industry",
+    "meaning": "勤勉",
+    "example": "Her industry impressed everyone.",
+    "example_jp": "彼女の勤勉さは皆を感心させた。"
+  },
+  {
+    "word": "mill",
+    "meaning": "製粉場",
+    "example": "The old mill still works.",
+    "example_jp": "その古い製粉場はまだ動いている。"
+  },
+  {
+    "word": "mill",
+    "meaning": "工場",
+    "example": "He works at a steel mill.",
+    "example_jp": "彼は鉄鋼工場で働いている。"
+  },
+  {
+    "word": "grind",
+    "meaning": "挽く",
+    "example": "They ground the coffee beans.",
+    "example_jp": "彼らはコーヒー豆を挽いた。"
+  },
+  {
+    "word": "combine",
+    "meaning": "組み合わせる",
+    "example": "Combine A with B.",
+    "example_jp": "AをBと組み合わせなさい。"
+  },
+  {
+    "word": "combine",
+    "meaning": "兼ね備える",
+    "example": "The job combines skill and creativity.",
+    "example_jp": "その仕事はスキルと創造性を兼ね備えている。"
+  },
+  {
+    "word": "combine",
+    "meaning": "組み合わさる",
+    "example": "Oil and water do not combine.",
+    "example_jp": "油と水は組み合わさらない。"
+  },
+  {
+    "word": "assemble",
+    "meaning": "組み立てる",
+    "example": "They assembled the parts.",
+    "example_jp": "彼らは部品を組み立てた。"
+  },
+  {
+    "word": "assemble",
+    "meaning": "集まる",
+    "example": "The students assembled in the hall.",
+    "example_jp": "学生たちはホールに集まった。"
+  },
+  {
+    "word": "minor",
+    "meaning": "重要でない",
+    "example": "It is a minor problem.",
+    "example_jp": "それは重要でない問題だ。"
+  },
+  {
+    "word": "minor",
+    "meaning": "少数の",
+    "example": "A minor group opposed it.",
+    "example_jp": "少数のグループがそれに反対した。"
+  },
+  {
+    "word": "trivial",
+    "meaning": "ささいな",
+    "example": "It is a trivial matter.",
+    "example_jp": "それはささいな事柄だ。"
+  },
+  {
+    "word": "pastime",
+    "meaning": "気晴らし",
+    "example": "Reading is my pastime.",
+    "example_jp": "読書は私の気晴らしだ。"
+  },
+  {
+    "word": "luxury",
+    "meaning": "ぜいたく",
+    "example": "A new car is a luxury.",
+    "example_jp": "新しい車はぜいたくだ。"
+  },
+  {
+    "word": "luxury",
+    "meaning": "ぜいたく品",
+    "example": "They sell luxury goods.",
+    "example_jp": "彼らはぜいたく品を売っている。"
+  },
+  {
+    "word": "prosperity",
+    "meaning": "繁栄",
+    "example": "The country enjoyed prosperity.",
+    "example_jp": "その国は繁栄を享受した。"
+  },
+  {
+    "word": "mostly",
+    "meaning": "主に",
+    "example": "The class is mostly girls.",
+    "example_jp": "そのクラスは主に女子だ。"
+  },
+  {
+    "word": "mostly",
+    "meaning": "たいていは",
+    "example": "He is mostly right.",
+    "example_jp": "彼はたいていは正しい。"
+  },
+  {
+    "word": "exceed",
+    "meaning": "超える",
+    "example": "The cost exceeded the budget.",
+    "example_jp": "費用が予算を超えた。"
+  },
+  {
+    "word": "central",
+    "meaning": "中央の",
+    "example": "The central area is crowded.",
+    "example_jp": "中央の地域は混雑している。"
+  },
+  {
+    "word": "central",
+    "meaning": "中心的な",
+    "example": "He played a central role.",
+    "example_jp": "彼は中心的な役割を果たした。"
+  },
+  {
+    "word": "inner",
+    "meaning": "内部の",
+    "example": "The inner wall is strong.",
+    "example_jp": "内部の壁は強い。"
+  },
+  {
+    "word": "inner",
+    "meaning": "内面の",
+    "example": "She explored her inner world.",
+    "example_jp": "彼女は自分の内面の世界を探求した。"
+  },
+  {
+    "word": "interior",
+    "meaning": "室内の",
+    "example": "The interior design is modern.",
+    "example_jp": "室内のデザインは現代的だ。"
+  },
+  {
+    "word": "interior",
+    "meaning": "内部",
+    "example": "The interior is beautiful.",
+    "example_jp": "内部は美しい。"
+  },
+  {
+    "word": "mainstream",
+    "meaning": "主流の",
+    "example": "This idea is mainstream.",
+    "example_jp": "この考えは主流だ。"
+  },
+  {
+    "word": "mainstream",
+    "meaning": "主流",
+    "example": "He joined the mainstream.",
+    "example_jp": "彼は主流に加わった。"
+  },
+  {
+    "word": "extent",
+    "meaning": "程度",
+    "example": "The extent of damage is large.",
+    "example_jp": "損害の程度は大きい。"
+  },
+  {
+    "word": "extent",
+    "meaning": "範囲",
+    "example": "The extent of the area is wide.",
+    "example_jp": "その地域の範囲は広い。"
+  },
+  {
+    "word": "reward",
+    "meaning": "報酬",
+    "example": "He received a reward.",
+    "example_jp": "彼は報酬を受け取った。"
+  },
+  {
+    "word": "reward",
+    "meaning": "報いる",
+    "example": "They rewarded him for his work.",
+    "example_jp": "彼らは彼の仕事に対して彼に報いた。"
+  },
+  {
+    "word": "pension",
+    "meaning": "年金",
+    "example": "He receives a pension.",
+    "example_jp": "彼は年金を受け取っている。"
+  },
+  {
+    "word": "revenue",
+    "meaning": "収入",
+    "example": "The company’s revenue increased.",
+    "example_jp": "会社の収入（収益）が増加した。"
+  },
+  {
+    "word": "revenue",
+    "meaning": "収益",
+    "example": "Tax revenue is high.",
+    "example_jp": "税収（収益）は高い。"
+  },
+  {
+    "word": "surplus",
+    "meaning": "余剰",
+    "example": "The company has a surplus.",
+    "example_jp": "会社には余剰（金）がある。"
+  },
+  {
+    "word": "surplus",
+    "meaning": "黒字",
+    "example": "They recorded a surplus.",
+    "example_jp": "彼らは黒字を記録した。"
+  },
+  {
+    "word": "surplus",
+    "meaning": "余剰の",
+    "example": "Surplus goods were sold.",
+    "example_jp": "余剰の製品が売られた。"
+  },
+  {
+    "word": "deficit",
+    "meaning": "赤字",
+    "example": "The company has a deficit.",
+    "example_jp": "会社は赤字だ。"
+  },
+  {
+    "word": "deficit",
+    "meaning": "不足",
+    "example": "There is a water deficit.",
+    "example_jp": "水の不足がある。"
+  },
+  {
+    "word": "margin",
+    "meaning": "余白",
+    "example": "Write in the margin.",
+    "example_jp": "余白に書きなさい。"
+  },
+  {
+    "word": "margin",
+    "meaning": "差",
+    "example": "They won by a small margin.",
+    "example_jp": "彼らはわずかな差で勝った。"
+  },
+  {
+    "word": "margin",
+    "meaning": "利ざや",
+    "example": "The margin is high.",
+    "example_jp": "利ざやが高い。"
+  },
+  {
+    "word": "deposit",
+    "meaning": "預金",
+    "example": "He made a bank deposit.",
+    "example_jp": "彼は銀行預金をした。"
+  },
+  {
+    "word": "deposit",
+    "meaning": "堆積物",
+    "example": "The river left deposits.",
+    "example_jp": "川が堆積物を残した。"
+  },
+  {
+    "word": "deposit",
+    "meaning": "預ける",
+    "example": "He deposited money.",
+    "example_jp": "彼は金を預けた。"
+  },
+  {
+    "word": "deposit",
+    "meaning": "置く",
+    "example": "She deposited the package.",
+    "example_jp": "彼女は小包を置いた。"
+  },
+  {
+    "word": "personal",
+    "meaning": "個人の",
+    "example": "This is my personal opinion.",
+    "example_jp": "これは私の個人の意見だ。"
+  },
+  {
+    "word": "personal",
+    "meaning": "私的な",
+    "example": "Keep personal items safe.",
+    "example_jp": "私的な（身の回りの）品を安全に保管しなさい。"
+  },
+  {
+    "word": "interpersonal",
+    "meaning": "個人間の",
+    "example": "Interpersonal skills are important.",
+    "example_jp": "個人間のスキル（対人スキル）は重要だ。"
+  },
+  {
+    "word": "personnel",
+    "meaning": "職員",
+    "example": "The personnel are trained.",
+    "example_jp": "職員たちは訓練されている。"
+  },
+  {
+    "word": "personnel",
+    "meaning": "人事部",
+    "example": "The personnel department hired him.",
+    "example_jp": "人事部が彼を雇った。"
+  },
+  {
+    "word": "officer",
+    "meaning": "公務員",
+    "example": "He is a police officer.",
+    "example_jp": "彼は警察官（公務員）だ。"
+  },
+  {
+    "word": "officer",
+    "meaning": "職員",
+    "example": "The officer checked the documents.",
+    "example_jp": "その職員（将校）は書類をチェックした。"
+  },
+  {
+    "word": "uncommon",
+    "meaning": "まれな",
+    "example": "It is uncommon to see this bird.",
+    "example_jp": "この鳥を見るのはまれだ。"
+  },
+  {
+    "word": "uncommon",
+    "meaning": "めったにない",
+    "example": "Such talent is uncommon.",
+    "example_jp": "そのような才能はめったにない。"
+  },
+  {
+    "word": "attain",
+    "meaning": "成し遂げる",
+    "example": "He attained his goal.",
+    "example_jp": "彼は目標を成し遂げた。"
+  },
+  {
+    "word": "attain",
+    "meaning": "達する",
+    "example": "The plane attained great height.",
+    "example_jp": "飛行機はかなりの高さに達した。"
+  },
+  {
+    "word": "attain",
+    "meaning": "獲得する",
+    "example": "She attained success.",
+    "example_jp": "彼女は成功を獲得した。"
+  },
+  {
+    "word": "eager",
+    "meaning": "熱心な",
+    "example": "He is eager to learn.",
+    "example_jp": "彼は学ぶことに熱心だ。"
+  },
+  {
+    "word": "eager",
+    "meaning": "熱望して",
+    "example": "She is eager for success.",
+    "example_jp": "彼女は成功を熱望している。"
+  },
+  {
+    "word": "willing",
+    "meaning": "…する気がある",
+    "example": "I am willing to help.",
+    "example_jp": "私は助ける気がある。"
+  },
+  {
+    "word": "willing",
+    "meaning": "いとわない",
+    "example": "She is willing to try.",
+    "example_jp": "彼女は試みることをいとわない。"
+  },
+  {
+    "word": "reluctant",
+    "meaning": "気が進まない",
+    "example": "He is reluctant to speak.",
+    "example_jp": "彼は話すのが気が進まない。"
+  },
+  {
+    "word": "enthusiasm",
+    "meaning": "熱意",
+    "example": "He showed great enthusiasm.",
+    "example_jp": "彼は大きな熱意を見せた。"
+  },
+  {
+    "word": "enthusiasm",
+    "meaning": "熱中",
+    "example": "Her enthusiasm impressed us.",
+    "example_jp": "彼女の熱中（熱意）は私たちを感動させた。"
+  },
+  {
+    "word": "passion",
+    "meaning": "情熱",
+    "example": "He has a passion for music.",
+    "example_jp": "彼は音楽に情熱を持っている。"
+  },
+  {
+    "word": "ambition",
+    "meaning": "熱望",
+    "example": "Her ambition is to be a doctor.",
+    "example_jp": "彼女の熱望（夢）は医者になることだ。"
+  },
+  {
+    "word": "ambition",
+    "meaning": "野心",
+    "example": "He has political ambition.",
+    "example_jp": "彼には政治的な野心がある。"
+  },
+  {
+    "word": "accomplishment",
+    "meaning": "達成",
+    "example": "Winning the prize was an accomplishment.",
+    "example_jp": "その賞を獲得したことは、一つの達成だった。"
+  },
+  {
+    "word": "accomplishment",
+    "meaning": "功績",
+    "example": "His accomplishments are many.",
+    "example_jp": "彼の功績は数多い。"
+  },
+  {
+    "word": "progress",
+    "meaning": "進歩",
+    "example": "The project made progress.",
+    "example_jp": "プロジェクトが進歩を遂げた。"
+  },
+  {
+    "word": "progress",
+    "meaning": "進歩する",
+    "example": "He progressed quickly.",
+    "example_jp": "彼は素早く進歩した。"
+  },
+  {
+    "word": "progress",
+    "meaning": "前進する",
+    "example": "The team progressed forward.",
+    "example_jp": "チームは前進した。"
+  },
+  {
+    "word": "ongoing",
+    "meaning": "進行中の",
+    "example": "The project is ongoing.",
+    "example_jp": "そのプロジェクトは進行中だ。"
+  },
+  {
+    "word": "accelerate",
+    "meaning": "加速する",
+    "example": "They accelerated the car.",
+    "example_jp": "彼らは車を加速させた。"
+  },
+  {
+    "word": "accelerate",
+    "meaning": "促進する",
+    "example": "The plan accelerated progress.",
+    "example_jp": "その計画が進歩を促進した。"
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "word": "union",
+    "meaning": "労働組合",
+    "example": "He joined the labor union.",
+    "example_jp": "彼は労働組合に加入した。"
+  },
+  {
+    "word": "union",
+    "meaning": "合併",
+    "example": "The two companies formed a union.",
+    "example_jp": "その2社は合併した。"
+  },
+  {
+    "word": "union",
+    "meaning": "連邦",
+    "example": "The country became a union.",
+    "example_jp": "その国は連邦になった。"
+  },
+  {
+    "word": "administration",
+    "meaning": "経営，運営",
+    "example": "He works in school administration.",
+    "example_jp": "彼は学校経営（運営）の仕事をしている。"
+  },
+  {
+    "word": "administration",
+    "meaning": "行政",
+    "example": "The new administration took office.",
+    "example_jp": "新しい行政（機関）が発足した。"
+  },
+  {
+    "word": "administration",
+    "meaning": "政権",
+    "example": "The administration changed last year.",
+    "example_jp": "昨年、政権が交代した。"
+  },
+  {
+    "word": "secretary",
+    "meaning": "秘書",
+    "example": "She is the company secretary.",
+    "example_jp": "彼女は会社の秘書だ。"
+  },
+  {
+    "word": "secretary",
+    "meaning": "長官，事務局長",
+    "example": "The Secretary of State spoke.",
+    "example_jp": "国務長官が話した。"
+  },
+  {
+    "word": "editor",
+    "meaning": "編集長，編集者",
+    "example": "He is the editor of the magazine.",
+    "example_jp": "彼はその雑誌の編集長だ。"
+  },
+  {
+    "word": "client",
+    "meaning": "依頼人",
+    "example": "She met a new client.",
+    "example_jp": "彼女は新しい依頼人に会った。"
+  },
+  {
+    "word": "client",
+    "meaning": "取引先",
+    "example": "The salon has many clients.",
+    "example_jp": "そのサロンには多くの取引先（客）がいる。"
+  },
+  {
+    "word": "recruit",
+    "meaning": "新規採用する",
+    "example": "The company recruited new staff.",
+    "example_jp": "その会社は新しいスタッフを新規採用した。"
+  },
+  {
+    "word": "recruit",
+    "meaning": "新兵，新人",
+    "example": "He is a new recruit.",
+    "example_jp": "彼は新人だ。"
+  },
+  {
+    "word": "basis",
+    "meaning": "基礎，根拠",
+    "example": "Trust is the basis of our relationship.",
+    "example_jp": "信頼は私たちの関係の基礎（根拠）だ。"
+  },
+  {
+    "word": "basis",
+    "meaning": "基準として",
+    "example": "They work on a weekly basis.",
+    "example_jp": "彼らは週単位を基準として働いている。"
+  },
+  {
+    "word": "element",
+    "meaning": "要素，元素",
+    "example": "Water is made of elements.",
+    "example_jp": "水は元素からできている。"
+  },
+  {
+    "word": "element",
+    "meaning": "自然の力，悪天候",
+    "example": "They fought against the elements.",
+    "example_jp": "彼らは自然の力（悪天候）と戦った。"
+  },
+  {
+    "word": "element",
+    "meaning": "少しの～",
+    "example": "There was an element of truth.",
+    "example_jp": "少しの真実が含まれていた。"
+  },
+  {
+    "word": "constitute",
+    "meaning": "～を構成する",
+    "example": "These parts constitute the whole.",
+    "example_jp": "これらの部品が全体を構成する。"
+  },
+  {
+    "word": "constitute",
+    "meaning": "～である",
+    "example": "His actions constitute a crime.",
+    "example_jp": "彼の行動は犯罪である。"
+  },
+  {
+    "word": "unify",
+    "meaning": "統一する",
+    "example": "The leader unified the team.",
+    "example_jp": "リーダーはチームを統一した。"
+  },
+  {
+    "word": "combine",
+    "meaning": "AをBと結びつける",
+    "example": "Combine A with B to make the sauce.",
+    "example_jp": "ソースを作るためにAをBと結びつけなさい。"
+  },
+  {
+    "word": "combine",
+    "meaning": "結びつく",
+    "example": "Oil and water do not combine.",
+    "example_jp": "油と水は結びつかない。"
+  },
+  {
+    "word": "unite",
+    "meaning": "団結する",
+    "example": "The group united for peace.",
+    "example_jp": "そのグループは平和のために団結した。"
+  },
+  {
+    "word": "unite",
+    "meaning": "団結させる",
+    "example": "The coach united the players.",
+    "example_jp": "コーチは選手たちを団結させた。"
+  },
+  {
+    "word": "link",
+    "meaning": "関連，つながり",
+    "example": "There is a link between diet and health.",
+    "example_jp": "食生活と健康の間には関連（つながり）がある。"
+  },
+  {
+    "word": "link",
+    "meaning": "AをBに関連づける",
+    "example": "They linked A to B.",
+    "example_jp": "彼らはAをBに関連づけた。"
+  },
+  {
+    "word": "relevant",
+    "meaning": "関連のある，重要な",
+    "example": "His comment is not relevant.",
+    "example_jp": "彼のコメントは関連がない（重要ではない）。"
+  },
+  {
+    "word": "murder",
+    "meaning": "殺人",
+    "example": "The police investigated the murder.",
+    "example_jp": "警察は殺人を調査した。"
+  },
+  {
+    "word": "murder",
+    "meaning": "殺人の",
+    "example": "He was charged with murder.",
+    "example_jp": "彼は殺人の罪で起訴された。"
+  },
+  {
+    "word": "murder",
+    "meaning": "殺す",
+    "example": "He murdered the victim.",
+    "example_jp": "彼は犠牲者を殺した。"
+  },
+  {
+    "word": "arrest",
+    "meaning": "逮捕する",
+    "example": "The police arrested him.",
+    "example_jp": "警察は彼を逮捕した。"
+  },
+  {
+    "word": "arrest",
+    "meaning": "逮捕",
+    "example": "The arrest shocked the town.",
+    "example_jp": "その逮捕は町を驚かせた。"
+  },
+  {
+    "word": "prison",
+    "meaning": "刑務所",
+    "example": "He spent years in prison.",
+    "example_jp": "彼は刑務所で数年を過ごした。"
+  },
+  {
+    "word": "vice",
+    "meaning": "犯罪",
+    "example": "The city struggles with vice.",
+    "example_jp": "その都市は犯罪に苦しんでいる。"
+  },
+  {
+    "word": "vice",
+    "meaning": "悪徳",
+    "example": "Greed is a human vice.",
+    "example_jp": "強欲は人間の悪徳だ。"
+  },
+  {
+    "word": "vice",
+    "meaning": "副～",
+    "example": "He is the vice president.",
+    "example_jp": "彼は副社長だ。"
+  },
+  {
+    "word": "witness",
+    "meaning": "目撃者，証人",
+    "example": "She was a witness to the accident.",
+    "example_jp": "彼女はその事故の目撃者（証人）だった。"
+  },
+  {
+    "word": "witness",
+    "meaning": "証言",
+    "example": "His witness was important.",
+    "example_jp": "彼の証言は重要だった。"
+  },
+  {
+    "word": "witness",
+    "meaning": "目撃する",
+    "example": "I witnessed the event.",
+    "example_jp": "私はその出来事を目撃した。"
+  },
+  {
+    "word": "bullet",
+    "meaning": "弾丸",
+    "example": "The bullet hit the wall.",
+    "example_jp": "弾丸が壁に当たった。"
+  },
+  {
+    "word": "sword",
+    "meaning": "剣",
+    "example": "He carried a sword.",
+    "example_jp": "彼は剣を携えていた。"
+  },
+  {
+    "word": "wound",
+    "meaning": "傷",
+    "example": "He had a deep wound.",
+    "example_jp": "彼は深い傷を負っていた。"
+  },
+  {
+    "word": "wound",
+    "meaning": "傷つける",
+    "example": "The glass wounded his hand.",
+    "example_jp": "ガラスが彼の手を傷つけた。"
+  },
+  {
+    "word": "triumph",
+    "meaning": "勝利",
+    "example": "The victory was a triumph.",
+    "example_jp": "その勝利は（素晴らしい）勝利だった。"
+  },
+  {
+    "word": "triumph",
+    "meaning": "勝利する",
+    "example": "They triumphed in the final.",
+    "example_jp": "彼らは決勝で勝利した。"
+  },
+  {
+    "word": "military",
+    "meaning": "軍事的な",
+    "example": "He joined the military service.",
+    "example_jp": "彼は軍事的な任務（兵役）に就いた。"
+  },
+  {
+    "word": "strategy",
+    "meaning": "戦略",
+    "example": "They discussed a new strategy.",
+    "example_jp": "彼らは新しい戦略について話し合った。"
+  },
+  {
+    "word": "conquer",
+    "meaning": "征服する",
+    "example": "The army conquered the land.",
+    "example_jp": "軍はその土地を征服した。"
+  },
+  {
+    "word": "conquer",
+    "meaning": "克服する",
+    "example": "She conquered her fear.",
+    "example_jp": "彼女は恐怖を克服した。"
+  },
+  {
+    "word": "defend",
+    "meaning": "AをBから守る",
+    "example": "He defended A from B.",
+    "example_jp": "彼はAをBから守った。"
+  },
+  {
+    "word": "dominate",
+    "meaning": "支配する",
+    "example": "One team dominated the game.",
+    "example_jp": "1つのチームが試合を支配した。"
+  },
+  {
+    "word": "rob",
+    "meaning": "襲う",
+    "example": "They robbed the bank.",
+    "example_jp": "彼らは銀行を襲った。"
+  },
+  {
+    "word": "rob",
+    "meaning": "AからBを奪う",
+    "example": "He robbed A of B.",
+    "example_jp": "彼はAからBを奪った。"
+  },
+  {
+    "word": "deprive",
+    "meaning": "AからBを奪う",
+    "example": "The storm deprived A of B.",
+    "example_jp": "嵐がAからBを奪った。"
+  },
+  {
+    "word": "devastate",
+    "meaning": "壊滅させる",
+    "example": "The earthquake devastated the town.",
+    "example_jp": "地震が町を壊滅させた。"
+  },
+  {
+    "word": "devastate",
+    "meaning": "打ちのめす",
+    "example": "The news devastated him.",
+    "example_jp": "そのニュースは彼を打ちのめした。"
+  },
+  {
+    "word": "crash",
+    "meaning": "激突する",
+    "example": "The cars crashed.",
+    "example_jp": "車が激突した。"
+  },
+  {
+    "word": "crash",
+    "meaning": "墜落する",
+    "example": "The plane crashed.",
+    "example_jp": "飛行機が墜落した。"
+  },
+  {
+    "word": "crash",
+    "meaning": "激突，墜落",
+    "example": "The crash caused injuries.",
+    "example_jp": "その激突（墜落）は負傷者を出した。"
+  },
+  {
+    "word": "hazard",
+    "meaning": "危険",
+    "example": "This chemical is a hazard.",
+    "example_jp": "この化学物質は危険だ。"
+  },
+  {
+    "word": "debris",
+    "meaning": "破片，残骸",
+    "example": "The explosion left debris everywhere.",
+    "example_jp": "爆発は至る所に破片（残骸）を残した。"
+  },
+  {
+    "word": "orphan",
+    "meaning": "孤児",
+    "example": "The child became an orphan.",
+    "example_jp": "その子供は孤児になった。"
+  },
+  {
+    "word": "slave",
+    "meaning": "奴隷",
+    "example": "He worked like a slave.",
+    "example_jp": "彼は奴隷のように働いた。"
+  },
+  {
+    "word": "slave",
+    "meaning": "～の奴隷",
+    "example": "He is a slave to his phone.",
+    "example_jp": "彼は電話の奴隷だ。"
+  },
+  {
+    "word": "acquaintance",
+    "meaning": "知人",
+    "example": "She is just an acquaintance.",
+    "example_jp": "彼女は単なる知人だ。"
+  },
+  {
+    "word": "acquaintance",
+    "meaning": "面識，知識",
+    "example": "I have no acquaintance with the topic.",
+    "example_jp": "私はそのトピックについて知識（面識）がない。"
+  },
+  {
+    "word": "merchant",
+    "meaning": "商人",
+    "example": "He is a wine merchant.",
+    "example_jp": "彼はワイン商人だ。"
+  },
+  {
+    "word": "resident",
+    "meaning": "住人，居住者",
+    "example": "The residents protested.",
+    "example_jp": "居住者たちが抗議した。"
+  },
+  {
+    "word": "resident",
+    "meaning": "滞在者",
+    "example": "The hotel has long-term residents.",
+    "example_jp": "そのホテルには長期滞在者がいる。"
+  },
+  {
+    "word": "resident",
+    "meaning": "住んでいる",
+    "example": "She is resident in Tokyo.",
+    "example_jp": "彼女は東京に住んでいる。"
+  },
+  {
+    "word": "crew",
+    "meaning": "乗組員",
+    "example": "The crew prepared the plane.",
+    "example_jp": "乗組員が飛行機の準備をした。"
+  },
+  {
+    "word": "crew",
+    "meaning": "チーム",
+    "example": "A TV crew arrived.",
+    "example_jp": "テレビのチームが到着した。"
+  },
+  {
+    "word": "chase",
+    "meaning": "追いかける",
+    "example": "The police chased the thief.",
+    "example_jp": "警察は泥棒を追いかけた。"
+  },
+  {
+    "word": "chase",
+    "meaning": "追跡",
+    "example": "The chase lasted an hour.",
+    "example_jp": "追跡は1時間続いた。"
+  },
+  {
+    "word": "proceed",
+    "meaning": "進む",
+    "example": "The meeting proceeded smoothly.",
+    "example_jp": "会議は円滑に進んだ。"
+  },
+  {
+    "word": "proceed",
+    "meaning": "続けて～する",
+    "example": "He proceeded to explain.",
+    "example_jp": "彼は続けて説明した。"
+  },
+  {
+    "word": "fade",
+    "meaning": "薄れる",
+    "example": "The colors faded over time.",
+    "example_jp": "時間とともに色が薄れた。"
+  },
+  {
+    "word": "dissolve",
+    "meaning": "溶ける",
+    "example": "The sugar dissolved in water.",
+    "example_jp": "砂糖が水に溶けた。"
+  },
+  {
+    "word": "dissolve",
+    "meaning": "溶かす",
+    "example": "She dissolved the powder.",
+    "example_jp": "彼女は粉末を溶かした。"
+  },
+  {
+    "word": "dissolve",
+    "meaning": "解散する",
+    "example": "The parliament was dissolved.",
+    "example_jp": "議会は解散された。"
+  },
+  {
+    "word": "float",
+    "meaning": "浮かぶ",
+    "example": "The boat floated on the lake.",
+    "example_jp": "ボートが湖に浮かんだ。"
+  },
+  {
+    "word": "float",
+    "meaning": "浮かべる",
+    "example": "She floated the toy.",
+    "example_jp": "彼女はおもちゃを浮かべた。"
+  },
+  {
+    "word": "sink",
+    "meaning": "沈む",
+    "example": "The ship sank.",
+    "example_jp": "船が沈んだ。"
+  },
+  {
+    "word": "sink",
+    "meaning": "沈める",
+    "example": "They sank the old boat.",
+    "example_jp": "彼らは古いボートを沈めた。"
+  },
+  {
+    "word": "sink",
+    "meaning": "流し",
+    "example": "The dishes are in the sink.",
+    "example_jp": "皿が流しにある。"
+  },
+  {
+    "word": "bounce",
+    "meaning": "跳ねる",
+    "example": "The ball bounced high.",
+    "example_jp": "ボールが高く跳ねた。"
+  },
+  {
+    "word": "bounce",
+    "meaning": "返送する",
+    "example": "The email bounced back.",
+    "example_jp": "メールが返送されてきた。"
+  },
+  {
+    "word": "transform",
+    "meaning": "変える",
+    "example": "The city was transformed.",
+    "example_jp": "その都市は（一変して）変えられた。"
+  },
+  {
+    "word": "transform",
+    "meaning": "変形する，変身する",
+    "example": "He transformed into a hero.",
+    "example_jp": "彼はヒーローに変身した。"
+  },
+  {
+    "word": "shift",
+    "meaning": "転換",
+    "example": "There was a shift in opinion.",
+    "example_jp": "意見の転換があった。"
+  },
+  {
+    "word": "shift",
+    "meaning": "交替",
+    "example": "She works the night shift.",
+    "example_jp": "彼女は夜の交替制（夜勤）で働いている。"
+  },
+  {
+    "word": "modify",
+    "meaning": "修正する",
+    "example": "They modified the plan.",
+    "example_jp": "彼らは計画を修正した。"
+  }
+]

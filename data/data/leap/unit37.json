@@ -1,0 +1,470 @@
+[
+  {
+    "word": "misleading",
+    "meaning": "誤解を招く，紛らわしい",
+    "example": "The advertisement was misleading.",
+    "example_jp": "その広告は誤解を招くものだった。"
+  },
+  {
+    "word": "obscure",
+    "meaning": "ぼやけた，わかりにくい",
+    "example": "His explanation was obscure.",
+    "example_jp": "彼の説明はわかりにくかった。"
+  },
+  {
+    "word": "obscure",
+    "meaning": "無名の",
+    "example": "He is an obscure writer.",
+    "example_jp": "彼は無名の作家だ。"
+  },
+  {
+    "word": "mature",
+    "meaning": "成熟した，熟成した",
+    "example": "She is mature for her age.",
+    "example_jp": "彼女は年齢の割に成熟している。"
+  },
+  {
+    "word": "mature",
+    "meaning": "成熟する，熟成する",
+    "example": "The wine matured over years.",
+    "example_jp": "そのワインは長年かけて熟成した。"
+  },
+  {
+    "word": "neat",
+    "meaning": "きちんとした",
+    "example": "His room is always neat.",
+    "example_jp": "彼の部屋はいつもきちんとしている。"
+  },
+  {
+    "word": "decent",
+    "meaning": "まともな，きちんとした",
+    "example": "He has a decent job.",
+    "example_jp": "彼はまともな仕事に就いている。"
+  },
+  {
+    "word": "straightforward",
+    "meaning": "わかりやすい",
+    "example": "The instructions are straightforward.",
+    "example_jp": "その指示はわかりやすい。"
+  },
+  {
+    "word": "straightforward",
+    "meaning": "率直な",
+    "example": "She is very straightforward.",
+    "example_jp": "彼女はとても率直だ。"
+  },
+  {
+    "word": "sophisticated",
+    "meaning": "高度な",
+    "example": "The system is highly sophisticated.",
+    "example_jp": "そのシステムは非常に高度だ。"
+  },
+  {
+    "word": "sophisticated",
+    "meaning": "洗練された，教養のある",
+    "example": "She has a sophisticated taste.",
+    "example_jp": "彼女は洗練された好みを持っている。"
+  },
+  {
+    "word": "elaborate",
+    "meaning": "手の込んだ，凝った",
+    "example": "The design is very elaborate.",
+    "example_jp": "そのデザインは非常に手の込んだものだ。"
+  },
+  {
+    "word": "elaborate",
+    "meaning": "苦労して作り上げる",
+    "example": "They elaborated the plan.",
+    "example_jp": "彼らはその計画を苦労して作り上げた。"
+  },
+  {
+    "word": "elaborate",
+    "meaning": "詳しく話す",
+    "example": "He elaborated on the idea.",
+    "example_jp": "彼はその考えについて詳しく話した。"
+  },
+  {
+    "word": "prompt",
+    "meaning": "迅速な",
+    "example": "They gave a prompt reply.",
+    "example_jp": "彼らは迅速な返事をした。"
+  },
+  {
+    "word": "prompt",
+    "meaning": "促す",
+    "example": "The news prompted him to act.",
+    "example_jp": "そのニュースが彼に行動を促した。"
+  },
+  {
+    "word": "swift",
+    "meaning": "素早い",
+    "example": "She made a swift decision.",
+    "example_jp": "彼女は素早い決断を下した。"
+  },
+  {
+    "word": "mighty",
+    "meaning": "強力な",
+    "example": "The mighty river flows fast.",
+    "example_jp": "その強力な川の流れは速い。"
+  },
+  {
+    "word": "explicit",
+    "meaning": "明確な",
+    "example": "He gave explicit instructions.",
+    "example_jp": "彼は明確な指示を与えた。"
+  },
+  {
+    "word": "authentic",
+    "meaning": "本物の",
+    "example": "This painting is authentic.",
+    "example_jp": "この絵は本物だ。"
+  },
+  {
+    "word": "wit",
+    "meaning": "機知，機知に富んだ人",
+    "example": "She has a sharp wit.",
+    "example_jp": "彼女は鋭い機知の持ち主だ。"
+  },
+  {
+    "word": "thrive",
+    "meaning": "好調である，繁栄する",
+    "example": "The company is thriving.",
+    "example_jp": "その会社は好調である。"
+  },
+  {
+    "word": "thrive",
+    "meaning": "健康に育つ",
+    "example": "The plants thrive in sunlight.",
+    "example_jp": "その植物は日光の下で健康に育つ。"
+  },
+  {
+    "word": "dim",
+    "meaning": "薄暗い",
+    "example": "The room was dim.",
+    "example_jp": "部屋は薄暗かった。"
+  },
+  {
+    "word": "dim",
+    "meaning": "ぼんやりした",
+    "example": "My memory of that day is dim.",
+    "example_jp": "あの日の私の記憶はぼんやりしている。"
+  },
+  {
+    "word": "dim",
+    "meaning": "暗くする",
+    "example": "Clouds dimmed the light.",
+    "example_jp": "雲が光を暗くした。"
+  },
+  {
+    "word": "gloomy",
+    "meaning": "薄暗い",
+    "example": "The room felt gloomy.",
+    "example_jp": "部屋は薄暗く感じられた。"
+  },
+  {
+    "word": "gloomy",
+    "meaning": "陰気な，悲観的な",
+    "example": "He has a gloomy outlook.",
+    "example_jp": "彼は悲観的な見通しを持っている。"
+  },
+  {
+    "word": "barren",
+    "meaning": "不毛な",
+    "example": "The land is barren.",
+    "example_jp": "その土地は不毛だ。"
+  },
+  {
+    "word": "idle",
+    "meaning": "何もしていない",
+    "example": "He has been idle for weeks.",
+    "example_jp": "彼は数週間何もしていない。"
+  },
+  {
+    "word": "idle",
+    "meaning": "怠惰な",
+    "example": "He is idle and lazy.",
+    "example_jp": "彼は怠惰である。"
+  },
+  {
+    "word": "idle",
+    "meaning": "何もしないでいる",
+    "example": "He idled away the afternoon.",
+    "example_jp": "彼は午後を何もしないで過ごした。"
+  },
+  {
+    "word": "adverse",
+    "meaning": "不都合な，悪い",
+    "example": "They faced adverse conditions.",
+    "example_jp": "彼らは悪い条件に直面した。"
+  },
+  {
+    "word": "tiresome",
+    "meaning": "退屈な，うんざりする",
+    "example": "The task was tiresome.",
+    "example_jp": "その仕事は退屈なものだった。"
+  },
+  {
+    "word": "clumsy",
+    "meaning": "無器用な",
+    "example": "He is clumsy with tools.",
+    "example_jp": "彼は道具を扱うのが無器用だ。"
+  },
+  {
+    "word": "foul",
+    "meaning": "不快な",
+    "example": "The smell was foul.",
+    "example_jp": "その臭いは不快だった。"
+  },
+  {
+    "word": "foul",
+    "meaning": "違反，ファウル",
+    "example": "He committed a foul.",
+    "example_jp": "彼は違反を犯した。"
+  },
+  {
+    "word": "shabby",
+    "meaning": "みすぼらしい，おんぼろの",
+    "example": "He wore shabby clothes.",
+    "example_jp": "彼はみすぼらしい服を着ていた。"
+  },
+  {
+    "word": "outrageous",
+    "meaning": "常軌を逸した，奇想天外な",
+    "example": "His behavior was outrageous.",
+    "example_jp": "彼の振る舞いは常軌を逸していた。"
+  },
+  {
+    "word": "absurd",
+    "meaning": "ばかげた",
+    "example": "The idea is absurd.",
+    "example_jp": "その考えはばかげている。"
+  },
+  {
+    "word": "fragile",
+    "meaning": "壊れやすい，もろい",
+    "example": "The glass is fragile.",
+    "example_jp": "そのガラスは壊れやすい。"
+  },
+  {
+    "word": "vulnerable",
+    "meaning": "傷つきやすい，弱い",
+    "example": "Children are vulnerable to illness.",
+    "example_jp": "子供は病気に弱い。"
+  },
+  {
+    "word": "vulnerable",
+    "meaning": "受けやすい，かかりやすい",
+    "example": "The system is vulnerable to attacks.",
+    "example_jp": "そのシステムは攻撃を受けやすい。"
+  },
+  {
+    "word": "static",
+    "meaning": "静的な，変化のない",
+    "example": "The economy remained static.",
+    "example_jp": "経済は変化のないままであった。"
+  },
+  {
+    "word": "innate",
+    "meaning": "先天的な，生まれつきの",
+    "example": "She has innate talent.",
+    "example_jp": "彼女には生まれつきの才能がある。"
+  },
+  {
+    "word": "exotic",
+    "meaning": "外来の",
+    "example": "They grow exotic plants.",
+    "example_jp": "彼らは外来の植物を育てている。"
+  },
+  {
+    "word": "exotic",
+    "meaning": "異国情緒のある",
+    "example": "The city has an exotic atmosphere.",
+    "example_jp": "その都市には異国情緒のある雰囲気がある。"
+  },
+  {
+    "word": "tame",
+    "meaning": "飼い慣らされた，従順な",
+    "example": "The animal is tame.",
+    "example_jp": "その動物は飼い慣らされている。"
+  },
+  {
+    "word": "tame",
+    "meaning": "飼い慣らす",
+    "example": "They tamed the wild horse.",
+    "example_jp": "彼らは野生の馬を飼い慣らした。"
+  },
+  {
+    "word": "manifest",
+    "meaning": "明らかな",
+    "example": "His anger was manifest.",
+    "example_jp": "彼の怒りは明らかだった。"
+  },
+  {
+    "word": "manifest",
+    "meaning": "明らかにする",
+    "example": "She manifested her feelings.",
+    "example_jp": "彼女は自分の感情を明らかにした。"
+  },
+  {
+    "word": "dense",
+    "meaning": "密集した",
+    "example": "The forest is dense.",
+    "example_jp": "その森は密集している。"
+  },
+  {
+    "word": "dense",
+    "meaning": "濃い",
+    "example": "The fog was dense.",
+    "example_jp": "霧が濃かった。"
+  },
+  {
+    "word": "transparent",
+    "meaning": "透明な",
+    "example": "The glass is transparent.",
+    "example_jp": "そのガラスは透明だ。"
+  },
+  {
+    "word": "consistent",
+    "meaning": "矛盾のない，一致している",
+    "example": "His actions are consistent with his words.",
+    "example_jp": "彼の行動は言葉と一致している。"
+  },
+  {
+    "word": "consistent",
+    "meaning": "安定した，不変の",
+    "example": "She has consistent results.",
+    "example_jp": "彼女は安定した結果を出している。"
+  },
+  {
+    "word": "coherent",
+    "meaning": "一貫している",
+    "example": "His argument was coherent.",
+    "example_jp": "彼の主張は一貫していた。"
+  },
+  {
+    "word": "universal",
+    "meaning": "普遍的な",
+    "example": "This rule is universal.",
+    "example_jp": "この規則は普遍的なものだ。"
+  },
+  {
+    "word": "underlying",
+    "meaning": "根底にある",
+    "example": "The underlying cause is unknown.",
+    "example_jp": "根底にある原因は不明だ。"
+  },
+  {
+    "word": "spontaneous",
+    "meaning": "自然発生的な",
+    "example": "The reaction was spontaneous.",
+    "example_jp": "その反応は自然発生的なものだった。"
+  },
+  {
+    "word": "mock",
+    "meaning": "模擬の，見せかけの",
+    "example": "They held a mock exam.",
+    "example_jp": "彼らは模擬試験を実施した。"
+  },
+  {
+    "word": "mock",
+    "meaning": "まねる",
+    "example": "He mocked her accent.",
+    "example_jp": "彼は彼女の訛りをまねた。"
+  },
+  {
+    "word": "mock",
+    "meaning": "あざける",
+    "example": "They mocked his idea.",
+    "example_jp": "彼らは彼の考えをあざけった。"
+  },
+  {
+    "word": "collective",
+    "meaning": "集団の，共同の",
+    "example": "They made a collective decision.",
+    "example_jp": "彼らは共同の決定を下した。"
+  },
+  {
+    "word": "vertical",
+    "meaning": "垂直の，縦の",
+    "example": "The cliff is almost vertical.",
+    "example_jp": "その崖はほとんど垂直だ。"
+  },
+  {
+    "word": "ongoing",
+    "meaning": "進行中の，継続中の",
+    "example": "The project is ongoing.",
+    "example_jp": "そのプロジェクトは進行中だ。"
+  },
+  {
+    "word": "tender",
+    "meaning": "柔らかい",
+    "example": "The meat is tender.",
+    "example_jp": "その肉は柔らかい。"
+  },
+  {
+    "word": "tender",
+    "meaning": "優しい",
+    "example": "She gave him a tender smile.",
+    "example_jp": "彼女は彼に優しい微笑みを向けた。"
+  },
+  {
+    "word": "tender",
+    "meaning": "弱い",
+    "example": "My skin is tender here.",
+    "example_jp": "ここは肌が弱い。"
+  },
+  {
+    "word": "upright",
+    "meaning": "直立して",
+    "example": "He stood upright.",
+    "example_jp": "彼は直立した。"
+  },
+  {
+    "word": "upright",
+    "meaning": "直立した",
+    "example": "The statue is upright.",
+    "example_jp": "その像は直立している。"
+  },
+  {
+    "word": "ease",
+    "meaning": "簡単さ",
+    "example": "He completed the task with ease.",
+    "example_jp": "彼はその仕事を簡単に成し遂げた。"
+  },
+  {
+    "word": "ease",
+    "meaning": "和らげる，楽にする",
+    "example": "The medicine eased the pain.",
+    "example_jp": "その薬は痛みを和らげた。"
+  },
+  {
+    "word": "rust",
+    "meaning": "さび",
+    "example": "The metal showed rust.",
+    "example_jp": "金属にさびが出ていた。"
+  },
+  {
+    "word": "rust",
+    "meaning": "さびる",
+    "example": "The gate rusted over time.",
+    "example_jp": "門は時間が経つにつれてさびた。"
+  },
+  {
+    "word": "stain",
+    "meaning": "シミ，汚れ",
+    "example": "There is a stain on the shirt.",
+    "example_jp": "シャツにシミがある。"
+  },
+  {
+    "word": "stain",
+    "meaning": "シミをつける，汚す",
+    "example": "Coffee stained the table.",
+    "example_jp": "コーヒーがテーブルにシミをつけた。"
+  },
+  {
+    "word": "rag",
+    "meaning": "ぼろ切れ",
+    "example": "He cleaned the floor with a rag.",
+    "example_jp": "彼はぼろ切れで床を掃除した。"
+  }
+]

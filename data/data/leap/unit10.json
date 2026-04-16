@@ -1,0 +1,578 @@
+[
+  {
+    "word": "stomachache",
+    "meaning": "腹痛",
+    "example": "I have a stomachache.",
+    "example_jp": "私は腹痛がする。"
+  },
+  {
+    "word": "symptom",
+    "meaning": "（通例 ―s）症状",
+    "example": "He has symptoms of a cold.",
+    "example_jp": "彼には風邪の症状がある。"
+  },
+  {
+    "word": "symptom",
+    "meaning": "兆候",
+    "example": "There are no symptoms of recovery.",
+    "example_jp": "回復の兆候がない。"
+  },
+  {
+    "word": "cancer",
+    "meaning": "がん",
+    "example": "She is fighting cancer.",
+    "example_jp": "彼女はがんと闘っている。"
+  },
+  {
+    "word": "cancer",
+    "meaning": "（C―）かに座",
+    "example": "My sign is Cancer.",
+    "example_jp": "私の星座は（C―）かに座です。"
+  },
+  {
+    "word": "ambulance",
+    "meaning": "救急車",
+    "example": "Call an ambulance!",
+    "example_jp": "救急車を呼んで！"
+  },
+  {
+    "word": "recover",
+    "meaning": "（from ～）（～から）回復する",
+    "example": "He recovered from his illness.",
+    "example_jp": "彼は病気から回復した。"
+  },
+  {
+    "word": "recover",
+    "meaning": "（盗品など）を取り戻す",
+    "example": "The police recovered the stolen car.",
+    "example_jp": "警察は盗まれた車を取り戻した。"
+  },
+  {
+    "word": "sore",
+    "meaning": "（のどや筋肉が）痛い",
+    "example": "I have a sore throat.",
+    "example_jp": "のどが痛い。"
+  },
+  {
+    "word": "sore",
+    "meaning": "（話題など）触れてほしくない，心が痛む",
+    "example": "It is a sore subject for him.",
+    "example_jp": "それは彼にとって触れてほしくない（心が痛む）話題だ。"
+  },
+  {
+    "word": "swell",
+    "meaning": "（手足などが）腫れる",
+    "example": "His ankle began to swell.",
+    "example_jp": "彼の足首が腫れ始めた。"
+  },
+  {
+    "word": "swell",
+    "meaning": "（風船，費用などが）膨らむ",
+    "example": "The budget swelled.",
+    "example_jp": "予算が膨らんだ。"
+  },
+  {
+    "word": "cough",
+    "meaning": "咳をする",
+    "example": "She coughed loudly.",
+    "example_jp": "彼女は大きく咳をした。"
+  },
+  {
+    "word": "cough",
+    "meaning": "咳〈可算〉",
+    "example": "I have a bad cough.",
+    "example_jp": "ひどい咳が出る。"
+  },
+  {
+    "word": "bleed",
+    "meaning": "出血する",
+    "example": "My finger started to bleed.",
+    "example_jp": "指から出血し始めた。"
+  },
+  {
+    "word": "faint",
+    "meaning": "（色，光などが）かすかな",
+    "example": "I heard a faint sound.",
+    "example_jp": "かすかな音が聞こえた。"
+  },
+  {
+    "word": "faint",
+    "meaning": "気絶する",
+    "example": "He fainted from the heat.",
+    "example_jp": "彼は暑さで気絶した。"
+  },
+  {
+    "word": "faint",
+    "meaning": "気絶",
+    "example": "She fell into a faint.",
+    "example_jp": "彼女は気絶した。"
+  },
+  {
+    "word": "exhaust",
+    "meaning": "～を疲れ果てさせる",
+    "example": "The long trip exhausted us.",
+    "example_jp": "長旅は私たちを疲れ果てさせた。"
+  },
+  {
+    "word": "exhaust",
+    "meaning": "～を使い果たす",
+    "example": "We exhausted all our money.",
+    "example_jp": "私たちはすべてのお金を使い果たした。"
+  },
+  {
+    "word": "exhaust",
+    "meaning": "排出，排気ガス",
+    "example": "Car exhaust causes pollution.",
+    "example_jp": "車の排気ガスは公害を引き起こす。"
+  },
+  {
+    "word": "cure",
+    "meaning": "～を治療する",
+    "example": "The doctor cured my cold.",
+    "example_jp": "医者は私の風邪を治療した。"
+  },
+  {
+    "word": "cure",
+    "meaning": "治療法",
+    "example": "There is no cure for this disease.",
+    "example_jp": "この病気の治療法はない。"
+  },
+  {
+    "word": "disabled",
+    "meaning": "障がいのある",
+    "example": "The facility is for disabled people.",
+    "example_jp": "その施設は障がいのある人のためのものだ。"
+  },
+  {
+    "word": "disabled",
+    "meaning": "（the ―）（集合的に）障がいのある人",
+    "example": "We should help the disabled.",
+    "example_jp": "私たちは（the ―）障がいのある人を助けるべきだ。"
+  },
+  {
+    "word": "stiff",
+    "meaning": "（筋肉などが）凝った，（動かすと）痛い",
+    "example": "My neck is stiff.",
+    "example_jp": "首が凝っている。"
+  },
+  {
+    "word": "stiff",
+    "meaning": "堅い",
+    "example": "This paper is very stiff.",
+    "example_jp": "この紙はとても堅い。"
+  },
+  {
+    "word": "muscle",
+    "meaning": "筋肉",
+    "example": "He has strong muscles.",
+    "example_jp": "彼は筋肉がたくましい。"
+  },
+  {
+    "word": "tongue",
+    "meaning": "舌",
+    "example": "I bit my tongue.",
+    "example_jp": "私は舌を噛んだ。"
+  },
+  {
+    "word": "tongue",
+    "meaning": "言語，言葉",
+    "example": "English is her mother tongue.",
+    "example_jp": "英語は彼女の母国語（言語）だ。"
+  },
+  {
+    "word": "tongue",
+    "meaning": "（have a ～ tongue）話し方",
+    "example": "She has a sharp tongue.",
+    "example_jp": "彼女は話し方が鋭い（きつい話し方をする）。"
+  },
+  {
+    "word": "sense",
+    "meaning": "感覚",
+    "example": "Dogs have a good sense of smell.",
+    "example_jp": "犬は優れた嗅覚（感覚）を持っている。"
+  },
+  {
+    "word": "sense",
+    "meaning": "分別",
+    "example": "He has common sense.",
+    "example_jp": "彼は常識（分別）がある。"
+  },
+  {
+    "word": "sense",
+    "meaning": "（言葉の）意味",
+    "example": "What is the sense of this word?",
+    "example_jp": "この単語の（言葉の）意味は何ですか。"
+  },
+  {
+    "word": "sense",
+    "meaning": "（何となく）～を感じる",
+    "example": "I sensed danger.",
+    "example_jp": "私は（何となく）危険を感じた。"
+  },
+  {
+    "word": "sweat",
+    "meaning": "汗（通例〈不可算〉）",
+    "example": "Sweat ran down his face.",
+    "example_jp": "汗が彼の顔を流れ落ちた。"
+  },
+  {
+    "word": "sweat",
+    "meaning": "汗をかく",
+    "example": "I sweat a lot.",
+    "example_jp": "私はたくさん汗をかく。"
+  },
+  {
+    "word": "gender",
+    "meaning": "性，性別",
+    "example": "Please specify your gender.",
+    "example_jp": "あなたの性別を指定してください。"
+  },
+  {
+    "word": "nationality",
+    "meaning": "国籍",
+    "example": "What is your nationality?",
+    "example_jp": "あなたの国籍は何ですか。"
+  },
+  {
+    "word": "citizen",
+    "meaning": "市民",
+    "example": "He is a citizen of Tokyo.",
+    "example_jp": "彼は東京都民（市民）だ。"
+  },
+  {
+    "word": "citizen",
+    "meaning": "国民",
+    "example": "She is a British citizen.",
+    "example_jp": "彼女はイギリス国民だ。"
+  },
+  {
+    "word": "civil",
+    "meaning": "（一般）市民の",
+    "example": "They protected civil rights.",
+    "example_jp": "彼らは（一般）市民の権利を守った。"
+  },
+  {
+    "word": "civil",
+    "meaning": "国内の",
+    "example": "The country had a civil war.",
+    "example_jp": "その国では内戦（国内の戦争）があった。"
+  },
+  {
+    "word": "civil",
+    "meaning": "礼儀正しい",
+    "example": "He gave a civil answer.",
+    "example_jp": "彼は礼儀正しい答えを返した。"
+  },
+  {
+    "word": "racial",
+    "meaning": "人種の，民族の",
+    "example": "We must stop racial discrimination.",
+    "example_jp": "私たちは人種差別（人種の差別）をやめなければならない。"
+  },
+  {
+    "word": "rural",
+    "meaning": "田舎の",
+    "example": "She lives in a rural area.",
+    "example_jp": "彼女は田舎の地域に住んでいる。"
+  },
+  {
+    "word": "domestic",
+    "meaning": "国内の",
+    "example": "The airport has domestic flights.",
+    "example_jp": "その空港には国内便がある。"
+  },
+  {
+    "word": "domestic",
+    "meaning": "家庭内の",
+    "example": "Domestic violence is a serious issue.",
+    "example_jp": "家庭内暴力は深刻な問題だ。"
+  },
+  {
+    "word": "global",
+    "meaning": "（全）世界的な",
+    "example": "Global warming is a problem.",
+    "example_jp": "（全）世界的な温暖化が問題だ。"
+  },
+  {
+    "word": "suburb",
+    "meaning": "（通例the ―s）郊外",
+    "example": "I live in the suburbs.",
+    "example_jp": "私は（the ―s）郊外に住んでいる。"
+  },
+  {
+    "word": "border",
+    "meaning": "国境（地帯），境界",
+    "example": "We crossed the border.",
+    "example_jp": "私たちは国境（境界）を越えた。"
+  },
+  {
+    "word": "border",
+    "meaning": "～を縁取る",
+    "example": "Trees border the path.",
+    "example_jp": "木々が小道を縁取っている。"
+  },
+  {
+    "word": "burden",
+    "meaning": "重荷，負担",
+    "example": "I don't want to be a burden.",
+    "example_jp": "私は重荷（負担）になりたくない。"
+  },
+  {
+    "word": "impact",
+    "meaning": "（on ～）（～への）影響",
+    "example": "The movie had a big impact on me.",
+    "example_jp": "その映画は私に大きな（～への）影響を与えた。"
+  },
+  {
+    "word": "impact",
+    "meaning": "（物体間の）衝撃",
+    "example": "The car broke on impact.",
+    "example_jp": "その車は（物体間の）衝撃で壊れた。"
+  },
+  {
+    "word": "impact",
+    "meaning": "（on ～）（～に）影響を及ぼす",
+    "example": "This will impact on our sales.",
+    "example_jp": "これは私たちの売上に（～に）影響を及ぼすだろう。"
+  },
+  {
+    "word": "status",
+    "meaning": "地位",
+    "example": "He has a high social status.",
+    "example_jp": "彼は高い社会的地位を持っている。"
+  },
+  {
+    "word": "status",
+    "meaning": "（特定の時点の）状況",
+    "example": "What is the status of the project?",
+    "example_jp": "プロジェクトの（特定の時点の）状況はどうなっていますか。"
+  },
+  {
+    "word": "equal",
+    "meaning": "（to ～）（～に）等しい，平等な",
+    "example": "All men are created equal.",
+    "example_jp": "すべての人間は平等に（等しく）作られている。"
+  },
+  {
+    "word": "equal",
+    "meaning": "～に等しい",
+    "example": "Two plus two equals four.",
+    "example_jp": "2足す2は4に等しい。"
+  },
+  {
+    "word": "relationship",
+    "meaning": "関係〈可算〉",
+    "example": "We have a good relationship.",
+    "example_jp": "私たちは良好な関係を築いている。"
+  },
+  {
+    "word": "relationship",
+    "meaning": "親密な関係〈可算〉",
+    "example": "They are in a relationship.",
+    "example_jp": "彼らは付き合っている（親密な関係にある）。"
+  },
+  {
+    "word": "reputation",
+    "meaning": "（人，物の）評判〈可算〉",
+    "example": "The school has a good reputation.",
+    "example_jp": "その学校は（物の）評判が良い。"
+  },
+  {
+    "word": "trend",
+    "meaning": "（世の中の）風潮，傾向",
+    "example": "There is a trend toward working at home.",
+    "example_jp": "在宅勤務をするという（世の中の）傾向がある。"
+  },
+  {
+    "word": "trend",
+    "meaning": "流行",
+    "example": "This fashion is the latest trend.",
+    "example_jp": "このファッションは最新の流行だ。"
+  },
+  {
+    "word": "service",
+    "meaning": "（政府あるいは企業による）事業，制度",
+    "example": "The bus service is good here.",
+    "example_jp": "ここはバスの事業（運行状況）が良い。"
+  },
+  {
+    "word": "service",
+    "meaning": "（電車，バスの）便",
+    "example": "We have a regular train service.",
+    "example_jp": "定期的な列車の便がある。"
+  },
+  {
+    "word": "service",
+    "meaning": "サービス，接客〈不可算〉",
+    "example": "The restaurant has great service.",
+    "example_jp": "そのレストランは接客（サービス）が素晴らしい。"
+  },
+  {
+    "word": "religion",
+    "meaning": "宗教",
+    "example": "He studies world religions.",
+    "example_jp": "彼は世界の宗教を研究している。"
+  },
+  {
+    "word": "moral",
+    "meaning": "道徳的な",
+    "example": "We have a moral duty.",
+    "example_jp": "私たちには道徳的な義務がある。"
+  },
+  {
+    "word": "moral",
+    "meaning": "（物語の）教訓",
+    "example": "The moral of the story is clear.",
+    "example_jp": "その物語の教訓は明白だ。"
+  },
+  {
+    "word": "moral",
+    "meaning": "（―s）道徳",
+    "example": "He has no morals. ",
+    "example_jp": "彼は道徳（観）がない。"
+  },
+  {
+    "word": "standard",
+    "meaning": "基準，水準",
+    "example": "His work is of a high standard.",
+    "example_jp": "彼の仕事は高い水準にある。"
+  },
+  {
+    "word": "standard",
+    "meaning": "標準の",
+    "example": "This is a standard size.",
+    "example_jp": "これは標準のサイズだ。"
+  },
+  {
+    "word": "prosperity",
+    "meaning": "繁栄",
+    "example": "We wish for peace and prosperity.",
+    "example_jp": "私たちは平和と繁栄を願っている。"
+  },
+  {
+    "word": "crisis",
+    "meaning": "危機",
+    "example": "The company is in a crisis.",
+    "example_jp": "会社は危機に陥っている。"
+  },
+  {
+    "word": "prejudice",
+    "meaning": "偏見，先入観",
+    "example": "He has a prejudice against them.",
+    "example_jp": "彼は彼らに対して偏見（先入観）を持っている。"
+  },
+  {
+    "word": "prejudice",
+    "meaning": "～に偏見をもたせる",
+    "example": "The article prejudiced people.",
+    "example_jp": "その記事は人々に偏見をもたせた。"
+  },
+  {
+    "word": "discrimination",
+    "meaning": "差別〈不可算〉",
+    "example": "Racial discrimination is illegal.",
+    "example_jp": "人種差別は違法だ。"
+  },
+  {
+    "word": "discrimination",
+    "meaning": "識別〈不可算〉",
+    "example": "He showed discrimination in his choices.",
+    "example_jp": "彼は選択において識別力を示した。"
+  },
+  {
+    "word": "charity",
+    "meaning": "慈善（事業）〈不可算〉",
+    "example": "He gave the money to charity.",
+    "example_jp": "彼はお金を慈善（事業）に寄付した。"
+  },
+  {
+    "word": "charity",
+    "meaning": "慈善団体〈可算〉",
+    "example": "She works for a charity.",
+    "example_jp": "彼女は慈善団体で働いている。"
+  },
+  {
+    "word": "charity",
+    "meaning": "（形容詞的に）慈善のための",
+    "example": "We held a charity concert.",
+    "example_jp": "私たちは慈善（のための）コンサートを開催した。"
+  },
+  {
+    "word": "benefit",
+    "meaning": "恩恵",
+    "example": "The new system is a great benefit.",
+    "example_jp": "新しいシステムは大きな恩恵だ。"
+  },
+  {
+    "word": "benefit",
+    "meaning": "（―s）手当",
+    "example": "She receives child benefits.",
+    "example_jp": "彼女は子供手当を受け取っている。"
+  },
+  {
+    "word": "benefit",
+    "meaning": "（from ～）（～から）恩恵を得る",
+    "example": "You will benefit from this course.",
+    "example_jp": "あなたはこのコースから恩恵を得るだろう。"
+  },
+  {
+    "word": "benefit",
+    "meaning": "～に恩恵を与える",
+    "example": "The changes will benefit everyone.",
+    "example_jp": "その変更は全員に恩恵を与えるだろう。"
+  },
+  {
+    "word": "welfare",
+    "meaning": "福祉〈不可算〉",
+    "example": "He works in social welfare.",
+    "example_jp": "彼は社会福祉の分野で働いている。"
+  },
+  {
+    "word": "welfare",
+    "meaning": "（健康なども含めた）幸福〈不可算〉",
+    "example": "I care about your welfare.",
+    "example_jp": "私はあなたの幸福（健康なども含めた）を気にかけている。"
+  },
+  {
+    "word": "welfare",
+    "meaning": "生活保護〈不可算〉",
+    "example": "They are on welfare.",
+    "example_jp": "彼らは生活保護を受けている。"
+  },
+  {
+    "word": "community",
+    "meaning": "（地域）社会，共同体（の人々）〈可算〉",
+    "example": "The local community is very active.",
+    "example_jp": "地域社会は非常に活発だ。"
+  },
+  {
+    "word": "individual",
+    "meaning": "個人，個体",
+    "example": "Every individual is different.",
+    "example_jp": "どの個人（個体）もそれぞれ異なる。"
+  },
+  {
+    "word": "individual",
+    "meaning": "個人の，個々の",
+    "example": "We have individual needs.",
+    "example_jp": "私たちには個々のニーズがある。"
+  },
+  {
+    "word": "official",
+    "meaning": "役人，役員",
+    "example": "He is a government official.",
+    "example_jp": "彼は政府の役人だ。"
+  },
+  {
+    "word": "official",
+    "meaning": "公式の",
+    "example": "English is an official language.",
+    "example_jp": "英語は公式の言語だ。"
+  },
+  {
+    "word": "immigrant",
+    "meaning": "（外国からの）移民",
+    "example": "The country accepts many immigrants.",
+    "example_jp": "その国は多くの（外国からの）移民を受け入れている。"
+  }
+]

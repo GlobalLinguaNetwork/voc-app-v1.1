@@ -1,0 +1,494 @@
+[
+  {
+    "word": "environment",
+    "meaning": "環境",
+    "example": "We should protect the natural environment.",
+    "example_jp": "私たちは自然環境を守るべきだ。"
+  },
+  {
+    "word": "skill",
+    "meaning": "技能・熟練",
+    "example": "She has excellent communication skills.",
+    "example_jp": "彼女は優れたコミュニケーション能力（技能）を持っている。"
+  },
+  {
+    "word": "matter",
+    "meaning": "事柄・問題・事態・困難",
+    "example": "It's a matter of life and death.",
+    "example_jp": "それは死活問題だ。"
+  },
+  {
+    "word": "matter",
+    "meaning": "物質",
+    "example": "All matter is made of atoms.",
+    "example_jp": "すべての物質は原子からできている。"
+  },
+  {
+    "word": "view",
+    "meaning": "見解・見方",
+    "example": "In my view, the plan is perfect.",
+    "example_jp": "私の見解では、その計画は完璧だ。"
+  },
+  {
+    "word": "view",
+    "meaning": "眺め",
+    "example": "The hotel room has a great sea view.",
+    "example_jp": "そのホテルの部屋は素晴らしい海の眺めが楽しめる。"
+  },
+  {
+    "word": "value",
+    "meaning": "価値・価格・評価",
+    "example": "The value of the house has increased.",
+    "example_jp": "その家の価値は上がった。"
+  },
+  {
+    "word": "value",
+    "meaning": "価値観",
+    "example": "Young people have different values today.",
+    "example_jp": "今日の若者は異なる価値観を持っている。"
+  },
+  {
+    "word": "species",
+    "meaning": "（生物の）種・種類",
+    "example": "Many species are in danger of extinction.",
+    "example_jp": "多くの種が絶滅の危機に瀕している。"
+  },
+  {
+    "word": "thought",
+    "meaning": "考え・思考",
+    "example": "The thought of losing him scares me.",
+    "example_jp": "彼を失うことを考えると怖くなる。"
+  },
+  {
+    "word": "knowledge",
+    "meaning": "知識・認識",
+    "example": "He has a wide knowledge of history.",
+    "example_jp": "彼は歴史について幅広い知識を持っている。"
+  },
+  {
+    "word": "memory",
+    "meaning": "記憶（力）",
+    "example": "I have a poor memory for names.",
+    "example_jp": "私は名前を覚える記憶力が悪い。"
+  },
+  {
+    "word": "memory",
+    "meaning": "思い出",
+    "example": "This song brings back happy memories.",
+    "example_jp": "この歌を聴くと幸せな思い出が蘇る。"
+  },
+  {
+    "word": "practice",
+    "meaning": "実践・実行",
+    "example": "It's difficult to put the theory into practice.",
+    "example_jp": "その理論を実践に移すのは難しい。"
+  },
+  {
+    "word": "practice",
+    "meaning": "慣習",
+    "example": "It is a common practice in this country.",
+    "example_jp": "それはこの国では一般的な慣習だ。"
+  },
+  {
+    "word": "practice",
+    "meaning": "練習",
+    "example": "You need more practice to win the game.",
+    "example_jp": "試合に勝つにはもっと練習が必要だ。"
+  },
+  {
+    "word": "benefit",
+    "meaning": "利益・恩恵",
+    "example": "The new law will benefit everyone.",
+    "example_jp": "新しい法律はすべての人に利益（恩恵）をもたらすだろう。"
+  },
+  {
+    "word": "benefit",
+    "meaning": "給付金",
+    "example": "He receives unemployment benefits.",
+    "example_jp": "彼は失業給付金を受け取っている。"
+  },
+  {
+    "word": "theory",
+    "meaning": "学説・理論・原理",
+    "example": "That is only a scientific theory.",
+    "example_jp": "それは単なる科学的理論にすぎない。"
+  },
+  {
+    "word": "theory",
+    "meaning": "推測",
+    "example": "I have a theory about why she left.",
+    "example_jp": "彼女がなぜ去ったのか、私なりの推測がある。"
+  },
+  {
+    "word": "issue",
+    "meaning": "問題（点）",
+    "example": "Let's discuss the environmental issue.",
+    "example_jp": "環境問題について話し合いましょう。"
+  },
+  {
+    "word": "issue",
+    "meaning": "発行（物）・発表",
+    "example": "Have you seen the latest issue of the magazine?",
+    "example_jp": "その雑誌の最新号（発行物）を見ましたか。"
+  },
+  {
+    "word": "experiment",
+    "meaning": "実験",
+    "example": "We did an experiment in the lab.",
+    "example_jp": "私たちは研究室で実験を行った。"
+  },
+  {
+    "word": "article",
+    "meaning": "記事",
+    "example": "I read an interesting article about AI.",
+    "example_jp": "AIに関する興味深い記事を読んだ。"
+  },
+  {
+    "word": "article",
+    "meaning": "条項",
+    "example": "Read the third article of the contract.",
+    "example_jp": "契約書の第3条項を読みなさい。"
+  },
+  {
+    "word": "article",
+    "meaning": "品物",
+    "example": "Toiletries are essential articles for travel.",
+    "example_jp": "洗面用具は旅行に不可欠な品物だ。"
+  },
+  {
+    "word": "focus",
+    "meaning": "焦点・関心の的",
+    "example": "The focus of today's meeting is sales.",
+    "example_jp": "今日の会議の焦点は売上だ。"
+  },
+  {
+    "word": "subject",
+    "meaning": "話題・科目・主題",
+    "example": "What's your favorite subject at school?",
+    "example_jp": "学校で一番好きな科目は何ですか。"
+  },
+  {
+    "word": "subject",
+    "meaning": "被験者",
+    "example": "The subjects were divided into two groups.",
+    "example_jp": "被験者は2つのグループに分けられた。"
+  },
+  {
+    "word": "project",
+    "meaning": "計画・事業・研究計画",
+    "example": "The government started a new road project.",
+    "example_jp": "政府は新しい道路計画（事業）を開始した。"
+  },
+  {
+    "word": "quality",
+    "meaning": "質",
+    "example": "This shop sells high quality products.",
+    "example_jp": "この店は質の高い製品を売っている。"
+  },
+  {
+    "word": "quality",
+    "meaning": "特質",
+    "example": "Patience is an important quality for a teacher.",
+    "example_jp": "忍耐強さは教師にとって重要な特質だ。"
+  },
+  {
+    "word": "role",
+    "meaning": "役割・役",
+    "example": "She played a leading role in the movie.",
+    "example_jp": "彼女はその映画で主役（主要な役）を演じた。"
+  },
+  {
+    "word": "term",
+    "meaning": "用語",
+    "example": "What does this medical term mean?",
+    "example_jp": "この医学用語はどういう意味ですか。"
+  },
+  {
+    "word": "term",
+    "meaning": "条件",
+    "example": "I can't accept the terms of the contract.",
+    "example_jp": "その契約の条件は受け入れられない。"
+  },
+  {
+    "word": "term",
+    "meaning": "間柄",
+    "example": "I am on good terms with my neighbor.",
+    "example_jp": "私は近所の人と良い間柄（仲）だ。"
+  },
+  {
+    "word": "term",
+    "meaning": "学期",
+    "example": "The school year is divided into three terms.",
+    "example_jp": "その学年度は3学期に分かれている。"
+  },
+  {
+    "word": "statement",
+    "meaning": "声明・主張",
+    "example": "The president issued a formal statement.",
+    "example_jp": "大統領は公式声明を出した。"
+  },
+  {
+    "word": "statement",
+    "meaning": "明細書",
+    "example": "I checked my bank statement online.",
+    "example_jp": "オンラインで銀行の取引明細書を確認した。"
+  },
+  {
+    "word": "material",
+    "meaning": "材料・素材・生地",
+    "example": "Wood is a natural material.",
+    "example_jp": "木は天然の材料だ。"
+  },
+  {
+    "word": "material",
+    "meaning": "資料",
+    "example": "I need some material for my report.",
+    "example_jp": "レポートのための資料が必要だ。"
+  },
+  {
+    "word": "evidence",
+    "meaning": "証拠",
+    "example": "The police have no evidence against him.",
+    "example_jp": "警察は彼に対する証拠を持っていない。"
+  },
+  {
+    "word": "source",
+    "meaning": "源・出所・情報源",
+    "example": "The sun is our main source of energy.",
+    "example_jp": "太陽は私たちの主なエネルギー源だ。"
+  },
+  {
+    "word": "community",
+    "meaning": "社会・地域社会",
+    "example": "We should work for the local community.",
+    "example_jp": "私たちは地域社会のために働くべきだ。"
+  },
+  {
+    "word": "community",
+    "meaning": "地域住民",
+    "example": "The entire community was shocked by the news.",
+    "example_jp": "地域住民全員がそのニュースに衝撃を受けた。"
+  },
+  {
+    "word": "technology",
+    "meaning": "科学技術・応用技術",
+    "example": "Modern technology makes our lives easier.",
+    "example_jp": "現代の科学技術は私たちの生活をより楽にする。"
+  },
+  {
+    "word": "culture",
+    "meaning": "文化・教養",
+    "example": "I want to learn about Japanese culture.",
+    "example_jp": "日本の文化について学びたい。"
+  },
+  {
+    "word": "culture",
+    "meaning": "耕作・養殖・培養",
+    "example": "The culture of pearls is famous in this area.",
+    "example_jp": "この地域は真珠の養殖で有名だ。"
+  },
+  {
+    "word": "appropriate",
+    "meaning": "適切な",
+    "example": "Wear clothes appropriate for the weather.",
+    "example_jp": "天候に適切な服を着なさい。"
+  },
+  {
+    "word": "likely",
+    "meaning": "ありそうな",
+    "example": "It's likely to rain this afternoon.",
+    "example_jp": "今日の午後は雨が降りそうだ（ありそうだ）。"
+  },
+  {
+    "word": "possible",
+    "meaning": "可能な・可能性のある",
+    "example": "Is it possible to finish this by tomorrow?",
+    "example_jp": "明日までにこれを終わらせることは可能ですか。"
+  },
+  {
+    "word": "individual",
+    "meaning": "個々の・個人の",
+    "example": "Every individual has the right to vote.",
+    "example_jp": "すべての個人が投票する権利を持っている。"
+  },
+  {
+    "word": "public",
+    "meaning": "公の・公開の",
+    "example": "This is a public library.",
+    "example_jp": "ここは公立（公の）図書館だ。"
+  },
+  {
+    "word": "public",
+    "meaning": "公衆の",
+    "example": "Smoking is banned in public places.",
+    "example_jp": "公共の（公衆の）場所では喫煙が禁止されている。"
+  },
+  {
+    "word": "common",
+    "meaning": "共通の",
+    "example": "We have many common interests.",
+    "example_jp": "私たちには多くの共通の興味がある。"
+  },
+  {
+    "word": "common",
+    "meaning": "普通の・一般の",
+    "example": "Flu is a common illness in winter.",
+    "example_jp": "インフルエンザは冬によくある（普通の）病気だ。"
+  },
+  {
+    "word": "certain",
+    "meaning": "確信して",
+    "example": "I am certain that he will come.",
+    "example_jp": "彼が来ると私は確信している。"
+  },
+  {
+    "word": "certain",
+    "meaning": "確かな",
+    "example": "It is certain that the earth is round.",
+    "example_jp": "地球が丸いことは確かだ。"
+  },
+  {
+    "word": "certain",
+    "meaning": "ある・一定の",
+    "example": "I met a certain man on the street.",
+    "example_jp": "通りである（ある特定の）男に会った。"
+  },
+  {
+    "word": "similar",
+    "meaning": "似ている・同様の",
+    "example": "The two brothers look very similar.",
+    "example_jp": "その兄弟はとてもよく似ている。"
+  },
+  {
+    "word": "recent",
+    "meaning": "最近の",
+    "example": "His recent movie was a big hit.",
+    "example_jp": "彼の最近の映画は大ヒットした。"
+  },
+  {
+    "word": "major",
+    "meaning": "主要な・大きい",
+    "example": "Traffic is a major problem in this city.",
+    "example_jp": "交通はこの都市の主要な問題だ。"
+  },
+  {
+    "word": "major",
+    "meaning": "長調の",
+    "example": "This song is written in C major.",
+    "example_jp": "この曲はハ長調（Cメジャー）で書かれている。"
+  },
+  {
+    "word": "patient",
+    "meaning": "忍耐強い・勤勉な",
+    "example": "You should be patient with children.",
+    "example_jp": "子供たちに対して忍耐強くあるべきだ。"
+  },
+  {
+    "word": "particular",
+    "meaning": "特定の・特別の",
+    "example": "Is there a particular reason for that?",
+    "example_jp": "それに対して何か特定の理由はありますか。"
+  },
+  {
+    "word": "particular",
+    "meaning": "（～について）やかましい",
+    "example": "He is particular about what he eats.",
+    "example_jp": "彼は食べ物についてやかましい（こだわりがある）。"
+  },
+  {
+    "word": "physical",
+    "meaning": "身体の",
+    "example": "Physical exercise is good for your health.",
+    "example_jp": "身体的な運動は健康に良い。"
+  },
+  {
+    "word": "physical",
+    "meaning": "物質的な・物理学の",
+    "example": "The laws of the physical world are complex.",
+    "example_jp": "物理的（物質的）世界の法則は複雑だ。"
+  },
+  {
+    "word": "various",
+    "meaning": "さまざまな・いくつかの",
+    "example": "I visited various places in Europe.",
+    "example_jp": "私はヨーロッパのさまざまな場所を訪れた。"
+  },
+  {
+    "word": "available",
+    "meaning": "手に入る・利用できる",
+    "example": "Tickets are available online.",
+    "example_jp": "チケットはオンラインで手に入る。"
+  },
+  {
+    "word": "available",
+    "meaning": "手が空いている",
+    "example": "Is the doctor available now?",
+    "example_jp": "先生は今、手が空いていますか。"
+  },
+  {
+    "word": "native",
+    "meaning": "出生地の・原産の",
+    "example": "He returned to his native country.",
+    "example_jp": "彼は出生地（故国）へ戻った。"
+  },
+  {
+    "word": "native",
+    "meaning": "生得の",
+    "example": "She has a native talent for music.",
+    "example_jp": "彼女は音楽に対する生得の（生まれつきの）才能がある。"
+  },
+  {
+    "word": "political",
+    "meaning": "政治（上）の",
+    "example": "They have different political views.",
+    "example_jp": "彼らは異なる政治的見解を持っている。"
+  },
+  {
+    "word": "due",
+    "meaning": "予定された",
+    "example": "The train is due to arrive at noon.",
+    "example_jp": "その列車は正午に到着する予定だ。"
+  },
+  {
+    "word": "due",
+    "meaning": "（支払）期日で",
+    "example": "The rent is due tomorrow.",
+    "example_jp": "家賃は明日が支払い期日だ。"
+  },
+  {
+    "word": "due",
+    "meaning": "しかるべき",
+    "example": "We should treat them with due respect.",
+    "example_jp": "私たちはしかるべき敬意を持って彼らに接するべきだ。"
+  },
+  {
+    "word": "blank",
+    "meaning": "空白の・がらんとした",
+    "example": "Please fill in the blank space.",
+    "example_jp": "空白の部分を埋めてください。"
+  },
+  {
+    "word": "blank",
+    "meaning": "無表情な",
+    "example": "He gave me a blank look.",
+    "example_jp": "彼は無表情な（ポカンとした）顔で私を見た。"
+  },
+  {
+    "word": "ancient",
+    "meaning": "古代の・昔からの",
+    "example": "I'm interested in ancient Rome.",
+    "example_jp": "私は古代ローマに興味がある。"
+  },
+  {
+    "word": "correct",
+    "meaning": "正しい・適切な",
+    "example": "That is the correct answer.",
+    "example_jp": "それが正しい答えだ。"
+  },
+  {
+    "word": "despite",
+    "meaning": "～にもかかわらず",
+    "example": "We enjoyed the walk despite the rain.",
+    "example_jp": "雨にもかかわらず、私たちは散歩を楽しんだ。"
+  }
+]

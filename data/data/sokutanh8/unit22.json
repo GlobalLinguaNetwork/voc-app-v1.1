@@ -1,0 +1,644 @@
+[
+  {
+    "word": "commercial",
+    "meaning": "商業の",
+    "example": "The commercial was short.",
+    "example_jp": "その商業の広告（コマーシャル）は短かった。"
+  },
+  {
+    "word": "commercial",
+    "meaning": "コマーシャル",
+    "example": "I saw a funny commercial.",
+    "example_jp": "私は面白いコマーシャルを見た。"
+  },
+  {
+    "word": "retail",
+    "meaning": "小売りする",
+    "example": "They retail fresh fruit.",
+    "example_jp": "彼らは新鮮な果物を小売りする。"
+  },
+  {
+    "word": "retail",
+    "meaning": "小売り",
+    "example": "She works in retail.",
+    "example_jp": "彼女は小売り（の分野）で働いている。"
+  },
+  {
+    "word": "commodity",
+    "meaning": "商品",
+    "example": "Rice is a common commodity.",
+    "example_jp": "米は一般的な商品だ。"
+  },
+  {
+    "word": "commodity",
+    "meaning": "日用品",
+    "example": "Water is a daily commodity.",
+    "example_jp": "水は日常的な日用品だ。"
+  },
+  {
+    "word": "likely",
+    "meaning": "ありそうな",
+    "example": "Rain is likely today.",
+    "example_jp": "今日は雨がありそうだ。"
+  },
+  {
+    "word": "likely",
+    "meaning": "たぶん",
+    "example": "He will likely come.",
+    "example_jp": "彼はたぶん来るだろう。"
+  },
+  {
+    "word": "technically",
+    "meaning": "専門的に言うと",
+    "example": "Technically, it is wrong.",
+    "example_jp": "専門的に言うと、それは間違っている。"
+  },
+  {
+    "word": "technically",
+    "meaning": "技術的には",
+    "example": "Technically, the machine works.",
+    "example_jp": "技術的には、その機械は動く。"
+  },
+  {
+    "word": "dishonest",
+    "meaning": "不正直な",
+    "example": "He was dishonest with me.",
+    "example_jp": "彼は私に対して不正直だった。"
+  },
+  {
+    "word": "candidate",
+    "meaning": "候補者",
+    "example": "She is a strong candidate.",
+    "example_jp": "彼女は有力な候補者だ。"
+  },
+  {
+    "word": "candidate",
+    "meaning": "志願者",
+    "example": "He is a job candidate.",
+    "example_jp": "彼は仕事の志願者だ。"
+  },
+  {
+    "word": "campaign",
+    "meaning": "運動",
+    "example": "They started a clean-air campaign.",
+    "example_jp": "彼らは空気浄化運動を始めた。"
+  },
+  {
+    "word": "campaign",
+    "meaning": "運動を起こす",
+    "example": "They campaign for safety.",
+    "example_jp": "彼らは安全のために運動を起こす。"
+  },
+  {
+    "word": "communication",
+    "meaning": "伝達",
+    "example": "Good communication helps us.",
+    "example_jp": "良好な伝達（コミュニケーション）は私たちの助けになる。"
+  },
+  {
+    "word": "communication",
+    "meaning": "意思疎通",
+    "example": "Communication is important.",
+    "example_jp": "意思疎通は重要だ。"
+  },
+  {
+    "word": "communication",
+    "meaning": "通信",
+    "example": "We use phones for communication.",
+    "example_jp": "私たちは通信のために電話を使う。"
+  },
+  {
+    "word": "support",
+    "meaning": "支持する",
+    "example": "They support the plan.",
+    "example_jp": "彼らはその計画を支持する。"
+  },
+  {
+    "word": "support",
+    "meaning": "支える",
+    "example": "The wall supports the roof.",
+    "example_jp": "壁が屋根を支えている。"
+  },
+  {
+    "word": "support",
+    "meaning": "支持",
+    "example": "She has strong support.",
+    "example_jp": "彼女には強い支持がある。"
+  },
+  {
+    "word": "support",
+    "meaning": "支え",
+    "example": "The pole gives support.",
+    "example_jp": "その棒が支えとなっている。"
+  },
+  {
+    "word": "assist",
+    "meaning": "助ける",
+    "example": "They assist the team.",
+    "example_jp": "彼らはチームを助ける。"
+  },
+  {
+    "word": "assist",
+    "meaning": "助ける",
+    "example": "He assists in cooking.",
+    "example_jp": "彼は料理を助ける。"
+  },
+  {
+    "word": "aid",
+    "meaning": "支援",
+    "example": "They sent aid to the town.",
+    "example_jp": "彼らは町に支援を送った。"
+  },
+  {
+    "word": "aid",
+    "meaning": "救援物資",
+    "example": "The group gave aid.",
+    "example_jp": "そのグループは救援物資を与えた。"
+  },
+  {
+    "word": "aid",
+    "meaning": "援助する",
+    "example": "They aid the sick.",
+    "example_jp": "彼らは病人を援助する。"
+  },
+  {
+    "word": "governor",
+    "meaning": "知事",
+    "example": "The governor spoke today.",
+    "example_jp": "知事が今日、話をした。"
+  },
+  {
+    "word": "governor",
+    "meaning": "支配者",
+    "example": "He was a strict governor.",
+    "example_jp": "彼は厳しい支配者だった。"
+  },
+  {
+    "word": "last",
+    "meaning": "最後の",
+    "example": "This is the last chance.",
+    "example_jp": "これが最後のチャンスだ。"
+  },
+  {
+    "word": "last",
+    "meaning": "この前の",
+    "example": "I saw him last week.",
+    "example_jp": "私はこの前の週に彼を見た。"
+  },
+  {
+    "word": "last",
+    "meaning": "続く",
+    "example": "The meeting will last an hour.",
+    "example_jp": "会議は1時間続くだろう。"
+  },
+  {
+    "word": "last",
+    "meaning": "長持ちする",
+    "example": "These shoes last long.",
+    "example_jp": "これらの靴は長持ちする。"
+  },
+  {
+    "word": "term",
+    "meaning": "用語",
+    "example": "“Cell” is a science term.",
+    "example_jp": "「細胞」は科学用語だ。"
+  },
+  {
+    "word": "term",
+    "meaning": "学期",
+    "example": "The new term starts soon.",
+    "example_jp": "新学期がもうすぐ始まる。"
+  },
+  {
+    "word": "term",
+    "meaning": "任期",
+    "example": "Her term ends next year.",
+    "example_jp": "彼女の任期は来年終わる。"
+  },
+  {
+    "word": "term",
+    "meaning": "条件",
+    "example": "They agreed on the terms.",
+    "example_jp": "彼らは条件に合意した。"
+  },
+  {
+    "word": "term",
+    "meaning": "間柄",
+    "example": "They are on good terms.",
+    "example_jp": "彼らは良い間柄だ。"
+  },
+  {
+    "word": "semester",
+    "meaning": "学期",
+    "example": "The semester begins in April.",
+    "example_jp": "学期は4月に始まる。"
+  },
+  {
+    "word": "terminal",
+    "meaning": "末期の",
+    "example": "He has a terminal illness.",
+    "example_jp": "彼は末期の病気を患っている。"
+  },
+  {
+    "word": "terminal",
+    "meaning": "発着場",
+    "example": "We met at the bus terminal.",
+    "example_jp": "私たちはバスターミナル（発着場）で会った。"
+  },
+  {
+    "word": "terminal",
+    "meaning": "終着地",
+    "example": "This is the last terminal.",
+    "example_jp": "これが最後の終着地だ。"
+  },
+  {
+    "word": "duration",
+    "meaning": "継続期間",
+    "example": "The duration was short.",
+    "example_jp": "継続期間は短かった。"
+  },
+  {
+    "word": "deadline",
+    "meaning": "締切",
+    "example": "The deadline is tomorrow.",
+    "example_jp": "締切は明日だ。"
+  },
+  {
+    "word": "seek",
+    "meaning": "探し求める",
+    "example": "They seek help.",
+    "example_jp": "彼らは助けを探し求める。"
+  },
+  {
+    "word": "seek",
+    "meaning": "得ようとする",
+    "example": "She seeks a new job.",
+    "example_jp": "彼女は新しい仕事を得ようとする。"
+  },
+  {
+    "word": "seek",
+    "meaning": "…しようと努める",
+    "example": "He seeks to learn more.",
+    "example_jp": "彼はもっと学ぼうと努める。"
+  },
+  {
+    "word": "strive",
+    "meaning": "努力する",
+    "example": "They strive for peace.",
+    "example_jp": "彼らは平和のために努力する。"
+  },
+  {
+    "word": "strive",
+    "meaning": "努力する",
+    "example": "She strives to improve.",
+    "example_jp": "彼女は向上するために努力する。"
+  },
+  {
+    "word": "inquiry",
+    "meaning": "問い合わせ",
+    "example": "We made an inquiry.",
+    "example_jp": "私たちは問い合わせをした。"
+  },
+  {
+    "word": "inquiry",
+    "meaning": "調査",
+    "example": "The police began an inquiry.",
+    "example_jp": "警察は調査を始めた。"
+  },
+  {
+    "word": "subsequently",
+    "meaning": "それに続いて",
+    "example": "He left, and subsequently called.",
+    "example_jp": "彼は去り、それに続いて電話をかけてきた。"
+  },
+  {
+    "word": "subsequently",
+    "meaning": "後で",
+    "example": "She moved, and subsequently worked there.",
+    "example_jp": "彼女は引っ越し、後でそこで働いた。"
+  },
+  {
+    "word": "advertise",
+    "meaning": "広告する",
+    "example": "They advertise the product.",
+    "example_jp": "彼らは製品を広告する。"
+  },
+  {
+    "word": "honest",
+    "meaning": "正直な",
+    "example": "She is honest with me.",
+    "example_jp": "彼女は私に対して正直だ。"
+  },
+  {
+    "word": "honest",
+    "meaning": "率直な",
+    "example": "He gave an honest answer.",
+    "example_jp": "彼は率直な答えを出した。"
+  },
+  {
+    "word": "honor",
+    "meaning": "名誉",
+    "example": "It is an honor to meet you.",
+    "example_jp": "あなたにお会いできて名誉です。"
+  },
+  {
+    "word": "honor",
+    "meaning": "敬意",
+    "example": "They showed honor to him.",
+    "example_jp": "彼らは彼に敬意を示した。"
+  },
+  {
+    "word": "honor",
+    "meaning": "尊敬する",
+    "example": "We honor our teacher.",
+    "example_jp": "私たちは先生を尊敬する。"
+  },
+  {
+    "word": "reputation",
+    "meaning": "名声",
+    "example": "She has a good reputation.",
+    "example_jp": "彼女には良い名声がある。"
+  },
+  {
+    "word": "reputation",
+    "meaning": "評判",
+    "example": "The shop has a bad reputation.",
+    "example_jp": "その店は評判が悪い。"
+  },
+  {
+    "word": "celebrity",
+    "meaning": "著名人",
+    "example": "He is a famous celebrity.",
+    "example_jp": "彼は有名な著名人だ。"
+  },
+  {
+    "word": "celebrity",
+    "meaning": "名声",
+    "example": "She gained celebrity.",
+    "example_jp": "彼女は名声を得た。"
+  },
+  {
+    "word": "compliment",
+    "meaning": "ほめ言葉",
+    "example": "He gave me a compliment.",
+    "example_jp": "彼は私にほめ言葉をくれた。"
+  },
+  {
+    "word": "compliment",
+    "meaning": "お世辞",
+    "example": "She liked the compliment.",
+    "example_jp": "彼女はそのお世辞を気に入った。"
+  },
+  {
+    "word": "compliment",
+    "meaning": "ほめる",
+    "example": "They compliment her work.",
+    "example_jp": "彼らは彼女の仕事をほめる。"
+  },
+  {
+    "word": "innocent",
+    "meaning": "無実の",
+    "example": "He is innocent.",
+    "example_jp": "彼は無実だ。"
+  },
+  {
+    "word": "innocent",
+    "meaning": "無邪気な",
+    "example": "The child looks innocent.",
+    "example_jp": "その子供は無邪気に見える。"
+  },
+  {
+    "word": "opponent",
+    "meaning": "相手",
+    "example": "He is my opponent.",
+    "example_jp": "彼は私の相手だ。"
+  },
+  {
+    "word": "opponent",
+    "meaning": "敵",
+    "example": "They faced a strong opponent.",
+    "example_jp": "彼らは強力な敵に直面した。"
+  },
+  {
+    "word": "opponent",
+    "meaning": "反対者",
+    "example": "She is an opponent of the plan.",
+    "example_jp": "彼女はその計画の反対者だ。"
+  },
+  {
+    "word": "illegal",
+    "meaning": "違法の",
+    "example": "It is illegal to do that.",
+    "example_jp": "それをすることは違法だ。"
+  },
+  {
+    "word": "justify",
+    "meaning": "正当化する",
+    "example": "He tried to justify his act.",
+    "example_jp": "彼は自分の行為を正当化しようとした。"
+  },
+  {
+    "word": "mislead",
+    "meaning": "誤解させる",
+    "example": "The sign may mislead people.",
+    "example_jp": "その看板は人々を誤解させるかもしれない。"
+  },
+  {
+    "word": "mislead",
+    "meaning": "誤って導く",
+    "example": "The map misled us.",
+    "example_jp": "その地図は私たちを誤って導いた。"
+  },
+  {
+    "word": "confuse",
+    "meaning": "当惑させる",
+    "example": "The story confused me.",
+    "example_jp": "その話は私を当惑させた。"
+  },
+  {
+    "word": "confuse",
+    "meaning": "混同する",
+    "example": "Don’t confuse the words.",
+    "example_jp": "それらの言葉を混同してはいけない。"
+  },
+  {
+    "word": "ad",
+    "meaning": "広告",
+    "example": "I saw an ad online.",
+    "example_jp": "私はオンラインで広告を見た。"
+  },
+  {
+    "word": "consequently",
+    "meaning": "その結果",
+    "example": "It rained; consequently, we stayed home.",
+    "example_jp": "雨が降った、その結果、私たちは家にいた。"
+  },
+  {
+    "word": "consequence",
+    "meaning": "結果",
+    "example": "This is a natural consequence.",
+    "example_jp": "これは自然な結果だ。"
+  },
+  {
+    "word": "consequence",
+    "meaning": "重要性",
+    "example": "The issue has great consequence.",
+    "example_jp": "その問題には大きな重要性がある。"
+  },
+  {
+    "word": "boast",
+    "meaning": "自慢げに言う",
+    "example": "He boasts his skills.",
+    "example_jp": "彼は自分のスキルを自慢げに言う。"
+  },
+  {
+    "word": "boast",
+    "meaning": "自慢する",
+    "example": "She boasts of her team.",
+    "example_jp": "彼女は自分のチームを自慢する。"
+  },
+  {
+    "word": "boast",
+    "meaning": "誇る",
+    "example": "The town boasts a big park.",
+    "example_jp": "その町は大きな公園を誇っている。"
+  },
+  {
+    "word": "exaggerate",
+    "meaning": "誇張する",
+    "example": "Don’t exaggerate the story.",
+    "example_jp": "その話を誇張してはいけない。"
+  },
+  {
+    "word": "recommend",
+    "meaning": "推薦する",
+    "example": "I recommend this book.",
+    "example_jp": "私はこの本を推薦する。"
+  },
+  {
+    "word": "recommend",
+    "meaning": "勧める",
+    "example": "They recommend rest.",
+    "example_jp": "彼らは休息を勧める。"
+  },
+  {
+    "word": "advocate",
+    "meaning": "提唱者",
+    "example": "She is an advocate for peace.",
+    "example_jp": "彼女は平和の提唱者だ。"
+  },
+  {
+    "word": "advocate",
+    "meaning": "支援者",
+    "example": "He is an advocate of rights.",
+    "example_jp": "彼は権利の支援者だ。"
+  },
+  {
+    "word": "advocate",
+    "meaning": "提唱する",
+    "example": "They advocate change.",
+    "example_jp": "彼らは変化を提唱する。"
+  },
+  {
+    "word": "pill",
+    "meaning": "錠剤",
+    "example": "Take one pill a day.",
+    "example_jp": "1日に1錠、錠剤を飲みなさい。"
+  },
+  {
+    "word": "pill",
+    "meaning": "ピル",
+    "example": "She takes a birth-control pill.",
+    "example_jp": "彼女は経口避妊薬（ピル）を飲んでいる。"
+  },
+  {
+    "word": "cure",
+    "meaning": "治療する",
+    "example": "The doctor cured him.",
+    "example_jp": "医師は彼を治療した。"
+  },
+  {
+    "word": "cure",
+    "meaning": "治療",
+    "example": "They found a cure.",
+    "example_jp": "彼らは治療法を見つけた。"
+  },
+  {
+    "word": "heal",
+    "meaning": "治す",
+    "example": "The doctor healed the cut.",
+    "example_jp": "医師は切り傷を治した。"
+  },
+  {
+    "word": "heal",
+    "meaning": "治る",
+    "example": "The wound will heal soon.",
+    "example_jp": "傷はすぐに治るだろう。"
+  },
+  {
+    "word": "factual",
+    "meaning": "事実の",
+    "example": "This is a factual report.",
+    "example_jp": "これは事実の報告だ。"
+  },
+  {
+    "word": "factual",
+    "meaning": "事実に基づいた",
+    "example": "The book is factual.",
+    "example_jp": "その本は事実に基づいている。"
+  },
+  {
+    "word": "corporation",
+    "meaning": "企業",
+    "example": "He works for a big corporation.",
+    "example_jp": "彼は大きな企業で働いている。"
+  },
+  {
+    "word": "corporation",
+    "meaning": "株式会社",
+    "example": "The corporation grew fast.",
+    "example_jp": "その株式会社は急速に成長した。"
+  },
+  {
+    "word": "corporation",
+    "meaning": "法人",
+    "example": "It is a legal corporation.",
+    "example_jp": "それは法的な法人だ。"
+  },
+  {
+    "word": "enterprise",
+    "meaning": "企業",
+    "example": "She started a new enterprise.",
+    "example_jp": "彼女は新しい企業を始めた。"
+  },
+  {
+    "word": "enterprise",
+    "meaning": "事業",
+    "example": "The enterprise grew quickly.",
+    "example_jp": "その事業は急速に拡大した。"
+  },
+  {
+    "word": "enterprise",
+    "meaning": "企て",
+    "example": "It was a bold enterprise.",
+    "example_jp": "それは大胆な企てだった。"
+  },
+  {
+    "word": "pioneer",
+    "meaning": "開拓者",
+    "example": "He is a tech pioneer.",
+    "example_jp": "彼は技術の開拓者だ。"
+  },
+  {
+    "word": "pioneer",
+    "meaning": "先駆者",
+    "example": "She is a pioneer in AI.",
+    "example_jp": "彼女はAIの先駆者だ。"
+  },
+  {
+    "word": "entrepreneur",
+    "meaning": "起業家",
+    "example": "He is a young entrepreneur.",
+    "example_jp": "彼は若い起業家だ。"
+  }
+]

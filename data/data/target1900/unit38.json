@@ -1,0 +1,410 @@
+[
+  {
+    "word": "eclipse",
+    "meaning": "（日食・月食などの）食",
+    "example": "We watched the total solar eclipse through special glasses.",
+    "example_jp": "私たちは専用のメガネを通して皆既日食を観察した。"
+  },
+  {
+    "word": "eclipse",
+    "meaning": "（名声などの）失墜",
+    "example": "The scandal led to the eclipse of his political career.",
+    "example_jp": "そのスキャンダルは彼の政治家としてのキャリアの失墜を招いた。"
+  },
+  {
+    "word": "basin",
+    "meaning": "流域，盆地，海盆",
+    "example": "The Amazon Basin is home to the world's largest rainforest.",
+    "example_jp": "アマゾン川流域には世界最大の熱帯雨林がある。"
+  },
+  {
+    "word": "basin",
+    "meaning": "洗面器",
+    "example": "He filled the basin with warm water to wash his face.",
+    "example_jp": "彼は顔を洗うために洗面器にぬるま湯をためた。"
+  },
+  {
+    "word": "erosion",
+    "meaning": "浸食，衰退",
+    "example": "Wind and rain caused severe soil erosion on the hillside.",
+    "example_jp": "風雨が山腹に深刻な土壌浸食を引き起こした。"
+  },
+  {
+    "word": "archaeology",
+    "meaning": "考古学",
+    "example": "She decided to study archaeology to learn about ancient civilizations.",
+    "example_jp": "彼女は古代文明について学ぶために考古学を専攻することにした。"
+  },
+  {
+    "word": "errand",
+    "meaning": "使い，用件",
+    "example": "I have a few errands to run at the post office and the bank.",
+    "example_jp": "郵便局と銀行にいくつか用事（使い走り）がある。"
+  },
+  {
+    "word": "mercy",
+    "meaning": "慈悲",
+    "example": "The prisoner begged for mercy from the king.",
+    "example_jp": "囚人は王に慈悲を乞うた。"
+  },
+  {
+    "word": "mercy",
+    "meaning": "幸運",
+    "example": "It's a mercy that nobody was hurt in the accident.",
+    "example_jp": "その事故で誰も怪我をしなかったのは幸運だった。"
+  },
+  {
+    "word": "rhetoric",
+    "meaning": "修辞（法），美辞麗句",
+    "example": "The politician's speech was full of empty rhetoric.",
+    "example_jp": "その政治家の演説は内容のない美辞麗句ばかりだった。"
+  },
+  {
+    "word": "verse",
+    "meaning": "韻文，詩",
+    "example": "The book is written in elegant verse.",
+    "example_jp": "その本は優雅な韻文（詩）で書かれている。"
+  },
+  {
+    "word": "congestion",
+    "meaning": "混雑",
+    "example": "The heavy traffic caused serious congestion in the city center.",
+    "example_jp": "激しい交通量が都心に深刻な混雑を引き起こした。"
+  },
+  {
+    "word": "sewage",
+    "meaning": "下水",
+    "example": "The city needs a new system to treat raw sewage.",
+    "example_jp": "市は未処理の下水を処理するための新しいシステムを必要としている。"
+  },
+  {
+    "word": "complement",
+    "meaning": "補完物，補足",
+    "example": "This red wine is a perfect complement to the steak.",
+    "example_jp": "この赤ワインはステーキの補完物（付け合わせ）として完璧だ。"
+  },
+  {
+    "word": "complement",
+    "meaning": "補語",
+    "example": "In this sentence, the adjective acts as a complement.",
+    "example_jp": "この文では、形容詞が補語として機能している。"
+  },
+  {
+    "word": "subsidy",
+    "meaning": "補助金，報奨金",
+    "example": "The government provided a subsidy to the local farmers.",
+    "example_jp": "政府は地元の農家に補助金を提供した。"
+  },
+  {
+    "word": "mortgage",
+    "meaning": "住宅ローン，抵当",
+    "example": "They took out a 30-year mortgage to buy their first house.",
+    "example_jp": "彼らは初めての家を買うために30年の住宅ローンを組んだ。"
+  },
+  {
+    "word": "attorney",
+    "meaning": "弁護士，代理人",
+    "example": "You should consult an attorney before signing the contract.",
+    "example_jp": "契約書に署名する前に弁護士に相談すべきだ。"
+  },
+  {
+    "word": "outfit",
+    "meaning": "衣装一式",
+    "example": "She bought a new outfit for her best friend's wedding.",
+    "example_jp": "彼女は親友の結婚式のために新しい衣装一式を買った。"
+  },
+  {
+    "word": "outfit",
+    "meaning": "装備・道具一式",
+    "example": "He bought a high-quality camping outfit for the trip.",
+    "example_jp": "彼は旅行のために高品質なキャンプ用装備一式を購入した。"
+  },
+  {
+    "word": "outfit",
+    "meaning": "組織",
+    "example": "The rescue outfit worked around the clock to find the survivors.",
+    "example_jp": "その救助組織は生存者を見つけるために24時間体制で働いた。"
+  },
+  {
+    "word": "bulk",
+    "meaning": "大半",
+    "example": "The bulk of the work has already been completed.",
+    "example_jp": "仕事の大半はすでに完了している。"
+  },
+  {
+    "word": "bulk",
+    "meaning": "大きさ，大量",
+    "example": "The sheer bulk of the ocean liner was impressive.",
+    "example_jp": "そのオーシャンライナーのとてつもない大きさは圧巻だった。"
+  },
+  {
+    "word": "reunion",
+    "meaning": "再会，再結合",
+    "example": "The school reunion was a great chance to see old friends.",
+    "example_jp": "同窓会（再会の集い）は旧友に会う絶好の機会だった。"
+  },
+  {
+    "word": "synthesis",
+    "meaning": "合成，総合",
+    "example": "The report is a synthesis of data from various sources.",
+    "example_jp": "その報告書は様々な情報源からのデータを総合したものだ。"
+  },
+  {
+    "word": "mold",
+    "meaning": "鋳型，鋳物",
+    "example": "He poured the molten metal into the mold.",
+    "example_jp": "彼は溶けた金属を鋳型に流し込んだ。"
+  },
+  {
+    "word": "mold",
+    "meaning": "性格",
+    "example": "The young leader was cast in a different mold than his predecessor.",
+    "example_jp": "若きリーダーは前任者とは異なる性格（タイプ）の持ち主だった。"
+  },
+  {
+    "word": "mold",
+    "meaning": "かび",
+    "example": "There was green mold growing on the old bread.",
+    "example_jp": "古いパンに緑色のかびが生えていた。"
+  },
+  {
+    "word": "thirst",
+    "meaning": "のどの渇き，渇望",
+    "example": "The climbers had a strong thirst after the long hike.",
+    "example_jp": "登山者たちは長いハイキングの後で強いのどの渇きを覚えた。"
+  },
+  {
+    "word": "greed",
+    "meaning": "強欲",
+    "example": "The company's failure was caused by pure greed.",
+    "example_jp": "その会社の失敗は純粋な強欲によって引き起こされた。"
+  },
+  {
+    "word": "bribe",
+    "meaning": "賄賂",
+    "example": "The official was arrested for accepting a large bribe.",
+    "example_jp": "その役人は多額の賄賂を受け取ったことで逮捕された。"
+  },
+  {
+    "word": "contempt",
+    "meaning": "軽蔑",
+    "example": "He showed utter contempt for the new safety rules.",
+    "example_jp": "彼は新しい安全規則に対して全くの軽蔑を示した。"
+  },
+  {
+    "word": "contempt",
+    "meaning": "恥辱",
+    "example": "He was held in contempt of court for his behavior.",
+    "example_jp": "彼はその振る舞いにより法廷侮辱（恥辱）罪に問われた。"
+  },
+  {
+    "word": "texture",
+    "meaning": "感触，手触り，質感",
+    "example": "I like the smooth texture of this silk scarf.",
+    "example_jp": "このシルクのスカーフのスムーズな手触りが好きだ。"
+  },
+  {
+    "word": "texture",
+    "meaning": "本質",
+    "example": "The music has a rich and complex texture.",
+    "example_jp": "その音楽には豊かで複雑な本質（構成）がある。"
+  },
+  {
+    "word": "orphan",
+    "meaning": "孤児",
+    "example": "The girl became an orphan after losing her parents in the war.",
+    "example_jp": "その少女は戦争で両親を亡くし、孤児になった。"
+  },
+  {
+    "word": "harassment",
+    "meaning": "嫌がらせ，ハラスメント",
+    "example": "The company has a zero-tolerance policy for sexual harassment.",
+    "example_jp": "その会社はセクシャルハラスメントに対して一切容認しない方針をとっている。"
+  },
+  {
+    "word": "hay",
+    "meaning": "干し草",
+    "example": "The farmer stacked the hay in the barn for the winter.",
+    "example_jp": "農家は冬に備えて納屋に干し草を積み上げた。"
+  },
+  {
+    "word": "doctrine",
+    "meaning": "教義，主義",
+    "example": "He spent years studying the religious doctrine of the church.",
+    "example_jp": "彼は教会の宗教的教義を何年もかけて研究した。"
+  },
+  {
+    "word": "holistic",
+    "meaning": "全体論の，ホリスティックの",
+    "example": "The clinic offers a holistic approach to healthcare.",
+    "example_jp": "そのクリニックは、ヘルスケアに対してホリスティック（全体論的）なアプローチを提供している。"
+  },
+  {
+    "word": "liable",
+    "meaning": "しがちな，受けやすい",
+    "example": "In cold weather, the pipes are liable to freeze.",
+    "example_jp": "寒い気候では、水道管は凍結しやすい。"
+  },
+  {
+    "word": "liable",
+    "meaning": "責任がある",
+    "example": "You are liable for any damage caused to the rental car.",
+    "example_jp": "レンタカーに生じた損害については、あなたに責任がある。"
+  },
+  {
+    "word": "earnest",
+    "meaning": "まじめな，熱心な",
+    "example": "He made an earnest effort to improve his grades.",
+    "example_jp": "彼は成績を上げるためにまじめな努力をした。"
+  },
+  {
+    "word": "intelligible",
+    "meaning": "理解できる",
+    "example": "The explanation was simple and perfectly intelligible.",
+    "example_jp": "その説明は単純で、完全に理解できるものだった。"
+  },
+  {
+    "word": "abrupt",
+    "meaning": "突然の",
+    "example": "The bus came to an abrupt stop at the traffic light.",
+    "example_jp": "バスは信号で突然止まった。"
+  },
+  {
+    "word": "reckless",
+    "meaning": "無謀な",
+    "example": "His reckless driving put everyone in the car at risk.",
+    "example_jp": "彼の無謀な運転は同乗者全員を危険にさらした。"
+  },
+  {
+    "word": "furious",
+    "meaning": "激怒した",
+    "example": "My father was furious when he saw the broken window.",
+    "example_jp": "父は割れた窓を見て激怒した。"
+  },
+  {
+    "word": "furious",
+    "meaning": "猛烈な",
+    "example": "The boat struggled against the furious waves of the ocean.",
+    "example_jp": "ボートは海の猛烈な波に立ち向かうのに苦労した。"
+  },
+  {
+    "word": "eloquent",
+    "meaning": "雄弁な，説得力のある",
+    "example": "She gave an eloquent speech that moved the entire audience.",
+    "example_jp": "彼女は聴衆全員を感動させる雄弁な演説を行った。"
+  },
+  {
+    "word": "juvenile",
+    "meaning": "青少年の",
+    "example": "The city is working to reduce juvenile delinquency.",
+    "example_jp": "市は青少年犯罪の削減に取り組んでいる。"
+  },
+  {
+    "word": "notorious",
+    "meaning": "悪名高い",
+    "example": "The area is notorious for its high crime rate.",
+    "example_jp": "その地域は犯罪率が高いことで悪名高い。"
+  },
+  {
+    "word": "timid",
+    "meaning": "臆病な，内気な",
+    "example": "He was too timid to ask a question in class.",
+    "example_jp": "彼は内気すぎてクラスで質問することができなかった。"
+  },
+  {
+    "word": "humid",
+    "meaning": "湿気のある",
+    "example": "The air in Tokyo is very hot and humid in summer.",
+    "example_jp": "東京の夏は非常に蒸し暑い（湿気がある）。"
+  },
+  {
+    "word": "contagious",
+    "meaning": "感染（性）の",
+    "example": "Laughing is often said to be contagious.",
+    "example_jp": "笑いはしばしば伝染する（感染性がある）と言われる。"
+  },
+  {
+    "word": "cynical",
+    "meaning": "冷笑的な，皮肉な",
+    "example": "He has a cynical view of politics and doesn't trust any leader.",
+    "example_jp": "彼は政治に対して冷笑的な見方をしており、どのリーダーも信頼していない。"
+  },
+  {
+    "word": "dumb",
+    "meaning": "ばかげた",
+    "example": "That was a dumb mistake to make on such an easy test.",
+    "example_jp": "あんなに簡単なテストでそんなばかげたミスをするなんて。"
+  },
+  {
+    "word": "dumb",
+    "meaning": "無言の，口のきけない",
+    "example": "He stood dumb with shock after hearing the news.",
+    "example_jp": "その知らせを聞いて、彼はショックで無言のまま立ち尽くした。"
+  },
+  {
+    "word": "monotonous",
+    "meaning": "単調な",
+    "example": "Factory work can be quite monotonous after a while.",
+    "example_jp": "工場の仕事は、しばらくするとかなり単調に感じることがある。"
+  },
+  {
+    "word": "perpetual",
+    "meaning": "永続的な，ひっきりなしの",
+    "example": "They lived in perpetual fear of another earthquake.",
+    "example_jp": "彼らはまた地震が来るのではないかという永続的な（絶え間ない）恐怖の中で暮らしていた。"
+  },
+  {
+    "word": "dizzy",
+    "meaning": "目まいがする",
+    "example": "The spinning ride made me feel dizzy.",
+    "example_jp": "回転する乗り物で目まいがした。"
+  },
+  {
+    "word": "dizzy",
+    "meaning": "当惑した",
+    "example": "The complexity of the instructions left her dizzy.",
+    "example_jp": "指示の複雑さに彼女は当惑した（目が回る思いだった）。"
+  },
+  {
+    "word": "weary",
+    "meaning": "疲れ果てた",
+    "example": "The travelers were weary after their long journey.",
+    "example_jp": "旅人たちは長い旅の末に疲れ果てていた。"
+  },
+  {
+    "word": "weary",
+    "meaning": "うんざりした",
+    "example": "I'm becoming weary of his constant complaints.",
+    "example_jp": "彼の絶え間ない不平にはうんざりしてきている。"
+  },
+  {
+    "word": "numb",
+    "meaning": "麻痺した，無感覚な",
+    "example": "My fingers were numb with cold.",
+    "example_jp": "寒さで指の感覚がなくなった（麻痺した）。"
+  },
+  {
+    "word": "numb",
+    "meaning": "ぼう然とした",
+    "example": "She was numb with grief after her friend died.",
+    "example_jp": "友人が亡くなった後、彼女は悲しみでぼう然としていた。"
+  },
+  {
+    "word": "mortal",
+    "meaning": "致命的な",
+    "example": "The soldier suffered a mortal wound in the battle.",
+    "example_jp": "兵士は戦闘で致命的な傷を負った。"
+  },
+  {
+    "word": "mortal",
+    "meaning": "死すべき運命の",
+    "example": "All human beings are mortal.",
+    "example_jp": "すべての人間は死すべき運命にある。"
+  },
+  {
+    "word": "zealous",
+    "meaning": "熱心な，熱狂的な",
+    "example": "He is a zealous supporter of environmental protection.",
+    "example_jp": "彼は環境保護の熱心な支持者だ。"
+  }
+]

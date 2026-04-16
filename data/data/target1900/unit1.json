@@ -1,0 +1,458 @@
+[
+  {
+    "word": "create",
+    "meaning": "を創り出す",
+    "example": "He wants to create a new app.",
+    "example_jp": "彼は新しいアプリを創り出したいと思っている。"
+  },
+  {
+    "word": "create",
+    "meaning": "を引き起こす",
+    "example": "The heavy rain created many problems.",
+    "example_jp": "大雨が多くの問題を引き起こした。"
+  },
+  {
+    "word": "increase",
+    "meaning": "増加する・を増やす",
+    "example": "Sales increased by ten percent this year.",
+    "example_jp": "今年の売上は10パーセント増加した。"
+  },
+  {
+    "word": "improve",
+    "meaning": "を向上させる・よくなる",
+    "example": "I need to improve my English skills.",
+    "example_jp": "私は英語力を向上させる必要がある。"
+  },
+  {
+    "word": "mean",
+    "meaning": "を意味する",
+    "example": "What does this word mean?",
+    "example_jp": "この単語はどういう意味ですか。"
+  },
+  {
+    "word": "mean",
+    "meaning": "（...する）つもりである",
+    "example": "I didn't mean to hurt your feelings.",
+    "example_jp": "あなたの感情を傷つけるつもりはなかった。"
+  },
+  {
+    "word": "own",
+    "meaning": "を所有している",
+    "example": "She owns a small bookstore in town.",
+    "example_jp": "彼女は町で小さな書店を所有している。"
+  },
+  {
+    "word": "own",
+    "meaning": "（事実・罪など）を認める",
+    "example": "He owned that he had made a mistake.",
+    "example_jp": "彼は自分が間違いを犯したことを認めた。"
+  },
+  {
+    "word": "include",
+    "meaning": "を含む",
+    "example": "The price includes tax.",
+    "example_jp": "価格には税金が含まれています。"
+  },
+  {
+    "word": "consider",
+    "meaning": "を見なす",
+    "example": "We consider him a great leader.",
+    "example_jp": "私たちは彼を偉大なリーダーだと見なしている。"
+  },
+  {
+    "word": "consider",
+    "meaning": "について考える",
+    "example": "Please consider my offer.",
+    "example_jp": "私の申し出について考えてみてください。"
+  },
+  {
+    "word": "allow",
+    "meaning": "を許す・を与える",
+    "example": "My parents allowed me to go abroad.",
+    "example_jp": "両親は私が留学することを許してくれた。"
+  },
+  {
+    "word": "allow",
+    "meaning": "（～を）考慮に入れる",
+    "example": "You should allow for traffic delays.",
+    "example_jp": "交通の遅れを考慮に入れておくべきだ。"
+  },
+  {
+    "word": "suggest",
+    "meaning": "を提案する",
+    "example": "I suggest we take a break now.",
+    "example_jp": "今は休憩することを提案します。"
+  },
+  {
+    "word": "suggest",
+    "meaning": "を暗示する",
+    "example": "The evidence suggests that he is innocent.",
+    "example_jp": "その証拠は、彼が潔白であることを暗示している。"
+  },
+  {
+    "word": "produce",
+    "meaning": "を生産する",
+    "example": "This factory produces car parts.",
+    "example_jp": "この工場は車の部品を生産している。"
+  },
+  {
+    "word": "produce",
+    "meaning": "を取り出す",
+    "example": "She produced a key from her pocket.",
+    "example_jp": "彼女はポケットから鍵を取り出した。"
+  },
+  {
+    "word": "decide",
+    "meaning": "を決める・に決着をつける",
+    "example": "I decided to study abroad.",
+    "example_jp": "私は留学することに決めた。"
+  },
+  {
+    "word": "offer",
+    "meaning": "を提供する・申し出る",
+    "example": "They offered me a job.",
+    "example_jp": "彼らは私に仕事を提供してくれた。"
+  },
+  {
+    "word": "require",
+    "meaning": "を要求する・を必要とする",
+    "example": "This job requires a lot of patience.",
+    "example_jp": "この仕事には多大な忍耐が必要だ。"
+  },
+  {
+    "word": "share",
+    "meaning": "を共有する・を分担する",
+    "example": "We shared the costs of the trip.",
+    "example_jp": "私たちは旅行の費用を分担した。"
+  },
+  {
+    "word": "store",
+    "meaning": "を保存する・を蓄える",
+    "example": "You can store your luggage here.",
+    "example_jp": "ここに荷物を保存（保管）できます。"
+  },
+  {
+    "word": "tend",
+    "meaning": "傾向がある",
+    "example": "I tend to sleep late on weekends.",
+    "example_jp": "私は週末に遅くまで寝る傾向がある。"
+  },
+  {
+    "word": "tend",
+    "meaning": "を世話する",
+    "example": "She carefully tended the garden.",
+    "example_jp": "彼女は丹念に庭の手入れ（世話）をした。"
+  },
+  {
+    "word": "concern",
+    "meaning": "心配している",
+    "example": "We are concerned about your health.",
+    "example_jp": "私たちはあなたの健康を心配している。"
+  },
+  {
+    "word": "concern",
+    "meaning": "関係する・に関連する",
+    "example": "This matter concerns everyone in the office.",
+    "example_jp": "この件はオフィスの全員に関係する。"
+  },
+  {
+    "word": "describe",
+    "meaning": "について述べる・を説明する",
+    "example": "Can you describe the man you saw?",
+    "example_jp": "あなたが見た男の特徴を説明してくれますか。"
+  },
+  {
+    "word": "involve",
+    "meaning": "を関与させる・を伴う",
+    "example": "The project involves a lot of hard work.",
+    "example_jp": "そのプロジェクトは多くの重労働を伴う。"
+  },
+  {
+    "word": "reduce",
+    "meaning": "を減らす",
+    "example": "We must reduce the amount of waste.",
+    "example_jp": "私たちはゴミの量を減らさなければならない。"
+  },
+  {
+    "word": "reduce",
+    "meaning": "を（～に）変える",
+    "example": "The fire reduced the building to ashes.",
+    "example_jp": "火災はその建物を灰に変えた（灰にした）。"
+  },
+  {
+    "word": "design",
+    "meaning": "を設計する・を計画する",
+    "example": "He designed a new building for the city.",
+    "example_jp": "彼はその市のために新しいビルを設計した。"
+  },
+  {
+    "word": "force",
+    "meaning": "に強いる・を強要する",
+    "example": "They forced him to sign the document.",
+    "example_jp": "彼らは彼に書類への署名を強いた。"
+  },
+  {
+    "word": "limit",
+    "meaning": "を制限［規制］する",
+    "example": "We should limit our spending this month.",
+    "example_jp": "今月は支出を制限すべきだ。"
+  },
+  {
+    "word": "bear",
+    "meaning": "に耐える・を負う",
+    "example": "I can't bear this noise any longer.",
+    "example_jp": "これ以上この騒音には耐えられない。"
+  },
+  {
+    "word": "bear",
+    "meaning": "を産む",
+    "example": "She has borne three children.",
+    "example_jp": "彼女は3人の子供を産んだ。"
+  },
+  {
+    "word": "bear",
+    "meaning": "を（心に）抱く",
+    "example": "Please bear in mind what I said.",
+    "example_jp": "私の言ったことを心に留めて（抱いて）おいてください。"
+  },
+  {
+    "word": "affect",
+    "meaning": "に影響を及ぼす",
+    "example": "The weather affected our travel plans.",
+    "example_jp": "天気が私たちの旅行計画に影響を及ぼした。"
+  },
+  {
+    "word": "affect",
+    "meaning": "を感動させる",
+    "example": "His speech deeply affected the audience.",
+    "example_jp": "彼のスピーチは聴衆を深く感動させた。"
+  },
+  {
+    "word": "deal",
+    "meaning": "を処理する",
+    "example": "How should we deal with this problem?",
+    "example_jp": "この問題にどう対処（処理）すべきでしょうか。"
+  },
+  {
+    "word": "deal",
+    "meaning": "を商う",
+    "example": "The shop deals in organic vegetables.",
+    "example_jp": "その店は有機野菜を商っている。"
+  },
+  {
+    "word": "deal",
+    "meaning": "を分配する",
+    "example": "The teacher dealt out the test papers.",
+    "example_jp": "先生はテスト用紙を分配した（配った）。"
+  },
+  {
+    "word": "avoid",
+    "meaning": "を避ける",
+    "example": "You should avoid eating too much sugar.",
+    "example_jp": "砂糖を摂りすぎるのは避けるべきだ。"
+  },
+  {
+    "word": "relate",
+    "meaning": "を関連づける・関連する",
+    "example": "It's difficult to relate the two events.",
+    "example_jp": "その2つの出来事を関連づけるのは難しい。"
+  },
+  {
+    "word": "realize",
+    "meaning": "に気づく",
+    "example": "I suddenly realized that I forgot my wallet.",
+    "example_jp": "財布を忘れたことに突然気づいた。"
+  },
+  {
+    "word": "realize",
+    "meaning": "を実現する",
+    "example": "She finally realized her dream of becoming a pilot.",
+    "example_jp": "彼女はついにパイロットになるという夢を実現した。"
+  },
+  {
+    "word": "encourage",
+    "meaning": "を奨励する・を励ます",
+    "example": "My teacher encouraged me to try again.",
+    "example_jp": "先生は私にもう一度挑戦するよう励ましてくれた。"
+  },
+  {
+    "word": "compare",
+    "meaning": "を比較する",
+    "example": "Compare this map with that one.",
+    "example_jp": "この地図をあちらのものと比較しなさい。"
+  },
+  {
+    "word": "compare",
+    "meaning": "を（～に）たとえる",
+    "example": "Life is often compared to a journey.",
+    "example_jp": "人生はしばしば旅にたとえられる。"
+  },
+  {
+    "word": "measure",
+    "meaning": "を測る",
+    "example": "He measured the width of the door.",
+    "example_jp": "彼はドアの幅を測った。"
+  },
+  {
+    "word": "measure",
+    "meaning": "を評価する",
+    "example": "Success is not always measured by money.",
+    "example_jp": "成功は必ずしもお金で評価される（測れる）ものではない。"
+  },
+  {
+    "word": "exist",
+    "meaning": "存在する・生存する",
+    "example": "Do you believe ghosts exist?",
+    "example_jp": "幽霊が存在すると信じますか。"
+  },
+  {
+    "word": "mark",
+    "meaning": "に印をつける・を示す",
+    "example": "I marked the important parts with a pen.",
+    "example_jp": "重要な部分にペンで印をつけた。"
+  },
+  {
+    "word": "mark",
+    "meaning": "に汚れをつける",
+    "example": "The coffee left a mark on the table.",
+    "example_jp": "コーヒーがテーブルに汚れ（跡）をつけた。"
+  },
+  {
+    "word": "challenge",
+    "meaning": "に異議を唱える",
+    "example": "No one challenged his decision.",
+    "example_jp": "誰一人として彼の決定に異議を唱えなかった。"
+  },
+  {
+    "word": "challenge",
+    "meaning": "（人）に挑む",
+    "example": "I challenged him to a game of chess.",
+    "example_jp": "私は彼にチェスの試合を挑んだ。"
+  },
+  {
+    "word": "depend",
+    "meaning": "頼る・～次第である",
+    "example": "The plan depends on the weather.",
+    "example_jp": "その計画は天気次第だ。"
+  },
+  {
+    "word": "object",
+    "meaning": "反対する",
+    "example": "Many people objected to the new law.",
+    "example_jp": "多くの人々がその新しい法律に反対した。"
+  },
+  {
+    "word": "demand",
+    "meaning": "を要求する",
+    "example": "The workers demanded a pay raise.",
+    "example_jp": "労働者たちは給与の引き上げを要求した。"
+  },
+  {
+    "word": "found",
+    "meaning": "を設立する",
+    "example": "The university was founded in 1920.",
+    "example_jp": "その大学は1920年に設立された。"
+  },
+  {
+    "word": "found",
+    "meaning": "（理論など）を築く",
+    "example": "His theory is founded on facts.",
+    "example_jp": "彼の理論は事実に築かれて（基づいて）いる。"
+  },
+  {
+    "word": "complete",
+    "meaning": "を完成させる・仕上げる",
+    "example": "It took two years to complete the building.",
+    "example_jp": "そのビルを完成させるのに2年かかった。"
+  },
+  {
+    "word": "idea",
+    "meaning": "考え・理解・概念",
+    "example": "I have an idea for a new story.",
+    "example_jp": "新しい物語についての考え（思いつき）がある。"
+  },
+  {
+    "word": "accord",
+    "meaning": "一致・合意・協定",
+    "example": "They reached an accord on the trade issue.",
+    "example_jp": "彼らは貿易問題について合意に達した。"
+  },
+  {
+    "word": "company",
+    "meaning": "会社",
+    "example": "She works for a large IT company.",
+    "example_jp": "彼女は大手IT会社で働いている。"
+  },
+  {
+    "word": "company",
+    "meaning": "仲間・一緒にいること",
+    "example": "I enjoy your company.",
+    "example_jp": "あなたと一緒にいることは楽しいです。"
+  },
+  {
+    "word": "interest",
+    "meaning": "興味",
+    "example": "He has a strong interest in history.",
+    "example_jp": "彼は歴史に強い興味を持っている。"
+  },
+  {
+    "word": "interest",
+    "meaning": "利子",
+    "example": "The bank pays very little interest.",
+    "example_jp": "その銀行はほとんど利子を払わない。"
+  },
+  {
+    "word": "interest",
+    "meaning": "利害",
+    "example": "This decision is in the public interest.",
+    "example_jp": "この決定は公共の利益（利害）にかなうものだ。"
+  },
+  {
+    "word": "research",
+    "meaning": "研究・調査",
+    "example": "She is doing research into cancer.",
+    "example_jp": "彼女はがんの研究をしている。"
+  },
+  {
+    "word": "cause",
+    "meaning": "原因・理由",
+    "example": "What was the cause of the fire?",
+    "example_jp": "火事の原因は何でしたか。"
+  },
+  {
+    "word": "cause",
+    "meaning": "大義",
+    "example": "They are fighting for a noble cause.",
+    "example_jp": "彼らは崇高な大義のために戦っている。"
+  },
+  {
+    "word": "reason",
+    "meaning": "理由・根拠",
+    "example": "Is there any reason for the delay?",
+    "example_jp": "遅延の理由は何かありますか。"
+  },
+  {
+    "word": "reason",
+    "meaning": "理性・分別",
+    "example": "Human beings are gifted with reason.",
+    "example_jp": "人間は理性を授かっている。"
+  },
+  {
+    "word": "effect",
+    "meaning": "影響・効果・結果",
+    "example": "The medicine had a positive effect.",
+    "example_jp": "その薬は良い効果があった。"
+  },
+  {
+    "word": "influence",
+    "meaning": "影響（力）",
+    "example": "My father had a big influence on me.",
+    "example_jp": "父は私に大きな影響を与えた。"
+  },
+  {
+    "word": "situation",
+    "meaning": "状況・立場",
+    "example": "The political situation is changing fast.",
+    "example_jp": "政治状況は急速に変化している。"
+  }
+]

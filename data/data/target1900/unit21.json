@@ -1,0 +1,380 @@
+[
+  {
+    "word": "negotiate",
+    "meaning": "交渉する，取り決める",
+    "example": "We need to negotiate a new contract with the supplier.",
+    "example_jp": "私たちは供給業者と新しい契約を交渉して取り決める必要がある。"
+  },
+  {
+    "word": "grasp",
+    "meaning": "を把握［理解］する",
+    "example": "It took me a while to grasp the main idea of the lecture.",
+    "example_jp": "講義の主要な概念を理解するのにしばらく時間がかかった。"
+  },
+  {
+    "word": "grasp",
+    "meaning": "をしっかり握る",
+    "example": "He grasped my hand firmly before he left.",
+    "example_jp": "彼は立ち去る前に、私の手をしっかりと握った。"
+  },
+  {
+    "word": "donate",
+    "meaning": "を寄付する，提供する",
+    "example": "They decided to donate some money to the local charity.",
+    "example_jp": "彼らは地元の慈善団体にいくらかのお金を寄付することに決めた。"
+  },
+  {
+    "word": "arrest",
+    "meaning": "を逮捕する",
+    "example": "The police arrived to arrest the suspect.",
+    "example_jp": "警察が容疑者を逮捕するために到着した。"
+  },
+  {
+    "word": "arrest",
+    "meaning": "を止める，（注意）を引く",
+    "example": "The unusual sight arrested his attention.",
+    "example_jp": "その珍しい光景が彼の注意を引いた。"
+  },
+  {
+    "word": "crack",
+    "meaning": "ひびが入る，を入れる",
+    "example": "The window cracked when the ball hit it.",
+    "example_jp": "ボールが当たったとき、窓にひびが入った。"
+  },
+  {
+    "word": "tap",
+    "meaning": "を軽くたたく",
+    "example": "Someone tapped me on the shoulder in the crowd.",
+    "example_jp": "人混みの中で誰かが私の肩を軽くたたいた。"
+  },
+  {
+    "word": "tap",
+    "meaning": "（液体）を出す，を盗聴する",
+    "example": "The police were authorized to tap his phone.",
+    "example_jp": "警察は彼の電話を盗聴する許可を得ていた。"
+  },
+  {
+    "word": "split",
+    "meaning": "を分割・分担する，分裂する",
+    "example": "We decided to split the bill evenly.",
+    "example_jp": "私たちは勘定を均等に分ける（分割する）ことにした。"
+  },
+  {
+    "word": "forecast",
+    "meaning": "を予想［予測］する",
+    "example": "They forecast heavy rain for the weekend.",
+    "example_jp": "彼らは週末に大雨になると予想している。"
+  },
+  {
+    "word": "exclude",
+    "meaning": "を除外する",
+    "example": "Tax is excluded from the price shown on the tag.",
+    "example_jp": "値札に表示されている価格に税金は含まれていない（除外されている）。"
+  },
+  {
+    "word": "overlook",
+    "meaning": "を見落とす，を大目に見る",
+    "example": "I'm sorry, I completely overlooked your email.",
+    "example_jp": "すみません、あなたのメールを完全に見落としていました。"
+  },
+  {
+    "word": "overlook",
+    "meaning": "を見渡す",
+    "example": "Our hotel room overlooks the beautiful ocean.",
+    "example_jp": "ホテルの部屋からは美しい海が見渡せる。"
+  },
+  {
+    "word": "burst",
+    "meaning": "破裂する",
+    "example": "The balloon burst as soon as it touched the ceiling.",
+    "example_jp": "風船は天井に触れた途端に破裂した。"
+  },
+  {
+    "word": "burst",
+    "meaning": "（～を）突然始める",
+    "example": "She suddenly burst into tears after hearing the news.",
+    "example_jp": "そのニュースを聞いて、彼女は突然泣き出した。"
+  },
+  {
+    "word": "heal",
+    "meaning": "を治す，治る",
+    "example": "This ointment will help heal the cut quickly.",
+    "example_jp": "この軟膏は切り傷を早く治すのに役立つだろう。"
+  },
+  {
+    "word": "forbid",
+    "meaning": "を禁じる",
+    "example": "The law forbids smoking in public buildings.",
+    "example_jp": "法律は公共の建物内での喫煙を禁じている。"
+  },
+  {
+    "word": "install",
+    "meaning": "をインストールする，を設置する",
+    "example": "You need to install the latest software update.",
+    "example_jp": "最新のソフトウェア・アップデートをインストールする必要がある。"
+  },
+  {
+    "word": "install",
+    "meaning": "を就任させる",
+    "example": "The new president was installed last week.",
+    "example_jp": "新しい社長が先週就任した。"
+  },
+  {
+    "word": "diminish",
+    "meaning": "を減らす，減少する",
+    "example": "The noise began to diminish as we walked away.",
+    "example_jp": "遠ざかるにつれて、騒音は減り始めた。"
+  },
+  {
+    "word": "cite",
+    "meaning": "を引き合いに出す，を引用する",
+    "example": "He cited several examples to support his argument.",
+    "example_jp": "彼は自分の主張を裏付けるためにいくつかの例を引き合いに出した。"
+  },
+  {
+    "word": "quote",
+    "meaning": "を引用する",
+    "example": "Can I quote you on that in my article?",
+    "example_jp": "私の記事の中でそのことについてあなたの言葉を引用してもいいですか？"
+  },
+  {
+    "word": "dispute",
+    "meaning": "に異議を唱える，議論する",
+    "example": "No one can dispute the facts of the case.",
+    "example_jp": "その事件の事実関係に異議を唱えられる者は誰もいない。"
+  },
+  {
+    "word": "highlight",
+    "meaning": "を目立たせる，強調する",
+    "example": "The report highlights the need for better security.",
+    "example_jp": "その報告書は、より優れたセキュリティの必要性を強調している。"
+  },
+  {
+    "word": "distract",
+    "meaning": "（注意など）をそらす",
+    "example": "Don't distract me while I'm driving.",
+    "example_jp": "運転中に私の注意をそらさないで。"
+  },
+  {
+    "word": "cheat",
+    "meaning": "をだます，不正をする",
+    "example": "He was caught trying to cheat on the exam.",
+    "example_jp": "彼は試験で不正行為（カンニング）をしようとして見つかった。"
+  },
+  {
+    "word": "foster",
+    "meaning": "をはぐくむ，を養育する",
+    "example": "The school tries to foster a sense of community.",
+    "example_jp": "学校はコミュニティ意識をはぐくむよう努めている。"
+  },
+  {
+    "word": "foster",
+    "meaning": "を心に抱く",
+    "example": "She fostered a hope that things would improve.",
+    "example_jp": "彼女は事態が改善するという希望を心に抱いていた。"
+  },
+  {
+    "word": "obey",
+    "meaning": "に従う，に服従する",
+    "example": "You must obey the traffic laws for your safety.",
+    "example_jp": "安全のために交通法規に従わなければならない。"
+  },
+  {
+    "word": "bend",
+    "meaning": "を曲げる，屈服させる，曲がる",
+    "example": "Be careful not to bend the metal rod too far.",
+    "example_jp": "金属の棒を曲げすぎないように気をつけて。"
+  },
+  {
+    "word": "deprive",
+    "meaning": "から（権利などを）奪う",
+    "example": "The new law would deprive citizens of their basic rights.",
+    "example_jp": "新しい法律は市民から基本的人権を奪うことになるだろう。"
+  },
+  {
+    "word": "govern",
+    "meaning": "（を）統治する，支配する",
+    "example": "The country is governed by a small group of people.",
+    "example_jp": "その国は少人数のグループによって統治されている。"
+  },
+  {
+    "word": "log",
+    "meaning": "ログオンする",
+    "example": "I forgot my password and couldn't log on to the site.",
+    "example_jp": "パスワードを忘れてサイトにログオンできなかった。"
+  },
+  {
+    "word": "log",
+    "meaning": "を記録する",
+    "example": "The pilot logs every flight in a special book.",
+    "example_jp": "パイロットはすべての飛行を専用の手帳に記録する。"
+  },
+  {
+    "word": "transmit",
+    "meaning": "を伝える，を送る",
+    "example": "The tower transmits radio signals across the valley.",
+    "example_jp": "その塔は谷を越えて無線信号を送っている。"
+  },
+  {
+    "word": "bully",
+    "meaning": "をいじめる，を脅す",
+    "example": "He was bullied by his classmates for wearing glasses.",
+    "example_jp": "彼は眼鏡をかけていることでクラスメートにいじめられた。"
+  },
+  {
+    "word": "leap",
+    "meaning": "跳ぶ，急上昇する",
+    "example": "The cat made a sudden leap onto the table.",
+    "example_jp": "猫がテーブルの上に突然飛び乗った。"
+  },
+  {
+    "word": "astonish",
+    "meaning": "を驚かす",
+    "example": "The news of her success astonished everyone.",
+    "example_jp": "彼女の成功のニュースは皆を驚かせた。"
+  },
+  {
+    "word": "thrill",
+    "meaning": "をぞくぞくさせる，わくわくする",
+    "example": "The roller coaster ride really thrilled the kids.",
+    "example_jp": "ジェットコースターに乗ることは、子供たちを本当にわくわくさせた。"
+  },
+  {
+    "word": "nod",
+    "meaning": "うなずく，会釈する",
+    "example": "She nodded her head in agreement.",
+    "example_jp": "彼女は同意して頭を縦に振った（うなずいた）。"
+  },
+  {
+    "word": "nod",
+    "meaning": "うとうとする",
+    "example": "I started to nod off during the long movie.",
+    "example_jp": "長い映画の最中にうとうとし始めた。"
+  },
+  {
+    "word": "bow",
+    "meaning": "おじぎする",
+    "example": "The performers bowed to the audience after the show.",
+    "example_jp": "出演者たちはショーの後に観客におじぎをした。"
+  },
+  {
+    "word": "bow",
+    "meaning": "屈服する",
+    "example": "They refused to bow to the enemy's demands.",
+    "example_jp": "彼らは敵の要求に屈服することを拒んだ。"
+  },
+  {
+    "word": "blend",
+    "meaning": "を混ぜる，調和させる，溶け込む",
+    "example": "The colorful flowers blend perfectly into the garden.",
+    "example_jp": "色とりどりの花が庭に完璧に溶け込んでいる。"
+  },
+  {
+    "word": "complicate",
+    "meaning": "を複雑にする",
+    "example": "I don't want to complicate the situation any further.",
+    "example_jp": "これ以上状況を複雑にしたくない。"
+  },
+  {
+    "word": "pitch",
+    "meaning": "を投げる",
+    "example": "The player pitched the ball toward the batter.",
+    "example_jp": "選手はバッターに向かってボールを投げた。"
+  },
+  {
+    "word": "pitch",
+    "meaning": "倒れる，縦揺れする",
+    "example": "The boat pitched violently in the storm.",
+    "example_jp": "嵐の中で船が激しく縦揺れした。"
+  },
+  {
+    "word": "persist",
+    "meaning": "続く，固執する",
+    "example": "If the symptoms persist, you should see a doctor.",
+    "example_jp": "もし症状が続くようなら、医者に診てもらうべきだ。"
+  },
+  {
+    "word": "dedicate",
+    "meaning": "をささげる，を献呈する",
+    "example": "She dedicated her life to helping the poor.",
+    "example_jp": "彼女は人生を貧しい人々を助けることにささげた。"
+  },
+  {
+    "word": "equip",
+    "meaning": "に備えつける",
+    "example": "All the rooms are equipped with air conditioning.",
+    "example_jp": "すべての部屋にエアコンが備えつけられている。"
+  },
+  {
+    "word": "premise",
+    "meaning": "前提",
+    "example": "The whole argument is based on a false premise.",
+    "example_jp": "議論全体が間違った前提に基づいている。"
+  },
+  {
+    "word": "premise",
+    "meaning": "（建物を含めた）構内，敷地",
+    "example": "Smoking is not allowed on the school premises.",
+    "example_jp": "学校の構内では喫煙は許可されていない。"
+  },
+  {
+    "word": "input",
+    "meaning": "入力，投入，提供",
+    "example": "We need your input on the new project design.",
+    "example_jp": "新しいプロジェクトのデザインについて、あなたの意見（提供される情報）が必要です。"
+  },
+  {
+    "word": "merit",
+    "meaning": "利点，功績，真価",
+    "example": "We should judge the idea on its own merits.",
+    "example_jp": "そのアイデアはそれ自体の真価（長所）で判断すべきだ。"
+  },
+  {
+    "word": "sympathy",
+    "meaning": "同情，共感",
+    "example": "I have deep sympathy for the victims of the earthquake.",
+    "example_jp": "私は地震の被災者の方々に深い同情を寄せる。"
+  },
+  {
+    "word": "compliment",
+    "meaning": "賛辞，表敬",
+    "example": "He paid her a nice compliment on her cooking.",
+    "example_jp": "彼は彼女の料理に素敵な賛辞を述べた。"
+  },
+  {
+    "word": "infrastructure",
+    "meaning": "インフラ，基本的施設，基盤",
+    "example": "The city needs to invest more in its infrastructure.",
+    "example_jp": "その都市はインフラ（基本的施設）にもっと投資する必要がある。"
+  },
+  {
+    "word": "ray",
+    "meaning": "光線",
+    "example": "A ray of sunshine came through the clouds.",
+    "example_jp": "雲の間から一筋の太陽の光線が差し込んだ。"
+  },
+  {
+    "word": "ray",
+    "meaning": "ひらめき，一筋の光明",
+    "example": "His words gave her a ray of hope.",
+    "example_jp": "彼の言葉が彼女に一筋の希望（光明）を与えた。"
+  },
+  {
+    "word": "distress",
+    "meaning": "苦悩，苦痛，困窮",
+    "example": "The news caused her a great deal of distress.",
+    "example_jp": "その知らせは彼女に多大な苦悩をもたらした。"
+  },
+  {
+    "word": "joint",
+    "meaning": "関節，接合（部）",
+    "example": "My knee joints feel a bit stiff today.",
+    "example_jp": "今日は膝の関節が少し凝っている感じがする。"
+  },
+  {
+    "word": "expedition",
+    "meaning": "遠征（隊），探検（隊）",
+    "example": "They are planning an expedition to the North Pole.",
+    "example_jp": "彼らは北極への探検を計画している。"
+  }
+]

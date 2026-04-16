@@ -1,0 +1,380 @@
+[
+  {
+    "word": "cope with",
+    "meaning": "～をうまく処理する、～に対処する",
+    "example": "He can cope with stress well.",
+    "example_jp": "彼はストレスをうまく処理することができる。"
+  },
+  {
+    "word": "coincide with",
+    "meaning": "～と一致する、同時に起こる",
+    "example": "His visit coincided with my trip.",
+    "example_jp": "彼の訪問は私の旅行と同時に起こった。"
+  },
+  {
+    "word": "comply with",
+    "meaning": "～に従う",
+    "example": "You must comply with the rules.",
+    "example_jp": "あなたは規則に従わなければならない。"
+  },
+  {
+    "word": "dispense with",
+    "meaning": "～なしですます",
+    "example": "We can dispense with formalities.",
+    "example_jp": "私たちは形式的なことなしですますことができる。"
+  },
+  {
+    "word": "attend to",
+    "meaning": "～を処理する",
+    "example": "I must attend to this matter.",
+    "example_jp": "私はこの問題を処理しなければならない。"
+  },
+  {
+    "word": "attend to",
+    "meaning": "～の世話をする",
+    "example": "Please attend to the baby.",
+    "example_jp": "赤ちゃんの世話をしてください。"
+  },
+  {
+    "word": "attend to",
+    "meaning": "～に注意を払う",
+    "example": "He didn’t attend to my words.",
+    "example_jp": "彼は私の言葉に注意を払わなかった。"
+  },
+  {
+    "word": "aspire to",
+    "meaning": "～を熱望する",
+    "example": "She aspires to greatness.",
+    "example_jp": "彼女は偉大になることを熱望している。"
+  },
+  {
+    "word": "submit to",
+    "meaning": "～に屈する",
+    "example": "He submitted to the decision.",
+    "example_jp": "彼はその決定に屈した。"
+  },
+  {
+    "word": "consent to",
+    "meaning": "～に同意する",
+    "example": "She consented to the plan.",
+    "example_jp": "彼女はその計画に同意した。"
+  },
+  {
+    "word": "deal in",
+    "meaning": "～を取り扱う",
+    "example": "They deal in used cars.",
+    "example_jp": "彼らは中古車を取り扱っている。"
+  },
+  {
+    "word": "persist in",
+    "meaning": "～に固執する",
+    "example": "He persisted in his opinion.",
+    "example_jp": "彼は自分の意見に固執した。"
+  },
+  {
+    "word": "indulge in",
+    "meaning": "～にふける",
+    "example": "She indulged in sweets.",
+    "example_jp": "彼女は甘いものにふけった。"
+  },
+  {
+    "word": "embark on",
+    "meaning": "～に乗り出す",
+    "example": "They embarked on a new project.",
+    "example_jp": "彼らは新しいプロジェクトに乗り出した。"
+  },
+  {
+    "word": "dwell on",
+    "meaning": "～をくよくよ考える",
+    "example": "He dwelled on the past.",
+    "example_jp": "彼は過去のことをくよくよ考えた。"
+  },
+  {
+    "word": "dwell upon",
+    "meaning": "～を詳しく述べる",
+    "example": "She dwelled upon the details.",
+    "example_jp": "彼女は詳細を詳しく述べた。"
+  },
+  {
+    "word": "tell on",
+    "meaning": "～に悪く影響する",
+    "example": "Lack of sleep told on him.",
+    "example_jp": "睡眠不足が彼に悪く影響した。"
+  },
+  {
+    "word": "refrain from",
+    "meaning": "～を慎む",
+    "example": "Please refrain from smoking.",
+    "example_jp": "喫煙は慎んでください。"
+  },
+  {
+    "word": "discriminate against",
+    "meaning": "～を差別する",
+    "example": "They discriminated against him.",
+    "example_jp": "彼らは彼を差別した。"
+  },
+  {
+    "word": "abide by",
+    "meaning": "～に従う",
+    "example": "You must abide by the law.",
+    "example_jp": "あなたは法律に従わなければならない。"
+  },
+  {
+    "word": "work out",
+    "meaning": "うまくいく",
+    "example": "Everything worked out well.",
+    "example_jp": "すべてがうまくいった。"
+  },
+  {
+    "word": "work out",
+    "meaning": "～を解決する",
+    "example": "We worked out the problem.",
+    "example_jp": "私たちはその問題を解決した。"
+  },
+  {
+    "word": "work out",
+    "meaning": "運動する",
+    "example": "He works out every day.",
+    "example_jp": "彼は毎日運動している。"
+  },
+  {
+    "word": "rule out",
+    "meaning": "～を排除する",
+    "example": "They ruled out the possibility.",
+    "example_jp": "彼らはその可能性を排除した。"
+  },
+  {
+    "word": "single out",
+    "meaning": "～を選び出す",
+    "example": "She was singled out for praise.",
+    "example_jp": "彼女は称賛のために選び出された。"
+  },
+  {
+    "word": "pass out",
+    "meaning": "気絶する",
+    "example": "He passed out from heat.",
+    "example_jp": "彼は暑さで気絶した。"
+  },
+  {
+    "word": "miss out on",
+    "meaning": "～を逃す",
+    "example": "I missed out on the chance.",
+    "example_jp": "私はそのチャンスを逃した。"
+  },
+  {
+    "word": "wind up",
+    "meaning": "～を終わりにする",
+    "example": "We wound up the meeting.",
+    "example_jp": "私たちは会議を終わりにした。"
+  },
+  {
+    "word": "wind up",
+    "meaning": "終わる",
+    "example": "He wound up in trouble.",
+    "example_jp": "彼はトラブルに巻き込まれて終わった。"
+  },
+  {
+    "word": "pull up",
+    "meaning": "～を引き寄せる",
+    "example": "He pulled up the chair.",
+    "example_jp": "彼は椅子を引き寄せた。"
+  },
+  {
+    "word": "pull up",
+    "meaning": "止まる",
+    "example": "The car pulled up.",
+    "example_jp": "車が止まった。"
+  },
+  {
+    "word": "throw up",
+    "meaning": "～をさっと上げる",
+    "example": "He threw up his hands.",
+    "example_jp": "彼はさっと両手を上げた。"
+  },
+  {
+    "word": "throw up",
+    "meaning": "吐く",
+    "example": "She threw up her lunch.",
+    "example_jp": "彼女は昼食を吐いた。"
+  },
+  {
+    "word": "round up",
+    "meaning": "～を逮捕する",
+    "example": "They rounded up the suspects.",
+    "example_jp": "彼らは容疑者たちを逮捕した。"
+  },
+  {
+    "word": "round up",
+    "meaning": "～を寄せ集める",
+    "example": "He rounded up the cattle.",
+    "example_jp": "彼は牛を寄せ集めた。"
+  },
+  {
+    "word": "catch on",
+    "meaning": "人気が出る",
+    "example": "The idea caught on quickly.",
+    "example_jp": "その考えはすぐに人気が出た。"
+  },
+  {
+    "word": "catch on",
+    "meaning": "理解する",
+    "example": "He didn’t catch on at first.",
+    "example_jp": "彼は最初、理解しなかった。"
+  },
+  {
+    "word": "get away with",
+    "meaning": "～をうまくやる",
+    "example": "He got away with cheating.",
+    "example_jp": "彼は不正をうまくやった。"
+  },
+  {
+    "word": "get away with",
+    "meaning": "～を持ち逃げする",
+    "example": "They got away with the money.",
+    "example_jp": "彼らはそのお金を持ち逃げした。"
+  },
+  {
+    "word": "shy away from",
+    "meaning": "～を避ける",
+    "example": "He shies away from crowds.",
+    "example_jp": "彼は人混みを避ける。"
+  },
+  {
+    "word": "hang around",
+    "meaning": "ぶらつく",
+    "example": "They hung around the park.",
+    "example_jp": "彼らは公園のあたりをぶらついた。"
+  },
+  {
+    "word": "get down to",
+    "meaning": "～に本気で取り掛かる",
+    "example": "Let’s get down to business.",
+    "example_jp": "仕事（本題）に本気で取り掛かりましょう。"
+  },
+  {
+    "word": "let down",
+    "meaning": "～を失望させる",
+    "example": "Don’t let me down.",
+    "example_jp": "私を失望させないで。"
+  },
+  {
+    "word": "pull off",
+    "meaning": "～をやってのける",
+    "example": "He pulled off a big win.",
+    "example_jp": "彼は大きな勝利をやってのけた。"
+  },
+  {
+    "word": "follow through on",
+    "meaning": "～をやり遂げる",
+    "example": "She followed through on her promise.",
+    "example_jp": "彼女は自分の約束をやり遂げた。"
+  },
+  {
+    "word": "find oneself",
+    "meaning": "～にいると気づく",
+    "example": "I found myself alone.",
+    "example_jp": "気がつくと、私は一人でいた。"
+  },
+  {
+    "word": "make do with",
+    "meaning": "～で間に合わせる",
+    "example": "We made do with what we had.",
+    "example_jp": "私たちは持っているもので間に合わせた。"
+  },
+  {
+    "word": "make good",
+    "meaning": "成功する",
+    "example": "He made good in business.",
+    "example_jp": "彼はビジネスで成功した。"
+  },
+  {
+    "word": "make good",
+    "meaning": "～を果たす",
+    "example": "She made good her promise.",
+    "example_jp": "彼女は約束を果たした。"
+  },
+  {
+    "word": "make both ends meet",
+    "meaning": "収入内でやりくりする",
+    "example": "They struggle to make ends meet.",
+    "example_jp": "彼らは収入内でやりくりしようと苦心している。"
+  },
+  {
+    "word": "make believe",
+    "meaning": "～のふりをする",
+    "example": "The kids made believe they were pirates.",
+    "example_jp": "子供たちは自分たちが海賊であるふりをした。"
+  },
+  {
+    "word": "take for granted",
+    "meaning": "～を当然と思う",
+    "example": "Don’t take kindness for granted.",
+    "example_jp": "親切を当然のことと思ってはいけない。"
+  },
+  {
+    "word": "take into account",
+    "meaning": "～を考慮に入れる",
+    "example": "We must take age into account.",
+    "example_jp": "私たちは年齢を考慮に入れなければならない。"
+  },
+  {
+    "word": "take hold of",
+    "meaning": "～をつかむ",
+    "example": "He took hold of my arm.",
+    "example_jp": "彼は私の腕をつかんだ。"
+  },
+  {
+    "word": "take notice of",
+    "meaning": "～に気づく",
+    "example": "She took notice of the sign.",
+    "example_jp": "彼女はその看板に気づいた。"
+  },
+  {
+    "word": "take effect",
+    "meaning": "施行される",
+    "example": "The law took effect yesterday.",
+    "example_jp": "その法律は昨日施行された。"
+  },
+  {
+    "word": "take effect",
+    "meaning": "効く",
+    "example": "The medicine took effect.",
+    "example_jp": "薬が効いた。"
+  },
+  {
+    "word": "take pains",
+    "meaning": "努力する",
+    "example": "He took pains to explain it.",
+    "example_jp": "彼はそれを説明するために努力した。"
+  },
+  {
+    "word": "keep track of",
+    "meaning": "～を把握する",
+    "example": "Keep track of your expenses.",
+    "example_jp": "出費を把握しておきなさい。"
+  },
+  {
+    "word": "keep company",
+    "meaning": "～と一緒にいる",
+    "example": "I kept him company.",
+    "example_jp": "私は彼と一緒にいた。"
+  },
+  {
+    "word": "keep abreast of",
+    "meaning": "～に遅れずついて行く",
+    "example": "She keeps abreast of the news.",
+    "example_jp": "彼女はニュースに遅れずについて行っている。"
+  },
+  {
+    "word": "let go of",
+    "meaning": "～を手放す",
+    "example": "He let go of the rope.",
+    "example_jp": "彼は縄を手放した。"
+  },
+  {
+    "word": "live up to",
+    "meaning": "～に添う、～を果たす",
+    "example": "He lived up to expectations.",
+    "example_jp": "彼は期待に添った。"
+  }
+]

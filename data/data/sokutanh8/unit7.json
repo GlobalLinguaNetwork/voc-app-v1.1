@@ -1,0 +1,668 @@
+[
+  {
+    "word": "bound",
+    "meaning": "はねるように走る",
+    "example": "The dog bounded across the field.",
+    "example_jp": "その犬は野原をはねるように走っていった。"
+  },
+  {
+    "word": "bound",
+    "meaning": "はずむ",
+    "example": "The ball bounded high.",
+    "example_jp": "ボールは高くはずんだ。"
+  },
+  {
+    "word": "bound",
+    "meaning": "～行きの",
+    "example": "This train is bound for Tokyo.",
+    "example_jp": "この電車は東京行きだ。"
+  },
+  {
+    "word": "bound",
+    "meaning": "きっと…する",
+    "example": "He is bound to win.",
+    "example_jp": "彼はきっと勝つ。"
+  },
+  {
+    "word": "barrier",
+    "meaning": "障害物",
+    "example": "Language is a barrier.",
+    "example_jp": "言葉は障害物だ。"
+  },
+  {
+    "word": "barrier",
+    "meaning": "防壁",
+    "example": "They built a barrier.",
+    "example_jp": "彼らは防壁を築いた。"
+  },
+  {
+    "word": "obstacle",
+    "meaning": "障害",
+    "example": "Fear is an obstacle to success.",
+    "example_jp": "恐れは成功への障害だ。"
+  },
+  {
+    "word": "hurt",
+    "meaning": "けがをさせる",
+    "example": "He hurt his leg.",
+    "example_jp": "彼は足にけがをさせた。"
+  },
+  {
+    "word": "hurt",
+    "meaning": "感情を害する",
+    "example": "Her words hurt me.",
+    "example_jp": "彼女の言葉は私の感情を害した。"
+  },
+  {
+    "word": "hurt",
+    "meaning": "痛む",
+    "example": "My back hurts.",
+    "example_jp": "腰が痛む。"
+  },
+  {
+    "word": "interaction",
+    "meaning": "交流",
+    "example": "We need more interaction.",
+    "example_jp": "私たちはもっと多くの交流を必要としている。"
+  },
+  {
+    "word": "interaction",
+    "meaning": "相互作用",
+    "example": "Chemical interaction occurs.",
+    "example_jp": "化学的相互作用が起こる。"
+  },
+  {
+    "word": "transaction",
+    "meaning": "取引",
+    "example": "The transaction was completed.",
+    "example_jp": "取引は完了した。"
+  },
+  {
+    "word": "transaction",
+    "meaning": "交流",
+    "example": "There was friendly transaction.",
+    "example_jp": "友好的な交流があった。"
+  },
+  {
+    "word": "bite",
+    "meaning": "かむ",
+    "example": "The dog bit my hand.",
+    "example_jp": "犬が私の手をかんだ。"
+  },
+  {
+    "word": "bite",
+    "meaning": "ひと口",
+    "example": "He took a bite.",
+    "example_jp": "彼はひと口食べた。"
+  },
+  {
+    "word": "bite",
+    "meaning": "軽食",
+    "example": "Let's get a quick bite.",
+    "example_jp": "軽い軽食をとろう。"
+  },
+  {
+    "word": "bite",
+    "meaning": "かむこと",
+    "example": "The bite was painful.",
+    "example_jp": "かまれた箇所は痛かった。"
+  },
+  {
+    "word": "angry",
+    "meaning": "怒って",
+    "example": "He is angry with me.",
+    "example_jp": "彼は私に対して怒っている。"
+  },
+  {
+    "word": "irritate",
+    "meaning": "いらいらさせる",
+    "example": "The noise irritated him.",
+    "example_jp": "その騒音は彼をいらいらさせた。"
+  },
+  {
+    "word": "order",
+    "meaning": "命令",
+    "example": "He gave an order.",
+    "example_jp": "彼は命令を出した。"
+  },
+  {
+    "word": "order",
+    "meaning": "注文",
+    "example": "I placed an order.",
+    "example_jp": "私は注文をした。"
+  },
+  {
+    "word": "order",
+    "meaning": "順番",
+    "example": "The order is wrong.",
+    "example_jp": "順番が間違っている。"
+  },
+  {
+    "word": "order",
+    "meaning": "秩序",
+    "example": "Keep things in order.",
+    "example_jp": "物事を秩序だった状態に保ちなさい。"
+  },
+  {
+    "word": "order",
+    "meaning": "命令する",
+    "example": "He ordered me to leave.",
+    "example_jp": "彼は私に去るよう命令した。"
+  },
+  {
+    "word": "order",
+    "meaning": "注文する",
+    "example": "She ordered lunch.",
+    "example_jp": "彼女は昼食を注文した。"
+  },
+  {
+    "word": "disorder",
+    "meaning": "不調",
+    "example": "He has a sleep disorder.",
+    "example_jp": "彼は睡眠の不調を抱えている。"
+  },
+  {
+    "word": "disorder",
+    "meaning": "混乱",
+    "example": "The room was in disorder.",
+    "example_jp": "部屋は混乱した状態だった。"
+  },
+  {
+    "word": "especially",
+    "meaning": "特に",
+    "example": "I especially like this.",
+    "example_jp": "私は特にこれが好きだ。"
+  },
+  {
+    "word": "namely",
+    "meaning": "すなわち",
+    "example": "Two people, namely Tom and Ken.",
+    "example_jp": "2人、すなわちトムとケン。"
+  },
+  {
+    "word": "space",
+    "meaning": "空間",
+    "example": "There is no space here.",
+    "example_jp": "ここには空間がない。"
+  },
+  {
+    "word": "space",
+    "meaning": "場所",
+    "example": "I need more space.",
+    "example_jp": "もっと場所が必要だ。"
+  },
+  {
+    "word": "space",
+    "meaning": "宇宙",
+    "example": "They study space.",
+    "example_jp": "彼らは宇宙を研究している。"
+  },
+  {
+    "word": "gravity",
+    "meaning": "重力",
+    "example": "Gravity pulls objects down.",
+    "example_jp": "重力が物体を下に引く。"
+  },
+  {
+    "word": "gravity",
+    "meaning": "重大さ",
+    "example": "He spoke with gravity.",
+    "example_jp": "彼は重大さをもって話した。"
+  },
+  {
+    "word": "release",
+    "meaning": "放つ",
+    "example": "They released the bird.",
+    "example_jp": "彼らはその鳥を放った。"
+  },
+  {
+    "word": "release",
+    "meaning": "解放する",
+    "example": "He was released from prison.",
+    "example_jp": "彼は刑務所から解放された。"
+  },
+  {
+    "word": "release",
+    "meaning": "公表する",
+    "example": "They released the report.",
+    "example_jp": "彼らは報告書を公表した。"
+  },
+  {
+    "word": "release",
+    "meaning": "発売する",
+    "example": "The book was released today.",
+    "example_jp": "その本は今日発売された。"
+  },
+  {
+    "word": "release",
+    "meaning": "放出",
+    "example": "The release caused excitement.",
+    "example_jp": "その放出は興奮を引き起こした。"
+  },
+  {
+    "word": "release",
+    "meaning": "公表",
+    "example": "The release was big news.",
+    "example_jp": "その公表は大きなニュースだった。"
+  },
+  {
+    "word": "emission",
+    "meaning": "放出量",
+    "example": "CO₂ emissions are rising.",
+    "example_jp": "二酸化炭素の放出量が上がっている。"
+  },
+  {
+    "word": "emission",
+    "meaning": "放出",
+    "example": "The emission of gas increased.",
+    "example_jp": "ガスの放出が増加した。"
+  },
+  {
+    "word": "quit",
+    "meaning": "やめる",
+    "example": "He quit his job.",
+    "example_jp": "彼は仕事をやめた。"
+  },
+  {
+    "word": "retire",
+    "meaning": "退職する",
+    "example": "He retired from work.",
+    "example_jp": "彼は仕事を退職した。"
+  },
+  {
+    "word": "resign",
+    "meaning": "辞職する",
+    "example": "She resigned her position.",
+    "example_jp": "彼女はその地位を辞職した。"
+  },
+  {
+    "word": "resign",
+    "meaning": "辞任する",
+    "example": "He resigned from the board.",
+    "example_jp": "彼は役員会を辞任した。"
+  },
+  {
+    "word": "resign",
+    "meaning": "放棄する",
+    "example": "He resigned his rights.",
+    "example_jp": "彼は自分の権利を放棄した。"
+  },
+  {
+    "word": "dismiss",
+    "meaning": "退ける",
+    "example": "They dismissed the idea.",
+    "example_jp": "彼らはその考えを退けた。"
+  },
+  {
+    "word": "dismiss",
+    "meaning": "解雇する",
+    "example": "He was dismissed from work.",
+    "example_jp": "彼は仕事を解雇された。"
+  },
+  {
+    "word": "energy",
+    "meaning": "エネルギー",
+    "example": "Solar energy is clean.",
+    "example_jp": "太陽エネルギーはクリーンだ。"
+  },
+  {
+    "word": "energy",
+    "meaning": "活力",
+    "example": "I have no energy.",
+    "example_jp": "私には活力がない。"
+  },
+  {
+    "word": "electricity",
+    "meaning": "電気",
+    "example": "Electricity is expensive.",
+    "example_jp": "電気は高価だ。"
+  },
+  {
+    "word": "electricity",
+    "meaning": "電力",
+    "example": "The city lost electricity.",
+    "example_jp": "その都市は電力を失った。"
+  },
+  {
+    "word": "mental",
+    "meaning": "精神の",
+    "example": "Mental health is important.",
+    "example_jp": "精神の健康は重要だ。"
+  },
+  {
+    "word": "mental",
+    "meaning": "知能の",
+    "example": "He has strong mental ability.",
+    "example_jp": "彼は強い知能の能力を持っている。"
+  },
+  {
+    "word": "yell",
+    "meaning": "叫ぶ",
+    "example": "He yelled loudly.",
+    "example_jp": "彼は大声で叫んだ。"
+  },
+  {
+    "word": "yell",
+    "meaning": "大声",
+    "example": "I heard a yell.",
+    "example_jp": "私は大声を聞いた。"
+  },
+  {
+    "word": "yell",
+    "meaning": "エール",
+    "example": "The team gave a yell.",
+    "example_jp": "チームはエールを送った。"
+  },
+  {
+    "word": "necessary",
+    "meaning": "必要な",
+    "example": "Water is necessary.",
+    "example_jp": "水は必要だ。"
+  },
+  {
+    "word": "doubtful",
+    "meaning": "疑わしい",
+    "example": "It is doubtful.",
+    "example_jp": "それは疑わしい。"
+  },
+  {
+    "word": "doubtful",
+    "meaning": "疑っている",
+    "example": "He is doubtful of the story.",
+    "example_jp": "彼はその話を疑っている。"
+  },
+  {
+    "word": "doubt",
+    "meaning": "疑う",
+    "example": "I doubt his words.",
+    "example_jp": "私は彼の言葉を疑う。"
+  },
+  {
+    "word": "doubt",
+    "meaning": "ではないと思う",
+    "example": "I doubt it is true.",
+    "example_jp": "それが真実ではないと思う。"
+  },
+  {
+    "word": "doubt",
+    "meaning": "疑い",
+    "example": "I have no doubt.",
+    "example_jp": "私は疑いを持っていない。"
+  },
+  {
+    "word": "whether",
+    "meaning": "…かどうか",
+    "example": "I don’t know whether it’s true.",
+    "example_jp": "それが真実かどうか私にはわからない。"
+  },
+  {
+    "word": "whether",
+    "meaning": "…すべきかどうか",
+    "example": "I’m unsure whether to go.",
+    "example_jp": "行くべきかどうか確信がない。"
+  },
+  {
+    "word": "whether",
+    "meaning": "～であろうと",
+    "example": "Whether rain or shine, we go.",
+    "example_jp": "雨であろうと晴れであろうと、私たちは行く。"
+  },
+  {
+    "word": "concern",
+    "meaning": "心配させる",
+    "example": "The news concerned me.",
+    "example_jp": "そのニュースは私を心配させた。"
+  },
+  {
+    "word": "concern",
+    "meaning": "関係する",
+    "example": "This concerns everyone.",
+    "example_jp": "これは全員に関係する。"
+  },
+  {
+    "word": "concern",
+    "meaning": "心配",
+    "example": "I have concern about it.",
+    "example_jp": "私はそれについて心配している。"
+  },
+  {
+    "word": "concern",
+    "meaning": "関心",
+    "example": "His concern is safety.",
+    "example_jp": "彼の関心は安全だ。"
+  },
+  {
+    "word": "anxious",
+    "meaning": "心配して",
+    "example": "I am anxious about the test.",
+    "example_jp": "私はテストについて心配している。"
+  },
+  {
+    "word": "anxious",
+    "meaning": "切望して",
+    "example": "He is anxious for success.",
+    "example_jp": "彼は成功を切望している。"
+  },
+  {
+    "word": "increasingly",
+    "meaning": "ますます",
+    "example": "It became increasingly difficult.",
+    "example_jp": "それはますます難しくなった。"
+  },
+  {
+    "word": "spend",
+    "meaning": "費やす",
+    "example": "I spent money on books.",
+    "example_jp": "私は本にお金を費やした。"
+  },
+  {
+    "word": "spend",
+    "meaning": "過ごす",
+    "example": "We spent time studying.",
+    "example_jp": "私たちは勉強して時間を過ごした。"
+  },
+  {
+    "word": "leadership",
+    "meaning": "リーダーシップ",
+    "example": "He has strong leadership.",
+    "example_jp": "彼は強いリーダーシップを持っている。"
+  },
+  {
+    "word": "leadership",
+    "meaning": "リーダーの地位",
+    "example": "She took leadership.",
+    "example_jp": "彼女はリーダーの地位に就いた。"
+  },
+  {
+    "word": "outdoor",
+    "meaning": "屋外の",
+    "example": "We enjoy outdoor activities.",
+    "example_jp": "私たちは屋外の活動を楽しむ。"
+  },
+  {
+    "word": "suitable",
+    "meaning": "適切な",
+    "example": "This is suitable for kids.",
+    "example_jp": "これは子供たちにとって適切だ。"
+  },
+  {
+    "word": "correct",
+    "meaning": "正しい",
+    "example": "The answer is correct.",
+    "example_jp": "答えは正しい。"
+  },
+  {
+    "word": "correct",
+    "meaning": "適切な",
+    "example": "This is the correct way.",
+    "example_jp": "これが適切な方法だ。"
+  },
+  {
+    "word": "correct",
+    "meaning": "訂正する",
+    "example": "He corrected the mistake.",
+    "example_jp": "彼は間違いを訂正した。"
+  },
+  {
+    "word": "proper",
+    "meaning": "適切な",
+    "example": "Use proper language.",
+    "example_jp": "適切な言葉を使いなさい。"
+  },
+  {
+    "word": "proper",
+    "meaning": "正しい",
+    "example": "It is not proper behavior.",
+    "example_jp": "それは正しい振る舞いではない。"
+  },
+  {
+    "word": "appropriate",
+    "meaning": "適切な",
+    "example": "This is appropriate for school.",
+    "example_jp": "これは学校にとって適切だ。"
+  },
+  {
+    "word": "earth",
+    "meaning": "地球",
+    "example": "The Earth is round.",
+    "example_jp": "地球は丸い。"
+  },
+  {
+    "word": "earth",
+    "meaning": "地面",
+    "example": "The earth is soft.",
+    "example_jp": "地面は柔らかい。"
+  },
+  {
+    "word": "earth",
+    "meaning": "土",
+    "example": "Plants grow in the earth.",
+    "example_jp": "植物は土の中で育つ。"
+  },
+  {
+    "word": "soil",
+    "meaning": "土壌",
+    "example": "The soil is rich.",
+    "example_jp": "土壌が豊かだ。"
+  },
+  {
+    "word": "soil",
+    "meaning": "土地",
+    "example": "They bought new soil.",
+    "example_jp": "彼らは新しい土地を買った。"
+  },
+  {
+    "word": "typical",
+    "meaning": "典型的な",
+    "example": "This is typical behavior.",
+    "example_jp": "これは典型的な行動だ。"
+  },
+  {
+    "word": "typical",
+    "meaning": "代表する",
+    "example": "He is typical of the group.",
+    "example_jp": "彼はそのグループを代表する存在だ。"
+  },
+  {
+    "word": "usual",
+    "meaning": "いつもの",
+    "example": "I woke up at the usual time.",
+    "example_jp": "私はいつもの時間に起きた。"
+  },
+  {
+    "word": "single",
+    "meaning": "ただ1つの",
+    "example": "A single mistake caused it.",
+    "example_jp": "ただ1つの間違いがそれを引き起こした。"
+  },
+  {
+    "word": "single",
+    "meaning": "個々の",
+    "example": "Every single student passed.",
+    "example_jp": "個々の生徒全員が合格した。"
+  },
+  {
+    "word": "single",
+    "meaning": "独身の",
+    "example": "He is single.",
+    "example_jp": "彼は独身だ。"
+  },
+  {
+    "word": "certain",
+    "meaning": "ある特定の",
+    "example": "A certain man called me.",
+    "example_jp": "ある特定の男が私に電話してきた。"
+  },
+  {
+    "word": "certain",
+    "meaning": "確信している",
+    "example": "I am certain that he knows.",
+    "example_jp": "私は彼が知っていると確信している。"
+  },
+  {
+    "word": "certain",
+    "meaning": "確かな",
+    "example": "The result is certain.",
+    "example_jp": "結果は確かだ。"
+  },
+  {
+    "word": "certain",
+    "meaning": "いくらかの",
+    "example": "I have certain doubts.",
+    "example_jp": "私はいくらかの疑いを持っている。"
+  },
+  {
+    "word": "uncertain",
+    "meaning": "確信がない",
+    "example": "I am uncertain about the plan.",
+    "example_jp": "私はその計画について確信がない。"
+  },
+  {
+    "word": "uncertain",
+    "meaning": "不確実な",
+    "example": "The future is uncertain.",
+    "example_jp": "未来は不確実だ。"
+  },
+  {
+    "word": "guarantee",
+    "meaning": "保証する",
+    "example": "They guarantee safety.",
+    "example_jp": "彼らは安全を保証する。"
+  },
+  {
+    "word": "guarantee",
+    "meaning": "保証",
+    "example": "This comes with a guarantee.",
+    "example_jp": "これには保証が付いている。"
+  },
+  {
+    "word": "confirm",
+    "meaning": "立証する",
+    "example": "He confirmed the fact.",
+    "example_jp": "彼は事実を立証した。"
+  },
+  {
+    "word": "confirm",
+    "meaning": "確かめる",
+    "example": "Please confirm the time.",
+    "example_jp": "時間を確かめてください。"
+  },
+  {
+    "word": "convince",
+    "meaning": "確信させる",
+    "example": "He convinced me of the truth.",
+    "example_jp": "彼は私に真実を確信させた。"
+  },
+  {
+    "word": "convince",
+    "meaning": "納得させる",
+    "example": "She convinced him to try.",
+    "example_jp": "彼女はやってみるよう彼を納得させた。"
+  },
+  {
+    "word": "persuade",
+    "meaning": "説得する",
+    "example": "He persuaded me to go.",
+    "example_jp": "彼は行くよう私を説得した。"
+  }
+]

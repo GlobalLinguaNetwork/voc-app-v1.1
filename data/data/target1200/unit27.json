@@ -1,0 +1,380 @@
+[
+  {
+    "word": "right",
+    "meaning": "正しい",
+    "example": "This is the right answer.",
+    "example_jp": "これは正しい答えだ。"
+  },
+  {
+    "word": "right",
+    "meaning": "右の",
+    "example": "Turn to the right.",
+    "example_jp": "右の方へ曲がりなさい。"
+  },
+  {
+    "word": "present",
+    "meaning": "出席して",
+    "example": "All students are present.",
+    "example_jp": "全学生が出席している。"
+  },
+  {
+    "word": "present",
+    "meaning": "現在の",
+    "example": "The present situation is difficult.",
+    "example_jp": "現在の状況は困難だ。"
+  },
+  {
+    "word": "certain",
+    "meaning": "確信して",
+    "example": "I am certain about it.",
+    "example_jp": "私はそれについて確信している。"
+  },
+  {
+    "word": "certain",
+    "meaning": "ある〜",
+    "example": "A certain man called me.",
+    "example_jp": "ある男が私に電話してきた。"
+  },
+  {
+    "word": "interested",
+    "meaning": "興味を持って",
+    "example": "I am interested in science.",
+    "example_jp": "私は科学に興味を持っている。"
+  },
+  {
+    "word": "surprised",
+    "meaning": "驚いて",
+    "example": "She is surprised at the news.",
+    "example_jp": "彼女はそのニュースに驚いている。"
+  },
+  {
+    "word": "tired",
+    "meaning": "飽きて",
+    "example": "I am tired of waiting.",
+    "example_jp": "私は待つことに飽きている。"
+  },
+  {
+    "word": "pleased",
+    "meaning": "喜んで",
+    "example": "I am pleased with the result.",
+    "example_jp": "私はその結果を喜んでいる。"
+  },
+  {
+    "word": "satisfied",
+    "meaning": "満足して",
+    "example": "He is satisfied with his job.",
+    "example_jp": "彼は自分の仕事に満足している。"
+  },
+  {
+    "word": "bored",
+    "meaning": "退屈して",
+    "example": "I am bored with this movie.",
+    "example_jp": "私はこの映画に退屈している。"
+  },
+  {
+    "word": "excited",
+    "meaning": "興奮して",
+    "example": "She is excited about the trip.",
+    "example_jp": "彼女は旅行に興奮している（わくわくしている）。"
+  },
+  {
+    "word": "confused",
+    "meaning": "困惑して",
+    "example": "I am confused by his words.",
+    "example_jp": "私は彼の言葉に困惑している。"
+  },
+  {
+    "word": "scared",
+    "meaning": "怖がって",
+    "example": "He is scared of the dark.",
+    "example_jp": "彼は暗闇を怖がっている。"
+  },
+  {
+    "word": "able",
+    "meaning": "できる",
+    "example": "I am able to swim.",
+    "example_jp": "私は泳ぐことができる。"
+  },
+  {
+    "word": "likely",
+    "meaning": "ありそうな",
+    "example": "It is likely to rain.",
+    "example_jp": "雨が降りそうだ（ありそうなことだ）。"
+  },
+  {
+    "word": "sure",
+    "meaning": "確信して",
+    "example": "I am sure of my answer.",
+    "example_jp": "私は自分の答えを確信している。"
+  },
+  {
+    "word": "ready",
+    "meaning": "準備ができた",
+    "example": "I am ready to go.",
+    "example_jp": "私は行く準備ができた。"
+  },
+  {
+    "word": "eager",
+    "meaning": "熱望して",
+    "example": "She is eager to learn.",
+    "example_jp": "彼女は学ぶことを熱望している。"
+  },
+  {
+    "word": "polite",
+    "meaning": "礼儀正しい",
+    "example": "He is polite to everyone.",
+    "example_jp": "彼は誰に対しても礼儀正しい。"
+  },
+  {
+    "word": "clever",
+    "meaning": "利口な",
+    "example": "She is clever and quick.",
+    "example_jp": "彼女は利口で素早い。"
+  },
+  {
+    "word": "brave",
+    "meaning": "勇敢な",
+    "example": "He is brave in danger.",
+    "example_jp": "彼は危険に際して勇敢だ。"
+  },
+  {
+    "word": "wise",
+    "meaning": "賢明な",
+    "example": "She gives wise advice.",
+    "example_jp": "彼女は賢明な助言をくれる。"
+  },
+  {
+    "word": "rude",
+    "meaning": "失礼な",
+    "example": "Don’t be rude.",
+    "example_jp": "失礼な振る舞いをしないでください。"
+  },
+  {
+    "word": "silly",
+    "meaning": "愚かな",
+    "example": "That is a silly mistake.",
+    "example_jp": "それは愚かな間違いだ。"
+  },
+  {
+    "word": "foolish",
+    "meaning": "愚かな",
+    "example": "He makes a foolish choice.",
+    "example_jp": "彼は愚かな選択をする。"
+  },
+  {
+    "word": "stupid",
+    "meaning": "ばかげた",
+    "example": "It is a stupid idea.",
+    "example_jp": "それはばかげた考えだ。"
+  },
+  {
+    "word": "careless",
+    "meaning": "不注意な",
+    "example": "He is careless with money.",
+    "example_jp": "彼はお金の扱いが不注意だ。"
+  },
+  {
+    "word": "important",
+    "meaning": "重要な",
+    "example": "This is an important rule.",
+    "example_jp": "これは重要な規則だ。"
+  },
+  {
+    "word": "necessary",
+    "meaning": "必要な",
+    "example": "Water is necessary for life.",
+    "example_jp": "水は生命にとって必要だ。"
+  },
+  {
+    "word": "proper",
+    "meaning": "正当な",
+    "example": "This is the proper way.",
+    "example_jp": "これが正当な方法だ。"
+  },
+  {
+    "word": "strange",
+    "meaning": "奇妙な",
+    "example": "This sound is strange.",
+    "example_jp": "この音は奇妙だ。"
+  },
+  {
+    "word": "wrong",
+    "meaning": "間違った",
+    "example": "Your answer is wrong.",
+    "example_jp": "あなたの答えは間違っている。"
+  },
+  {
+    "word": "few",
+    "meaning": "ほとんどない（可算）",
+    "example": "I have few friends here.",
+    "example_jp": "私はここにほとんど友達がいない（ほとんどない）。"
+  },
+  {
+    "word": "little",
+    "meaning": "ほとんどない（不可算）",
+    "example": "I have little time.",
+    "example_jp": "私はほとんど時間がない（ほとんどない）。"
+  },
+  {
+    "word": "late",
+    "meaning": "遅れた",
+    "example": "He is late for school.",
+    "example_jp": "彼は学校に遅れた。"
+  },
+  {
+    "word": "late",
+    "meaning": "遅く",
+    "example": "I go to bed late.",
+    "example_jp": "私は遅く寝る。"
+  },
+  {
+    "word": "far",
+    "meaning": "遠い",
+    "example": "The station is far from here.",
+    "example_jp": "駅はここから遠い。"
+  },
+  {
+    "word": "far",
+    "meaning": "遠くに",
+    "example": "He walks far.",
+    "example_jp": "彼は遠くに歩く。"
+  },
+  {
+    "word": "hard",
+    "meaning": "難しい",
+    "example": "The test is hard.",
+    "example_jp": "そのテストは難しい。"
+  },
+  {
+    "word": "hard",
+    "meaning": "熱心に",
+    "example": "She studies hard.",
+    "example_jp": "彼女は熱心に勉強する。"
+  },
+  {
+    "word": "fast",
+    "meaning": "速い",
+    "example": "He is a fast runner.",
+    "example_jp": "彼は足の速い走者だ。"
+  },
+  {
+    "word": "fast",
+    "meaning": "速く",
+    "example": "The car moves fast.",
+    "example_jp": "車は速く動く。"
+  },
+  {
+    "word": "deep",
+    "meaning": "深い",
+    "example": "The water is deep.",
+    "example_jp": "水が深い。"
+  },
+  {
+    "word": "deep",
+    "meaning": "深く",
+    "example": "He sleeps deep.",
+    "example_jp": "彼は深く眠る。"
+  },
+  {
+    "word": "direct",
+    "meaning": "直接の",
+    "example": "This is a direct flight.",
+    "example_jp": "これは直接の便（直行便）だ。"
+  },
+  {
+    "word": "direct",
+    "meaning": "直接に",
+    "example": "Go direct to the station.",
+    "example_jp": "直接に駅へ行きなさい。"
+  },
+  {
+    "word": "well",
+    "meaning": "健康で",
+    "example": "She is well now.",
+    "example_jp": "彼女は今、健康だ。"
+  },
+  {
+    "word": "well",
+    "meaning": "よく",
+    "example": "He speaks English well.",
+    "example_jp": "彼は英語をよく話す。"
+  },
+  {
+    "word": "wide",
+    "meaning": "広い",
+    "example": "The road is wide.",
+    "example_jp": "その道路は広い。"
+  },
+  {
+    "word": "wide",
+    "meaning": "大きく",
+    "example": "The door opens wide.",
+    "example_jp": "ドアが大きく開く。"
+  },
+  {
+    "word": "pretty",
+    "meaning": "かわいい",
+    "example": "She is pretty.",
+    "example_jp": "彼女はかわいい。"
+  },
+  {
+    "word": "pretty",
+    "meaning": "かなり",
+    "example": "It is pretty cold today.",
+    "example_jp": "今日はかなり寒い。"
+  },
+  {
+    "word": "sharp",
+    "meaning": "鋭い",
+    "example": "The knife is sharp.",
+    "example_jp": "そのナイフは鋭い。"
+  },
+  {
+    "word": "sharp",
+    "meaning": "ちょうど",
+    "example": "The meeting starts at 10 sharp.",
+    "example_jp": "会議はちょうど10時に始まる。"
+  },
+  {
+    "word": "just",
+    "meaning": "たった今",
+    "example": "I just finished homework.",
+    "example_jp": "私はたった今宿題を終えた。"
+  },
+  {
+    "word": "already",
+    "meaning": "もう",
+    "example": "I already know that.",
+    "example_jp": "私はもうそれを知っている。"
+  },
+  {
+    "word": "recently",
+    "meaning": "最近",
+    "example": "I saw him recently.",
+    "example_jp": "私は最近彼に会った。"
+  },
+  {
+    "word": "lately",
+    "meaning": "最近",
+    "example": "I have been busy lately.",
+    "example_jp": "私は最近ずっと忙しい。"
+  },
+  {
+    "word": "yet",
+    "meaning": "まだ〜ない",
+    "example": "I haven’t eaten yet.",
+    "example_jp": "私はまだ食べていない。"
+  },
+  {
+    "word": "ever",
+    "meaning": "これまでに",
+    "example": "Have you ever been to Tokyo?",
+    "example_jp": "これまでに東京へ行ったことがありますか？"
+  },
+  {
+    "word": "twice",
+    "meaning": "２回",
+    "example": "I read the book twice.",
+    "example_jp": "私はその本を2回読んだ。"
+  }
+]

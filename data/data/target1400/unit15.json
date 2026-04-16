@@ -1,0 +1,302 @@
+[
+  {
+    "word": "confirm",
+    "meaning": "を裏付ける、(本当だと)確認する",
+    "example": "The data confirmed his theory.",
+    "example_jp": "そのデータは彼の理論を裏付けた。"
+  },
+  {
+    "word": "illustrate",
+    "meaning": "を説明する、を例証する",
+    "example": "This graph illustrates the change.",
+    "example_jp": "このグラフは変化を説明している。"
+  },
+  {
+    "word": "spell",
+    "meaning": "（語）をつづる",
+    "example": "Please spell your name.",
+    "example_jp": "あなたの名前をつづってください。"
+  },
+  {
+    "word": "bother",
+    "meaning": "を困らせる",
+    "example": "Sorry to bother you.",
+    "example_jp": "困らせてごめんなさい。"
+  },
+  {
+    "word": "annoy",
+    "meaning": "をいらいらさせる、悩ます",
+    "example": "The noise annoyed me.",
+    "example_jp": "その騒音は私をいらいらさせた。"
+  },
+  {
+    "word": "disturb",
+    "meaning": "を邪魔する",
+    "example": "Don’t disturb him.",
+    "example_jp": "彼を邪魔しないで。"
+  },
+  {
+    "word": "discourage",
+    "meaning": "を思いとどまらせる、を落胆させる",
+    "example": "The failure discouraged her.",
+    "example_jp": "失敗が彼女を落胆させた。"
+  },
+  {
+    "word": "embarrass",
+    "meaning": "を当惑させる、に恥ずかしい思いをさせる",
+    "example": "His comment embarrassed me.",
+    "example_jp": "彼の発言は私を当惑させた。"
+  },
+  {
+    "word": "frighten",
+    "meaning": "を怖がらせる",
+    "example": "The loud sound frightened the kids.",
+    "example_jp": "大きな音が子どもたちを怖がらせた。"
+  },
+  {
+    "word": "puzzle",
+    "meaning": "を当惑させる",
+    "example": "The question puzzled me.",
+    "example_jp": "その質問は私を当惑させた。"
+  },
+  {
+    "word": "upset",
+    "meaning": "を動揺させる",
+    "example": "The news upset him.",
+    "example_jp": "その知らせは彼を動揺させた。"
+  },
+  {
+    "word": "stimulate",
+    "meaning": "を刺激する",
+    "example": "The movie stimulated my imagination.",
+    "example_jp": "その映画は私の想像力を刺激した。"
+  },
+  {
+    "word": "beat",
+    "meaning": "を打ち負かす、（続けざまに）打つ",
+    "example": "Our team beat the champions.",
+    "example_jp": "私たちのチームは王者を打ち負かした。"
+  },
+  {
+    "word": "blow",
+    "meaning": "（風が）吹く",
+    "example": "A cold wind blew.",
+    "example_jp": "冷たい風が吹いた。"
+  },
+  {
+    "word": "injure",
+    "meaning": "を傷つける",
+    "example": "He injured his leg.",
+    "example_jp": "彼は足をけがした。"
+  },
+  {
+    "word": "cure",
+    "meaning": "を治す",
+    "example": "The medicine cured him.",
+    "example_jp": "その薬は彼を治した。"
+  },
+  {
+    "word": "recover",
+    "meaning": "回復する",
+    "example": "She recovered quickly.",
+    "example_jp": "彼女はすぐに回復した。"
+  },
+  {
+    "word": "overcome",
+    "meaning": "を克服する",
+    "example": "He overcame his fear.",
+    "example_jp": "彼は恐怖を克服した。"
+  },
+  {
+    "word": "quit",
+    "meaning": "をやめる",
+    "example": "He quit smoking.",
+    "example_jp": "彼は喫煙をやめた。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "を移す",
+    "example": "She transferred the files.",
+    "example_jp": "彼女はファイルを移した。"
+  },
+  {
+    "word": "transport",
+    "meaning": "を輸送する",
+    "example": "They transported goods by truck.",
+    "example_jp": "彼らはトラックで商品を輸送した。"
+  },
+  {
+    "word": "export",
+    "meaning": "を輸出する",
+    "example": "Japan exports cars.",
+    "example_jp": "日本は車を輸出している。"
+  },
+  {
+    "word": "import",
+    "meaning": "を輸入する",
+    "example": "They import coffee beans.",
+    "example_jp": "彼らはコーヒー豆を輸入している。"
+  },
+  {
+    "word": "invest",
+    "meaning": "投資する",
+    "example": "He invested in a startup.",
+    "example_jp": "彼はスタートアップに投資した。"
+  },
+  {
+    "word": "investigate",
+    "meaning": "を調査する",
+    "example": "The police investigated the case.",
+    "example_jp": "警察はその事件を調査した。"
+  },
+  {
+    "word": "manufacture",
+    "meaning": "を(大量に)製造する",
+    "example": "The factory manufactures toys.",
+    "example_jp": "その工場はおもちゃを製造している。"
+  },
+  {
+    "word": "react",
+    "meaning": "反応する",
+    "example": "He reacted quickly.",
+    "example_jp": "彼は素早く反応した。"
+  },
+  {
+    "word": "award",
+    "meaning": "（人）に（賞など）を授与する",
+    "example": "She was awarded a prize.",
+    "example_jp": "彼女は賞を授与された。"
+  },
+  {
+    "word": "ban",
+    "meaning": "を（公式に）禁止する",
+    "example": "They banned smoking indoors.",
+    "example_jp": "彼らは屋内での喫煙を禁止した。"
+  },
+  {
+    "word": "prohibit",
+    "meaning": "を禁止する",
+    "example": "The law prohibits drinking here.",
+    "example_jp": "法律はここでの飲酒を禁止している。"
+  },
+  {
+    "word": "forbid",
+    "meaning": "を禁じる",
+    "example": "My parents forbade it.",
+    "example_jp": "両親はそれを禁じた。"
+  },
+  {
+    "word": "abandon",
+    "meaning": "を捨てる",
+    "example": "They abandoned the plan.",
+    "example_jp": "彼らはその計画を捨てた。"
+  },
+  {
+    "word": "freeze",
+    "meaning": "凍る",
+    "example": "The lake froze overnight.",
+    "example_jp": "湖は一晩で凍った。"
+  },
+  {
+    "word": "lift",
+    "meaning": "を持ち上げる",
+    "example": "He lifted the box.",
+    "example_jp": "彼は箱を持ち上げた。"
+  },
+  {
+    "word": "hang",
+    "meaning": "を掛ける",
+    "example": "She hung the picture.",
+    "example_jp": "彼女は絵を掛けた。"
+  },
+  {
+    "word": "shake",
+    "meaning": "を振る",
+    "example": "He shook the bottle.",
+    "example_jp": "彼はボトルを振った。"
+  },
+  {
+    "word": "stretch",
+    "meaning": "を（引っ張って）伸ばす、広げる",
+    "example": "She stretched the rope.",
+    "example_jp": "彼女はロープを伸ばした。"
+  },
+  {
+    "word": "lay",
+    "meaning": "を置く、敷く",
+    "example": "He laid the book on the table.",
+    "example_jp": "彼は本をテーブルに置いた。"
+  },
+  {
+    "word": "stare",
+    "meaning": "じっと見つめる",
+    "example": "She stared at the screen.",
+    "example_jp": "彼女は画面をじっと見つめた。"
+  },
+  {
+    "word": "gaze",
+    "meaning": "見つめる",
+    "example": "He gazed at the stars.",
+    "example_jp": "彼は星を見つめた。"
+  },
+  {
+    "word": "capture",
+    "meaning": "を捕らえる",
+    "example": "They captured the thief.",
+    "example_jp": "彼らは泥棒を捕らえた。"
+  },
+  {
+    "word": "breed",
+    "meaning": "を繁殖させる、飼育する、（動物が）子を産む",
+    "example": "They breed horses.",
+    "example_jp": "彼らは馬を繁殖させている。"
+  },
+  {
+    "word": "mammal",
+    "meaning": "哺乳類、哺乳動物",
+    "example": "Humans are mammals.",
+    "example_jp": "人間は哺乳類だ。"
+  },
+  {
+    "word": "ape",
+    "meaning": "類人猿",
+    "example": "Apes are intelligent animals.",
+    "example_jp": "類人猿は知能の高い動物だ。"
+  },
+  {
+    "word": "insect",
+    "meaning": "昆虫",
+    "example": "The insect flew away.",
+    "example_jp": "その昆虫は飛んでいった。"
+  },
+  {
+    "word": "infant",
+    "meaning": "乳児",
+    "example": "The infant slept peacefully.",
+    "example_jp": "乳児は静かに眠っていた。"
+  },
+  {
+    "word": "organ",
+    "meaning": "臓器",
+    "example": "The heart is a vital organ.",
+    "example_jp": "心臓は重要な臓器だ。"
+  },
+  {
+    "word": "web",
+    "meaning": "（ワールドワイド）ウェブ",
+    "example": "I found the article on the web.",
+    "example_jp": "その記事をウェブで見つけた。"
+  },
+  {
+    "word": "fossil",
+    "meaning": "化石",
+    "example": "They discovered a fossil.",
+    "example_jp": "彼らは化石を発見した。"
+  },
+  {
+    "word": "battle",
+    "meaning": "戦闘",
+    "example": "The battle lasted all night.",
+    "example_jp": "戦闘は一晩中続いた。"
+  }
+]

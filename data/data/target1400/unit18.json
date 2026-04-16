@@ -1,0 +1,302 @@
+[
+  {
+    "word": "obesity",
+    "meaning": "肥満",
+    "example": "Obesity is a growing problem worldwide.",
+    "example_jp": "肥満は世界的に深刻化している問題だ。"
+  },
+  {
+    "word": "burden",
+    "meaning": "（精神的）負担、重荷",
+    "example": "The responsibility became a heavy burden.",
+    "example_jp": "その責任は大きな負担になった。"
+  },
+  {
+    "word": "emergency",
+    "meaning": "緊急（事態）",
+    "example": "Call this number in an emergency.",
+    "example_jp": "緊急時にはこの番号に電話してください。"
+  },
+  {
+    "word": "debt",
+    "meaning": "借金",
+    "example": "He is struggling to pay off his debt.",
+    "example_jp": "彼は借金を返済するのに苦労している。"
+  },
+  {
+    "word": "contract",
+    "meaning": "契約",
+    "example": "They signed a new contract.",
+    "example_jp": "彼らは新しい契約に署名した。"
+  },
+  {
+    "word": "client",
+    "meaning": "得意客",
+    "example": "The company has many clients.",
+    "example_jp": "その会社には多くの顧客がいる。"
+  },
+  {
+    "word": "therapy",
+    "meaning": "（心理）療法",
+    "example": "She is receiving therapy.",
+    "example_jp": "彼女は療法を受けている。"
+  },
+  {
+    "word": "physician",
+    "meaning": "内科医、医師",
+    "example": "He consulted a physician.",
+    "example_jp": "彼は医師に相談した。"
+  },
+  {
+    "word": "democracy",
+    "meaning": "民主主義",
+    "example": "Democracy values freedom.",
+    "example_jp": "民主主義は自由を重んじる。"
+  },
+  {
+    "word": "election",
+    "meaning": "選挙",
+    "example": "The election will be held next month.",
+    "example_jp": "選挙は来月行われる。"
+  },
+  {
+    "word": "vote",
+    "meaning": "投票",
+    "example": "Everyone has the right to vote.",
+    "example_jp": "誰もが投票する権利を持っている。"
+  },
+  {
+    "word": "candidate",
+    "meaning": "候補者",
+    "example": "She is a candidate for the position.",
+    "example_jp": "彼女はその職の候補者だ。"
+  },
+  {
+    "word": "minister",
+    "meaning": "大臣",
+    "example": "The minister announced a new policy.",
+    "example_jp": "大臣は新しい政策を発表した。"
+  },
+  {
+    "word": "conference",
+    "meaning": "会議",
+    "example": "They attended an international conference.",
+    "example_jp": "彼らは国際会議に出席した。"
+  },
+  {
+    "word": "ceremony",
+    "meaning": "式典、儀式",
+    "example": "The ceremony began at noon.",
+    "example_jp": "式典は正午に始まった。"
+  },
+  {
+    "word": "institution",
+    "meaning": "機関、制度",
+    "example": "He works at a financial institution.",
+    "example_jp": "彼は金融機関で働いている。"
+  },
+  {
+    "word": "corporation",
+    "meaning": "（大）企業",
+    "example": "The corporation expanded overseas.",
+    "example_jp": "その企業は海外に進出した。"
+  },
+  {
+    "word": "cooperation",
+    "meaning": "協力、共同",
+    "example": "We need your cooperation.",
+    "example_jp": "あなたの協力が必要だ。"
+  },
+  {
+    "word": "authority",
+    "meaning": "当局",
+    "example": "The authorities are investigating the case.",
+    "example_jp": "当局はその事件を調査している。"
+  },
+  {
+    "word": "theme",
+    "meaning": "主題、テーマ",
+    "example": "The theme of the book is love.",
+    "example_jp": "その本のテーマは愛だ。"
+  },
+  {
+    "word": "notion",
+    "meaning": "考え",
+    "example": "He rejected the notion.",
+    "example_jp": "彼はその考えを否定した。"
+  },
+  {
+    "word": "hypothesis",
+    "meaning": "仮説",
+    "example": "The hypothesis was tested.",
+    "example_jp": "その仮説は検証された。"
+  },
+  {
+    "word": "discipline",
+    "meaning": "規律、しつけ",
+    "example": "Discipline is important for success.",
+    "example_jp": "成功には規律が重要だ。"
+  },
+  {
+    "word": "route",
+    "meaning": "道（筋）",
+    "example": "This is the fastest route.",
+    "example_jp": "これが最も速い道だ。"
+  },
+  {
+    "word": "routine",
+    "meaning": "日課、決まりきった仕事",
+    "example": "Exercise is part of my routine.",
+    "example_jp": "運動は私の日課の一部だ。"
+  },
+  {
+    "word": "destination",
+    "meaning": "目的地",
+    "example": "We finally reached our destination.",
+    "example_jp": "私たちはついに目的地に到着した。"
+  },
+  {
+    "word": "domestic",
+    "meaning": "国内の",
+    "example": "Domestic flights are cheaper.",
+    "example_jp": "国内線は安い。"
+  },
+  {
+    "word": "ethnic",
+    "meaning": "民族の、人種の",
+    "example": "They study ethnic diversity.",
+    "example_jp": "彼らは民族の多様性を研究している。"
+  },
+  {
+    "word": "alien",
+    "meaning": "異質の",
+    "example": "The idea felt alien to me.",
+    "example_jp": "その考えは私には異質に感じられた。"
+  },
+  {
+    "word": "visible",
+    "meaning": "目に見える",
+    "example": "The stars were barely visible.",
+    "example_jp": "星はかろうじて見えた。"
+  },
+  {
+    "word": "verbal",
+    "meaning": "言葉による",
+    "example": "He gave a verbal explanation.",
+    "example_jp": "彼は口頭で説明した。"
+  },
+  {
+    "word": "fundamental",
+    "meaning": "基本の",
+    "example": "Reading is a fundamental skill.",
+    "example_jp": "読解は基本的な技能だ。"
+  },
+  {
+    "word": "conventional",
+    "meaning": "従来の、ありきたりの",
+    "example": "They used a conventional method.",
+    "example_jp": "彼らは従来の方法を使った。"
+  },
+  {
+    "word": "relevant",
+    "meaning": "関係のある",
+    "example": "Your comment is not relevant.",
+    "example_jp": "あなたのコメントは関連性がない。"
+  },
+  {
+    "word": "rational",
+    "meaning": "合理的な",
+    "example": "He made a rational decision.",
+    "example_jp": "彼は合理的な決断をした。"
+  },
+  {
+    "word": "precise",
+    "meaning": "正確な",
+    "example": "We need precise data.",
+    "example_jp": "正確なデータが必要だ。"
+  },
+  {
+    "word": "principal",
+    "meaning": "主要な",
+    "example": "Cost is the principal factor.",
+    "example_jp": "費用が主要な要因だ。"
+  },
+  {
+    "word": "crucial",
+    "meaning": "重大な",
+    "example": "This step is crucial.",
+    "example_jp": "このステップは非常に重要だ。"
+  },
+  {
+    "word": "permanent",
+    "meaning": "永続的な",
+    "example": "She got a permanent job.",
+    "example_jp": "彼女は正社員の職を得た。"
+  },
+  {
+    "word": "intense",
+    "meaning": "激しい、強烈な",
+    "example": "The heat was intense.",
+    "example_jp": "暑さは非常に強烈だった。"
+  },
+  {
+    "word": "equivalent",
+    "meaning": "相当する",
+    "example": "This amount is equivalent to 100 dollars.",
+    "example_jp": "この金額は100ドルに相当する。"
+  },
+  {
+    "word": "frequent",
+    "meaning": "頻繁な",
+    "example": "He makes frequent visits.",
+    "example_jp": "彼は頻繁に訪れる。"
+  },
+  {
+    "word": "sudden",
+    "meaning": "急な",
+    "example": "There was a sudden change.",
+    "example_jp": "急な変化があった。"
+  },
+  {
+    "word": "temporary",
+    "meaning": "臨時の、一時的な",
+    "example": "She found a temporary job.",
+    "example_jp": "彼女は一時的な仕事を見つけた。"
+  },
+  {
+    "word": "internal",
+    "meaning": "内部の",
+    "example": "They checked the internal system.",
+    "example_jp": "彼らは内部システムを確認した。"
+  },
+  {
+    "word": "external",
+    "meaning": "外部の",
+    "example": "External factors affected the result.",
+    "example_jp": "外部要因が結果に影響した。"
+  },
+  {
+    "word": "distinct",
+    "meaning": "まったく異なる",
+    "example": "The two cultures are distinct.",
+    "example_jp": "その2つの文化はまったく異なる。"
+  },
+  {
+    "word": "extinct",
+    "meaning": "絶滅した",
+    "example": "Many species are now extinct.",
+    "example_jp": "多くの種が絶滅している。"
+  },
+  {
+    "word": "exhausted",
+    "meaning": "疲れ果てた",
+    "example": "He was exhausted after work.",
+    "example_jp": "彼は仕事の後、疲れ果てていた。"
+  },
+  {
+    "word": "evil",
+    "meaning": "邪悪な",
+    "example": "The story describes an evil force.",
+    "example_jp": "その物語は邪悪な力を描いている。"
+  }
+]

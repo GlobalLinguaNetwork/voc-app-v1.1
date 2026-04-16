@@ -1,0 +1,338 @@
+[
+  {
+    "word": "believe",
+    "meaning": "信じる",
+    "example": "I believe your story.",
+    "example_jp": "私はあなたの話を信じる。"
+  },
+  {
+    "word": "believe",
+    "meaning": "信用する",
+    "example": "They believe in him.",
+    "example_jp": "彼らは彼を信用する。"
+  },
+  {
+    "word": "notice",
+    "meaning": "気づく",
+    "example": "I notice a small change.",
+    "example_jp": "私は小さな変化に気づく。"
+  },
+  {
+    "word": "exist",
+    "meaning": "存在する",
+    "example": "Many stars exist in the universe.",
+    "example_jp": "宇宙には多くの星が存在する。"
+  },
+  {
+    "word": "discuss",
+    "meaning": "について議論する",
+    "example": "We discuss the problem.",
+    "example_jp": "私たちはその問題について議論する。"
+  },
+  {
+    "word": "agree",
+    "meaning": "意見が一致する",
+    "example": "I agree with you.",
+    "example_jp": "私はあなたと意見が一致する。"
+  },
+  {
+    "word": "disagree",
+    "meaning": "意見が異なる",
+    "example": "I disagree with his idea.",
+    "example_jp": "私は彼の考えと意見が異なる。"
+  },
+  {
+    "word": "raise",
+    "meaning": "上げる",
+    "example": "I raise my hand.",
+    "example_jp": "私は手を上げる。"
+  },
+  {
+    "word": "rise",
+    "meaning": "上がる",
+    "example": "The sun rises at six.",
+    "example_jp": "太陽は6時に上がる。"
+  },
+  {
+    "word": "approach",
+    "meaning": "近づく",
+    "example": "He approaches the door.",
+    "example_jp": "彼はドアに近づく。"
+  },
+  {
+    "word": "complain",
+    "meaning": "不平を言う",
+    "example": "She complains about the noise.",
+    "example_jp": "彼女はその騒音について不平を言う。"
+  },
+  {
+    "word": "lie",
+    "meaning": "横たわる",
+    "example": "He lies on the bed.",
+    "example_jp": "彼はベッドに横たわる。"
+  },
+  {
+    "word": "lie",
+    "meaning": "ある",
+    "example": "The town lies near the river.",
+    "example_jp": "その町は川の近くにある。"
+  },
+  {
+    "word": "lay",
+    "meaning": "横たえる",
+    "example": "I lay the baby on the bed.",
+    "example_jp": "私は赤ちゃんをベッドに横たえる。"
+  },
+  {
+    "word": "lay",
+    "meaning": "置く",
+    "example": "I lay the book on the table.",
+    "example_jp": "私は本をテーブルの上に置く。"
+  },
+  {
+    "word": "marry",
+    "meaning": "と結婚する",
+    "example": "She marries him next year.",
+    "example_jp": "彼女は来年彼と結婚する。"
+  },
+  {
+    "word": "order",
+    "meaning": "命じる",
+    "example": "He orders me to wait.",
+    "example_jp": "彼は私に待つように命じる。"
+  },
+  {
+    "word": "demand",
+    "meaning": "要求する",
+    "example": "They demand answers.",
+    "example_jp": "彼らは回答を要求する。"
+  },
+  {
+    "word": "request",
+    "meaning": "頼む",
+    "example": "I request more time.",
+    "example_jp": "私はもっと時間を頼む。"
+  },
+  {
+    "word": "seem",
+    "meaning": "のように思える",
+    "example": "He seems happy.",
+    "example_jp": "彼は幸せのように思える。"
+  },
+  {
+    "word": "appear",
+    "meaning": "のように見える",
+    "example": "She appears tired.",
+    "example_jp": "彼女は疲れているように見える。"
+  },
+  {
+    "word": "prove",
+    "meaning": "と判明する",
+    "example": "The story proves true.",
+    "example_jp": "その話は真実だと判明する。"
+  },
+  {
+    "word": "tell",
+    "meaning": "伝える",
+    "example": "I tell him the truth.",
+    "example_jp": "私は彼に真実を伝える。"
+  },
+  {
+    "word": "expect",
+    "meaning": "予期する",
+    "example": "I expect good results.",
+    "example_jp": "私は良い結果を予期する。"
+  },
+  {
+    "word": "warn",
+    "meaning": "警告する",
+    "example": "They warn us of danger.",
+    "example_jp": "彼らは私たちに危険を警告する。"
+  },
+  {
+    "word": "forbid",
+    "meaning": "禁ずる",
+    "example": "The rule forbids smoking.",
+    "example_jp": "その規則は喫煙を禁ずる。"
+  },
+  {
+    "word": "feel",
+    "meaning": "感じる",
+    "example": "I feel cold.",
+    "example_jp": "私は寒さを感じる。"
+  },
+  {
+    "word": "hear",
+    "meaning": "が聞こえる",
+    "example": "I hear music.",
+    "example_jp": "音楽が聞こえる。"
+  },
+  {
+    "word": "watch",
+    "meaning": "見る",
+    "example": "I watch the game.",
+    "example_jp": "私はその試合を見る。"
+  },
+  {
+    "word": "decide",
+    "meaning": "決める",
+    "example": "I decide to go.",
+    "example_jp": "私は行くことに決める。"
+  },
+  {
+    "word": "manage",
+    "meaning": "何とかやり遂げる",
+    "example": "I manage to finish it.",
+    "example_jp": "私は何とかそれをやり遂げる。"
+  },
+  {
+    "word": "promise",
+    "meaning": "約束する",
+    "example": "I promise to help.",
+    "example_jp": "私は助けることを約束する。"
+  },
+  {
+    "word": "afford",
+    "meaning": "余裕がある",
+    "example": "I can’t afford a new car.",
+    "example_jp": "私は新しい車を買う余裕がない。"
+  },
+  {
+    "word": "pretend",
+    "meaning": "ふりをする",
+    "example": "He pretends to sleep.",
+    "example_jp": "彼は眠るふりをする。"
+  },
+  {
+    "word": "refuse",
+    "meaning": "断る",
+    "example": "She refuses the offer.",
+    "example_jp": "彼女はその申し出を断る。"
+  },
+  {
+    "word": "consider",
+    "meaning": "よく考える",
+    "example": "I consider the plan.",
+    "example_jp": "私はその計画をよく考える。"
+  },
+  {
+    "word": "stop",
+    "meaning": "やめる",
+    "example": "I stop talking.",
+    "example_jp": "私は話すのをやめる。"
+  },
+  {
+    "word": "finish",
+    "meaning": "終える",
+    "example": "I finish my work.",
+    "example_jp": "私は仕事を終える。"
+  },
+  {
+    "word": "avoid",
+    "meaning": "避ける",
+    "example": "I avoid mistakes.",
+    "example_jp": "私は間違いを避ける。"
+  },
+  {
+    "word": "imagine",
+    "meaning": "想像する",
+    "example": "I imagine the future.",
+    "example_jp": "私は未来を想像する。"
+  },
+  {
+    "word": "escape",
+    "meaning": "逃れる",
+    "example": "He escapes from danger.",
+    "example_jp": "彼は危険から逃れる。"
+  },
+  {
+    "word": "quit",
+    "meaning": "やめる",
+    "example": "I quit the job.",
+    "example_jp": "私はその仕事をやめる。"
+  },
+  {
+    "word": "dislike",
+    "meaning": "嫌う",
+    "example": "I dislike cold weather.",
+    "example_jp": "私は寒い天候を嫌う。"
+  },
+  {
+    "word": "start",
+    "meaning": "始める",
+    "example": "We start the game.",
+    "example_jp": "私たちは試合を始める。"
+  },
+  {
+    "word": "start",
+    "meaning": "出発する",
+    "example": "We start at noon.",
+    "example_jp": "私たちは正午に出発する。"
+  },
+  {
+    "word": "begin",
+    "meaning": "始める",
+    "example": "I begin to study.",
+    "example_jp": "私は勉強を始める。"
+  },
+  {
+    "word": "continue",
+    "meaning": "続ける",
+    "example": "We continue the work.",
+    "example_jp": "私たちは仕事を続ける。"
+  },
+  {
+    "word": "prefer",
+    "meaning": "の方を好む",
+    "example": "I prefer tea to coffee.",
+    "example_jp": "私はコーヒーより紅茶の方を好む。"
+  },
+  {
+    "word": "hate",
+    "meaning": "ひどく嫌う",
+    "example": "I hate waiting.",
+    "example_jp": "私は待つことをひどく嫌う。"
+  },
+  {
+    "word": "try",
+    "meaning": "試みる",
+    "example": "I try to help.",
+    "example_jp": "私は助けようと試みる。"
+  },
+  {
+    "word": "remember",
+    "meaning": "覚えている",
+    "example": "I remember your name.",
+    "example_jp": "私はあなたの名前を覚えている。"
+  },
+  {
+    "word": "remember",
+    "meaning": "思い出す",
+    "example": "I remember the day.",
+    "example_jp": "私はその日を思い出す。"
+  },
+  {
+    "word": "forget",
+    "meaning": "忘れる",
+    "example": "I forget his number.",
+    "example_jp": "私は彼の番号を忘れる。"
+  },
+  {
+    "word": "regret",
+    "meaning": "後悔する",
+    "example": "I regret my words.",
+    "example_jp": "私は自分の言葉を後悔する。"
+  },
+  {
+    "word": "air",
+    "meaning": "空気",
+    "example": "The air is fresh.",
+    "example_jp": "空気は新鮮だ。"
+  },
+  {
+    "word": "air",
+    "meaning": "大気",
+    "example": "The air around the city is warm.",
+    "example_jp": "都市の周りの大気は暖かい。"
+  }
+]

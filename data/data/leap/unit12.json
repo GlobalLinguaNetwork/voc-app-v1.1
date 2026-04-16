@@ -1,0 +1,584 @@
+[
+  {
+    "word": "attach",
+    "meaning": "～をくっつける",
+    "example": "He attached a label to the bag.",
+    "example_jp": "彼はバッグにラベルをくっつけた。"
+  },
+  {
+    "word": "attach",
+    "meaning": "～に愛着を持たせる",
+    "example": "She is attached to her dog.",
+    "example_jp": "彼女は自分の犬に愛着を持っている（愛着を持たせている）。"
+  },
+  {
+    "word": "connect",
+    "meaning": "～をつなげる",
+    "example": "Connect the printer to the PC.",
+    "example_jp": "プリンターをPCにつなげなさい。"
+  },
+  {
+    "word": "connect",
+    "meaning": "～を関連づける",
+    "example": "I don't connect him with the crime.",
+    "example_jp": "私は彼とその犯罪を関連づけない。"
+  },
+  {
+    "word": "connect",
+    "meaning": "つながる",
+    "example": "This road connects with the highway.",
+    "example_jp": "この道路は幹線道路（ハイウェイ）につながる。"
+  },
+  {
+    "word": "relate",
+    "meaning": "～を話す",
+    "example": "He related the story to me.",
+    "example_jp": "彼はその話を私に話した。"
+  },
+  {
+    "word": "relate",
+    "meaning": "～を関連づける",
+    "example": "Relate theory to practice.",
+    "example_jp": "理論を実践に関連づけなさい。"
+  },
+  {
+    "word": "relate",
+    "meaning": "理解を示す",
+    "example": "I can relate to your feelings.",
+    "example_jp": "私はあなたの気持ちに理解を示すことができる。"
+  },
+  {
+    "word": "associate",
+    "meaning": "～を関連づける（連想する）",
+    "example": "I associate summer with the sea.",
+    "example_jp": "私は夏と海を関連づける（連想する）。"
+  },
+  {
+    "word": "associate",
+    "meaning": "付き合う",
+    "example": "Don't associate with bad people.",
+    "example_jp": "悪い人たちと付き合ってはいけない。"
+  },
+  {
+    "word": "associate",
+    "meaning": "同僚",
+    "example": "He is my business associate.",
+    "example_jp": "彼は私のビジネス上の同僚だ。"
+  },
+  {
+    "word": "stick",
+    "meaning": "～を貼り付ける",
+    "example": "Stick a stamp on the envelope.",
+    "example_jp": "封筒に切手を貼り付けなさい。"
+  },
+  {
+    "word": "stick",
+    "meaning": "（舌など）を出す",
+    "example": "Don't stick your tongue out.",
+    "example_jp": "舌を出してはいけない。"
+  },
+  {
+    "word": "stick",
+    "meaning": "守る（固執する）",
+    "example": "He stuck to his promise.",
+    "example_jp": "彼は約束を守った（固執した）。"
+  },
+  {
+    "word": "thief",
+    "meaning": "泥棒",
+    "example": "A thief stole my wallet.",
+    "example_jp": "泥棒が私の財布を盗んだ。"
+  },
+  {
+    "word": "crime",
+    "meaning": "犯罪",
+    "example": "He committed a crime.",
+    "example_jp": "彼は犯罪を犯した。"
+  },
+  {
+    "word": "motive",
+    "meaning": "動機",
+    "example": "What was his motive?",
+    "example_jp": "彼の動機は何だったのか。"
+  },
+  {
+    "word": "punish",
+    "meaning": "罰する",
+    "example": "He was punished for speeding.",
+    "example_jp": "彼はスピード違反で罰せられた。"
+  },
+  {
+    "word": "violate",
+    "meaning": "違反する",
+    "example": "He violated the law.",
+    "example_jp": "彼は法律に違反した。"
+  },
+  {
+    "word": "violate",
+    "meaning": "侵害する",
+    "example": "Don't violate my privacy.",
+    "example_jp": "私のプライバシーを侵害しないで。"
+  },
+  {
+    "word": "legal",
+    "meaning": "合法の",
+    "example": "Gambling is not legal here.",
+    "example_jp": "ここではギャンブルは合法ではない。"
+  },
+  {
+    "word": "legal",
+    "meaning": "法律の",
+    "example": "He gave me legal advice.",
+    "example_jp": "彼は私に法律のアドバイスをくれた。"
+  },
+  {
+    "word": "enemy",
+    "meaning": "敵",
+    "example": "He made an enemy of her.",
+    "example_jp": "彼は彼女を敵に回した。"
+  },
+  {
+    "word": "enemy",
+    "meaning": "敵の",
+    "example": "We spotted enemy aircraft.",
+    "example_jp": "私たちは敵の航空機を発見した。"
+  },
+  {
+    "word": "conflict",
+    "meaning": "対立（紛争）",
+    "example": "The conflict ended peacefully.",
+    "example_jp": "その対立（紛争）は平和的に終わった。"
+  },
+  {
+    "word": "conflict",
+    "meaning": "葛藤",
+    "example": "He felt inner conflict.",
+    "example_jp": "彼は心の葛藤を感じた。"
+  },
+  {
+    "word": "conflict",
+    "meaning": "矛盾する",
+    "example": "His story conflicts with hers.",
+    "example_jp": "彼の話は彼女の話と矛盾する。"
+  },
+  {
+    "word": "compete",
+    "meaning": "競争する",
+    "example": "Several teams competed for the prize.",
+    "example_jp": "いくつかのチームが賞を求めて競争した。"
+  },
+  {
+    "word": "compete",
+    "meaning": "参加する",
+    "example": "He competed in the Olympics.",
+    "example_jp": "彼はオリンピックに参加した。"
+  },
+  {
+    "word": "defeat",
+    "meaning": "～を打ち負かす",
+    "example": "We defeated the enemy.",
+    "example_jp": "私たちは敵を打ち負かした。"
+  },
+  {
+    "word": "defeat",
+    "meaning": "敗北",
+    "example": "He admitted defeat.",
+    "example_jp": "彼は敗北を認めた。"
+  },
+  {
+    "word": "victim",
+    "meaning": "犠牲者",
+    "example": "She is a victim of fraud.",
+    "example_jp": "彼女は詐欺の犠牲者だ。"
+  },
+  {
+    "word": "obstacle",
+    "meaning": "障害",
+    "example": "Lack of money is a major obstacle.",
+    "example_jp": "お金の不足が大きな障害だ。"
+  },
+  {
+    "word": "harm",
+    "meaning": "害",
+    "example": "Smoking does harm to health.",
+    "example_jp": "喫煙は健康に害を及ぼす。"
+  },
+  {
+    "word": "harm",
+    "meaning": "～に害を与える",
+    "example": "Don't harm the animals.",
+    "example_jp": "動物たちに害を与えてはいけない。"
+  },
+  {
+    "word": "invade",
+    "meaning": "侵害する",
+    "example": "Don't invade my privacy.",
+    "example_jp": "私のプライバシーを侵害しないで。"
+  },
+  {
+    "word": "invade",
+    "meaning": "～に侵入する（侵略する）",
+    "example": "Germany invaded Poland.",
+    "example_jp": "ドイツはポーランドに侵入した（侵略した）。"
+  },
+  {
+    "word": "endanger",
+    "meaning": "～を危険にさらす",
+    "example": "Pollution endangers wildlife.",
+    "example_jp": "汚染が野生生物を危険にさらしている。"
+  },
+  {
+    "word": "interrupt",
+    "meaning": "～を中断する（遮る）",
+    "example": "Don't interrupt me.",
+    "example_jp": "私の邪魔（中断・遮り）をしないで。"
+  },
+  {
+    "word": "interrupt",
+    "meaning": "人の話を遮る",
+    "example": "May I interrupt?",
+    "example_jp": "（人の話を遮って）よろしいでしょうか。"
+  },
+  {
+    "word": "spoil",
+    "meaning": "～を台無しにする",
+    "example": "The rain spoiled the picnic.",
+    "example_jp": "雨がピクニックを台無しにした。"
+  },
+  {
+    "word": "spoil",
+    "meaning": "甘やかす",
+    "example": "Don't spoil your child.",
+    "example_jp": "子供を甘やかしてはいけない。"
+  },
+  {
+    "word": "spectator",
+    "meaning": "観客",
+    "example": "The stadium was full of spectators.",
+    "example_jp": "スタジアムは観客でいっぱいだった。"
+  },
+  {
+    "word": "relative",
+    "meaning": "親戚",
+    "example": "He is a distant relative.",
+    "example_jp": "彼は遠い親戚だ。"
+  },
+  {
+    "word": "relative",
+    "meaning": "相対的な",
+    "example": "Everything is relative.",
+    "example_jp": "すべては相対的なものだ。"
+  },
+  {
+    "word": "departure",
+    "meaning": "出発",
+    "example": "The time of departure is 10 a.m.",
+    "example_jp": "出発の時刻は午前10時だ。"
+  },
+  {
+    "word": "departure",
+    "meaning": "逸脱",
+    "example": "This is a departure from tradition.",
+    "example_jp": "これは伝統からの逸脱だ。"
+  },
+  {
+    "word": "destination",
+    "meaning": "目的地",
+    "example": "We reached our destination.",
+    "example_jp": "私たちは目的地に到着した。"
+  },
+  {
+    "word": "destination",
+    "meaning": "観光地",
+    "example": "Hawaii is a popular tourist destination.",
+    "example_jp": "ハワイは人気の観光地だ。"
+  },
+  {
+    "word": "transportation",
+    "meaning": "交通機関",
+    "example": "Public transportation is convenient.",
+    "example_jp": "公共交通機関は便利だ。"
+  },
+  {
+    "word": "vehicle",
+    "meaning": "車両",
+    "example": "Cars are vehicles.",
+    "example_jp": "車は車両だ。"
+  },
+  {
+    "word": "vehicle",
+    "meaning": "伝達手段",
+    "example": "Art is a vehicle for expression.",
+    "example_jp": "芸術は表現の伝達手段だ。"
+  },
+  {
+    "word": "baggage",
+    "meaning": "手荷物",
+    "example": "Check your baggage here.",
+    "example_jp": "ここで手荷物を預けて（チェックして）ください。"
+  },
+  {
+    "word": "via",
+    "meaning": "～経由で",
+    "example": "We flew to Paris via London.",
+    "example_jp": "私たちはロンドン経由でパリへ飛んだ。"
+  },
+  {
+    "word": "via",
+    "meaning": "～によって",
+    "example": "I sent the file via email.",
+    "example_jp": "私はメールによってファイルを送った。"
+  },
+  {
+    "word": "lead",
+    "meaning": "至る",
+    "example": "This road leads to the station.",
+    "example_jp": "この道は駅に至る。"
+  },
+  {
+    "word": "lead",
+    "meaning": "（生活）を送る",
+    "example": "He leads a happy life.",
+    "example_jp": "彼は幸せな生活を送っている。"
+  },
+  {
+    "word": "lead",
+    "meaning": "～させる",
+    "example": "What led you to believe that?",
+    "example_jp": "何があなたにそう信じさせたのか。"
+  },
+  {
+    "word": "lead",
+    "meaning": "芯（鉛）",
+    "example": "Pencil lead is made of graphite.",
+    "example_jp": "鉛筆の芯は黒鉛でできている。"
+  },
+  {
+    "word": "rise",
+    "meaning": "昇る",
+    "example": "The sun rises in the east.",
+    "example_jp": "太陽は東から昇る。"
+  },
+  {
+    "word": "rise",
+    "meaning": "上昇",
+    "example": "There was a rise in prices.",
+    "example_jp": "物価の上昇があった。"
+  },
+  {
+    "word": "flow",
+    "meaning": "流れる",
+    "example": "The river flows into the sea.",
+    "example_jp": "その川は海に流れる。"
+  },
+  {
+    "word": "flow",
+    "meaning": "流れ",
+    "example": "Stem the flow of blood.",
+    "example_jp": "血液の流れを止めなさい。"
+  },
+  {
+    "word": "burst",
+    "meaning": "破裂する",
+    "example": "The balloon burst.",
+    "example_jp": "風船が破裂した。"
+  },
+  {
+    "word": "burst",
+    "meaning": "突然～し始める",
+    "example": "She burst into tears.",
+    "example_jp": "彼女は突然泣き始めた。"
+  },
+  {
+    "word": "melt",
+    "meaning": "溶ける",
+    "example": "The snow melted.",
+    "example_jp": "雪が溶けた。"
+  },
+  {
+    "word": "melt",
+    "meaning": "～を溶かす",
+    "example": "Heat melts butter.",
+    "example_jp": "熱がバターを溶かす。"
+  },
+  {
+    "word": "commute",
+    "meaning": "通勤する",
+    "example": "I commute by train.",
+    "example_jp": "私は電車で通勤している。"
+  },
+  {
+    "word": "commute",
+    "meaning": "通勤（距離）",
+    "example": "It's a long commute.",
+    "example_jp": "それは長い通勤（距離）だ。"
+  },
+  {
+    "word": "accompany",
+    "meaning": "～と一緒に行く",
+    "example": "I accompanied her to the station.",
+    "example_jp": "私は彼女と一緒に駅まで行った。"
+  },
+  {
+    "word": "accompany",
+    "meaning": "～に伴う",
+    "example": "Thunder accompanies lightning.",
+    "example_jp": "雷は稲妻に伴う。"
+  },
+  {
+    "word": "emit",
+    "meaning": "～を排出する",
+    "example": "The sun emits light and heat.",
+    "example_jp": "太陽は光と熱を排出している。"
+  },
+  {
+    "word": "progress",
+    "meaning": "進歩",
+    "example": "Science has made great progress.",
+    "example_jp": "科学は大きな進歩を遂げた。"
+  },
+  {
+    "word": "progress",
+    "meaning": "進歩する（進む）",
+    "example": "Work is progressing well.",
+    "example_jp": "仕事は順調に進歩している（進んでいる）。"
+  },
+  {
+    "word": "advance",
+    "meaning": "進歩（前進）",
+    "example": "Technological advance is rapid.",
+    "example_jp": "技術的な進歩（前進）は急速だ。"
+  },
+  {
+    "word": "advance",
+    "meaning": "前進する",
+    "example": "The army advanced.",
+    "example_jp": "軍隊は前進した。"
+  },
+  {
+    "word": "advance",
+    "meaning": "事前の",
+    "example": "I need advance notice.",
+    "example_jp": "私は事前の通知が必要だ。"
+  },
+  {
+    "word": "deal",
+    "meaning": "～を扱う",
+    "example": "I can't deal with this problem.",
+    "example_jp": "私はこの問題を扱うことができない。"
+  },
+  {
+    "word": "deal",
+    "meaning": "取り引き",
+    "example": "We made a deal.",
+    "example_jp": "私たちは取り引きをした。"
+  },
+  {
+    "word": "handle",
+    "meaning": "～を扱う",
+    "example": "Handle with care.",
+    "example_jp": "注意して扱ってください。"
+  },
+  {
+    "word": "handle",
+    "meaning": "（手で）～を扱う（触れる）",
+    "example": "Don't handle the food.",
+    "example_jp": "食べ物を（手で）扱わない（触れない）で。"
+  },
+  {
+    "word": "handle",
+    "meaning": "取っ手",
+    "example": "Turn the handle.",
+    "example_jp": "取っ手を回しなさい。"
+  },
+  {
+    "word": "treat",
+    "meaning": "～を扱う",
+    "example": "He treats me like a child.",
+    "example_jp": "彼は私を子供のように扱う。"
+  },
+  {
+    "word": "treat",
+    "meaning": "治療する",
+    "example": "The doctor treated the patient.",
+    "example_jp": "医者は患者を治療した。"
+  },
+  {
+    "word": "treat",
+    "meaning": "おごる",
+    "example": "I'll treat you to lunch.",
+    "example_jp": "私がランチをおごります。"
+  },
+  {
+    "word": "treat",
+    "meaning": "楽しみ",
+    "example": "It was a real treat.",
+    "example_jp": "それは本当に楽しみ（ごちそう）だった。"
+  },
+  {
+    "word": "clue",
+    "meaning": "手がかり",
+    "example": "The police found a clue to the mystery.",
+    "example_jp": "警察はその謎への手がかりを見つけた。"
+  },
+  {
+    "word": "restrict",
+    "meaning": "～を制限する",
+    "example": "Speed is restricted here.",
+    "example_jp": "ここでは速度が制限されている。"
+  },
+  {
+    "word": "limit",
+    "meaning": "～を制限する",
+    "example": "Limit your speech to 5 minutes.",
+    "example_jp": "スピーチを5分間に制限しなさい。"
+  },
+  {
+    "word": "limit",
+    "meaning": "制限",
+    "example": "There is a limit to my patience.",
+    "example_jp": "私の忍耐には制限がある。"
+  },
+  {
+    "word": "forbid",
+    "meaning": "～を禁じる",
+    "example": "I forbid you to go.",
+    "example_jp": "あなたが行くことを禁じる。"
+  },
+  {
+    "word": "ban",
+    "meaning": "禁止",
+    "example": "There is a ban on smoking.",
+    "example_jp": "喫煙の禁止がある。"
+  },
+  {
+    "word": "ban",
+    "meaning": "～を禁止する",
+    "example": "They banned the book.",
+    "example_jp": "彼らはその本を禁止した。"
+  },
+  {
+    "word": "refuse",
+    "meaning": "拒む",
+    "example": "He refused to help.",
+    "example_jp": "彼は助けることを拒んだ。"
+  },
+  {
+    "word": "refuse",
+    "meaning": "～を断る",
+    "example": "She refused the offer.",
+    "example_jp": "彼女はその申し出を断った。"
+  },
+  {
+    "word": "reject",
+    "meaning": "～を拒絶する",
+    "example": "They rejected my proposal.",
+    "example_jp": "彼らは私の提案を拒絶した。"
+  },
+  {
+    "word": "reject",
+    "meaning": "除け者（拒む）",
+    "example": "He was rejected by his friends.",
+    "example_jp": "彼は友人たちから拒まれ（除け者にされ）た。"
+  }
+]

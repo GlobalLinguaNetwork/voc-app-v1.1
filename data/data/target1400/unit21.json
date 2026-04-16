@@ -1,0 +1,302 @@
+[
+  {
+    "word": "delight",
+    "meaning": "大喜びさせる",
+    "example": "The news delighted her.",
+    "example_jp": "その知らせは彼女を大喜びさせた。"
+  },
+  {
+    "word": "entertain",
+    "meaning": "楽しませる",
+    "example": "The show entertained us.",
+    "example_jp": "そのショーは私たちを楽しませた。"
+  },
+  {
+    "word": "fulfill",
+    "meaning": "満たす",
+    "example": "The job fulfills me.",
+    "example_jp": "その仕事は私を満たしてくれる。"
+  },
+  {
+    "word": "cheer",
+    "meaning": "元気づける",
+    "example": "Her smile cheered me up.",
+    "example_jp": "彼女の笑顔が私を元気づけた。"
+  },
+  {
+    "word": "amuse",
+    "meaning": "笑わせる",
+    "example": "His joke amused everyone.",
+    "example_jp": "彼の冗談はみんなを笑わせた。"
+  },
+  {
+    "word": "anticipate",
+    "meaning": "予期する",
+    "example": "I anticipate good results.",
+    "example_jp": "私は良い結果を予期している。"
+  },
+  {
+    "word": "confront",
+    "meaning": "立ちはだかる",
+    "example": "We must confront the problem.",
+    "example_jp": "私たちはその問題に立ちはだかわなければならない。"
+  },
+  {
+    "word": "undergo",
+    "meaning": "経験する",
+    "example": "She underwent surgery.",
+    "example_jp": "彼女は手術を経験した。"
+  },
+  {
+    "word": "exceed",
+    "meaning": "超える",
+    "example": "Sales exceeded expectations.",
+    "example_jp": "売上は期待を超えた。"
+  },
+  {
+    "word": "overwhelm",
+    "meaning": "まいらせる",
+    "example": "The work overwhelmed him.",
+    "example_jp": "その仕事は彼をまいらせた。"
+  },
+  {
+    "word": "shoot",
+    "meaning": "撃つ",
+    "example": "He shot the target.",
+    "example_jp": "彼は標的を撃った。"
+  },
+  {
+    "word": "murder",
+    "meaning": "殺害する",
+    "example": "He murdered the victim.",
+    "example_jp": "彼は被害者を殺害した。"
+  },
+  {
+    "word": "rob",
+    "meaning": "奪う",
+    "example": "They robbed the store.",
+    "example_jp": "彼らは店を奪った。"
+  },
+  {
+    "word": "deprive",
+    "meaning": "奪う",
+    "example": "The noise deprived me of sleep.",
+    "example_jp": "騒音が私から睡眠を奪った。"
+  },
+  {
+    "word": "rid",
+    "meaning": "を取り除く",
+    "example": "I rid my room of clutter.",
+    "example_jp": "私は部屋のがらくたを取り除いた。"
+  },
+  {
+    "word": "interrupt",
+    "meaning": "さえぎる",
+    "example": "He interrupted our talk.",
+    "example_jp": "彼は私たちの会話をさえぎった。"
+  },
+  {
+    "word": "interfere",
+    "meaning": "邪魔する",
+    "example": "Don’t interfere with my work.",
+    "example_jp": "私の仕事を邪魔しないで。"
+  },
+  {
+    "word": "bully",
+    "meaning": "いじめる",
+    "example": "They bullied him at school.",
+    "example_jp": "彼らは学校で彼をいじめた。"
+  },
+  {
+    "word": "defend",
+    "meaning": "守る",
+    "example": "She defended her friend.",
+    "example_jp": "彼女は友達を守った。"
+  },
+  {
+    "word": "rescue",
+    "meaning": "を救う",
+    "example": "They rescued the dog.",
+    "example_jp": "彼らはその犬を救った。"
+  },
+  {
+    "word": "accuse",
+    "meaning": "非難する",
+    "example": "She accused him of lying.",
+    "example_jp": "彼女は彼をうそをついたと非難した。"
+  },
+  {
+    "word": "sue",
+    "meaning": "訴える",
+    "example": "He sued the company.",
+    "example_jp": "彼はその会社を訴えた。"
+  },
+  {
+    "word": "wander",
+    "meaning": "ぶらつく，歩き回る",
+    "example": "I wandered around town.",
+    "example_jp": "私は町をぶらついた。"
+  },
+  {
+    "word": "chase",
+    "meaning": "追いかける",
+    "example": "The dog chased the cat.",
+    "example_jp": "犬が猫を追いかけた。"
+  },
+  {
+    "word": "arrest",
+    "meaning": "逮捕する",
+    "example": "The police arrested him.",
+    "example_jp": "警察は彼を逮捕した。"
+  },
+  {
+    "word": "submit",
+    "meaning": "提出する",
+    "example": "Please submit the form.",
+    "example_jp": "その用紙を提出してください。"
+  },
+  {
+    "word": "punish",
+    "meaning": "罰する",
+    "example": "They punished the student.",
+    "example_jp": "彼らはその生徒を罰した。"
+  },
+  {
+    "word": "resolve",
+    "meaning": "解決する",
+    "example": "We resolved the issue.",
+    "example_jp": "私たちはその問題を解決した。"
+  },
+  {
+    "word": "justify",
+    "meaning": "正当化する",
+    "example": "He justified his actions.",
+    "example_jp": "彼は自分の行動を正当化した。"
+  },
+  {
+    "word": "restore",
+    "meaning": "修復する",
+    "example": "They restored the old house.",
+    "example_jp": "彼らは古い家を修復した。"
+  },
+  {
+    "word": "modify",
+    "meaning": "修正する",
+    "example": "I modified the plan.",
+    "example_jp": "私はその計画を修正した。"
+  },
+  {
+    "word": "impose",
+    "meaning": "押しつける",
+    "example": "Don’t impose your ideas on me.",
+    "example_jp": "自分の考えを私に押しつけないで。"
+  },
+  {
+    "word": "compose",
+    "meaning": "構成する",
+    "example": "The team is composed of experts.",
+    "example_jp": "そのチームは専門家で構成されている。"
+  },
+  {
+    "word": "classify",
+    "meaning": "分類する",
+    "example": "We classified the files.",
+    "example_jp": "私たちはそのファイルを分類した。"
+  },
+  {
+    "word": "substitute",
+    "meaning": "代わりに使う",
+    "example": "Use honey as a substitute.",
+    "example_jp": "はちみつを代わりに使ってください。"
+  },
+  {
+    "word": "shrink",
+    "meaning": "縮む",
+    "example": "The shirt shrank.",
+    "example_jp": "そのシャツは縮んだ。"
+  },
+  {
+    "word": "lean",
+    "meaning": "寄りかかる",
+    "example": "He leaned against the wall.",
+    "example_jp": "彼は壁に寄りかかった。"
+  },
+  {
+    "word": "fold",
+    "meaning": "折り畳む",
+    "example": "She folded the clothes.",
+    "example_jp": "彼女は服を折り畳んだ。"
+  },
+  {
+    "word": "load",
+    "meaning": "積む",
+    "example": "They loaded the truck.",
+    "example_jp": "彼らはトラックに荷物を積んだ。"
+  },
+  {
+    "word": "pour",
+    "meaning": "注ぐ",
+    "example": "He poured water into the glass.",
+    "example_jp": "彼はコップに水を注いだ。"
+  },
+  {
+    "word": "float",
+    "meaning": "浮かぶ",
+    "example": "The boat floated on the lake.",
+    "example_jp": "そのボートは湖に浮かんだ。"
+  },
+  {
+    "word": "shine",
+    "meaning": "輝く",
+    "example": "The sun is shining.",
+    "example_jp": "太陽が輝いている。"
+  },
+  {
+    "word": "editor",
+    "meaning": "編集者",
+    "example": "She is a magazine editor.",
+    "example_jp": "彼女は雑誌の編集者だ。"
+  },
+  {
+    "word": "poetry",
+    "meaning": "詩",
+    "example": "He loves reading poetry.",
+    "example_jp": "彼は詩を読むのが好きだ。"
+  },
+  {
+    "word": "usage",
+    "meaning": "使い方",
+    "example": "This book explains word usage.",
+    "example_jp": "この本は単語の使い方を説明している。"
+  },
+  {
+    "word": "sector",
+    "meaning": "部門、分野",
+    "example": "She works in the tech sector.",
+    "example_jp": "彼女は技術分野で働いている。"
+  },
+  {
+    "word": "span",
+    "meaning": "期間",
+    "example": "The project spanned two years.",
+    "example_jp": "そのプロジェクトは2年間にわたった。"
+  },
+  {
+    "word": "literacy",
+    "meaning": "読み書きの能力",
+    "example": "Literacy is essential.",
+    "example_jp": "読み書きの能力は不可欠だ。"
+  },
+  {
+    "word": "symptom",
+    "meaning": "症状",
+    "example": "She has flu symptoms.",
+    "example_jp": "彼女にはインフルエンザの症状がある。"
+  },
+  {
+    "word": "phase",
+    "meaning": "段階",
+    "example": "This is the final phase.",
+    "example_jp": "これは最終段階だ。"
+  }
+]

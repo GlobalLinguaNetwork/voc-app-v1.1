@@ -1,0 +1,302 @@
+[
+  {
+    "word": "surgery",
+    "meaning": "手術",
+    "example": "She had surgery last week.",
+    "example_jp": "彼女は先週手術を受けた。"
+  },
+  {
+    "word": "virus",
+    "meaning": "ウイルス",
+    "example": "The virus spread quickly.",
+    "example_jp": "そのウイルスは急速に広がった。"
+  },
+  {
+    "word": "poison",
+    "meaning": "毒",
+    "example": "The berries contain poison.",
+    "example_jp": "そのベリーには毒が含まれている。"
+  },
+  {
+    "word": "protein",
+    "meaning": "タンパク質",
+    "example": "This food is high in protein.",
+    "example_jp": "この食品はタンパク質が多い。"
+  },
+  {
+    "word": "liquid",
+    "meaning": "液体",
+    "example": "The bottle is full of liquid.",
+    "example_jp": "そのボトルは液体で満たされている。"
+  },
+  {
+    "word": "oxygen",
+    "meaning": "酸素",
+    "example": "We need oxygen to live.",
+    "example_jp": "私たちは生きるために酸素が必要だ。"
+  },
+  {
+    "word": "globe",
+    "meaning": "世界",
+    "example": "News spread across the globe.",
+    "example_jp": "ニュースは世界中に広がった。"
+  },
+  {
+    "word": "pole",
+    "meaning": "極(地)",
+    "example": "He traveled to the North Pole.",
+    "example_jp": "彼は北極へ旅した。"
+  },
+  {
+    "word": "valley",
+    "meaning": "谷",
+    "example": "A river runs through the valley.",
+    "example_jp": "川がその谷を流れている。"
+  },
+  {
+    "word": "conservation",
+    "meaning": "(環境)保護",
+    "example": "Conservation is important for wildlife.",
+    "example_jp": "環境保護は野生生物にとって重要だ。"
+  },
+  {
+    "word": "channel",
+    "meaning": "伝達経路",
+    "example": "We need a clear communication channel.",
+    "example_jp": "明確な伝達経路が必要だ。"
+  },
+  {
+    "word": "glacier",
+    "meaning": "氷河",
+    "example": "The glacier is melting.",
+    "example_jp": "その氷河は溶けている。"
+  },
+  {
+    "word": "pioneer",
+    "meaning": "先駆者",
+    "example": "She is a pioneer in her field.",
+    "example_jp": "彼女はその分野の先駆者だ。"
+  },
+  {
+    "word": "prospect",
+    "meaning": "見込み",
+    "example": "The job has good prospects.",
+    "example_jp": "その仕事には良い見込みがある。"
+  },
+  {
+    "word": "enthusiasm",
+    "meaning": "熱狂，熱中",
+    "example": "He showed great enthusiasm.",
+    "example_jp": "彼は大きな熱中を見せた。"
+  },
+  {
+    "word": "passion",
+    "meaning": "情熱",
+    "example": "She speaks with passion.",
+    "example_jp": "彼女は情熱をもって話す。"
+  },
+  {
+    "word": "fortune",
+    "meaning": "財産",
+    "example": "He inherited a fortune.",
+    "example_jp": "彼は財産を相続した。"
+  },
+  {
+    "word": "obstacle",
+    "meaning": "障害（物）",
+    "example": "We overcame the obstacle.",
+    "example_jp": "私たちはその障害を乗り越えた。"
+  },
+  {
+    "word": "prejudice",
+    "meaning": "偏見",
+    "example": "Prejudice hurts people.",
+    "example_jp": "偏見は人を傷つける。"
+  },
+  {
+    "word": "justice",
+    "meaning": "正義",
+    "example": "They fought for justice.",
+    "example_jp": "彼らは正義のために戦った。"
+  },
+  {
+    "word": "opponent",
+    "meaning": "相手、敵",
+    "example": "He defeated his opponent.",
+    "example_jp": "彼は相手を打ち負かした。"
+  },
+  {
+    "word": "sacrifice",
+    "meaning": "犠牲",
+    "example": "She made a big sacrifice.",
+    "example_jp": "彼女は大きな犠牲を払った。"
+  },
+  {
+    "word": "fault",
+    "meaning": "責任",
+    "example": "It was my fault.",
+    "example_jp": "それは私の責任だった。"
+  },
+  {
+    "word": "prison",
+    "meaning": "刑務所",
+    "example": "He spent years in prison.",
+    "example_jp": "彼は何年も刑務所で過ごした。"
+  },
+  {
+    "word": "shelter",
+    "meaning": "避難（所）",
+    "example": "They found shelter from the storm.",
+    "example_jp": "彼らは嵐から避難所を見つけた。"
+  },
+  {
+    "word": "committee",
+    "meaning": "委員会",
+    "example": "The committee met today.",
+    "example_jp": "委員会は今日会合を開いた。"
+  },
+  {
+    "word": "ritual",
+    "meaning": "儀式",
+    "example": "The ritual takes place yearly.",
+    "example_jp": "その儀式は毎年行われる。"
+  },
+  {
+    "word": "mature",
+    "meaning": "大人になった",
+    "example": "He seems more mature now.",
+    "example_jp": "彼は以前より大人になったようだ。"
+  },
+  {
+    "word": "moderate",
+    "meaning": "適度な",
+    "example": "Do exercise in moderate amounts.",
+    "example_jp": "適度に運動しなさい。"
+  },
+  {
+    "word": "neutral",
+    "meaning": "中立の",
+    "example": "She stayed neutral in the debate.",
+    "example_jp": "彼女はその議論で中立を保った。"
+  },
+  {
+    "word": "optimistic",
+    "meaning": "楽観的な",
+    "example": "He is optimistic about the future.",
+    "example_jp": "彼は将来について楽観的だ。"
+  },
+  {
+    "word": "pessimistic",
+    "meaning": "悲観的な",
+    "example": "She is pessimistic about the results.",
+    "example_jp": "彼女は結果について悲観的だ。"
+  },
+  {
+    "word": "radical",
+    "meaning": "根本的な",
+    "example": "They proposed a radical change.",
+    "example_jp": "彼らは根本的な変化を提案した。"
+  },
+  {
+    "word": "rough",
+    "meaning": "粗い",
+    "example": "The surface feels rough.",
+    "example_jp": "その表面は粗い感じがする。"
+  },
+  {
+    "word": "smooth",
+    "meaning": "滑らかな",
+    "example": "The table is smooth.",
+    "example_jp": "そのテーブルは滑らかだ。"
+  },
+  {
+    "word": "fluent",
+    "meaning": "流ちょうな",
+    "example": "She is fluent in English.",
+    "example_jp": "彼女は英語が流ちょうだ。"
+  },
+  {
+    "word": "casual",
+    "meaning": "形式ばらない",
+    "example": "He wore casual clothes.",
+    "example_jp": "彼は形式ばらない服を着ていた。"
+  },
+  {
+    "word": "instant",
+    "meaning": "即時の",
+    "example": "She gave an instant reply.",
+    "example_jp": "彼女は即時に返事をした。"
+  },
+  {
+    "word": "incredible",
+    "meaning": "信じられない",
+    "example": "The view was incredible.",
+    "example_jp": "その景色は信じられないほど美しかった。"
+  },
+  {
+    "word": "genuine",
+    "meaning": "本物の",
+    "example": "This is genuine leather.",
+    "example_jp": "これは本物の革だ。"
+  },
+  {
+    "word": "precious",
+    "meaning": "貴重な",
+    "example": "Time is precious.",
+    "example_jp": "時間は貴重だ。"
+  },
+  {
+    "word": "prominent",
+    "meaning": "重要な",
+    "example": "She is a prominent leader.",
+    "example_jp": "彼女は重要な指導者だ。"
+  },
+  {
+    "word": "blind",
+    "meaning": "目の見えない",
+    "example": "He has been blind since birth.",
+    "example_jp": "彼は生まれつき目が見えない。"
+  },
+  {
+    "word": "deaf",
+    "meaning": "耳が聞こえない",
+    "example": "She is deaf in one ear.",
+    "example_jp": "彼女は片耳が聞こえない。"
+  },
+  {
+    "word": "harsh",
+    "meaning": "厳しい",
+    "example": "The winter was harsh.",
+    "example_jp": "その冬は厳しかった。"
+  },
+  {
+    "word": "prompt",
+    "meaning": "迅速な",
+    "example": "He gave a prompt answer.",
+    "example_jp": "彼は迅速に答えた。"
+  },
+  {
+    "word": "inevitable",
+    "meaning": "避けられない",
+    "example": "Change is inevitable.",
+    "example_jp": "変化は避けられない。"
+  },
+  {
+    "word": "marine",
+    "meaning": "海の",
+    "example": "Marine life is diverse.",
+    "example_jp": "海の生物は多様だ。"
+  },
+  {
+    "word": "tropical",
+    "meaning": "熱帯（地方）の",
+    "example": "They visited a tropical island.",
+    "example_jp": "彼らは熱帯の島を訪れた。"
+  },
+  {
+    "word": "Arctic",
+    "meaning": "北極の",
+    "example": "The Arctic is extremely cold.",
+    "example_jp": "北極は非常に寒い。"
+  }
+]

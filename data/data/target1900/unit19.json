@@ -1,0 +1,476 @@
+[
+  {
+    "word": "chase",
+    "meaning": "追跡する",
+    "example": "The police chased the stolen car through the city.",
+    "example_jp": "警察は盗難車を追って街中を追跡した。"
+  },
+  {
+    "word": "chase",
+    "meaning": "追求する",
+    "example": "He moved to Hollywood to chase his dream of being an actor.",
+    "example_jp": "彼は俳優になるという夢を追求するためにハリウッドへ移住した。"
+  },
+  {
+    "word": "sue",
+    "meaning": "告訴する，訴訟を起こす",
+    "example": "He decided to sue the company for breach of contract.",
+    "example_jp": "彼は契約違反でその会社を告訴することに決めた。"
+  },
+  {
+    "word": "gaze",
+    "meaning": "じっと見る",
+    "example": "She continued to gaze out the window at the falling snow.",
+    "example_jp": "彼女は窓の外の降る雪をじっと見続けた。"
+  },
+  {
+    "word": "slip",
+    "meaning": "滑る，滑り落ちる",
+    "example": "Be careful not to slip on the icy sidewalk.",
+    "example_jp": "凍った歩道で滑らないように気をつけて。"
+  },
+  {
+    "word": "slip",
+    "meaning": "そっと動く",
+    "example": "I tried to slip out of the room without being noticed.",
+    "example_jp": "気づかれないようにそっと部屋を抜け出そうとした。"
+  },
+  {
+    "word": "load",
+    "meaning": "に積む",
+    "example": "We helped him load the boxes into the truck.",
+    "example_jp": "私たちは彼がトラックに箱を積むのを手伝った。"
+  },
+  {
+    "word": "load",
+    "meaning": "に負わせる",
+    "example": "The teacher loaded the students with too much homework.",
+    "example_jp": "先生は生徒たちにあまりに多くの宿題を負わせた。"
+  },
+  {
+    "word": "overwhelm",
+    "meaning": "圧倒する，打ちのめす",
+    "example": "The team was overwhelmed by the opponent's speed.",
+    "example_jp": "そのチームは相手のスピードに圧倒された。"
+  },
+  {
+    "word": "wander",
+    "meaning": "歩き回る",
+    "example": "We spent the afternoon wandering around the old town.",
+    "example_jp": "私たちは午後を旧市街のあちこちを歩き回って過ごした。"
+  },
+  {
+    "word": "wander",
+    "meaning": "それる，はぐれる",
+    "example": "The child wandered away from his parents in the mall.",
+    "example_jp": "その子はモールで親からはぐれてしまった。"
+  },
+  {
+    "word": "float",
+    "meaning": "漂う，浮かぶ",
+    "example": "Wood usually floats on water.",
+    "example_jp": "木は普通、水に浮かぶ。"
+  },
+  {
+    "word": "pour",
+    "meaning": "を注ぐ",
+    "example": "Could you pour me some more tea, please?",
+    "example_jp": "お茶をもう少し注いでいただけますか？"
+  },
+  {
+    "word": "pour",
+    "meaning": "激しく降る",
+    "example": "It began to pour just as we stepped outside.",
+    "example_jp": "私たちが外に出た途端、雨が激しく降り出した。"
+  },
+  {
+    "word": "pour",
+    "meaning": "押し寄せる",
+    "example": "Fans started to pour into the stadium before the game.",
+    "example_jp": "試合前にファンがスタジアムに押し寄せ始めた。"
+  },
+  {
+    "word": "substitute",
+    "meaning": "代わりに使う，代理をする",
+    "example": "You can substitute margarine for butter in this recipe.",
+    "example_jp": "このレシピでは、バターの代わりにマーガリンを使うことができる。"
+  },
+  {
+    "word": "pronounce",
+    "meaning": "を発音する",
+    "example": "How do you pronounce your last name?",
+    "example_jp": "あなたの苗字はどう発音しますか？"
+  },
+  {
+    "word": "pronounce",
+    "meaning": "を宣言する",
+    "example": "The judge pronounced the defendant guilty.",
+    "example_jp": "裁判官は被告人に有罪を宣告した。"
+  },
+  {
+    "word": "shrink",
+    "meaning": "縮む，縮小する，減少する",
+    "example": "My wool sweater shrank in the wash.",
+    "example_jp": "私のウールのセーターが洗濯で縮んでしまった。"
+  },
+  {
+    "word": "shrink",
+    "meaning": "ひるむ",
+    "example": "He didn't shrink from the challenge despite the risks.",
+    "example_jp": "リスクがあるにもかかわらず、彼はその挑戦からひるまなかった。"
+  },
+  {
+    "word": "restore",
+    "meaning": "を回復させる，を修復する",
+    "example": "The city is working to restore the historic building.",
+    "example_jp": "市はその歴史的な建物を修復しようと取り組んでいる。"
+  },
+  {
+    "word": "trigger",
+    "meaning": "を引き起こす，きっかけとなる",
+    "example": "The smoke triggered the fire alarm.",
+    "example_jp": "煙が火災報知器を作動させた（引き金となった）。"
+  },
+  {
+    "word": "grab",
+    "meaning": "をつかむ，横取りする",
+    "example": "He grabbed his bag and ran to the station.",
+    "example_jp": "彼はカバンをつかんで駅へ走った。"
+  },
+  {
+    "word": "grab",
+    "meaning": "を急いで食べる",
+    "example": "Let's grab a quick lunch before the meeting.",
+    "example_jp": "会議の前に急いで昼食を食べよう。"
+  },
+  {
+    "word": "retain",
+    "meaning": "を保持する",
+    "example": "The company struggles to retain its best employees.",
+    "example_jp": "その会社は優秀な従業員を引き留めておく（保持する）のに苦労している。"
+  },
+  {
+    "word": "retain",
+    "meaning": "を覚えている",
+    "example": "I find it hard to retain all these new facts.",
+    "example_jp": "これらすべての新しい事実を覚えておくのは難しい。"
+  },
+  {
+    "word": "reproduce",
+    "meaning": "を複製する",
+    "example": "It is illegal to reproduce this document without permission.",
+    "example_jp": "許可なくこの書類を複製することは違法だ。"
+  },
+  {
+    "word": "reproduce",
+    "meaning": "繁殖させる，繁殖する",
+    "example": "Some animals reproduce only once a year.",
+    "example_jp": "一部の動物は年に一度だけ繁殖する。"
+  },
+  {
+    "word": "bob",
+    "meaning": "上下に動く",
+    "example": "The small boat was bobbing up and down on the waves.",
+    "example_jp": "小さなボートが波の上でぷかぷかと上下に動いていた。"
+  },
+  {
+    "word": "entertain",
+    "meaning": "を楽しませる",
+    "example": "A magician was hired to entertain the children.",
+    "example_jp": "子供たちを楽しませるために手品師が雇われた。"
+  },
+  {
+    "word": "entertain",
+    "meaning": "をもてなす",
+    "example": "They love to entertain guests at their home.",
+    "example_jp": "彼らは自宅で客をもてなすのが大好きだ。"
+  },
+  {
+    "word": "interfere",
+    "meaning": "干渉する，介入する",
+    "example": "I wish my parents wouldn't interfere in my life.",
+    "example_jp": "両親が私の人生に干渉しなければいいのにと思う。"
+  },
+  {
+    "word": "interfere",
+    "meaning": "邪魔する",
+    "example": "The noise is interfering with my concentration.",
+    "example_jp": "騒音が私の集中を邪魔している。"
+  },
+  {
+    "word": "cultivate",
+    "meaning": "を養う",
+    "example": "She tried to cultivate a more positive attitude.",
+    "example_jp": "彼女はより前向きな姿勢を養おうと努めた。"
+  },
+  {
+    "word": "cultivate",
+    "meaning": "を耕す，を栽培する",
+    "example": "Farmers cultivate the soil before planting seeds.",
+    "example_jp": "農家は種をまく前に土を耕す。"
+  },
+  {
+    "word": "underlie",
+    "meaning": "の根底にある",
+    "example": "A lack of trust underlies many of their problems.",
+    "example_jp": "信頼の欠如が彼らの多くの問題の根底にある。"
+  },
+  {
+    "word": "anticipate",
+    "meaning": "を予期する",
+    "example": "We anticipate that the price of oil will rise soon.",
+    "example_jp": "私たちは石油の価格がまもなく上がると予期している。"
+  },
+  {
+    "word": "anticipate",
+    "meaning": "楽しみに待つ",
+    "example": "The fans are eagerly anticipating the singer's next album.",
+    "example_jp": "ファンはその歌手の次のアルバムを熱望して（楽しみに）待っている。"
+  },
+  {
+    "word": "justify",
+    "meaning": "を正当化する",
+    "example": "It is hard to justify such a high cost for this project.",
+    "example_jp": "このプロジェクトにこれほどの高額な費用をかけることを正当化するのは難しい。"
+  },
+  {
+    "word": "regulate",
+    "meaning": "を規制する",
+    "example": "The government needs to regulate the banking industry.",
+    "example_jp": "政府は銀行業界を規制する必要がある。"
+  },
+  {
+    "word": "regulate",
+    "meaning": "を調整する",
+    "example": "This device helps to regulate the room temperature.",
+    "example_jp": "この装置は室温を調整するのに役立つ。"
+  },
+  {
+    "word": "scan",
+    "meaning": "スキャンする，ざっと見る",
+    "example": "I scanned the newspaper for any interesting articles.",
+    "example_jp": "私は面白い記事がないか新聞をざっと見た。"
+  },
+  {
+    "word": "scan",
+    "meaning": "を注意深く調べる",
+    "example": "The security guards scanned everyone entering the building.",
+    "example_jp": "警備員は建物に入る全員を注意深く調べた。"
+  },
+  {
+    "word": "classify",
+    "meaning": "を分類する",
+    "example": "Books in the library are classified by subject.",
+    "example_jp": "図書館の本は主題ごとに分類されている。"
+  },
+  {
+    "word": "classify",
+    "meaning": "を機密扱いにする",
+    "example": "The government classified the document as top secret.",
+    "example_jp": "政府はその文書を最高機密扱いにした。"
+  },
+  {
+    "word": "submit",
+    "meaning": "を提出する",
+    "example": "Please submit your application by the end of the month.",
+    "example_jp": "今月末までに申請書を提出してください。"
+  },
+  {
+    "word": "submit",
+    "meaning": "従う",
+    "example": "They were forced to submit to the king's rule.",
+    "example_jp": "彼らは王の支配に従うことを強行された。"
+  },
+  {
+    "word": "pause",
+    "meaning": "中止する，立ち止まる",
+    "example": "He paused for a moment to catch his breath.",
+    "example_jp": "彼は息を整えるために一瞬立ち止まった。"
+  },
+  {
+    "word": "lean",
+    "meaning": "傾く，寄りかかる",
+    "example": "Don't lean against the glass door.",
+    "example_jp": "ガラスのドアに寄りかからないで。"
+  },
+  {
+    "word": "bump",
+    "meaning": "ぶつかる，ぶつける",
+    "example": "I accidentally bumped into an old friend at the mall.",
+    "example_jp": "モールで偶然古い友人にぶつかった（鉢合わせした）。"
+  },
+  {
+    "word": "fold",
+    "meaning": "を折り畳む",
+    "example": "He carefully folded the letter and put it in his pocket.",
+    "example_jp": "彼は手紙を丁寧に折り畳んでポケットに入れた。"
+  },
+  {
+    "word": "fold",
+    "meaning": "腕を組む",
+    "example": "She stood there with her arms folded.",
+    "example_jp": "彼女は腕を組んでそこに立っていた。"
+  },
+  {
+    "word": "hesitate",
+    "meaning": "躊躇する，ためらう",
+    "example": "Please don't hesitate to contact me if you have any questions.",
+    "example_jp": "質問があれば、遠慮なく（ためらわずに）連絡してください。"
+  },
+  {
+    "word": "pump",
+    "meaning": "ポンプで送り込む，くみ出す",
+    "example": "The heart pumps blood through the body.",
+    "example_jp": "心臓は体中に血液をポンプのように送り出す。"
+  },
+  {
+    "word": "mount",
+    "meaning": "据えつける，着手する",
+    "example": "The museum is mounting a new exhibition of modern art.",
+    "example_jp": "美術館は現代アートの新しい展示に着手している（準備している）。"
+  },
+  {
+    "word": "mount",
+    "meaning": "乗る",
+    "example": "She mounted her horse and rode away.",
+    "example_jp": "彼女は馬に乗り、走り去った。"
+  },
+  {
+    "word": "mount",
+    "meaning": "増える",
+    "example": "Tensions began to mount as the deadline approached.",
+    "example_jp": "締め切りが近づくにつれ、緊張が高まり（増え）始めた。"
+  },
+  {
+    "word": "exceed",
+    "meaning": "を超える，に勝る",
+    "example": "The final cost exceeded our initial budget.",
+    "example_jp": "最終的な費用は私たちの当初の予算を超えた。"
+  },
+  {
+    "word": "undergo",
+    "meaning": "を経験する，を受ける",
+    "example": "The patient had to undergo surgery immediately.",
+    "example_jp": "その患者はすぐに手術を受ける必要があった。"
+  },
+  {
+    "word": "confront",
+    "meaning": "立ち向かう，立ちはだかる",
+    "example": "We must confront the problem before it gets worse.",
+    "example_jp": "悪化する前に、私たちはその問題に立ち向かわなければならない。"
+  },
+  {
+    "word": "consult",
+    "meaning": "に相談する",
+    "example": "You should consult a lawyer before signing the contract.",
+    "example_jp": "契約に署名する前に弁護士に相談すべきだ。"
+  },
+  {
+    "word": "consult",
+    "meaning": "を参照する",
+    "example": "If you are unsure of the meaning, consult a dictionary.",
+    "example_jp": "意味が不明な場合は、辞書を参照しなさい。"
+  },
+  {
+    "word": "fulfill",
+    "meaning": "を実現させる，を果たす",
+    "example": "It took him years to fulfill his ambition.",
+    "example_jp": "彼が野心を実現させるのに何年もかかった。"
+  },
+  {
+    "word": "fulfill",
+    "meaning": "を満たす",
+    "example": "She fulfills all the requirements for the job.",
+    "example_jp": "彼女はその仕事の要件をすべて満たしている。"
+  },
+  {
+    "word": "privilege",
+    "meaning": "特権，特典",
+    "example": "It is a privilege to meet such a famous author.",
+    "example_jp": "あのような有名な著者に会えるのは特権（光栄なこと）だ。"
+  },
+  {
+    "word": "formation",
+    "meaning": "形成，構成（物）",
+    "example": "The formation of the mountains took millions of years.",
+    "example_jp": "その山の形成には何百万年もかかった。"
+  },
+  {
+    "word": "formation",
+    "meaning": "隊列",
+    "example": "The aircraft flew in a tight formation.",
+    "example_jp": "航空機は密集した隊列で飛行した。"
+  },
+  {
+    "word": "dimension",
+    "meaning": "側面，局面",
+    "example": "Music adds a new dimension to the film.",
+    "example_jp": "音楽が映画に新しい側面（深み）を加えている。"
+  },
+  {
+    "word": "dimension",
+    "meaning": "次元，寸法",
+    "example": "What are the dimensions of the room?",
+    "example_jp": "その部屋の寸法（サイズ）はどのくらいですか？"
+  },
+  {
+    "word": "neuron",
+    "meaning": "ニューロン，神経単位",
+    "example": "Neurons transmit information throughout the nervous system.",
+    "example_jp": "ニューロンは神経系全体に情報を伝達する。"
+  },
+  {
+    "word": "sensation",
+    "meaning": "感覚",
+    "example": "I had a strange sensation that someone was watching me.",
+    "example_jp": "誰かが私を見ているような奇妙な感覚があった。"
+  },
+  {
+    "word": "sensation",
+    "meaning": "大評判",
+    "example": "The young singer became an overnight sensation.",
+    "example_jp": "その若い歌手は一夜にして大評判となった。"
+  },
+  {
+    "word": "chart",
+    "meaning": "図，グラフ",
+    "example": "The sales chart shows a steady increase this year.",
+    "example_jp": "売上グラフは今年、着実な増加を示している。"
+  },
+  {
+    "word": "chart",
+    "meaning": "ヒットチャート",
+    "example": "Their new song reached number one on the charts.",
+    "example_jp": "彼らの新曲はチャートで1位になった。"
+  },
+  {
+    "word": "geography",
+    "meaning": "地理，地理学",
+    "example": "I enjoyed studying world geography in high school.",
+    "example_jp": "高校で世界地理を勉強するのが楽しかった。"
+  },
+  {
+    "word": "panel",
+    "meaning": "（専門家の）一団，討論者一同",
+    "example": "A panel of experts was chosen to judge the competition.",
+    "example_jp": "コンテストを審査するために専門家の一団が選ばれた。"
+  },
+  {
+    "word": "panel",
+    "meaning": "羽目板",
+    "example": "The walls were decorated with dark wood panels.",
+    "example_jp": "壁は濃い色の木製パネル（羽目板）で装飾されていた。"
+  },
+  {
+    "word": "semester",
+    "meaning": "学期",
+    "example": "The fall semester begins in September.",
+    "example_jp": "秋学期は9月に始まる。"
+  },
+  {
+    "word": "workforce",
+    "meaning": "労働人口，全従業員",
+    "example": "A large part of the workforce is now working remotely.",
+    "example_jp": "現在、全従業員の大部分がリモートで働いている。"
+  }
+]

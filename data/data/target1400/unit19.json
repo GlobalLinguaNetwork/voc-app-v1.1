@@ -1,0 +1,302 @@
+[
+  {
+    "word": "greet",
+    "meaning": "（人）にあいさつする",
+    "example": "She greeted me with a smile.",
+    "example_jp": "彼女は笑顔で私にあいさつした。"
+  },
+  {
+    "word": "chat",
+    "meaning": "おしゃべりをする",
+    "example": "We chatted for hours.",
+    "example_jp": "私たちは何時間もおしゃべりした。"
+  },
+  {
+    "word": "remark",
+    "meaning": "と述べる、言う",
+    "example": "He remarked that it was unusual.",
+    "example_jp": "彼はそれが珍しいと述べた。"
+  },
+  {
+    "word": "command",
+    "meaning": "を命ずる",
+    "example": "The officer commanded them to move.",
+    "example_jp": "将校は彼らに移動するよう命じた。"
+  },
+  {
+    "word": "utter",
+    "meaning": "（言葉など）を発する",
+    "example": "She uttered a cry.",
+    "example_jp": "彼女は叫び声を発した。"
+  },
+  {
+    "word": "declare",
+    "meaning": "を宣言する",
+    "example": "They declared independence.",
+    "example_jp": "彼らは独立を宣言した。"
+  },
+  {
+    "word": "pronounce",
+    "meaning": "を発音する",
+    "example": "He pronounced the word correctly.",
+    "example_jp": "彼はその単語を正しく発音した。"
+  },
+  {
+    "word": "correspond",
+    "meaning": "一致する、（手紙などで）連絡を取り合う",
+    "example": "The results correspond to our expectations.",
+    "example_jp": "結果は私たちの期待と一致している。"
+  },
+  {
+    "word": "imitate",
+    "meaning": "をまねる",
+    "example": "Children often imitate adults.",
+    "example_jp": "子どもはよく大人をまねる。"
+  },
+  {
+    "word": "resemble",
+    "meaning": "に似ている",
+    "example": "She resembles her mother.",
+    "example_jp": "彼女は母親に似ている。"
+  },
+  {
+    "word": "exhibit",
+    "meaning": "を展示する、（感情など）を示す",
+    "example": "The museum exhibits ancient pottery.",
+    "example_jp": "その博物館は古代の陶器を展示している。"
+  },
+  {
+    "word": "distribute",
+    "meaning": "を分配する",
+    "example": "They distributed food to the victims.",
+    "example_jp": "彼らは被災者に食料を配った。"
+  },
+  {
+    "word": "attribute",
+    "meaning": "（結果）を（〜の）せいと考える(on)",
+    "example": "He attributed his success to luck.",
+    "example_jp": "彼は成功を運のおかげだと考えた。"
+  },
+  {
+    "word": "evaluate",
+    "meaning": "を評価する",
+    "example": "We evaluated the proposal.",
+    "example_jp": "私たちはその提案を評価した。"
+  },
+  {
+    "word": "assess",
+    "meaning": "を評価する",
+    "example": "The teacher assessed the students’ work.",
+    "example_jp": "教師は生徒の作品を評価した。"
+  },
+  {
+    "word": "deserve",
+    "meaning": "に値する",
+    "example": "She deserves praise.",
+    "example_jp": "彼女は称賛に値する。"
+  },
+  {
+    "word": "weigh",
+    "meaning": "の重さがある、の重さを量る",
+    "example": "The package weighs two kilos.",
+    "example_jp": "その荷物は2キロある。"
+  },
+  {
+    "word": "strengthen",
+    "meaning": "を強くする",
+    "example": "Exercise strengthens the body.",
+    "example_jp": "運動は体を強くする。"
+  },
+  {
+    "word": "weaken",
+    "meaning": "を弱める",
+    "example": "The storm weakened the structure.",
+    "example_jp": "嵐が建物の構造を弱めた。"
+  },
+  {
+    "word": "approve",
+    "meaning": "賛成する",
+    "example": "I approve of your plan.",
+    "example_jp": "私はあなたの計画に賛成だ。"
+  },
+  {
+    "word": "assign",
+    "meaning": "（仕事など）を割り当てる",
+    "example": "She assigned tasks to the team.",
+    "example_jp": "彼女はチームに仕事を割り当てた。"
+  },
+  {
+    "word": "sustain",
+    "meaning": "を持続させる",
+    "example": "We must sustain our efforts.",
+    "example_jp": "努力を持続しなければならない。"
+  },
+  {
+    "word": "accomplish",
+    "meaning": "を成し遂げる",
+    "example": "He accomplished his goal.",
+    "example_jp": "彼は目標を達成した。"
+  },
+  {
+    "word": "relieve",
+    "meaning": "（苦痛など）を和らげる、（不安など）を減らす",
+    "example": "The medicine relieved the pain.",
+    "example_jp": "薬が痛みを和らげた。"
+  },
+  {
+    "word": "frustrate",
+    "meaning": "に不満を抱かせる",
+    "example": "The delay frustrated everyone.",
+    "example_jp": "遅れが皆をいら立たせた。"
+  },
+  {
+    "word": "scare",
+    "meaning": "を怖がらせる",
+    "example": "The noise scared the children.",
+    "example_jp": "その音が子どもたちを怖がらせた。"
+  },
+  {
+    "word": "resist",
+    "meaning": "を我慢する",
+    "example": "I couldn’t resist the temptation.",
+    "example_jp": "誘惑に耐えられなかった。"
+  },
+  {
+    "word": "protest",
+    "meaning": "抗議する",
+    "example": "They protested against the decision.",
+    "example_jp": "彼らはその決定に抗議した。"
+  },
+  {
+    "word": "shut",
+    "meaning": "を閉める",
+    "example": "Please shut the door.",
+    "example_jp": "ドアを閉めてください。"
+  },
+  {
+    "word": "defeat",
+    "meaning": "（対戦相手）を負かす",
+    "example": "Our team defeated the champions.",
+    "example_jp": "私たちのチームは王者を破った。"
+  },
+  {
+    "word": "neglect",
+    "meaning": "を怠る",
+    "example": "He neglected his duties.",
+    "example_jp": "彼は職務を怠った。"
+  },
+  {
+    "word": "retire",
+    "meaning": "引退する",
+    "example": "He retired at 65.",
+    "example_jp": "彼は65歳で引退した。"
+  },
+  {
+    "word": "reform",
+    "meaning": "を改革する、改善する",
+    "example": "They reformed the education system.",
+    "example_jp": "彼らは教育制度を改革した。"
+  },
+  {
+    "word": "collapse",
+    "meaning": "崩壊する、倒れる",
+    "example": "The building collapsed.",
+    "example_jp": "建物が崩壊した。"
+  },
+  {
+    "word": "ruin",
+    "meaning": "を台無しにする",
+    "example": "The rain ruined our plans.",
+    "example_jp": "雨が私たちの計画を台無しにした。"
+  },
+  {
+    "word": "sink",
+    "meaning": "沈む",
+    "example": "The ship sank quickly.",
+    "example_jp": "船はすぐに沈んだ。"
+  },
+  {
+    "word": "pile",
+    "meaning": "を積み重ねる",
+    "example": "He piled books on the desk.",
+    "example_jp": "彼は机に本を積み重ねた。"
+  },
+  {
+    "word": "derive",
+    "meaning": "を得る、引き出す、由来する",
+    "example": "The word derives from Latin.",
+    "example_jp": "その語はラテン語に由来する。"
+  },
+  {
+    "word": "yield",
+    "meaning": "を産出する、（利益など）を生む、屈する",
+    "example": "The farm yields good crops.",
+    "example_jp": "その農場は良い作物を産出する。"
+  },
+  {
+    "word": "occupy",
+    "meaning": "を占める、を占領する",
+    "example": "The table occupies too much space.",
+    "example_jp": "そのテーブルは場所を取りすぎている。"
+  },
+  {
+    "word": "wrap",
+    "meaning": "を包む",
+    "example": "She wrapped the gift.",
+    "example_jp": "彼女はプレゼントを包んだ。"
+  },
+  {
+    "word": "embrace",
+    "meaning": "を抱きしめる、（申し出など）を受け入れる",
+    "example": "They embraced each other.",
+    "example_jp": "彼らは互いに抱きしめ合った。"
+  },
+  {
+    "word": "length",
+    "meaning": "（物や時間の）長さ",
+    "example": "The length of the bridge is 2 km.",
+    "example_jp": "その橋の長さは2キロだ。"
+  },
+  {
+    "word": "height",
+    "meaning": "高度",
+    "example": "The plane reached a height of 10,000 meters.",
+    "example_jp": "飛行機は1万メートルの高度に達した。"
+  },
+  {
+    "word": "volume",
+    "meaning": "（総）量、体積、容積",
+    "example": "The tank’s volume is 50 liters.",
+    "example_jp": "そのタンクの容量は50リットルだ。"
+  },
+  {
+    "word": "sum",
+    "meaning": "金額",
+    "example": "He paid a large sum of money.",
+    "example_jp": "彼は多額のお金を支払った。"
+  },
+  {
+    "word": "frame",
+    "meaning": "額縁",
+    "example": "She put the photo in a frame.",
+    "example_jp": "彼女は写真を額縁に入れた。"
+  },
+  {
+    "word": "boundary",
+    "meaning": "境界（線）",
+    "example": "The river forms the boundary.",
+    "example_jp": "その川が境界線になっている。"
+  },
+  {
+    "word": "district",
+    "meaning": "（行政などの）地区",
+    "example": "He lives in the business district.",
+    "example_jp": "彼はビジネス地区に住んでいる。"
+  },
+  {
+    "word": "territory",
+    "meaning": "領土",
+    "example": "The country expanded its territory.",
+    "example_jp": "その国は領土を拡大した。"
+  }
+]

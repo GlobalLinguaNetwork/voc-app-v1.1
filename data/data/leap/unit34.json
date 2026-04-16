@@ -1,0 +1,542 @@
+[
+  {
+    "word": "discharge",
+    "meaning": "排出する",
+    "example": "The factory discharged waste into the river.",
+    "example_jp": "工場は廃棄物を川に排出した。"
+  },
+  {
+    "word": "discharge",
+    "meaning": "解放する",
+    "example": "He was discharged from duty.",
+    "example_jp": "彼は職務から解放された。"
+  },
+  {
+    "word": "drain",
+    "meaning": "水を抜く",
+    "example": "They drained the pool.",
+    "example_jp": "彼らはプールの水を抜いた。"
+  },
+  {
+    "word": "drain",
+    "meaning": "水分を切る",
+    "example": "Drain the pasta well.",
+    "example_jp": "パスタの水分をよく切りなさい。"
+  },
+  {
+    "word": "drain",
+    "meaning": "流出する，乾く",
+    "example": "The water drained slowly.",
+    "example_jp": "水はゆっくりと流出した。"
+  },
+  {
+    "word": "soak",
+    "meaning": "浸す",
+    "example": "She soaked the clothes in water.",
+    "example_jp": "彼女は服を水に浸した。"
+  },
+  {
+    "word": "soak",
+    "meaning": "吸収する",
+    "example": "He soaked up the sunlight.",
+    "example_jp": "彼は日光を吸収した。"
+  },
+  {
+    "word": "dip",
+    "meaning": "つける，浸す",
+    "example": "He dipped his finger in the sauce.",
+    "example_jp": "彼は指をソースにつけた。"
+  },
+  {
+    "word": "dip",
+    "meaning": "少し下げる",
+    "example": "The temperature dipped slightly.",
+    "example_jp": "気温がわずかに下がった。"
+  },
+  {
+    "word": "suspend",
+    "meaning": "吊るす",
+    "example": "They suspended the lamp from the ceiling.",
+    "example_jp": "彼らは天井からランプを吊るした。"
+  },
+  {
+    "word": "suspend",
+    "meaning": "中断する",
+    "example": "The event was suspended.",
+    "example_jp": "そのイベントは中断された。"
+  },
+  {
+    "word": "suspend",
+    "meaning": "停職・停学にする",
+    "example": "He was suspended from school.",
+    "example_jp": "彼は停学処分になった。"
+  },
+  {
+    "word": "extract",
+    "meaning": "取り出す，抽出する",
+    "example": "They extracted oil from plants.",
+    "example_jp": "彼らは植物から油を抽出した。"
+  },
+  {
+    "word": "extract",
+    "meaning": "抽出したもの，抜粋",
+    "example": "I read an extract from the book.",
+    "example_jp": "私はその本からの抜粋を読んだ。"
+  },
+  {
+    "word": "slap",
+    "meaning": "平手打ちする",
+    "example": "She slapped his cheek.",
+    "example_jp": "彼女は彼の頬を平手打ちした。"
+  },
+  {
+    "word": "embrace",
+    "meaning": "抱擁する",
+    "example": "They embraced each other.",
+    "example_jp": "彼らは互いに抱擁した。"
+  },
+  {
+    "word": "embrace",
+    "meaning": "受け入れる",
+    "example": "She embraced the new idea.",
+    "example_jp": "彼女はその新しい考えを受け入れた。"
+  },
+  {
+    "word": "embark",
+    "meaning": "着手する",
+    "example": "They embarked on a new project.",
+    "example_jp": "彼らは新しいプロジェクトに着手した。"
+  },
+  {
+    "word": "embark",
+    "meaning": "乗り込む",
+    "example": "We embarked on the ship.",
+    "example_jp": "私たちは船に乗り込んだ。"
+  },
+  {
+    "word": "intervene",
+    "meaning": "介入する",
+    "example": "The UN intervened in the conflict.",
+    "example_jp": "国連はその紛争に介入した。"
+  },
+  {
+    "word": "penetrate",
+    "meaning": "入り込む",
+    "example": "The bullet penetrated the wall.",
+    "example_jp": "弾丸が壁に入り込んだ。"
+  },
+  {
+    "word": "penetrate",
+    "meaning": "貫通する",
+    "example": "Light penetrated the room.",
+    "example_jp": "光が部屋を貫通した。"
+  },
+  {
+    "word": "penetrate",
+    "meaning": "入る",
+    "example": "The idea penetrated deeply.",
+    "example_jp": "その考えは深く入った。"
+  },
+  {
+    "word": "intrude",
+    "meaning": "立ち入る",
+    "example": "He intruded on their conversation.",
+    "example_jp": "彼は彼らの会話に立ち入った。"
+  },
+  {
+    "word": "utilize",
+    "meaning": "利用する",
+    "example": "They utilized solar energy.",
+    "example_jp": "彼らは太陽エネルギーを利用した。"
+  },
+  {
+    "word": "embed",
+    "meaning": "埋め込む",
+    "example": "The sensor was embedded in the device.",
+    "example_jp": "センサーはその装置に埋め込まれていた。"
+  },
+  {
+    "word": "allocate",
+    "meaning": "割り当てる",
+    "example": "They allocated funds to the project.",
+    "example_jp": "彼らはプロジェクトに資金を割り当てた。"
+  },
+  {
+    "word": "coordinate",
+    "meaning": "調整する",
+    "example": "She coordinated the event.",
+    "example_jp": "彼女はそのイベントを調整した。"
+  },
+  {
+    "word": "blink",
+    "meaning": "まばたきする",
+    "example": "He blinked in surprise.",
+    "example_jp": "彼は驚いてまばたきをした。"
+  },
+  {
+    "word": "spin",
+    "meaning": "回る",
+    "example": "The wheel spun quickly.",
+    "example_jp": "車輪が素早く回った。"
+  },
+  {
+    "word": "spin",
+    "meaning": "回す",
+    "example": "She spun the top.",
+    "example_jp": "彼女は独楽を回した。"
+  },
+  {
+    "word": "spin",
+    "meaning": "紡ぐ",
+    "example": "They spun the wool into yarn.",
+    "example_jp": "彼らは羊毛を紡いで糸にした。"
+  },
+  {
+    "word": "rotate",
+    "meaning": "回転する",
+    "example": "The earth rotates on its axis.",
+    "example_jp": "地球は自転軸を中心に回転する。"
+  },
+  {
+    "word": "rotate",
+    "meaning": "回転させる",
+    "example": "Rotate the handle slowly.",
+    "example_jp": "ハンドルをゆっくり回転させなさい。"
+  },
+  {
+    "word": "scramble",
+    "meaning": "急いで動く",
+    "example": "People scrambled to escape.",
+    "example_jp": "人々は逃げようと急いで動いた。"
+  },
+  {
+    "word": "vanish",
+    "meaning": "消える",
+    "example": "The cat vanished suddenly.",
+    "example_jp": "猫は突然消えた。"
+  },
+  {
+    "word": "snap",
+    "meaning": "ポキンと折れる",
+    "example": "The branch snapped.",
+    "example_jp": "枝がポキンと折れた。"
+  },
+  {
+    "word": "snap",
+    "meaning": "折る，パチンと鳴らす",
+    "example": "He snapped the stick.",
+    "example_jp": "彼は棒を折った。"
+  },
+  {
+    "word": "rattle",
+    "meaning": "ガタガタ鳴る",
+    "example": "The window rattled in the wind.",
+    "example_jp": "窓が風でガタガタ鳴った。"
+  },
+  {
+    "word": "rattle",
+    "meaning": "鳴らす",
+    "example": "He rattled the keys.",
+    "example_jp": "彼は鍵を鳴らした。"
+  },
+  {
+    "word": "rattle",
+    "meaning": "ガラガラ",
+    "example": "I heard a loud rattle.",
+    "example_jp": "大きなガラガラという音が聞こえた。"
+  },
+  {
+    "word": "cease",
+    "meaning": "～しなくなる",
+    "example": "He ceased to smoke.",
+    "example_jp": "彼はタバコを吸わなくなった。"
+  },
+  {
+    "word": "haste",
+    "meaning": "急ぐこと",
+    "example": "He left in haste.",
+    "example_jp": "彼は急いで立ち去った。"
+  },
+  {
+    "word": "conceal",
+    "meaning": "隠す",
+    "example": "She concealed the truth.",
+    "example_jp": "彼女は真実を隠した。"
+  },
+  {
+    "word": "disguise",
+    "meaning": "隠す",
+    "example": "He disguised his voice.",
+    "example_jp": "彼は自分の声を隠した。"
+  },
+  {
+    "word": "disguise",
+    "meaning": "変装する",
+    "example": "She disguised herself as a man.",
+    "example_jp": "彼女は男に変装した。"
+  },
+  {
+    "word": "disguise",
+    "meaning": "変装",
+    "example": "His disguise was perfect.",
+    "example_jp": "彼の変装は完璧だった。"
+  },
+  {
+    "word": "deceive",
+    "meaning": "だます",
+    "example": "He deceived his friends.",
+    "example_jp": "彼は友人たちをだました。"
+  },
+  {
+    "word": "neglect",
+    "meaning": "怠る，放置する",
+    "example": "He neglected his duties.",
+    "example_jp": "彼は職務を怠った。"
+  },
+  {
+    "word": "neglect",
+    "meaning": "世話をしない",
+    "example": "She neglected her child.",
+    "example_jp": "彼女は子供の世話をしなかった。"
+  },
+  {
+    "word": "neglect",
+    "meaning": "放置",
+    "example": "The house fell into neglect.",
+    "example_jp": "その家は放置された状態になった。"
+  },
+  {
+    "word": "evacuate",
+    "meaning": "避難させる",
+    "example": "The residents were evacuated.",
+    "example_jp": "住民たちは避難させられた。"
+  },
+  {
+    "word": "coincide",
+    "meaning": "同時に起きる",
+    "example": "The events coincided.",
+    "example_jp": "それらの出来事は同時に起きた。"
+  },
+  {
+    "word": "coincide",
+    "meaning": "一致する",
+    "example": "His opinion coincides with mine.",
+    "example_jp": "彼の意見は私のものと一致する。"
+  },
+  {
+    "word": "prevail",
+    "meaning": "普及している",
+    "example": "The custom prevails in Japan.",
+    "example_jp": "その習慣は日本で普及している。"
+  },
+  {
+    "word": "prevail",
+    "meaning": "優勢となる",
+    "example": "Justice will prevail.",
+    "example_jp": "正義が優勢となるだろう。"
+  },
+  {
+    "word": "sustain",
+    "meaning": "維持する，支える",
+    "example": "Food and water sustain life.",
+    "example_jp": "食料と水が命を支える。"
+  },
+  {
+    "word": "linger",
+    "meaning": "残る",
+    "example": "The smell lingered in the room.",
+    "example_jp": "部屋に匂いが残った。"
+  },
+  {
+    "word": "linger",
+    "meaning": "長居する",
+    "example": "He lingered on after the party.",
+    "example_jp": "彼はパーティーの後も長居した。"
+  },
+  {
+    "word": "revive",
+    "meaning": "生き返る",
+    "example": "He revived after fainting.",
+    "example_jp": "彼は失神した後に生き返った。"
+  },
+  {
+    "word": "revive",
+    "meaning": "生き返らせる",
+    "example": "They revived the tradition.",
+    "example_jp": "彼らはその伝統を生き返らせた。"
+  },
+  {
+    "word": "resume",
+    "meaning": "再開する",
+    "example": "They resumed the meeting.",
+    "example_jp": "彼らは会議を再開した。"
+  },
+  {
+    "word": "resume",
+    "meaning": "再開する",
+    "example": "The service resumed.",
+    "example_jp": "サービスが再開した。"
+  },
+  {
+    "word": "resume",
+    "meaning": "履歴書",
+    "example": "He sent his resume.",
+    "example_jp": "彼は履歴書を送った。"
+  },
+  {
+    "word": "resume",
+    "meaning": "概要",
+    "example": "I read the resume of the report.",
+    "example_jp": "私は報告書の概要を読んだ。"
+  },
+  {
+    "word": "outbreak",
+    "meaning": "発生，勃発",
+    "example": "There was an outbreak of disease.",
+    "example_jp": "病気の発生があった。"
+  },
+  {
+    "word": "inspect",
+    "meaning": "検査する",
+    "example": "They inspected the building.",
+    "example_jp": "彼らは建物を検査した。"
+  },
+  {
+    "word": "expedition",
+    "meaning": "探検，遠征",
+    "example": "They went on an expedition.",
+    "example_jp": "彼らは探検に出かけた。"
+  },
+  {
+    "word": "expedition",
+    "meaning": "探検隊",
+    "example": "The expedition returned safely.",
+    "example_jp": "探検隊は無事に帰還した。"
+  },
+  {
+    "word": "enroll",
+    "meaning": "入学する",
+    "example": "He enrolled in the course.",
+    "example_jp": "彼はそのコースに入学した。"
+  },
+  {
+    "word": "enroll",
+    "meaning": "在籍している",
+    "example": "She is enrolled at the university.",
+    "example_jp": "彼女はその大学に在籍している。"
+  },
+  {
+    "word": "discipline",
+    "meaning": "躾ける",
+    "example": "They disciplined the child.",
+    "example_jp": "彼らは子供を躾けた。"
+  },
+  {
+    "word": "discipline",
+    "meaning": "躾，規律",
+    "example": "Discipline is important.",
+    "example_jp": "規律（躾）は重要だ。"
+  },
+  {
+    "word": "discipline",
+    "meaning": "学問分野",
+    "example": "Biology is a scientific discipline.",
+    "example_jp": "生物学は科学の学問分野だ。"
+  },
+  {
+    "word": "tuition",
+    "meaning": "授業料",
+    "example": "Tuition is expensive.",
+    "example_jp": "授業料は高い。"
+  },
+  {
+    "word": "tuition",
+    "meaning": "授業",
+    "example": "He received private tuition.",
+    "example_jp": "彼は個人の授業を受けた。"
+  },
+  {
+    "word": "ethic",
+    "meaning": "倫理",
+    "example": "Work ethics are important.",
+    "example_jp": "労働倫理は重要だ。"
+  },
+  {
+    "word": "ethic",
+    "meaning": "倫理",
+    "example": "Traditional ethics guide behavior.",
+    "example_jp": "伝統的な倫理が行動を導く。"
+  },
+  {
+    "word": "psychology",
+    "meaning": "心理学",
+    "example": "She studies psychology.",
+    "example_jp": "彼女は心理学を勉強している。"
+  },
+  {
+    "word": "psychology",
+    "meaning": "心理",
+    "example": "Human psychology is complex.",
+    "example_jp": "人間の心理は複雑だ。"
+  },
+  {
+    "word": "astronomy",
+    "meaning": "天文学",
+    "example": "He is interested in astronomy.",
+    "example_jp": "彼は天文学に興味がある。"
+  },
+  {
+    "word": "archaeologist",
+    "meaning": "考古学者",
+    "example": "The archaeologist found ancient ruins.",
+    "example_jp": "その考古学者は古代の遺跡を見つけた。"
+  },
+  {
+    "word": "thesis",
+    "meaning": "論文",
+    "example": "She wrote her thesis.",
+    "example_jp": "彼女は論文を書いた。"
+  },
+  {
+    "word": "thesis",
+    "meaning": "テーマ",
+    "example": "The thesis of the book is clear.",
+    "example_jp": "その本のテーマは明確だ。"
+  },
+  {
+    "word": "dormitory",
+    "meaning": "寮",
+    "example": "He lives in a dormitory.",
+    "example_jp": "彼は寮に住んでいる。"
+  },
+  {
+    "word": "grasp",
+    "meaning": "理解する",
+    "example": "I grasped the concept quickly.",
+    "example_jp": "私はその概念をすぐに理解した。"
+  },
+  {
+    "word": "grasp",
+    "meaning": "つかむ",
+    "example": "He grasped her hand.",
+    "example_jp": "彼は彼女の手をつかんだ。"
+  },
+  {
+    "word": "grasp",
+    "meaning": "理解，つかむこと",
+    "example": "He has a good grasp of physics.",
+    "example_jp": "彼は物理学をよく理解している。"
+  },
+  {
+    "word": "anticipate",
+    "meaning": "予想する",
+    "example": "They anticipated the result.",
+    "example_jp": "彼らは結果を予想した。"
+  },
+  {
+    "word": "anticipate",
+    "meaning": "期待する",
+    "example": "She anticipated his arrival.",
+    "example_jp": "彼女は彼の到着を期待した。"
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "word": "crazy",
+    "meaning": "夢中で",
+    "example": "He is crazy about soccer.",
+    "example_jp": "彼はサッカーに夢中だ。"
+  },
+  {
+    "word": "crazy",
+    "meaning": "頭の狂った",
+    "example": "That is a crazy idea.",
+    "example_jp": "それは頭の狂った考えだ。"
+  },
+  {
+    "word": "funny",
+    "meaning": "おかしい",
+    "example": "The movie is funny.",
+    "example_jp": "その映画はおかしい。"
+  },
+  {
+    "word": "secret",
+    "meaning": "秘密の",
+    "example": "This is a secret plan.",
+    "example_jp": "これは秘密の計画だ。"
+  },
+  {
+    "word": "remote",
+    "meaning": "（遠く）離れた",
+    "example": "He lives in a remote village.",
+    "example_jp": "彼は（遠く）離れた村に住んでいる。"
+  },
+  {
+    "word": "wake",
+    "meaning": "目を覚ます",
+    "example": "I wake at six.",
+    "example_jp": "私は6時に目を覚ます。"
+  },
+  {
+    "word": "release",
+    "meaning": "解放する",
+    "example": "They release the bird.",
+    "example_jp": "彼らはその鳥を解放する。"
+  },
+  {
+    "word": "establish",
+    "meaning": "設立する",
+    "example": "They establish a new company.",
+    "example_jp": "彼らは新しい会社を設立する。"
+  },
+  {
+    "word": "examine",
+    "meaning": "調べる",
+    "example": "I examine the box.",
+    "example_jp": "私はその箱を調べる。"
+  },
+  {
+    "word": "celebrate",
+    "meaning": "祝う",
+    "example": "We celebrate his birthday.",
+    "example_jp": "私たちは彼の誕生日を祝う。"
+  },
+  {
+    "word": "float",
+    "meaning": "漂う",
+    "example": "Leaves float on the water.",
+    "example_jp": "葉が水の上に漂う。"
+  },
+  {
+    "word": "float",
+    "meaning": "浮く",
+    "example": "The boat floats well.",
+    "example_jp": "そのボートはよく浮く。"
+  },
+  {
+    "word": "recommend",
+    "meaning": "推薦する",
+    "example": "I recommend this book.",
+    "example_jp": "私はこの本を推薦する。"
+  },
+  {
+    "word": "supply",
+    "meaning": "供給する",
+    "example": "They supply water to the town.",
+    "example_jp": "彼らはその町に水を供給する。"
+  },
+  {
+    "word": "disappear",
+    "meaning": "見えなくなる",
+    "example": "The cat disappears quickly.",
+    "example_jp": "その猫はすぐに見えなくなる。"
+  },
+  {
+    "word": "apologize",
+    "meaning": "謝る",
+    "example": "I apologize to her.",
+    "example_jp": "私は彼女に謝る。"
+  },
+  {
+    "word": "paint",
+    "meaning": "塗る",
+    "example": "I paint the wall.",
+    "example_jp": "私は壁を塗る。"
+  },
+  {
+    "word": "pull",
+    "meaning": "引く",
+    "example": "I pull the door.",
+    "example_jp": "私はドアを引く。"
+  },
+  {
+    "word": "pull",
+    "meaning": "引っ張る",
+    "example": "He pulls the rope.",
+    "example_jp": "彼はロープを引っ張る。"
+  },
+  {
+    "word": "print",
+    "meaning": "印刷する",
+    "example": "I print the report.",
+    "example_jp": "私は報告書を印刷する。"
+  },
+  {
+    "word": "lift",
+    "meaning": "持ち上げる",
+    "example": "I lift the box.",
+    "example_jp": "私は箱を持ち上げる。"
+  },
+  {
+    "word": "separate",
+    "meaning": "分ける",
+    "example": "We separate the groups.",
+    "example_jp": "私たちはグループを分ける。"
+  },
+  {
+    "word": "melt",
+    "meaning": "溶ける",
+    "example": "The ice melts fast.",
+    "example_jp": "氷は速く溶ける。"
+  },
+  {
+    "word": "melt",
+    "meaning": "溶かす",
+    "example": "I melt the butter.",
+    "example_jp": "私はバターを溶かす。"
+  },
+  {
+    "word": "strike",
+    "meaning": "強く打つ",
+    "example": "He strikes the ball.",
+    "example_jp": "彼はそのボールを強く打つ。"
+  },
+  {
+    "word": "blow",
+    "meaning": "吹き飛ばす",
+    "example": "The wind blows the leaves away.",
+    "example_jp": "風が葉を吹き飛ばす。"
+  },
+  {
+    "word": "let",
+    "meaning": "させてやる",
+    "example": "Let me try it.",
+    "example_jp": "私にそれを試させてやる。"
+  },
+  {
+    "word": "roll",
+    "meaning": "転がる",
+    "example": "The ball rolls away.",
+    "example_jp": "ボールが転がる。"
+  },
+  {
+    "word": "roll",
+    "meaning": "転がす",
+    "example": "I roll the ball.",
+    "example_jp": "私はボールを転がす。"
+  },
+  {
+    "word": "recover",
+    "meaning": "回復する",
+    "example": "He recovers soon.",
+    "example_jp": "彼はすぐに回復する。"
+  },
+  {
+    "word": "surround",
+    "meaning": "囲む",
+    "example": "Trees surround the house.",
+    "example_jp": "木が家を囲む。"
+  },
+  {
+    "word": "doubt",
+    "meaning": "疑う",
+    "example": "I doubt his story.",
+    "example_jp": "私は彼の話を疑う。"
+  },
+  {
+    "word": "display",
+    "meaning": "展示する",
+    "example": "They display the pictures.",
+    "example_jp": "彼らは写真を展示する。"
+  },
+  {
+    "word": "announce",
+    "meaning": "発表する",
+    "example": "They announce the news.",
+    "example_jp": "彼らはそのニュースを発表する。"
+  },
+  {
+    "word": "support",
+    "meaning": "支持する",
+    "example": "I support his idea.",
+    "example_jp": "私は彼の考えを支持する。"
+  },
+  {
+    "word": "act",
+    "meaning": "行動する",
+    "example": "He acts quickly.",
+    "example_jp": "彼は素早く行動する。"
+  },
+  {
+    "word": "repeat",
+    "meaning": "繰り返す",
+    "example": "I repeat the word.",
+    "example_jp": "私はその単語を繰り返す。"
+  },
+  {
+    "word": "count",
+    "meaning": "数える",
+    "example": "I count the stars.",
+    "example_jp": "私は星を数える。"
+  },
+  {
+    "word": "compare",
+    "meaning": "比べる",
+    "example": "I compare the two bags.",
+    "example_jp": "私は2つのバッグを比べる。"
+  },
+  {
+    "word": "shine",
+    "meaning": "輝く",
+    "example": "The sun shines brightly.",
+    "example_jp": "太陽が明るく輝く。"
+  },
+  {
+    "word": "replace",
+    "meaning": "に取って代わる",
+    "example": "This machine replaces the old one.",
+    "example_jp": "この機械が古いものに取って代わる。"
+  },
+  {
+    "word": "reality",
+    "meaning": "現実",
+    "example": "This is the reality.",
+    "example_jp": "これが現実だ。"
+  },
+  {
+    "word": "strength",
+    "meaning": "力",
+    "example": "He has great strength.",
+    "example_jp": "彼は大きな力を持っている。"
+  },
+  {
+    "word": "strength",
+    "meaning": "強さ",
+    "example": "Her strength helps us.",
+    "example_jp": "彼女の強さが私たちを助ける。"
+  },
+  {
+    "word": "era",
+    "meaning": "時代",
+    "example": "We live in a new era.",
+    "example_jp": "私たちは新しい時代に住んでいる。"
+  },
+  {
+    "word": "area",
+    "meaning": "地域",
+    "example": "This area is quiet.",
+    "example_jp": "この地域は静かだ。"
+  },
+  {
+    "word": "area",
+    "meaning": "区域",
+    "example": "The area is large.",
+    "example_jp": "その区域は広い。"
+  },
+  {
+    "word": "respect",
+    "meaning": "尊敬",
+    "example": "I have respect for her.",
+    "example_jp": "私は彼女に尊敬の念を持っている。"
+  },
+  {
+    "word": "pressure",
+    "meaning": "重圧",
+    "example": "I feel pressure at work.",
+    "example_jp": "私は仕事で重圧を感じる。"
+  },
+  {
+    "word": "pleasure",
+    "meaning": "喜び",
+    "example": "It is a pleasure to meet you.",
+    "example_jp": "あなたにお会いできて喜びです。"
+  },
+  {
+    "word": "pleasure",
+    "meaning": "楽しみ",
+    "example": "Music gives me pleasure.",
+    "example_jp": "音楽は私に楽しみを与える。"
+  },
+  {
+    "word": "favor",
+    "meaning": "親切な行為",
+    "example": "He does me a favor.",
+    "example_jp": "彼は私に親切な行為をしてくれる。"
+  },
+  {
+    "word": "statue",
+    "meaning": "像",
+    "example": "This statue is famous.",
+    "example_jp": "この像は有名だ。"
+  },
+  {
+    "word": "limit",
+    "meaning": "限度",
+    "example": "There is a limit to time.",
+    "example_jp": "時間には限度がある。"
+  },
+  {
+    "word": "limit",
+    "meaning": "限界",
+    "example": "We reach the limit.",
+    "example_jp": "私たちは限界に達する。"
+  },
+  {
+    "word": "bottom",
+    "meaning": "下部",
+    "example": "The bottom of the box is broken.",
+    "example_jp": "箱の下部が壊れている。"
+  },
+  {
+    "word": "bottom",
+    "meaning": "底",
+    "example": "The lake is deep at the bottom.",
+    "example_jp": "その湖は底が深い。"
+  },
+  {
+    "word": "position",
+    "meaning": "立場",
+    "example": "This is my position.",
+    "example_jp": "これが私の立場だ。"
+  },
+  {
+    "word": "memory",
+    "meaning": "記憶",
+    "example": "I have a good memory.",
+    "example_jp": "私は良い記憶を持っている。"
+  },
+  {
+    "word": "memory",
+    "meaning": "記憶力",
+    "example": "His memory is strong.",
+    "example_jp": "彼の記憶力は強い。"
+  },
+  {
+    "word": "level",
+    "meaning": "水準",
+    "example": "This level is easy.",
+    "example_jp": "この水準は簡単だ。"
+  },
+  {
+    "word": "level",
+    "meaning": "レベル",
+    "example": "The water level rises.",
+    "example_jp": "水のレベルが上がる。"
+  }
+]

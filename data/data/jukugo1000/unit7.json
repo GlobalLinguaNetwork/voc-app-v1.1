@@ -1,0 +1,398 @@
+[
+  {
+    "word": "stand out",
+    "meaning": "際立つ、目立つ",
+    "example": "Her red dress stands out.",
+    "example_jp": "彼女の赤いドレスは目立っている。"
+  },
+  {
+    "word": "stick out",
+    "meaning": "突き出る、目立つ",
+    "example": "His ears stick out.",
+    "example_jp": "彼の耳は突き出ている。"
+  },
+  {
+    "word": "cling to",
+    "meaning": "～にくっつく、～に固執する",
+    "example": "The child clung to his mother.",
+    "example_jp": "その子供は母親にしがみついた。"
+  },
+  {
+    "word": "stick to",
+    "meaning": "（主義・決定など）を堅持する",
+    "example": "He sticks to his plan.",
+    "example_jp": "彼は自分の計画を堅持している。"
+  },
+  {
+    "word": "count on",
+    "meaning": "～に頼る、～を当てにする",
+    "example": "You can count on me.",
+    "example_jp": "あなたは私を当てにすることができる。"
+  },
+  {
+    "word": "count upon",
+    "meaning": "～に頼る、～を当てにする",
+    "example": "We count upon your help.",
+    "example_jp": "私たちはあなたの助けを当てにしている。"
+  },
+  {
+    "word": "rest on",
+    "meaning": "～に基づく、～に頼る",
+    "example": "His idea rests on facts.",
+    "example_jp": "彼の考えは事実に基づいている。"
+  },
+  {
+    "word": "rest upon",
+    "meaning": "～に基づく、～に頼る",
+    "example": "The plan rests upon trust.",
+    "example_jp": "その計画は信頼に基づいている。"
+  },
+  {
+    "word": "look out for",
+    "meaning": "～に気をつける",
+    "example": "Look out for cars.",
+    "example_jp": "車に気をつけなさい。"
+  },
+  {
+    "word": "watch out for",
+    "meaning": "～に気をつける",
+    "example": "Watch out for the dog.",
+    "example_jp": "犬に気をつけなさい。"
+  },
+  {
+    "word": "hand over",
+    "meaning": "～を引き渡す、手渡す",
+    "example": "He handed over the keys.",
+    "example_jp": "彼は鍵を引き渡した。"
+  },
+  {
+    "word": "turn over",
+    "meaning": "～をめくる、ひっくり返す",
+    "example": "She turned over the page.",
+    "example_jp": "彼女はページをめくった。"
+  },
+  {
+    "word": "turn over",
+    "meaning": "～を譲る、引き渡す",
+    "example": "He turned over the job to me.",
+    "example_jp": "彼は仕事を私に引き渡した。"
+  },
+  {
+    "word": "date back to",
+    "meaning": "～にさかのぼる、～に始まる",
+    "example": "The temple dates back to 1600.",
+    "example_jp": "その寺は1600年にさかのぼる。"
+  },
+  {
+    "word": "date from",
+    "meaning": "～から始まる、～にさかのぼる",
+    "example": "The custom dates from ancient times.",
+    "example_jp": "その慣習は古代から始まっている。"
+  },
+  {
+    "word": "put aside",
+    "meaning": "～を蓄える、取っておく",
+    "example": "She put aside some money.",
+    "example_jp": "彼女はお金を蓄えた。"
+  },
+  {
+    "word": "put aside",
+    "meaning": "～をわきに置く",
+    "example": "He put aside his anger.",
+    "example_jp": "彼は怒りをわきに置いた。"
+  },
+  {
+    "word": "set aside",
+    "meaning": "～を取っておく",
+    "example": "They set aside time to study.",
+    "example_jp": "彼らは勉強するための時間を取っておいた。"
+  },
+  {
+    "word": "set aside",
+    "meaning": "～をわきに置く",
+    "example": "She set aside her doubts.",
+    "example_jp": "彼女は疑いをわきに置いた。"
+  },
+  {
+    "word": "sit up",
+    "meaning": "（寝ないで）起きている",
+    "example": "I sat up all night.",
+    "example_jp": "私は一晩中起きていた。"
+  },
+  {
+    "word": "sit up",
+    "meaning": "上半身を起こす",
+    "example": "He sat up in bed.",
+    "example_jp": "彼はベッドで上半身を起こした。"
+  },
+  {
+    "word": "sit up",
+    "meaning": "きちんと座る",
+    "example": "Sit up straight.",
+    "example_jp": "まっすぐ座りなさい。"
+  },
+  {
+    "word": "stay up",
+    "meaning": "（寝ないで）起きている",
+    "example": "She stayed up late.",
+    "example_jp": "彼女は遅くまで起きていた。"
+  },
+  {
+    "word": "hold back",
+    "meaning": "（真相など）を隠す",
+    "example": "He held back the truth.",
+    "example_jp": "彼は真実を隠した。"
+  },
+  {
+    "word": "hold back",
+    "meaning": "～を制止する",
+    "example": "They held back the crowd.",
+    "example_jp": "彼らは群衆を制止した。"
+  },
+  {
+    "word": "keep back",
+    "meaning": "（真相・感情など）を隠す",
+    "example": "She kept back her tears.",
+    "example_jp": "彼女は涙を隠した。"
+  },
+  {
+    "word": "keep back",
+    "meaning": "～を制止する",
+    "example": "The fence keeps back the animals.",
+    "example_jp": "柵が動物たちを制止している。"
+  },
+  {
+    "word": "feel sorry for",
+    "meaning": "～を気の毒に思う、同情する",
+    "example": "I feel sorry for him.",
+    "example_jp": "私は彼を気の毒に思う。"
+  },
+  {
+    "word": "take pity on",
+    "meaning": "～に同情する",
+    "example": "They took pity on the lost dog.",
+    "example_jp": "彼らは迷い犬に同情した。"
+  },
+  {
+    "word": "have pity on",
+    "meaning": "～に同情する",
+    "example": "She had pity on the child.",
+    "example_jp": "彼女はその子供に同情した。"
+  },
+  {
+    "word": "sympathize with",
+    "meaning": "～に同情する",
+    "example": "I sympathize with your situation.",
+    "example_jp": "私はあなたの状況に同情する。"
+  },
+  {
+    "word": "take pride in",
+    "meaning": "～を誇りに思う",
+    "example": "He takes pride in his work.",
+    "example_jp": "彼は自分の仕事を誇りに思っている。"
+  },
+  {
+    "word": "pride oneself on",
+    "meaning": "～を誇りに思う",
+    "example": "She prides herself on her cooking.",
+    "example_jp": "彼女は自分の料理を誇りに思っている。"
+  },
+  {
+    "word": "surrender to",
+    "meaning": "～に屈する",
+    "example": "He surrendered to the police.",
+    "example_jp": "彼は警察に屈した。"
+  },
+  {
+    "word": "yield to",
+    "meaning": "～に屈する",
+    "example": "She yielded to pressure.",
+    "example_jp": "彼女は圧力に屈した。"
+  },
+  {
+    "word": "yield to",
+    "meaning": "～に道を譲る",
+    "example": "The car yielded to the ambulance.",
+    "example_jp": "その車は救急車に道を譲った。"
+  },
+  {
+    "word": "be essential to",
+    "meaning": "～にとって不可欠である",
+    "example": "Water is essential to life.",
+    "example_jp": "水は生命にとって不可欠である。"
+  },
+  {
+    "word": "be indispensable to",
+    "meaning": "～にとって不可欠である",
+    "example": "Sleep is indispensable to health.",
+    "example_jp": "睡眠は健康にとって不可欠である。"
+  },
+  {
+    "word": "be indispensable for",
+    "meaning": "～にとって不可欠である",
+    "example": "English is indispensable for the job.",
+    "example_jp": "英語はその仕事にとって不可欠である。"
+  },
+  {
+    "word": "be equal to",
+    "meaning": "～に等しい",
+    "example": "Two plus two is equal to four.",
+    "example_jp": "2足す2は4に等しい。"
+  },
+  {
+    "word": "be equivalent to",
+    "meaning": "～に等しい",
+    "example": "His answer is equivalent to “no.”",
+    "example_jp": "彼の答えは「ノー」に等しい。"
+  },
+  {
+    "word": "be apt to do",
+    "meaning": "～しがちである",
+    "example": "He is apt to forget things.",
+    "example_jp": "彼は物事を忘れがちである。"
+  },
+  {
+    "word": "be inclined to do",
+    "meaning": "～する傾向がある",
+    "example": "She is inclined to cry easily.",
+    "example_jp": "彼女は簡単に泣く傾向がある。"
+  },
+  {
+    "word": "be inclined to do",
+    "meaning": "～したい気がする",
+    "example": "I am inclined to rest.",
+    "example_jp": "私は休みたい気がする。"
+  },
+  {
+    "word": "in a sense",
+    "meaning": "ある意味では",
+    "example": "In a sense, he is right.",
+    "example_jp": "ある意味では、彼は正しい。"
+  },
+  {
+    "word": "in a way",
+    "meaning": "ある意味では",
+    "example": "In a way, I agree.",
+    "example_jp": "ある意味では、私は同意する。"
+  },
+  {
+    "word": "first of all",
+    "meaning": "まず第一に",
+    "example": "First of all, listen carefully.",
+    "example_jp": "まず第一に、注意深く聞きなさい。"
+  },
+  {
+    "word": "in the first place",
+    "meaning": "まず第一に",
+    "example": "You shouldn’t go there in the first place.",
+    "example_jp": "そもそも、そこへ行くべきではなかった。"
+  },
+  {
+    "word": "back and forth",
+    "meaning": "行ったり来たり",
+    "example": "He walked back and forth.",
+    "example_jp": "彼は行ったり来たり歩いた。"
+  },
+  {
+    "word": "up and down",
+    "meaning": "上下に",
+    "example": "The elevator goes up and down.",
+    "example_jp": "エレベーターは上下に動く。"
+  },
+  {
+    "word": "at present",
+    "meaning": "現在は、目下",
+    "example": "She is busy at present.",
+    "example_jp": "彼女は現在は忙しい。"
+  },
+  {
+    "word": "at the moment",
+    "meaning": "現在は",
+    "example": "I’m free at the moment.",
+    "example_jp": "私は現在は暇だ。"
+  },
+  {
+    "word": "at the moment",
+    "meaning": "ちょうどその時",
+    "example": "At the moment, the door opened.",
+    "example_jp": "ちょうどその時、ドアが開いた。"
+  },
+  {
+    "word": "in a word",
+    "meaning": "要するに",
+    "example": "In a word, he failed.",
+    "example_jp": "要するに、彼は失敗した。"
+  },
+  {
+    "word": "in short",
+    "meaning": "つまり",
+    "example": "In short, it was a mistake.",
+    "example_jp": "つまり、それは間違いだった。"
+  },
+  {
+    "word": "generally speaking",
+    "meaning": "一般的に言えば",
+    "example": "Generally speaking, cats are quiet.",
+    "example_jp": "一般的に言えば、猫は静かだ。"
+  },
+  {
+    "word": "on the whole",
+    "meaning": "全体的には",
+    "example": "On the whole, the class is good.",
+    "example_jp": "全体的には、そのクラスは良い。"
+  },
+  {
+    "word": "all in all",
+    "meaning": "全体的には",
+    "example": "All in all, it was a good day.",
+    "example_jp": "全体的には、良い一日だった。"
+  },
+  {
+    "word": "in principle",
+    "meaning": "原則的には",
+    "example": "In principle, I agree.",
+    "example_jp": "原則的には、私は同意する。"
+  },
+  {
+    "word": "in theory",
+    "meaning": "理論上は",
+    "example": "In theory, it should work.",
+    "example_jp": "理論上は、それはうまくいくはずだ。"
+  },
+  {
+    "word": "at all costs",
+    "meaning": "ぜひとも",
+    "example": "We must win at all costs.",
+    "example_jp": "私たちはぜひとも勝たなければならない。"
+  },
+  {
+    "word": "at any cost",
+    "meaning": "ぜひとも",
+    "example": "He will finish it at any cost.",
+    "example_jp": "彼はぜひともそれを終わらせるだろう。"
+  },
+  {
+    "word": "by all means",
+    "meaning": "ぜひどうぞ",
+    "example": "By all means, come in.",
+    "example_jp": "ぜひどうぞ、お入りください。"
+  },
+  {
+    "word": "by all means",
+    "meaning": "ぜひとも、必ず",
+    "example": "You must try it by all means.",
+    "example_jp": "あなたはぜひともそれを試すべきだ。"
+  },
+  {
+    "word": "as it were",
+    "meaning": "いわば",
+    "example": "He is, as it were, a genius.",
+    "example_jp": "彼は、いわば天才だ。"
+  },
+  {
+    "word": "so to speak",
+    "meaning": "いわば",
+    "example": "She is a mother to us, so to speak.",
+    "example_jp": "彼女は、いわば私たちの母親だ。"
+  }
+]

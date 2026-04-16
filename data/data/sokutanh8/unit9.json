@@ -1,0 +1,662 @@
+[
+  {
+    "word": "drought",
+    "meaning": "干ばつ",
+    "example": "The drought lasted for months.",
+    "example_jp": "その干ばつは数ヶ月間続いた。"
+  },
+  {
+    "word": "disease",
+    "meaning": "病気",
+    "example": "He caught a serious disease.",
+    "example_jp": "彼は深刻な病気にかかった。"
+  },
+  {
+    "word": "illness",
+    "meaning": "病気",
+    "example": "Her illness lasted a week.",
+    "example_jp": "彼女の病気は1週間続いた。"
+  },
+  {
+    "word": "nearby",
+    "meaning": "近くの",
+    "example": "We met at a nearby park.",
+    "example_jp": "私たちは近くの公園で会った。"
+  },
+  {
+    "word": "nearby",
+    "meaning": "近くで",
+    "example": "He lives nearby.",
+    "example_jp": "彼は近くで暮らしている。"
+  },
+  {
+    "word": "state",
+    "meaning": "州",
+    "example": "This is a large state.",
+    "example_jp": "これは大きな州だ。"
+  },
+  {
+    "word": "state",
+    "meaning": "国家",
+    "example": "The state made a decision.",
+    "example_jp": "その国家は決定を下した。"
+  },
+  {
+    "word": "state",
+    "meaning": "状態",
+    "example": "His state is stable.",
+    "example_jp": "彼の状態は安定している。"
+  },
+  {
+    "word": "state",
+    "meaning": "述べる",
+    "example": "He stated the facts.",
+    "example_jp": "彼は事実を述べた。"
+  },
+  {
+    "word": "terrible",
+    "meaning": "ひどい",
+    "example": "The weather was terrible.",
+    "example_jp": "天候はひどかった。"
+  },
+  {
+    "word": "terrible",
+    "meaning": "恐ろしい",
+    "example": "A terrible event happened.",
+    "example_jp": "恐ろしい出来事が起こった。"
+  },
+  {
+    "word": "frighten",
+    "meaning": "怖がらせる",
+    "example": "The noise frightened the child.",
+    "example_jp": "その騒音が子供を怖がらせた。"
+  },
+  {
+    "word": "terrify",
+    "meaning": "ひどく怖がらせる",
+    "example": "The story terrified him.",
+    "example_jp": "その話は彼をひどく怖がらせた。"
+  },
+  {
+    "word": "death",
+    "meaning": "死",
+    "example": "His death shocked us.",
+    "example_jp": "彼の死は私たちにショックを与えた。"
+  },
+  {
+    "word": "occur",
+    "meaning": "起こる",
+    "example": "The event occurred yesterday.",
+    "example_jp": "その出来事は昨日起こった。"
+  },
+  {
+    "word": "occur",
+    "meaning": "思い浮かぶ",
+    "example": "The idea occurred to me.",
+    "example_jp": "その考えが私に思い浮かんだ。"
+  },
+  {
+    "word": "bloom",
+    "meaning": "咲く",
+    "example": "The flowers bloom in spring.",
+    "example_jp": "花は春に咲く。"
+  },
+  {
+    "word": "bloom",
+    "meaning": "繁栄する",
+    "example": "The town bloomed again.",
+    "example_jp": "その町は再び繁栄した。"
+  },
+  {
+    "word": "bloom",
+    "meaning": "花",
+    "example": "The bloom was beautiful.",
+    "example_jp": "その花は美しかった。"
+  },
+  {
+    "word": "bloom",
+    "meaning": "花盛り",
+    "example": "The garden is in full bloom.",
+    "example_jp": "庭は花盛りだ。"
+  },
+  {
+    "word": "acid",
+    "meaning": "酸",
+    "example": "This liquid is an acid.",
+    "example_jp": "この液体は酸だ。"
+  },
+  {
+    "word": "acid",
+    "meaning": "酸性の",
+    "example": "The soil is acid.",
+    "example_jp": "その土壌は酸性だ。"
+  },
+  {
+    "word": "acid",
+    "meaning": "辛辣な",
+    "example": "He made an acid remark.",
+    "example_jp": "彼は辛辣な発言をした。"
+  },
+  {
+    "word": "problem",
+    "meaning": "問題",
+    "example": "We have a big problem.",
+    "example_jp": "私たちは大きな問題を抱えている。"
+  },
+  {
+    "word": "affect",
+    "meaning": "影響する",
+    "example": "The news affected him.",
+    "example_jp": "そのニュースは彼に影響した。"
+  },
+  {
+    "word": "affect",
+    "meaning": "感動させる",
+    "example": "The movie affected me deeply.",
+    "example_jp": "その映画は私を深く感動させた。"
+  },
+  {
+    "word": "affect",
+    "meaning": "冒す",
+    "example": "The disease affected his lungs.",
+    "example_jp": "その病気が彼の肺を冒した。"
+  },
+  {
+    "word": "several",
+    "meaning": "いくつかの",
+    "example": "I have several books.",
+    "example_jp": "私はいくつかの本を持っている。"
+  },
+  {
+    "word": "several",
+    "meaning": "それぞれの",
+    "example": "They went in several groups.",
+    "example_jp": "彼らはそれぞれのグループに分かれて行った。"
+  },
+  {
+    "word": "several",
+    "meaning": "いろいろな",
+    "example": "She tried several ways.",
+    "example_jp": "彼女はいろいろな方法を試した。"
+  },
+  {
+    "word": "upset",
+    "meaning": "動揺させる",
+    "example": "The news upset him.",
+    "example_jp": "その知らせは彼を動揺させた。"
+  },
+  {
+    "word": "upset",
+    "meaning": "ひっくり返す",
+    "example": "He upset the table.",
+    "example_jp": "彼はテーブルをひっくり返した。"
+  },
+  {
+    "word": "upset",
+    "meaning": "動揺して",
+    "example": "She looks upset.",
+    "example_jp": "彼女は動揺して見える。"
+  },
+  {
+    "word": "upset",
+    "meaning": "腹を立てて",
+    "example": "He is upset with me.",
+    "example_jp": "彼は私に腹を立てている。"
+  },
+  {
+    "word": "upset",
+    "meaning": "具合が悪い",
+    "example": "I feel upset today.",
+    "example_jp": "今日は具合が悪い。"
+  },
+  {
+    "word": "disturb",
+    "meaning": "妨害する",
+    "example": "The noise disturbed me.",
+    "example_jp": "その騒音が私を妨害した。"
+  },
+  {
+    "word": "disturb",
+    "meaning": "動揺させる",
+    "example": "The event disturbed his mind.",
+    "example_jp": "その出来事は彼の心を動揺させた。"
+  },
+  {
+    "word": "interfere",
+    "meaning": "妨げとなる",
+    "example": "Noise interferes with sleep.",
+    "example_jp": "騒音は睡眠の妨げとなる。"
+  },
+  {
+    "word": "interfere",
+    "meaning": "干渉する",
+    "example": "Don’t interfere in my life.",
+    "example_jp": "私の人生に干渉しないでください。"
+  },
+  {
+    "word": "interrupt",
+    "meaning": "さえぎる",
+    "example": "He interrupted my speech.",
+    "example_jp": "彼は私の話をさえぎった。"
+  },
+  {
+    "word": "interrupt",
+    "meaning": "中断する",
+    "example": "The rain interrupted the game.",
+    "example_jp": "雨が試合を中断させた。"
+  },
+  {
+    "word": "stomach",
+    "meaning": "胃",
+    "example": "My stomach hurts.",
+    "example_jp": "胃が痛い。"
+  },
+  {
+    "word": "stomach",
+    "meaning": "腹",
+    "example": "He touched his stomach.",
+    "example_jp": "彼は腹に触れた。"
+  },
+  {
+    "word": "digest",
+    "meaning": "消化する",
+    "example": "He digested the food.",
+    "example_jp": "彼は食べ物を消化した。"
+  },
+  {
+    "word": "digest",
+    "meaning": "理解する",
+    "example": "I need time to digest the idea.",
+    "example_jp": "私はその考えを理解する時間が必要だ。"
+  },
+  {
+    "word": "digest",
+    "meaning": "要約",
+    "example": "I read a short digest.",
+    "example_jp": "私は短い要約を読んだ。"
+  },
+  {
+    "word": "appetite",
+    "meaning": "食欲",
+    "example": "I have no appetite.",
+    "example_jp": "私は食欲がない。"
+  },
+  {
+    "word": "appetite",
+    "meaning": "欲求",
+    "example": "He has an appetite for success.",
+    "example_jp": "彼は成功への欲求を持っている。"
+  },
+  {
+    "word": "burn",
+    "meaning": "燃える",
+    "example": "The fire burned fast.",
+    "example_jp": "火は速く燃えた。"
+  },
+  {
+    "word": "burn",
+    "meaning": "燃やす",
+    "example": "He burned the paper.",
+    "example_jp": "彼は紙を燃やした。"
+  },
+  {
+    "word": "burn",
+    "meaning": "焼く",
+    "example": "The sun burned my skin.",
+    "example_jp": "太陽が私の肌を焼いた。"
+  },
+  {
+    "word": "sensation",
+    "meaning": "感覚",
+    "example": "I felt a strange sensation.",
+    "example_jp": "私は奇妙な感覚を覚えた。"
+  },
+  {
+    "word": "sensation",
+    "meaning": "世間を騒がす事件",
+    "example": "The news caused a sensation.",
+    "example_jp": "そのニュースは世間を騒がす事件となった。"
+  },
+  {
+    "word": "sensation",
+    "meaning": "気分",
+    "example": "I had a warm sensation.",
+    "example_jp": "私は暖かい気分になった。"
+  },
+  {
+    "word": "thrill",
+    "meaning": "ぞくぞくさせる",
+    "example": "The ride thrilled me.",
+    "example_jp": "その乗り物は私をぞくぞくさせた。"
+  },
+  {
+    "word": "thrill",
+    "meaning": "ぞくぞくする",
+    "example": "I thrill at the idea.",
+    "example_jp": "私はその考えにぞくぞくする。"
+  },
+  {
+    "word": "thrill",
+    "meaning": "スリル",
+    "example": "It was a big thrill.",
+    "example_jp": "それは大きなスリルだった。"
+  },
+  {
+    "word": "throat",
+    "meaning": "喉",
+    "example": "My throat is sore.",
+    "example_jp": "喉が痛い。"
+  },
+  {
+    "word": "intensity",
+    "meaning": "強烈さ",
+    "example": "The intensity of the light was strong.",
+    "example_jp": "光の強烈さは強かった。"
+  },
+  {
+    "word": "intensity",
+    "meaning": "熱心さ",
+    "example": "He worked with intensity.",
+    "example_jp": "彼は熱心さをもって働いた。"
+  },
+  {
+    "word": "sharp",
+    "meaning": "鋭い",
+    "example": "He has a sharp mind.",
+    "example_jp": "彼は鋭い心を持っている。"
+  },
+  {
+    "word": "sharp",
+    "meaning": "急激な",
+    "example": "There was a sharp change.",
+    "example_jp": "急激な変化があった。"
+  },
+  {
+    "word": "sharp",
+    "meaning": "きっかりに",
+    "example": "The meeting starts at 10 sharp.",
+    "example_jp": "会議は10時きっかりに始まる。"
+  },
+  {
+    "word": "extremely",
+    "meaning": "非常に",
+    "example": "It is extremely cold.",
+    "example_jp": "非常に寒い。"
+  },
+  {
+    "word": "painful",
+    "meaning": "痛い",
+    "example": "The cut was painful.",
+    "example_jp": "切り傷が痛かった。"
+  },
+  {
+    "word": "painful",
+    "meaning": "つらい",
+    "example": "It was a painful memory.",
+    "example_jp": "それはつらい思い出だった。"
+  },
+  {
+    "word": "sore",
+    "meaning": "痛い",
+    "example": "My leg is sore.",
+    "example_jp": "足が痛い。"
+  },
+  {
+    "word": "sore",
+    "meaning": "ひりひりする",
+    "example": "My skin feels sore.",
+    "example_jp": "肌がひりひりする。"
+  },
+  {
+    "word": "distress",
+    "meaning": "苦悩",
+    "example": "She felt great distress.",
+    "example_jp": "彼女は大きな苦悩を感じた。"
+  },
+  {
+    "word": "distress",
+    "meaning": "困窮",
+    "example": "The loss caused distress.",
+    "example_jp": "その損失が困窮を引き起こした。"
+  },
+  {
+    "word": "distress",
+    "meaning": "苦悩させる",
+    "example": "The news distressed him.",
+    "example_jp": "そのニュースは彼を苦悩させた。"
+  },
+  {
+    "word": "permanently",
+    "meaning": "永久に",
+    "example": "The door was permanently closed.",
+    "example_jp": "そのドアは永久に閉じられた。"
+  },
+  {
+    "word": "permanently",
+    "meaning": "常に",
+    "example": "He permanently moved abroad.",
+    "example_jp": "彼は常に（永久に）海外へ移住した。"
+  },
+  {
+    "word": "sleep",
+    "meaning": "眠る",
+    "example": "He sleeps well.",
+    "example_jp": "彼はよく眠る。"
+  },
+  {
+    "word": "sleep",
+    "meaning": "睡眠",
+    "example": "I need more sleep.",
+    "example_jp": "もっと多くの睡眠が必要だ。"
+  },
+  {
+    "word": "yawn",
+    "meaning": "あくびをする",
+    "example": "He yawned loudly.",
+    "example_jp": "彼は大声であくびをした。"
+  },
+  {
+    "word": "yawn",
+    "meaning": "あくび",
+    "example": "I heard a yawn.",
+    "example_jp": "私はあくびを聞いた。"
+  },
+  {
+    "word": "sugary",
+    "meaning": "砂糖の入った",
+    "example": "This drink is sugary.",
+    "example_jp": "この飲み物は砂糖の入ったものだ。"
+  },
+  {
+    "word": "sugary",
+    "meaning": "甘ったるい",
+    "example": "His words were sugary.",
+    "example_jp": "彼の言葉は甘ったるいものだった。"
+  },
+  {
+    "word": "remedy",
+    "meaning": "治療",
+    "example": "This is a remedy for colds.",
+    "example_jp": "これは風邪の治療（法）だ。"
+  },
+  {
+    "word": "remedy",
+    "meaning": "解決法",
+    "example": "We need a remedy for the problem.",
+    "example_jp": "私たちはその問題の解決法を必要としている。"
+  },
+  {
+    "word": "remedy",
+    "meaning": "薬",
+    "example": "He took a remedy.",
+    "example_jp": "彼は薬を飲んだ。"
+  },
+  {
+    "word": "antibiotic",
+    "meaning": "抗生物質",
+    "example": "The doctor gave antibiotics.",
+    "example_jp": "医者は抗生物質を与えた。"
+  },
+  {
+    "word": "drugstore",
+    "meaning": "ドラッグストア",
+    "example": "I went to the drugstore.",
+    "example_jp": "私はドラッグストアに行った。"
+  },
+  {
+    "word": "drugstore",
+    "meaning": "薬局",
+    "example": "The drugstore sells medicine.",
+    "example_jp": "その薬局（ドラッグストア）は薬を売っている。"
+  },
+  {
+    "word": "prescription",
+    "meaning": "処方箋",
+    "example": "I got a prescription.",
+    "example_jp": "私は処方箋を受け取った。"
+  },
+  {
+    "word": "widespread",
+    "meaning": "広範囲にわたる",
+    "example": "The disease became widespread.",
+    "example_jp": "その病気は広範囲にわたるものとなった。"
+  },
+  {
+    "word": "myth",
+    "meaning": "神話",
+    "example": "It is just a myth.",
+    "example_jp": "それは単なる神話だ。"
+  },
+  {
+    "word": "myth",
+    "meaning": "俗説",
+    "example": "That belief is a myth.",
+    "example_jp": "その信念は俗説だ。"
+  },
+  {
+    "word": "folk",
+    "meaning": "民衆の",
+    "example": "Folk music is popular.",
+    "example_jp": "民衆の音楽（フォークミュージック）は人気がある。"
+  },
+  {
+    "word": "folk",
+    "meaning": "民族の",
+    "example": "Folk stories are old.",
+    "example_jp": "民族の物語は古い。"
+  },
+  {
+    "word": "folk",
+    "meaning": "人々",
+    "example": "Many folk came to the event.",
+    "example_jp": "多くの人々が行事にやってきた。"
+  },
+  {
+    "word": "fiction",
+    "meaning": "作り話",
+    "example": "This story is fiction.",
+    "example_jp": "この物語は作り話だ。"
+  },
+  {
+    "word": "fiction",
+    "meaning": "小説",
+    "example": "She writes fiction.",
+    "example_jp": "彼女は小説を書いている。"
+  },
+  {
+    "word": "tale",
+    "meaning": "話",
+    "example": "He told a funny tale.",
+    "example_jp": "彼は面白い話をした。"
+  },
+  {
+    "word": "tale",
+    "meaning": "物語",
+    "example": "I read a long tale.",
+    "example_jp": "私は長い物語を読んだ。"
+  },
+  {
+    "word": "plot",
+    "meaning": "筋",
+    "example": "The plot was simple.",
+    "example_jp": "その筋（プロット）は単純だった。"
+  },
+  {
+    "word": "plot",
+    "meaning": "陰謀",
+    "example": "They made a plot.",
+    "example_jp": "彼らは陰謀を企てた。"
+  },
+  {
+    "word": "reduce",
+    "meaning": "減らす",
+    "example": "They reduced the price.",
+    "example_jp": "彼らは値段を減らした。"
+  },
+  {
+    "word": "reduce",
+    "meaning": "変えられる",
+    "example": "He was reduced to tears.",
+    "example_jp": "彼は（泣く状態に）変えられた（泣き出した）。"
+  },
+  {
+    "word": "decline",
+    "meaning": "減少する",
+    "example": "Sales declined.",
+    "example_jp": "売上が減少した。"
+  },
+  {
+    "word": "decline",
+    "meaning": "衰退する",
+    "example": "The town declined.",
+    "example_jp": "その町は衰退した。"
+  },
+  {
+    "word": "decline",
+    "meaning": "断る",
+    "example": "He declined the offer.",
+    "example_jp": "彼は申し出を断った。"
+  },
+  {
+    "word": "decline",
+    "meaning": "減少",
+    "example": "There was a sharp decline.",
+    "example_jp": "急激な減少があった。"
+  },
+  {
+    "word": "decline",
+    "meaning": "衰退",
+    "example": "The decline continued.",
+    "example_jp": "衰退が続いた。"
+  },
+  {
+    "word": "symptom",
+    "meaning": "症状",
+    "example": "He has symptoms of a cold.",
+    "example_jp": "彼には風邪の症状がある。"
+  },
+  {
+    "word": "symptom",
+    "meaning": "兆候",
+    "example": "This is a symptom of change.",
+    "example_jp": "これは変化の兆候だ。"
+  },
+  {
+    "word": "comfort",
+    "meaning": "快適さ",
+    "example": "The room has comfort.",
+    "example_jp": "その部屋には快適さがある。"
+  },
+  {
+    "word": "comfort",
+    "meaning": "慰め",
+    "example": "She gave him comfort.",
+    "example_jp": "彼女は彼に慰めを与えた。"
+  },
+  {
+    "word": "comfort",
+    "meaning": "慰める",
+    "example": "She comforted the child.",
+    "example_jp": "彼女はその子供を慰めた。"
+  }
+]

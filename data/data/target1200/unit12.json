@@ -1,0 +1,314 @@
+[
+  {
+    "word": "bring back",
+    "meaning": "〜を返す",
+    "example": "I bring back the book.",
+    "example_jp": "私はその本を返す。"
+  },
+  {
+    "word": "carry out",
+    "meaning": "〜を実行する",
+    "example": "We carry out the plan.",
+    "example_jp": "私たちはその計画を実行する。"
+  },
+  {
+    "word": "date back to",
+    "meaning": "〜にさかのぼる",
+    "example": "The building dates back to 1900.",
+    "example_jp": "その建物は1900年にさかのぼる。"
+  },
+  {
+    "word": "find out",
+    "meaning": "知る",
+    "example": "I find out the truth.",
+    "example_jp": "私は真実を知る。"
+  },
+  {
+    "word": "get together",
+    "meaning": "集まる",
+    "example": "We get together after school.",
+    "example_jp": "私たちは放課後に集まる。"
+  },
+  {
+    "word": "give off",
+    "meaning": "〜を発する",
+    "example": "The flower gives off a sweet smell.",
+    "example_jp": "その花は甘い香りを発する。"
+  },
+  {
+    "word": "hand in",
+    "meaning": "〜を提出する",
+    "example": "I hand in my report.",
+    "example_jp": "私はレポートを提出する。"
+  },
+  {
+    "word": "hang up",
+    "meaning": "電話を切る",
+    "example": "I hang up the phone.",
+    "example_jp": "私は電話を切る。"
+  },
+  {
+    "word": "hold up",
+    "meaning": "〜を支えている",
+    "example": "The pillars hold up the roof.",
+    "example_jp": "柱が屋根を支えている。"
+  },
+  {
+    "word": "live on",
+    "meaning": "〜で暮らしを立てる",
+    "example": "They live on rice and fish.",
+    "example_jp": "彼らは米と魚で暮らしを立てる。"
+  },
+  {
+    "word": "look after",
+    "meaning": "〜の世話をする",
+    "example": "I look after my sister.",
+    "example_jp": "私は妹の世話をする。"
+  },
+  {
+    "word": "look out",
+    "meaning": "注意する",
+    "example": "Look out! A car is coming.",
+    "example_jp": "注意して！車が来ている。"
+  },
+  {
+    "word": "look up",
+    "meaning": "〜を調べる",
+    "example": "I look up the word.",
+    "example_jp": "私はその単語を調べる。"
+  },
+  {
+    "word": "major in",
+    "meaning": "〜を専攻する",
+    "example": "I major in science.",
+    "example_jp": "私は科学を専攻する。"
+  },
+  {
+    "word": "name after",
+    "meaning": "〜にちなんで名付ける",
+    "example": "He is named after his grandfather.",
+    "example_jp": "彼は自身の祖父にちなんで名付けられる。"
+  },
+  {
+    "word": "put down",
+    "meaning": "〜を書き留める",
+    "example": "I put down the idea.",
+    "example_jp": "私はそのアイデアを書き留める。"
+  },
+  {
+    "word": "see off",
+    "meaning": "〜を見送る",
+    "example": "We see off our friend.",
+    "example_jp": "私たちは友達を見送る。"
+  },
+  {
+    "word": "take a look",
+    "meaning": "ちょっと見る",
+    "example": "Take a look at this.",
+    "example_jp": "これをちょっと見てください。"
+  },
+  {
+    "word": "take away",
+    "meaning": "〜を片付ける",
+    "example": "Please take away the dishes.",
+    "example_jp": "皿を片付けてください。"
+  },
+  {
+    "word": "take one’s time",
+    "meaning": "…するのに時間をかける",
+    "example": "Take your time with the work.",
+    "example_jp": "その仕事をするのに時間をかけなさい。"
+  },
+  {
+    "word": "think of A as B",
+    "meaning": "AをBと見なす",
+    "example": "I think of him as a hero.",
+    "example_jp": "私は彼をヒーローと見なす。"
+  },
+  {
+    "word": "be about to",
+    "meaning": "…しようとしている",
+    "example": "I am about to leave.",
+    "example_jp": "私は出発しようとしている。"
+  },
+  {
+    "word": "be born into",
+    "meaning": "〜の家庭に生まれる",
+    "example": "She is born into a large family.",
+    "example_jp": "彼女は大家族の家庭に生まれる。"
+  },
+  {
+    "word": "be faced with",
+    "meaning": "〜に直面している",
+    "example": "We are faced with a problem.",
+    "example_jp": "私たちは問題に直面している。"
+  },
+  {
+    "word": "be good at",
+    "meaning": "〜が上手だ",
+    "example": "She is good at math.",
+    "example_jp": "彼女は数学が上手だ。"
+  },
+  {
+    "word": "be in need of",
+    "meaning": "〜を必要としている",
+    "example": "We are in need of help.",
+    "example_jp": "私たちは助けを必要としている。"
+  },
+  {
+    "word": "be made of",
+    "meaning": "〜でできている",
+    "example": "The table is made of wood.",
+    "example_jp": "そのテーブルは木でできている。"
+  },
+  {
+    "word": "be made from",
+    "meaning": "〜でできている",
+    "example": "Wine is made from grapes.",
+    "example_jp": "ワインはブドウでできている。"
+  },
+  {
+    "word": "be short of",
+    "meaning": "〜が足りない",
+    "example": "We are short of time.",
+    "example_jp": "私たちは時間が足りない。"
+  },
+  {
+    "word": "be up to",
+    "meaning": "〜次第である",
+    "example": "It is up to you.",
+    "example_jp": "それはあなた次第である。"
+  },
+  {
+    "word": "be worried about",
+    "meaning": "〜のことを心配している",
+    "example": "I am worried about the test.",
+    "example_jp": "私はテストのことを心配している。"
+  },
+  {
+    "word": "by oneself",
+    "meaning": "ひとりで",
+    "example": "He studies by himself.",
+    "example_jp": "彼はひとりで勉強する。"
+  },
+  {
+    "word": "on one’s own",
+    "meaning": "たったひとりで",
+    "example": "She lives on her own.",
+    "example_jp": "彼女はたったひとりで住んでいる。"
+  },
+  {
+    "word": "above all",
+    "meaning": "とりわけ",
+    "example": "Above all, be kind.",
+    "example_jp": "とりわけ、親切でありなさい。"
+  },
+  {
+    "word": "across from",
+    "meaning": "〜の向かい側に",
+    "example": "The school is across from the park.",
+    "example_jp": "学校は公園の向かい側にある。"
+  },
+  {
+    "word": "after all",
+    "meaning": "結局は",
+    "example": "After all, he is right.",
+    "example_jp": "結局は、彼が正しい。"
+  },
+  {
+    "word": "after all",
+    "meaning": "やはり",
+    "example": "We go after all.",
+    "example_jp": "私たちはやはり行く。"
+  },
+  {
+    "word": "at a time",
+    "meaning": "１度に",
+    "example": "I read one book at a time.",
+    "example_jp": "私は1度に1冊の本を読む。"
+  },
+  {
+    "word": "by accident",
+    "meaning": "偶然",
+    "example": "I meet him by accident.",
+    "example_jp": "私は偶然彼に会う。"
+  },
+  {
+    "word": "by mistake",
+    "meaning": "間違って",
+    "example": "I call him by mistake.",
+    "example_jp": "私は間違って彼に電話をかける。"
+  },
+  {
+    "word": "day after day",
+    "meaning": "来る日も来る日も",
+    "example": "She practices day after day.",
+    "example_jp": "彼女は来る日も来る日も練習する。"
+  },
+  {
+    "word": "for free",
+    "meaning": "無料で",
+    "example": "We get the tickets for free.",
+    "example_jp": "私たちは無料でチケットを手に入れる。"
+  },
+  {
+    "word": "from on",
+    "meaning": "〜以降",
+    "example": "From now on, I study harder.",
+    "example_jp": "今からは（これ以降）、もっと一生懸命勉強する。"
+  },
+  {
+    "word": "from time to time",
+    "meaning": "時々",
+    "example": "I visit him from time to time.",
+    "example_jp": "私は時々彼を訪ねる。"
+  },
+  {
+    "word": "in a hurry",
+    "meaning": "急いで",
+    "example": "I leave in a hurry.",
+    "example_jp": "私は急いで出発する。"
+  },
+  {
+    "word": "in favor of",
+    "meaning": "〜に賛成して",
+    "example": "I am in favor of the idea.",
+    "example_jp": "私はその考えに賛成している。"
+  },
+  {
+    "word": "in order to",
+    "meaning": "…するために",
+    "example": "I study in order to pass.",
+    "example_jp": "私は合格するために勉強する。"
+  },
+  {
+    "word": "in the past",
+    "meaning": "昔は",
+    "example": "People lived simply in the past.",
+    "example_jp": "昔は、人々は質素に暮らしていた。"
+  },
+  {
+    "word": "in those days",
+    "meaning": "その当時は",
+    "example": "In those days, we had no phones.",
+    "example_jp": "その当時は、私たちは電話を持っていなかった。"
+  },
+  {
+    "word": "on purpose",
+    "meaning": "故意に",
+    "example": "He breaks it on purpose.",
+    "example_jp": "彼は故意にそれを壊す。"
+  },
+  {
+    "word": "over and over",
+    "meaning": "何度も",
+    "example": "I read the book over and over.",
+    "example_jp": "私は何度もその本を読む。"
+  },
+  {
+    "word": "upside down",
+    "meaning": "逆さまに",
+    "example": "The picture is upside down.",
+    "example_jp": "その写真は逆さまになっている。"
+  }
+]

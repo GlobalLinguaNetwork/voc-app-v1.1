@@ -1,0 +1,434 @@
+[
+  {
+    "word": "foresee",
+    "meaning": "予知する",
+    "example": "Experts foresee major changes.",
+    "example_jp": "専門家は大きな変化を予知している。"
+  },
+  {
+    "word": "infer",
+    "meaning": "推測する",
+    "example": "We inferred A from B.",
+    "example_jp": "私たちはBからAを推測した。"
+  },
+  {
+    "word": "deduce",
+    "meaning": "推定する",
+    "example": "They deduced A from B.",
+    "example_jp": "彼らはBからAを推定した。"
+  },
+  {
+    "word": "deem",
+    "meaning": "OをCだと思う",
+    "example": "I deemed it necessary.",
+    "example_jp": "私はそれが必要だと思った。"
+  },
+  {
+    "word": "ponder",
+    "meaning": "熟考する",
+    "example": "He pondered the question.",
+    "example_jp": "彼はその問題を熟考した。"
+  },
+  {
+    "word": "assure",
+    "meaning": "保証する，確信させる",
+    "example": "I assure you of success.",
+    "example_jp": "私はあなたに成功を保証する（確信させる）。"
+  },
+  {
+    "word": "assess",
+    "meaning": "評価する，査定する",
+    "example": "They assessed the damage.",
+    "example_jp": "彼らは被害を評価（査定）した。"
+  },
+  {
+    "word": "concede",
+    "meaning": "認める",
+    "example": "He conceded his mistake.",
+    "example_jp": "彼は自分の間違いを認めた。"
+  },
+  {
+    "word": "compromise",
+    "meaning": "妥協する",
+    "example": "They compromised on the issue.",
+    "example_jp": "彼らはその問題について妥協した。"
+  },
+  {
+    "word": "compromise",
+    "meaning": "曲げる",
+    "example": "He compromised his principles.",
+    "example_jp": "彼は自分の信念を曲げた。"
+  },
+  {
+    "word": "compromise",
+    "meaning": "妥協",
+    "example": "They reached a compromise.",
+    "example_jp": "彼らは妥協に達した。"
+  },
+  {
+    "word": "comprehend",
+    "meaning": "理解する",
+    "example": "She comprehended the concept fully.",
+    "example_jp": "彼女はその概念を完全に理解した。"
+  },
+  {
+    "word": "reconcile",
+    "meaning": "調和させる，和解させる",
+    "example": "She reconciled A with B.",
+    "example_jp": "彼女はAをBと調和（和解）させた。"
+  },
+  {
+    "word": "reconcile",
+    "meaning": "仕方なく受け入れる",
+    "example": "He reconciled himself to the situation.",
+    "example_jp": "彼はその状況を仕方なく受け入れた。"
+  },
+  {
+    "word": "instill",
+    "meaning": "教える，植え付ける",
+    "example": "They instilled confidence in the students.",
+    "example_jp": "彼らは学生たちに自信を植え付けた（教え込んだ）。"
+  },
+  {
+    "word": "alert",
+    "meaning": "油断のない，用心深い",
+    "example": "She stayed alert.",
+    "example_jp": "彼女は用心深い（油断のない）状態を保った。"
+  },
+  {
+    "word": "alert",
+    "meaning": "警告",
+    "example": "The government issued an alert.",
+    "example_jp": "政府は警告を出した。"
+  },
+  {
+    "word": "cognitive",
+    "meaning": "認知の",
+    "example": "Cognitive skills develop early.",
+    "example_jp": "認知能力は早期に発達する。"
+  },
+  {
+    "word": "intuition",
+    "meaning": "直観",
+    "example": "She trusted her intuition.",
+    "example_jp": "彼女は自分の直観を信じた。"
+  },
+  {
+    "word": "vow",
+    "meaning": "誓い",
+    "example": "He made a vow.",
+    "example_jp": "彼は誓いを立てた。"
+  },
+  {
+    "word": "vow",
+    "meaning": "誓う",
+    "example": "She vowed to return.",
+    "example_jp": "彼女は戻ることを誓った。"
+  },
+  {
+    "word": "nightmare",
+    "meaning": "悪夢",
+    "example": "I had a nightmare.",
+    "example_jp": "私は悪夢を見た。"
+  },
+  {
+    "word": "nightmare",
+    "meaning": "悪夢のようなこと",
+    "example": "The traffic was a nightmare.",
+    "example_jp": "交通渋滞は悪夢のようなことだった。"
+  },
+  {
+    "word": "stereotype",
+    "meaning": "固定観念",
+    "example": "It is just a stereotype.",
+    "example_jp": "それは単なる固定観念にすぎない。"
+  },
+  {
+    "word": "illusion",
+    "meaning": "幻想",
+    "example": "The magic created an illusion.",
+    "example_jp": "その手品は幻想を作り出した。"
+  },
+  {
+    "word": "criterion",
+    "meaning": "基準",
+    "example": "This is the main criterion.",
+    "example_jp": "これが主要な基準だ。"
+  },
+  {
+    "word": "ideology",
+    "meaning": "イデオロギー，思想",
+    "example": "They follow a strict ideology.",
+    "example_jp": "彼らは厳格なイデオロギー（思想）に従っている。"
+  },
+  {
+    "word": "tolerate",
+    "meaning": "大目に見る，我慢する",
+    "example": "I cannot tolerate the noise.",
+    "example_jp": "私はその騒音を我慢する（大目に見る）ことができない。"
+  },
+  {
+    "word": "overlook",
+    "meaning": "見落とす",
+    "example": "He overlooked the error.",
+    "example_jp": "彼はその間違いを見落とした。"
+  },
+  {
+    "word": "overlook",
+    "meaning": "見逃す，大目に見る",
+    "example": "She overlooked his mistake.",
+    "example_jp": "彼女は彼の過ちを見逃した（大目に見る）。"
+  },
+  {
+    "word": "overlook",
+    "meaning": "見渡す",
+    "example": "The room overlooks the sea.",
+    "example_jp": "その部屋からは海が見渡せる。"
+  },
+  {
+    "word": "conceive",
+    "meaning": "思い浮かべる",
+    "example": "She conceived a new idea.",
+    "example_jp": "彼女は新しい考えを思い浮かべた。"
+  },
+  {
+    "word": "conceive",
+    "meaning": "妊娠する",
+    "example": "She conceived a child.",
+    "example_jp": "彼女は子供を妊娠した。"
+  },
+  {
+    "word": "conceive",
+    "meaning": "想像する",
+    "example": "I cannot conceive of such a plan.",
+    "example_jp": "私はそのような計画を想像することができない。"
+  },
+  {
+    "word": "misunderstand",
+    "meaning": "誤解する",
+    "example": "He misunderstood my words.",
+    "example_jp": "彼は私の言葉を誤解した。"
+  },
+  {
+    "word": "keen",
+    "meaning": "鋭い",
+    "example": "She has a keen mind.",
+    "example_jp": "彼女は鋭い頭脳を持っている。"
+  },
+  {
+    "word": "keen",
+    "meaning": "熱中している，好きで",
+    "example": "He is keen on music.",
+    "example_jp": "彼は音楽に熱中している（音楽が好きだ）。"
+  },
+  {
+    "word": "subjective",
+    "meaning": "主観的な",
+    "example": "His opinion is subjective.",
+    "example_jp": "彼の意見は主観的なものだ。"
+  },
+  {
+    "word": "compulsory",
+    "meaning": "義務的な",
+    "example": "Education is compulsory.",
+    "example_jp": "教育は義務的なものだ。"
+  },
+  {
+    "word": "compulsory",
+    "meaning": "規定の",
+    "example": "A uniform is compulsory here.",
+    "example_jp": "ここでは制服の着用が規定されている。"
+  },
+  {
+    "word": "relieve",
+    "meaning": "取り除く",
+    "example": "The medicine relieved the pain.",
+    "example_jp": "その薬は痛みを取り除いた。"
+  },
+  {
+    "word": "relieve",
+    "meaning": "安心させる",
+    "example": "His words relieved me.",
+    "example_jp": "彼の言葉は私を安心させた。"
+  },
+  {
+    "word": "trim",
+    "meaning": "刈り込む，切り取る",
+    "example": "He trimmed the bushes.",
+    "example_jp": "彼は茂みを刈り込んだ。"
+  },
+  {
+    "word": "trim",
+    "meaning": "こぎれいな",
+    "example": "She wore a trim suit.",
+    "example_jp": "彼女はこぎれいなスーツを着ていた。"
+  },
+  {
+    "word": "disposal",
+    "meaning": "処分，廃棄",
+    "example": "Waste disposal is important.",
+    "example_jp": "廃棄物の処分（廃棄）は重要だ。"
+  },
+  {
+    "word": "disposal",
+    "meaning": "自由にする",
+    "example": "The car is at your disposal.",
+    "example_jp": "その車はあなたが自由にできる。"
+  },
+  {
+    "word": "scent",
+    "meaning": "香り",
+    "example": "The flower has a sweet scent.",
+    "example_jp": "その花は甘い香りがする。"
+  },
+  {
+    "word": "scent",
+    "meaning": "臭い",
+    "example": "The dog followed the scent.",
+    "example_jp": "犬は臭いを追った。"
+  },
+  {
+    "word": "grain",
+    "meaning": "穀物",
+    "example": "They harvested grain.",
+    "example_jp": "彼らは穀物を収穫した。"
+  },
+  {
+    "word": "grain",
+    "meaning": "粒，少量",
+    "example": "There is not a grain of truth.",
+    "example_jp": "そこには、ごく少量の真実さえもない。"
+  },
+  {
+    "word": "wheat",
+    "meaning": "小麦",
+    "example": "Wheat is grown here.",
+    "example_jp": "ここでは小麦が栽培されている。"
+  },
+  {
+    "word": "deforestation",
+    "meaning": "森林伐採",
+    "example": "Deforestation is a global issue.",
+    "example_jp": "森林伐採は地球規模の問題だ。"
+  },
+  {
+    "word": "drought",
+    "meaning": "干ばつ",
+    "example": "The drought lasted for months.",
+    "example_jp": "干ばつが数ヶ月間続いた。"
+  },
+  {
+    "word": "irrigation",
+    "meaning": "灌漑",
+    "example": "Irrigation improved the fields.",
+    "example_jp": "灌漑が畑を改良した。"
+  },
+  {
+    "word": "spectacle",
+    "meaning": "光景",
+    "example": "The sunset was a spectacle.",
+    "example_jp": "夕焼けは素晴らしい光景だった。"
+  },
+  {
+    "word": "spectacle",
+    "meaning": "見せ物",
+    "example": "The show was a spectacle.",
+    "example_jp": "そのショーは素晴らしい見せ物だった。"
+  },
+  {
+    "word": "altitude",
+    "meaning": "標高，高度",
+    "example": "The city is at high altitude.",
+    "example_jp": "その都市は高い標高（高度）にある。"
+  },
+  {
+    "word": "catastrophe",
+    "meaning": "大災害，災難",
+    "example": "The earthquake was a catastrophe.",
+    "example_jp": "その地震は大災害だった。"
+  },
+  {
+    "word": "wilderness",
+    "meaning": "荒野，野原",
+    "example": "They explored the wilderness.",
+    "example_jp": "彼らは荒野を探索した。"
+  },
+  {
+    "word": "decay",
+    "meaning": "腐敗",
+    "example": "The fruit showed signs of decay.",
+    "example_jp": "その果物には腐敗の兆候が見られた。"
+  },
+  {
+    "word": "decay",
+    "meaning": "腐敗する，衰える",
+    "example": "The building began to decay.",
+    "example_jp": "その建物は腐敗（衰退）し始めた。"
+  },
+  {
+    "word": "erosion",
+    "meaning": "侵食",
+    "example": "Soil erosion is increasing.",
+    "example_jp": "土壌侵食が増加している。"
+  },
+  {
+    "word": "flame",
+    "meaning": "炎",
+    "example": "The flame grew brighter.",
+    "example_jp": "炎はより明るくなった。"
+  },
+  {
+    "word": "galaxy",
+    "meaning": "銀河",
+    "example": "The Milky Way is a galaxy.",
+    "example_jp": "天の川は銀河だ。"
+  },
+  {
+    "word": "chill",
+    "meaning": "寒気",
+    "example": "He felt a chill.",
+    "example_jp": "彼は寒気を感じした。"
+  },
+  {
+    "word": "chill",
+    "meaning": "冷やす",
+    "example": "The wind chilled my hands.",
+    "example_jp": "風が私の手を冷やした。"
+  },
+  {
+    "word": "thermal",
+    "meaning": "熱の",
+    "example": "Thermal energy is important.",
+    "example_jp": "熱エネルギーは重要だ。"
+  },
+  {
+    "word": "fertile",
+    "meaning": "肥沃な",
+    "example": "The soil is fertile.",
+    "example_jp": "その土壌は肥沃だ。"
+  },
+  {
+    "word": "fossil",
+    "meaning": "化石化した",
+    "example": "Fossil remains were found.",
+    "example_jp": "化石化した遺骸が発見された。"
+  },
+  {
+    "word": "fossil",
+    "meaning": "化石",
+    "example": "They discovered a fossil.",
+    "example_jp": "彼らは化石を発見した。"
+  },
+  {
+    "word": "exploit",
+    "meaning": "利用する",
+    "example": "They exploited natural resources.",
+    "example_jp": "彼らは天然資源を利用した。"
+  },
+  {
+    "word": "exploit",
+    "meaning": "搾取する",
+    "example": "The workers were exploited.",
+    "example_jp": "労働者たちが搾取された。"
+  }
+]

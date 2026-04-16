@@ -1,0 +1,464 @@
+[
+  {
+    "word": "demonstrate",
+    "meaning": "を論証［証明］する",
+    "example": "The study demonstrates the link between stress and health.",
+    "example_jp": "その研究はストレスと健康の関連性を論証している。"
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "デモをする",
+    "example": "Thousands of people demonstrated against the new law.",
+    "example_jp": "何千人もの人々が新しい法律に反対してデモをした。"
+  },
+  {
+    "word": "behave",
+    "meaning": "振る舞う",
+    "example": "He behaved very well during the party.",
+    "example_jp": "彼はパーティーの間、とても行儀よく振る舞った。"
+  },
+  {
+    "word": "behave",
+    "meaning": "作動する",
+    "example": "The car is behaving strangely today.",
+    "example_jp": "今日、車の作動の仕方がおかしい。"
+  },
+  {
+    "word": "educate",
+    "meaning": "を教育する・に教える・を養う",
+    "example": "The school aims to educate children for a global society.",
+    "example_jp": "その学校はグローバル社会に向けて子供たちを教育することを目指している。"
+  },
+  {
+    "word": "purchase",
+    "meaning": "を購入する",
+    "example": "I purchased a new laptop yesterday.",
+    "example_jp": "昨日、新しいノートパソコンを購入した。"
+  },
+  {
+    "word": "recommend",
+    "meaning": "を勧める",
+    "example": "Can you recommend a good restaurant near here?",
+    "example_jp": "この近くで良いレストランを勧めてくれませんか。"
+  },
+  {
+    "word": "admit",
+    "meaning": "（しぶしぶ）認める",
+    "example": "He finally admitted that he was wrong.",
+    "example_jp": "彼はようやく自分が間違っていたことを認めた。"
+  },
+  {
+    "word": "admit",
+    "meaning": "入場［入学など］を認める",
+    "example": "She was admitted to a famous medical school.",
+    "example_jp": "彼女は有名な医学校への入学を認められた。"
+  },
+  {
+    "word": "generate",
+    "meaning": "を生み出す・発生させる",
+    "example": "Solar panels generate electricity from sunlight.",
+    "example_jp": "ソーラーパネルは太陽光から電気を発生させる。"
+  },
+  {
+    "word": "explore",
+    "meaning": "（を）調査［探究］する",
+    "example": "We need to explore new ways to cut costs.",
+    "example_jp": "コストを削減するための新しい方法を調査する必要がある。"
+  },
+  {
+    "word": "explore",
+    "meaning": "（を）探検［探査］する",
+    "example": "He spent his life exploring the ocean floor.",
+    "example_jp": "彼は海底を探検することに人生を費やした。"
+  },
+  {
+    "word": "amaze",
+    "meaning": "をびっくりさせる",
+    "example": "The magician's tricks amazed the audience.",
+    "example_jp": "その魔術師のトリックは観客をびっくりさせた。"
+  },
+  {
+    "word": "tear",
+    "meaning": "を引き裂く・裂ける",
+    "example": "Be careful not to tear the old documents.",
+    "example_jp": "古い書類を引き裂かないように気をつけてください。"
+  },
+  {
+    "word": "settle",
+    "meaning": "を解決する",
+    "example": "They finally settled the argument.",
+    "example_jp": "彼らはようやくその議論を解決した。"
+  },
+  {
+    "word": "settle",
+    "meaning": "（に）移り住む・を落ち着かせる",
+    "example": "My family settled in this town ten years ago.",
+    "example_jp": "私の家族は10年前にこの町に移り住んだ。"
+  },
+  {
+    "word": "afford",
+    "meaning": "を持つ［する］余裕がある",
+    "example": "I can't afford to buy a new car right now.",
+    "example_jp": "今は新しい車を買う余裕がない。"
+  },
+  {
+    "word": "afford",
+    "meaning": "を与える",
+    "example": "The balcony affords a great view of the city.",
+    "example_jp": "バルコニーからは街の素晴らしい景色が得られる（が見える）。"
+  },
+  {
+    "word": "conclude",
+    "meaning": "と結論づける・を締めくくる",
+    "example": "The meeting concluded with a short speech.",
+    "example_jp": "会議は短いスピーチで締めくくられた。"
+  },
+  {
+    "word": "conclude",
+    "meaning": "を締結する",
+    "example": "The two countries concluded a peace treaty.",
+    "example_jp": "両国は平和条約を締結した。"
+  },
+  {
+    "word": "advertise",
+    "meaning": "を宣伝する",
+    "example": "They advertised their new products on TV.",
+    "example_jp": "彼らはテレビで新製品を宣伝した。"
+  },
+  {
+    "word": "advertise",
+    "meaning": "（～を求める）広告を出す",
+    "example": "We are advertising for a new secretary.",
+    "example_jp": "私たちは新しい秘書を求める広告を出している。"
+  },
+  {
+    "word": "encounter",
+    "meaning": "に遭遇する・（思いがけず）出会う",
+    "example": "I encountered an old friend in the library.",
+    "example_jp": "図書館で旧友に思いがけず出会った。"
+  },
+  {
+    "word": "remind",
+    "meaning": "に思い出させる",
+    "example": "Please remind me to call her later.",
+    "example_jp": "後で彼女に電話することを私に思い出させてください。"
+  },
+  {
+    "word": "locate",
+    "meaning": "位置する",
+    "example": "The hotel is located near the station.",
+    "example_jp": "そのホテルは駅の近くに位置している。"
+  },
+  {
+    "word": "locate",
+    "meaning": "の位置を探し当てる",
+    "example": "Can you locate the missing file on your PC?",
+    "example_jp": "パソコンの中の行方不明のファイルを探し当てられますか。"
+  },
+  {
+    "word": "aid",
+    "meaning": "を援助する・助ける",
+    "example": "This organization aims to aid developing countries.",
+    "example_jp": "この組織は発展途上国を援助することを目的にしている。"
+  },
+  {
+    "word": "bite",
+    "meaning": "（を）かむ・刺す",
+    "example": "A large dog bit me on the arm.",
+    "example_jp": "大きな犬が私の腕をかんだ。"
+  },
+  {
+    "word": "deliver",
+    "meaning": "を配達する",
+    "example": "The package was delivered this morning.",
+    "example_jp": "その荷物は今朝、配達された。"
+  },
+  {
+    "word": "deliver",
+    "meaning": "（演説・講義）をする",
+    "example": "The professor delivered a brilliant lecture.",
+    "example_jp": "教授は見事な講義を行った。"
+  },
+  {
+    "word": "deliver",
+    "meaning": "子を産む",
+    "example": "She delivered a healthy baby boy.",
+    "example_jp": "彼女は元気な男の子を産んだ。"
+  },
+  {
+    "word": "perceive",
+    "meaning": "に気づく・を知覚する・を理解する",
+    "example": "He perceived a change in her attitude.",
+    "example_jp": "彼は彼女の態度の変化に気づいた。"
+  },
+  {
+    "word": "distinguish",
+    "meaning": "を区別する",
+    "example": "It is hard to distinguish between the two colors.",
+    "example_jp": "その2つの色の区別をつけるのは難しい。"
+  },
+  {
+    "word": "imply",
+    "meaning": "を暗に意味する",
+    "example": "Her silence implies that she agrees.",
+    "example_jp": "彼女が沈黙していることは、賛成していることを暗に意味している。"
+  },
+  {
+    "word": "imply",
+    "meaning": "を必然的に伴う",
+    "example": "High profits imply high risks.",
+    "example_jp": "高い収益は必然的に高いリスクを伴う。"
+  },
+  {
+    "word": "handle",
+    "meaning": "を処理する・扱う",
+    "example": "He knows how to handle difficult situations.",
+    "example_jp": "彼は困難な状況をどう処理すべきか知っている。"
+  },
+  {
+    "word": "handle",
+    "meaning": "を論じる",
+    "example": "The book handles the topic of environment.",
+    "example_jp": "その本は環境というトピックを論じている。"
+  },
+  {
+    "word": "handle",
+    "meaning": "を商う",
+    "example": "This shop handles a wide range of organic foods.",
+    "example_jp": "この店は幅広い有機食品を商っている。"
+  },
+  {
+    "word": "praise",
+    "meaning": "を賞賛する・賛美する",
+    "example": "The teacher praised her for her hard work.",
+    "example_jp": "先生は彼女の努力を賞賛した。"
+  },
+  {
+    "word": "appeal",
+    "meaning": "訴える・抗議する",
+    "example": "The charity appealed for more volunteers.",
+    "example_jp": "そのチャリティーはより多くのボランティアを訴えた（募った）。"
+  },
+  {
+    "word": "appeal",
+    "meaning": "（上級審に）上訴する",
+    "example": "The lawyer decided to appeal the court's decision.",
+    "example_jp": "弁護士は裁判所の決定を上訴することにした。"
+  },
+  {
+    "word": "insist",
+    "meaning": "（を）強く主張する・要求する",
+    "example": "He insisted that he was innocent.",
+    "example_jp": "彼は自分が無実であることを強く主張した。"
+  },
+  {
+    "word": "compete",
+    "meaning": "競う",
+    "example": "Athletes compete for the gold medal.",
+    "example_jp": "アスリートたちが金メダルを目指して競い合う。"
+  },
+  {
+    "word": "compete",
+    "meaning": "（～に）匹敵する",
+    "example": "Our company can compete with international rivals.",
+    "example_jp": "わが社は国際的なライバルに匹敵することができる。"
+  },
+  {
+    "word": "rank",
+    "meaning": "を位置づける・評価する",
+    "example": "He is ranked among the best players in the league.",
+    "example_jp": "彼はリーグの最優秀選手の一人として位置づけられている。"
+  },
+  {
+    "word": "rank",
+    "meaning": "（ある地位に）位置する",
+    "example": "This university ranks high in the world.",
+    "example_jp": "この大学は世界で上位に位置している。"
+  },
+  {
+    "word": "deny",
+    "meaning": "を否定する",
+    "example": "The politician denied the scandal.",
+    "example_jp": "その政治家はスキャンダルを否定した。"
+  },
+  {
+    "word": "deny",
+    "meaning": "を拒む",
+    "example": "They were denied access to the files.",
+    "example_jp": "彼らはファイルへのアクセスを拒まれた。"
+  },
+  {
+    "word": "reject",
+    "meaning": "を拒否する",
+    "example": "The board rejected his proposal.",
+    "example_jp": "委員会は彼の提案を拒否した。"
+  },
+  {
+    "word": "intend",
+    "meaning": "を意図する",
+    "example": "I didn't intend to hurt your feelings.",
+    "example_jp": "あなたの感情を傷つける意図はなかった。"
+  },
+  {
+    "word": "expose",
+    "meaning": "をさらす・露出する",
+    "example": "Don't expose your skin to direct sunlight.",
+    "example_jp": "肌を直射日光にさらしてはいけない。"
+  },
+  {
+    "word": "expose",
+    "meaning": "を暴露する",
+    "example": "The journalist exposed the corruption.",
+    "example_jp": "そのジャーナリストは汚職を暴露した。"
+  },
+  {
+    "word": "favor",
+    "meaning": "に賛成する・を好む・をひいきする",
+    "example": "Many people favor the new plan.",
+    "example_jp": "多くの人がその新しい計画に賛成している。"
+  },
+  {
+    "word": "inspire",
+    "meaning": "（人）を奮起させる",
+    "example": "Her speech inspired me to try harder.",
+    "example_jp": "彼女のスピーチは、もっと頑張ろうと私を奮起させた。"
+  },
+  {
+    "word": "inspire",
+    "meaning": "を喚起する",
+    "example": "The scenery inspired his latest painting.",
+    "example_jp": "その景色が彼の最新の絵の着想を喚起した。"
+  },
+  {
+    "word": "propose",
+    "meaning": "を提案する・もくろむ",
+    "example": "I propose that we take a break now.",
+    "example_jp": "今、休憩をとることを提案します。"
+  },
+  {
+    "word": "propose",
+    "meaning": "結婚を申し込む",
+    "example": "He proposed to her at the restaurant.",
+    "example_jp": "彼はそのレストランで彼女に結婚を申し込んだ。"
+  },
+  {
+    "word": "spell",
+    "meaning": "（語）をつづる",
+    "example": "How do you spell your last name?",
+    "example_jp": "あなたの名字はどうつづりますか。"
+  },
+  {
+    "word": "breathe",
+    "meaning": "呼吸する・を吸う",
+    "example": "Breathe deeply through your nose.",
+    "example_jp": "鼻から深く息を吸いなさい（呼吸しなさい）。"
+  },
+  {
+    "word": "repair",
+    "meaning": "を修理・修復する",
+    "example": "He is repairing his broken watch.",
+    "example_jp": "彼は壊れた時計を修理している。"
+  },
+  {
+    "word": "consist",
+    "meaning": "（～から）成る",
+    "example": "The cake consists mainly of flour and eggs.",
+    "example_jp": "そのケーキは主に小麦粉と卵から成っている。"
+  },
+  {
+    "word": "consist",
+    "meaning": "（～に）ある",
+    "example": "True happiness consists in helping others.",
+    "example_jp": "真の幸福は他者を助けることにある。"
+  },
+  {
+    "word": "comment",
+    "meaning": "意見・コメント・批判",
+    "example": "Do you have any comments on the report?",
+    "example_jp": "その報告書について何か意見（コメント）はありますか。"
+  },
+  {
+    "word": "instruction",
+    "meaning": "指示",
+    "example": "The students followed the teacher's instructions.",
+    "example_jp": "生徒たちは先生の指示に従った。"
+  },
+  {
+    "word": "instruction",
+    "meaning": "（製品の）使用書",
+    "example": "Please read the instructions before using it.",
+    "example_jp": "使用する前に（製品の）使用書を読んでください。"
+  },
+  {
+    "word": "religion",
+    "meaning": "宗教・信条・信仰",
+    "example": "Freedom of religion is a basic human right.",
+    "example_jp": "信教（宗教）の自由は基本的な人権だ。"
+  },
+  {
+    "word": "neighborhood",
+    "meaning": "地域・近所",
+    "example": "He lives in a quiet neighborhood.",
+    "example_jp": "彼は静かな地域（近所）に住んでいる。"
+  },
+  {
+    "word": "laboratory",
+    "meaning": "実験室・研究室",
+    "example": "The scientists are working in the laboratory.",
+    "example_jp": "科学者たちが実験室で働いている。"
+  },
+  {
+    "word": "presence",
+    "meaning": "存在・出席",
+    "example": "Her presence made the party more lively.",
+    "example_jp": "彼女の存在（出席）がパーティーをより賑やかにした。"
+  },
+  {
+    "word": "presence",
+    "meaning": "面前",
+    "example": "He felt nervous in the king's presence.",
+    "example_jp": "彼は王の面前で緊張を感じた。"
+  },
+  {
+    "word": "confidence",
+    "meaning": "自信",
+    "example": "He needs to have more confidence in himself.",
+    "example_jp": "彼はもっと自分に自信を持つ必要がある。"
+  },
+  {
+    "word": "confidence",
+    "meaning": "信頼",
+    "example": "I have complete confidence in our team.",
+    "example_jp": "私はチームを完全に信頼している。"
+  },
+  {
+    "word": "confidence",
+    "meaning": "秘密",
+    "example": "She told me the story in strict confidence.",
+    "example_jp": "彼女は厳重な秘密としてその話を私に教えてくれた。"
+  },
+  {
+    "word": "harm",
+    "meaning": "害・損害",
+    "example": "Smoking causes great harm to your lungs.",
+    "example_jp": "喫煙は肺に多大な害を及ぼす。"
+  },
+  {
+    "word": "instrument",
+    "meaning": "器具",
+    "example": "This is a delicate measuring instrument.",
+    "example_jp": "これは精密な測定器具だ。"
+  },
+  {
+    "word": "instrument",
+    "meaning": "楽器",
+    "example": "Which musical instrument do you play?",
+    "example_jp": "どの楽器を演奏しますか。"
+  },
+  {
+    "word": "category",
+    "meaning": "部類・区分・範疇",
+    "example": "These books fall into the same category.",
+    "example_jp": "これらの本は同じ部類（カテゴリー）に入る。"
+  }
+]

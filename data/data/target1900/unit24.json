@@ -1,0 +1,398 @@
+[
+  {
+    "word": "caution",
+    "meaning": "用心",
+    "example": "You should exercise caution when driving in the rain.",
+    "example_jp": "雨の日に運転する時は、用心すべきだ。"
+  },
+  {
+    "word": "caution",
+    "meaning": "警告",
+    "example": "The referee gave the player a caution for the foul.",
+    "example_jp": "審判はその反則に対して選手に警告を与えた。"
+  },
+  {
+    "word": "controversy",
+    "meaning": "論争",
+    "example": "The new law has caused a lot of controversy.",
+    "example_jp": "その新しい法律は多くの論争を引き起こしている。"
+  },
+  {
+    "word": "consensus",
+    "meaning": "総意，（意見の）一致",
+    "example": "The committee finally reached a consensus on the issue.",
+    "example_jp": "委員会はついにその問題について意見の一致に達した。"
+  },
+  {
+    "word": "retail",
+    "meaning": "小売り",
+    "example": "The retail price is much higher than the wholesale price.",
+    "example_jp": "小売価格は卸売価格よりもずっと高い。"
+  },
+  {
+    "word": "fiber",
+    "meaning": "繊維（質）",
+    "example": "Vegetables are a great source of dietary fiber.",
+    "example_jp": "野菜は食物繊維の素晴らしい供給源だ。"
+  },
+  {
+    "word": "fiber",
+    "meaning": "本質，精神力",
+    "example": "He is a man of strong moral fiber.",
+    "example_jp": "彼は強い精神力（道徳的本質）を持った男だ。"
+  },
+  {
+    "word": "scent",
+    "meaning": "（よい）香り，香水",
+    "example": "The scent of roses filled the room.",
+    "example_jp": "バラの香りが部屋に満ちた。"
+  },
+  {
+    "word": "beverage",
+    "meaning": "（水以外の）飲み物，飲料",
+    "example": "Alcoholic beverages are not served at this event.",
+    "example_jp": "このイベントではアルコール飲料は提供されない。"
+  },
+  {
+    "word": "supplement",
+    "meaning": "栄養補助剤，サプリメント",
+    "example": "I take a vitamin supplement every morning.",
+    "example_jp": "私は毎朝ビタミン剤（サプリメント）を飲んでいる。"
+  },
+  {
+    "word": "supplement",
+    "meaning": "補足",
+    "example": "He provided a supplement to the main report.",
+    "example_jp": "彼は本レポートに補足を加えた。"
+  },
+  {
+    "word": "diabetes",
+    "meaning": "糖尿病",
+    "example": "He has to manage his blood sugar because of his diabetes.",
+    "example_jp": "彼は糖尿病のため、血糖値を管理しなければならない。"
+  },
+  {
+    "word": "province",
+    "meaning": "州，省，地方",
+    "example": "Quebec is the largest province in Canada.",
+    "example_jp": "ケベックはカナダで最大の州だ。"
+  },
+  {
+    "word": "province",
+    "meaning": "分野",
+    "example": "Marketing is not really within my province.",
+    "example_jp": "マーケティングは私の専門分野ではない。"
+  },
+  {
+    "word": "reef",
+    "meaning": "（岩や砂の）礁，暗礁",
+    "example": "The boat was damaged when it hit a coral reef.",
+    "example_jp": "そのボートはサンゴ礁に当たって損傷した。"
+  },
+  {
+    "word": "microbe",
+    "meaning": "微生物，細菌",
+    "example": "Some microbes are beneficial to human health.",
+    "example_jp": "一部の微生物は人間の健康に有益である。"
+  },
+  {
+    "word": "excess",
+    "meaning": "過剰，超過",
+    "example": "An excess of salt in your diet can be unhealthy.",
+    "example_jp": "食事における塩分の過剰摂取は不健康になりうる。"
+  },
+  {
+    "word": "gallery",
+    "meaning": "美術館，画廊",
+    "example": "We visited a small art gallery in the city center.",
+    "example_jp": "私たちは都心の小さな美術館を訪れた。"
+  },
+  {
+    "word": "gallery",
+    "meaning": "観客，ギャラリー",
+    "example": "His speech was designed to appeal to the gallery.",
+    "example_jp": "彼の演説は一般の観客（大衆）に訴えるように作られていた。"
+  },
+  {
+    "word": "fame",
+    "meaning": "名声",
+    "example": "The actor achieved worldwide fame at a young age.",
+    "example_jp": "その俳優は若くして世界的な名声を得た。"
+  },
+  {
+    "word": "deadline",
+    "meaning": "締め切り",
+    "example": "I must finish this report by the Friday deadline.",
+    "example_jp": "金曜の締め切りまでにこの報告書を完成させなければならない。"
+  },
+  {
+    "word": "undergraduate",
+    "meaning": "学部学生",
+    "example": "The course is open to all undergraduate students.",
+    "example_jp": "その講座はすべての学部学生に開かれている。"
+  },
+  {
+    "word": "slavery",
+    "meaning": "奴隷制度，苦役",
+    "example": "The civil war led to the end of slavery.",
+    "example_jp": "内戦は奴隷制度の終焉をもたらした。"
+  },
+  {
+    "word": "prey",
+    "meaning": "獲物",
+    "example": "The eagle was circling high above, looking for prey.",
+    "example_jp": "ワシは獲物を探して、高く円を描いて飛んでいた。"
+  },
+  {
+    "word": "prey",
+    "meaning": "犠牲者",
+    "example": "Older people are often the prey of phone scammers.",
+    "example_jp": "高齢者はしばしば電話詐欺の犠牲者になる。"
+  },
+  {
+    "word": "mess",
+    "meaning": "散らかった状態，混乱状態",
+    "example": "The kids left a huge mess in the living room.",
+    "example_jp": "子供たちが居間をひどく散らかした状態にした。"
+  },
+  {
+    "word": "recession",
+    "meaning": "不況，後退",
+    "example": "Many companies failed during the economic recession.",
+    "example_jp": "経済不況の間に多くの企業が倒産した。"
+  },
+  {
+    "word": "retreat",
+    "meaning": "後退，退却",
+    "example": "The army was forced to make a hasty retreat.",
+    "example_jp": "軍は急ぎの退却を余儀なくされた。"
+  },
+  {
+    "word": "retreat",
+    "meaning": "（計画・決定などの）撤回",
+    "example": "The government made a retreat on its new tax policy.",
+    "example_jp": "政府は新しい税制政策の撤回を行った。"
+  },
+  {
+    "word": "grave",
+    "meaning": "墓，死",
+    "example": "They laid flowers on their grandfather's grave.",
+    "example_jp": "彼らは祖父の墓に花を供えた。"
+  },
+  {
+    "word": "column",
+    "meaning": "コラム，（新聞などの）欄",
+    "example": "She writes a weekly column for the local newspaper.",
+    "example_jp": "彼女は地元の新聞に毎週コラムを書いている。"
+  },
+  {
+    "word": "column",
+    "meaning": "円柱",
+    "example": "The temple roof was supported by marble columns.",
+    "example_jp": "寺院の屋根は、大理石の円柱によって支えられていた。"
+  },
+  {
+    "word": "column",
+    "meaning": "（縦）列",
+    "example": "The numbers are arranged in two columns.",
+    "example_jp": "数字は2つの縦列に並べられている。"
+  },
+  {
+    "word": "scenery",
+    "meaning": "景色，背景",
+    "example": "The mountain scenery in this area is breathtaking.",
+    "example_jp": "この地域の山の景色は息をのむほど美しい。"
+  },
+  {
+    "word": "plot",
+    "meaning": "（小説などの）筋",
+    "example": "The movie has a very complicated plot.",
+    "example_jp": "その映画はとても複雑な筋書きだ。"
+  },
+  {
+    "word": "plot",
+    "meaning": "陰謀",
+    "example": "The police discovered a plot to overthrow the government.",
+    "example_jp": "警察は政府を転覆させる陰謀を発見した。"
+  },
+  {
+    "word": "sculpture",
+    "meaning": "彫刻（作品）",
+    "example": "The museum displays ancient Greek sculptures.",
+    "example_jp": "その美術館には古代ギリシャの彫刻作品が展示されている。"
+  },
+  {
+    "word": "tablet",
+    "meaning": "タブレット（型情報端末）",
+    "example": "He uses his tablet to read books on the train.",
+    "example_jp": "彼は電車で本を読むのにタブレットを使っている。"
+  },
+  {
+    "word": "tablet",
+    "meaning": "錠剤",
+    "example": "Take two tablets with water after meals.",
+    "example_jp": "食後に水で2錠（錠剤）を飲んでください。"
+  },
+  {
+    "word": "dense",
+    "meaning": "密集した，密度の高い，（霧などが）濃い",
+    "example": "We got lost in the dense forest.",
+    "example_jp": "私たちは密集した（うっそうとした）森の中で道に迷った。"
+  },
+  {
+    "word": "exotic",
+    "meaning": "外来の，異国風の",
+    "example": "They serve exotic fruits from all over the world.",
+    "example_jp": "彼らは世界中から集めた外来の（珍しい）果物を出している。"
+  },
+  {
+    "word": "acid",
+    "meaning": "酸性の，酸っぱい",
+    "example": "Lemons have a high acid content.",
+    "example_jp": "レモンは酸の含有量が高い。"
+  },
+  {
+    "word": "acid",
+    "meaning": "辛辣な",
+    "example": "She made an acid remark about his poor performance.",
+    "example_jp": "彼女は彼のひどい成績について辛辣な意見を述べた。"
+  },
+  {
+    "word": "bitter",
+    "meaning": "苦い，つらい",
+    "example": "The medicine has a bitter taste.",
+    "example_jp": "その薬は苦い味がする。"
+  },
+  {
+    "word": "bitter",
+    "meaning": "辛辣な，怒りっぽい",
+    "example": "They had a bitter argument over the money.",
+    "example_jp": "彼らはお金をめぐって激しい（辛辣な）口論をした。"
+  },
+  {
+    "word": "sensible",
+    "meaning": "賢明な",
+    "example": "It's sensible to save some money for the future.",
+    "example_jp": "将来のためにいくらか貯金しておくのは賢明だ。"
+  },
+  {
+    "word": "sensible",
+    "meaning": "実用的な",
+    "example": "You should wear sensible shoes for a long walk.",
+    "example_jp": "長い距離を歩くなら、実用的な靴を履くべきだ。"
+  },
+  {
+    "word": "noble",
+    "meaning": "高貴な，堂々とした",
+    "example": "He was born into a noble family in England.",
+    "example_jp": "彼はイギリスの高貴な家系に生まれた。"
+  },
+  {
+    "word": "noble",
+    "meaning": "高潔な",
+    "example": "Fighting for justice is a noble cause.",
+    "example_jp": "正義のために戦うことは、高潔な大義である。"
+  },
+  {
+    "word": "vague",
+    "meaning": "漠然とした，あいまいな",
+    "example": "His answer was vague and didn't help me at all.",
+    "example_jp": "彼の答えは漠然としていて、全く助けにならなかった。"
+  },
+  {
+    "word": "parallel",
+    "meaning": "平行［並行］の",
+    "example": "The two lines are parallel to each other.",
+    "example_jp": "その2本の線は互いに平行だ。"
+  },
+  {
+    "word": "parallel",
+    "meaning": "類似した",
+    "example": "There are many parallels between the two cases.",
+    "example_jp": "その2つの事例には多くの類似点（並行する点）がある。"
+  },
+  {
+    "word": "tense",
+    "meaning": "張り詰めた，緊張した",
+    "example": "The atmosphere in the room was very tense.",
+    "example_jp": "部屋の雰囲気は非常に張り詰めていた。"
+  },
+  {
+    "word": "vertical",
+    "meaning": "垂直の，縦方向の",
+    "example": "The wall must be perfectly vertical.",
+    "example_jp": "壁は完全に垂直でなければならない。"
+  },
+  {
+    "word": "indigenous",
+    "meaning": "原産の，先住の，固有の",
+    "example": "Kangaroo are indigenous to Australia.",
+    "example_jp": "カンガルーはオーストラリア固有の動物だ。"
+  },
+  {
+    "word": "aboriginal",
+    "meaning": "アボリジニの，原生の，先住の",
+    "example": "The museum displays many Aboriginal artifacts.",
+    "example_jp": "その美術館には多くのアボリジニの工芸品が展示されている。"
+  },
+  {
+    "word": "seasonal",
+    "meaning": "季節の，季節的な",
+    "example": "They offer a special menu featuring seasonal vegetables.",
+    "example_jp": "彼らは季節の野菜をメインにした特別メニューを提供している。"
+  },
+  {
+    "word": "abundant",
+    "meaning": "豊富な",
+    "example": "The country has abundant natural resources.",
+    "example_jp": "その国は豊富な天然資源を持っている。"
+  },
+  {
+    "word": "hybrid",
+    "meaning": "ハイブリッドの，混成の，雑種の",
+    "example": "Hybrid cars are becoming more popular.",
+    "example_jp": "ハイブリッド車がますます普及してきている。"
+  },
+  {
+    "word": "irrelevant",
+    "meaning": "無関係の，見当違いの",
+    "example": "That information is irrelevant to our discussion.",
+    "example_jp": "その情報は私たちの議論には無関係だ。"
+  },
+  {
+    "word": "ridiculous",
+    "meaning": "ばかげた",
+    "example": "It's ridiculous to pay so much for a T-shirt.",
+    "example_jp": "Tシャツにそんなに払うなんてばかげている。"
+  },
+  {
+    "word": "fairy",
+    "meaning": "妖精の",
+    "example": "She loved reading fairy tales when she was a child.",
+    "example_jp": "彼女は子供の頃、妖精の物語（童話）を読むのが大好きだった。"
+  },
+  {
+    "word": "sensory",
+    "meaning": "感覚の",
+    "example": "The baby is exploring the world through sensory input.",
+    "example_jp": "その赤ちゃんは感覚的な入力（刺激）を通じて世界を探索している。"
+  },
+  {
+    "word": "chronic",
+    "meaning": "慢性の，長引く",
+    "example": "He suffers from chronic back pain.",
+    "example_jp": "彼は慢性の腰痛に苦しんでいる。"
+  },
+  {
+    "word": "voluntary",
+    "meaning": "自発的な，無償の",
+    "example": "Participation in the survey is entirely voluntary.",
+    "example_jp": "調査への参加は完全に自発的なものだ。"
+  },
+  {
+    "word": "inclined",
+    "meaning": "傾向がある，傾いた",
+    "example": "I'm inclined to believe his story.",
+    "example_jp": "私は彼の話を信じたい傾向がある（信じるほうに傾いている）。"
+  }
+]

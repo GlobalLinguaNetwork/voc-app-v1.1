@@ -1,0 +1,344 @@
+[
+  {
+    "word": "all at once",
+    "meaning": "突然",
+    "example": "It started to rain all at once.",
+    "example_jp": "突然雨が降り出した。"
+  },
+  {
+    "word": "all the way",
+    "meaning": "はるばる",
+    "example": "He walks all the way home.",
+    "example_jp": "彼は家まではるばる歩く。"
+  },
+  {
+    "word": "all the way",
+    "meaning": "ずっと",
+    "example": "I support you all the way.",
+    "example_jp": "私はずっとあなたを支持する。"
+  },
+  {
+    "word": "along with",
+    "meaning": "〜と一緒に",
+    "example": "She comes along with her friend.",
+    "example_jp": "彼女は友達と一緒に来る。"
+  },
+  {
+    "word": "along with",
+    "meaning": "〜に加えて",
+    "example": "He brings a map along with a guidebook.",
+    "example_jp": "彼はガイドブックに加えて地図を持ってくる。"
+  },
+  {
+    "word": "at least",
+    "meaning": "少なくとも",
+    "example": "We need at least ten people.",
+    "example_jp": "私たちは少なくとも10人の人々を必要とする。"
+  },
+  {
+    "word": "at most",
+    "meaning": "せいぜい",
+    "example": "It takes at most an hour.",
+    "example_jp": "それはせいぜい1時間かかる。"
+  },
+  {
+    "word": "by way of",
+    "meaning": "〜を通って",
+    "example": "We go to Osaka by way of Kyoto.",
+    "example_jp": "私たちは京都を通って大阪へ行く。"
+  },
+  {
+    "word": "for some time",
+    "meaning": "かなり長い間",
+    "example": "I stay here for some time.",
+    "example_jp": "私はここにかなり長い間滞在する。"
+  },
+  {
+    "word": "face to face with",
+    "meaning": "面と向かって",
+    "example": "I talk face to face with him.",
+    "example_jp": "私は彼と面と向かって話す。"
+  },
+  {
+    "word": "first of all",
+    "meaning": "まず第一に",
+    "example": "First of all, listen carefully.",
+    "example_jp": "まず第一に、注意深く聞きなさい。"
+  },
+  {
+    "word": "in advance",
+    "meaning": "あらかじめ",
+    "example": "Buy tickets in advance.",
+    "example_jp": "あらかじめチケットを買いなさい。"
+  },
+  {
+    "word": "in all",
+    "meaning": "全部で",
+    "example": "There are ten students in all.",
+    "example_jp": "全部で10人の学生がいる。"
+  },
+  {
+    "word": "in place of",
+    "meaning": "〜の代わりに",
+    "example": "I speak in place of him.",
+    "example_jp": "私は彼の代わりに話す。"
+  },
+  {
+    "word": "in return for",
+    "meaning": "お返しに",
+    "example": "I give a gift in return for his help.",
+    "example_jp": "私は彼の助けのお返しに贈り物をあげる。"
+  },
+  {
+    "word": "in the long run",
+    "meaning": "長い目で見れば",
+    "example": "In the long run, it helps you.",
+    "example_jp": "長い目で見れば、それはあなたを助けてくれる。"
+  },
+  {
+    "word": "in time for",
+    "meaning": "間に合うように",
+    "example": "I arrive in time for the meeting.",
+    "example_jp": "私は会議に間に合うように到着する。"
+  },
+  {
+    "word": "on sale",
+    "meaning": "販売されて",
+    "example": "This book is on sale now.",
+    "example_jp": "この本は今、販売されている。"
+  },
+  {
+    "word": "on time",
+    "meaning": "時間通りに",
+    "example": "The train arrives on time.",
+    "example_jp": "電車は時間通りに到着する。"
+  },
+  {
+    "word": "one by one",
+    "meaning": "１つずつ",
+    "example": "They enter the room one by one.",
+    "example_jp": "彼らは1つずつ部屋に入る。"
+  },
+  {
+    "word": "out of the question",
+    "meaning": "不可能で",
+    "example": "That plan is out of the question.",
+    "example_jp": "その計画は不可能だ。"
+  },
+  {
+    "word": "side by side with",
+    "meaning": "並んで",
+    "example": "They walk side by side.",
+    "example_jp": "彼らは並んで歩く。"
+  },
+  {
+    "word": "become",
+    "meaning": "になる",
+    "example": "He becomes a doctor.",
+    "example_jp": "彼は医者になる。"
+  },
+  {
+    "word": "turn",
+    "meaning": "変わる",
+    "example": "The leaves turn red.",
+    "example_jp": "葉が赤く変わる。"
+  },
+  {
+    "word": "remain",
+    "meaning": "のままである",
+    "example": "The door remains open.",
+    "example_jp": "ドアは開いたままである。"
+  },
+  {
+    "word": "smell",
+    "meaning": "のにおいがする",
+    "example": "The soup smells good.",
+    "example_jp": "そのスープは良いにおいがする。"
+  },
+  {
+    "word": "taste",
+    "meaning": "の味がする",
+    "example": "The cake tastes sweet.",
+    "example_jp": "そのケーキは甘い味がする。"
+  },
+  {
+    "word": "take",
+    "meaning": "連れて行く",
+    "example": "I take my dog to the park.",
+    "example_jp": "私は犬を公園に連れて行く。"
+  },
+  {
+    "word": "take",
+    "meaning": "持って行く",
+    "example": "I take my bag with me.",
+    "example_jp": "私は自分のバッグを持って行く。"
+  },
+  {
+    "word": "put",
+    "meaning": "置く",
+    "example": "I put the book on the table.",
+    "example_jp": "私は本をテーブルの上に置く。"
+  },
+  {
+    "word": "put",
+    "meaning": "入れる",
+    "example": "I put sugar in the tea.",
+    "example_jp": "私は紅茶に砂糖を入れる。"
+  },
+  {
+    "word": "set",
+    "meaning": "配置する",
+    "example": "I set the table.",
+    "example_jp": "私はテーブルを配置する。"
+  },
+  {
+    "word": "spread",
+    "meaning": "広げる",
+    "example": "I spread butter on the bread.",
+    "example_jp": "私はパンにバターを広げる。"
+  },
+  {
+    "word": "fold",
+    "meaning": "折る",
+    "example": "I fold the paper.",
+    "example_jp": "私は紙を折る。"
+  },
+  {
+    "word": "show",
+    "meaning": "見せる",
+    "example": "I show him the picture.",
+    "example_jp": "私は彼に写真を見せる。"
+  },
+  {
+    "word": "give",
+    "meaning": "与える",
+    "example": "I give her a gift.",
+    "example_jp": "私は彼女に贈り物を与える。"
+  },
+  {
+    "word": "choose",
+    "meaning": "選ぶ",
+    "example": "I choose this one.",
+    "example_jp": "私はこれを選ぶ。"
+  },
+  {
+    "word": "pay",
+    "meaning": "支払う",
+    "example": "I pay the bill.",
+    "example_jp": "私は勘定を支払う。"
+  },
+  {
+    "word": "leave",
+    "meaning": "残しておく",
+    "example": "I leave the door open.",
+    "example_jp": "私はドアを開けたままに残しておく。"
+  },
+  {
+    "word": "offer",
+    "meaning": "申し出る",
+    "example": "They offer help.",
+    "example_jp": "彼らは助けを申し出る。"
+  },
+  {
+    "word": "bring",
+    "meaning": "持ってくる",
+    "example": "I bring my laptop.",
+    "example_jp": "私はノートパソコンを持ってくる。"
+  },
+  {
+    "word": "bring",
+    "meaning": "連れてくる",
+    "example": "I bring my friend.",
+    "example_jp": "私は友達を連れてくる。"
+  },
+  {
+    "word": "send",
+    "meaning": "送る",
+    "example": "I send a letter.",
+    "example_jp": "私は手紙を送る。"
+  },
+  {
+    "word": "pass",
+    "meaning": "手渡す",
+    "example": "Please pass the salt.",
+    "example_jp": "塩を手渡してください。"
+  },
+  {
+    "word": "sell",
+    "meaning": "売る",
+    "example": "They sell fresh fruit.",
+    "example_jp": "彼らは新鮮な果物を売る。"
+  },
+  {
+    "word": "draw",
+    "meaning": "描く",
+    "example": "I draw a picture.",
+    "example_jp": "私は絵を描く。"
+  },
+  {
+    "word": "draw",
+    "meaning": "引く",
+    "example": "He draws the curtain.",
+    "example_jp": "彼はカーテンを引く。"
+  },
+  {
+    "word": "owe",
+    "meaning": "お金を借りている",
+    "example": "I owe him 500 yen.",
+    "example_jp": "私は彼に500円のお金を借りている。"
+  },
+  {
+    "word": "lend",
+    "meaning": "貸す",
+    "example": "I lend her my pen.",
+    "example_jp": "私は彼女に自分のペンを貸す。"
+  },
+  {
+    "word": "envy",
+    "meaning": "うらやむ",
+    "example": "I envy his talent.",
+    "example_jp": "私は彼の才能をうらやむ。"
+  },
+  {
+    "word": "make",
+    "meaning": "〜にする",
+    "example": "This news makes me happy.",
+    "example_jp": "このニュースは私を幸せにする。"
+  },
+  {
+    "word": "find",
+    "meaning": "見つける",
+    "example": "I find the key.",
+    "example_jp": "私は鍵を見つける。"
+  },
+  {
+    "word": "find",
+    "meaning": "気づく",
+    "example": "I find that he is right.",
+    "example_jp": "私は彼が正しいということに気づく。"
+  },
+  {
+    "word": "keep",
+    "meaning": "保つ",
+    "example": "I keep my room clean.",
+    "example_jp": "私は自分の部屋をきれいに保つ。"
+  },
+  {
+    "word": "call",
+    "meaning": "と呼ぶ",
+    "example": "We call him Ken.",
+    "example_jp": "私たちは彼をケンと呼ぶ。"
+  },
+  {
+    "word": "know",
+    "meaning": "知っている",
+    "example": "I know the answer.",
+    "example_jp": "私は答えを知っている。"
+  },
+  {
+    "word": "understand",
+    "meaning": "理解する",
+    "example": "I understand the rule.",
+    "example_jp": "私はその規則を理解する。"
+  }
+]

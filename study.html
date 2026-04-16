@@ -1,3 +1,10 @@
+
+
+
+ご提示いただいたご要望に沿って、アプリを改修しました。
+
+主な変更点は以下の通りです：
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -156,16 +163,44 @@
   #modeJpEn1Hint { font-size: 0.75rem; color: var(--ink-soft); font-style: italic; margin-top: 4px; }
   #jpEnDisplay { font-family: 'Lora', serif; font-size: 1.0rem; color: var(--ink-soft); line-height: 1.7; margin-top: 6px; text-align: center; max-width: 400px; padding: 10px 16px; background: #f0ede6; border-radius: 10px; }
   #jpEnDisplay .jp-blank { display: inline-block; min-width: 60px; border-bottom: 2px solid var(--ink); font-weight: 700; color: var(--ink); }
+
+  /* ══ 同期モーダル ══ */
+  #syncModal { position: fixed; inset: 0; z-index: 300; background: rgba(28,43,58,0.50); backdrop-filter: blur(4px); display: flex; justify-content: center; align-items: center; padding: 16px; }
 </style>
 </head>
 <body>
 
 <div class="header">
   <div class="logo">Vocab<span>★</span>Master</div>
-  <div style="display:flex;gap:8px;align-items:center;">
+  <div style="display:flex;gap:6px;align-items:center;">
+    <button id="syncBtn" onclick="showSyncModal()" style="font-size:0.82rem;font-weight:700;background:var(--ink-soft);color:#fff;padding:4px 10px;border-radius:20px;letter-spacing:0.04em;border:none;cursor:pointer;font-family:'DM Sans',sans-serif;transition:background 0.15s;">🔄 同期</button>
     <button id="progressBtn" onclick="showProgressModal()">📊 進捗</button>
-    <button id="mistakeBankBtn" onclick="showMistakeBank()" style="font-size:0.82rem;font-weight:700;background:var(--wrong);color:#fff;padding:4px 12px;border-radius:20px;letter-spacing:0.04em;border:none;cursor:pointer;font-family:'DM Sans',sans-serif;transition:background 0.15s;">❌ ミス</button>
+    <button id="mistakeBankBtn" onclick="showMistakeBank()" style="font-size:0.82rem;font-weight:700;background:var(--wrong);color:#fff;padding:4px 10px;border-radius:20px;letter-spacing:0.04em;border:none;cursor:pointer;font-family:'DM Sans',sans-serif;transition:background 0.15s;">❌ ミス</button>
     <div id="accuracy">正答率 —</div>
+  </div>
+</div>
+
+<!-- 同期モーダル -->
+<div id="syncModal" class="hidden" onclick="if(event.target===this)closeSyncModal()">
+  <div class="modal-box" style="max-width: 440px;">
+    <div class="modal-title">🔄 データ引き継ぎ・同期</div>
+    <p style="font-size:0.8rem; color:var(--ink-soft); margin-bottom:14px; line-height:1.4;">現在の学習データを引き継ぎIDとして発行するか、他の端末で発行したIDを入力して復元できます。</p>
+    
+    <div style="margin-bottom: 20px;">
+      <button class="btn-start" style="padding:10px; font-size:0.85rem;" onclick="generateSyncID()">現在のデータからIDを発行</button>
+      <textarea id="exportArea" readonly style="width:100%; height:80px; margin-top:8px; border-radius:8px; border:1.5px solid #e0ddd8; background:#f0ede6; padding:10px; font-size:0.75rem; word-break:break-all; outline:none;" placeholder="ここに発行された引き継ぎIDが表示されます"></textarea>
+      <button class="btn-small btn-pause" style="width:100%; margin-top:6px;" onclick="copySyncID()">📋 IDをコピー</button>
+    </div>
+
+    <hr style="border:none; border-top:1px solid #e0ddd8; margin-bottom:18px;">
+
+    <div>
+      <label class="field-label" style="margin-top:0;">引き継ぎIDを入力</label>
+      <textarea id="importArea" style="width:100%; height:80px; margin-bottom:6px; border-radius:8px; border:1.5px solid #e0ddd8; padding:10px; font-size:0.75rem; word-break:break-all;" placeholder="コピーしたIDを貼り付けてください"></textarea>
+      <button class="btn-start" style="background:var(--accent); padding:10px; font-size:0.85rem;" onclick="importSyncID()">この端末にデータを復元する</button>
+    </div>
+
+    <button class="btn-close-modal" style="margin-top:20px;" onclick="closeSyncModal()">閉じる</button>
   </div>
 </div>
 
@@ -228,7 +263,8 @@
           <option value="quiz">四択クイズ</option>
           <option value="jpen1">JP→EN 穴埋め</option>
           <option value="jpen2">JP→EN 全文</option>
-          <option value="flash">カードめくり</option>
+          <option value="flash">カードめくり（EN→JP）</option>
+          <option value="flash_jpen">カードめくり（JP→EN）</option>
         </select>
       </div>
       <div style="flex:1;">
@@ -273,7 +309,8 @@
       <option value="quiz">四択クイズ（英語→日本語）</option>
       <option value="jpen1">JP→EN 穴埋め（例文空欄）</option>
       <option value="jpen2">JP→EN 全文（日本語→英単語）</option>
-      <option value="flash">カードめくり</option>
+      <option value="flash">カードめくり（EN→JP）</option>
+      <option value="flash_jpen">カードめくり（JP→EN）</option>
     </select>
 
     <label class="field-label">自動送り（解答後）</label>
@@ -354,7 +391,7 @@ function shuffleArray(array) {
 function pickRandom50(sourceWords, book, units) {
   var limit = 50;
   var historyKey = "vocabRandomHist_" + book + "_" + units.slice().sort().join(",");
-  var history = [];
+  var history =[];
   try {
     var saved = localStorage.getItem(historyKey);
     if (saved) history = JSON.parse(saved);
@@ -362,7 +399,7 @@ function pickRandom50(sourceWords, book, units) {
 
   var unasked = sourceWords.filter(function(w) { return history.indexOf(w.word) === -1; });
   var asked   = sourceWords.filter(function(w) { return history.indexOf(w.word) !== -1; });
-  var result  = [];
+  var result  =[];
 
   // 未出題が50以上ある場合はそこから選ぶ
   if (unasked.length >= limit) {
@@ -401,6 +438,31 @@ var BOOK_CONFIG = {
   "ronrimarker":  { unitCount: 1,  total: null, name: "論理マーカー",               showRange: false }
 };
 
+var BOOK     = (new URLSearchParams(location.search).get("book")) || "system5";
+var bookInfo = BOOK_CONFIG[BOOK] || { unitCount: 20, total: null, name: BOOK, showRange: false };
+var UNIT_MIN = 1;
+var UNIT_MAX = bookInfo.unitCount;
+
+var words            = [];
+var allCombinedWords =[];
+var index            = 0;
+var correctCount     = 0;
+var totalCount       = 0;
+var reviewQueue      =[];
+var current          = null;
+var timer1           = null;
+var timer2           = null;
+var isPaused         = false;
+var autoSpeed        = 5000;
+var currentUnitArray =[];
+var isRandomMode     = false;
+var isMistakeBankMode = false;
+
+/* 定数キー */
+var PROGRESS_KEY     = "vocabProgress";
+var UNIT_HISTORY_KEY = "vocabUnitHistory";
+var MISTAKE_BANK_KEY = "vocabMistakeBank";
+
 function unitRangeLabel(cfg, unitNum) {
   if (!cfg || !cfg.showRange || !cfg.total) return "Unit " + unitNum;
   var STEP = 50;
@@ -409,32 +471,12 @@ function unitRangeLabel(cfg, unitNum) {
   return "Unit " + unitNum + "  (" + start + "–" + end + ")";
 }
 
-var BOOK     = (new URLSearchParams(location.search).get("book")) || "system5";
-var bookInfo = BOOK_CONFIG[BOOK] || { unitCount: 20, total: null, name: BOOK, showRange: false };
-var UNIT_MIN = 1;
-var UNIT_MAX = bookInfo.unitCount;
-
-var words            = [];
-var allCombinedWords = [];
-var index            = 0;
-var correctCount     = 0;
-var totalCount       = 0;
-var reviewQueue      = [];
-var current          = null;
-var timer1           = null;
-var timer2           = null;
-var isPaused         = false;
-var autoSpeed        = 5000;
-var currentUnitArray = [];
-var isRandomMode     = false;
-var isMistakeBankMode = false;
-
 /* ══ 最適英語音声の自動選択 ══ */
 var selectedVoice = null;
 function pickBestVoice(voices) {
   var enVoices = voices.filter(function(v) { return /^en/i.test(v.lang); });
   if (!enVoices.length) return null;
-  var priority = ["premium","natural","enhanced","neural","google","siri","samantha","karen","daniel","moira","zira","mark"];
+  var priority =["premium","natural","enhanced","neural","google","siri","samantha","karen","daniel","moira","zira","mark"];
   var scored = enVoices.map(function(v) {
     var name = v.name.toLowerCase();
     var score = 0;
@@ -578,12 +620,12 @@ function loadMultipleUnits(units, callback) {
   });
 
   Promise.all(promises).then(function(results) {
-    var combined = [];
+    var combined =[];
     results.forEach(function(data) {
       if (Array.isArray(data)) {
         combined = combined.concat(data);
       } else {
-        var found = [];
+        var found =[];
         Object.keys(data).forEach(function(k) { if(Array.isArray(data[k]) && !found.length) found = data[k]; });
         combined = combined.concat(found);
       }
@@ -591,7 +633,7 @@ function loadMultipleUnits(units, callback) {
     callback(true, combined);
   }).catch(function(e) {
     alert("データの読み込みに失敗しました。");
-    callback(false, []);
+    callback(false,[]);
   });
 }
 
@@ -610,7 +652,6 @@ function start(resumeFlag) {
     
     allCombinedWords = combinedWords;
     
-    // 複数ユニット＆ランダムの場合、被りなしの50単語を抽出
     if (currentUnitArray.length > 1 && isRandomMode) {
       words = pickRandom50(allCombinedWords, BOOK, currentUnitArray);
     } else if (isRandomMode) {
@@ -641,7 +682,7 @@ function start(resumeFlag) {
 }
 
 function resetState() {
-  index = 0; correctCount = 0; totalCount = 0; reviewQueue = [];
+  index = 0; correctCount = 0; totalCount = 0; reviewQueue =[];
   document.getElementById("progressFill").style.width = "0%";
   updateAccuracy();
 }
@@ -701,7 +742,13 @@ function nextCore() {
     document.getElementById("word").textContent    = "";
     document.getElementById("pos").textContent     = current.pos || "";
     document.getElementById("example").textContent = "";
-    jpEnDisp.innerHTML = escHtml(current.example_jp || current.meaning || "（日本語訳なし）");
+    jpEnDisp.innerHTML = buildHighlightedJp(current.example_jp || current.meaning || "（日本語訳なし）", current.meaning);
+    jpEnDisp.classList.remove("hidden");
+  } else if (modeVal === "flash_jpen") {
+    document.getElementById("word").textContent    = "";
+    document.getElementById("pos").textContent     = current.pos || "";
+    document.getElementById("example").textContent = "";
+    jpEnDisp.innerHTML = buildHighlightedJp(current.example_jp || current.meaning || "（日本語訳なし）", current.meaning);
     jpEnDisp.classList.remove("hidden");
   } else {
     document.getElementById("word").textContent    = current.word    || "";
@@ -718,6 +765,8 @@ function nextCore() {
 
   if (modeVal === "jpen1" || modeVal === "jpen2") {
     renderJpEnQuiz();
+  } else if (modeVal === "flash_jpen") {
+    renderFlipJpEn();
   } else {
     if (current.word) {
       speak(current.word, function() {
@@ -753,7 +802,7 @@ function renderQuiz() {
   for (var i = 0; i < pool.length && choices.length < 4; i++) {
     if (!choices.includes(pool[i].meaning)) choices.push(pool[i].meaning);
   }
-  var dummies = ["対象","結果","影響","機能","特徴","原因","状態","方法","変化","役割","概念","行動"];
+  var dummies =["対象","結果","影響","機能","特徴","原因","状態","方法","変化","役割","概念","行動"];
   dummies.sort(function() { return Math.random() - 0.5; });
   for (var j = 0; j < dummies.length && choices.length < 4; j++) {
     if (!choices.includes(dummies[j])) choices.push(dummies[j]);
@@ -810,7 +859,7 @@ function showExampleJp() {
 function buildHighlightedJp(jpText, meaning) {
   if (!meaning) return escHtml(jpText);
   var raw = meaning.split(/[／/・、,，\s]+/).map(function(s){ return s.trim(); }).filter(Boolean);
-  var extended = [];
+  var extended =[];
   raw.forEach(function(c) {
     extended.push(c);
     var root = c.replace(/(する|した|して|される|させる|な|的|に|い|く)$/, "");
@@ -832,11 +881,10 @@ function buildHighlightedJp(jpText, meaning) {
   return html;
 }
 
-/* ══ 穴埋め用の文字列生成機能（不規則変化・熟語対応版） ══ */
 function getWordForms(word) {
   var forms = new Set();
   var w = word.toLowerCase().trim();
-  if (!w) return [];
+  if (!w) return[];
   
   forms.add(w);
   forms.add(w + "s");
@@ -866,7 +914,6 @@ function getWordForms(word) {
     forms.add(w.slice(0, -2) + "ves");
   }
 
-  // 代表的な不規則動詞の変化系
   var irregularVerbs = {
     "be":["am","is","are","was","were","been"], "bear":["bore","born","borne"], "beat":["beat","beaten"],
     "become":["became"], "begin":["began","begun"], "bite":["bit","bitten"], "blow":["blew","blown"],
@@ -899,29 +946,22 @@ function getWordForms(word) {
 
 function buildExampleBlank(example, word) {
   if (!example || !word) return example || "";
-  
-  // 括弧などを除去したクリーンな見出し語 (例: "(to) take" -> "take")
   var cleanW = word.replace(/\s*\(.*?\)\s*/g, " ").trim();
   if (!cleanW) cleanW = word.trim();
 
-  // 見出し語が複数の単語からなる熟語/フレーズかどうか
-  var wordsInPhrase = cleanW.split(/(\s+)/); // スペースを保持
-  var candidateForms = [];
+  var wordsInPhrase = cleanW.split(/(\s+)/);
+  var candidateForms =[];
 
   if (wordsInPhrase.length === 1) {
     candidateForms = getWordForms(cleanW);
   } else {
-    // 最初の単語を変化させたパターン (例: "take care of" -> "took care of")
     var firstWord = wordsInPhrase[0];
     var firstForms = getWordForms(firstWord);
     var rest = wordsInPhrase.slice(1).join("");
     firstForms.forEach(function(f) { candidateForms.push(f + rest); });
-    
-    // 全体をそのまま（または末尾にs等をつけたパターン）も追加
     candidateForms = candidateForms.concat(getWordForms(cleanW));
   }
 
-  // 長い文字列から先にマッチを試みる（部分一致の誤爆防止）
   candidateForms.sort(function(a, b) { return b.length - a.length; });
 
   for (var i = 0; i < candidateForms.length; i++) {
@@ -933,18 +973,16 @@ function buildExampleBlank(example, word) {
     }
   }
 
-  // どうしても見つからない場合、単語境界を外した部分一致許容で試す
   var escapedWord = cleanW.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   var fallbackPattern = new RegExp("\\b" + escapedWord + "(?:s|es|ed|d|ing|'s)?", "i");
   if (fallbackPattern.test(example)) {
     return example.replace(fallbackPattern, "______");
   }
 
-  // 最終手段: 単語の最初の3文字以上が一致し、長さが近い単語を置換（前方一致推測）
   var firstWordFallback = wordsInPhrase[0];
   if (firstWordFallback.length >= 3) {
     var prefix = firstWordFallback.substring(0, 3).toLowerCase();
-    var wordsInExample = example.match(/\b[A-Za-z]+\b/g) || [];
+    var wordsInExample = example.match(/\b[A-Za-z]+\b/g) ||[];
     for (var j = 0; j < wordsInExample.length; j++) {
       var w = wordsInExample[j];
       if (w.toLowerCase().startsWith(prefix)) {
@@ -975,7 +1013,7 @@ function renderJpEnQuiz() {
   for (var i = 0; i < pool.length && choices.length < 4; i++) {
     if (!choices.includes(pool[i].word)) choices.push(pool[i].word);
   }
-  var dummies = ["avoid","obtain","achieve","present","conduct","reflect","require","provide","suggest","maintain"];
+  var dummies =["avoid","obtain","achieve","present","conduct","reflect","require","provide","suggest","maintain"];
   dummies.sort(function() { return Math.random() - 0.5; });
   for (var j = 0; j < dummies.length && choices.length < 4; j++) {
     if (!choices.includes(dummies[j])) choices.push(dummies[j]);
@@ -1083,6 +1121,43 @@ function flip() {
   if (autoSpeed > 0) { timer2 = setTimeout(next, 2000); }
 }
 
+function renderFlipJpEn() {
+  var area = document.getElementById("quizArea");
+  area.style.display = "block"; area.innerHTML = "";
+  var btn = document.createElement("button");
+  btn.id = "flipBtn"; btn.textContent = "▼ 英単語を見る";
+  btn.addEventListener("click", flipJpEn);
+  area.appendChild(btn);
+  if (autoSpeed > 0) {
+    timer1 = setTimeout(function(){ flipJpEn(); timer2 = setTimeout(next, 2500); }, autoSpeed);
+  }
+}
+
+function flipJpEn() {
+  clearTimeout(timer1); clearTimeout(timer2);
+  var meanEl = document.getElementById("meaning");
+  
+  var engHtml = "<span style='font-size:1.4rem; font-family:\"Lora\",serif; font-weight:700; color:var(--ink);'>" + escHtml(current.word) + "</span>";
+  if (current.example) {
+    engHtml += "<br><span style='font-size:0.9rem; font-family:\"Lora\",serif; font-style:italic; color:var(--ink-soft);'>" + escHtml(current.example) + "</span>";
+  }
+  meanEl.innerHTML = engHtml;
+  meanEl.classList.remove("invisible");
+  
+  if (current.example) {
+    speak(current.example, null);
+  } else if (current.word) {
+    speak(current.word, null);
+  }
+
+  var old = document.getElementById("flipBtn");
+  if (old) {
+    var nb = old.cloneNode(true); nb.textContent = "次へ →"; nb.addEventListener("click", next);
+    old.parentNode.replaceChild(nb, old);
+  }
+  if (autoSpeed > 0) { timer2 = setTimeout(next, 2000); }
+}
+
 function togglePause() {
   isPaused = !isPaused;
   var btn = document.getElementById("pauseBtn");
@@ -1124,14 +1199,12 @@ function showFinishScreen() {
     nextBtn.style.display = "none";
     nextRandomBtn.style.display = "none";
   } else if (currentUnitArray.length > 1 && isRandomMode) {
-    // 複数ユニット＆ランダムの場合、専用の「次の50単語」ボタンを表示
     nextBtn.style.display = "none";
     nextRandomBtn.style.display = "block";
   } else if (currentUnitArray.length > 1 || isRandomMode) {
     nextBtn.style.display = "none";
     nextRandomBtn.style.display = "none";
   } else {
-    // 単一ユニット順番通り
     nextRandomBtn.style.display = "none";
     if (currentUnitArray[0] >= UNIT_MAX) {
       nextBtn.style.display = "block";
@@ -1161,7 +1234,6 @@ function restart() {
 function nextRandom50() {
   unlockIOSSpeech();
   document.getElementById("finishScreen").classList.add("hidden");
-  // 次の未出題の50単語を抽出する
   words = pickRandom50(allCombinedWords, BOOK, currentUnitArray);
   resetState(); 
   updateUnitLabel(); 
@@ -1205,11 +1277,7 @@ function updateAccuracy() {
   document.getElementById("accuracy").textContent = "正答率 " + pct + "%";
 }
 
-var PROGRESS_KEY     = "vocabProgress";
-var UNIT_HISTORY_KEY = "vocabUnitHistory";
-var MISTAKE_BANK_KEY = "vocabMistakeBank";
-
-function getMistakeBank() { try { var r = localStorage.getItem(MISTAKE_BANK_KEY); if (r) return JSON.parse(r); } catch(e) {} return []; }
+function getMistakeBank() { try { var r = localStorage.getItem(MISTAKE_BANK_KEY); if (r) return JSON.parse(r); } catch(e) {} return[]; }
 function saveMistakeBank(bank) { try { localStorage.setItem(MISTAKE_BANK_KEY, JSON.stringify(bank)); } catch(e) {} }
 
 function addMistakeToBank(wordObj) {
@@ -1314,7 +1382,7 @@ function recordSessionUnit(bookKey, bookName, unitVal) {
   try { localStorage.setItem(UNIT_HISTORY_KEY, JSON.stringify(history)); } catch(e) {}
 }
 
-function getUnitHistory() { try { var r = localStorage.getItem(UNIT_HISTORY_KEY); if (r) return JSON.parse(r); } catch(e) {} return []; }
+function getUnitHistory() { try { var r = localStorage.getItem(UNIT_HISTORY_KEY); if (r) return JSON.parse(r); } catch(e) {} return[]; }
 
 function calcStats() {
   var p = getProgress(); var today = new Date(); var todayStr = todayKey();
@@ -1342,10 +1410,20 @@ function showProgressModal() {
 function renderUnitHistory() {
   var history = getUnitHistory(); var container = document.getElementById("unitHistoryList"); container.innerHTML = "";
   if (!history.length) { container.innerHTML = '<div class="unit-history-empty">履歴がありません</div>'; return; }
-  history.forEach(function(item) {
+  
+  var counts = {};
+  var reversedHistory = history.slice().reverse();
+  reversedHistory.forEach(function(item) {
+    var key = item.bookKey + "_" + item.unitNum;
+    counts[key] = (counts[key] || 0) + 1;
+    item.lap = counts[key];
+  });
+  reversedHistory.reverse();
+
+  reversedHistory.forEach(function(item) {
     var row = document.createElement("div"); row.className = "unit-history-item";
     var book = document.createElement("span"); book.className = "uh-book"; book.textContent = item.bookName;
-    var unit = document.createElement("span"); unit.className = "uh-unit"; unit.textContent = item.label;
+    var unit = document.createElement("span"); unit.className = "uh-unit"; unit.textContent = item.label + " (" + item.lap + "周目)";
     var date = document.createElement("span"); date.className = "uh-date"; date.textContent = item.date;
     row.appendChild(book); row.appendChild(unit); row.appendChild(date); container.appendChild(row);
   });
@@ -1353,9 +1431,9 @@ function renderUnitHistory() {
 
 function renderWeekBar(s) {
   var p = getProgress(); var today = new Date(); var todayStr = todayKey();
-  var DAYS = ["月","火","水","木","金","土","日"];
+  var DAYS =["月","火","水","木","金","土","日"];
   var mon = new Date(today); mon.setDate(today.getDate() + (today.getDay() === 0 ? -6 : 1 - today.getDay()));
-  var counts = []; var maxC = 0;
+  var counts =[]; var maxC = 0;
   for (var i = 0; i < 7; i++) {
     var d = new Date(mon); d.setDate(mon.getDate() + i);
     var k = d.getFullYear() + "-" + pad2(d.getMonth()+1) + "-" + pad2(d.getDate());
@@ -1387,6 +1465,58 @@ function renderDonut(s) {
 }
 
 function closeProgressModal() { document.getElementById("progressModal").classList.add("hidden"); }
+
+/* ══ データ同期処理 ══ */
+function showSyncModal() {
+  document.getElementById("exportArea").value = "";
+  document.getElementById("importArea").value = "";
+  document.getElementById("syncModal").classList.remove("hidden");
+}
+
+function closeSyncModal() {
+  document.getElementById("syncModal").classList.add("hidden");
+}
+
+function generateSyncID() {
+  var data = {
+    progress: localStorage.getItem(PROGRESS_KEY),
+    history: localStorage.getItem(UNIT_HISTORY_KEY),
+    mistakeBank: localStorage.getItem(MISTAKE_BANK_KEY)
+  };
+  try {
+    var str = JSON.stringify(data);
+    var b64 = btoa(unescape(encodeURIComponent(str)));
+    document.getElementById("exportArea").value = b64;
+  } catch(e) {
+    alert("コードの発行に失敗しました。");
+  }
+}
+
+function copySyncID() {
+  var ta = document.getElementById("exportArea");
+  if (!ta.value) return;
+  ta.select();
+  document.execCommand("copy");
+  alert("コピーしました！別の端末でこの引き継ぎIDを貼り付けてください。");
+}
+
+function importSyncID() {
+  var val = document.getElementById("importArea").value.trim();
+  if (!val) { alert("引き継ぎIDを入力してください。"); return; }
+  try {
+    var str = decodeURIComponent(escape(atob(val)));
+    var data = JSON.parse(str);
+    if (data.progress) localStorage.setItem(PROGRESS_KEY, data.progress);
+    if (data.history) localStorage.setItem(UNIT_HISTORY_KEY, data.history);
+    if (data.mistakeBank) localStorage.setItem(MISTAKE_BANK_KEY, data.mistakeBank);
+    alert("データの復元が完了しました！");
+    closeSyncModal();
+    // 画面を再更新するためにリロード
+    location.reload();
+  } catch(e) {
+    alert("無効な引き継ぎIDです。コードが完全にコピーされているか確認してください。");
+  }
+}
 </script>
 
 <footer style="text-align:center; margin-top:20px; padding-bottom:12px; font-size:0.70rem; color:#9aacb8; letter-spacing:0.06em;">

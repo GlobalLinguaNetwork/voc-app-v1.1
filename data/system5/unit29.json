@@ -1,302 +1,302 @@
 [
   {
-    "word": "scratch",
-    "meaning": "かく",
-    "example": "He scratched his arm.",
-    "example_jp": "彼は腕をかいた。"
+    "word": "supplement",
+    "meaning": "補う",
+    "example": "This book supplements the lesson.",
+    "example_jp": "この本はレッスンを補う。"
   },
   {
-    "word": "roar",
-    "meaning": "ほえる",
-    "example": "The lion roared.",
-    "example_jp": "ライオンがほえた。"
+    "word": "manipulate",
+    "meaning": "操作する",
+    "example": "He manipulated the machine easily.",
+    "example_jp": "彼はその機械を簡単に操作した。"
   },
   {
-    "word": "quote",
-    "meaning": "引用する",
-    "example": "He quoted a famous line.",
-    "example_jp": "彼は有名な一節を引用した。"
+    "word": "nourish",
+    "meaning": "養う",
+    "example": "Good food nourishes the body.",
+    "example_jp": "良い食べ物は体を養う。"
   },
   {
-    "word": "bloom",
-    "meaning": "咲く",
-    "example": "The flowers bloomed.",
-    "example_jp": "花が咲いた。"
+    "word": "squeeze",
+    "meaning": "しぼる",
+    "example": "She squeezed the lemon.",
+    "example_jp": "彼女はレモンをしぼった。"
   },
   {
-    "word": "insert",
-    "meaning": "差し込む",
-    "example": "Insert the card here.",
-    "example_jp": "ここにカードを差し込んでください。"
-  },
-  {
-    "word": "awaiting",
-    "meaning": "待つ",
-    "example": "I am awaiting your reply.",
-    "example_jp": "あなたの返事をお待ちしています。"
-  },
-  {
-    "word": "dread",
-    "meaning": "恐れる",
-    "example": "I dread the test.",
-    "example_jp": "私はその試験を恐れている。"
-  },
-  {
-    "word": "conceal",
-    "meaning": "隠す",
-    "example": "He concealed the truth.",
-    "example_jp": "彼は真実を隠した。"
-  },
-  {
-    "word": "enrich",
-    "meaning": "豊かにする",
-    "example": "Reading enriches the mind.",
-    "example_jp": "読書は心を豊かにする。"
-  },
-  {
-    "word": "cling",
-    "meaning": "固執する",
-    "example": "He clung to the idea.",
-    "example_jp": "彼はその考えに固執した。"
-  },
-  {
-    "word": "surpass",
-    "meaning": "まさる",
-    "example": "This result surpasses expectations.",
-    "example_jp": "この結果は期待を上回った。"
-  },
-  {
-    "word": "suppress",
-    "meaning": "抑える",
-    "example": "He suppressed his anger.",
-    "example_jp": "彼は怒りを抑えた。"
-  },
-  {
-    "word": "portray",
+    "word": "depict",
     "meaning": "描く",
-    "example": "The movie portrayed his life.",
-    "example_jp": "その映画は彼の人生を描いた。"
+    "example": "The painting depicts a river.",
+    "example_jp": "その絵は川を描いている。"
   },
   {
-    "word": "soaring",
-    "meaning": "急上昇する",
-    "example": "Prices are soaring.",
-    "example_jp": "物価が急上昇している。"
+    "word": "distract",
+    "meaning": "そらす",
+    "example": "The noise distracted me.",
+    "example_jp": "騒音が私の注意をそらした。"
   },
   {
-    "word": "drain",
-    "meaning": "排出する",
-    "example": "The water drained away.",
-    "example_jp": "水は流れ去った。"
+    "word": "disclose",
+    "meaning": "暴露する",
+    "example": "They disclosed the truth.",
+    "example_jp": "彼らは真実を暴露した。"
   },
   {
-    "word": "glow",
-    "meaning": "ボーッと光る",
-    "example": "The lamp glowed softly.",
-    "example_jp": "ランプがやわらかく光った。"
+    "word": "enroll",
+    "meaning": "入学する",
+    "example": "She enrolled in the course.",
+    "example_jp": "彼女はそのコースに入学した。"
   },
   {
-    "word": "migrate",
-    "meaning": "移住する",
-    "example": "Birds migrate in winter.",
-    "example_jp": "鳥は冬に移動する。"
+    "word": "nurture",
+    "meaning": "育てる",
+    "example": "They nurtured the child.",
+    "example_jp": "彼らはその子供を育てた。"
   },
   {
-    "word": "exclaim",
-    "meaning": "叫ぶ",
-    "example": "“Wow!” he exclaimed.",
-    "example_jp": "「わあ！」と彼は叫んだ。"
+    "word": "speculate",
+    "meaning": "推測する",
+    "example": "They speculated about the future.",
+    "example_jp": "彼らは未来について推測した。"
   },
   {
-    "word": "exert",
-    "meaning": "及ぼす",
-    "example": "He exerted great effort.",
-    "example_jp": "彼は大きな努力を払った。"
+    "word": "prolong",
+    "meaning": "延ばす",
+    "example": "They prolonged the meeting.",
+    "example_jp": "彼らは会議を延ばした。"
   },
   {
-    "word": "disguise",
-    "meaning": "隠す",
-    "example": "He disguised his voice.",
-    "example_jp": "彼は声を変えて隠した。"
+    "word": "execute",
+    "meaning": "処刑する",
+    "example": "The king executed the criminal.",
+    "example_jp": "王はその罪人を処刑した。"
   },
   {
-    "word": "accelerate",
-    "meaning": "加速する",
-    "example": "The car accelerated.",
-    "example_jp": "車は加速した。"
+    "word": "uncover",
+    "meaning": "明らかにする",
+    "example": "They uncovered the secret.",
+    "example_jp": "彼らはその秘密を明らかにした。"
   },
   {
-    "word": "dwell",
-    "meaning": "住む",
-    "example": "They dwell in the mountains.",
-    "example_jp": "彼らは山に住んでいる。"
+    "word": "tremble",
+    "meaning": "震える",
+    "example": "He trembled with fear.",
+    "example_jp": "彼は恐怖で震えた。"
   },
   {
-    "word": "integrate",
-    "meaning": "融けこませる",
-    "example": "She integrated into the group.",
-    "example_jp": "彼女はそのグループに溶け込んだ。"
+    "word": "seize",
+    "meaning": "つかむ",
+    "example": "She seized my hand.",
+    "example_jp": "彼女は私の手をつかんだ。"
   },
   {
-    "word": "weep",
-    "meaning": "泣く",
-    "example": "She wept quietly.",
-    "example_jp": "彼女は静かに泣いた。"
+    "word": "abolish",
+    "meaning": "廃止する",
+    "example": "They abolished the law.",
+    "example_jp": "彼らはその法律を廃止した。"
   },
   {
-    "word": "reassure",
-    "meaning": "安心させる",
-    "example": "He reassured me.",
-    "example_jp": "彼は私を安心させてくれた。"
+    "word": "scold",
+    "meaning": "しかる",
+    "example": "She scolded the child.",
+    "example_jp": "彼女はその子供をしかった。"
   },
   {
-    "word": "crawl",
-    "meaning": "はって進む",
-    "example": "The baby crawled.",
-    "example_jp": "赤ちゃんがはいはいした。"
+    "word": "attain",
+    "meaning": "達成する",
+    "example": "He attained his goal.",
+    "example_jp": "彼は目標を達成した。"
   },
   {
-    "word": "restrain",
-    "meaning": "抑制する",
-    "example": "He restrained his anger.",
-    "example_jp": "彼は怒りを抑えた。"
+    "word": "utter",
+    "meaning": "発する",
+    "example": "He uttered a cry.",
+    "example_jp": "彼は叫び声を発した。"
   },
   {
-    "word": "resent",
-    "meaning": "腹を立てる",
-    "example": "She resented his words.",
-    "example_jp": "彼女は彼の言葉に腹を立てた。"
+    "word": "flee",
+    "meaning": "逃げる",
+    "example": "They fled the city.",
+    "example_jp": "彼らは街から逃げた。"
   },
   {
-    "word": "yell",
-    "meaning": "大声で叫ぶ",
-    "example": "He yelled loudly.",
-    "example_jp": "彼は大声で叫んだ。"
+    "word": "offending",
+    "meaning": "怒らせる",
+    "example": "His words were offending.",
+    "example_jp": "彼の言葉は怒らせるものだった。"
   },
   {
-    "word": "assess",
-    "meaning": "評価する",
-    "example": "They assessed the damage.",
-    "example_jp": "彼らは被害を評価した。"
+    "word": "confess",
+    "meaning": "告白する",
+    "example": "He confessed the truth.",
+    "example_jp": "彼は真実を告白した。"
   },
   {
-    "word": "carve",
-    "meaning": "彫る",
-    "example": "He carved the wood.",
-    "example_jp": "彼は木を彫った。"
+    "word": "postpone",
+    "meaning": "延期する",
+    "example": "They postponed the event.",
+    "example_jp": "彼らはそのイベントを延期した。"
   },
   {
-    "word": "halt",
-    "meaning": "止める",
-    "example": "They halted the project.",
-    "example_jp": "彼らはプロジェクトを中止した。"
+    "word": "drift",
+    "meaning": "漂う",
+    "example": "The boat drifted away.",
+    "example_jp": "船は漂い去っていった。"
   },
   {
-    "word": "inspect",
-    "meaning": "検査する",
-    "example": "They inspected the car.",
-    "example_jp": "彼らは車を検査した。"
+    "word": "weave",
+    "meaning": "織る",
+    "example": "She wove a basket.",
+    "example_jp": "彼女はカゴを織った。"
   },
   {
-    "word": "tackle",
-    "meaning": "取り組む",
-    "example": "They tackled the problem.",
-    "example_jp": "彼らはその問題に取り組んだ。"
+    "word": "install",
+    "meaning": "備えつける",
+    "example": "They installed new lights.",
+    "example_jp": "彼らは新しい照明を備えつけた。"
   },
   {
-    "word": "omit",
-    "meaning": "省く",
-    "example": "He omitted the last part.",
-    "example_jp": "彼は最後の部分を省いた。"
+    "word": "twist",
+    "meaning": "ねじ曲げる",
+    "example": "He twisted the wire.",
+    "example_jp": "彼は針金をねじ曲げた。"
   },
   {
-    "word": "chew",
-    "meaning": "かむ",
-    "example": "She chewed gum.",
-    "example_jp": "彼女はガムをかんだ。"
+    "word": "extract",
+    "meaning": "取り出す",
+    "example": "They extracted oil.",
+    "example_jp": "彼らは石油を取り出した。"
   },
   {
-    "word": "resume",
-    "meaning": "再開する",
-    "example": "They resumed the meeting.",
-    "example_jp": "彼らは会議を再開した。"
+    "word": "bump",
+    "meaning": "ぶつかる",
+    "example": "I bumped into him.",
+    "example_jp": "私は彼にぶつかった。"
   },
   {
-    "word": "mold",
-    "meaning": "作る",
-    "example": "They molded the clay.",
-    "example_jp": "彼らは粘土を形作った。"
+    "word": "despise",
+    "meaning": "軽蔑する",
+    "example": "She despises lies.",
+    "example_jp": "彼女は嘘を軽蔑している。"
   },
   {
-    "word": "accommodate",
-    "meaning": "収容できる",
-    "example": "The room can accommodate 50 people.",
-    "example_jp": "その部屋は50人を収容できる。"
+    "word": "tolerate",
+    "meaning": "我慢する",
+    "example": "I can’t tolerate the noise.",
+    "example_jp": "私はその騒音に我慢できない。"
   },
   {
-    "word": "erase",
-    "meaning": "消す",
-    "example": "He erased the mistake.",
-    "example_jp": "彼は間違いを消した。"
+    "word": "boast",
+    "meaning": "自慢する",
+    "example": "He boasted about his success.",
+    "example_jp": "彼は自分の成功を自慢した。"
   },
   {
-    "word": "inferred",
-    "meaning": "推量する",
-    "example": "I inferred the meaning.",
-    "example_jp": "私は意味を推測した。"
+    "word": "flourishing",
+    "meaning": "栄えている",
+    "example": "The town is flourishing.",
+    "example_jp": "その町は栄えている。"
   },
   {
-    "word": "revive",
-    "meaning": "生き返らせる",
-    "example": "They revived the tradition.",
-    "example_jp": "彼らはその伝統を復活させた。"
+    "word": "disregard",
+    "meaning": "無視する",
+    "example": "They disregarded the rule.",
+    "example_jp": "彼らは規則を無視した。"
   },
   {
-    "word": "contemplate",
-    "meaning": "考える",
-    "example": "He contemplated the idea.",
-    "example_jp": "彼はその考えを熟考した。"
+    "word": "tease",
+    "meaning": "からかう",
+    "example": "They teased him.",
+    "example_jp": "彼らは彼をからかった。"
   },
   {
-    "word": "rotate",
-    "meaning": "回転する",
-    "example": "The earth rotates.",
-    "example_jp": "地球は回転する。"
+    "word": "reinforce",
+    "meaning": "強める",
+    "example": "This will reinforce the idea.",
+    "example_jp": "これはその考えを強めることになるだろう。"
   },
   {
-    "word": "disrupt",
-    "meaning": "かき乱す",
-    "example": "The noise disrupted the class.",
-    "example_jp": "その騒音が授業をかき乱した。"
+    "word": "strive",
+    "meaning": "努力する",
+    "example": "They strive for success.",
+    "example_jp": "彼らは成功のために努力している。"
   },
   {
-    "word": "navigate",
-    "meaning": "進路を決める",
-    "example": "He navigated the ship.",
-    "example_jp": "彼は船の航路を操った。"
+    "word": "coordinate",
+    "meaning": "合わせる",
+    "example": "They coordinated their efforts.",
+    "example_jp": "彼らは自分たちの努力を合わせた。"
   },
   {
-    "word": "ache",
-    "meaning": "痛む",
-    "example": "My back aches.",
-    "example_jp": "背中が痛む。"
+    "word": "yawn",
+    "meaning": "あくびをする",
+    "example": "He yawned loudly.",
+    "example_jp": "彼は大きな声であくびをした。"
   },
   {
-    "word": "discard",
-    "meaning": "捨てる",
-    "example": "They discarded old papers.",
-    "example_jp": "彼らは古い書類を捨てた。"
+    "word": "hug",
+    "meaning": "抱きしめる",
+    "example": "She hugged her friend.",
+    "example_jp": "彼女は友人を抱きしめた。"
   },
   {
-    "word": "incorporate",
-    "meaning": "取り入れる",
-    "example": "They incorporated new ideas.",
-    "example_jp": "彼らは新しい考えを取り入れた。"
+    "word": "combat",
+    "meaning": "戦う",
+    "example": "They combated the disease.",
+    "example_jp": "彼らはその病気と戦った。"
   },
   {
-    "word": "overtake",
-    "meaning": "追い越す",
-    "example": "The car overtook the truck.",
-    "example_jp": "車がトラックを追い越した。"
+    "word": "knit",
+    "meaning": "編む",
+    "example": "She knitted a scarf.",
+    "example_jp": "彼女はマフラーを編んだ。"
+  },
+  {
+    "word": "fatigue",
+    "meaning": "疲労",
+    "example": "He felt great fatigue.",
+    "example_jp": "彼はひどい疲労を感じた。"
+  },
+  {
+    "word": "fame",
+    "meaning": "名声",
+    "example": "She gained fame.",
+    "example_jp": "彼女は名声を得た。"
+  },
+  {
+    "word": "mess",
+    "meaning": "めちゃくちゃ",
+    "example": "His room was a mess.",
+    "example_jp": "彼の部屋はめちゃくちゃだった。"
+  },
+  {
+    "word": "dignity",
+    "meaning": "尊厳",
+    "example": "He kept his dignity.",
+    "example_jp": "彼は尊厳を保った。"
+  },
+  {
+    "word": "canal",
+    "meaning": "運河",
+    "example": "The boat moved through the canal.",
+    "example_jp": "船は運河を通って進んだ。"
+  },
+  {
+    "word": "drought",
+    "meaning": "干ばつ",
+    "example": "The drought lasted months.",
+    "example_jp": "干ばつが数ヶ月続いた。"
+  },
+  {
+    "word": "despair",
+    "meaning": "絶望",
+    "example": "He fell into despair.",
+    "example_jp": "彼は絶望に陥った。"
+  },
+  {
+    "word": "interval",
+    "meaning": "間隔",
+    "example": "They rested at short intervals.",
+    "example_jp": "彼らは短い間隔で休憩した。"
   }
 ]

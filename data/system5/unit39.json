@@ -1,302 +1,302 @@
 [
   {
-    "word": "probe",
-    "meaning": "探査機",
-    "example": "The probe landed on Mars.",
-    "example_jp": "探査機が火星に着陸した。"
+    "word": "proficiency",
+    "meaning": "検定、熟達度",
+    "example": "He improved his English proficiency.",
+    "example_jp": "彼は英語の熟達度（検定レベル）を向上させた。"
   },
   {
-    "word": "expertise",
-    "meaning": "専門知識",
-    "example": "She has expertise in biology.",
-    "example_jp": "彼女は生物学の専門知識を持っている。"
+    "word": "recollection",
+    "meaning": "記憶",
+    "example": "I have no recollection of that.",
+    "example_jp": "それについての記憶は全くありません。"
   },
   {
-    "word": "scorn",
+    "word": "latitude",
+    "meaning": "緯度",
+    "example": "The city is at a high latitude.",
+    "example_jp": "その都市は高緯度に位置している。"
+  },
+  {
+    "word": "friction",
+    "meaning": "摩擦",
+    "example": "There was friction between the groups.",
+    "example_jp": "グループ間に摩擦が生じていた。"
+  },
+  {
+    "word": "botanist",
+    "meaning": "植物学者",
+    "example": "She became a botanist.",
+    "example_jp": "彼女は植物学者になった。"
+  },
+  {
+    "word": "heredity",
+    "meaning": "遺伝",
+    "example": "Traits are passed through heredity.",
+    "example_jp": "特徴は遺伝によって受け継がれる。"
+  },
+  {
+    "word": "contempt",
     "meaning": "軽蔑",
-    "example": "He showed scorn for the idea.",
-    "example_jp": "彼はその考えを軽蔑した。"
+    "example": "He showed contempt for the rule.",
+    "example_jp": "彼はその規則に対して軽蔑の念を示した。"
   },
   {
-    "word": "prophet",
-    "meaning": "預言者",
-    "example": "He is known as a prophet.",
-    "example_jp": "彼は預言者として知られている。"
+    "word": "anatomy",
+    "meaning": "構造、解剖学",
+    "example": "They studied human anatomy.",
+    "example_jp": "彼らはヒトの体の構造（解剖学）を研究した。"
   },
   {
-    "word": "breeze",
-    "meaning": "そよ風",
-    "example": "A cool breeze blew.",
-    "example_jp": "涼しいそよ風が吹いた。"
+    "word": "integrity",
+    "meaning": "誠実、高潔",
+    "example": "She is known for her integrity.",
+    "example_jp": "彼女は誠実さで知られている。"
   },
   {
-    "word": "sin",
-    "meaning": "罪",
-    "example": "He confessed his sin.",
-    "example_jp": "彼は自分の罪を告白した。"
+    "word": "cargo",
+    "meaning": "貨物",
+    "example": "The ship carried cargo.",
+    "example_jp": "その船は貨物を運んでいた。"
   },
   {
-    "word": "surge",
-    "meaning": "急増",
-    "example": "There was a surge in demand.",
-    "example_jp": "需要が急増した。"
+    "word": "bribe",
+    "meaning": "わいろ",
+    "example": "He took a bribe.",
+    "example_jp": "彼はわいろを受け取った。"
   },
   {
-    "word": "complement",
-    "meaning": "補うもの",
-    "example": "This sauce is a perfect complement.",
-    "example_jp": "このソースは料理にぴったり合う。"
+    "word": "eruption",
+    "meaning": "噴火",
+    "example": "The volcano had an eruption.",
+    "example_jp": "その火山が噴火した。"
   },
   {
-    "word": "queue",
-    "meaning": "列",
-    "example": "They waited in a long queue.",
-    "example_jp": "彼らは長い列に並んで待った。"
+    "word": "funeral",
+    "meaning": "葬式",
+    "example": "They attended the funeral.",
+    "example_jp": "彼らは葬式に参列した。"
   },
   {
-    "word": "stake",
-    "meaning": "賭け金",
-    "example": "He placed a high stake.",
-    "example_jp": "彼は高額の賭け金をかけた。"
+    "word": "deficit",
+    "meaning": "赤字",
+    "example": "The company had a deficit.",
+    "example_jp": "その会社は赤字を出した。"
   },
   {
-    "word": "ambassador",
-    "meaning": "大使",
-    "example": "She is the new ambassador.",
-    "example_jp": "彼女は新しい大使だ。"
+    "word": "bulk",
+    "meaning": "大部分",
+    "example": "The bulk of the work is done.",
+    "example_jp": "仕事の大部分は終わっている。"
   },
   {
-    "word": "jury",
-    "meaning": "陪審員",
-    "example": "The jury reached a verdict.",
-    "example_jp": "陪審員は評決に達した。"
+    "word": "millionaire",
+    "meaning": "百万長者",
+    "example": "He became a millionaire.",
+    "example_jp": "彼は百万長者（大富豪）になった。"
   },
   {
-    "word": "cluster",
-    "meaning": "集団",
-    "example": "A cluster of stars appeared.",
-    "example_jp": "星の集まりが現れた。"
+    "word": "ash",
+    "meaning": "灰",
+    "example": "The ash covered the ground.",
+    "example_jp": "灰が地面を覆った。"
   },
   {
-    "word": "lump",
-    "meaning": "こぶ",
-    "example": "He found a small lump.",
-    "example_jp": "彼は小さなこぶを見つけた。"
+    "word": "realm",
+    "meaning": "領域",
+    "example": "He works in the realm of science.",
+    "example_jp": "彼は科学の領域で働いている。"
   },
   {
-    "word": "meadow",
-    "meaning": "牧草地",
-    "example": "Cows grazed in the meadow.",
-    "example_jp": "牛が牧草地で草を食んでいた。"
+    "word": "plantation",
+    "meaning": "農園",
+    "example": "They visited a tea plantation.",
+    "example_jp": "彼らは茶の農園を訪れた。"
   },
   {
-    "word": "feat",
-    "meaning": "偉業",
-    "example": "Climbing the mountain was a feat.",
-    "example_jp": "その山に登ることは偉業だった。"
+    "word": "plow",
+    "meaning": "すき",
+    "example": "He used a plow in the field.",
+    "example_jp": "彼は畑で「すき」を使った。"
   },
   {
-    "word": "temperament",
-    "meaning": "気質",
-    "example": "He has a calm temperament.",
-    "example_jp": "彼は落ち着いた気質を持っている。"
+    "word": "vending",
+    "meaning": "販売",
+    "example": "A vending machine sells drinks.",
+    "example_jp": "自動販売機が飲み物を販売している。"
   },
   {
-    "word": "chill",
-    "meaning": "寒気",
-    "example": "I felt a sudden chill.",
-    "example_jp": "突然寒気を感じた。"
+    "word": "orphan",
+    "meaning": "孤児",
+    "example": "He grew up as an orphan.",
+    "example_jp": "彼は孤児として育った。"
   },
   {
-    "word": "appliance",
-    "meaning": "器具",
-    "example": "This appliance is easy to use.",
-    "example_jp": "この器具は使いやすい。"
+    "word": "neuron",
+    "meaning": "神経細胞",
+    "example": "Neurons send signals.",
+    "example_jp": "神経細胞は信号を送る。"
   },
   {
-    "word": "predecessor",
-    "meaning": "前任者",
-    "example": "He replaced his predecessor.",
-    "example_jp": "彼は前任者の後を継いだ。"
+    "word": "vegetation",
+    "meaning": "植生",
+    "example": "The area has rich vegetation.",
+    "example_jp": "その地域は豊かな植生に恵まれている。"
   },
   {
-    "word": "entity",
-    "meaning": "存在",
-    "example": "The company became a new entity.",
-    "example_jp": "その会社は新たな組織となった。"
+    "word": "warrior",
+    "meaning": "戦士",
+    "example": "He fought like a warrior.",
+    "example_jp": "彼は戦士のように戦った。"
   },
   {
-    "word": "hospitality",
-    "meaning": "もてなし",
-    "example": "They showed great hospitality.",
-    "example_jp": "彼らは温かいもてなしを示した。"
+    "word": "mutation",
+    "meaning": "突然変異",
+    "example": "The mutation caused changes.",
+    "example_jp": "その突然変異が変化を引き起こした。"
   },
   {
-    "word": "narrative",
-    "meaning": "話",
-    "example": "The book has a clear narrative.",
-    "example_jp": "その本は明確な物語を持っている。"
+    "word": "sewage",
+    "meaning": "下水",
+    "example": "The sewage flows underground.",
+    "example_jp": "下水は地下を流れている。"
   },
   {
-    "word": "segment",
-    "meaning": "部分、区分",
-    "example": "This segment is important.",
-    "example_jp": "この部分は重要だ。"
+    "word": "paradigm",
+    "meaning": "理論的枠組、パラダイム",
+    "example": "This is a new paradigm.",
+    "example_jp": "これが新しい理論的枠組み（パラダイム）だ。"
   },
   {
-    "word": "catastrophe",
-    "meaning": "大災害",
-    "example": "The flood was a catastrophe.",
-    "example_jp": "その洪水は大災害だった。"
+    "word": "protocol",
+    "meaning": "議定書、プロトコル",
+    "example": "They signed a protocol.",
+    "example_jp": "彼らは議定書に署名した。"
   },
   {
-    "word": "monarch",
-    "meaning": "君主、皇帝",
-    "example": "The monarch ruled for decades.",
-    "example_jp": "その君主は何十年も統治した。"
+    "word": "skyscraper",
+    "meaning": "高層ビル",
+    "example": "The city has many skyscrapers.",
+    "example_jp": "その都市には多くの高層ビルがある。"
   },
   {
-    "word": "constraint",
-    "meaning": "制約",
-    "example": "There are many constraints.",
-    "example_jp": "多くの制約がある。"
+    "word": "accord",
+    "meaning": "一致、調和",
+    "example": "They acted in accord.",
+    "example_jp": "彼らは一致協力して行動した。"
   },
   {
-    "word": "amendment",
-    "meaning": "改正、修正",
-    "example": "They made an amendment to the law.",
-    "example_jp": "彼らはその法律を改正した。"
+    "word": "bureaucrat",
+    "meaning": "官僚",
+    "example": "He works as a bureaucrat.",
+    "example_jp": "彼は官僚として働いている。"
   },
   {
-    "word": "cosmos",
-    "meaning": "宇宙",
-    "example": "He studied the cosmos.",
-    "example_jp": "彼は宇宙を研究した。"
+    "word": "array",
+    "meaning": "多彩、配列",
+    "example": "The shop has an array of goods.",
+    "example_jp": "その店には多彩な商品が並んでいる。"
   },
   {
-    "word": "aisle",
-    "meaning": "通路",
-    "example": "She walked down the aisle.",
-    "example_jp": "彼女は通路を歩いた。"
+    "word": "clash",
+    "meaning": "衝突",
+    "example": "The two sides clashed.",
+    "example_jp": "両者が衝突した。"
   },
   {
-    "word": "hierarchy",
-    "meaning": "階級制度",
-    "example": "The company has a strict hierarchy.",
-    "example_jp": "その会社には厳格な階級制度がある。"
+    "word": "torture",
+    "meaning": "拷問",
+    "example": "He suffered torture.",
+    "example_jp": "彼は拷問を受けた。"
   },
   {
-    "word": "toll",
-    "meaning": "通行料",
-    "example": "They paid the toll.",
-    "example_jp": "彼らは通行料を支払った。"
+    "word": "reign",
+    "meaning": "統治、君臨",
+    "example": "The king’s reign lasted long.",
+    "example_jp": "その王の統治は長く続いた。"
   },
   {
-    "word": "transaction",
-    "meaning": "取引",
-    "example": "The transaction was completed.",
-    "example_jp": "その取引は完了した。"
+    "word": "thesis",
+    "meaning": "論文",
+    "example": "He wrote his thesis.",
+    "example_jp": "彼は論文を書いた。"
   },
   {
-    "word": "burglar",
-    "meaning": "強盗",
-    "example": "A burglar broke in.",
-    "example_jp": "強盗が侵入した。"
+    "word": "digit",
+    "meaning": "桁、数字",
+    "example": "The number has three digits.",
+    "example_jp": "その数は3桁である。"
   },
   {
-    "word": "tyranny",
-    "meaning": "圧政",
-    "example": "They fought against tyranny.",
-    "example_jp": "彼らは圧政と戦った。"
+    "word": "agenda",
+    "meaning": "課題、議題",
+    "example": "Let’s check today’s agenda.",
+    "example_jp": "今日の議題を確認しましょう。"
   },
   {
-    "word": "parasite",
-    "meaning": "寄生生物",
-    "example": "The parasite lives in the host.",
-    "example_jp": "その寄生生物は宿主の中で生きている。"
+    "word": "onset",
+    "meaning": "発症、始まり",
+    "example": "The onset of winter was early.",
+    "example_jp": "冬の始まりが早かった。"
   },
   {
-    "word": "intuition",
-    "meaning": "直感",
-    "example": "She trusted her intuition.",
-    "example_jp": "彼女は自分の直感を信じた。"
+    "word": "peasant",
+    "meaning": "小作農、農民",
+    "example": "The peasants worked the land.",
+    "example_jp": "農民たちは土地を耕した。"
   },
   {
-    "word": "communist",
-    "meaning": "共産主義の",
-    "example": "They formed a communist party.",
-    "example_jp": "彼らは共産党を結成した。"
+    "word": "ultraviolet",
+    "meaning": "紫外線",
+    "example": "Ultraviolet light is harmful.",
+    "example_jp": "紫外線は有害である。"
   },
   {
-    "word": "legacy",
-    "meaning": "遺産",
-    "example": "He left a strong legacy.",
-    "example_jp": "彼は強い遺産を残した。"
+    "word": "renowned",
+    "meaning": "有名な",
+    "example": "She is a renowned artist.",
+    "example_jp": "彼女は有名な芸術家だ。"
   },
   {
-    "word": "vein",
-    "meaning": "静脈",
-    "example": "Blood flows through the veins.",
-    "example_jp": "血液は静脈を流れる。"
+    "word": "transparent",
+    "meaning": "透き通った、透明な",
+    "example": "The glass is transparent.",
+    "example_jp": "そのガラスは透き通っている。"
   },
   {
-    "word": "discourse",
-    "meaning": "論説",
-    "example": "He gave a long discourse.",
-    "example_jp": "彼は長い論説を述べた。"
+    "word": "dim",
+    "meaning": "薄暗い",
+    "example": "The room was dim.",
+    "example_jp": "部屋は薄暗かった。"
   },
   {
-    "word": "dairy",
-    "meaning": "乳製品、酪農",
-    "example": "She avoids dairy products.",
-    "example_jp": "彼女は乳製品を避けている。"
+    "word": "legitimate",
+    "meaning": "正当な、合法的な",
+    "example": "This is a legitimate claim.",
+    "example_jp": "これは正当な主張だ。"
   },
   {
-    "word": "artifact",
-    "meaning": "工芸品",
-    "example": "The museum displays ancient artifacts.",
-    "example_jp": "博物館は古代の工芸品を展示している。"
+    "word": "adverse",
+    "meaning": "悪（影響）、逆の",
+    "example": "They faced adverse conditions.",
+    "example_jp": "彼らは悪条件（逆境）に直面した。"
   },
   {
-    "word": "outlet",
-    "meaning": "はけ口",
-    "example": "Sports are his emotional outlet.",
-    "example_jp": "スポーツは彼の感情のはけ口だ。"
+    "word": "swift",
+    "meaning": "すばやい",
+    "example": "He made a swift decision.",
+    "example_jp": "彼はすばやい決断を下した。"
   },
   {
-    "word": "apprehension",
-    "meaning": "不安",
-    "example": "She felt some apprehension.",
-    "example_jp": "彼女は多少の不安を感じた。"
+    "word": "naive",
+    "meaning": "世間知らずの、ナイーブな",
+    "example": "He is naive about the world.",
+    "example_jp": "彼は世間知らずだ。"
   },
   {
-    "word": "melancholy",
-    "meaning": "憂うつ",
-    "example": "He spoke with melancholy.",
-    "example_jp": "彼は憂うつな気持ちで話した。"
-  },
-  {
-    "word": "novelty",
-    "meaning": "目新しさ",
-    "example": "The novelty soon wore off.",
-    "example_jp": "その目新しさはすぐに薄れた。"
-  },
-  {
-    "word": "specimen",
-    "meaning": "標本",
-    "example": "They collected a specimen.",
-    "example_jp": "彼らは標本を採取した。"
-  },
-  {
-    "word": "hygiene",
-    "meaning": "衛生",
-    "example": "Good hygiene is important.",
-    "example_jp": "良い衛生習慣は重要だ。"
-  },
-  {
-    "word": "tactics",
-    "meaning": "戦術",
-    "example": "They changed their tactics.",
-    "example_jp": "彼らは戦術を変えた。"
+    "word": "dumb",
+    "meaning": "ばか、無口な",
+    "example": "That was a dumb mistake.",
+    "example_jp": "それはばかげたミスだった。"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "word": "argue",
-    "meaning": "主張する（≒insist）",
+    "meaning": "主張する",
     "example": "He argues that plan is wrong.",
     "example_jp": "彼はその計画が間違っていると主張している。"
   },
@@ -78,8 +78,8 @@
     "example_jp": "その請求書の期限は明日だ。"
   },
   {
-    "word": "due",
-    "meaning": "《due to》が原因で",
+    "word": "due to",
+    "meaning": "が原因で",
     "example": "The game was canceled due to rain.",
     "example_jp": "その試合は雨が原因で中止された。"
   },

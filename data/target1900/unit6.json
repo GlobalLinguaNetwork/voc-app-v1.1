@@ -342,13 +342,13 @@
     "example_jp": "彼女は前の職場で多くの経験を積んでいる。"
   },
   {
-    "word": "FALSE",
+    "word": "faulse",
     "meaning": "間違った・虚偽の",
     "example": "He gave false information to the police.",
     "example_jp": "彼は警察に虚偽の（間違った）情報を与えた。"
   },
   {
-    "word": "FALSE",
+    "word": "faulse",
     "meaning": "偽の",
     "example": "She was wearing false eyelashes.",
     "example_jp": "彼女はつけまつげ（偽のまつげ）をしていた。"
@@ -407,5 +407,4 @@
     "example": "She likes cats, whereas her brother likes dogs.",
     "example_jp": "彼女は猫が好きだが、一方で彼女の兄は犬が好きだ。"
   }
-]
 ]

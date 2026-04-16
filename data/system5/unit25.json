@@ -1,302 +1,350 @@
 [
   {
-    "word": "intense",
-    "meaning": "強烈な",
-    "example": "The heat was intense.",
-    "example_jp": "暑さが非常に強かった。"
+    "word": "submit",
+    "meaning": "提出する",
+    "example": "I need to submit my application by Friday.",
+    "example_jp": "金曜日までに申請書を提出する必要があります。"
   },
   {
-    "word": "alcoholic",
-    "meaning": "アルコールの",
-    "example": "He drank an alcoholic drink.",
-    "example_jp": "彼はアルコール飲料を飲んだ。"
+    "word": "submit",
+    "meaning": "服従する",
+    "example": "They refused to submit to the enemy.",
+    "example_jp": "彼らは敵に服従することを拒んだ。"
   },
   {
-    "word": "manual",
-    "meaning": "手を使う",
-    "example": "This is manual work.",
-    "example_jp": "これは手作業の仕事だ。"
+    "word": "tempt",
+    "meaning": "誘惑する、する気にさせる",
+    "example": "The dessert menu tempted me to break my diet.",
+    "example_jp": "デザートメニューのせいでダイエットを破りたくなった。"
   },
   {
-    "word": "cruel",
-    "meaning": "残酷な",
-    "example": "It was a cruel act.",
-    "example_jp": "それは残酷な行為だった。"
+    "word": "resign",
+    "meaning": "辞職する",
+    "example": "He decided to resign from his position as CEO.",
+    "example_jp": "彼は最高経営責任者の職を辞することを決めた。"
   },
   {
-    "word": "rational",
-    "meaning": "理性的な",
-    "example": "Be rational.",
-    "example_jp": "理性的に考えなさい。"
+    "word": "conform",
+    "meaning": "従う",
+    "example": "Students must conform to the school rules.",
+    "example_jp": "生徒は校則に従わなければならない。"
   },
   {
-    "word": "initial",
-    "meaning": "最初の",
-    "example": "The initial plan changed.",
-    "example_jp": "最初の計画が変わった。"
+    "word": "confine",
+    "meaning": "限定する",
+    "example": "Please confine your comments to the current topic.",
+    "example_jp": "発言は現在の議題のみに限定してください。"
   },
   {
-    "word": "immune",
-    "meaning": "免疫",
-    "example": "He is immune to the disease.",
-    "example_jp": "彼はその病気に免疫がある。"
+    "word": "assemble",
+    "meaning": "組み立てる",
+    "example": "It took two hours to assemble the bookshelf.",
+    "example_jp": "その本棚を組み立てるのに2時間かかった。"
   },
   {
-    "word": "linguistic",
-    "meaning": "言語の",
-    "example": "She studies linguistic theory.",
-    "example_jp": "彼女は言語理論を研究している。"
+    "word": "dedicate",
+    "meaning": "ささげる",
+    "example": "She dedicated her whole life to helping others.",
+    "example_jp": "彼女は人生のすべてを他人を助けることにささげた。"
   },
   {
-    "word": "crucial",
-    "meaning": "重大な",
-    "example": "This step is crucial.",
-    "example_jp": "この段階は非常に重要だ。"
+    "word": "advocate",
+    "meaning": "主張する",
+    "example": "The group advocates for environmental protection.",
+    "example_jp": "その団体は環境保護を主張している。"
   },
   {
-    "word": "verbal",
-    "meaning": "言葉による",
-    "example": "They had a verbal agreement.",
-    "example_jp": "彼らは口頭で合意した。"
+    "word": "thrive",
+    "meaning": "繁栄する",
+    "example": "The tech industry continues to thrive in this city.",
+    "example_jp": "この街ではテック産業が繁栄し続けている。"
   },
   {
-    "word": "optimistic",
-    "meaning": "楽観的な",
-    "example": "She is optimistic about the future.",
-    "example_jp": "彼女は将来に楽観的だ。"
+    "word": "provoke",
+    "meaning": "引き起こす",
+    "example": "His comments provoked a lot of anger.",
+    "example_jp": "彼の発言は多くの怒りを引き起こした。"
   },
   {
-    "word": "flexible",
-    "meaning": "柔軟な",
-    "example": "He has a flexible schedule.",
-    "example_jp": "彼は柔軟な予定を持っている。"
+    "word": "dictate",
+    "meaning": "命じる、要求する",
+    "example": "You cannot dictate what I should wear.",
+    "example_jp": "あなたが私の着るものを命じることはできない。"
   },
   {
-    "word": "grateful",
-    "meaning": "感謝している",
-    "example": "I am grateful for your help.",
-    "example_jp": "あなたの助けに感謝しています。"
+    "word": "dictate",
+    "meaning": "決定する",
+    "example": "Logic should dictate our final decision.",
+    "example_jp": "論理が私たちの最終決定を左右（決定）すべきだ。"
   },
   {
-    "word": "lively",
-    "meaning": "生き生きとした",
-    "example": "The town is lively.",
-    "example_jp": "その町は活気にあふれている。"
+    "word": "exploit",
+    "meaning": "利用する、開発する",
+    "example": "We should exploit natural resources more efficiently.",
+    "example_jp": "私たちは天然資源をもっと効率的に利用すべきだ。"
   },
   {
-    "word": "overwhelming",
-    "meaning": "圧倒的な",
-    "example": "The support was overwhelming.",
-    "example_jp": "支援は圧倒的だった。"
+    "word": "surrender",
+    "meaning": "降伏する",
+    "example": "The soldiers were forced to surrender.",
+    "example_jp": "兵士たちは降伏を余儀なくされた。"
   },
   {
-    "word": "abundant",
-    "meaning": "豊富な",
-    "example": "The area has abundant water.",
-    "example_jp": "その地域は水が豊富だ。"
+    "word": "reproduce",
+    "meaning": "再生する、複製する",
+    "example": "This printer can reproduce high-quality photos.",
+    "example_jp": "このプリンターは高品質な写真を複製できる。"
   },
   {
-    "word": "selfish",
-    "meaning": "利己的な",
-    "example": "He is selfish.",
-    "example_jp": "彼は利己的だ。"
+    "word": "reproduce",
+    "meaning": "繁殖する",
+    "example": "Most insects reproduce very quickly.",
+    "example_jp": "ほとんどの昆虫は非常に素早く繁殖する。"
   },
   {
-    "word": "ugly",
-    "meaning": "みにくい",
-    "example": "The building looks ugly.",
-    "example_jp": "その建物は見た目がみにくい。"
+    "word": "acknowledge",
+    "meaning": "認める",
+    "example": "He finally acknowledged that he was wrong.",
+    "example_jp": "彼はついに自分が間違っていたと認めた。"
   },
   {
-    "word": "racial",
-    "meaning": "人種の",
-    "example": "They discussed racial issues.",
-    "example_jp": "彼らは人種問題について議論した。"
+    "word": "swell",
+    "meaning": "ふくらむ",
+    "example": "My ankle started to swell after the fall.",
+    "example_jp": "転倒した後、足首が腫れ（ふくらみ）始めた。"
   },
   {
-    "word": "prominent",
-    "meaning": "有名な",
-    "example": "She is a prominent leader.",
-    "example_jp": "彼女は著名な指導者だ。"
+    "word": "shed",
+    "meaning": "落とす",
+    "example": "The snake sheds its skin once a year.",
+    "example_jp": "ヘビは年に一度、皮を落とす（脱皮する）。"
   },
   {
-    "word": "controversial",
-    "meaning": "物議を呼ぶ",
-    "example": "It is a controversial topic.",
-    "example_jp": "それは物議を呼ぶ話題だ。"
+    "word": "wind",
+    "meaning": "曲がる",
+    "example": "The river winds through the valley.",
+    "example_jp": "川が谷間を曲がりながら流れている。"
   },
   {
-    "word": "federal",
-    "meaning": "連邦の",
-    "example": "He works for the federal government.",
-    "example_jp": "彼は連邦政府で働いている。"
+    "word": "cite",
+    "meaning": "引き合いに出す",
+    "example": "She cited several studies to prove her point.",
+    "example_jp": "彼女は自説を証明するためにいくつかの研究を引き合いに出した。"
   },
   {
-    "word": "ridiculous",
-    "meaning": "ばかげた",
-    "example": "That idea is ridiculous.",
-    "example_jp": "その考えはばかげている。"
+    "word": "digest",
+    "meaning": "消化する",
+    "example": "It takes time for the body to digest heavy meals.",
+    "example_jp": "体が重い食事を消化するのには時間がかかる。"
   },
   {
-    "word": "imaginary",
-    "meaning": "架空の",
-    "example": "He has an imaginary friend.",
-    "example_jp": "彼には想像上の友達がいる。"
+    "word": "skip",
+    "meaning": "とばす、抜かす",
+    "example": "I decided to skip breakfast this morning.",
+    "example_jp": "今朝は朝食を抜かすことにした。"
   },
   {
-    "word": "harsh",
-    "meaning": "厳しい",
-    "example": "The winter was harsh.",
-    "example_jp": "冬は厳しかった。"
+    "word": "bind",
+    "meaning": "縛る、束縛する",
+    "example": "They used a rope to bind the logs together.",
+    "example_jp": "彼らは丸太を縛り合わせるためにロープを使った。"
   },
   {
-    "word": "random",
-    "meaning": "無作為な",
-    "example": "They chose a random number.",
-    "example_jp": "彼らは無作為に数字を選んだ。"
+    "word": "dissolve",
+    "meaning": "溶解する",
+    "example": "Stir the mixture until the sugar dissolves.",
+    "example_jp": "砂糖が溶解するまで混ぜてください。"
   },
   {
-    "word": "adolescent",
-    "meaning": "思春期の",
-    "example": "Adolescent boys grow fast.",
-    "example_jp": "思春期の少年は急速に成長する。"
+    "word": "implement",
+    "meaning": "実行する",
+    "example": "The government will implement the new policy soon.",
+    "example_jp": "政府はまもなく新政策を実行に移す。"
   },
   {
-    "word": "up-to-date",
-    "meaning": "最新の",
-    "example": "This is up-to-date information.",
-    "example_jp": "これは最新の情報だ。"
+    "word": "steer",
+    "meaning": "操縦する",
+    "example": "It is difficult to steer the car on ice.",
+    "example_jp": "氷の上で車を操縦するのは難しい。"
   },
   {
-    "word": "liberal",
-    "meaning": "自由主義の",
-    "example": "She has liberal views.",
-    "example_jp": "彼女は自由主義的な見解を持っている。"
+    "word": "congratulate",
+    "meaning": "祝福する",
+    "example": "I called to congratulate him on his promotion.",
+    "example_jp": "彼の昇進を祝福するために電話をした。"
   },
   {
-    "word": "prior",
-    "meaning": "前の",
-    "example": "I had no prior knowledge.",
-    "example_jp": "私は事前の知識がなかった。"
+    "word": "designate",
+    "meaning": "指定する",
+    "example": "The building was designated as a historic site.",
+    "example_jp": "その建物は史跡として指定された。"
   },
   {
-    "word": "moderate",
-    "meaning": "適度な",
-    "example": "He took a moderate position.",
-    "example_jp": "彼は穏健な立場を取った。"
+    "word": "violate",
+    "meaning": "破る、違反する",
+    "example": "Speeding violates the traffic law.",
+    "example_jp": "スピード違反は交通法を破ることになる。"
   },
   {
-    "word": "fluent",
-    "meaning": "流ちょうな",
-    "example": "She is fluent in English.",
-    "example_jp": "彼女は英語が流暢だ。"
+    "word": "presume",
+    "meaning": "推定する、思う",
+    "example": "I presume that they will arrive on time.",
+    "example_jp": "彼らは時間通りに到着するだろうと思う。"
   },
   {
-    "word": "elaborate",
-    "meaning": "手の込んだ",
-    "example": "They made an elaborate design.",
-    "example_jp": "彼らは手の込んだデザインを作った。"
+    "word": "recruit",
+    "meaning": "（新人を）入れる",
+    "example": "The company is looking to recruit young talent.",
+    "example_jp": "その会社は若い才能を入れよう（採用しよう）としている。"
   },
   {
-    "word": "incredible",
-    "meaning": "信じられない",
-    "example": "The story was incredible.",
-    "example_jp": "その話は信じられないほどだった。"
+    "word": "coincide",
+    "meaning": "同時に起きる",
+    "example": "The festival coincides with the national holiday.",
+    "example_jp": "その祭りは祝日と同時に起きる（重なる）。"
   },
   {
-    "word": "radical",
-    "meaning": "根本的な",
-    "example": "They made radical changes.",
-    "example_jp": "彼らは根本的な変化を行った。"
+    "word": "coincide",
+    "meaning": "重なる、一致する",
+    "example": "Our views on the project coincide perfectly.",
+    "example_jp": "そのプロジェクトに関する私たちの見解は完全に一致している。"
   },
   {
-    "word": "acid",
-    "meaning": "酸性の",
-    "example": "This is an acid solution.",
-    "example_jp": "これは酸性の溶液だ。"
+    "word": "enforce",
+    "meaning": "施行する",
+    "example": "The police are here to enforce the law.",
+    "example_jp": "警察は法律を施行するためにここにいる。"
   },
   {
-    "word": "deaf",
-    "meaning": "耳が不自由な",
-    "example": "He is deaf in one ear.",
-    "example_jp": "彼は片耳が聞こえない。"
+    "word": "displace",
+    "meaning": "とってかわる",
+    "example": "New technology will displace older methods.",
+    "example_jp": "新しい技術が古い手法に取ってかわるだろう。"
   },
   {
-    "word": "medieval",
-    "meaning": "中世の",
-    "example": "They studied medieval history.",
-    "example_jp": "彼らは中世の歴史を研究した。"
+    "word": "displace",
+    "meaning": "故郷から追い出す",
+    "example": "Thousands were displaced by the civil war.",
+    "example_jp": "内戦によって何千人もの人々が故郷を追われた。"
   },
   {
-    "word": "ecological",
-    "meaning": "生態",
-    "example": "They focus on ecological issues.",
-    "example_jp": "彼らは生態学的な問題に取り組んでいる。"
+    "word": "shrink",
+    "meaning": "縮む、縮ませる",
+    "example": "This wool sweater will shrink in hot water.",
+    "example_jp": "このウールのセーターはお湯に入れると縮む。"
   },
   {
-    "word": "slight",
-    "meaning": "少しの",
-    "example": "I felt a slight pain.",
-    "example_jp": "わずかな痛みを感じた。"
+    "word": "shrink",
+    "meaning": "減る",
+    "example": "The town's population continues to shrink.",
+    "example_jp": "その町の人口は減り続けている。"
   },
   {
-    "word": "ignorant",
-    "meaning": "無知な",
-    "example": "He is ignorant of the facts.",
-    "example_jp": "彼は事実について無知だ。"
+    "word": "betray",
+    "meaning": "裏切る",
+    "example": "He would never betray his country.",
+    "example_jp": "彼は決して国を裏切ることはないだろう。"
   },
   {
-    "word": "cognitive",
-    "meaning": "認知",
-    "example": "This is a cognitive skill.",
-    "example_jp": "これは認知的な技能だ。"
+    "word": "betray",
+    "meaning": "もらす、うっかり表に出す",
+    "example": "Her trembling voice betrayed her nervousness.",
+    "example_jp": "彼女の震える声が緊張を漏らして（露呈させて）いた。"
   },
   {
-    "word": "absolutely",
-    "meaning": "絶対に",
-    "example": "I absolutely agree.",
-    "example_jp": "私は完全に同意する。"
+    "word": "comprise",
+    "meaning": "構成する、される、占める",
+    "example": "The committee comprises five independent members.",
+    "example_jp": "委員会は5人の独立したメンバーで構成されている。"
   },
   {
-    "word": "virtually",
-    "meaning": "ほとんど",
-    "example": "The room was virtually empty.",
-    "example_jp": "その部屋はほとんど空だった。"
+    "word": "indulge",
+    "meaning": "ふける",
+    "example": "They like to indulge in luxury travel.",
+    "example_jp": "彼らは贅沢な旅行にふけるのが好きだ。"
   },
   {
-    "word": "somewhat",
-    "meaning": "多少",
-    "example": "I am somewhat tired.",
-    "example_jp": "私はやや疲れている。"
+    "word": "penetrate",
+    "meaning": "入り込む",
+    "example": "The rain began to penetrate through the roof.",
+    "example_jp": "雨が屋根を通って入り込み始めた。"
   },
   {
-    "word": "merely",
-    "meaning": "単に",
-    "example": "It is merely a joke.",
-    "example_jp": "それは単なる冗談だ。"
+    "word": "devastate",
+    "meaning": "壊滅させる",
+    "example": "The earthquake devastated the entire city.",
+    "example_jp": "地震が街全体を壊滅させた。"
   },
   {
-    "word": "literally",
-    "meaning": "文字通り",
-    "example": "I literally ran all day.",
-    "example_jp": "私は文字通り一日中走っていた。"
+    "word": "plunge",
+    "meaning": "突っ込む",
+    "example": "He decided to plunge into the cold pool.",
+    "example_jp": "彼は冷たいプールに突っ込むことに決めた。"
   },
   {
-    "word": "seemingly",
-    "meaning": "一見",
-    "example": "She was seemingly calm.",
-    "example_jp": "彼女は一見落ち着いていた。"
+    "word": "bounce",
+    "meaning": "はね返る",
+    "example": "The ball bounced off the wall.",
+    "example_jp": "ボールが壁にはね返った。"
   },
   {
-    "word": "regardless",
-    "meaning": "関係なく",
-    "example": "We continued regardless of the rain.",
-    "example_jp": "私たちは雨にもかかわらず続けた。"
+    "word": "contradict",
+    "meaning": "矛盾する",
+    "example": "The witness's story contradicts the evidence.",
+    "example_jp": "証人の話は証拠と矛盾している。"
   },
   {
-    "word": "thoroughly",
-    "meaning": "徹底的に",
-    "example": "I thoroughly checked it.",
-    "example_jp": "私はそれを徹底的に確認した。"
+    "word": "prescribe",
+    "meaning": "処方する",
+    "example": "The doctor prescribed antibiotics for my cold.",
+    "example_jp": "医者は私の風邪に抗生物質を処方した。"
+  },
+  {
+    "word": "oppress",
+    "meaning": "しいたげる",
+    "example": "The people were oppressed by a cruel dictator.",
+    "example_jp": "国民は残酷な独裁者にしいたげられていた。"
+  },
+  {
+    "word": "cherish",
+    "meaning": "胸に抱く、大切にする",
+    "example": "I will cherish these memories forever.",
+    "example_jp": "私はこれらの思い出を永遠に胸に抱き（大切に）し続けます。"
+  },
+  {
+    "word": "illuminate",
+    "meaning": "照らす",
+    "example": "Streetlights illuminate the path at night.",
+    "example_jp": "街灯が夜の道を照らしている。"
+  },
+  {
+    "word": "illuminate",
+    "meaning": "解明する",
+    "example": "This research illuminates the cause of the disease.",
+    "example_jp": "この研究はその病気の原因を解明している。"
+  },
+  {
+    "word": "trigger",
+    "meaning": "きっかけになる",
+    "example": "The bad news triggered a fall in stock prices.",
+    "example_jp": "その悪いニュースが株価下落のきっかけになった。"
+  },
+  {
+    "word": "commute",
+    "meaning": "通勤する、通学する",
+    "example": "She commutes to work by subway every day.",
+    "example_jp": "彼女は毎日地下鉄で通勤している。"
+  },
+  {
+    "word": "induce",
+    "meaning": "誘う、気にさせる",
+    "example": "Nothing could induce me to go back there.",
+    "example_jp": "何があっても、もう一度そこへ行く気にはなれなかった。"
+  },
+  {
+    "word": "utilize",
+    "meaning": "利用する",
+    "example": "We must utilize all available resources.",
+    "example_jp": "利用可能なすべての資源を利用しなければならない。"
   }
 ]

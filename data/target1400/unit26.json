@@ -1,0 +1,302 @@
+[
+  {
+    "word": "astronomy",
+    "meaning": "【名】天文学",
+    "example": "She studies astronomy at college.",
+    "example_jp": "彼女は大学で天文学を学んでいる。"
+  },
+  {
+    "word": "statistics",
+    "meaning": "統計",
+    "example": "He analyzed the statistics.",
+    "example_jp": "彼は統計を分析した。"
+  },
+  {
+    "word": "dimension",
+    "meaning": "局面",
+    "example": "The problem has many dimensions.",
+    "example_jp": "その問題には多くの局面がある。"
+  },
+  {
+    "word": "faculty",
+    "meaning": "才能",
+    "example": "She has a faculty for languages.",
+    "example_jp": "彼女には語学の才能がある。"
+  },
+  {
+    "word": "scheme",
+    "meaning": "計画",
+    "example": "They proposed a new scheme.",
+    "example_jp": "彼らは新しい計画を提案した。"
+  },
+  {
+    "word": "viewpoint",
+    "meaning": "見地",
+    "example": "From my viewpoint, it’s fair.",
+    "example_jp": "私の見地からすると、それは公平だ。"
+  },
+  {
+    "word": "output",
+    "meaning": "生産高",
+    "example": "The factory increased its output.",
+    "example_jp": "その工場は生産高を増やした。"
+  },
+  {
+    "word": "outlook",
+    "meaning": "見通し",
+    "example": "The economic outlook is good.",
+    "example_jp": "経済の見通しは良い。"
+  },
+  {
+    "word": "tuition",
+    "meaning": "授業料",
+    "example": "Tuition is expensive.",
+    "example_jp": "授業料は高い。"
+  },
+  {
+    "word": "proverb",
+    "meaning": "ことわざ",
+    "example": "There’s a proverb about patience.",
+    "example_jp": "忍耐に関することわざがある。"
+  },
+  {
+    "word": "biography",
+    "meaning": "伝記",
+    "example": "I read his biography.",
+    "example_jp": "私は彼の伝記を読んだ。"
+  },
+  {
+    "word": "narrative",
+    "meaning": "話",
+    "example": "Her narrative was moving.",
+    "example_jp": "彼女の話は感動的だった。"
+  },
+  {
+    "word": "chapter",
+    "meaning": "章",
+    "example": "I finished the first chapter.",
+    "example_jp": "私は第1章を読み終えた。"
+  },
+  {
+    "word": "string",
+    "meaning": "ひも、糸",
+    "example": "He tied it with a string.",
+    "example_jp": "彼はそれをひもで結んだ。"
+  },
+  {
+    "word": "tag",
+    "meaning": "札",
+    "example": "The price tag is missing.",
+    "example_jp": "値札がなくなっている。"
+  },
+  {
+    "word": "peasant",
+    "meaning": "小作農",
+    "example": "The peasants worked in the fields.",
+    "example_jp": "小作農たちは畑で働いた。"
+  },
+  {
+    "word": "livestock",
+    "meaning": "家畜",
+    "example": "They raise livestock.",
+    "example_jp": "彼らは家畜を育てている。"
+  },
+  {
+    "word": "famine",
+    "meaning": "飢饉",
+    "example": "The famine lasted for years.",
+    "example_jp": "その飢饉は何年も続いた。"
+  },
+  {
+    "word": "fatigue",
+    "meaning": "疲労",
+    "example": "He felt severe fatigue.",
+    "example_jp": "彼はひどい疲労を感じた。"
+  },
+  {
+    "word": "motive",
+    "meaning": "動機",
+    "example": "They questioned his motive.",
+    "example_jp": "彼の動機が疑問視された。"
+  },
+  {
+    "word": "sweat",
+    "meaning": "汗",
+    "example": "He wiped his sweat.",
+    "example_jp": "彼は汗を拭いた。"
+  },
+  {
+    "word": "peer",
+    "meaning": "同僚",
+    "example": "He is respected by his peers.",
+    "example_jp": "彼は同僚から尊敬されている。"
+  },
+  {
+    "word": "glance",
+    "meaning": "ちらりと見る",
+    "example": "She glanced at the clock.",
+    "example_jp": "彼女は時計をちらりと見た。"
+  },
+  {
+    "word": "glimpse",
+    "meaning": "ちらりと見えること",
+    "example": "I caught a glimpse of her.",
+    "example_jp": "私は彼女をちらりと見た。"
+  },
+  {
+    "word": "luxury",
+    "meaning": "ぜいたく（品）",
+    "example": "A long vacation is a luxury.",
+    "example_jp": "長い休暇はぜいたくだ。"
+  },
+  {
+    "word": "prosperity",
+    "meaning": "繁栄",
+    "example": "The country enjoyed prosperity.",
+    "example_jp": "その国は繁栄を享受した。"
+  },
+  {
+    "word": "fame",
+    "meaning": "名声",
+    "example": "She gained international fame.",
+    "example_jp": "彼女は国際的な名声を得た。"
+  },
+  {
+    "word": "keen",
+    "meaning": "熱中して",
+    "example": "He is keen on soccer.",
+    "example_jp": "彼はサッカーに熱中している。"
+  },
+  {
+    "word": "inclined",
+    "meaning": "（…し）たいと思う(to do)",
+    "example": "I’m inclined to agree.",
+    "example_jp": "私は同意したい気がする。"
+  },
+  {
+    "word": "competent",
+    "meaning": "有能な",
+    "example": "She is highly competent.",
+    "example_jp": "彼女は非常に有能だ。"
+  },
+  {
+    "word": "superior",
+    "meaning": "優れている",
+    "example": "This model is superior to the old one.",
+    "example_jp": "このモデルは旧型より優れている。"
+  },
+  {
+    "word": "inferior",
+    "meaning": "劣った",
+    "example": "The copy is inferior in quality.",
+    "example_jp": "そのコピーは質が劣っている。"
+  },
+  {
+    "word": "cruel",
+    "meaning": "残酷な",
+    "example": "It was a cruel act.",
+    "example_jp": "それは残酷な行為だった。"
+  },
+  {
+    "word": "indifferent",
+    "meaning": "無関心な",
+    "example": "He is indifferent to politics.",
+    "example_jp": "彼は政治に無関心だ。"
+  },
+  {
+    "word": "ashamed",
+    "meaning": "恥じて",
+    "example": "She felt ashamed of her mistake.",
+    "example_jp": "彼女は自分のミスを恥じた。"
+  },
+  {
+    "word": "bold",
+    "meaning": "大胆な",
+    "example": "He made a bold choice.",
+    "example_jp": "彼は大胆な選択をした。"
+  },
+  {
+    "word": "ridiculous",
+    "meaning": "ばかげた",
+    "example": "That idea is ridiculous.",
+    "example_jp": "その考えはばかげている。"
+  },
+  {
+    "word": "ugly",
+    "meaning": "醜い",
+    "example": "The building looks ugly.",
+    "example_jp": "その建物は醜く見える。"
+  },
+  {
+    "word": "pale",
+    "meaning": "青白い",
+    "example": "She looked pale.",
+    "example_jp": "彼女は青白く見えた。"
+  },
+  {
+    "word": "male",
+    "meaning": "男の",
+    "example": "The male lion roared.",
+    "example_jp": "オスのライオンが吠えた。"
+  },
+  {
+    "word": "manual",
+    "meaning": "手による",
+    "example": "He did manual labor.",
+    "example_jp": "彼は手作業の仕事をした。"
+  },
+  {
+    "word": "mutual",
+    "meaning": "相互の",
+    "example": "They have mutual respect.",
+    "example_jp": "彼らには相互の尊敬がある。"
+  },
+  {
+    "word": "delicate",
+    "meaning": "取り扱いの難しい",
+    "example": "This device is delicate.",
+    "example_jp": "この装置は取り扱いが難しい。"
+  },
+  {
+    "word": "deliberate",
+    "meaning": "故意の",
+    "example": "It was a deliberate act.",
+    "example_jp": "それは故意の行為だった。"
+  },
+  {
+    "word": "gradual",
+    "meaning": "徐々の",
+    "example": "Recovery was gradual.",
+    "example_jp": "回復は徐々に進んだ。"
+  },
+  {
+    "word": "loose",
+    "meaning": "緩い",
+    "example": "The screw is loose.",
+    "example_jp": "そのネジは緩んでいる。"
+  },
+  {
+    "word": "bitter",
+    "meaning": "苦い、つらい",
+    "example": "The medicine tastes bitter.",
+    "example_jp": "その薬は苦い味がする。"
+  },
+  {
+    "word": "mild",
+    "meaning": "温暖な",
+    "example": "The climate here is mild.",
+    "example_jp": "ここの気候は温暖だ。"
+  },
+  {
+    "word": "dense",
+    "meaning": "密集した",
+    "example": "The forest is dense.",
+    "example_jp": "その森は密集している。"
+  },
+  {
+    "word": "tense",
+    "meaning": "張り詰めた",
+    "example": "The atmosphere became tense.",
+    "example_jp": "雰囲気が張り詰めた。"
+  }
+]

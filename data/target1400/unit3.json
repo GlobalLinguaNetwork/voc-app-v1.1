@@ -1,0 +1,302 @@
+[
+  {
+    "word": "notice",
+    "meaning": "気づく",
+    "example": "I noticed the change.",
+    "example_jp": "私はその変化に気づいた。"
+  },
+  {
+    "word": "note",
+    "meaning": "注意する、注目する",
+    "example": "Please note the time.",
+    "example_jp": "時間に注意してください。"
+  },
+  {
+    "word": "discover",
+    "meaning": "を発見する",
+    "example": "She discovered a new cafe.",
+    "example_jp": "彼女は新しいカフェを発見した。"
+  },
+  {
+    "word": "realize",
+    "meaning": "（はっきりと）理解する",
+    "example": "I realized my mistake.",
+    "example_jp": "私は自分の間違いを理解した。"
+  },
+  {
+    "word": "recognize",
+    "meaning": "をそれとわかる",
+    "example": "I recognized his voice.",
+    "example_jp": "私は彼の声を聞き分けた。"
+  },
+  {
+    "word": "encourage",
+    "meaning": "を励ます",
+    "example": "They encouraged me a lot.",
+    "example_jp": "彼らは私を大いに励ました。"
+  },
+  {
+    "word": "force",
+    "meaning": "（人）に無理やりさせる",
+    "example": "He forced me to go.",
+    "example_jp": "彼は私を無理やり行かせた。"
+  },
+  {
+    "word": "order",
+    "meaning": "を注文する",
+    "example": "I ordered a salad.",
+    "example_jp": "私はサラダを注文した。"
+  },
+  {
+    "word": "affect",
+    "meaning": "に影響する",
+    "example": "The news affected him deeply.",
+    "example_jp": "そのニュースは彼に深く影響した。"
+  },
+  {
+    "word": "offer",
+    "meaning": "（人）に（物・事）を提供する",
+    "example": "She offered me help.",
+    "example_jp": "彼女は私に助けを申し出た。"
+  },
+  {
+    "word": "demand",
+    "meaning": "を要求する",
+    "example": "They demanded answers.",
+    "example_jp": "彼らは回答を要求した。"
+  },
+  {
+    "word": "argue",
+    "meaning": "と主張する",
+    "example": "He argued that it was true.",
+    "example_jp": "彼はそれが本当だと主張した。"
+  },
+  {
+    "word": "claim",
+    "meaning": "を主張する",
+    "example": "She claimed it was hers.",
+    "example_jp": "彼女はそれが自分のものだと主張した。"
+  },
+  {
+    "word": "object",
+    "meaning": "反対する",
+    "example": "I object to the plan.",
+    "example_jp": "私はその計画に反対する。"
+  },
+  {
+    "word": "challenge",
+    "meaning": "に異議を唱える",
+    "example": "They challenged the decision.",
+    "example_jp": "彼らはその決定に異議を唱えた。"
+  },
+  {
+    "word": "involve",
+    "meaning": "を巻き込む",
+    "example": "The job involves travel.",
+    "example_jp": "その仕事は出張を伴う。"
+  },
+  {
+    "word": "include",
+    "meaning": "を含む",
+    "example": "The price includes tax.",
+    "example_jp": "その価格には税が含まれている。"
+  },
+  {
+    "word": "contain",
+    "meaning": "を含む",
+    "example": "The box contains books.",
+    "example_jp": "箱には本が入っている。"
+  },
+  {
+    "word": "relate",
+    "meaning": "を関連づける",
+    "example": "I related the ideas.",
+    "example_jp": "私はその考えを関連づけた。"
+  },
+  {
+    "word": "connect",
+    "meaning": "をつなぐ",
+    "example": "The bridge connects two towns.",
+    "example_jp": "その橋は2つの町をつないでいる。"
+  },
+  {
+    "word": "refer",
+    "meaning": "言及する",
+    "example": "He referred to the report.",
+    "example_jp": "彼はその報告書に言及した。"
+  },
+  {
+    "word": "contact",
+    "meaning": "と連絡する",
+    "example": "Please contact me anytime.",
+    "example_jp": "いつでも私に連絡してください。"
+  },
+  {
+    "word": "compare",
+    "meaning": "を比べる",
+    "example": "Compare the two pictures.",
+    "example_jp": "2つの写真を比べてください。"
+  },
+  {
+    "word": "measure",
+    "meaning": "を測る",
+    "example": "He measured the table.",
+    "example_jp": "彼はそのテーブルを測った。"
+  },
+  {
+    "word": "mark",
+    "meaning": "（印など）をつける",
+    "example": "Mark the answer.",
+    "example_jp": "答えに印をつけてください。"
+  },
+  {
+    "word": "approach",
+    "meaning": "近づく",
+    "example": "A car approached us.",
+    "example_jp": "車が私たちに近づいてきた。"
+  },
+  {
+    "word": "reach",
+    "meaning": "に到着する",
+    "example": "We reached the hotel.",
+    "example_jp": "私たちはホテルに到着した。"
+  },
+  {
+    "word": "achieve",
+    "meaning": "を達成する",
+    "example": "She achieved her goal.",
+    "example_jp": "彼女は目標を達成した。"
+  },
+  {
+    "word": "receive",
+    "meaning": "を受け取る",
+    "example": "I received your message.",
+    "example_jp": "あなたのメッセージを受け取った。"
+  },
+  {
+    "word": "complete",
+    "meaning": "を完成させる",
+    "example": "I completed the task.",
+    "example_jp": "私はその作業を完成させた。"
+  },
+  {
+    "word": "lead",
+    "meaning": "を導く",
+    "example": "This road leads to the beach.",
+    "example_jp": "この道はビーチへ続いている。"
+  },
+  {
+    "word": "win",
+    "meaning": "勝つ",
+    "example": "They won the game.",
+    "example_jp": "彼らは試合に勝った。"
+  },
+  {
+    "word": "lose",
+    "meaning": "を失う",
+    "example": "I lost my wallet.",
+    "example_jp": "私は財布を失くした。"
+  },
+  {
+    "word": "fail",
+    "meaning": "できない",
+    "example": "I failed to finish it.",
+    "example_jp": "私はそれを終えることができなかった。"
+  },
+  {
+    "word": "miss",
+    "meaning": "に乗り遅れる",
+    "example": "I missed the bus.",
+    "example_jp": "私はバスに乗り遅れた。"
+  },
+  {
+    "word": "lack",
+    "meaning": "に欠けている、が不足している",
+    "example": "He lacks experience.",
+    "example_jp": "彼は経験が不足している。"
+  },
+  {
+    "word": "reduce",
+    "meaning": "を減らす",
+    "example": "We must reduce waste.",
+    "example_jp": "私たちはごみを減らさなければならない。"
+  },
+  {
+    "word": "avoid",
+    "meaning": "を避ける",
+    "example": "Avoid the area.",
+    "example_jp": "その地域を避けてください。"
+  },
+  {
+    "word": "limit",
+    "meaning": "を制限する",
+    "example": "They limited access.",
+    "example_jp": "彼らはアクセスを制限した。"
+  },
+  {
+    "word": "prevent",
+    "meaning": "を妨げる",
+    "example": "This prevents accidents.",
+    "example_jp": "これは事故を防ぐ。"
+  },
+  {
+    "word": "wear",
+    "meaning": "を身に着けている",
+    "example": "She wears glasses.",
+    "example_jp": "彼女は眼鏡をかけている。"
+  },
+  {
+    "word": "bear",
+    "meaning": "を我慢する、を（心に）抱く",
+    "example": "I can’t bear the pain.",
+    "example_jp": "私はその痛みに耐えられない。"
+  },
+  {
+    "word": "focus",
+    "meaning": "を集中させる",
+    "example": "Focus on your work.",
+    "example_jp": "仕事に集中しなさい。"
+  },
+  {
+    "word": "author",
+    "meaning": "著者",
+    "example": "She is a famous author.",
+    "example_jp": "彼女は有名な著者だ。"
+  },
+  {
+    "word": "professor",
+    "meaning": "教授",
+    "example": "The professor gave a lecture.",
+    "example_jp": "教授は講義を行った。"
+  },
+  {
+    "word": "sentence",
+    "meaning": "文、（宣告された）刑",
+    "example": "This sentence is long.",
+    "example_jp": "この文は長い。"
+  },
+  {
+    "word": "passage",
+    "meaning": "（文章の）一節",
+    "example": "I read the passage again.",
+    "example_jp": "私はその一節をもう一度読んだ。"
+  },
+  {
+    "word": "message",
+    "meaning": "伝言、メッセージ",
+    "example": "I left a message.",
+    "example_jp": "私は伝言を残した。"
+  },
+  {
+    "word": "statement",
+    "meaning": "陳述",
+    "example": "His statement was clear.",
+    "example_jp": "彼の陳述は明確だった。"
+  },
+  {
+    "word": "topic",
+    "meaning": "論題、話題",
+    "example": "Let’s change the topic.",
+    "example_jp": "話題を変えよう。"
+  }
+]

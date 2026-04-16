@@ -1,0 +1,302 @@
+[
+  {
+    "word": "reason",
+    "meaning": "理由",
+    "example": "There is a reason for this.",
+    "example_jp": "これには理由がある。"
+  },
+  {
+    "word": "cause",
+    "meaning": "原因",
+    "example": "Stress can cause headaches.",
+    "example_jp": "ストレスは頭痛の原因になる。"
+  },
+  {
+    "word": "effect",
+    "meaning": "影響、効果",
+    "example": "The medicine had no effect.",
+    "example_jp": "その薬は効果がなかった。"
+  },
+  {
+    "word": "matter",
+    "meaning": "問題",
+    "example": "It’s not a big matter.",
+    "example_jp": "それは大した問題ではない。"
+  },
+  {
+    "word": "sense",
+    "meaning": "感覚",
+    "example": "I lost my sense of smell.",
+    "example_jp": "私は嗅覚を失った。"
+  },
+  {
+    "word": "way",
+    "meaning": "方法、道",
+    "example": "This is the best way.",
+    "example_jp": "これが最良の方法だ。"
+  },
+  {
+    "word": "term",
+    "meaning": "期間、（専門）用語",
+    "example": "The term ends in July.",
+    "example_jp": "その期間は7月に終わる。"
+  },
+  {
+    "word": "situation",
+    "meaning": "状況",
+    "example": "The situation is serious.",
+    "example_jp": "状況は深刻だ。"
+  },
+  {
+    "word": "condition",
+    "meaning": "状態、状況",
+    "example": "His condition improved.",
+    "example_jp": "彼の状態は良くなった。"
+  },
+  {
+    "word": "position",
+    "meaning": "（所定の）位置、場所、立場",
+    "example": "Stay in this position.",
+    "example_jp": "この位置にいてください。"
+  },
+  {
+    "word": "environment",
+    "meaning": "環境",
+    "example": "We must protect the environment.",
+    "example_jp": "私たちは環境を守らなければならない。"
+  },
+  {
+    "word": "nature",
+    "meaning": "自然",
+    "example": "I love being in nature.",
+    "example_jp": "私は自然の中にいるのが好きだ。"
+  },
+  {
+    "word": "research",
+    "meaning": "研究、調査",
+    "example": "She does medical research.",
+    "example_jp": "彼女は医療研究をしている。"
+  },
+  {
+    "word": "rule",
+    "meaning": "規則",
+    "example": "Follow the rules.",
+    "example_jp": "規則に従いなさい。"
+  },
+  {
+    "word": "interest",
+    "meaning": "興味",
+    "example": "I have an interest in art.",
+    "example_jp": "私は芸術に興味がある。"
+  },
+  {
+    "word": "value",
+    "meaning": "価値",
+    "example": "Time has great value.",
+    "example_jp": "時間には大きな価値がある。"
+  },
+  {
+    "word": "view",
+    "meaning": "意見",
+    "example": "That’s my view.",
+    "example_jp": "それが私の意見だ。"
+  },
+  {
+    "word": "sound",
+    "meaning": "音",
+    "example": "I heard a loud sound.",
+    "example_jp": "大きな音が聞こえた。"
+  },
+  {
+    "word": "form",
+    "meaning": "形状、（記入）用紙",
+    "example": "Please fill out the form.",
+    "example_jp": "この用紙に記入してください。"
+  },
+  {
+    "word": "case",
+    "meaning": "場合",
+    "example": "In this case, you’re right.",
+    "example_jp": "この場合、あなたが正しい。"
+  },
+  {
+    "word": "role",
+    "meaning": "役割",
+    "example": "He plays an important role.",
+    "example_jp": "彼は重要な役割を果たしている。"
+  },
+  {
+    "word": "age",
+    "meaning": "年齢",
+    "example": "What is your age?",
+    "example_jp": "あなたの年齢は？"
+  },
+  {
+    "word": "care",
+    "meaning": "世話",
+    "example": "She takes care of her dog.",
+    "example_jp": "彼女は犬の世話をしている。"
+  },
+  {
+    "word": "risk",
+    "meaning": "危険（性）",
+    "example": "There is a risk of injury.",
+    "example_jp": "けがの危険がある。"
+  },
+  {
+    "word": "human",
+    "meaning": "人間の",
+    "example": "Human life is precious.",
+    "example_jp": "人間の命は尊い。"
+  },
+  {
+    "word": "free",
+    "meaning": "自由な",
+    "example": "You are free to choose.",
+    "example_jp": "あなたは自由に選べる。"
+  },
+  {
+    "word": "sure",
+    "meaning": "確信して",
+    "example": "I’m sure about this.",
+    "example_jp": "私はこれを確信している。"
+  },
+  {
+    "word": "certain",
+    "meaning": "確信して、ある程度の",
+    "example": "I’m certain he’s right.",
+    "example_jp": "私は彼が正しいと確信している。"
+  },
+  {
+    "word": "main",
+    "meaning": "主要な",
+    "example": "This is the main point.",
+    "example_jp": "これが主要な点だ。"
+  },
+  {
+    "word": "major",
+    "meaning": "主要な",
+    "example": "It’s a major problem.",
+    "example_jp": "それは主要な問題だ。"
+  },
+  {
+    "word": "minor",
+    "meaning": "重要でない",
+    "example": "It’s a minor issue.",
+    "example_jp": "それは重要でない問題だ。"
+  },
+  {
+    "word": "clear",
+    "meaning": "明らかな",
+    "example": "The answer is clear.",
+    "example_jp": "答えは明らかだ。"
+  },
+  {
+    "word": "likely",
+    "meaning": "ありそうな",
+    "example": "Rain is likely today.",
+    "example_jp": "今日は雨がありそうだ。"
+  },
+  {
+    "word": "possible",
+    "meaning": "あり得る、可能な",
+    "example": "Anything is possible.",
+    "example_jp": "何でも可能だ。"
+  },
+  {
+    "word": "similar",
+    "meaning": "似ている",
+    "example": "The two songs sound similar.",
+    "example_jp": "その2つの曲は似て聞こえる。"
+  },
+  {
+    "word": "close",
+    "meaning": "（ごく）近い",
+    "example": "The station is close.",
+    "example_jp": "駅はすぐ近くだ。"
+  },
+  {
+    "word": "common",
+    "meaning": "共通の",
+    "example": "They share a common goal.",
+    "example_jp": "彼らには共通の目標がある。"
+  },
+  {
+    "word": "general",
+    "meaning": "一般的な",
+    "example": "This is a general rule.",
+    "example_jp": "これは一般的な規則だ。"
+  },
+  {
+    "word": "ordinary",
+    "meaning": "普通の",
+    "example": "He lives an ordinary life.",
+    "example_jp": "彼は普通の生活を送っている。"
+  },
+  {
+    "word": "specific",
+    "meaning": "明確な",
+    "example": "Give me a specific example.",
+    "example_jp": "明確な例を挙げてください。"
+  },
+  {
+    "word": "particular",
+    "meaning": "特別の",
+    "example": "I have no particular reason.",
+    "example_jp": "特別な理由はない。"
+  },
+  {
+    "word": "individual",
+    "meaning": "個人の",
+    "example": "Each individual is different.",
+    "example_jp": "それぞれの個人は異なる。"
+  },
+  {
+    "word": "unique",
+    "meaning": "特有の",
+    "example": "Her style is unique.",
+    "example_jp": "彼女のスタイルは特有だ。"
+  },
+  {
+    "word": "rare",
+    "meaning": "珍しい、まれな",
+    "example": "Such events are rare.",
+    "example_jp": "そのような出来事は珍しい。"
+  },
+  {
+    "word": "therefore",
+    "meaning": "したがって、その結果",
+    "example": "It was late; therefore, I left.",
+    "example_jp": "遅かった。したがって私は帰った。"
+  },
+  {
+    "word": "thus",
+    "meaning": "したがって",
+    "example": "He was sick, thus absent.",
+    "example_jp": "彼は病気だった。したがって欠席した。"
+  },
+  {
+    "word": "moreover",
+    "meaning": "そのうえ、さらに",
+    "example": "She is smart; moreover, she is kind.",
+    "example_jp": "彼女は賢い。そのうえ優しい。"
+  },
+  {
+    "word": "furthermore",
+    "meaning": "そのうえ",
+    "example": "The plan is risky; furthermore, it’s costly.",
+    "example_jp": "その計画は危険だ。そのうえ費用がかかる。"
+  },
+  {
+    "word": "besides",
+    "meaning": "そのうえ",
+    "example": "I’m busy; besides, I’m tired.",
+    "example_jp": "私は忙しい。そのうえ疲れている。"
+  },
+  {
+    "word": "nonetheless",
+    "meaning": "それにもかかわらず",
+    "example": "It was hard; nonetheless, he tried.",
+    "example_jp": "大変だった。それにもかかわらず彼は挑戦した。"
+  }
+]

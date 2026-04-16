@@ -1,0 +1,398 @@
+[
+  {
+    "word": "utility",
+    "meaning": "公共事業，公共料金",
+    "example": "The cost of utilities like water and gas has risen.",
+    "example_jp": "水道やガスなどの公共料金が値上がりした。"
+  },
+  {
+    "word": "utility",
+    "meaning": "実用性",
+    "example": "This tool is small but has great utility.",
+    "example_jp": "この道具は小さいが、非常に実用性が高い。"
+  },
+  {
+    "word": "cattle",
+    "meaning": "牛",
+    "example": "The farmer raises cattle for beef.",
+    "example_jp": "その農家は牛肉をとるために牛を飼育している。"
+  },
+  {
+    "word": "herd",
+    "meaning": "群れ",
+    "example": "A large herd of elephants moved across the savanna.",
+    "example_jp": "ゾウの大きな群れがサバンナを移動していった。"
+  },
+  {
+    "word": "herd",
+    "meaning": "群衆",
+    "example": "He doesn't like to follow the herd; he thinks for himself.",
+    "example_jp": "彼は群衆（他人）に従うのを好まず、自分で考える。"
+  },
+  {
+    "word": "fluid",
+    "meaning": "流動体，液体",
+    "example": "Drink plenty of fluids when you have a fever.",
+    "example_jp": "熱がある時は水分（液体）をたくさん摂りなさい。"
+  },
+  {
+    "word": "pity",
+    "meaning": "残念なこと",
+    "example": "It's a pity that you can't join us for dinner.",
+    "example_jp": "あなたが夕食に来られないのは残念だ。"
+  },
+  {
+    "word": "pity",
+    "meaning": "哀れみ",
+    "example": "I felt a sudden pang of pity for the stray dog.",
+    "example_jp": "その野良犬に対して不意に哀れみの念を感じた。"
+  },
+  {
+    "word": "priest",
+    "meaning": "聖職者",
+    "example": "The priest delivered a powerful sermon on Sunday.",
+    "example_jp": "その聖職者は日曜日に力強い説教を行った。"
+  },
+  {
+    "word": "acquaintance",
+    "meaning": "知人，面識",
+    "example": "He is a business acquaintance, not a close friend.",
+    "example_jp": "彼は仕事上の知人であり、親友ではない。"
+  },
+  {
+    "word": "acquaintance",
+    "meaning": "知識",
+    "example": "She has some acquaintance with Japanese history.",
+    "example_jp": "彼女は日本史について多少の知識がある。"
+  },
+  {
+    "word": "offspring",
+    "meaning": "子，子孫",
+    "example": "The birds are busy feeding their offspring.",
+    "example_jp": "鳥たちは子に餌をやるのに忙しい。"
+  },
+  {
+    "word": "offspring",
+    "meaning": "成果",
+    "example": "The new product was the offspring of years of research.",
+    "example_jp": "その新製品は長年の研究の成果だった。"
+  },
+  {
+    "word": "famine",
+    "meaning": "飢饉，不足",
+    "example": "The country suffered from a severe famine after the drought.",
+    "example_jp": "干ばつの後、その国はひどい飢饉に見舞われた。"
+  },
+  {
+    "word": "deforestation",
+    "meaning": "森林伐採",
+    "example": "Deforestation is a major cause of global warming.",
+    "example_jp": "森林伐採は地球温暖化の主な原因の一つだ。"
+  },
+  {
+    "word": "jail",
+    "meaning": "刑務所，拘置所",
+    "example": "He was sent to jail for three months for the theft.",
+    "example_jp": "彼は窃盗罪で3ヶ月間刑務所に入れられた。"
+  },
+  {
+    "word": "commodity",
+    "meaning": "商品，有用なもの",
+    "example": "Oil is one of the world's most important commodities.",
+    "example_jp": "石油は世界で最も重要な商品の一つだ。"
+  },
+  {
+    "word": "format",
+    "meaning": "書式，形式",
+    "example": "Please submit your report in PDF format.",
+    "example_jp": "レポートはPDF形式で提出してください。"
+  },
+  {
+    "word": "recipient",
+    "meaning": "受け取る人",
+    "example": "She was the recipient of the Nobel Peace Prize.",
+    "example_jp": "彼女はノーベル平和賞の受賞者（受け取った人）だった。"
+  },
+  {
+    "word": "drill",
+    "meaning": "訓練，練習",
+    "example": "The students had a fire drill this morning.",
+    "example_jp": "今朝、生徒たちは避難訓練を行った。"
+  },
+  {
+    "word": "drill",
+    "meaning": "ドリル，錐",
+    "example": "Use a power drill to make a hole in the wall.",
+    "example_jp": "壁に穴を開けるには電気ドリルを使いなさい。"
+  },
+  {
+    "word": "inability",
+    "meaning": "無能，無力",
+    "example": "His inability to speak English was a major problem.",
+    "example_jp": "彼が英語を話せない（能力がない）ことが大きな問題だった。"
+  },
+  {
+    "word": "republic",
+    "meaning": "共和国",
+    "example": "France is a republic headed by a president.",
+    "example_jp": "フランスは元首として大統領を置く共和国である。"
+  },
+  {
+    "word": "combat",
+    "meaning": "戦闘，対立",
+    "example": "The soldiers were trained for hand-to-hand combat.",
+    "example_jp": "兵士たちは白兵戦（接近戦闘）の訓練を受けていた。"
+  },
+  {
+    "word": "debris",
+    "meaning": "残骸，瓦礫",
+    "example": "Rescue workers searched through the debris for survivors.",
+    "example_jp": "救助隊員は生存者を探して瓦礫の中を捜索した。"
+  },
+  {
+    "word": "bug",
+    "meaning": "虫，病原菌",
+    "example": "I think I caught a stomach bug while traveling.",
+    "example_jp": "旅行中に胃腸の病原菌（お腹の風邪）をもらったようだ。"
+  },
+  {
+    "word": "bug",
+    "meaning": "盗聴器",
+    "example": "The spy hid a tiny bug under the office desk.",
+    "example_jp": "スパイは事務室の机の下に小さな盗聴器を隠した。"
+  },
+  {
+    "word": "bug",
+    "meaning": "欠陥",
+    "example": "There is a bug in the software that causes it to crash.",
+    "example_jp": "そのソフトウェアには、クラッシュを引き起こすバグ（欠陥）がある。"
+  },
+  {
+    "word": "fraction",
+    "meaning": "わずか，一部",
+    "example": "The cost was only a fraction of what I expected.",
+    "example_jp": "費用は予想していたもののほんの一部（わずか）だった。"
+  },
+  {
+    "word": "fraction",
+    "meaning": "分数",
+    "example": "He taught the students how to add fractions.",
+    "example_jp": "彼は生徒たちに分数の足し算を教えた。"
+  },
+  {
+    "word": "index",
+    "meaning": "指標，指数",
+    "example": "The stock market index reached a record high today.",
+    "example_jp": "株価指数は今日、過去最高を記録した。"
+  },
+  {
+    "word": "index",
+    "meaning": "索引",
+    "example": "Look up the word in the index at the back of the book.",
+    "example_jp": "本の巻末にある索引でその単語を調べなさい。"
+  },
+  {
+    "word": "intuition",
+    "meaning": "直観，直感",
+    "example": "My intuition told me that something was wrong.",
+    "example_jp": "私の直感が、何かがおかしいと告げていた。"
+  },
+  {
+    "word": "motive",
+    "meaning": "動機",
+    "example": "The police are still trying to find a motive for the crime.",
+    "example_jp": "警察はまだその犯行の動機を見つけようとしている。"
+  },
+  {
+    "word": "consent",
+    "meaning": "同意，承諾",
+    "example": "You need parental consent to go on the school trip.",
+    "example_jp": "修学旅行に行くには親の同意が必要だ。"
+  },
+  {
+    "word": "hierarchy",
+    "meaning": "階層制，支配層",
+    "example": "There is a strict hierarchy within the company.",
+    "example_jp": "その会社内には厳格な階層制がある。"
+  },
+  {
+    "word": "monument",
+    "meaning": "記念碑，遺跡",
+    "example": "The monument was built to honor the war heroes.",
+    "example_jp": "その記念碑は戦争の英雄たちを称えるために建てられた。"
+  },
+  {
+    "word": "asset",
+    "meaning": "資産，価値のあるもの",
+    "example": "Good communication skills are a great asset in business.",
+    "example_jp": "優れたコミュニケーション能力はビジネスにおいて大きな資産（利点）だ。"
+  },
+  {
+    "word": "decent",
+    "meaning": "まずまずの，きちんとした",
+    "example": "It's hard to find a decent job in this economy.",
+    "example_jp": "この経済状況でまずまずの（まともな）仕事を見つけるのは難しい。"
+  },
+  {
+    "word": "competent",
+    "meaning": "有能な，適任の",
+    "example": "She is a very competent lawyer who wins most of her cases.",
+    "example_jp": "彼女はほとんどの訴訟に勝つ、非常に有能な弁護士だ。"
+  },
+  {
+    "word": "straightforward",
+    "meaning": "単純な，率直な",
+    "example": "The instructions were very straightforward and easy to follow.",
+    "example_jp": "説明書は非常に単純（明快）で、分かりやすかった。"
+  },
+  {
+    "word": "cosmetic",
+    "meaning": "化粧の，美容の",
+    "example": "The store sells a wide range of cosmetic products.",
+    "example_jp": "その店は幅広い化粧品を販売している。"
+  },
+  {
+    "word": "cosmetic",
+    "meaning": "うわべの",
+    "example": "The changes were purely cosmetic and didn't solve the real problem.",
+    "example_jp": "その変更は純粋にうわべだけのもので、本当の問題を解決しなかった。"
+  },
+  {
+    "word": "delicate",
+    "meaning": "繊細な，もろい",
+    "example": "These glasses are very delicate, so please handle them with care.",
+    "example_jp": "これらのグラスはとても繊細（もろい）なので、注意して扱ってください。"
+  },
+  {
+    "word": "delicate",
+    "meaning": "扱いにくい",
+    "example": "The peace negotiations are at a very delicate stage.",
+    "example_jp": "和平交渉は非常に扱いにくい（微妙な）段階にある。"
+  },
+  {
+    "word": "interior",
+    "meaning": "室内の，内部の",
+    "example": "The interior walls of the house were painted white.",
+    "example_jp": "家の内部の壁は白く塗られていた。"
+  },
+  {
+    "word": "transparent",
+    "meaning": "透明な，明快な",
+    "example": "The water in the lake is so transparent that you can see the bottom.",
+    "example_jp": "湖の水はとても透明なので、底まで見える。"
+  },
+  {
+    "word": "aesthetic",
+    "meaning": "美的な",
+    "example": "The building was designed for both practical and aesthetic reasons.",
+    "example_jp": "その建物は実用性と美的な理由の両方を兼ねて設計された。"
+  },
+  {
+    "word": "deliberate",
+    "meaning": "故意の",
+    "example": "It wasn't an accident; it was a deliberate act of sabotage.",
+    "example_jp": "それは事故ではなく、故意の破壊工作だった。"
+  },
+  {
+    "word": "deliberate",
+    "meaning": "慎重な",
+    "example": "He spoke in a slow and deliberate manner.",
+    "example_jp": "彼はゆっくりと慎重な様子で話した。"
+  },
+  {
+    "word": "demographic",
+    "meaning": "人口統計学の",
+    "example": "The company is targeting a younger demographic.",
+    "example_jp": "その会社はより若い層（人口統計上の集団）をターゲットにしている。"
+  },
+  {
+    "word": "prehistoric",
+    "meaning": "有史以前の",
+    "example": "Paintings were found on the walls of prehistoric caves.",
+    "example_jp": "有史以前の洞窟の壁に絵が発見された。"
+  },
+  {
+    "word": "innate",
+    "meaning": "生まれながらの",
+    "example": "She has an innate talent for music.",
+    "example_jp": "彼女は生まれながらの音楽の才能がある。"
+  },
+  {
+    "word": "mild",
+    "meaning": "穏やかな，軽い",
+    "example": "We had a very mild winter this year.",
+    "example_jp": "今年はとても穏やかな冬だった。"
+  },
+  {
+    "word": "toxic",
+    "meaning": "有毒な",
+    "example": "The factory was closed for releasing toxic waste into the river.",
+    "example_jp": "川に有毒廃棄物を流したため、その工場は閉鎖された。"
+  },
+  {
+    "word": "ashamed",
+    "meaning": "恥じて",
+    "example": "You should be ashamed of yourself for lying.",
+    "example_jp": "嘘をついたことを恥じるべきだ。"
+  },
+  {
+    "word": "humble",
+    "meaning": "謙虚な",
+    "example": "He is a very famous doctor but remains humble.",
+    "example_jp": "彼は非常に有名な医者だが、謙虚なままだ。"
+  },
+  {
+    "word": "humble",
+    "meaning": "質素な，身分が低い",
+    "example": "He rose from humble beginnings to become a successful businessman.",
+    "example_jp": "彼は質素な（身分の低い）境遇から身を起こし、成功したビジネスマンになった。"
+  },
+  {
+    "word": "peculiar",
+    "meaning": "特有の",
+    "example": "This custom is peculiar to this region.",
+    "example_jp": "この習慣はこの地域特有のものだ。"
+  },
+  {
+    "word": "peculiar",
+    "meaning": "特異な",
+    "example": "The food had a peculiar taste that I didn't recognize.",
+    "example_jp": "その食べ物には、聞き覚えのない特異な（奇妙な）味がした。"
+  },
+  {
+    "word": "steep",
+    "meaning": "急な，急激な",
+    "example": "The path to the hilltop is very steep.",
+    "example_jp": "山頂への道は非常に急だ。"
+  },
+  {
+    "word": "steep",
+    "meaning": "法外な",
+    "example": "The price of the hotel room was a bit steep.",
+    "example_jp": "そのホテルの部屋の価格は少し法外（高すぎ）だった。"
+  },
+  {
+    "word": "trivial",
+    "meaning": "ささいな，取るに足りない",
+    "example": "I don't want to waste time on trivial matters.",
+    "example_jp": "ささいな事に時間を無駄にしたくない。"
+  },
+  {
+    "word": "magnificent",
+    "meaning": "壮大な，見事な",
+    "example": "The view from the top of the mountain was magnificent.",
+    "example_jp": "山頂からの眺めは壮大だった。"
+  },
+  {
+    "word": "wireless",
+    "meaning": "無線の",
+    "example": "The office has a wireless network for all employees.",
+    "example_jp": "オフィスには全従業員用の無線ネットワークがある。"
+  },
+  {
+    "word": "ongoing",
+    "meaning": "継続している，進行中の",
+    "example": "There is an ongoing investigation into the cause of the fire.",
+    "example_jp": "火災の原因について現在進行中の調査がある。"
+  }
+]

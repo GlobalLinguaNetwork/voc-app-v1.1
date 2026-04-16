@@ -1,0 +1,302 @@
+[
+  {
+    "word": "perceive",
+    "meaning": "を知覚する",
+    "example": "I perceived a change.",
+    "example_jp": "私は変化を知覚した。"
+  },
+  {
+    "word": "fascinate",
+    "meaning": "を魅了する",
+    "example": "The story fascinated me.",
+    "example_jp": "その話は私を魅了した。"
+  },
+  {
+    "word": "bore",
+    "meaning": "を退屈させる",
+    "example": "The speech bored everyone.",
+    "example_jp": "そのスピーチは皆を退屈させた。"
+  },
+  {
+    "word": "disappoint",
+    "meaning": "を失望させる",
+    "example": "The result disappointed us.",
+    "example_jp": "その結果は私たちを失望させた。"
+  },
+  {
+    "word": "imply",
+    "meaning": "それとなく言う",
+    "example": "He implied that I was wrong.",
+    "example_jp": "彼は私が間違っているとそれとなく言った。"
+  },
+  {
+    "word": "recommend",
+    "meaning": "を勧める",
+    "example": "I recommend this book.",
+    "example_jp": "この本を勧める。"
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "を証明する",
+    "example": "The test demonstrated the effect.",
+    "example_jp": "テストはその効果を証明した。"
+  },
+  {
+    "word": "conclude",
+    "meaning": "と結論づける",
+    "example": "We concluded that it was true.",
+    "example_jp": "私たちはそれが本当だと結論づけた。"
+  },
+  {
+    "word": "announce",
+    "meaning": "を発表する",
+    "example": "They announced the results.",
+    "example_jp": "彼らは結果を発表した。"
+  },
+  {
+    "word": "appeal",
+    "meaning": "心に訴える",
+    "example": "The idea appealed to me.",
+    "example_jp": "その考えは私の心に訴えた。"
+  },
+  {
+    "word": "address",
+    "meaning": "（問題）に取り組む、（人）に演説する",
+    "example": "We must address this issue.",
+    "example_jp": "この問題に取り組まなければならない。"
+  },
+  {
+    "word": "advertise",
+    "meaning": "を宣伝する",
+    "example": "They advertised the product.",
+    "example_jp": "彼らはその商品を宣伝した。"
+  },
+  {
+    "word": "invite",
+    "meaning": "を招待する",
+    "example": "She invited me to dinner.",
+    "example_jp": "彼女は私を夕食に招待した。"
+  },
+  {
+    "word": "afford",
+    "meaning": "を持つ余裕がある",
+    "example": "I can’t afford a new car.",
+    "example_jp": "新しい車を買う余裕はない。"
+  },
+  {
+    "word": "purchase",
+    "meaning": "を購入する",
+    "example": "I purchased a laptop.",
+    "example_jp": "私はノートパソコンを購入した。"
+  },
+  {
+    "word": "participate",
+    "meaning": "参加する",
+    "example": "He participated in the event.",
+    "example_jp": "彼はそのイベントに参加した。"
+  },
+  {
+    "word": "belong",
+    "meaning": "所属している、ものである",
+    "example": "This book belongs to me.",
+    "example_jp": "この本は私のものだ。"
+  },
+  {
+    "word": "conduct",
+    "meaning": "を行う",
+    "example": "They conducted a study.",
+    "example_jp": "彼らは調査を行った。"
+  },
+  {
+    "word": "behave",
+    "meaning": "振る舞う",
+    "example": "He behaved politely.",
+    "example_jp": "彼は礼儀正しく振る舞った。"
+  },
+  {
+    "word": "operate",
+    "meaning": "を操作する、手術を行う",
+    "example": "She operates the machine.",
+    "example_jp": "彼女はその機械を操作する。"
+  },
+  {
+    "word": "organize",
+    "meaning": "を主催する、準備する",
+    "example": "They organized a meeting.",
+    "example_jp": "彼らは会議を準備した。"
+  },
+  {
+    "word": "host",
+    "meaning": "を主催する",
+    "example": "They hosted a party.",
+    "example_jp": "彼らはパーティーを主催した。"
+  },
+  {
+    "word": "combine",
+    "meaning": "を組み合わせる",
+    "example": "Combine the two ideas.",
+    "example_jp": "その2つの考えを組み合わせて。"
+  },
+  {
+    "word": "deliver",
+    "meaning": "配達する",
+    "example": "They delivered the package.",
+    "example_jp": "彼らは荷物を配達した。"
+  },
+  {
+    "word": "locate",
+    "meaning": "を（場所に）置く",
+    "example": "They located the office downtown.",
+    "example_jp": "彼らはオフィスを中心街に置いた。"
+  },
+  {
+    "word": "encounter",
+    "meaning": "に（偶然）出会う",
+    "example": "I encountered an old friend.",
+    "example_jp": "私は昔の友人に偶然出会った。"
+  },
+  {
+    "word": "surround",
+    "meaning": "を囲む",
+    "example": "Mountains surround the town.",
+    "example_jp": "山々がその町を囲んでいる。"
+  },
+  {
+    "word": "explore",
+    "meaning": "を探検する",
+    "example": "They explored the cave.",
+    "example_jp": "彼らは洞窟を探検した。"
+  },
+  {
+    "word": "stick",
+    "meaning": "くっつく、固執する、を貼り付ける",
+    "example": "The sticker won’t stick.",
+    "example_jp": "そのシールはくっつかない。"
+  },
+  {
+    "word": "strike",
+    "meaning": "に当たる、（人）に印象を与える",
+    "example": "His words struck me.",
+    "example_jp": "彼の言葉は私に強い印象を与えた。"
+  },
+  {
+    "word": "hurt",
+    "meaning": "を痛める",
+    "example": "I hurt my arm.",
+    "example_jp": "腕を痛めた。"
+  },
+  {
+    "word": "bite",
+    "meaning": "にかみつく",
+    "example": "The dog bit him.",
+    "example_jp": "犬が彼にかみついた。"
+  },
+  {
+    "word": "tear",
+    "meaning": "を引き裂く",
+    "example": "She tore the paper.",
+    "example_jp": "彼女は紙を引き裂いた。"
+  },
+  {
+    "word": "aid",
+    "meaning": "を援助する",
+    "example": "They aided the victims.",
+    "example_jp": "彼らは被害者を援助した。"
+  },
+  {
+    "word": "press",
+    "meaning": "を押す",
+    "example": "Press the button.",
+    "example_jp": "ボタンを押して。"
+  },
+  {
+    "word": "burn",
+    "meaning": "を燃やす",
+    "example": "He burned the paper.",
+    "example_jp": "彼は紙を燃やした。"
+  },
+  {
+    "word": "flow",
+    "meaning": "流れる",
+    "example": "The river flows fast.",
+    "example_jp": "川は速く流れている。"
+  },
+  {
+    "word": "preserve",
+    "meaning": "を保存する",
+    "example": "We must preserve nature.",
+    "example_jp": "自然を保存しなければならない。"
+  },
+  {
+    "word": "borrow",
+    "meaning": "を（無料で）借りる",
+    "example": "I borrowed a book.",
+    "example_jp": "私は本を借りた。"
+  },
+  {
+    "word": "steal",
+    "meaning": "を盗む",
+    "example": "Someone stole my bag.",
+    "example_jp": "誰かが私のバッグを盗んだ。"
+  },
+  {
+    "word": "escape",
+    "meaning": "逃れる、脱出する、を免れる",
+    "example": "He escaped the fire.",
+    "example_jp": "彼は火事から逃れた。"
+  },
+  {
+    "word": "neighbor",
+    "meaning": "隣人、近所の人",
+    "example": "My neighbor is kind.",
+    "example_jp": "私の隣人は親切だ。"
+  },
+  {
+    "word": "household",
+    "meaning": "世帯",
+    "example": "Each household recycles.",
+    "example_jp": "各世帯がリサイクルしている。"
+  },
+  {
+    "word": "resident",
+    "meaning": "居住者、住人",
+    "example": "Residents protested.",
+    "example_jp": "住人たちが抗議した。"
+  },
+  {
+    "word": "vehicle",
+    "meaning": "車、乗り物",
+    "example": "The vehicle stopped suddenly.",
+    "example_jp": "その車は突然止まった。"
+  },
+  {
+    "word": "wheel",
+    "meaning": "（自動車の）ハンドル",
+    "example": "He grabbed the wheel.",
+    "example_jp": "彼はハンドルをつかんだ。"
+  },
+  {
+    "word": "delay",
+    "meaning": "遅れ",
+    "example": "There was a long delay.",
+    "example_jp": "長い遅れがあった。"
+  },
+  {
+    "word": "fuel",
+    "meaning": "燃料",
+    "example": "The car ran out of fuel.",
+    "example_jp": "車の燃料が切れた。"
+  },
+  {
+    "word": "pollution",
+    "meaning": "汚染",
+    "example": "Air pollution is serious.",
+    "example_jp": "大気汚染は深刻だ。"
+  },
+  {
+    "word": "atmosphere",
+    "meaning": "雰囲気",
+    "example": "The café has a nice atmosphere.",
+    "example_jp": "そのカフェは良い雰囲気だ。"
+  }
+]

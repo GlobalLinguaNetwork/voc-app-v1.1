@@ -1,0 +1,470 @@
+[
+  {
+    "word": "identify",
+    "meaning": "を特定する",
+    "example": "Police are trying to identify the witness.",
+    "example_jp": "警察はその目撃者を特定しようとしている。"
+  },
+  {
+    "word": "identify",
+    "meaning": "を（～と）同一視する",
+    "example": "She tends to identify success with money.",
+    "example_jp": "彼女は成功をお金と同一視する傾向がある。"
+  },
+  {
+    "word": "represent",
+    "meaning": "を表す",
+    "example": "The red lines on the map represent main roads.",
+    "example_jp": "地図上の赤い線は主要な道路を表している。"
+  },
+  {
+    "word": "represent",
+    "meaning": "を代表する・に相当する",
+    "example": "He will represent Japan at the world conference.",
+    "example_jp": "彼は世界会議で日本を代表する。"
+  },
+  {
+    "word": "indicate",
+    "meaning": "を指し示す・を述べる",
+    "example": "A high fever usually indicates an infection.",
+    "example_jp": "高熱は通常、感染症を示している。"
+  },
+  {
+    "word": "manage",
+    "meaning": "をなんとか成し遂げる",
+    "example": "I managed to finish the report on time.",
+    "example_jp": "私はなんとか時間通りにレポートを書き終えた。"
+  },
+  {
+    "word": "manage",
+    "meaning": "を管理する",
+    "example": "She manages a large hotel in the city.",
+    "example_jp": "彼女は市内の大きなホテルを管理している。"
+  },
+  {
+    "word": "attend",
+    "meaning": "に出席する",
+    "example": "I plan to attend the meeting tomorrow.",
+    "example_jp": "私は明日の会議に出席するつもりだ。"
+  },
+  {
+    "word": "attend",
+    "meaning": "を世話する・に対処する",
+    "example": "He attended to the injured passengers.",
+    "example_jp": "彼は負傷した乗客たちの世話をした（対処した）。"
+  },
+  {
+    "word": "maintain",
+    "meaning": "を維持する",
+    "example": "It is important to maintain a healthy lifestyle.",
+    "example_jp": "健康的な生活習慣を維持することは重要だ。"
+  },
+  {
+    "word": "maintain",
+    "meaning": "と主張する",
+    "example": "He still maintains that he is innocent.",
+    "example_jp": "彼は依然として自分は無実であると主張している。"
+  },
+  {
+    "word": "maintain",
+    "meaning": "を養う",
+    "example": "He worked hard to maintain his large family.",
+    "example_jp": "彼は大家族を養うために懸命に働いた。"
+  },
+  {
+    "word": "survey",
+    "meaning": "を調査する・概観する",
+    "example": "The company surveyed customers about the new product.",
+    "example_jp": "その会社は新製品について顧客を調査した。"
+  },
+  {
+    "word": "survey",
+    "meaning": "をじろじろ見る",
+    "example": "She surveyed him from head to foot.",
+    "example_jp": "彼女は彼のことを頭からつま先までじろじろ見た。"
+  },
+  {
+    "word": "replace",
+    "meaning": "に取って代わる・を取り替える",
+    "example": "Robots are replacing workers in many factories.",
+    "example_jp": "多くの工場でロボットが労働者に取って代わっている。"
+  },
+  {
+    "word": "sort",
+    "meaning": "を分類する・えり分ける",
+    "example": "Please sort these files into alphabetical order.",
+    "example_jp": "これらのファイルをアルファベット順に分類してください。"
+  },
+  {
+    "word": "conduct",
+    "meaning": "（調査・実験など）を実施する",
+    "example": "We are conducting a study on climate change.",
+    "example_jp": "私たちは気候変動に関する研究を実施している。"
+  },
+  {
+    "word": "conduct",
+    "meaning": "を導く",
+    "example": "The guide conducted the tourists to the museum.",
+    "example_jp": "ガイドは観光客を美術館へと導いた。"
+  },
+  {
+    "word": "associate",
+    "meaning": "を結び付けて考える",
+    "example": "Most people associate summer with the beach.",
+    "example_jp": "たいていの人は夏と海を結び付けて考える。"
+  },
+  {
+    "word": "associate",
+    "meaning": "（～と）交際する",
+    "example": "He doesn't associate with his coworkers after work.",
+    "example_jp": "彼は仕事の後に同僚と交際（付き合い）をしない。"
+  },
+  {
+    "word": "attempt",
+    "meaning": "を試みる・企てる",
+    "example": "They attempted to climb the mountain in winter.",
+    "example_jp": "彼らは冬にその山に登ることを試みた。"
+  },
+  {
+    "word": "promote",
+    "meaning": "を促進する",
+    "example": "The campaign aims to promote healthy eating.",
+    "example_jp": "そのキャンペーンは健康的な食事を促進することを目的としている。"
+  },
+  {
+    "word": "promote",
+    "meaning": "昇進する",
+    "example": "She was promoted to manager last month.",
+    "example_jp": "彼女は先月マネージャーに昇進した。"
+  },
+  {
+    "word": "earn",
+    "meaning": "を稼ぐ・得る",
+    "example": "He earns a good living as a programmer.",
+    "example_jp": "彼はプログラマーとして十分な収入を稼いでいる。"
+  },
+  {
+    "word": "unite",
+    "meaning": "を団結させる・結合する",
+    "example": "Common goals unite the team members.",
+    "example_jp": "共通の目標がチームのメンバーを団結させる。"
+  },
+  {
+    "word": "feed",
+    "meaning": "に食べ物を与える・供給する",
+    "example": "Don't forget to feed the dog.",
+    "example_jp": "犬に食べ物を与えるのを忘れないで。"
+  },
+  {
+    "word": "feed",
+    "meaning": "餌を食べる",
+    "example": "Some birds feed mainly on insects.",
+    "example_jp": "一部の鳥は主に昆虫を餌として食べる。"
+  },
+  {
+    "word": "seek",
+    "meaning": "を追い求める",
+    "example": "They are seeking a solution to the problem.",
+    "example_jp": "彼らはその問題の解決策を追い求めている。"
+  },
+  {
+    "word": "seek",
+    "meaning": "（助けなど）を要請する",
+    "example": "You should seek medical advice immediately.",
+    "example_jp": "すぐに医師の助言を要請（相談）すべきだ。"
+  },
+  {
+    "word": "observe",
+    "meaning": "に気づく",
+    "example": "I observed that he was wearing a new watch.",
+    "example_jp": "彼が新しい時計を身につけているのに気づいた。"
+  },
+  {
+    "word": "observe",
+    "meaning": "を観察する",
+    "example": "Scientists observe the behavior of animals.",
+    "example_jp": "科学者たちは動物の行動を観察する。"
+  },
+  {
+    "word": "observe",
+    "meaning": "を遵守する",
+    "example": "All students must observe the school rules.",
+    "example_jp": "すべての生徒は校則を遵守しなければならない。"
+  },
+  {
+    "word": "reveal",
+    "meaning": "を明らかにする・見せる",
+    "example": "The survey revealed that many people are unhappy.",
+    "example_jp": "調査により、多くの人が不幸であることが明らかになった。"
+  },
+  {
+    "word": "estimate",
+    "meaning": "と推定する・見積もる",
+    "example": "Experts estimate that the repair will cost $500.",
+    "example_jp": "専門家はその修理に500ドルかかると見積もっている。"
+  },
+  {
+    "word": "estimate",
+    "meaning": "を評価する",
+    "example": "It is difficult to estimate his true ability.",
+    "example_jp": "彼の真の実力を評価するのは難しい。"
+  },
+  {
+    "word": "reflect",
+    "meaning": "を反映する・反射する",
+    "example": "The mirror reflected her face.",
+    "example_jp": "鏡が彼女の顔を反射した（映した）。"
+  },
+  {
+    "word": "reflect",
+    "meaning": "を熟考する",
+    "example": "I need some time to reflect on my decision.",
+    "example_jp": "自分の決断について熟考するための時間が必要だ。"
+  },
+  {
+    "word": "attract",
+    "meaning": "を引きつける",
+    "example": "The beautiful flowers attract many bees.",
+    "example_jp": "美しい花々が多くのミツバチを引きつける。"
+  },
+  {
+    "word": "decrease",
+    "meaning": "減少する・を減らす",
+    "example": "The number of smokers has decreased recently.",
+    "example_jp": "喫煙者の数は最近減少している。"
+  },
+  {
+    "word": "ignore",
+    "meaning": "を無視する",
+    "example": "He ignored my advice and failed.",
+    "example_jp": "彼は私の助言を無視して失敗した。"
+  },
+  {
+    "word": "match",
+    "meaning": "（と）合う・一致する",
+    "example": "Your tie matches your shirt perfectly.",
+    "example_jp": "あなたのネクタイはシャツと完璧に合っている。"
+  },
+  {
+    "word": "match",
+    "meaning": "に匹敵する",
+    "example": "No one can match her talent for music.",
+    "example_jp": "誰も彼女の音楽の才能に匹敵することはできない。"
+  },
+  {
+    "word": "define",
+    "meaning": "を定義する・明確にする",
+    "example": "How do you define the word 'success'?",
+    "example_jp": "「成功」という言葉をどのように定義しますか。"
+  },
+  {
+    "word": "adapt",
+    "meaning": "適応する・適合させる",
+    "example": "It takes time to adapt to a new environment.",
+    "example_jp": "新しい環境に適応するには時間がかかる。"
+  },
+  {
+    "word": "contribute",
+    "meaning": "貢献する・一因となる",
+    "example": "Stress can contribute to various illnesses.",
+    "example_jp": "ストレスはさまざまな病気の一因となり得る。"
+  },
+  {
+    "word": "contribute",
+    "meaning": "寄付する・寄稿する",
+    "example": "She contributed a lot of money to the charity.",
+    "example_jp": "彼女はそのチャリティーに多額の金を寄付した。"
+  },
+  {
+    "word": "exchange",
+    "meaning": "交換する・両替する",
+    "example": "I want to exchange some yen for dollars.",
+    "example_jp": "いくらかの円をドルに両替したい。"
+  },
+  {
+    "word": "display",
+    "meaning": "を示す・発揮する",
+    "example": "The team displayed great courage during the game.",
+    "example_jp": "チームは試合中に素晴らしい勇気を示した（発揮した）。"
+  },
+  {
+    "word": "display",
+    "meaning": "を展示・陳列する",
+    "example": "Her paintings are displayed in the gallery.",
+    "example_jp": "彼女の絵画がギャラリーに展示されている。"
+  },
+  {
+    "word": "respond",
+    "meaning": "反応する・答える",
+    "example": "He didn't respond to my email.",
+    "example_jp": "彼は私のメールに答えなかった（返信しなかった）。"
+  },
+  {
+    "word": "hide",
+    "meaning": "を隠す・隠れる",
+    "example": "She tried to hide her disappointment.",
+    "example_jp": "彼女は失望を隠そうとした。"
+  },
+  {
+    "word": "doubt",
+    "meaning": "ではないと思う・を疑う",
+    "example": "I doubt that he will come on time.",
+    "example_jp": "彼が時間通りに来るとは思えない（疑わしい）。"
+  },
+  {
+    "word": "remove",
+    "meaning": "を取り除く",
+    "example": "Please remove your shoes at the entrance.",
+    "example_jp": "玄関で靴を脱いで（取り除いて）ください。"
+  },
+  {
+    "word": "remove",
+    "meaning": "を解雇する",
+    "example": "The manager was removed from his post.",
+    "meaning_jp": "そのマネージャーは役職を解雇（解任）された。"
+  },
+  {
+    "word": "wind",
+    "meaning": "巻く",
+    "example": "He forgot to wind his watch.",
+    "example_jp": "彼は時計のねじを巻くのを忘れた。"
+  },
+  {
+    "word": "wind",
+    "meaning": "曲がりくねる",
+    "example": "The path winds through the forest.",
+    "example_jp": "その小道は森の中を曲がりくねって続いている。"
+  },
+  {
+    "word": "assume",
+    "meaning": "当然のことと思う・仮定する",
+    "example": "Don't assume that everyone agrees with you.",
+    "example_jp": "誰もがあなたに賛成していると当然のように思ってはいけない。"
+  },
+  {
+    "word": "assume",
+    "meaning": "手に入れる・引き受ける",
+    "example": "She assumed full responsibility for the error.",
+    "example_jp": "彼女はその間違いに対して全責任を引き受けた。"
+  },
+  {
+    "word": "relax",
+    "meaning": "くつろぐ・緩める",
+    "example": "I like to relax and watch TV after work.",
+    "example_jp": "仕事の後はくつろいでテレビを見るのが好きだ。"
+  },
+  {
+    "word": "satisfy",
+    "meaning": "を満足させる・満たす",
+    "example": "The results did not satisfy the customers.",
+    "example_jp": "その結果は顧客を満足させなかった。"
+  },
+  {
+    "word": "desire",
+    "meaning": "を強く望む",
+    "example": "He desires to live in a quiet place.",
+    "example_jp": "彼は静かな場所に住むことを強く望んでいる。"
+  },
+  {
+    "word": "succeed",
+    "meaning": "成功する",
+    "example": "She finally succeeded in passing the exam.",
+    "example_jp": "彼女はついに試験に合格することに成功した。"
+  },
+  {
+    "word": "succeed",
+    "meaning": "継承する",
+    "example": "He succeeded to the family business.",
+    "example_jp": "彼は家業を継承した。"
+  },
+  {
+    "word": "concept",
+    "meaning": "概念・考え",
+    "example": "The basic concept of the app is simple.",
+    "example_jp": "そのアプリの基本概念（コンセプト）は単純だ。"
+  },
+  {
+    "word": "fashion",
+    "meaning": "流行",
+    "example": "That style of dress is out of fashion now.",
+    "example_jp": "あのスタイルの服は今は流行遅れだ。"
+  },
+  {
+    "word": "fashion",
+    "meaning": "方法・流儀",
+    "example": "He behaved in a strange fashion.",
+    "example_jp": "彼は奇妙な方法（やり方）で振る舞った。"
+  },
+  {
+    "word": "device",
+    "meaning": "装置・機器",
+    "example": "A smartphone is a very useful device.",
+    "example_jp": "スマートフォンは非常に便利な機器だ。"
+  },
+  {
+    "word": "charge",
+    "meaning": "料金",
+    "example": "There is no charge for the delivery.",
+    "example_jp": "配達料（料金）は無料です。"
+  },
+  {
+    "word": "charge",
+    "meaning": "世話・管理",
+    "example": "She is in charge of the sales department.",
+    "example_jp": "彼女は営業部の管理（担当）をしている。"
+  },
+  {
+    "word": "charge",
+    "meaning": "告発",
+    "example": "He was arrested on a charge of theft.",
+    "example_jp": "彼は窃盗の罪（告発）で逮捕された。"
+  },
+  {
+    "word": "contrast",
+    "meaning": "対照",
+    "example": "The white cat is a sharp contrast to the black one.",
+    "example_jp": "白い猫は黒い猫と鮮やかな対照をなしている。"
+  },
+  {
+    "word": "colleague",
+    "meaning": "同僚",
+    "example": "I had lunch with my colleagues today.",
+    "example_jp": "今日は同僚たちとランチを食べた。"
+  },
+  {
+    "word": "pain",
+    "meaning": "苦痛・痛み・苦悩",
+    "example": "I feel a sharp pain in my back.",
+    "example_jp": "背中に鋭い痛みを感じる。"
+  },
+  {
+    "word": "pain",
+    "meaning": "骨折り",
+    "example": "She took great pains to organize the party.",
+    "example_jp": "彼女はパーティーの準備に多大な骨折り（労力）を費やした。"
+  },
+  {
+    "word": "bill",
+    "meaning": "請求書・勘定書",
+    "example": "I have to pay the electricity bill today.",
+    "example_jp": "今日、電気代の請求書を払わなければならない。"
+  },
+  {
+    "word": "bill",
+    "meaning": "法案",
+    "example": "The government passed a new environmental bill.",
+    "example_jp": "政府は新しい環境法案を可決した。"
+  },
+  {
+    "word": "content",
+    "meaning": "内容・中身",
+    "example": "The content of the letter was a secret.",
+    "example_jp": "その手紙の内容は秘密だった。"
+  },
+  {
+    "word": "section",
+    "meaning": "部門・部分・地区・欄",
+    "example": "I like reading the sports section of the newspaper.",
+    "example_jp": "私は新聞のスポーツ欄を読むのが好きだ。"
+  }
+]

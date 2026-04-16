@@ -1,0 +1,302 @@
+[
+  {
+    "word": "element",
+    "meaning": "要素",
+    "example": "Trust is a key element.",
+    "example_jp": "信頼は重要な要素だ。"
+  },
+  {
+    "word": "origin",
+    "meaning": "起源",
+    "example": "The origin is unknown.",
+    "example_jp": "その起源は不明だ。"
+  },
+  {
+    "word": "birth",
+    "meaning": "出産",
+    "example": "She gave birth yesterday.",
+    "example_jp": "彼女は昨日出産した。"
+  },
+  {
+    "word": "ancestor",
+    "meaning": "祖先",
+    "example": "Our ancestors lived here.",
+    "example_jp": "私たちの祖先はここに住んでいた。"
+  },
+  {
+    "word": "cell",
+    "meaning": "細胞",
+    "example": "The body has many cells.",
+    "example_jp": "体には多くの細胞がある。"
+  },
+  {
+    "word": "gene",
+    "meaning": "遺伝子",
+    "example": "Genes affect traits.",
+    "example_jp": "遺伝子は特徴に影響する。"
+  },
+  {
+    "word": "scene",
+    "meaning": "場面",
+    "example": "The scene was beautiful.",
+    "example_jp": "その場面は美しかった。"
+  },
+  {
+    "word": "trend",
+    "meaning": "傾向",
+    "example": "This trend is growing.",
+    "example_jp": "この傾向は強まっている。"
+  },
+  {
+    "word": "traffic",
+    "meaning": "交通（量）",
+    "example": "Traffic is heavy today.",
+    "example_jp": "今日は交通量が多い。"
+  },
+  {
+    "word": "track",
+    "meaning": "（車などが通った）跡",
+    "example": "We followed the tracks.",
+    "example_jp": "私たちはその跡を追った。"
+  },
+  {
+    "word": "series",
+    "meaning": "連続",
+    "example": "The event is part of a series.",
+    "example_jp": "そのイベントは連続企画の一部だ。"
+  },
+  {
+    "word": "context",
+    "meaning": "状況",
+    "example": "Meaning depends on context.",
+    "example_jp": "意味は状況によって変わる。"
+  },
+  {
+    "word": "background",
+    "meaning": "（景色、事件などの）背景",
+    "example": "The mountains formed the background.",
+    "example_jp": "山々が背景を形作っていた。"
+  },
+  {
+    "word": "basis",
+    "meaning": "基準",
+    "example": "We need a clear basis.",
+    "example_jp": "明確な基準が必要だ。"
+  },
+  {
+    "word": "status",
+    "meaning": "地位、身分",
+    "example": "His status changed.",
+    "example_jp": "彼の地位が変わった。"
+  },
+  {
+    "word": "volunteer",
+    "meaning": "ボランティア",
+    "example": "She works as a volunteer.",
+    "example_jp": "彼女はボランティアとして働いている。"
+  },
+  {
+    "word": "staff",
+    "meaning": "スタッフ、職員",
+    "example": "The staff was helpful.",
+    "example_jp": "スタッフは親切だった。"
+  },
+  {
+    "word": "duty",
+    "meaning": "義務",
+    "example": "It’s my duty to help.",
+    "example_jp": "助けることは私の義務だ。"
+  },
+  {
+    "word": "labor",
+    "meaning": "労働",
+    "example": "Labor costs increased.",
+    "example_jp": "労働コストが上がった。"
+  },
+  {
+    "word": "reward",
+    "meaning": "褒美",
+    "example": "He received a reward.",
+    "example_jp": "彼は褒美を受け取った。"
+  },
+  {
+    "word": "aim",
+    "meaning": "目的",
+    "example": "Our aim is clear.",
+    "example_jp": "私たちの目的は明確だ。"
+  },
+  {
+    "word": "fun",
+    "meaning": "楽しみ、おもしろいこと（人）",
+    "example": "We had fun today.",
+    "example_jp": "今日は楽しかった。"
+  },
+  {
+    "word": "crowd",
+    "meaning": "群衆",
+    "example": "A crowd gathered.",
+    "example_jp": "群衆が集まった。"
+  },
+  {
+    "word": "revolution",
+    "meaning": "革命",
+    "example": "The revolution changed everything.",
+    "example_jp": "革命はすべてを変えた。"
+  },
+  {
+    "word": "poverty",
+    "meaning": "貧困",
+    "example": "Poverty remains a problem.",
+    "example_jp": "貧困は依然として問題だ。"
+  },
+  {
+    "word": "consequence",
+    "meaning": "結果",
+    "example": "Every action has consequences.",
+    "example_jp": "すべての行動には結果がある。"
+  },
+  {
+    "word": "sequence",
+    "meaning": "連続、（連続するものの）順番",
+    "example": "The sequence is important.",
+    "example_jp": "順番が重要だ。"
+  },
+  {
+    "word": "complex",
+    "meaning": "複雑な",
+    "example": "The system is complex.",
+    "example_jp": "そのシステムは複雑だ。"
+  },
+  {
+    "word": "complicated",
+    "meaning": "複雑な",
+    "example": "The story is complicated.",
+    "example_jp": "その話は複雑だ。"
+  },
+  {
+    "word": "FALSE",
+    "meaning": "誤った",
+    "example": "The claim was false.",
+    "example_jp": "その主張は誤っていた。"
+  },
+  {
+    "word": "alternative",
+    "meaning": "代替の",
+    "example": "We need an alternative plan.",
+    "example_jp": "代替案が必要だ。"
+  },
+  {
+    "word": "extreme",
+    "meaning": "極端な",
+    "example": "The weather was extreme.",
+    "example_jp": "天気は極端だった。"
+  },
+  {
+    "word": "ideal",
+    "meaning": "理想的な",
+    "example": "This is the ideal place.",
+    "example_jp": "ここは理想的な場所だ。"
+  },
+  {
+    "word": "primary",
+    "meaning": "最も重要な",
+    "example": "Safety is our primary concern.",
+    "example_jp": "安全が最も重要な関心事だ。"
+  },
+  {
+    "word": "worth",
+    "meaning": "価値のある",
+    "example": "It’s worth a try.",
+    "example_jp": "試す価値がある。"
+  },
+  {
+    "word": "obvious",
+    "meaning": "明らかな",
+    "example": "The answer is obvious.",
+    "example_jp": "答えは明らかだ。"
+  },
+  {
+    "word": "legal",
+    "meaning": "法律（上）の",
+    "example": "He needs legal advice.",
+    "example_jp": "彼は法律上の助言を必要としている。"
+  },
+  {
+    "word": "commercial",
+    "meaning": "商業的な、営利的な",
+    "example": "They made a commercial deal.",
+    "example_jp": "彼らは商業契約を結んだ。"
+  },
+  {
+    "word": "artificial",
+    "meaning": "人工の",
+    "example": "The flowers are artificial.",
+    "example_jp": "その花は人工だ。"
+  },
+  {
+    "word": "chemical",
+    "meaning": "化学の",
+    "example": "They studied chemical reactions.",
+    "example_jp": "彼らは化学反応を研究した。"
+  },
+  {
+    "word": "biological",
+    "meaning": "生物（学）の",
+    "example": "He studies biological systems.",
+    "example_jp": "彼は生物システムを研究している。"
+  },
+  {
+    "word": "former",
+    "meaning": "元の",
+    "example": "She met her former teacher.",
+    "example_jp": "彼女は元の先生に会った。"
+  },
+  {
+    "word": "mobile",
+    "meaning": "（物が）可動［移動］式の",
+    "example": "The robot is mobile.",
+    "example_jp": "そのロボットは移動式だ。"
+  },
+  {
+    "word": "straight",
+    "meaning": "まっすぐな",
+    "example": "Draw a straight line.",
+    "example_jp": "まっすぐな線を引いて。"
+  },
+  {
+    "word": "regular",
+    "meaning": "定期的な",
+    "example": "He takes regular breaks.",
+    "example_jp": "彼は定期的に休憩を取る。"
+  },
+  {
+    "word": "independent",
+    "meaning": "（人が）自立した",
+    "example": "She is very independent.",
+    "example_jp": "彼女はとても自立している。"
+  },
+  {
+    "word": "overseas",
+    "meaning": "海外へ",
+    "example": "He moved overseas.",
+    "example_jp": "彼は海外へ移住した。"
+  },
+  {
+    "word": "unlike",
+    "meaning": "～と違って",
+    "example": "Unlike him, I like sports.",
+    "example_jp": "彼と違って、私はスポーツが好きだ。"
+  },
+  {
+    "word": "via",
+    "meaning": "～媒介で",
+    "example": "We talked via video call.",
+    "example_jp": "私たちはビデオ通話で話した。"
+  },
+  {
+    "word": "whereas",
+    "meaning": "…だけれども",
+    "example": "He likes tea, whereas I prefer coffee.",
+    "example_jp": "彼は紅茶が好きだが、私はコーヒーのほうが好きだ。"
+  }
+]

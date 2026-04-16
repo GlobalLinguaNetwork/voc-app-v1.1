@@ -1,0 +1,302 @@
+[
+  {
+    "word": "assume",
+    "meaning": "当然と思う",
+    "example": "I assumed he knew.",
+    "example_jp": "彼は知っているものだと思った。"
+  },
+  {
+    "word": "guess",
+    "meaning": "と思う",
+    "example": "I guess you're right.",
+    "example_jp": "あなたが正しいと思う。"
+  },
+  {
+    "word": "associate",
+    "meaning": "から連想する",
+    "example": "I associate summer with the beach.",
+    "example_jp": "夏といえば海を連想する。"
+  },
+  {
+    "word": "desire",
+    "meaning": "を強く望む",
+    "example": "He desires success.",
+    "example_jp": "彼は成功を強く望んでいる。"
+  },
+  {
+    "word": "indicate",
+    "meaning": "を示す",
+    "example": "The data indicates a rise.",
+    "example_jp": "データは上昇を示している。"
+  },
+  {
+    "word": "respond",
+    "meaning": "応答する",
+    "example": "She didn’t respond.",
+    "example_jp": "彼女は応答しなかった。"
+  },
+  {
+    "word": "reply",
+    "meaning": "返事を出す",
+    "example": "He replied quickly.",
+    "example_jp": "彼はすぐに返事をした。"
+  },
+  {
+    "word": "attempt",
+    "meaning": "を試みる",
+    "example": "They attempted a rescue.",
+    "example_jp": "彼らは救助を試みた。"
+  },
+  {
+    "word": "manage",
+    "meaning": "をなんとかやり遂げる、をうまく扱う",
+    "example": "I managed to finish it.",
+    "example_jp": "なんとかそれを終えた。"
+  },
+  {
+    "word": "maintain",
+    "meaning": "を維持する、を主張する",
+    "example": "She maintains her opinion.",
+    "example_jp": "彼女は自分の意見を主張している。"
+  },
+  {
+    "word": "unite",
+    "meaning": "結合する",
+    "example": "The groups united.",
+    "example_jp": "そのグループは結束した。"
+  },
+  {
+    "word": "join",
+    "meaning": "（会、団体、人）に加わる",
+    "example": "I joined the club.",
+    "example_jp": "私はそのクラブに入った。"
+  },
+  {
+    "word": "attract",
+    "meaning": "を引きつける",
+    "example": "The show attracted many people.",
+    "example_jp": "そのショーは多くの人を引きつけた。"
+  },
+  {
+    "word": "match",
+    "meaning": "調和する",
+    "example": "The colors match well.",
+    "example_jp": "その色はよく調和している。"
+  },
+  {
+    "word": "attack",
+    "meaning": "を襲う、攻撃する",
+    "example": "The dog attacked him.",
+    "example_jp": "犬が彼を襲った。"
+  },
+  {
+    "word": "seek",
+    "meaning": "を探し求める",
+    "example": "They seek answers.",
+    "example_jp": "彼らは答えを探し求めている。"
+  },
+  {
+    "word": "engage",
+    "meaning": "従事する、を引き入れる",
+    "example": "He engaged in volunteer work.",
+    "example_jp": "彼はボランティア活動に従事した。"
+  },
+  {
+    "word": "succeed",
+    "meaning": "成功する、継承する",
+    "example": "She succeeded at last.",
+    "example_jp": "彼女はついに成功した。"
+  },
+  {
+    "word": "marry",
+    "meaning": "と結婚する",
+    "example": "She married him last year.",
+    "example_jp": "彼女は昨年彼と結婚した。"
+  },
+  {
+    "word": "attend",
+    "meaning": "に出席する",
+    "example": "I attended the meeting.",
+    "example_jp": "私は会議に出席した。"
+  },
+  {
+    "word": "satisfy",
+    "meaning": "を満足させる",
+    "example": "The result satisfied me.",
+    "example_jp": "その結果には満足した。"
+  },
+  {
+    "word": "survive",
+    "meaning": "（切り抜けて）生き残る",
+    "example": "They survived the storm.",
+    "example_jp": "彼らは嵐を生き残った。"
+  },
+  {
+    "word": "promote",
+    "meaning": "を促進する",
+    "example": "The event promotes tourism.",
+    "example_jp": "そのイベントは観光を促進する。"
+  },
+  {
+    "word": "earn",
+    "meaning": "を稼ぐ",
+    "example": "He earns good money.",
+    "example_jp": "彼は良い収入を得ている。"
+  },
+  {
+    "word": "feed",
+    "meaning": "に食べ物を与える",
+    "example": "She feeds the cats.",
+    "example_jp": "彼女は猫に餌を与える。"
+  },
+  {
+    "word": "taste",
+    "meaning": "～の味がする",
+    "example": "This soup tastes good.",
+    "example_jp": "このスープはおいしい味がする。"
+  },
+  {
+    "word": "smell",
+    "meaning": "～のにおいがする",
+    "example": "The room smells fresh.",
+    "example_jp": "部屋はさわやかなにおいがする。"
+  },
+  {
+    "word": "adapt",
+    "meaning": "（…に）順応する(to)",
+    "example": "He adapted to the new job.",
+    "example_jp": "彼は新しい仕事に順応した。"
+  },
+  {
+    "word": "adopt",
+    "meaning": "（考え、方針）を採用する",
+    "example": "They adopted a new policy.",
+    "example_jp": "彼らは新しい方針を採用した。"
+  },
+  {
+    "word": "adjust",
+    "meaning": "を調節する",
+    "example": "Adjust the volume.",
+    "example_jp": "音量を調節して。"
+  },
+  {
+    "word": "separate",
+    "meaning": "を分離する",
+    "example": "Separate the items.",
+    "example_jp": "品物を分けてください。"
+  },
+  {
+    "word": "exchange",
+    "meaning": "交換する",
+    "example": "We exchanged gifts.",
+    "example_jp": "私たちはプレゼントを交換した。"
+  },
+  {
+    "word": "replace",
+    "meaning": "を取り替える",
+    "example": "Replace the battery.",
+    "example_jp": "電池を取り替えて。"
+  },
+  {
+    "word": "remove",
+    "meaning": "を取り去る",
+    "example": "Remove the sticker.",
+    "example_jp": "シールをはがして。"
+  },
+  {
+    "word": "release",
+    "meaning": "（ガスなど）を放出する",
+    "example": "The machine released steam.",
+    "example_jp": "機械が蒸気を放出した。"
+  },
+  {
+    "word": "disappear",
+    "meaning": "姿を消す",
+    "example": "The cat disappeared.",
+    "example_jp": "猫が姿を消した。"
+  },
+  {
+    "word": "observe",
+    "meaning": "を観察する",
+    "example": "We observed the stars.",
+    "example_jp": "私たちは星を観察した。"
+  },
+  {
+    "word": "estimate",
+    "meaning": "と推定する",
+    "example": "I estimated the cost.",
+    "example_jp": "私は費用を推定した。"
+  },
+  {
+    "word": "reveal",
+    "meaning": "を明らかにする、暴露する",
+    "example": "The test revealed the truth.",
+    "example_jp": "テストで真実が明らかになった。"
+  },
+  {
+    "word": "emerge",
+    "meaning": "現れる",
+    "example": "A new idea emerged.",
+    "example_jp": "新しい考えが現れた。"
+  },
+  {
+    "word": "arise",
+    "meaning": "（問題、困難、機会などが）生じる",
+    "example": "Problems may arise.",
+    "example_jp": "問題が生じることがある。"
+  },
+  {
+    "word": "citizen",
+    "meaning": "国民",
+    "example": "Every citizen has rights.",
+    "example_jp": "すべての国民には権利がある。"
+  },
+  {
+    "word": "career",
+    "meaning": "経歴",
+    "example": "She built a long career.",
+    "example_jp": "彼女は長い経歴を築いた。"
+  },
+  {
+    "word": "income",
+    "meaning": "（定期）収入",
+    "example": "His income increased.",
+    "example_jp": "彼の収入は増えた。"
+  },
+  {
+    "word": "billion",
+    "meaning": "10億",
+    "example": "The company earned a billion yen.",
+    "example_jp": "その会社は10億円を稼いだ。"
+  },
+  {
+    "word": "bill",
+    "meaning": "請求書、勘定（書）",
+    "example": "I paid the bill.",
+    "example_jp": "私は請求書を支払った。"
+  },
+  {
+    "word": "charge",
+    "meaning": "（サービスに対する）料金",
+    "example": "There is no extra charge.",
+    "example_jp": "追加料金はありません。"
+  },
+  {
+    "word": "item",
+    "meaning": "品目、項目",
+    "example": "This item is popular.",
+    "example_jp": "この品目は人気がある。"
+  },
+  {
+    "word": "scale",
+    "meaning": "規模",
+    "example": "The project is large in scale.",
+    "example_jp": "そのプロジェクトは規模が大きい。"
+  },
+  {
+    "word": "site",
+    "meaning": "場所、用地",
+    "example": "This is the site for the event.",
+    "example_jp": "ここがイベントの会場だ。"
+  }
+]

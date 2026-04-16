@@ -1,0 +1,302 @@
+[
+  {
+    "word": "wonder",
+    "meaning": "と思う",
+    "example": "I wonder why he left.",
+    "example_jp": "彼がなぜ去ったのかと思う。"
+  },
+  {
+    "word": "suppose",
+    "meaning": "（たぶん）と思う、もしならば",
+    "example": "I suppose he’s right.",
+    "example_jp": "たぶん彼は正しいと思う。"
+  },
+  {
+    "word": "imagine",
+    "meaning": "を想像する",
+    "example": "Imagine the future.",
+    "example_jp": "未来を想像してみて。"
+  },
+  {
+    "word": "regard",
+    "meaning": "を見なす",
+    "example": "I regard him as a friend.",
+    "example_jp": "私は彼を友人と見なしている。"
+  },
+  {
+    "word": "wish",
+    "meaning": "と思う",
+    "example": "I wish I had more time.",
+    "example_jp": "もっと時間があればと思う。"
+  },
+  {
+    "word": "determine",
+    "meaning": "を決定する",
+    "example": "We determined the date.",
+    "example_jp": "私たちは日付を決定した。"
+  },
+  {
+    "word": "express",
+    "meaning": "を表現する",
+    "example": "He expressed his feelings.",
+    "example_jp": "彼は気持ちを表現した。"
+  },
+  {
+    "word": "represent",
+    "meaning": "を象徴する、を代表する",
+    "example": "The flag represents the country.",
+    "example_jp": "その旗は国を象徴している。"
+  },
+  {
+    "word": "identify",
+    "meaning": "を特定する",
+    "example": "We identified the problem.",
+    "example_jp": "私たちは問題を特定した。"
+  },
+  {
+    "word": "mention",
+    "meaning": "に言及する",
+    "example": "He mentioned your name.",
+    "example_jp": "彼はあなたの名前に言及した。"
+  },
+  {
+    "word": "solve",
+    "meaning": "を解決する",
+    "example": "We solved the issue.",
+    "example_jp": "私たちはその問題を解決した。"
+  },
+  {
+    "word": "prove",
+    "meaning": "を証明する",
+    "example": "She proved her point.",
+    "example_jp": "彼女は自分の主張を証明した。"
+  },
+  {
+    "word": "communicate",
+    "meaning": "意思を通じ合う",
+    "example": "We communicate by email.",
+    "example_jp": "私たちはメールで意思を通じ合う。"
+  },
+  {
+    "word": "respect",
+    "meaning": "を尊敬する",
+    "example": "I respect my teacher.",
+    "example_jp": "私は先生を尊敬している。"
+  },
+  {
+    "word": "prefer",
+    "meaning": "のほうを好む",
+    "example": "I prefer tea to coffee.",
+    "example_jp": "コーヒーより紅茶のほうが好きだ。"
+  },
+  {
+    "word": "design",
+    "meaning": "を設計する",
+    "example": "She designed the logo.",
+    "example_jp": "彼女はそのロゴを設計した。"
+  },
+  {
+    "word": "establish",
+    "meaning": "を設立する",
+    "example": "They established a new school.",
+    "example_jp": "彼らは新しい学校を設立した。"
+  },
+  {
+    "word": "found",
+    "meaning": "を設立する",
+    "example": "He founded the company.",
+    "example_jp": "彼はその会社を設立した。"
+  },
+  {
+    "word": "publish",
+    "meaning": "を出版する",
+    "example": "They published a book.",
+    "example_jp": "彼らは本を出版した。"
+  },
+  {
+    "word": "serve",
+    "meaning": "役に立つ",
+    "example": "This tool serves many purposes.",
+    "example_jp": "この道具は多くの用途に役立つ。"
+  },
+  {
+    "word": "supply",
+    "meaning": "を供給する",
+    "example": "They supply fresh water.",
+    "example_jp": "彼らは新鮮な水を供給している。"
+  },
+  {
+    "word": "apply",
+    "meaning": "申し込む、を適用する",
+    "example": "I applied for the job.",
+    "example_jp": "私はその仕事に申し込んだ。"
+  },
+  {
+    "word": "treat",
+    "meaning": "を扱う、を治療する",
+    "example": "They treated him well.",
+    "example_jp": "彼らは彼を丁寧に扱った。"
+  },
+  {
+    "word": "search",
+    "meaning": "（場所など）を探す、捜索する",
+    "example": "We searched the room.",
+    "example_jp": "私たちは部屋を探した。"
+  },
+  {
+    "word": "prepare",
+    "meaning": "準備する",
+    "example": "I prepared dinner.",
+    "example_jp": "私は夕食を準備した。"
+  },
+  {
+    "word": "protect",
+    "meaning": "を保護する",
+    "example": "We must protect nature.",
+    "example_jp": "私たちは自然を守らなければならない。"
+  },
+  {
+    "word": "pick",
+    "meaning": "を選び取る、を摘む",
+    "example": "Pick your favorite.",
+    "example_jp": "好きなものを選んで。"
+  },
+  {
+    "word": "fit",
+    "meaning": "ピッタリ合う、うまく合う",
+    "example": "These shoes fit well.",
+    "example_jp": "この靴はよく合う。"
+  },
+  {
+    "word": "gain",
+    "meaning": "を（努力して）手に入れる",
+    "example": "He gained experience.",
+    "example_jp": "彼は経験を得た。"
+  },
+  {
+    "word": "enter",
+    "meaning": "に入る",
+    "example": "She entered the room.",
+    "example_jp": "彼女は部屋に入った。"
+  },
+  {
+    "word": "spread",
+    "meaning": "広がる",
+    "example": "The news spread quickly.",
+    "example_jp": "そのニュースはすぐに広がった。"
+  },
+  {
+    "word": "advance",
+    "meaning": "前進する",
+    "example": "The team advanced slowly.",
+    "example_jp": "チームはゆっくり前進した。"
+  },
+  {
+    "word": "tend",
+    "meaning": "傾向がある",
+    "example": "He tends to forget things.",
+    "example_jp": "彼は物事を忘れがちだ。"
+  },
+  {
+    "word": "depend",
+    "meaning": "依存する",
+    "example": "We depend on water.",
+    "example_jp": "私たちは水に依存している。"
+  },
+  {
+    "word": "exist",
+    "meaning": "存在する",
+    "example": "Ghosts don’t exist.",
+    "example_jp": "幽霊は存在しない。"
+  },
+  {
+    "word": "decline",
+    "meaning": "減る、衰える",
+    "example": "Sales declined last year.",
+    "example_jp": "売上は昨年減少した。"
+  },
+  {
+    "word": "decrease",
+    "meaning": "減る",
+    "example": "The number decreased.",
+    "example_jp": "その数は減った。"
+  },
+  {
+    "word": "waste",
+    "meaning": "を浪費する",
+    "example": "Don’t waste time.",
+    "example_jp": "時間を無駄にしないで。"
+  },
+  {
+    "word": "damage",
+    "meaning": "（物、体の一部）に損害を与える",
+    "example": "The storm damaged the roof.",
+    "example_jp": "嵐が屋根に損害を与えた。"
+  },
+  {
+    "word": "suffer",
+    "meaning": "苦しむ",
+    "example": "He suffers from headaches.",
+    "example_jp": "彼は頭痛に苦しんでいる。"
+  },
+  {
+    "word": "act",
+    "meaning": "行動する",
+    "example": "It’s time to act.",
+    "example_jp": "行動する時だ。"
+  },
+  {
+    "word": "perform",
+    "meaning": "を行う",
+    "example": "She performed well.",
+    "example_jp": "彼女はよくやった。"
+  },
+  {
+    "word": "species",
+    "meaning": "（生物の）種",
+    "example": "Many species are endangered.",
+    "example_jp": "多くの種が絶滅の危機にある。"
+  },
+  {
+    "word": "variety",
+    "meaning": "多様（性）",
+    "example": "The shop has a variety of items.",
+    "example_jp": "その店には多様な商品がある。"
+  },
+  {
+    "word": "degree",
+    "meaning": "程度",
+    "example": "The degree of damage was small.",
+    "example_jp": "損害の程度は小さかった。"
+  },
+  {
+    "word": "range",
+    "meaning": "範囲",
+    "example": "The price range is wide.",
+    "example_jp": "価格の範囲は広い。"
+  },
+  {
+    "word": "standard",
+    "meaning": "水準、基準",
+    "example": "This meets the standard.",
+    "example_jp": "これは基準を満たしている。"
+  },
+  {
+    "word": "medium",
+    "meaning": "（伝達などの）媒体",
+    "example": "TV is a popular medium.",
+    "example_jp": "テレビは人気のある媒体だ。"
+  },
+  {
+    "word": "advantage",
+    "meaning": "有利な点",
+    "example": "This gives us an advantage.",
+    "example_jp": "これは私たちに有利な点を与える。"
+  },
+  {
+    "word": "task",
+    "meaning": "（課された）任務、仕事",
+    "example": "I finished the task.",
+    "example_jp": "私はその任務を終えた。"
+  }
+]

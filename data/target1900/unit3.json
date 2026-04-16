@@ -1,0 +1,488 @@
+[
+  {
+    "word": "notice",
+    "meaning": "に気づく",
+    "example": "I didn't notice that the lights were still on.",
+    "example_jp": "ライトがまだついていることに気づかなかった。"
+  },
+  {
+    "word": "refer",
+    "meaning": "言及する・関連する",
+    "example": "He referred to the history of the city in his speech.",
+    "example_jp": "彼はスピーチの中で市の歴史について言及した。"
+  },
+  {
+    "word": "refer",
+    "meaning": "参照する",
+    "example": "Please refer to the manual for more information.",
+    "example_jp": "詳細はマニュアルを参照してください。"
+  },
+  {
+    "word": "approach",
+    "meaning": "に近づく",
+    "example": "A storm is approaching the coast.",
+    "example_jp": "嵐が海岸に近づいている。"
+  },
+  {
+    "word": "approach",
+    "meaning": "に取り組む",
+    "example": "We need to approach this problem from a different angle.",
+    "example_jp": "私たちはこの問題に別の角度から取り組む必要がある。"
+  },
+  {
+    "word": "wonder",
+    "meaning": "かなと思う",
+    "example": "I wonder why she is so late today.",
+    "example_jp": "なぜ今日彼女はあんなに遅いのだろうかと思う。"
+  },
+  {
+    "word": "wonder",
+    "meaning": "（に）驚く",
+    "example": "People wondered at the beauty of the aurora.",
+    "example_jp": "人々はオーロラの美しさに驚いた。"
+  },
+  {
+    "word": "imagine",
+    "meaning": "を想像する・推測する",
+    "example": "Can you imagine what life will be like in 100 years?",
+    "example_jp": "100年後の生活がどのようなものか想像できますか。"
+  },
+  {
+    "word": "recognize",
+    "meaning": "を識別できる",
+    "example": "I recognized him as soon as I saw him.",
+    "example_jp": "彼を見た瞬間に誰だかわかった（識別できた）。"
+  },
+  {
+    "word": "recognize",
+    "meaning": "を認める",
+    "example": "The government recognized the new country.",
+    "example_jp": "政府はその新しい国を承認した（認めた）。"
+  },
+  {
+    "word": "solve",
+    "meaning": "を解く・解決する",
+    "example": "We need to solve this problem as soon as possible.",
+    "example_jp": "私たちはこの問題をできるだけ早く解決しなければならない。"
+  },
+  {
+    "word": "occur",
+    "meaning": "起こる",
+    "example": "The accident occurred at midnight.",
+    "example_jp": "その事故は夜中に起こった。"
+  },
+  {
+    "word": "occur",
+    "meaning": "心に浮かぶ",
+    "example": "A great idea suddenly occurred to me.",
+    "example_jp": "素晴らしい考えが突然心に浮かんだ。"
+  },
+  {
+    "word": "occur",
+    "meaning": "現れる",
+    "example": "These plants occur naturally in this region.",
+    "example_jp": "これらの植物はこの地域に自然に現れる（自生する）。"
+  },
+  {
+    "word": "argue",
+    "meaning": "と主張する",
+    "example": "He argued that the law was unfair.",
+    "example_jp": "彼はその法律が不当であると主張した。"
+  },
+  {
+    "word": "argue",
+    "meaning": "議論する",
+    "example": "My parents are always arguing about money.",
+    "example_jp": "両親はいつもお金のことで議論している（言い争っている）。"
+  },
+  {
+    "word": "claim",
+    "meaning": "と主張する",
+    "example": "She claims that she saw a UFO last night.",
+    "example_jp": "彼女は昨夜UFOを見たと主張している。"
+  },
+  {
+    "word": "claim",
+    "meaning": "を要求する",
+    "example": "You can claim a refund for the broken item.",
+    "example_jp": "壊れた商品の払い戻しを要求することができる。"
+  },
+  {
+    "word": "express",
+    "meaning": "を表す・述べる",
+    "example": "It is difficult to express my feelings in words.",
+    "example_jp": "自分の気持ちを言葉で表すのは難しい。"
+  },
+  {
+    "word": "draw",
+    "meaning": "を引き出す・引く",
+    "example": "The movie drew a large crowd.",
+    "example_jp": "その映画は大勢の群衆を引きつけた（引き出した）。"
+  },
+  {
+    "word": "draw",
+    "meaning": "を描く",
+    "example": "She likes to draw pictures of cats.",
+    "example_jp": "彼女は猫の絵を描くのが好きだ。"
+  },
+  {
+    "word": "draw",
+    "meaning": "近づく",
+    "example": "The winter is drawing near.",
+    "example_jp": "冬が近づいている。"
+  },
+  {
+    "word": "waste",
+    "meaning": "を浪費する・無駄にする",
+    "example": "Don't waste your time on video games.",
+    "example_jp": "ビデオゲームで時間を無駄にするな。"
+  },
+  {
+    "word": "advance",
+    "meaning": "進歩させる・進む",
+    "example": "Medical technology has advanced rapidly.",
+    "example_jp": "医療技術は急速に進歩した。"
+  },
+  {
+    "word": "spread",
+    "meaning": "を広める・広がる",
+    "example": "The news spread quickly through the village.",
+    "example_jp": "そのニュースは村中に素早く広まった。"
+  },
+  {
+    "word": "prepare",
+    "meaning": "を準備する",
+    "example": "We are preparing for the upcoming exam.",
+    "example_jp": "私たちは目前に迫った試験の準備をしている。"
+  },
+  {
+    "word": "prepare",
+    "meaning": "を調理する",
+    "example": "He is preparing dinner in the kitchen.",
+    "example_jp": "彼はキッチンで夕食を調理している。"
+  },
+  {
+    "word": "gain",
+    "meaning": "を獲得する",
+    "example": "She gained valuable experience during her internship.",
+    "example_jp": "彼女はインターンシップの間に貴重な経験を獲得した。"
+  },
+  {
+    "word": "gain",
+    "meaning": "を増す",
+    "example": "The car gained speed as it went downhill.",
+    "example_jp": "その車は下り坂で速度を増した。"
+  },
+  {
+    "word": "achieve",
+    "meaning": "を達成する・成し遂げる",
+    "example": "He achieved his goal of becoming a doctor.",
+    "example_jp": "彼は医者になるという目標を達成した。"
+  },
+  {
+    "word": "establish",
+    "meaning": "を確立する",
+    "example": "The company established a new sales strategy.",
+    "example_jp": "その会社は新しい販売戦略を確立した。"
+  },
+  {
+    "word": "establish",
+    "meaning": "を設立する",
+    "example": "The hospital was established in 1950.",
+    "example_jp": "その病院は1950年に設立された。"
+  },
+  {
+    "word": "supply",
+    "meaning": "を供給する",
+    "example": "This farm supplies milk to the local area.",
+    "example_jp": "この農場は地元に牛乳を供給している。"
+  },
+  {
+    "word": "suppose",
+    "meaning": "と思う",
+    "example": "I suppose you are right about that.",
+    "example_jp": "それについてはあなたが正しいと思う。"
+  },
+  {
+    "word": "suppose",
+    "meaning": "と仮定する",
+    "example": "Suppose we miss the train, what should we do?",
+    "example_jp": "列車に乗り遅れたと仮定したら、どうすべきですか。"
+  },
+  {
+    "word": "perform",
+    "meaning": "を行う",
+    "example": "The surgeon performed a complex operation.",
+    "example_jp": "外科医は複雑な手術を行った。"
+  },
+  {
+    "word": "perform",
+    "meaning": "を演じる・演奏する",
+    "example": "The band will perform live tonight.",
+    "example_jp": "そのバンドは今夜ライブで演奏する。"
+  },
+  {
+    "word": "prefer",
+    "meaning": "のほうを好む",
+    "example": "I prefer tea to coffee.",
+    "example_jp": "私はコーヒーより紅茶のほうを好む。"
+  },
+  {
+    "word": "determine",
+    "meaning": "を決定する",
+    "example": "Your attitude determines your success.",
+    "example_jp": "あなたの態度が成功を決定する。"
+  },
+  {
+    "word": "determine",
+    "meaning": "を正確に知る",
+    "example": "They are trying to determine the cause of the fire.",
+    "example_jp": "彼らは火事の原因を正確に知ろう（特定しよう）としている。"
+  },
+  {
+    "word": "treat",
+    "meaning": "を扱う",
+    "example": "You should treat everyone with respect.",
+    "example_jp": "すべての人を敬意を持って扱うべきだ。"
+  },
+  {
+    "word": "treat",
+    "meaning": "を治療する",
+    "example": "This medicine is used to treat headaches.",
+    "example_jp": "この薬は頭痛を治療するために使われる。"
+  },
+  {
+    "word": "prove",
+    "meaning": "を証明する",
+    "example": "He proved his innocence in court.",
+    "example_jp": "彼は法廷で自分の無実を証明した。"
+  },
+  {
+    "word": "prove",
+    "meaning": "判明する・わかる",
+    "example": "The news proved to be false.",
+    "example_jp": "そのニュースは誤りであると判明した。"
+  },
+  {
+    "word": "apply",
+    "meaning": "を適用・応用する",
+    "example": "This rule applies to all students.",
+    "example_jp": "この規則はすべての学生に適用される。"
+  },
+  {
+    "word": "apply",
+    "meaning": "申し込む",
+    "example": "I want to apply for a scholarship.",
+    "example_jp": "私は奨学金に申し込みたい。"
+  },
+  {
+    "word": "mention",
+    "meaning": "に言及する・と言う",
+    "example": "He forgot to mention the date of the meeting.",
+    "example_jp": "彼は会議の日付に言及するのを忘れた。"
+  },
+  {
+    "word": "communicate",
+    "meaning": "情報交換をする・伝達する",
+    "example": "We communicate with our clients by email.",
+    "example_jp": "私たちは顧客とメールで情報交換をしている（連絡を取っている）。"
+  },
+  {
+    "word": "contain",
+    "meaning": "を含む・収容する",
+    "example": "This orange juice contains a lot of vitamin C.",
+    "example_jp": "このオレンジジュースにはビタミンCが多く含まれている。"
+  },
+  {
+    "word": "contain",
+    "meaning": "（感情など）を抑える",
+    "example": "She could not contain her excitement.",
+    "example_jp": "彼女は興奮を抑えることができなかった。"
+  },
+  {
+    "word": "contact",
+    "meaning": "と連絡を取る・接触する",
+    "example": "Please contact me if you have any questions.",
+    "example_jp": "質問があれば私に連絡を取ってください。"
+  },
+  {
+    "word": "regard",
+    "meaning": "を見なす",
+    "example": "I regard him as my best friend.",
+    "example_jp": "私は彼を親友だと見なしている。"
+  },
+  {
+    "word": "regard",
+    "meaning": "を見る・評価する",
+    "example": "The artist is highly regarded by critics.",
+    "example_jp": "その芸術家は批評家から高く評価されている。"
+  },
+  {
+    "word": "respect",
+    "meaning": "を尊敬する・尊重する",
+    "example": "I respect her for her honesty.",
+    "example_jp": "彼女の正直さを尊敬している。"
+  },
+  {
+    "word": "search",
+    "meaning": "捜す・詳しく調べる",
+    "example": "The police searched the house for evidence.",
+    "example_jp": "警察は証拠を求めて家を詳しく調べた（捜索した）。"
+  },
+  {
+    "word": "connect",
+    "meaning": "をつなぐ",
+    "example": "The bridge connects the two islands.",
+    "example_jp": "その橋は2つの島をつないでいる。"
+  },
+  {
+    "word": "connect",
+    "meaning": "を関連づける",
+    "example": "Police are connecting the two crimes.",
+    "example_jp": "警察はその2つの犯罪を関連づけている。"
+  },
+  {
+    "word": "decline",
+    "meaning": "減少する・衰退する",
+    "example": "The population of the village is declining.",
+    "example_jp": "その村の人口は減少している。"
+  },
+  {
+    "word": "decline",
+    "meaning": "を断る",
+    "example": "He declined the invitation to the party.",
+    "example_jp": "彼はパーティーへの招待を断った。"
+  },
+  {
+    "word": "prevent",
+    "meaning": "を妨げる・防ぐ",
+    "example": "The rain prevented us from going out.",
+    "example_jp": "雨が私たちの外出を妨げた。"
+  },
+  {
+    "word": "suffer",
+    "meaning": "苦しむ・患う",
+    "example": "Many people suffer from seasonal allergies.",
+    "example_jp": "多くの人が季節性のアレルギーで苦しんでいる。"
+  },
+  {
+    "word": "suffer",
+    "meaning": "（苦痛など）を経験する",
+    "example": "The company suffered a huge loss last year.",
+    "example_jp": "その会社は昨年、巨額の損失を経験した（被った）。"
+  },
+  {
+    "word": "survive",
+    "meaning": "生き残る・生き延びる",
+    "example": "Few people survived the earthquake.",
+    "example_jp": "その地震で生き残った人はわずかだった。"
+  },
+  {
+    "word": "survive",
+    "meaning": "より長生きする",
+    "example": "She survived her husband by ten years.",
+    "example_jp": "彼女は夫より10年長生きした。"
+  },
+  {
+    "word": "publish",
+    "meaning": "を出版する",
+    "example": "She published her first novel last month.",
+    "example_jp": "彼女は先月、最初の小説を出版した。"
+  },
+  {
+    "word": "publish",
+    "meaning": "を公表する",
+    "example": "The results of the study were published today.",
+    "example_jp": "その研究結果が今日公表された。"
+  },
+  {
+    "word": "opportunity",
+    "meaning": "機会",
+    "example": "This is a great opportunity to learn English.",
+    "example_jp": "これは英語を学ぶ素晴らしい機会だ。"
+  },
+  {
+    "word": "task",
+    "meaning": "仕事・作業・課題",
+    "example": "He completed the task in two hours.",
+    "example_jp": "彼はその仕事を2時間で終えた。"
+  },
+  {
+    "word": "industry",
+    "meaning": "産業",
+    "example": "The tourism industry is growing fast.",
+    "example_jp": "観光産業は急速に成長している。"
+  },
+  {
+    "word": "industry",
+    "meaning": "勤勉",
+    "example": "His success is due to his industry.",
+    "example_jp": "彼の成功は彼の勤勉さによるものだ。"
+  },
+  {
+    "word": "medium",
+    "meaning": "媒体・手段",
+    "example": "The internet is a powerful medium for communication.",
+    "example_jp": "インターネットはコミュニケーションのための強力な媒体だ。"
+  },
+  {
+    "word": "economy",
+    "meaning": "経済",
+    "example": "The global economy is in a difficult state.",
+    "example_jp": "世界経済は困難な状態にある。"
+  },
+  {
+    "word": "economy",
+    "meaning": "節約",
+    "example": "Buying in bulk is a good economy.",
+    "example_jp": "まとめ買いをするのは良い節約になる。"
+  },
+  {
+    "word": "policy",
+    "meaning": "政策・方針",
+    "example": "What is the government's foreign policy?",
+    "example_jp": "政府の外交政策は何ですか。"
+  },
+  {
+    "word": "policy",
+    "meaning": "主義",
+    "example": "Honesty is the best policy.",
+    "example_jp": "正直は最良の主義（策）である。"
+  },
+  {
+    "word": "account",
+    "meaning": "説明",
+    "example": "He gave a detailed account of the accident.",
+    "example_jp": "彼はその事故について詳しい説明をした。"
+  },
+  {
+    "word": "account",
+    "meaning": "勘定・口座",
+    "example": "I need to open a bank account.",
+    "example_jp": "銀行口座を開設する必要がある。"
+  },
+  {
+    "word": "trade",
+    "meaning": "貿易・商売・取引",
+    "example": "Japan's trade with China is very large.",
+    "example_jp": "日本の中国との貿易は非常に大規模だ。"
+  },
+  {
+    "word": "model",
+    "meaning": "模範・モデル・模型・型",
+    "example": "He built a model of the ship.",
+    "example_jp": "彼はその船の模型を作った。"
+  },
+  {
+    "word": "figure",
+    "meaning": "数字・図表",
+    "example": "According to the latest figures, unemployment is falling.",
+    "example_jp": "最新の数字（統計）によると、失業率は下がっている。"
+  },
+  {
+    "word": "figure",
+    "meaning": "姿・人物",
+    "example": "She is a famous figure in local history.",
+    "example_jp": "彼女は地元の歴史における有名な人物だ。"
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "word": "priority",
+    "meaning": "優先（事項）",
+    "example": "Safety is our top priority.",
+    "example_jp": "安全は私たちの最優先事項です。"
+  },
+  {
+    "word": "logic",
+    "meaning": "論理・道理・論理学",
+    "example": "Your logic is flawed.",
+    "example_jp": "あなたの論理には欠陥があります。"
+  },
+  {
+    "word": "minimum",
+    "meaning": "最小限度",
+    "example": "The minimum age for driving is 18.",
+    "example_jp": "運転免許の最低（最小）年齢は18歳です。"
+  },
+  {
+    "word": "exception",
+    "meaning": "例外",
+    "example": "There is an exception to every rule.",
+    "example_jp": "どんな規則にも例外はあります。"
+  },
+  {
+    "word": "clue",
+    "meaning": "手がかり・ヒント",
+    "example": "The police have no clues yet.",
+    "example_jp": "警察はまだ何の手がかりも得ていません。"
+  },
+  {
+    "word": "bond",
+    "meaning": "絆・束縛",
+    "example": "They share a strong bond of friendship.",
+    "example_jp": "彼らは強い友情の絆で結ばれています。"
+  },
+  {
+    "word": "bond",
+    "meaning": "債券",
+    "example": "I invested my money in government bonds.",
+    "example_jp": "私は政府の債券にお金を投資しました。"
+  },
+  {
+    "word": "bond",
+    "meaning": "接着剤",
+    "example": "This glue creates a strong bond.",
+    "example_jp": "この接着剤は強力な接着力を生みます。"
+  },
+  {
+    "word": "virus",
+    "meaning": "ウイルス・病原体",
+    "example": "The computer was infected by a virus.",
+    "example_jp": "コンピュータがウイルスに感染しました。"
+  },
+  {
+    "word": "surgery",
+    "meaning": "（外科）手術",
+    "example": "He underwent heart surgery last week.",
+    "example_jp": "彼は先週、心臓の手術を受けました。"
+  },
+  {
+    "word": "surgery",
+    "meaning": "外科・外科医学",
+    "example": "She wants to specialize in surgery.",
+    "example_jp": "彼女は外科を専門にしたいと考えています。"
+  },
+  {
+    "word": "insurance",
+    "meaning": "保険・保険料・保険金",
+    "example": "Do you have car insurance?",
+    "example_jp": "自動車保険に入っていますか。"
+  },
+  {
+    "word": "frame",
+    "meaning": "枠・縁・骨組み",
+    "example": "The photo is in a wooden frame.",
+    "example_jp": "その写真は木製の額（枠）に入っています。"
+  },
+  {
+    "word": "frame",
+    "meaning": "体格",
+    "example": "He has a large, strong frame.",
+    "example_jp": "彼は大柄でがっしりした体格をしています。"
+  },
+  {
+    "word": "shelter",
+    "meaning": "避難（所）・保護",
+    "example": "We found shelter from the rain.",
+    "example_jp": "私たちは雨をしのぐ避難場所を見つけました。"
+  },
+  {
+    "word": "territory",
+    "meaning": "領土・領域・テリトリー",
+    "example": "Tigers are very protective of their territory.",
+    "example_jp": "トラは自分の縄張り（テリトリー）を強く守ります。"
+  },
+  {
+    "word": "boundary",
+    "meaning": "境界（線）",
+    "example": "The fence marks the boundary.",
+    "example_jp": "その柵が境界線を示しています。"
+  },
+  {
+    "word": "boundary",
+    "meaning": "限界",
+    "example": "The discovery pushed the boundaries of science.",
+    "example_jp": "その発見は科学の限界を押し広げました。"
+  },
+  {
+    "word": "habitat",
+    "meaning": "生息地・居住地",
+    "example": "The jungle is a natural habitat for monkeys.",
+    "example_jp": "ジャングルはサルにとっての自然な生息地です。"
+  },
+  {
+    "word": "district",
+    "meaning": "地区・行政区",
+    "example": "The business district is very busy.",
+    "example_jp": "そのビジネス地区は非常に賑わっています。"
+  },
+  {
+    "word": "conservation",
+    "meaning": "保護・保存",
+    "example": "Wildlife conservation is very important.",
+    "example_jp": "野生生物の保護は非常に重要です。"
+  },
+  {
+    "word": "harvest",
+    "meaning": "収穫（物）・収穫期・漁獲高",
+    "example": "We had a good harvest this year.",
+    "example_jp": "今年は豊作（良い収穫）でした。"
+  },
+  {
+    "word": "predator",
+    "meaning": "捕食動物",
+    "example": "Lions are top predators in the wild.",
+    "example_jp": "ライオンは野生における上位の捕食動物です。"
+  },
+  {
+    "word": "predator",
+    "meaning": "略奪者",
+    "example": "Be careful of online predators.",
+    "example_jp": "オンライン上の略奪者（悪質な利用者）には気をつけてください。"
+  },
+  {
+    "word": "trap",
+    "meaning": "わな",
+    "example": "He set a trap to catch the mouse.",
+    "example_jp": "彼はネズミを捕まえるためにわなを仕掛けました。"
+  },
+  {
+    "word": "trap",
+    "meaning": "苦境",
+    "example": "She felt caught in a trap at work.",
+    "example_jp": "彼女は職場で苦境（わな）に陥ったように感じました。"
+  },
+  {
+    "word": "trick",
+    "meaning": "策略・いたずら",
+    "example": "He played a trick on his sister.",
+    "example_jp": "彼は妹にいたずらをしました。"
+  },
+  {
+    "word": "trick",
+    "meaning": "こつ・芸当",
+    "example": "I'll teach you a trick to learn faster.",
+    "example_jp": "より速く学ぶためのこつを教えましょう。"
+  },
+  {
+    "word": "fault",
+    "meaning": "責任",
+    "example": "It's not my fault we're late.",
+    "example_jp": "私たちが遅れたのは私の責任ではありません。"
+  },
+  {
+    "word": "fault",
+    "meaning": "欠点・誤り",
+    "example": "Everyone has some faults.",
+    "example_jp": "誰にでも何らかの欠点はあります。"
+  },
+  {
+    "word": "discount",
+    "meaning": "割引",
+    "example": "Can I get a student discount?",
+    "example_jp": "学生割引を受けられますか。"
+  },
+  {
+    "word": "bias",
+    "meaning": "偏見・傾向",
+    "example": "The judge showed no bias.",
+    "example_jp": "その裁判官は全く偏見を見せませんでした。"
+  },
+  {
+    "word": "cooperation",
+    "meaning": "協力・共同",
+    "example": "We need your cooperation to finish this.",
+    "example_jp": "これを終わらせるためにあなたの協力が必要です。"
+  },
+  {
+    "word": "patent",
+    "meaning": "特許（権）・特許品",
+    "example": "He applied for a patent for his invention.",
+    "example_jp": "彼は自分の発明について特許を申請しました。"
+  },
+  {
+    "word": "dialogue",
+    "meaning": "対話・会話・意見の交換",
+    "example": "The two countries opened a dialogue.",
+    "example_jp": "その二国は対話（意見交換）を開始しました。"
+  },
+  {
+    "word": "component",
+    "meaning": "構成要素・部品",
+    "example": "Hard work is a key component of success.",
+    "example_jp": "努力は成功の重要な構成要素です。"
+  },
+  {
+    "word": "reputation",
+    "meaning": "評判・名声",
+    "example": "The hotel has a good reputation.",
+    "example_jp": "そのホテルは評判が良いです。"
+  },
+  {
+    "word": "verbal",
+    "meaning": "言葉の・口頭での",
+    "example": "I gave a verbal warning.",
+    "example_jp": "私は口頭で警告を与えました。"
+  },
+  {
+    "word": "verbal",
+    "meaning": "動詞の",
+    "example": "A participle is a verbal form.",
+    "example_jp": "分詞は動詞の形態（準動詞）の一つです。"
+  },
+  {
+    "word": "internal",
+    "meaning": "内部の・国内の",
+    "example": "He suffered internal injuries.",
+    "example_jp": "彼は内部（体内）の損傷を負いました。"
+  },
+  {
+    "word": "internal",
+    "meaning": "内面的な",
+    "example": "She dealt with an internal conflict.",
+    "example_jp": "彼女は内面的な葛藤に対処しました。"
+  },
+  {
+    "word": "solid",
+    "meaning": "しっかりした・硬い",
+    "example": "The ground is solid enough to build on.",
+    "example_jp": "地面は家を建てるのに十分しっかりしています。"
+  },
+  {
+    "word": "solid",
+    "meaning": "固体の",
+    "example": "Water becomes solid at 0°C.",
+    "example_jp": "水は摂氏0度で固体（氷）になります。"
+  },
+  {
+    "word": "remote",
+    "meaning": "遠く離れた・かけ離れた",
+    "example": "The village is in a remote area.",
+    "example_jp": "その村は遠く離れた（人里離れた）場所にあります。"
+  },
+  {
+    "word": "principal",
+    "meaning": "主要な",
+    "example": "Our principal goal is to win.",
+    "example_jp": "私たちの主要な目標は勝つことです。"
+  },
+  {
+    "word": "principal",
+    "meaning": "資本金の",
+    "example": "You must pay back the principal first.",
+    "example_jp": "まず元金（資本金）を返済しなければなりません。"
+  },
+  {
+    "word": "sophisticated",
+    "meaning": "高性能の・精巧な・洗練された",
+    "example": "The system is very sophisticated.",
+    "example_jp": "そのシステムは非常に精巧（高性能）です。"
+  },
+  {
+    "word": "equivalent",
+    "meaning": "等しい・相当する",
+    "example": "A mile is equivalent to about 1.6 kilometers.",
+    "example_jp": "1マイルは約1.6キロメートルに相当します。"
+  },
+  {
+    "word": "rational",
+    "meaning": "理性的な・合理的な",
+    "example": "He made a rational decision.",
+    "example_jp": "彼は合理的な判断を下しました。"
+  },
+  {
+    "word": "relevant",
+    "meaning": "関係がある・適切な",
+    "example": "Please provide the relevant facts.",
+    "example_jp": "関連のある（適切な）事実を提示してください。"
+  },
+  {
+    "word": "absolute",
+    "meaning": "絶対的な",
+    "example": "He has absolute power.",
+    "example_jp": "彼は絶対的な権力を持っています。"
+  },
+  {
+    "word": "frequent",
+    "meaning": "頻繁な",
+    "example": "He is a frequent visitor here.",
+    "example_jp": "彼はここを頻繁に訪れる客です。"
+  },
+  {
+    "word": "permanent",
+    "meaning": "永続的な",
+    "example": "I'm looking for a permanent job.",
+    "example_jp": "私は永続的な（終身の）仕事を探しています。"
+  },
+  {
+    "word": "intense",
+    "meaning": "強烈な・熱烈な",
+    "example": "The heat was intense.",
+    "example_jp": "暑さは強烈でした。"
+  },
+  {
+    "word": "meaningful",
+    "meaning": "意味のある",
+    "example": "We had a meaningful conversation.",
+    "example_jp": "私たちは意味のある（有意義な）会話をしました。"
+  },
+  {
+    "word": "evil",
+    "meaning": "邪悪な・有害な",
+    "example": "Stealing is an evil act.",
+    "example_jp": "盗みは邪悪な（悪い）行為です。"
+  },
+  {
+    "word": "extinct",
+    "meaning": "絶滅した",
+    "example": "Dinosaurs are extinct.",
+    "example_jp": "恐竜は絶滅しています。"
+  },
+  {
+    "word": "extinct",
+    "meaning": "廃止された",
+    "example": "That custom is now extinct.",
+    "example_jp": "その慣習は今では廃止されています（消滅しています）。"
+  },
+  {
+    "word": "random",
+    "meaning": "無作為の・手当たり次第の",
+    "example": "I chose a book at random.",
+    "example_jp": "私は無作為に（手当たり次第に）本を選びました。"
+  },
+  {
+    "word": "raw",
+    "meaning": "生の・未加工の",
+    "example": "I love eating raw fish.",
+    "example_jp": "私は生の魚を食べるのが大好きです。"
+  },
+  {
+    "word": "rude",
+    "meaning": "無礼な・粗野な",
+    "example": "It is rude to point at people.",
+    "example_jp": "人を指さすのは無礼なことです。"
+  },
+  {
+    "word": "mere",
+    "meaning": "単なる・ほんの",
+    "example": "He is a mere child.",
+    "example_jp": "彼はほんの（単なる）子供です。"
+  },
+  {
+    "word": "tropical",
+    "meaning": "熱帯の",
+    "example": "I want to visit a tropical island.",
+    "example_jp": "熱帯の島を訪れたいです。"
+  },
+  {
+    "word": "forth",
+    "meaning": "前へ・先へ・それ以降",
+    "example": "Go forth and succeed.",
+    "example_jp": "前へ進み、成功しなさい。"
+  }
+]

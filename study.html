@@ -173,7 +173,6 @@
   </div>
 </div>
 
-<!-- 同期モーダル -->
 <div id="syncModal" class="hidden" onclick="if(event.target===this)closeSyncModal()">
   <div class="modal-box" style="max-width: 440px;">
     <div class="modal-title">🔄 データ引き継ぎ・同期</div>
@@ -361,7 +360,6 @@
 </div>
 
 <script>
-/* ══ ユーティリティ関数 ══ */
 function escHtml(str) {
   if (typeof str !== 'string') return str;
   return str.replace(/[&'`"<>]/g, function(match) {
@@ -380,7 +378,6 @@ function shuffleArray(array) {
   return arr;
 }
 
-/* ══ ランダム50単語選定ロジック（被りなし） ══ */
 function pickRandom50(sourceWords, book, units) {
   var limit = 50;
   var historyKey = "vocabRandomHist_" + book + "_" + units.slice().sort().join(",");
@@ -394,13 +391,11 @@ function pickRandom50(sourceWords, book, units) {
   var asked   = sourceWords.filter(function(w) { return history.indexOf(w.word) !== -1; });
   var result  =[];
 
-  // 未出題が50以上ある場合はそこから選ぶ
   if (unasked.length >= limit) {
     unasked = shuffleArray(unasked);
     result = unasked.slice(0, limit);
     history = history.concat(result.map(function(w){ return w.word; }));
   } else {
-    // 未出題が足りない場合はすべて追加し、残りは出題済みから選んで履歴をリセット
     unasked = shuffleArray(unasked);
     result = result.concat(unasked);
     
@@ -409,7 +404,6 @@ function pickRandom50(sourceWords, book, units) {
     var additional = asked.slice(0, shortage);
     result = result.concat(additional);
     
-    // 今回出題したリストだけで履歴を上書き（一巡完了の扱い）
     history = result.map(function(w){ return w.word; });
   }
   
@@ -417,7 +411,6 @@ function pickRandom50(sourceWords, book, units) {
   return shuffleArray(result);
 }
 
-/* ══ 単語帳設定 ══ */
 var BOOK_CONFIG = {
   "system5":      { unitCount: 41, total: 2027, name: "システム英単語（5訂版）",   showRange: true  },
   "target1900":   { unitCount: 38, total: 1900, name: "英単語ターゲット1900",       showRange: true  },
@@ -451,7 +444,6 @@ var currentUnitArray =[];
 var isRandomMode     = false;
 var isMistakeBankMode = false;
 
-/* 定数キー */
 var PROGRESS_KEY     = "vocabProgress";
 var UNIT_HISTORY_KEY = "vocabUnitHistory";
 var MISTAKE_BANK_KEY = "vocabMistakeBank";
@@ -464,7 +456,6 @@ function unitRangeLabel(cfg, unitNum) {
   return "Unit " + unitNum + "  (" + start + "–" + end + ")";
 }
 
-/* ══ 最適英語音声の自動選択 ══ */
 var selectedVoice = null;
 function pickBestVoice(voices) {
   var enVoices = voices.filter(function(v) { return /^en/i.test(v.lang); });
@@ -527,7 +518,6 @@ function startTTSWatchdog(expectedMs) {
 }
 function clearTTSWatchdog() { clearTimeout(ttsWatchdog); }
 
-/* ══ チェックボックスUIの初期化と制御 ══ */
 (function() {
   document.getElementById("selectedBookName").textContent = "📘 " + bookInfo.name;
   var defaultUnit = parseInt(new URLSearchParams(location.search).get("unit")) || 1;
@@ -789,7 +779,7 @@ function speak(text, cb) {
 }
 
 function renderQuiz() {
-  var choices = [current.meaning];
+  var choices =[current.meaning];
   var pool = words.filter(function(w) { return w.meaning !== current.meaning && w.meaning; });
   pool.sort(function() { return Math.random() - 0.5; });
   for (var i = 0; i < pool.length && choices.length < 4; i++) {
@@ -1183,6 +1173,30 @@ function showFinishScreen() {
     var recLabel = currentUnitArray.length === 1 ? currentUnitArray[0] : (currentUnitArray.length + "ユニット");
     if (isRandomMode && currentUnitArray.length > 1) recLabel += " (乱50語)";
     recordSessionUnit(BOOK, bookInfo.name, recLabel);
+    
+    // ★ GLN Portal への完了通知処理 ★
+    var unitLabel = currentUnitArray.length === 1
+      ? unitRangeLabel(bookInfo, currentUnitArray[0])
+      : currentUnitArray.length + 'ユニット';
+    if (isRandomMode && currentUnitArray.length > 1) unitLabel += ' (乱50語)';
+    var detail = bookInfo.name + ' / ' + unitLabel + ' — ' + correctCount + '/' + totalCount + '正解';
+    
+    var payload = {
+      type:   'GLN_COMPLETE',
+      title:  'Vocab Master',
+      cat:    'Vocab',
+      detail: detail,
+      words:  words.length,
+      timestamp: Date.now()
+    };
+    
+    // 1. 通常の postMessage
+    if (window.opener && !window.opener.closed) {
+      window.opener.postMessage(payload, '*');
+    }
+    
+    // 2. LocalStorage 経由の強力なフォールバック（iOSタブ切断対策）
+    try { localStorage.setItem('GLN_SYNC_PAYLOAD', JSON.stringify(payload)); } catch(e) {}
   }
 
   var nextBtn = document.getElementById("nextUnitBtn");
@@ -1459,7 +1473,6 @@ function renderDonut(s) {
 
 function closeProgressModal() { document.getElementById("progressModal").classList.add("hidden"); }
 
-/* ══ データ同期処理 ══ */
 function showSyncModal() {
   document.getElementById("exportArea").value = "";
   document.getElementById("importArea").value = "";
@@ -1504,7 +1517,6 @@ function importSyncID() {
     if (data.mistakeBank) localStorage.setItem(MISTAKE_BANK_KEY, data.mistakeBank);
     alert("データの復元が完了しました！");
     closeSyncModal();
-    // 画面を再更新するためにリロード
     location.reload();
   } catch(e) {
     alert("無効な引き継ぎIDです。コードが完全にコピーされているか確認してください。");

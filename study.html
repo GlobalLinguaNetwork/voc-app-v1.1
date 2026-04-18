@@ -1175,11 +1175,16 @@ function showFinishScreen() {
     recordSessionUnit(BOOK, bookInfo.name, recLabel);
     
     // ★ GLN Portal への完了通知処理 ★
-    var unitLabel = currentUnitArray.length === 1
-      ? unitRangeLabel(bookInfo, currentUnitArray[0])
-      : currentUnitArray.length + 'ユニット';
-    if (isRandomMode && currentUnitArray.length > 1) unitLabel += ' (乱50語)';
-    var detail = bookInfo.name + ' / ' + unitLabel + ' — ' + correctCount + '/' + totalCount + '正解';
+    var shortName = bookInfo.name;
+    if (shortName.includes("システム英単語")) shortName = "シス単";
+    else if (shortName.includes("ターゲット")) shortName = "ターゲット";
+    else if (shortName.includes("速読英単語")) shortName = "速単";
+    
+    var unitLabel = currentUnitArray.length === 1 
+      ? "unit" + currentUnitArray[0] 
+      : currentUnitArray.length + "ユニット";
+    
+    var detail = shortName + unitLabel;
     
     var payload = {
       type:   'GLN_COMPLETE',

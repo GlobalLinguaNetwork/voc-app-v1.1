@@ -245,7 +245,7 @@
       <div class="mbank-empty">まだミスした単語はありません</div>
     </div>
     
-    <div id="mbankSettings" style="display:flex; gap:8px; margin-bottom:14px; display:none;">
+    <div id="mbankSettings" style="display:none; gap:8px; margin-bottom:14px;">
       <div style="flex:1;">
         <label class="field-label" style="margin-top:0;">モード</label>
         <select id="mbankMode" style="margin-bottom:0; font-size:0.8rem; padding:8px 24px 8px 10px; background-position: right 10px center;">
@@ -412,6 +412,7 @@ function pickRandom50(sourceWords, book, units) {
 var BOOK_CONFIG = {
   "system5":      { unitCount: 41, total: 2027, name: "システム英単語（5訂版）",   showRange: true  },
   "target1900":   { unitCount: 38, total: 1900, name: "英単語ターゲット1900",       showRange: true  },
+  "target1400":   { unitCount: 28, total: 1400, name: "TARGET1400 5訂版",           showRange: true  },
   "target1200":   { unitCount: 34, total: 1700, name: "英単語ターゲット1200",       showRange: true  },
   "leap":         { unitCount: 46, total: 2300, name: "英単語LEAP",                 showRange: true  },
   "sokutanh8":    { unitCount: 38, total: 1903, name: "速読英単語（必修編 8訂版）", showRange: true  },
@@ -419,7 +420,7 @@ var BOOK_CONFIG = {
   "gohou":        { unitCount: 1,  total: null, name: "語法",                       showRange: false },
   "kihonndoushi": { unitCount: 1,  total: null, name: "基本動詞",                       showRange: false },
   "tagigo":       { unitCount: 1,  total: null, name: "多義語",                       showRange: false },
-  "ronrimarker":  { unitCount: 1,  total: null, name: "論理マー fix marker",         showRange: false }
+  "ronrimarker":  { unitCount: 1,  total: null, name: "論理マーカー",                 showRange: false }
 };
 
 var BOOK     = (new URLSearchParams(location.search).get("book")) || "system5";
@@ -626,7 +627,15 @@ function start(resumeFlag) {
   
   if (currentUnitArray.length === 0) return;
 
-  loadMultipleUnits(currentUnitArray, function(success, combinedWords) {
+  /* ランダム複数ユニットの場合、全ユニットをfetchせず最大10ユニットをサンプリング。
+     pickRandom50が未出題語を優先管理するため、セッションごとに異なる語が出る。 */
+  var RANDOM_FETCH_LIMIT = 10;
+  var unitsToFetch = currentUnitArray;
+  if (isRandomMode && currentUnitArray.length > RANDOM_FETCH_LIMIT) {
+    unitsToFetch = shuffleArray(currentUnitArray.slice()).slice(0, RANDOM_FETCH_LIMIT);
+  }
+
+  loadMultipleUnits(unitsToFetch, function(success, combinedWords) {
     if (!success) return;
     if (!combinedWords || combinedWords.length === 0) { alert("データが空です。"); return; }
     
@@ -1086,8 +1095,20 @@ function restart() {
 function nextRandom50() {
   unlockIOSSpeech();
   document.getElementById("finishScreen").classList.add("hidden");
-  words = pickRandom50(allCombinedWords, BOOK, currentUnitArray);
-  resetState(); updateUnitLabel(); next();
+  /* 全選択ランダムの場合、次セットは別のユニット群から再fetchして語彙の多様性を確保 */
+  var RANDOM_FETCH_LIMIT = 10;
+  if (currentUnitArray.length > RANDOM_FETCH_LIMIT) {
+    var unitsToFetch = shuffleArray(currentUnitArray.slice()).slice(0, RANDOM_FETCH_LIMIT);
+    loadMultipleUnits(unitsToFetch, function(success, combinedWords) {
+      if (!success) return;
+      allCombinedWords = combinedWords;
+      words = pickRandom50(allCombinedWords, BOOK, currentUnitArray);
+      resetState(); updateUnitLabel(); next();
+    });
+  } else {
+    words = pickRandom50(allCombinedWords, BOOK, currentUnitArray);
+    resetState(); updateUnitLabel(); next();
+  }
 }
 
 function goNextUnit() {

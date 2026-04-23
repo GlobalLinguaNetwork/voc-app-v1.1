@@ -419,7 +419,7 @@ var BOOK_CONFIG = {
   "gohou":        { unitCount: 1,  total: null, name: "語法",                       showRange: false },
   "kihonndoushi": { unitCount: 1,  total: null, name: "基本動詞",                       showRange: false },
   "tagigo":       { unitCount: 1,  total: null, name: "多義語",                       showRange: false },
-  "ronrimarker":  { unitCount: 1,  total: null, name: "論理マーカー",                       showRange: false }
+  "ronrimarker":  { unitCount: 1,  total: null, name: "論理マー fix marker",         showRange: false }
 };
 
 var BOOK     = (new URLSearchParams(location.search).get("book")) || "system5";
@@ -427,7 +427,7 @@ var bookInfo = BOOK_CONFIG[BOOK] || { unitCount: 20, total: null, name: BOOK, sh
 var UNIT_MIN = 1;
 var UNIT_MAX = bookInfo.unitCount;
 
-var words            = [];
+var words            =[];
 var allCombinedWords =[];
 var index            = 0;
 var correctCount     = 0;
@@ -579,33 +579,41 @@ function updateStartButtons() {
 
 /** 
  * 修正点：Promise.allによる一斉リクエストを避け、
- * async/awaitを用いて1ファイルずつ順番に読み込む方式に変更し、
- * 通信制限によるエラーを回避します。
+ * async/awaitを用いて1ファイルずつ順番に読み込む方式にしつつ、
+ * さらにサーバーの通信制限（Rate Limit）を回避するために
+ * リクエスト間に50ミリ秒の待機時間を挟みます。
  */
 async function loadMultipleUnits(units, callback) {
-  var combined = [];
+  var combined =[];
   try {
     for (var i = 0; i < units.length; i++) {
       var u = units[i];
       var r = await fetch("data/" + BOOK + "/unit" + u + ".json");
-      if (!r.ok) throw new Error("File not found: unit" + u);
+      
+      if (!r.ok) throw new Error("Fetch failed: unit" + u + " (Status: " + r.status + ")");
+      
       var data = await r.json();
       
       if (Array.isArray(data)) {
         combined = combined.concat(data);
       } else {
-        var found = [];
+        var found =[];
         Object.keys(data).forEach(function(k) { 
           if(Array.isArray(data[k]) && !found.length) found = data[k]; 
         });
         combined = combined.concat(found);
+      }
+
+      // サーバーの通信制限(Rate Limit)を回避するため、リクエストの間に小休止を挟む
+      if (i < units.length - 1) {
+        await new Promise(function(resolve) { setTimeout(resolve, 50); });
       }
     }
     callback(true, combined);
   } catch (e) {
     console.error("Loading error:", e);
     alert("データの読み込みに失敗しました。ネットワーク接続を確認してください。");
-    callback(false, []);
+    callback(false,[]);
   }
 }
 

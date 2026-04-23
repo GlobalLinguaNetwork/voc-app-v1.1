@@ -577,27 +577,36 @@ function updateStartButtons() {
   }
 }
 
-function loadMultipleUnits(units, callback) {
-  var promises = units.map(function(u) {
-    return fetch("data/" + BOOK + "/unit" + u + ".json")
-      .then(function(r) { if (!r.ok) throw new Error(); return r.json(); });
-  });
-
-  Promise.all(promises).then(function(results) {
-    var combined =[];
-    results.forEach(function(data) {
-      if (Array.isArray(data)) { combined = combined.concat(data); } 
-      else { 
-        var found =[];
-        Object.keys(data).forEach(function(k) { if(Array.isArray(data[k]) && !found.length) found = data[k]; });
+/** 
+ * 修正点：Promise.allによる一斉リクエストを避け、
+ * async/awaitを用いて1ファイルずつ順番に読み込む方式に変更し、
+ * 通信制限によるエラーを回避します。
+ */
+async function loadMultipleUnits(units, callback) {
+  var combined = [];
+  try {
+    for (var i = 0; i < units.length; i++) {
+      var u = units[i];
+      var r = await fetch("data/" + BOOK + "/unit" + u + ".json");
+      if (!r.ok) throw new Error("File not found: unit" + u);
+      var data = await r.json();
+      
+      if (Array.isArray(data)) {
+        combined = combined.concat(data);
+      } else {
+        var found = [];
+        Object.keys(data).forEach(function(k) { 
+          if(Array.isArray(data[k]) && !found.length) found = data[k]; 
+        });
         combined = combined.concat(found);
-      } 
-    });
+      }
+    }
     callback(true, combined);
-  }).catch(function(e) {
-    alert("データの読み込みに失敗しました。");
-    callback(false,[]);
-  });
+  } catch (e) {
+    console.error("Loading error:", e);
+    alert("データの読み込みに失敗しました。ネットワーク接続を確認してください。");
+    callback(false, []);
+  }
 }
 
 function start(resumeFlag) {
@@ -1012,14 +1021,12 @@ function showFinishScreen() {
   document.getElementById("finalMsg").textContent = pct >= 90 ? "素晴らしい！ほぼ完璧です。" : pct >= 70 ? "よくできました。苦手な単語を復習しましょう。" : "もう一度チャレンジして定着させましょう。";
 
   if (!isMistakeBankMode) {
-    // ★ 修正箇所：例文の語数までカウントするロジックに変更 ★
     var totalWordsCounted = words.reduce(function(sum, w) {
       var wordCount = (w.word ? w.word.trim().split(/\s+/).length : 0);
       var exampleCount = (w.example ? w.example.trim().split(/\s+/).length : 0);
       return sum + wordCount + exampleCount;
     }, 0);
 
-    // 単語数ではなく、算出した合計語数をアプリ内グラフ用の記録にも反映
     recordSessionWords(totalWordsCounted);
 
     var recLabel = currentUnitArray.length === 1 ? currentUnitArray[0] : (currentUnitArray.length + "ユニット");
@@ -1039,7 +1046,7 @@ function showFinishScreen() {
       title:  'Vocab Master',
       cat:    'Vocab',
       detail: detail,
-      words:  totalWordsCounted, // 単語数ではなく、例文を含む合計語数を送信
+      words:  totalWordsCounted, 
       timestamp: Date.now()
     };
     

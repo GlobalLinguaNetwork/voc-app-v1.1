@@ -1,0 +1,308 @@
+[
+  {
+    "word": "astronomy",
+    "meaning": "天文学",
+    "example": "She is interested in astronomy and stars.",
+    "example_jp": "彼女は天文学と星に興味がある。"
+  },
+  {
+    "word": "astrology",
+    "meaning": "占星術",
+    "example": "He checks his horoscope based on astrology.",
+    "example_jp": "彼は占星術に基づいた星占いをチェックしている。"
+  },
+  {
+    "word": "botany",
+    "meaning": "植物学",
+    "example": "He is studying botany to become a researcher.",
+    "example_jp": "彼は研究者になるために植物学を学んでいる。"
+  },
+  {
+    "word": "anthropology",
+    "meaning": "人類学",
+    "example": "We learned about ancient cultures in anthropology.",
+    "example_jp": "人類学で古代文化について学んだ。"
+  },
+  {
+    "word": "discuss",
+    "meaning": "～を話し合う, 議論する",
+    "example": "They discussed the plan for hours.",
+    "example_jp": "彼らはその計画を何時間も話し合った。"
+  },
+  {
+    "word": "agree",
+    "meaning": "(～に)賛成する, 同意する, 一致する",
+    "example": "I agree with your opinion.",
+    "example_jp": "あなたの意見に賛成です。"
+  },
+  {
+    "word": "argue",
+    "meaning": "～を主張する, 論じる",
+    "example": "He argued that the law should be changed.",
+    "example_jp": "彼は法律は変更されるべきだと主張した。"
+  },
+  {
+    "word": "argue",
+    "meaning": "言い争う",
+    "example": "They were arguing about money.",
+    "example_jp": "彼らはお金について言い争っていた。"
+  },
+  {
+    "word": "maintain",
+    "meaning": "～を維持する, 主張する",
+    "example": "He maintains that he is innocent.",
+    "example_jp": "彼は自分は無実だと主張し続けている。"
+  },
+  {
+    "word": "assert",
+    "meaning": "～を主張する, 言い張る",
+    "example": "She asserted her right to speak.",
+    "example_jp": "彼女は自分の発言する権利を主張した。"
+  },
+  {
+    "word": "claim",
+    "meaning": "要求する、主張する",
+    "example": "He claimed that he found the lost key.",
+    "example_jp": "彼は失くした鍵を見つけたと主張した。"
+  },
+  {
+    "word": "insist",
+    "meaning": "要求する、主張する",
+    "example": "She insisted that I go with her.",
+    "example_jp": "彼女は私に一緒に行くよう強く要求した。"
+  },
+  {
+    "word": "exclaim",
+    "meaning": "～と叫ぶ",
+    "example": "What a beautiful view! he exclaimed.",
+    "example_jp": "「なんて美しい景色だ！」と彼は叫んだ。"
+  },
+  {
+    "word": "proclaim",
+    "meaning": "～を宣言する",
+    "example": "The government proclaimed a state of emergency.",
+    "example_jp": "政府は緊急事態を宣言した。"
+  },
+  {
+    "word": "declare",
+    "meaning": "宣言する",
+    "example": "They declared their independence.",
+    "example_jp": "彼らは独立を宣言した。"
+  },
+  {
+    "word": "announce",
+    "meaning": "～を告知する",
+    "example": "The company announced a new product.",
+    "example_jp": "その会社は新製品を告知した。"
+  },
+  {
+    "word": "exaggerate",
+    "meaning": "～を誇張する, 大げさに言う",
+    "example": "Don't exaggerate the truth.",
+    "example_jp": "真実を誇張してはいけない。"
+  },
+  {
+    "word": "boast",
+    "meaning": "(of)自慢する, 鼻にかける",
+    "example": "He always boasts of his success.",
+    "example_jp": "彼はいつも自分の成功を自慢する。"
+  },
+  {
+    "word": "controversy",
+    "meaning": "論争, 議論",
+    "example": "The new policy caused much controversy.",
+    "example_jp": "その新しい方針は多くの論争を巻き起こした。"
+  },
+  {
+    "word": "dispute",
+    "meaning": "議論、議論する",
+    "example": "The two countries are in a border dispute.",
+    "example_jp": "その2国は領土問題をめぐって論争中だ。"
+  },
+  {
+    "word": "debate",
+    "meaning": "討論",
+    "example": "They held a debate on the environment.",
+    "example_jp": "彼らは環境について討論会を開いた。"
+  },
+  {
+    "word": "conference",
+    "meaning": "会議",
+    "example": "She is attending an international conference.",
+    "example_jp": "彼女は国際会議に出席している。"
+  },
+  {
+    "word": "negotiate",
+    "meaning": "交渉する",
+    "example": "We need to negotiate a better price.",
+    "example_jp": "より良い価格を交渉する必要がある。"
+  },
+  {
+    "word": "complain",
+    "meaning": "(～について)不満を述べる",
+    "example": "He complained about the noisy neighbors.",
+    "example_jp": "彼はうるさい隣人について不満を述べた。"
+  },
+  {
+    "word": "grumble",
+    "meaning": "不満を言う",
+    "example": "He is always grumbling about his work.",
+    "example_jp": "彼はいつも仕事について不満を言っている。"
+  },
+  {
+    "word": "quarrel",
+    "meaning": "口論, 口喧嘩",
+    "example": "They had a quarrel over the bill.",
+    "example_jp": "彼らは勘定をめぐって口論した。"
+  },
+  {
+    "word": "reconcile",
+    "meaning": "～を和解させる, 仲直りさせる",
+    "example": "They were reconciled after a long time.",
+    "example_jp": "彼らは長い時を経て仲直りした。"
+  },
+  {
+    "word": "convince",
+    "meaning": "～に確信させる、納得させる",
+    "example": "I convinced him to change his mind.",
+    "example_jp": "彼を納得させて考えを変えさせた。"
+  },
+  {
+    "word": "persuade",
+    "meaning": "～に説得する",
+    "example": "She persuaded me to join the club.",
+    "example_jp": "彼女は私を説得してクラブに入らせた。"
+  },
+  {
+    "word": "talk～into doing",
+    "meaning": "～に説得する",
+    "example": "He talked me into buying the car.",
+    "example_jp": "彼は私を説得してその車を買わせた。"
+  },
+  {
+    "word": "advantage",
+    "meaning": "有利な点, 好都合",
+    "example": "The new plan has many advantages.",
+    "example_jp": "新しい計画には多くの利点がある。"
+  },
+  {
+    "word": "right",
+    "meaning": "権利",
+    "example": "Everyone has the right to free speech.",
+    "example_jp": "誰にも言論の自由という権利がある。"
+  },
+  {
+    "word": "privilege",
+    "meaning": "特権",
+    "example": "It is a privilege to meet you.",
+    "example_jp": "お会いできて光栄です（特権的な機会です）。"
+  },
+  {
+    "word": "entitle",
+    "meaning": "～に資格/権利を与える",
+    "example": "This ticket entitles you to a free drink.",
+    "example_jp": "このチケットで飲み物が1杯無料になります。"
+  },
+  {
+    "word": "qualify",
+    "meaning": "～に資格を与える",
+    "example": "Her experience qualifies her for the job.",
+    "example_jp": "彼女の経験はその仕事への資格を十分に備えている。"
+  },
+  {
+    "word": "require",
+    "meaning": "～を要求する, 必要とする",
+    "example": "This task requires great patience.",
+    "example_jp": "この仕事には大きな忍耐が必要だ。"
+  },
+  {
+    "word": "call for",
+    "meaning": "～を要求する, 必要とする",
+    "example": "The situation calls for immediate action.",
+    "example_jp": "この状況は早急な行動を必要としている。"
+  },
+  {
+    "word": "desire",
+    "meaning": "欲望, 願望",
+    "example": "He has a strong desire to succeed.",
+    "example_jp": "彼は成功への強い願望がある。"
+  },
+  {
+    "word": "demand",
+    "meaning": "要求",
+    "example": "The workers made a demand for higher pay.",
+    "example_jp": "労働者たちは賃上げを要求した。"
+  },
+  {
+    "word": "perspective",
+    "meaning": "展望, ものの見方",
+    "example": "You need to look at it from a different perspective.",
+    "example_jp": "別の見方からそれを見る必要がある。"
+  },
+  {
+    "word": "inspect",
+    "meaning": "～を詳しく調べる, 検査する",
+    "example": "The officer inspected the baggage.",
+    "example_jp": "係官は荷物を検査した。"
+  },
+  {
+    "word": "prospect",
+    "meaning": "見通し、展望",
+    "example": "There is little prospect of success.",
+    "example_jp": "成功の見通しはほとんどない。"
+  },
+  {
+    "word": "retrospect",
+    "meaning": "追想、回想",
+    "example": "In retrospect, it was a mistake.",
+    "example_jp": "振り返ってみると、それは間違いだった。"
+  },
+  {
+    "word": "suspect",
+    "meaning": "～を疑う, に気付く, 容疑者",
+    "example": "I suspect that he is lying.",
+    "example_jp": "彼が嘘をついているのではないかと疑っている。"
+  },
+  {
+    "word": "speculate",
+    "meaning": "～を推測する、熟考する",
+    "example": "Scientists speculate on the origin of life.",
+    "example_jp": "科学者は生命の起源を推測している。"
+  },
+  {
+    "word": "spectacle",
+    "meaning": "見世物, 光景",
+    "example": "The sunset was a magnificent spectacle.",
+    "example_jp": "夕日は素晴らしい光景だった。"
+  },
+  {
+    "word": "conspicuous",
+    "meaning": "目立つ",
+    "example": "His new car is very conspicuous.",
+    "example_jp": "彼の新しい車はとても目立つ。"
+  },
+  {
+    "word": "proceed",
+    "meaning": "進む、さらに続けて～する",
+    "example": "We will proceed with the project tomorrow.",
+    "example_jp": "明日プロジェクトを進めるつもりだ。"
+  },
+  {
+    "word": "exceed",
+    "meaning": "～を越える、優る",
+    "example": "The cost exceeded our budget.",
+    "example_jp": "費用が予算を越えた。"
+  },
+  {
+    "word": "concede",
+    "meaning": "～を認める、譲歩する",
+    "example": "He conceded that he was wrong.",
+    "example_jp": "彼は自分が間違っていたことを認めた。"
+  },
+  {
+    "word": "succeed",
+    "meaning": "成功する、～の後を継ぐ、～に次いで起こる",
+    "example": "Hard work will help you succeed.",
+    "example_jp": "努力すれば成功するだろう。"
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "word": "fine",
+    "meaning": "すばらしい",
+    "example": "We had fine weather yesterday.",
+    "example_jp": "昨日はすばらしい天気だった。"
+  },
+  {
+    "word": "fine",
+    "meaning": "細かい",
+    "example": "The beach has fine white sand.",
+    "example_jp": "そのビーチには細かい白い砂がある。"
+  },
+  {
+    "word": "fine",
+    "meaning": "罰金、～に罰金を科す",
+    "example": "I had to pay a fine for speeding.",
+    "example_jp": "スピード違反で罰金を払わなければならなかった。"
+  },
+  {
+    "word": "leave",
+    "meaning": "～を出発する",
+    "example": "What time does the train leave?",
+    "example_jp": "列車は何時に出発しますか。"
+  },
+  {
+    "word": "leave",
+    "meaning": "～を残す",
+    "example": "Don't leave your umbrella on the train.",
+    "example_jp": "電車に傘を忘れないで（残さないで）ください。"
+  },
+  {
+    "word": "leave",
+    "meaning": "休暇",
+    "example": "He is currently on sick leave.",
+    "example_jp": "彼は現在、病気休暇中だ。"
+  },
+  {
+    "word": "leave",
+    "meaning": "許可",
+    "example": "You may leave the room with my permission.",
+    "example_jp": "私の許可があれば、部屋を出てよい。"
+  },
+  {
+    "word": "meet",
+    "meaning": "～に会う",
+    "example": "Nice to meet you.",
+    "example_jp": "お会いできて嬉しいです。"
+  },
+  {
+    "word": "meet",
+    "meaning": "～(要求・必要)を満たす",
+    "example": "The product meets all safety standards.",
+    "example_jp": "その製品はすべての安全基準を満たしている。"
+  },
+  {
+    "word": "strike",
+    "meaning": "～を打つ",
+    "example": "The clock struck midnight.",
+    "example_jp": "時計が真夜中を打った。"
+  },
+  {
+    "word": "strike",
+    "meaning": "～に印象を与える",
+    "example": "He strikes me as a very honest man.",
+    "example_jp": "彼はとても正直な人に思える。"
+  },
+  {
+    "word": "strike",
+    "meaning": "ストライキ",
+    "example": "The railway workers are on strike.",
+    "example_jp": "鉄道員がストライキを行っている。"
+  },
+  {
+    "word": "run",
+    "meaning": "走る",
+    "example": "I run every morning for health.",
+    "example_jp": "健康のために毎朝走っている。"
+  },
+  {
+    "word": "run",
+    "meaning": "～を経営する",
+    "example": "My aunt runs a small cafe.",
+    "example_jp": "叔母は小さなカフェを経営している。"
+  },
+  {
+    "word": "coin",
+    "meaning": "硬貨",
+    "example": "I found a gold coin on the street.",
+    "example_jp": "通りで金貨を見つけた。"
+  },
+  {
+    "word": "coin",
+    "meaning": "～(新語)を作り出す",
+    "example": "Who coined the term 'robot'?",
+    "example_jp": "誰が「ロボット」という言葉を作り出したのか。"
+  },
+  {
+    "word": "room",
+    "meaning": "部屋",
+    "example": "My room is small but cozy.",
+    "example_jp": "私の部屋は狭いが心地よい。"
+  },
+  {
+    "word": "room",
+    "meaning": "空間、余地、可能性",
+    "example": "There is no room for doubt.",
+    "example_jp": "疑いの余地はない。"
+  },
+  {
+    "word": "story",
+    "meaning": "物語",
+    "example": "Tell me a bedtime story.",
+    "example_jp": "寝る前の物語を話して。"
+  },
+  {
+    "word": "story",
+    "meaning": "～階建て",
+    "example": "They live in a ten-story building.",
+    "example_jp": "彼らは10階建てのビルに住んでいる。"
+  },
+  {
+    "word": "manner",
+    "meaning": "方法、やり方",
+    "example": "He solved the problem in a professional manner.",
+    "example_jp": "彼はプロらしいやり方で問題を解決した。"
+  },
+  {
+    "word": "manner",
+    "meaning": "礼儀作法、行儀",
+    "example": "It's bad manners to talk with your mouth full.",
+    "example_jp": "口に物を入れたまま話すのは行儀が悪い。"
+  },
+  {
+    "word": "address",
+    "meaning": "住所",
+    "example": "Please write your address here.",
+    "example_jp": "ここに住所を書いてください。"
+  },
+  {
+    "word": "address",
+    "meaning": "～に差し向ける、取り組む",
+    "example": "We must address this issue immediately.",
+    "example_jp": "私たちは直ちにこの問題に取り組まなければならない。"
+  },
+  {
+    "word": "address",
+    "meaning": "話しかける",
+    "example": "He addressed the crowd with a speech.",
+    "example_jp": "彼は演説で群衆に話しかけた。"
+  },
+  {
+    "word": "check",
+    "meaning": "～を確かめる",
+    "example": "Check the time again.",
+    "example_jp": "もう一度時間を確認して。"
+  },
+  {
+    "word": "check",
+    "meaning": "～を抑制する、阻止する",
+    "example": "We need to check the spread of the virus.",
+    "example_jp": "ウイルスの拡大を抑制する必要がある。"
+  },
+  {
+    "word": "check",
+    "meaning": "小切手",
+    "example": "I will pay by check.",
+    "example_jp": "小切手で支払います。"
+  },
+  {
+    "word": "forward",
+    "meaning": "前方へ",
+    "example": "Step forward, please.",
+    "example_jp": "前へ出てください。"
+  },
+  {
+    "word": "forward",
+    "meaning": "～(手紙・メール)を転送する",
+    "example": "I'll forward the email to you.",
+    "example_jp": "そのメールをあなたに転送します。"
+  },
+  {
+    "word": "chance",
+    "meaning": "機会",
+    "example": "I had a chance to study abroad.",
+    "example_jp": "留学する機会があった。"
+  },
+  {
+    "word": "chance",
+    "meaning": "可能性、見込み",
+    "example": "There is a chance of rain tomorrow.",
+    "example_jp": "明日は雨の可能性がある。"
+  },
+  {
+    "word": "chance",
+    "meaning": "偶然",
+    "example": "We met by chance at the airport.",
+    "example_jp": "私たちは空港で偶然会った。"
+  },
+  {
+    "word": "air",
+    "meaning": "空気、空",
+    "example": "I need some fresh air.",
+    "example_jp": "新鮮な空気がほしい。"
+  },
+  {
+    "word": "air",
+    "meaning": "外見、態度、雰囲気",
+    "example": "She has an air of confidence.",
+    "example_jp": "彼女には自信に満ちた雰囲気がある。"
+  },
+  {
+    "word": "lot",
+    "meaning": "大量のもの",
+    "example": "I have a lot of work to do.",
+    "example_jp": "やるべき仕事がたくさんある。"
+  },
+  {
+    "word": "lot",
+    "meaning": "区画、用地",
+    "example": "The car is in the parking lot.",
+    "example_jp": "車は駐車場（区画）にある。"
+  },
+  {
+    "word": "lot",
+    "meaning": "分け前、宿命",
+    "example": "He was unhappy with his lot in life.",
+    "example_jp": "彼は自分の人生の宿命に不満だった。"
+  },
+  {
+    "word": "change",
+    "meaning": "～を変える、変化",
+    "example": "The weather changed suddenly.",
+    "example_jp": "天気が急に変わった。"
+  },
+  {
+    "word": "change",
+    "meaning": "釣り銭、小銭",
+    "example": "Keep the change.",
+    "example_jp": "お釣りは取っておいてください。"
+  },
+  {
+    "word": "second",
+    "meaning": "二番目の",
+    "example": "This is my second visit here.",
+    "example_jp": "ここに来るのは二度目です。"
+  },
+  {
+    "word": "second",
+    "meaning": "秒",
+    "example": "Wait for a second.",
+    "example_jp": "ちょっと（1秒）待って。"
+  },
+  {
+    "word": "second",
+    "meaning": "おかわり",
+    "example": "Can I have a second helping?",
+    "example_jp": "おかわりをいただけますか。"
+  },
+  {
+    "word": "still",
+    "meaning": "まだ、それでも",
+    "example": "I am still waiting for him.",
+    "example_jp": "私はまだ彼を待っている。"
+  },
+  {
+    "word": "still",
+    "meaning": "静止した",
+    "example": "Please stand still.",
+    "example_jp": "じっと止まっていてください。"
+  },
+  {
+    "word": "cross",
+    "meaning": "～を横切る",
+    "example": "Be careful when you cross the street.",
+    "example_jp": "道を横切る時は気をつけて。"
+  },
+  {
+    "word": "cross",
+    "meaning": "機嫌の悪い",
+    "example": "My mother was very cross with me.",
+    "example_jp": "母は私にとても怒っていた（機嫌が悪かった）。"
+  },
+  {
+    "word": "will",
+    "meaning": "意志",
+    "example": "She has a strong will to win.",
+    "example_jp": "彼女には勝ちたいという強い意志がある。"
+  },
+  {
+    "word": "will",
+    "meaning": "遺言",
+    "example": "He left everything to his son in his will.",
+    "example_jp": "彼は遺言ですべてを息子に残した。"
+  },
+  {
+    "word": "sound",
+    "meaning": "音、～のように聞こえる",
+    "example": "That sounds like a great idea.",
+    "example_jp": "それは素晴らしいアイデアのように思える。"
+  },
+  {
+    "word": "sound",
+    "meaning": "健全な",
+    "example": "He is of sound mind and body.",
+    "example_jp": "彼は心身ともに健全だ。"
+  },
+  {
+    "word": "sound",
+    "meaning": "ぐっすりと、無事に",
+    "example": "The baby is fast asleep in a sound sleep.",
+    "example_jp": "赤ちゃんはぐっすりと眠っている。"
+  },
+  {
+    "word": "fast",
+    "meaning": "速い、速く",
+    "example": "He drives too fast.",
+    "example_jp": "彼は車を出すのが速すぎる。"
+  },
+  {
+    "word": "fast",
+    "meaning": "固定した、しっかりと",
+    "example": "Hold fast to your dreams.",
+    "example_jp": "夢をしっかりと持ち続けなさい。"
+  },
+  {
+    "word": "fast",
+    "meaning": "ぐっすりと",
+    "example": "He is fast asleep.",
+    "example_jp": "彼はぐっすり眠っている。"
+  },
+  {
+    "word": "fast",
+    "meaning": "断食、断食する",
+    "example": "Some people fast for religious reasons.",
+    "example_jp": "宗教的な理由で断食する人もいる。"
+  },
+  {
+    "word": "life",
+    "meaning": "人生、生活",
+    "example": "Life is full of surprises.",
+    "example_jp": "人生は驚きに満ちている。"
+  },
+  {
+    "word": "life",
+    "meaning": "生命、人名",
+    "example": "Water is essential for life.",
+    "example_jp": "水は生命に不可欠だ。"
+  },
+  {
+    "word": "life",
+    "meaning": "実物、本物",
+    "example": "The statue looks like it's life-size.",
+    "example_jp": "その像は実物大に見える。"
+  },
+  {
+    "word": "art",
+    "meaning": "芸術、技術、人文学",
+    "example": "He is a student of modern art.",
+    "example_jp": "彼は現代芸術の学生だ。"
+  },
+  {
+    "word": "service",
+    "meaning": "奉仕、給仕、設備、勤務、礼拝、兵役",
+    "example": "The service at this restaurant is excellent.",
+    "example_jp": "このレストランの接客（サービス）は素晴らしい。"
+  },
+  {
+    "word": "order",
+    "meaning": "命令、注文",
+    "example": "I'd like to order a pizza.",
+    "example_jp": "ピザを注文したい。"
+  },
+  {
+    "word": "order",
+    "meaning": "順序、秩序",
+    "example": "Please put these files in alphabetical order.",
+    "example_jp": "これらのファイルをアルファベット順に並べてください。"
+  },
+  {
+    "word": "order",
+    "meaning": "～を命じる、注文する",
+    "example": "The judge ordered him to pay the fine.",
+    "example_jp": "裁判官は彼に罰金を支払うよう命じた。"
+  },
+  {
+    "word": "practice",
+    "meaning": "練習、実践",
+    "example": "Practice makes perfect.",
+    "example_jp": "習うより慣れろ（練習が完璧を作る）。"
+  },
+  {
+    "word": "practice",
+    "meaning": "慣習、慣行",
+    "example": "It is a common practice in this country.",
+    "example_jp": "それはこの国では一般的な慣習だ。"
+  },
+  {
+    "word": "minute",
+    "meaning": "極めて小さい、微細な",
+    "example": "He noticed a minute crack in the glass.",
+    "example_jp": "彼はガラスに極めて小さいひびがあるのに気づいた。"
+  },
+  {
+    "word": "excuse",
+    "meaning": "言い訳、理由",
+    "example": "Stop making excuses for your mistakes.",
+    "example_jp": "間違いの言い訳をするのはやめなさい。"
+  },
+  {
+    "word": "wind",
+    "meaning": "～を巻きつける、巻く",
+    "example": "Wind the clock every morning.",
+    "example_jp": "毎朝時計のネジを巻きなさい。"
+  },
+  {
+    "word": "grind",
+    "meaning": "～を挽く、すりつぶす",
+    "example": "I grind my own coffee beans.",
+    "example_jp": "私は自分でコーヒー豆を挽く。"
+  },
+  {
+    "word": "command",
+    "meaning": "命令",
+    "example": "The soldiers obeyed the command.",
+    "example_jp": "兵士たちは命令に従った。"
+  },
+  {
+    "word": "command",
+    "meaning": "言語を自由に使う能力",
+    "example": "She has a good command of English.",
+    "example_jp": "彼女は英語を自由に使いこなせる。"
+  },
+  {
+    "word": "command",
+    "meaning": "～を見晴らす",
+    "example": "The hill commands a view of the city.",
+    "example_jp": "その丘からは街が一望できる。"
+  },
+  {
+    "word": "charge",
+    "meaning": "非難する、告発する",
+    "example": "They charged him with theft.",
+    "example_jp": "彼らは彼を窃盗で告発した。"
+  },
+  {
+    "word": "charge",
+    "meaning": "料金を課す、料金",
+    "example": "How much do you charge for delivery?",
+    "example_jp": "配達料金はいくらですか。"
+  },
+  {
+    "word": "charge",
+    "meaning": "責任を課す、責任",
+    "example": "Who is in charge of this project?",
+    "example_jp": "このプロジェクトの責任者は誰ですか。"
+  },
+  {
+    "word": "charge",
+    "meaning": "～を充電する",
+    "example": "I need to charge my phone.",
+    "example_jp": "スマホを充電しなきゃ。"
+  },
+  {
+    "word": "history",
+    "meaning": "歴史、歴史学、経歴",
+    "example": "I'm interested in ancient history.",
+    "example_jp": "私は古代歴史に興味がある。"
+  },
+  {
+    "word": "dinosaur",
+    "meaning": "恐竜",
+    "example": "The T-Rex was a famous dinosaur.",
+    "example_jp": "Tレックスは有名な恐竜だった。"
+  },
+  {
+    "word": "ape",
+    "meaning": "サル、類人猿",
+    "example": "Chimpanzees are a type of ape.",
+    "example_jp": "チンパンジーは類人猿の一種だ。"
+  },
+  {
+    "word": "primate",
+    "meaning": "霊長類の動物",
+    "example": "Monkeys and humans are primates.",
+    "example_jp": "サルと人間は霊長類だ。"
+  },
+  {
+    "word": "mammal",
+    "meaning": "哺乳類",
+    "example": "Whales are mammals, not fish.",
+    "example_jp": "クジラは魚ではなく哺乳類だ。"
+  },
+  {
+    "word": "upright",
+    "meaning": "直立した、直立して",
+    "example": "Keep the bottle upright.",
+    "example_jp": "ボトルを直立させておいてください。"
+  },
+  {
+    "word": "archaeology",
+    "meaning": "考古学",
+    "example": "She is studying archaeology at university.",
+    "example_jp": "彼女は大学で考古学を学んでいる。"
+  },
+  {
+    "word": "civilization",
+    "meaning": "文明",
+    "example": "The Maya had a highly advanced civilization.",
+    "example_jp": "マヤ文明は非常に高度な文明を持っていた。"
+  },
+  {
+    "word": "civil",
+    "meaning": "市民の",
+    "example": "Civil rights are important in a democracy.",
+    "example_jp": "民主主義において市民権は重要だ。"
+  },
+  {
+    "word": "medieval",
+    "meaning": "中世の",
+    "example": "We visited a medieval castle in France.",
+    "example_jp": "私たちはフランスの中世の城を訪れた。"
+  },
+  {
+    "word": "feudal",
+    "meaning": "封建制の",
+    "example": "Japan had a feudal system in the past.",
+    "example_jp": "かつての日本には封建制があった。"
+  },
+  {
+    "word": "Renaissance",
+    "meaning": "ルネサンス",
+    "example": "Leonardo da Vinci lived during the Renaissance.",
+    "example_jp": "レオナルド・ダ・ヴィンチはルネサンス時代に生きた。"
+  },
+  {
+    "word": "revolution",
+    "meaning": "革命、改革",
+    "example": "The French Revolution changed history.",
+    "example_jp": "フランス革命は歴史を変えた。"
+  },
+  {
+    "word": "empire",
+    "meaning": "帝国",
+    "example": "The Roman Empire was very powerful.",
+    "example_jp": "ローマ帝国は非常に強力だった。"
+  },
+  {
+    "word": "imperial",
+    "meaning": "帝国の",
+    "example": "The palace has a grand imperial style.",
+    "example_jp": "その宮殿は壮大な帝国の様式をしている。"
+  },
+  {
+    "word": "colony",
+    "meaning": "植民地、集落",
+    "example": "The thirteen colonies became the USA.",
+    "example_jp": "13の植民地がアメリカ合衆国になった。"
+  },
+  {
+    "word": "slave",
+    "meaning": "奴隷、～にとらわれている人",
+    "example": "He became a slave to his own greed.",
+    "example_jp": "彼は自らの強欲にとらわれてしまった。"
+  }
+]

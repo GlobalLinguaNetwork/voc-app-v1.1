@@ -1,0 +1,392 @@
+[
+  {
+    "word": "vital",
+    "meaning": "(～にとって)非常に重要な",
+    "example": "Exercise is vital to your health.",
+    "example_jp": "運動は健康にとって非常に重要だ。"
+  },
+  {
+    "word": "vital",
+    "meaning": "生命の",
+    "example": "The patient is showing vital signs.",
+    "example_jp": "患者はバイタルサインを示している。"
+  },
+  {
+    "word": "vivid",
+    "meaning": "生き生きとした, 鮮やかな",
+    "example": "She has vivid memories of her childhood.",
+    "example_jp": "彼女は子供時代の鮮やかな記憶を持っている。"
+  },
+  {
+    "word": "revive",
+    "meaning": "～を生き返らせる, 生き返る",
+    "example": "The fresh air revived him.",
+    "example_jp": "新鮮な空気が彼を生き返らせた。"
+  },
+  {
+    "word": "essential",
+    "meaning": "(～にとって)重要な, 必要不可欠な",
+    "example": "Water is essential for life.",
+    "example_jp": "水は生命にとって必要不可欠だ。"
+  },
+  {
+    "word": "essential",
+    "meaning": "本質的な",
+    "example": "Honesty is an essential part of friendship.",
+    "example_jp": "正直さは友情の本質的な要素だ。"
+  },
+  {
+    "word": "indispensable",
+    "meaning": "(～にとって)重要な, 必要不可欠な",
+    "example": "A dictionary is indispensable for learning a language.",
+    "example_jp": "辞書は言語学習に不可欠だ。"
+  },
+  {
+    "word": "crucial",
+    "meaning": "決定的な, 極めて重要な",
+    "example": "This is a crucial moment for our company.",
+    "example_jp": "今はわが社にとって極めて重要な局面だ。"
+  },
+  {
+    "word": "significance",
+    "meaning": "重要性",
+    "example": "The discovery is of great significance.",
+    "example_jp": "その発見は非常に重要だ。"
+  },
+  {
+    "word": "consequence",
+    "meaning": "結果",
+    "example": "You have to accept the consequences.",
+    "example_jp": "あなたは結果を受け入れなければならない。"
+  },
+  {
+    "word": "consequence",
+    "meaning": "重要さ",
+    "example": "That is a matter of no consequence.",
+    "example_jp": "それは重要ではないことだ。"
+  },
+  {
+    "word": "matter",
+    "meaning": "事柄, 問題",
+    "example": "It is a private matter.",
+    "example_jp": "それは個人的な問題だ。"
+  },
+  {
+    "word": "matter",
+    "meaning": "重要である",
+    "example": "It doesn't matter what you think.",
+    "example_jp": "あなたが何を考えていようが重要ではない。"
+  },
+  {
+    "word": "count",
+    "meaning": "～を数える",
+    "example": "Count the pages in this book.",
+    "example_jp": "この本のページを数えて。"
+  },
+  {
+    "word": "count",
+    "meaning": "重要である",
+    "example": "Every vote counts in this election.",
+    "example_jp": "この選挙ではどの票も重要だ。"
+  },
+  {
+    "word": "make a difference",
+    "meaning": "重要である",
+    "example": "Your help really makes a difference.",
+    "example_jp": "あなたの助けは本当に重要だ。"
+  },
+  {
+    "word": "trivial",
+    "meaning": "ささいな, ありふれた",
+    "example": "Don't worry about trivial details.",
+    "example_jp": "ささいな詳細について心配するな。"
+  },
+  {
+    "word": "trifle",
+    "meaning": "ささいな事, くだらない事",
+    "example": "He gets angry over every little trifle.",
+    "example_jp": "彼はどんな小さなくだらない事にも怒る。"
+  },
+  {
+    "word": "common",
+    "meaning": "共通の, よくある, 一般的な, ありふれた",
+    "example": "Flu is very common in winter.",
+    "example_jp": "インフルエンザは冬によくある。"
+  },
+  {
+    "word": "ordinary",
+    "meaning": "普通の, 通常の, ありふれた",
+    "example": "It was just an ordinary day.",
+    "example_jp": "それはただの普通の1日だった。"
+  },
+  {
+    "word": "familiar",
+    "meaning": "(～に)よく知られた",
+    "example": "His name is familiar to me.",
+    "example_jp": "彼の名前は私によく知られている。"
+  },
+  {
+    "word": "familiar",
+    "meaning": "(～に)精通している",
+    "example": "I am familiar with this software.",
+    "example_jp": "私はこのソフトに精通している。"
+  },
+  {
+    "word": "familiar",
+    "meaning": "親しい",
+    "example": "Don't be too familiar with strangers.",
+    "example_jp": "見知らぬ人にあまり親しくしすぎるな。"
+  },
+  {
+    "word": "emphasize",
+    "meaning": "～を強調する",
+    "example": "He emphasized the importance of safety.",
+    "example_jp": "彼は安全の重要性を強調した。"
+  },
+  {
+    "word": "stress",
+    "meaning": "～を強調する",
+    "example": "She stressed the need for action.",
+    "example_jp": "彼女は行動の必要性を強調した。"
+  },
+  {
+    "word": "stress",
+    "meaning": "ストレス, 重点, 強調",
+    "example": "I am under a lot of stress.",
+    "example_jp": "私は大きなストレスを感じている。"
+  },
+  {
+    "word": "neglect",
+    "meaning": "～を(うっかり)怠る, ～を無視する",
+    "example": "He neglected his duties.",
+    "example_jp": "彼は自分の義務を怠った。"
+  },
+  {
+    "word": "ignore",
+    "meaning": "～を無視する, ～を知らないふりをする",
+    "example": "She ignored his advice.",
+    "example_jp": "彼女は彼のアドバイスを無視した。"
+  },
+  {
+    "word": "eminent",
+    "meaning": "著名な",
+    "example": "He is an eminent scientist.",
+    "example_jp": "彼は著名な科学者だ。"
+  },
+  {
+    "word": "prominent",
+    "meaning": "目立った",
+    "example": "She has a prominent nose.",
+    "example_jp": "彼女は目立った鼻をしている。"
+  },
+  {
+    "word": "prominent",
+    "meaning": "有名な",
+    "example": "He is a prominent figure in politics.",
+    "example_jp": "彼は政界の有名な人物だ。"
+  },
+  {
+    "word": "primary",
+    "meaning": "第1の, 主要な",
+    "example": "Safety is our primary concern.",
+    "example_jp": "安全が我々の主要な関心事だ。"
+  },
+  {
+    "word": "tiny",
+    "meaning": "ちっぽけな",
+    "example": "The kitchen is tiny.",
+    "example_jp": "そのキッチンはちっぽけだ。"
+  },
+  {
+    "word": "slight",
+    "meaning": "わずかな, 取るに足らない",
+    "example": "There was a slight change in the plan.",
+    "example_jp": "計画にわずかな変更があった。"
+  },
+  {
+    "word": "character",
+    "meaning": "性格, 人格, 特徴, 登場人物, 文字",
+    "example": "She has a strong character.",
+    "example_jp": "彼女は強い性格を持っている。"
+  },
+  {
+    "word": "feature",
+    "meaning": "(目立った)特徴, 顔立ち",
+    "example": "A key feature of this car is speed.",
+    "example_jp": "この車の重要な特徴はスピードだ。"
+  },
+  {
+    "word": "feature",
+    "meaning": "～を特集する, 呼び物にする",
+    "example": "The magazine featured a new actor.",
+    "example_jp": "その雑誌は新人俳優を特集した。"
+  },
+  {
+    "word": "trait",
+    "meaning": "特徴, 特色",
+    "example": "Honesty is his best trait.",
+    "example_jp": "正直さは彼の最も良い特徴だ。"
+  },
+  {
+    "word": "typical",
+    "meaning": "典型的な, (～)らしい",
+    "example": "It was a typical summer day.",
+    "example_jp": "典型的な夏の日だった。"
+  },
+  {
+    "word": "unique",
+    "meaning": "(～に)特有の, 独自の",
+    "example": "Every person has a unique voice.",
+    "example_jp": "誰にも独自の声がある。"
+  },
+  {
+    "word": "unique",
+    "meaning": "唯一の",
+    "example": "This is a unique opportunity.",
+    "example_jp": "これは唯一の機会だ。"
+  },
+  {
+    "word": "peculiar",
+    "meaning": "(～に)特有の",
+    "example": "This smell is peculiar to this area.",
+    "example_jp": "この匂いはこの地域特有のものだ。"
+  },
+  {
+    "word": "peculiar",
+    "meaning": "風変わりな",
+    "example": "He has a peculiar way of walking.",
+    "example_jp": "彼は歩き方が風変わりだ。"
+  },
+  {
+    "word": "particular",
+    "meaning": "特定の, 特別の",
+    "example": "Is there any particular reason?",
+    "example_jp": "何か特別な理由があるのですか。"
+  },
+  {
+    "word": "general",
+    "meaning": "全般的な, 一般的な",
+    "example": "This is for general use.",
+    "example_jp": "これは一般用だ。"
+  },
+  {
+    "word": "specify",
+    "meaning": "～を特定する",
+    "example": "Please specify the date and time.",
+    "example_jp": "日時を特定してください。"
+  },
+  {
+    "word": "distinguish",
+    "meaning": "～を(…と)区別する, 見分ける",
+    "example": "It's hard to distinguish fact from fiction.",
+    "example_jp": "事実とフィクションを区別するのは難しい。"
+  },
+  {
+    "word": "define",
+    "meaning": "～を定義する, 明確にする",
+    "example": "How do you define success?",
+    "example_jp": "成功をどのように定義しますか。"
+  },
+  {
+    "word": "vague",
+    "meaning": "曖昧な, 漠然とした",
+    "example": "I have a vague idea of what happened.",
+    "example_jp": "何が起きたのか漠然とした考えはある。"
+  },
+  {
+    "word": "obscure",
+    "meaning": "不明瞭な, ぼやけた",
+    "example": "The meaning of the text is obscure.",
+    "example_jp": "その文章の意味は不明瞭だ。"
+  },
+  {
+    "word": "obscure",
+    "meaning": "世に知られていない",
+    "example": "He was an obscure writer.",
+    "example_jp": "彼は無名の作家だった。"
+  },
+  {
+    "word": "ambiguous",
+    "meaning": "曖昧な, どちらともとれる",
+    "example": "His answer was ambiguous.",
+    "example_jp": "彼の答えは曖昧だった。"
+  },
+  {
+    "word": "obvious",
+    "meaning": "明白な",
+    "example": "It is obvious that he is lying.",
+    "example_jp": "彼が嘘をついているのは明白だ。"
+  },
+  {
+    "word": "evident",
+    "meaning": "明白な",
+    "example": "Her happiness was evident.",
+    "example_jp": "彼女の幸福感は明白だった。"
+  },
+  {
+    "word": "apparent",
+    "meaning": "見たところの, 明白な",
+    "example": "It became apparent that we were lost.",
+    "example_jp": "私たちが迷子になったことは明らかになった。"
+  },
+  {
+    "word": "respect",
+    "meaning": "尊敬, 尊重",
+    "example": "I have great respect for him.",
+    "example_jp": "私は彼をとても尊敬している。"
+  },
+  {
+    "word": "respect",
+    "meaning": "(in)点, 事項",
+    "example": "In this respect, you are right.",
+    "example_jp": "この点において、あなたは正しい。"
+  },
+  {
+    "word": "respect",
+    "meaning": "～を尊敬する, 尊重する",
+    "example": "We should respect each other.",
+    "example_jp": "私たちはお互いを尊重すべきだ。"
+  },
+  {
+    "word": "aspect",
+    "meaning": "(in)側面, 様相, 点",
+    "example": "This is a complex aspect of the problem.",
+    "example_jp": "これは問題の複雑な側面だ。"
+  },
+  {
+    "word": "detail",
+    "meaning": "(in)詳細",
+    "example": "Please explain in detail.",
+    "example_jp": "詳細に説明してください。"
+  },
+  {
+    "word": "precise",
+    "meaning": "正確な",
+    "example": "I need a precise measurement.",
+    "example_jp": "正確な測定が必要だ。"
+  },
+  {
+    "word": "accurate",
+    "meaning": "正確な",
+    "example": "The report is accurate.",
+    "example_jp": "その報告書は正確だ。"
+  },
+  {
+    "word": "structure",
+    "meaning": "構造, 構成, 骨格",
+    "example": "The structure of the building is strong.",
+    "example_jp": "その建物の構造は頑丈だ。"
+  },
+  {
+    "word": "construct",
+    "meaning": "～を建設する, 組み立てる",
+    "example": "They will construct a new bridge.",
+    "example_jp": "彼らは新しい橋を建設するだろう。"
+  },
+  {
+    "word": "destroy",
+    "meaning": "～を破壊する, 滅ぼす",
+    "example": "The fire destroyed the house.",
+    "example_jp": "火災がその家を破壊した。"
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "word": "Give me a break.",
+    "meaning": "よしてくれ",
+    "example": "Give me a break! I'm doing my best.",
+    "example_jp": "よしてくれよ！最善を尽くしてるんだ。"
+  },
+  {
+    "word": "call it a day",
+    "meaning": "今日はもう終わり",
+    "example": "I'm tired, so let's call it a day.",
+    "example_jp": "疲れたから、今日はもう終わりにしよう。"
+  },
+  {
+    "word": "mental",
+    "meaning": "精神の、心の",
+    "example": "Stress can affect your mental health.",
+    "example_jp": "ストレスは心の健康に影響を与える。"
+  },
+  {
+    "word": "spirit",
+    "meaning": "精神(力)",
+    "example": "Her team spirit is amazing.",
+    "example_jp": "彼女のチーム精神は素晴らしい。"
+  },
+  {
+    "word": "spirit",
+    "meaning": "気分",
+    "example": "I'm not in the spirit for a party today.",
+    "example_jp": "今日はパーティーに行く気分ではない。"
+  },
+  {
+    "word": "spirit",
+    "meaning": "霊魂",
+    "example": "Do you believe in spirits?",
+    "example_jp": "霊魂を信じますか。"
+  },
+  {
+    "word": "soul",
+    "meaning": "魂、精神",
+    "example": "Music touches the soul.",
+    "example_jp": "音楽は魂に触れる。"
+  },
+  {
+    "word": "soul",
+    "meaning": "人",
+    "example": "There wasn't a soul in the street.",
+    "example_jp": "通りには人っ子一人いなかった。"
+  },
+  {
+    "word": "material",
+    "meaning": "素材、原料",
+    "example": "What material is this shirt made of?",
+    "example_jp": "このシャツの素材は何ですか。"
+  },
+  {
+    "word": "material",
+    "meaning": "題材、教材",
+    "example": "I need more material for my presentation.",
+    "example_jp": "プレゼンのための題材がもっと必要だ。"
+  },
+  {
+    "word": "material",
+    "meaning": "物質的な",
+    "example": "Money cannot buy material happiness.",
+    "example_jp": "お金で物質的な幸せは買えない。"
+  },
+  {
+    "word": "sane",
+    "meaning": "正気の",
+    "example": "He is the only sane person here.",
+    "example_jp": "ここで正気なのは彼だけだ。"
+  },
+  {
+    "word": "abuse",
+    "meaning": "乱用、虐待",
+    "example": "Drug abuse is a serious problem.",
+    "example_jp": "薬物乱用は深刻な問題だ。"
+  },
+  {
+    "word": "abuse",
+    "meaning": "～を乱用する、虐待する",
+    "example": "Don't abuse your power.",
+    "example_jp": "権力を乱用してはいけない。"
+  },
+  {
+    "word": "addict",
+    "meaning": "～を中毒にさせる",
+    "example": "This game is designed to addict players.",
+    "example_jp": "このゲームはプレイヤーを中毒にさせるように設計されている。"
+  },
+  {
+    "word": "addict",
+    "meaning": "麻薬中毒者",
+    "example": "He is a recovering drug addict.",
+    "example_jp": "彼は回復途中の薬物中毒者だ。"
+  },
+  {
+    "word": "injure",
+    "meaning": "～に怪我をさせる",
+    "example": "Be careful not to injure yourself.",
+    "example_jp": "怪我をしないように気をつけて。"
+  },
+  {
+    "word": "wound",
+    "meaning": "～を負傷させる",
+    "example": "The soldier was seriously wounded.",
+    "example_jp": "その兵士はひどく負傷した。"
+  },
+  {
+    "word": "bleed",
+    "meaning": "出血する",
+    "example": "Your finger is bleeding.",
+    "example_jp": "指から血が出ているよ。"
+  },
+  {
+    "word": "scratch",
+    "meaning": "引っかき傷、かすり傷",
+    "example": "It's just a small scratch.",
+    "example_jp": "ただのかすり傷です。"
+  },
+  {
+    "word": "scratch",
+    "meaning": "～を引っかく",
+    "example": "The cat scratched my arm.",
+    "example_jp": "猫が私の腕を引っかいた。"
+  },
+  {
+    "word": "bruise",
+    "meaning": "あざ、打撲傷",
+    "example": "I have a big bruise on my leg.",
+    "example_jp": "脚に大きなあざがある。"
+  },
+  {
+    "word": "bruise",
+    "meaning": "～に打撲を負わせる",
+    "example": "The fall bruised his hip.",
+    "example_jp": "転倒して腰に打撲を負った。"
+  },
+  {
+    "word": "suffer",
+    "meaning": "（～で）苦しむ、悩む",
+    "example": "Many people suffer from allergies.",
+    "example_jp": "多くの人がアレルギーに悩んでいる。"
+  },
+  {
+    "word": "torture",
+    "meaning": "拷問",
+    "example": "The prisoner was subjected to torture.",
+    "example_jp": "囚人は拷問を受けた。"
+  },
+  {
+    "word": "torture",
+    "meaning": "～を拷問する、ひどく苦しめる",
+    "example": "Waiting for the results was pure torture.",
+    "example_jp": "結果を待つのは本当に苦痛だった。"
+  },
+  {
+    "word": "torment",
+    "meaning": "苦痛",
+    "example": "The memory was a constant torment.",
+    "example_jp": "その記憶は絶え間ない苦痛だった。"
+  },
+  {
+    "word": "torment",
+    "meaning": "～を苦しめる",
+    "example": "Guilt continued to torment him.",
+    "example_jp": "罪悪感が彼を苦しめ続けた。"
+  },
+  {
+    "word": "vigor",
+    "meaning": "活力",
+    "example": "He tackled the task with vigor.",
+    "example_jp": "彼は活力を持ってその課題に取り組んだ。"
+  },
+  {
+    "word": "feeble",
+    "meaning": "弱々しい",
+    "example": "The old man's voice was feeble.",
+    "example_jp": "老人の声は弱々しかった。"
+  },
+  {
+    "word": "pale",
+    "meaning": "青白い、血色が悪い",
+    "example": "You look pale. Are you okay?",
+    "example_jp": "顔色が悪いよ。大丈夫？"
+  },
+  {
+    "word": "pale",
+    "meaning": "淡い",
+    "example": "She wore a pale blue dress.",
+    "example_jp": "彼女は淡い青色のドレスを着ていた。"
+  },
+  {
+    "word": "fatigue",
+    "meaning": "疲労",
+    "example": "Driver fatigue can cause accidents.",
+    "example_jp": "運転手の疲労は事故の原因となる。"
+  },
+  {
+    "word": "weary",
+    "meaning": "疲れている、飽き飽きしている",
+    "example": "I am weary of these constant arguments.",
+    "example_jp": "絶え間ない言い争いには飽き飽きしている。"
+  },
+  {
+    "word": "tedious",
+    "meaning": "退屈な",
+    "example": "Data entry is a tedious job.",
+    "example_jp": "データ入力は退屈な仕事だ。"
+  },
+  {
+    "word": "dreary",
+    "meaning": "退屈な、ものわびしい",
+    "example": "It was a dreary winter afternoon.",
+    "example_jp": "どんよりとした冬の午後だった。"
+  },
+  {
+    "word": "thumb",
+    "meaning": "親指",
+    "example": "I hurt my thumb.",
+    "example_jp": "親指を痛めた。"
+  },
+  {
+    "word": "palm",
+    "meaning": "手のひら",
+    "example": "He held the coin in his palm.",
+    "example_jp": "彼は手のひらにコインを乗せていた。"
+  },
+  {
+    "word": "wrist",
+    "meaning": "手首",
+    "example": "She wears a watch on her left wrist.",
+    "example_jp": "彼女は左手首に時計をつけている。"
+  },
+  {
+    "word": "fist",
+    "meaning": "握りこぶし",
+    "example": "He clenched his fist in anger.",
+    "example_jp": "彼は怒りで拳を握りしめた。"
+  },
+  {
+    "word": "elbow",
+    "meaning": "ひじ",
+    "example": "I leaned my elbow on the table.",
+    "example_jp": "テーブルにひじをついた。"
+  },
+  {
+    "word": "muscle",
+    "meaning": "筋肉",
+    "example": "He has strong muscles.",
+    "example_jp": "彼は筋肉がしっかりしている。"
+  },
+  {
+    "word": "thigh",
+    "meaning": "大股",
+    "example": "She felt a pain in her right thigh.",
+    "example_jp": "彼女は右太ももに痛みを感じた。"
+  },
+  {
+    "word": "knee",
+    "meaning": "膝",
+    "example": "He fell on his knees.",
+    "example_jp": "彼は膝をついて倒れた。"
+  },
+  {
+    "word": "heel",
+    "meaning": "かかと",
+    "example": "My heels are sore from walking.",
+    "example_jp": "歩きすぎてかかとが痛い。"
+  },
+  {
+    "word": "ankle",
+    "meaning": "足首",
+    "example": "I sprained my ankle.",
+    "example_jp": "足首を捻挫した。"
+  },
+  {
+    "word": "toe",
+    "meaning": "足の指、つま先",
+    "example": "I stubbed my toe on the chair.",
+    "example_jp": "椅子に足の指をぶつけた。"
+  },
+  {
+    "word": "to one's feet",
+    "meaning": "立って、立った状態で",
+    "example": "The audience rose to their feet.",
+    "example_jp": "観客が総立ちになった。"
+  },
+  {
+    "word": "chest",
+    "meaning": "胸",
+    "example": "I feel a tightness in my chest.",
+    "example_jp": "胸が締め付けられる感じがする。"
+  },
+  {
+    "word": "chest",
+    "meaning": "タンス",
+    "example": "He kept his letters in a wooden chest.",
+    "example_jp": "彼は手紙を木製のタンスにしまっていた。"
+  },
+  {
+    "word": "limb",
+    "meaning": "手足、四肢",
+    "example": "The accident left him with a damaged limb.",
+    "example_jp": "事故で彼は手足を傷つけた。"
+  },
+  {
+    "word": "forehead",
+    "meaning": "ひたい",
+    "example": "She wiped the sweat from her forehead.",
+    "example_jp": "彼女は額の汗を拭った。"
+  },
+  {
+    "word": "eyebrow",
+    "meaning": "眉毛",
+    "example": "He raised an eyebrow in surprise.",
+    "example_jp": "彼は驚いて眉を上げた。"
+  },
+  {
+    "word": "eyelid",
+    "meaning": "まぶた",
+    "example": "My eyelids are heavy from sleepiness.",
+    "example_jp": "眠気でまぶたが重い。"
+  },
+  {
+    "word": "eyelash",
+    "meaning": "まつげ",
+    "example": "An eyelash got into my eye.",
+    "example_jp": "まつげが目に入った。"
+  },
+  {
+    "word": "beard",
+    "meaning": "あごひげ",
+    "example": "He decided to grow a beard.",
+    "example_jp": "彼はあごひげを伸ばすことにした。"
+  },
+  {
+    "word": "jaw",
+    "meaning": "あご",
+    "example": "He clenched his jaw in frustration.",
+    "example_jp": "彼は悔しさであごに力を入れた。"
+  },
+  {
+    "word": "chin",
+    "meaning": "あご(の先端)",
+    "example": "She rested her chin on her hand.",
+    "example_jp": "彼女は手にあごを乗せた。"
+  },
+  {
+    "word": "cheek",
+    "meaning": "頬",
+    "example": "The baby has chubby cheeks.",
+    "example_jp": "その赤ちゃんはほっぺがぷっくりしている。"
+  },
+  {
+    "word": "tremble",
+    "meaning": "震える、震動する",
+    "example": "Her voice began to tremble.",
+    "example_jp": "彼女の声が震え始めた。"
+  },
+  {
+    "word": "shiver",
+    "meaning": "(寒さで)震える",
+    "example": "I shivered in the cold wind.",
+    "example_jp": "冷たい風に震えた。"
+  },
+  {
+    "word": "wander",
+    "meaning": "さまよう、歩き回る",
+    "example": "I spent the day wandering through the city.",
+    "example_jp": "一日中街をさまよって過ごした。"
+  },
+  {
+    "word": "roam",
+    "meaning": "歩き回る、徘徊する",
+    "example": "Wild animals roam the forest.",
+    "example_jp": "野生動物が森を歩き回っている。"
+  }
+]

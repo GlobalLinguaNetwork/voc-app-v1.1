@@ -1,0 +1,350 @@
+[
+  {
+    "word": "absurd",
+    "meaning": "ばかげた、理に適わない",
+    "example": "That is an absurd idea.",
+    "example_jp": "それはばかげた考えだ。"
+  },
+  {
+    "word": "ridiculous",
+    "meaning": "ばかばかしい",
+    "example": "The price is ridiculous.",
+    "example_jp": "値段がばかばかしいほど高い。"
+  },
+  {
+    "word": "fragile",
+    "meaning": "壊れやすい、もろい",
+    "example": "Be careful, the glass is fragile.",
+    "example_jp": "気をつけて、そのガラスは壊れやすい。"
+  },
+  {
+    "word": "vulnerable",
+    "meaning": "傷つきやすい、弱い",
+    "example": "Old people are more vulnerable to the flu.",
+    "example_jp": "高齢者はインフルエンザにかかりやすい。"
+  },
+  {
+    "word": "delicate",
+    "meaning": "繊細な、微細な、優美な",
+    "example": "This fabric is very delicate.",
+    "example_jp": "この生地はとても繊細だ。"
+  },
+  {
+    "word": "delicate",
+    "meaning": "臆病な",
+    "example": "He has a delicate nature.",
+    "example_jp": "彼は臆病な性質を持っている。"
+  },
+  {
+    "word": "stiff",
+    "meaning": "堅い、凝っている",
+    "example": "My neck is stiff from sleeping.",
+    "example_jp": "寝違えて首が凝っている。"
+  },
+  {
+    "word": "stiff",
+    "meaning": "堅苦しい",
+    "example": "The conversation was a bit stiff.",
+    "example_jp": "会話が少し堅苦しかった。"
+  },
+  {
+    "word": "rigid",
+    "meaning": "堅い",
+    "example": "The plastic became rigid in the cold.",
+    "example_jp": "寒さでプラスチックが硬くなった。"
+  },
+  {
+    "word": "rigid",
+    "meaning": "厳格な、融通が利かない",
+    "example": "The rules are too rigid.",
+    "example_jp": "ルールが厳格すぎる。"
+  },
+  {
+    "word": "flexible",
+    "meaning": "曲がりやすい、柔軟性のある",
+    "example": "Rubber is a flexible material.",
+    "example_jp": "ゴムは柔軟性のある素材だ。"
+  },
+  {
+    "word": "arrogant",
+    "meaning": "傲慢な",
+    "example": "I can't stand arrogant people.",
+    "example_jp": "傲慢な人は我慢できない。"
+  },
+  {
+    "word": "humble",
+    "meaning": "謙虚な、つつましい",
+    "example": "He is humble about his success.",
+    "example_jp": "彼は自分の成功に対して謙虚だ。"
+  },
+  {
+    "word": "humble",
+    "meaning": "質素な",
+    "example": "They live in a humble cottage.",
+    "example_jp": "彼らは質素な小屋に住んでいる。"
+  },
+  {
+    "word": "stubborn",
+    "meaning": "頑固な",
+    "example": "He is too stubborn to admit he's wrong.",
+    "example_jp": "彼は頑固すぎて間違いを認めない。"
+  },
+  {
+    "word": "obstinate",
+    "meaning": "頑固な",
+    "example": "The child remained obstinate.",
+    "example_jp": "その子は頑固なままでいた。"
+  },
+  {
+    "word": "fierce",
+    "meaning": "激しい",
+    "example": "There is fierce competition in the market.",
+    "example_jp": "市場では激しい競争がある。"
+  },
+  {
+    "word": "harsh",
+    "meaning": "厳しい",
+    "example": "The winter weather is very harsh.",
+    "example_jp": "冬の気候は非常に厳しい。"
+  },
+  {
+    "word": "stern",
+    "meaning": "厳格な、険しい",
+    "example": "The teacher gave him a stern look.",
+    "example_jp": "先生は彼に厳しい視線を向けた。"
+  },
+  {
+    "word": "brave",
+    "meaning": "勇敢な",
+    "example": "It was brave of her to speak out.",
+    "example_jp": "声を上げた彼女は勇敢だった。"
+  },
+  {
+    "word": "bold",
+    "meaning": "大胆な",
+    "example": "That was a bold move.",
+    "example_jp": "それは大胆な行動だった。"
+  },
+  {
+    "word": "timid",
+    "meaning": "臆病な",
+    "example": "She is too timid to ask questions.",
+    "example_jp": "彼女は臆病すぎて質問ができない。"
+  },
+  {
+    "word": "deliberate",
+    "meaning": "意図的な、故意の",
+    "example": "It was a deliberate lie.",
+    "example_jp": "それは意図的な嘘だった。"
+  },
+  {
+    "word": "deliberate",
+    "meaning": "慎重な",
+    "example": "He spoke in a deliberate manner.",
+    "example_jp": "彼は慎重な話し方をしていた。"
+  },
+  {
+    "word": "discreet",
+    "meaning": "慎重な",
+    "example": "Please be discreet about this matter.",
+    "example_jp": "この件については慎重にお願いします。"
+  },
+  {
+    "word": "prudent",
+    "meaning": "慎重な",
+    "example": "It is prudent to save money.",
+    "example_jp": "貯金しておくことは賢明（慎重）だ。"
+  },
+  {
+    "word": "subtle",
+    "meaning": "微妙な、かすかな",
+    "example": "There is a subtle difference between them.",
+    "example_jp": "それらの間には微妙な違いがある。"
+  },
+  {
+    "word": "drastic",
+    "meaning": "劇的な、徹底的な",
+    "example": "We need to take drastic measures.",
+    "example_jp": "徹底的な対策を講じる必要がある。"
+  },
+  {
+    "word": "integral",
+    "meaning": "必要不可欠な",
+    "example": "Trust is integral to any relationship.",
+    "example_jp": "信頼はあらゆる関係において不可欠だ。"
+  },
+  {
+    "word": "integral",
+    "meaning": "完全な",
+    "example": "The team is now an integral unit.",
+    "example_jp": "チームは今や完全な一つの単位となっている。"
+  },
+  {
+    "word": "decent",
+    "meaning": "まともな、きちんとした、上品な",
+    "example": "I just want a decent job.",
+    "example_jp": "ただまともな仕事が欲しいだけだ。"
+  },
+  {
+    "word": "neat",
+    "meaning": "こぎれいな、すばらしい",
+    "example": "Your room is always so neat.",
+    "example_jp": "あなたの部屋はいつもとてもこぎれいだ。"
+  },
+  {
+    "word": "tidy",
+    "meaning": "きちんとした、こぎれいな",
+    "example": "Please keep your desk tidy.",
+    "example_jp": "机の上をきちんとしておいてください。"
+  },
+  {
+    "word": "crude",
+    "meaning": "生の、天然の",
+    "example": "Crude oil is processed into gasoline.",
+    "example_jp": "原油は精製されてガソリンになる。"
+  },
+  {
+    "word": "crude",
+    "meaning": "粗野な",
+    "example": "His manners were rather crude.",
+    "example_jp": "彼の態度はかなり粗野だった。"
+  },
+  {
+    "word": "valid",
+    "meaning": "有効な、正当な",
+    "example": "Your passport is still valid.",
+    "example_jp": "あなたのパスポートはまだ有効だ。"
+  },
+  {
+    "word": "initiative",
+    "meaning": "主導権、率先",
+    "example": "You should take the initiative.",
+    "example_jp": "主導権を握るべきだ。"
+  },
+  {
+    "word": "security",
+    "meaning": "安全性",
+    "example": "We need to improve airport security.",
+    "example_jp": "空港の安全性を高める必要がある。"
+  },
+  {
+    "word": "merit",
+    "meaning": "長所、利点",
+    "example": "This plan has several merits.",
+    "example_jp": "この計画にはいくつかの利点がある。"
+  },
+  {
+    "word": "access",
+    "meaning": "交通の便、入手、利用",
+    "example": "The hotel has easy access to the station.",
+    "example_jp": "そのホテルは駅へのアクセスが良い。"
+  },
+  {
+    "word": "technique",
+    "meaning": "(専門的な)技術",
+    "example": "She has a great painting technique.",
+    "example_jp": "彼女は素晴らしい絵画技術を持っている。"
+  },
+  {
+    "word": "horror",
+    "meaning": "恐怖",
+    "example": "She screamed in horror.",
+    "example_jp": "彼女は恐怖で悲鳴を上げた。"
+  },
+  {
+    "word": "terror",
+    "meaning": "恐怖",
+    "example": "The children were filled with terror.",
+    "example_jp": "子供たちは恐怖に満ちていた。"
+  },
+  {
+    "word": "symbol",
+    "meaning": "象徴",
+    "example": "The dove is a symbol of peace.",
+    "example_jp": "鳩は平和の象徴だ。"
+  },
+  {
+    "word": "barrier",
+    "meaning": "障壁、障害",
+    "example": "Language can be a barrier to communication.",
+    "example_jp": "言葉がコミュニケーションの障壁になることがある。"
+  },
+  {
+    "word": "gap",
+    "meaning": "隔たり、差",
+    "example": "There is a huge gap between the rich and poor.",
+    "example_jp": "貧富の差が非常に激しい。"
+  },
+  {
+    "word": "dilemma",
+    "meaning": "ジレンマ、板挟み、難題",
+    "example": "I am in a difficult dilemma.",
+    "example_jp": "私は困難なジレンマに陥っている。"
+  },
+  {
+    "word": "stretch",
+    "meaning": "～を伸ばす、伸びる、広がる",
+    "example": "It's important to stretch before exercise.",
+    "example_jp": "運動前にストレッチをすることが重要だ。"
+  },
+  {
+    "word": "elite",
+    "meaning": "エリート、精鋭",
+    "example": "Only the elite are selected for the team.",
+    "example_jp": "選ばれた精鋭だけがチームに入る。"
+  },
+  {
+    "word": "elite",
+    "meaning": "エリートの",
+    "example": "He attended an elite university.",
+    "example_jp": "彼はエリート大学に通った。"
+  },
+  {
+    "word": "series",
+    "meaning": "連続",
+    "example": "I'm watching a new TV series.",
+    "example_jp": "新しいテレビシリーズを見ている。"
+  },
+  {
+    "word": "serial",
+    "meaning": "連続した",
+    "example": "It was a serial publication.",
+    "example_jp": "それは連続出版物だった。"
+  },
+  {
+    "word": "cereal",
+    "meaning": "穀物、穀物加工食品",
+    "example": "I have cereal for breakfast.",
+    "example_jp": "朝食にシリアルを食べる。"
+  },
+  {
+    "word": "irregular",
+    "meaning": "不規則な",
+    "example": "He has an irregular heartbeat.",
+    "example_jp": "彼は心拍が不規則だ。"
+  },
+  {
+    "word": "item",
+    "meaning": "品目、項目",
+    "example": "This item is on sale.",
+    "example_jp": "この品目はセール中だ。"
+  },
+  {
+    "word": "relax",
+    "meaning": "～をくつろがせる、くつろぐ",
+    "example": "I like to relax with a book.",
+    "example_jp": "本を読んでくつろぐのが好きだ。"
+  },
+  {
+    "word": "mood",
+    "meaning": "気分、雰囲気",
+    "example": "I'm not in the mood for studying.",
+    "example_jp": "今は勉強する気分ではない。"
+  },
+  {
+    "word": "tight",
+    "meaning": "きつい",
+    "example": "These shoes are too tight.",
+    "example_jp": "この靴はきつすぎる。"
+  }
+]

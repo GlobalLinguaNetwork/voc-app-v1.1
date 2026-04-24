@@ -1,0 +1,374 @@
+[
+  {
+    "word": "cough",
+    "meaning": "咳をする",
+    "example": "I coughed because of the smoke.",
+    "example_jp": "煙のせいで咳をした。"
+  },
+  {
+    "word": "cough",
+    "meaning": "咳",
+    "example": "Her cough is getting worse.",
+    "example_jp": "彼女の咳が悪化している。"
+  },
+  {
+    "word": "fever",
+    "meaning": "熱",
+    "example": "I have a high fever today.",
+    "example_jp": "今日は熱が高い。"
+  },
+  {
+    "word": "paralyze",
+    "meaning": "～麻痺させる",
+    "example": "The accident paralyzed his legs.",
+    "example_jp": "その事故で彼は両足が麻痺した。"
+  },
+  {
+    "word": "patient",
+    "meaning": "患者",
+    "example": "The doctor examined the patient.",
+    "example_jp": "医師が患者を診察した。"
+  },
+  {
+    "word": "patient",
+    "meaning": "我慢強い",
+    "example": "You need to be patient with children.",
+    "example_jp": "子供に対しては我慢強くなる必要がある。"
+  },
+  {
+    "word": "ambulance",
+    "meaning": "救急車",
+    "example": "Call an ambulance immediately.",
+    "example_jp": "すぐに救急車を呼んで。"
+  },
+  {
+    "word": "diagnose",
+    "meaning": "～を診断する",
+    "example": "The doctor diagnosed her with the flu.",
+    "example_jp": "医師は彼女をインフルエンザと診断した。"
+  },
+  {
+    "word": "cure",
+    "meaning": "～(病気)を直す、治療する",
+    "example": "This medicine can cure the disease.",
+    "example_jp": "この薬はその病気を治せる。"
+  },
+  {
+    "word": "cure",
+    "meaning": "治療法",
+    "example": "Scientists are looking for a cure.",
+    "example_jp": "科学者たちは治療法を探している。"
+  },
+  {
+    "word": "heal",
+    "meaning": "～(けが)を治す； (傷が)治る",
+    "example": "The cut on my hand is starting to heal.",
+    "example_jp": "手の切り傷が治り始めている。"
+  },
+  {
+    "word": "treat",
+    "meaning": "～を扱う、に接する",
+    "example": "She treats everyone with kindness.",
+    "example_jp": "彼女は誰に対しても親切に接する。"
+  },
+  {
+    "word": "treat",
+    "meaning": "～を治療する",
+    "example": "They treated the injury with ice.",
+    "example_jp": "彼らはその怪我を氷で手当てした。"
+  },
+  {
+    "word": "treat",
+    "meaning": "～に(…を)おごる(to …)",
+    "example": "I will treat you to lunch.",
+    "example_jp": "ランチをおごるよ。"
+  },
+  {
+    "word": "recover",
+    "meaning": "(～から)回復する(from～)",
+    "example": "He is recovering from a cold.",
+    "example_jp": "彼は風邪から回復しつつある。"
+  },
+  {
+    "word": "recover",
+    "meaning": "～を取り戻す",
+    "example": "They recovered the stolen money.",
+    "example_jp": "彼らは盗まれた金を取り戻した。"
+  },
+  {
+    "word": "operate",
+    "meaning": "作動・作用する",
+    "example": "This machine operates quietly.",
+    "example_jp": "この機械は静かに作動する。"
+  },
+  {
+    "word": "operate",
+    "meaning": "(～に)手術する(on～)",
+    "example": "The surgeon operated on him yesterday.",
+    "example_jp": "外科医は昨日、彼に手術を行った。"
+  },
+  {
+    "word": "operate",
+    "meaning": "～を操作する",
+    "example": "He knows how to operate the crane.",
+    "example_jp": "彼はクレーンの操作方法を知っている。"
+  },
+  {
+    "word": "go through",
+    "meaning": "～を経験する",
+    "example": "She has gone through a lot of trouble.",
+    "example_jp": "彼女は多くの困難を経験してきた。"
+  },
+  {
+    "word": "cancer",
+    "meaning": "癌",
+    "example": "He is fighting against cancer.",
+    "example_jp": "彼は癌と闘っている。"
+  },
+  {
+    "word": "tumor",
+    "meaning": "腫瘍",
+    "example": "The scan showed a small tumor.",
+    "example_jp": "スキャンで小さな腫瘍が見つかった。"
+  },
+  {
+    "word": "diabetes",
+    "meaning": "糖尿病",
+    "example": "She is managing her diabetes.",
+    "example_jp": "彼女は糖尿病を管理している。"
+  },
+  {
+    "word": "stroke",
+    "meaning": "脳卒中",
+    "example": "He suffered a stroke last year.",
+    "example_jp": "彼は昨年、脳卒中を患った。"
+  },
+  {
+    "word": "virus",
+    "meaning": "ウイルス",
+    "example": "The virus spreads quickly.",
+    "example_jp": "そのウイルスは急速に広まる。"
+  },
+  {
+    "word": "germ",
+    "meaning": "ばい菌、細菌",
+    "example": "Wash your hands to kill germs.",
+    "example_jp": "ばい菌を殺すために手を洗おう。"
+  },
+  {
+    "word": "infect",
+    "meaning": "～に感染させる",
+    "example": "The flu can infect many people.",
+    "example_jp": "インフルエンザは多くの人に感染しうる。"
+  },
+  {
+    "word": "epidemic",
+    "meaning": "伝染病",
+    "example": "The government is trying to stop the epidemic.",
+    "example_jp": "政府はその伝染病を止めようとしている。"
+  },
+  {
+    "word": "plague",
+    "meaning": "疫病",
+    "example": "The plague killed many people in the past.",
+    "example_jp": "過去に疫病は多くの命を奪った。"
+  },
+  {
+    "word": "plague",
+    "meaning": "災難",
+    "example": "They face a plague of problems.",
+    "example_jp": "彼らは多くの災難に直面している。"
+  },
+  {
+    "word": "vaccine",
+    "meaning": "ワクチン",
+    "example": "I got the new vaccine today.",
+    "example_jp": "今日、新しいワクチンを接種した。"
+  },
+  {
+    "word": "defect",
+    "meaning": "欠陥、欠点、障害",
+    "example": "The car has a design defect.",
+    "example_jp": "その車には設計上の欠陥がある。"
+  },
+  {
+    "word": "immune",
+    "meaning": "(～に対して)免疫のある(to～)",
+    "example": "I am immune to this virus.",
+    "example_jp": "私はこのウイルスに対して免疫がある。"
+  },
+  {
+    "word": "allergy",
+    "meaning": "アレルギー",
+    "example": "I have a milk allergy.",
+    "example_jp": "私は牛乳アレルギーがある。"
+  },
+  {
+    "word": "gene",
+    "meaning": "遺伝子",
+    "example": "Genes determine our physical traits.",
+    "example_jp": "遺伝子が私たちの身体的特徴を決める。"
+  },
+  {
+    "word": "cell",
+    "meaning": "細胞",
+    "example": "The human body is made of cells.",
+    "example_jp": "人体は細胞でできている。"
+  },
+  {
+    "word": "organism",
+    "meaning": "生物",
+    "example": "Every living organism needs water.",
+    "example_jp": "すべての生物は水を必要とする。"
+  },
+  {
+    "word": "clone",
+    "meaning": "クローン",
+    "example": "Scientists created a clone of the sheep.",
+    "example_jp": "科学者たちはその羊のクローンを作り出した。"
+  },
+  {
+    "word": "clone",
+    "meaning": "～のクローンを作る",
+    "example": "They tried to clone the plant.",
+    "example_jp": "彼らはその植物のクローンを作ろうとした。"
+  },
+  {
+    "word": "anatomy",
+    "meaning": "解剖学",
+    "example": "She is studying human anatomy.",
+    "example_jp": "彼女は人体解剖学を学んでいる。"
+  },
+  {
+    "word": "chemistry",
+    "meaning": "科学",
+    "example": "He is interested in chemistry.",
+    "example_jp": "彼は科学に興味がある。"
+  },
+  {
+    "word": "toxic",
+    "meaning": "有毒な",
+    "example": "That chemical is highly toxic.",
+    "example_jp": "その化学物質は非常に有毒だ。"
+  },
+  {
+    "word": "solid",
+    "meaning": "固体の、固い、堅固な",
+    "example": "The ground was solid after the frost.",
+    "example_jp": "霜の後、地面は固くなっていた。"
+  },
+  {
+    "word": "solid",
+    "meaning": "立体の",
+    "example": "We studied solid geometry today.",
+    "example_jp": "今日は立体幾何学を勉強した。"
+  },
+  {
+    "word": "solid",
+    "meaning": "中身の詰まった",
+    "example": "This statue is solid gold.",
+    "example_jp": "この像は純金製だ。"
+  },
+  {
+    "word": "liquid",
+    "meaning": "液体の",
+    "example": "The medicine is in liquid form.",
+    "example_jp": "その薬は液体状だ。"
+  },
+  {
+    "word": "vapor",
+    "meaning": "蒸気、気体",
+    "example": "Water turns into vapor when boiled.",
+    "example_jp": "水は沸騰すると蒸気になる。"
+  },
+  {
+    "word": "hydrogen",
+    "meaning": "水素",
+    "example": "Hydrogen is a very light gas.",
+    "example_jp": "水素は非常に軽い気体だ。"
+  },
+  {
+    "word": "oxygen",
+    "meaning": "酸素",
+    "example": "We need oxygen to survive.",
+    "example_jp": "私たちは生きるために酸素が必要だ。"
+  },
+  {
+    "word": "atom",
+    "meaning": "原子",
+    "example": "Everything is made of atoms.",
+    "example_jp": "あらゆるものは原子でできている。"
+  },
+  {
+    "word": "nuclear",
+    "meaning": "核の、原子力の",
+    "example": "The country uses nuclear power.",
+    "example_jp": "その国は原子力を使っている。"
+  },
+  {
+    "word": "molecule",
+    "meaning": "分子",
+    "example": "A water molecule has two hydrogen atoms.",
+    "example_jp": "水分子は2つの水素原子を持っている。"
+  },
+  {
+    "word": "radiation",
+    "meaning": "放射能、放射",
+    "example": "Radiation can be harmful to health.",
+    "example_jp": "放射能は健康に害を及ぼす可能性がある。"
+  },
+  {
+    "word": "religion",
+    "meaning": "宗教 信仰",
+    "example": "He has a deep interest in religion.",
+    "example_jp": "彼は宗教に深い関心がある。"
+  },
+  {
+    "word": "faith",
+    "meaning": "信頼、信仰、信念",
+    "example": "She has strong faith in God.",
+    "example_jp": "彼女は神への強い信仰を持っている。"
+  },
+  {
+    "word": "worship",
+    "meaning": "崇拝； ～を崇拝する",
+    "example": "They gather to worship every Sunday.",
+    "example_jp": "彼らは毎週日曜日に礼拝のために集まる。"
+  },
+  {
+    "word": "doctrine",
+    "meaning": "教養、学説",
+    "example": "They follow the religious doctrine.",
+    "example_jp": "彼らはその宗教の教義に従っている。"
+  },
+  {
+    "word": "confidence",
+    "meaning": "信頼、自信",
+    "example": "She has confidence in her ability.",
+    "example_jp": "彼女は自分の能力に自信がある。"
+  },
+  {
+    "word": "credit",
+    "meaning": "信用、称賛、評判、功績",
+    "example": "He deserves credit for this success.",
+    "example_jp": "この成功は彼の功績だ。"
+  },
+  {
+    "word": "incredible",
+    "meaning": "信じられない",
+    "example": "The view was incredible.",
+    "example_jp": "その景色は信じられないほど素晴らしかった。"
+  },
+  {
+    "word": "Buddhism",
+    "meaning": "仏教",
+    "example": "He practices Buddhism.",
+    "example_jp": "彼は仏教を信仰している。"
+  },
+  {
+    "word": "Muslim",
+    "meaning": "イスラム教徒、イスラム教の",
+    "example": "They are Muslim people.",
+    "example_jp": "彼らはイスラム教徒だ。"
+  }
+]

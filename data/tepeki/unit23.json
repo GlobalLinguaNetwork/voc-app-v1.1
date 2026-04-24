@@ -1,0 +1,332 @@
+[
+  {
+    "word": "sow",
+    "meaning": "～(種)をまく",
+    "example": "Farmers sow seeds in the spring.",
+    "example_jp": "農家は春に種をまく。"
+  },
+  {
+    "word": "plow",
+    "meaning": "鍬",
+    "example": "He used a plow to prepare the land.",
+    "example_jp": "彼は土地を準備するために鍬を使った。"
+  },
+  {
+    "word": "plow",
+    "meaning": "～を耕す",
+    "example": "They plowed the field before planting.",
+    "example_jp": "彼らは植え付けの前に畑を耕した。"
+  },
+  {
+    "word": "peasant",
+    "meaning": "小作農、農夫",
+    "example": "The peasants worked hard in the fields.",
+    "example_jp": "農夫たちは畑で一生懸命働いた。"
+  },
+  {
+    "word": "feed",
+    "meaning": "～に餌・食物を与える",
+    "example": "Did you feed the dog today?",
+    "example_jp": "今日犬に餌をあげた？"
+  },
+  {
+    "word": "breed",
+    "meaning": "～を繁殖させる",
+    "example": "They breed cattle on the farm.",
+    "example_jp": "彼らは農場で牛を繁殖させている。"
+  },
+  {
+    "word": "breed",
+    "meaning": "品種、血統",
+    "example": "This is a rare breed of dog.",
+    "example_jp": "これは珍しい品種の犬だ。"
+  },
+  {
+    "word": "cattle",
+    "meaning": "(集合的に)牛",
+    "example": "The cattle are grazing in the field.",
+    "example_jp": "牛が畑で草を食んでいる。"
+  },
+  {
+    "word": "herd",
+    "meaning": "(牛などの)群れ",
+    "example": "A herd of cattle moved slowly.",
+    "example_jp": "牛の群れがゆっくりと動いた。"
+  },
+  {
+    "word": "flock",
+    "meaning": "(動物の)群れ、群れる",
+    "example": "A flock of birds flew over the lake.",
+    "example_jp": "鳥の群れが湖の上を飛んだ。"
+  },
+  {
+    "word": "ranch",
+    "meaning": "牧場",
+    "example": "He works on a large cattle ranch.",
+    "example_jp": "彼は大規模な牛の牧場で働いている。"
+  },
+  {
+    "word": "media",
+    "meaning": "メディア、媒体",
+    "example": "The news was reported by the local media.",
+    "example_jp": "そのニュースは地元メディアによって報道された。"
+  },
+  {
+    "word": "mass",
+    "meaning": "集団、大衆、多数",
+    "example": "The problem affects the masses.",
+    "example_jp": "その問題は大衆に影響を及ぼす。"
+  },
+  {
+    "word": "broadcast",
+    "meaning": "～を放送する； 放送",
+    "example": "They broadcast the game live.",
+    "example_jp": "彼らはその試合を生放送した。"
+  },
+  {
+    "word": "journalism",
+    "meaning": "ジャーナリズム、報道",
+    "example": "She is interested in a career in journalism.",
+    "example_jp": "彼女はジャーナリズムの仕事に興味がある。"
+  },
+  {
+    "word": "article",
+    "meaning": "記事、論文",
+    "example": "I read an interesting article in the paper.",
+    "example_jp": "新聞で興味深い記事を読んだ。"
+  },
+  {
+    "word": "article",
+    "meaning": "(一つの)品物",
+    "example": "She bought several articles of clothing.",
+    "example_jp": "彼女は数点の衣類を買った。"
+  },
+  {
+    "word": "article",
+    "meaning": "冠詞",
+    "example": "Remember to use the correct article.",
+    "example_jp": "正しい冠詞を使うことを覚えておきなさい。"
+  },
+  {
+    "word": "headline",
+    "meaning": "見出し",
+    "example": "The headline caught my attention.",
+    "example_jp": "その見出しが私の注意を引いた。"
+  },
+  {
+    "word": "Internet",
+    "meaning": "インターネット",
+    "example": "I found the information on the Internet.",
+    "example_jp": "その情報をインターネットで見つけた。"
+  },
+  {
+    "word": "advertisement",
+    "meaning": "広告",
+    "example": "I saw an advertisement for the new car.",
+    "example_jp": "新しい車の広告を見た。"
+  },
+  {
+    "word": "publish",
+    "meaning": "～を出版する、公表する",
+    "example": "The author published a new novel.",
+    "example_jp": "その著者は新しい小説を出版した。"
+  },
+  {
+    "word": "edit",
+    "meaning": "～を編集する",
+    "example": "She edits a local magazine.",
+    "example_jp": "彼女は地元の雑誌を編集している。"
+  },
+  {
+    "word": "compile",
+    "meaning": "～を編集する、１つに集める",
+    "example": "They compiled the data for the report.",
+    "example_jp": "彼らは報告書のためにデータを集めた。"
+  },
+  {
+    "word": "cartoon",
+    "meaning": "漫画、アニメ",
+    "example": "He enjoys watching cartoons.",
+    "example_jp": "彼はアニメを見るのが好きだ。"
+  },
+  {
+    "word": "manufacture",
+    "meaning": "製造、生産； ～を製造する",
+    "example": "The company manufactures computer parts.",
+    "example_jp": "その会社はコンピュータ部品を製造している。"
+  },
+  {
+    "word": "produce",
+    "meaning": "～を生産する、生み出す",
+    "example": "The factory produces high-quality goods.",
+    "example_jp": "その工場は高品質な製品を生産している。"
+  },
+  {
+    "word": "create",
+    "meaning": "～を創造する、生み出す",
+    "example": "He created a beautiful piece of art.",
+    "example_jp": "彼は美しい芸術作品を生み出した。"
+  },
+  {
+    "word": "consume",
+    "meaning": "～を消費する",
+    "example": "The car consumes too much gas.",
+    "example_jp": "その車はガソリンを消費しすぎる。"
+  },
+  {
+    "word": "trade",
+    "meaning": "貿易、取引、商売、職業",
+    "example": "They are involved in international trade.",
+    "example_jp": "彼らは国際貿易に関わっている。"
+  },
+  {
+    "word": "deal",
+    "meaning": "取引",
+    "example": "They made a good deal.",
+    "example_jp": "彼らは良い取引をした。"
+  },
+  {
+    "word": "deal",
+    "meaning": "量",
+    "example": "A great deal of work remains.",
+    "example_jp": "かなりの量の仕事が残っている。"
+  },
+  {
+    "word": "commerce",
+    "meaning": "通商、貿易",
+    "example": "Commerce is important for the economy.",
+    "example_jp": "通商は経済にとって重要だ。"
+  },
+  {
+    "word": "merchant",
+    "meaning": "商人",
+    "example": "He was a wealthy merchant.",
+    "example_jp": "彼は裕福な商人だった。"
+  },
+  {
+    "word": "commodity",
+    "meaning": "商品、日用品",
+    "example": "Coffee is a major commodity.",
+    "example_jp": "コーヒーは主要な商品だ。"
+  },
+  {
+    "word": "retail",
+    "meaning": "小売りの",
+    "example": "The retail price is higher than the wholesale price.",
+    "example_jp": "小売価格は卸売価格より高い。"
+  },
+  {
+    "word": "import",
+    "meaning": "～を輸入する、輸入(品)",
+    "example": "The country imports most of its oil.",
+    "example_jp": "その国は石油のほとんどを輸入している。"
+  },
+  {
+    "word": "export",
+    "meaning": "～を輸出する、輸出(品)",
+    "example": "They export cars to many countries.",
+    "example_jp": "彼らは多くの国へ車を輸出している。"
+  },
+  {
+    "word": "employ",
+    "meaning": "～を雇う； ～を用いる",
+    "example": "The company employs over 500 people.",
+    "example_jp": "その会社は500人以上を雇っている。"
+  },
+  {
+    "word": "labor",
+    "meaning": "労働",
+    "example": "The project requires a lot of manual labor.",
+    "example_jp": "そのプロジェクトは多くの肉体労働を必要とする。"
+  },
+  {
+    "word": "manage",
+    "meaning": "～を経営する； なんとかしてやり遂げる",
+    "example": "He manages a large store.",
+    "example_jp": "彼は大きな店を経営している。"
+  },
+  {
+    "word": "contract",
+    "meaning": "契約； ～を契約する； ～(病気)にかかる、収縮する",
+    "example": "They signed a contract.",
+    "example_jp": "彼らは契約書に署名した。"
+  },
+  {
+    "word": "agent",
+    "meaning": "代理店、代理人、行為者",
+    "example": "I spoke to my travel agent.",
+    "example_jp": "旅行代理店の人と話した。"
+  },
+  {
+    "word": "medicine",
+    "meaning": "薬、医学",
+    "example": "Take your medicine after meals.",
+    "example_jp": "食後に薬を飲みなさい。"
+  },
+  {
+    "word": "pharmacy",
+    "meaning": "薬局",
+    "example": "I bought this at the pharmacy.",
+    "example_jp": "これを薬局で買った。"
+  },
+  {
+    "word": "surgery",
+    "meaning": "外科手術",
+    "example": "He had surgery on his knee.",
+    "example_jp": "彼は膝の手術を受けた。"
+  },
+  {
+    "word": "vein",
+    "meaning": "血管、静脈",
+    "example": "Blood flows through the veins.",
+    "example_jp": "血液は血管を通って流れる。"
+  },
+  {
+    "word": "artery",
+    "meaning": "動脈",
+    "example": "The heart pumps blood into the artery.",
+    "example_jp": "心臓が動脈に血液を送り出す。"
+  },
+  {
+    "word": "physical",
+    "meaning": "身体の； 物理的な",
+    "example": "He needs regular physical exercise.",
+    "example_jp": "彼は定期的な身体的運動が必要だ。"
+  },
+  {
+    "word": "disease",
+    "meaning": "病気",
+    "example": "They are researching a new disease.",
+    "example_jp": "彼らは新しい病気を研究している。"
+  },
+  {
+    "word": "symptom",
+    "meaning": "兆候、症状",
+    "example": "What are the symptoms of the flu?",
+    "example_jp": "インフルエンザの症状は何ですか。"
+  },
+  {
+    "word": "ache",
+    "meaning": "(ずきずき)痛む",
+    "example": "My back aches after working.",
+    "example_jp": "働いた後、背中がずきずき痛む。"
+  },
+  {
+    "word": "acute",
+    "meaning": "鋭い、激しい",
+    "example": "She felt acute pain.",
+    "example_jp": "彼女は激しい痛みを感じた。"
+  },
+  {
+    "word": "sore",
+    "meaning": "(喉、筋肉などがヒリヒリ)痛い",
+    "example": "I have a sore throat.",
+    "example_jp": "喉が痛い。"
+  },
+  {
+    "word": "dizzy",
+    "meaning": "めまいがする",
+    "example": "I felt dizzy after standing up.",
+    "example_jp": "立ち上がった後、めまいがした。"
+  }
+]

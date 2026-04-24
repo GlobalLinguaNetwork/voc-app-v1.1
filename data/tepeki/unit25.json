@@ -1,0 +1,368 @@
+[
+  {
+    "word": "Christianity",
+    "meaning": "キリスト教",
+    "example": "Christianity is widely practiced around the world.",
+    "example_jp": "キリスト教は世界中で広く信仰されている。"
+  },
+  {
+    "word": "Catholic",
+    "meaning": "カトリックの、カトリック教徒",
+    "example": "He is a devout Catholic.",
+    "example_jp": "彼は敬虔なカトリック教徒だ。"
+  },
+  {
+    "word": "Protestant",
+    "meaning": "プロテスタントの； 新教徒",
+    "example": "She attends a Protestant church.",
+    "example_jp": "彼女はプロテスタントの教会に通っている。"
+  },
+  {
+    "word": "priest",
+    "meaning": "牧師、司祭",
+    "example": "The priest gave a beautiful sermon.",
+    "example_jp": "司祭が素晴らしい説教をした。"
+  },
+  {
+    "word": "clergy",
+    "meaning": "聖職者",
+    "example": "The clergy gathered for the meeting.",
+    "example_jp": "聖職者たちが会議のために集まった。"
+  },
+  {
+    "word": "preach",
+    "meaning": "説く、説教する",
+    "example": "He preaches love and forgiveness.",
+    "example_jp": "彼は愛と許しを説いている。"
+  },
+  {
+    "word": "pilgrim",
+    "meaning": "巡礼者",
+    "example": "Pilgrims traveled long distances to the holy site.",
+    "example_jp": "巡礼者たちはその聖地まで長い道のりを旅した。"
+  },
+  {
+    "word": "divine",
+    "meaning": "神の、神々しい",
+    "example": "The music felt truly divine.",
+    "example_jp": "その音楽は本当に神々しく感じられた。"
+  },
+  {
+    "word": "sacred",
+    "meaning": "神聖な",
+    "example": "This is a sacred place for them.",
+    "example_jp": "ここは彼らにとって神聖な場所だ。"
+  },
+  {
+    "word": "sacrifice",
+    "meaning": "犠牲にする",
+    "example": "She sacrificed her free time to help others.",
+    "example_jp": "彼女は人を助けるために自分の自由時間を犠牲にした。"
+  },
+  {
+    "word": "sacrifice",
+    "meaning": "犠牲； 生け贄",
+    "example": "Success requires some sacrifices.",
+    "example_jp": "成功には多少の犠牲が伴う。"
+  },
+  {
+    "word": "saint",
+    "meaning": "聖人； 聖人のような人",
+    "example": "She is a saint for helping everyone.",
+    "example_jp": "みんなを助けてくれる彼女は聖人のような人だ。"
+  },
+  {
+    "word": "holy",
+    "meaning": "神聖な",
+    "example": "They visited the holy city.",
+    "example_jp": "彼らは聖地を訪れた。"
+  },
+  {
+    "word": "shrine",
+    "meaning": "神社",
+    "example": "We visited a shrine to pray for good luck.",
+    "example_jp": "私たちは幸運を祈るために神社を訪れた。"
+  },
+  {
+    "word": "temple",
+    "meaning": "寺院、神殿",
+    "example": "The ancient temple is beautiful.",
+    "example_jp": "その古代の寺院は美しい。"
+  },
+  {
+    "word": "ritual",
+    "meaning": "儀式",
+    "example": "He performed the morning ritual.",
+    "example_jp": "彼は朝の儀式を行った。"
+  },
+  {
+    "word": "ceremony",
+    "meaning": "儀式、式典",
+    "example": "The wedding ceremony was very moving.",
+    "example_jp": "結婚式はとても感動的だった。"
+  },
+  {
+    "word": "swear",
+    "meaning": "誓う",
+    "example": "I swear to tell the truth.",
+    "example_jp": "真実を話すことを誓います。"
+  },
+  {
+    "word": "swear",
+    "meaning": "ののしる",
+    "example": "It is rude to swear in public.",
+    "example_jp": "人前でののしるのは失礼だ。"
+  },
+  {
+    "word": "bless",
+    "meaning": "祝福する",
+    "example": "May God bless you.",
+    "example_jp": "神のご加護がありますように。"
+  },
+  {
+    "word": "enchant",
+    "meaning": "魔法をかける； 魅了する",
+    "example": "Her beautiful voice enchanted the audience.",
+    "example_jp": "彼女の美しい声が聴衆を魅了した。"
+  },
+  {
+    "word": "witch",
+    "meaning": "魔女",
+    "example": "The story is about a friendly witch.",
+    "example_jp": "その物語は親切な魔女についての話だ。"
+  },
+  {
+    "word": "spell",
+    "meaning": "呪文",
+    "example": "The witch cast a magic spell.",
+    "example_jp": "魔女が魔法の呪文をかけた。"
+  },
+  {
+    "word": "haunt",
+    "meaning": "出没する",
+    "example": "Legends say a ghost haunts this house.",
+    "example_jp": "伝説によると、この家には幽霊が出るそうだ。"
+  },
+  {
+    "word": "race",
+    "meaning": "人種",
+    "example": "Everyone is equal, regardless of race.",
+    "example_jp": "人種に関係なく、みんな平等だ。"
+  },
+  {
+    "word": "race",
+    "meaning": "競争",
+    "example": "He won the running race.",
+    "example_jp": "彼は徒競走で勝った。"
+  },
+  {
+    "word": "discriminate",
+    "meaning": "差別する",
+    "example": "It is wrong to discriminate against anyone.",
+    "example_jp": "誰かを差別することは間違っている。"
+  },
+  {
+    "word": "discriminate",
+    "meaning": "区別する",
+    "example": "It is hard to discriminate between the two colors.",
+    "example_jp": "その2色の違いを区別するのは難しい。"
+  },
+  {
+    "word": "tribe",
+    "meaning": "部族",
+    "example": "They belong to an ancient tribe.",
+    "example_jp": "彼らは古い部族に属している。"
+  },
+  {
+    "word": "ethnic",
+    "meaning": "民族的な",
+    "example": "The city has a lot of ethnic diversity.",
+    "example_jp": "その市には多くの民族的多様性がある。"
+  },
+  {
+    "word": "nationality",
+    "meaning": "国籍",
+    "example": "What is your nationality?",
+    "example_jp": "あなたの国籍はどこですか？"
+  },
+  {
+    "word": "native",
+    "meaning": "出生地の、原住民の",
+    "example": "She is a native speaker of English.",
+    "example_jp": "彼女は英語のネイティブスピーカーだ。"
+  },
+  {
+    "word": "tradition",
+    "meaning": "伝統",
+    "example": "It is a tradition to eat turkey at Christmas.",
+    "example_jp": "クリスマスに七面鳥を食べるのは伝統だ。"
+  },
+  {
+    "word": "custom",
+    "meaning": "慣習",
+    "example": "It is the custom here to bow.",
+    "example_jp": "ここではお辞儀をするのが慣習だ。"
+  },
+  {
+    "word": "accustomed",
+    "meaning": "慣れている",
+    "example": "I am accustomed to waking up early.",
+    "example_jp": "私は早起きすることに慣れている。"
+  },
+  {
+    "word": "convention",
+    "meaning": "慣習、因習、しきたり",
+    "example": "We should break with this old convention.",
+    "example_jp": "私たちはこの古い慣習を打ち破るべきだ。"
+  },
+  {
+    "word": "convention",
+    "meaning": "大会",
+    "example": "He attended a business convention.",
+    "example_jp": "彼はビジネス大会に出席した。"
+  },
+  {
+    "word": "hierarchy",
+    "meaning": "階級制、上下関係",
+    "example": "The office has a strict hierarchy.",
+    "example_jp": "そのオフィスには厳格な上下関係がある。"
+  },
+  {
+    "word": "folk",
+    "meaning": "民衆、民族",
+    "example": "Folk songs tell the stories of the people.",
+    "example_jp": "民謡はその土地の人々の物語を伝えている。"
+  },
+  {
+    "word": "myth",
+    "meaning": "神話",
+    "example": "I love reading Greek myths.",
+    "example_jp": "私はギリシャ神話を読むのが大好きだ。"
+  },
+  {
+    "word": "myth",
+    "meaning": "俗説",
+    "example": "It is a myth that you should drink eight glasses of water.",
+    "example_jp": "1日8杯の水を飲むべきだというのは俗説だ。"
+  },
+  {
+    "word": "legend",
+    "meaning": "伝説",
+    "example": "The legend says a hero lived here.",
+    "example_jp": "伝説によると、ここに英雄が住んでいたそうだ。"
+  },
+  {
+    "word": "tragedy",
+    "meaning": "悲劇、惨劇",
+    "example": "The fire was a great tragedy.",
+    "example_jp": "その火災は大きな悲劇だった。"
+  },
+  {
+    "word": "environment",
+    "meaning": "環境",
+    "example": "We must protect the environment.",
+    "example_jp": "私たちは環境を保護しなければならない。"
+  },
+  {
+    "word": "species",
+    "meaning": "(生物の)種； 人類",
+    "example": "Many species are in danger of extinction.",
+    "example_jp": "多くの種が絶滅の危機に瀕している。"
+  },
+  {
+    "word": "evolve",
+    "meaning": "進化する、発展する",
+    "example": "Human beings evolved over millions of years.",
+    "example_jp": "人間は数百万年かけて進化してきた。"
+  },
+  {
+    "word": "ecology",
+    "meaning": "生態(系)、自然環境、環境保護",
+    "example": "He is studying local ecology.",
+    "example_jp": "彼はその地域の生態系を研究している。"
+  },
+  {
+    "word": "nature",
+    "meaning": "自然",
+    "example": "I love spending time in nature.",
+    "example_jp": "私は自然の中で過ごすのが好きだ。"
+  },
+  {
+    "word": "nature",
+    "meaning": "本質； 性質",
+    "example": "It is human nature to be curious.",
+    "example_jp": "好奇心を持つのは人間の本質だ。"
+  },
+  {
+    "word": "inherent",
+    "meaning": "(～に)本来備わっている(in～)",
+    "example": "Risk is inherent in this business.",
+    "example_jp": "このビジネスにはリスクが本来備わっている。"
+  },
+  {
+    "word": "artificial",
+    "meaning": "人工の",
+    "example": "This flower is artificial.",
+    "example_jp": "この花は人工のものだ。"
+  },
+  {
+    "word": "preserve",
+    "meaning": "～を保護する、保存する",
+    "example": "We must preserve the forest.",
+    "example_jp": "私たちはその森を保護しなければならない。"
+  },
+  {
+    "word": "develop",
+    "meaning": "～を発達する、開発する",
+    "example": "They developed a new software.",
+    "example_jp": "彼らは新しいソフトウェアを開発した。"
+  },
+  {
+    "word": "develop",
+    "meaning": "発症する",
+    "example": "He developed a serious illness.",
+    "example_jp": "彼は深刻な病気を発症した。"
+  },
+  {
+    "word": "develop",
+    "meaning": "発達する、発育する",
+    "example": "Children develop at different rates.",
+    "example_jp": "子供はそれぞれ異なる速度で発育する。"
+  },
+  {
+    "word": "sustain",
+    "meaning": "～を支える、維持する",
+    "example": "The earth sustains all life.",
+    "example_jp": "地球はすべての命を支えている。"
+  },
+  {
+    "word": "atmosphere",
+    "meaning": "大気",
+    "example": "The atmosphere is getting warmer.",
+    "example_jp": "大気が温かくなってきている。"
+  },
+  {
+    "word": "atmosphere",
+    "meaning": "雰囲気",
+    "example": "The restaurant has a relaxing atmosphere.",
+    "example_jp": "そのレストランはリラックスできる雰囲気だ。"
+  },
+  {
+    "word": "pollute",
+    "meaning": "～を汚染する",
+    "example": "Factories pollute the river.",
+    "example_jp": "工場が川を汚染している。"
+  },
+  {
+    "word": "waste",
+    "meaning": "無駄、浪費； 廃棄",
+    "example": "It is a waste of time.",
+    "example_jp": "それは時間の無駄だ。"
+  },
+  {
+    "word": "waste",
+    "meaning": "～を浪費する",
+    "example": "Don't waste your energy on this.",
+    "example_jp": "これにエネルギーを浪費しないで。"
+  }
+]

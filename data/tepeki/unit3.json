@@ -1,0 +1,326 @@
+[
+  {
+    "word": "attract",
+    "meaning": "～を惹(引)き付ける, 魅了する",
+    "example": "The bright lights attract many insects.",
+    "example_jp": "明るい光は多くの昆虫を惹き付ける。"
+  },
+  {
+    "word": "extract",
+    "meaning": "～を抜き出す, 抽出する",
+    "example": "Scientists extract DNA from cells.",
+    "example_jp": "科学者は細胞からDNAを抽出する。"
+  },
+  {
+    "word": "aim",
+    "meaning": "目標, 目的",
+    "example": "Our main aim is to improve quality.",
+    "example_jp": "我々の主な目標は品質を向上させることだ。"
+  },
+  {
+    "word": "aim",
+    "meaning": "(～を)狙う, 目標とする",
+    "example": "You should aim for the top score.",
+    "example_jp": "最高得点を狙うべきだ。"
+  },
+  {
+    "word": "penetrate",
+    "meaning": "～を貫通する, ～に浸透する",
+    "example": "The arrow penetrated the target.",
+    "example_jp": "矢が標的を貫通した。"
+  },
+  {
+    "word": "thrust",
+    "meaning": "～を(ぐいっと)押し付ける, 突っ込む, 突き刺す",
+    "example": "He thrust his hands into his pockets.",
+    "example_jp": "彼はポケットに両手を突っ込んだ。"
+  },
+  {
+    "word": "insert",
+    "meaning": "～を挿入する",
+    "example": "Please insert your card into the slot.",
+    "example_jp": "カードをスロットに挿入してください。"
+  },
+  {
+    "word": "grasp",
+    "meaning": "～を掴む, 握る",
+    "example": "She grasped my hand tightly.",
+    "example_jp": "彼女は私の手をしっかり握った。"
+  },
+  {
+    "word": "grasp",
+    "meaning": "理解する",
+    "example": "I could not grasp the meaning of his words.",
+    "example_jp": "彼の言葉の意味を理解できなかった。"
+  },
+  {
+    "word": "grab",
+    "meaning": "～を掴む",
+    "example": "He grabbed his bag and ran out.",
+    "example_jp": "彼はカバンを掴んで飛び出した。"
+  },
+  {
+    "word": "seize",
+    "meaning": "～を掴む, (感情などが)を襲う",
+    "example": "She seized the opportunity to speak.",
+    "example_jp": "彼女はその話す機会を掴んだ。"
+  },
+  {
+    "word": "seize",
+    "meaning": "押収する",
+    "example": "The police seized the illegal goods.",
+    "example_jp": "警察が違法商品を押収した。"
+  },
+  {
+    "word": "drag",
+    "meaning": "～を引きずる",
+    "example": "They dragged the heavy table across the room.",
+    "example_jp": "彼らは重いテーブルを部屋の向こうまで引きずった。"
+  },
+  {
+    "word": "cling",
+    "meaning": "（～に)しがみつく, 固執する",
+    "example": "The child clung to her mother's leg.",
+    "example_jp": "子供は母親の足にしがみついた。"
+  },
+  {
+    "word": "stick",
+    "meaning": "棒",
+    "example": "He picked up a long stick.",
+    "example_jp": "彼は長い棒を拾い上げた。"
+  },
+  {
+    "word": "stick",
+    "meaning": "(～に)くっつく, 固執する",
+    "example": "The stamp doesn't stick well.",
+    "example_jp": "その切手はうまくくっつかない。"
+  },
+  {
+    "word": "attach",
+    "meaning": "～をくっつける； 愛着を持たせる",
+    "example": "Attach the label to the box.",
+    "example_jp": "箱にラベルをくっつけなさい。"
+  },
+  {
+    "word": "imitate",
+    "meaning": "～を真似る",
+    "example": "Children often imitate their parents.",
+    "example_jp": "子供はよく両親を真似る。"
+  },
+  {
+    "word": "fold",
+    "meaning": "～を折り畳む",
+    "example": "Please fold the laundry.",
+    "example_jp": "洗濯物を畳んでください。"
+  },
+  {
+    "word": "tear",
+    "meaning": "～を引き裂く",
+    "example": "He tore the letter into pieces.",
+    "example_jp": "彼は手紙を細かく引き裂いた。"
+  },
+  {
+    "word": "mold",
+    "meaning": "～をかたどる, 形成する",
+    "example": "They molded the clay into a shape.",
+    "example_jp": "彼らは粘土を形にかたどった。"
+  },
+  {
+    "word": "distort",
+    "meaning": "～を歪める",
+    "example": "Don't distort the truth.",
+    "example_jp": "真実を歪めてはいけない。"
+  },
+  {
+    "word": "expand",
+    "meaning": "～を拡大する； 拡大する； 膨張する",
+    "example": "The company plans to expand its business.",
+    "example_jp": "その会社はビジネスを拡大する計画だ。"
+  },
+  {
+    "word": "shrink",
+    "meaning": "縮む",
+    "example": "This sweater will shrink if you wash it.",
+    "example_jp": "このセーターは洗うと縮んでしまう。"
+  },
+  {
+    "word": "swell",
+    "meaning": "膨らむ",
+    "example": "Her ankle began to swell.",
+    "example_jp": "彼女の足首が腫れ始めた。"
+  },
+  {
+    "word": "assemble",
+    "meaning": "～を集める, 組み立てる",
+    "example": "It is easy to assemble this desk.",
+    "example_jp": "この机を組み立てるのは簡単だ。"
+  },
+  {
+    "word": "collect",
+    "meaning": "～を集める； 徴収する",
+    "example": "He likes to collect old coins.",
+    "example_jp": "彼は古い硬貨を集めるのが好きだ。"
+  },
+  {
+    "word": "cram",
+    "meaning": "～を詰め込む",
+    "example": "He crammed his clothes into the bag.",
+    "example_jp": "彼はカバンに服を詰め込んだ。"
+  },
+  {
+    "word": "rotate",
+    "meaning": "～を回転する； 回転する",
+    "example": "The Earth rotates on its axis.",
+    "example_jp": "地球は地軸を中心に回転する。"
+  },
+  {
+    "word": "twist",
+    "meaning": "～をひねる",
+    "example": "Twist the cap to open the bottle.",
+    "example_jp": "キャップをひねってボトルを開けなさい。"
+  },
+  {
+    "word": "upset",
+    "meaning": "～をひっくり返す, 動揺させる, 怒らせる； 動揺した, 怒った",
+    "example": "Don't get upset over small things.",
+    "example_jp": "ささいなことで動揺するな。"
+  },
+  {
+    "word": "stir",
+    "meaning": "～をかき回す； 騒乱",
+    "example": "Stir the soup while it cooks.",
+    "example_jp": "調理中スープをかき回しなさい。"
+  },
+  {
+    "word": "explode",
+    "meaning": "爆発する",
+    "example": "The bomb exploded without warning.",
+    "example_jp": "爆弾が予告なしに爆発した。"
+  },
+  {
+    "word": "burst",
+    "meaning": "爆発する",
+    "example": "The balloon burst with a loud noise.",
+    "example_jp": "風船が大きな音を立てて破裂した。"
+  },
+  {
+    "word": "melt",
+    "meaning": "溶ける； ～を溶かす",
+    "example": "The ice will melt in the sun.",
+    "example_jp": "氷は太陽の下で溶けるだろう。"
+  },
+  {
+    "word": "leak",
+    "meaning": "漏れる； ～を漏らす",
+    "example": "Gas is leaking from the pipe.",
+    "example_jp": "パイプからガスが漏れている。"
+  },
+  {
+    "word": "string",
+    "meaning": "ひも, 糸",
+    "example": "Tie the package with a piece of string.",
+    "example_jp": "小包をひもで結びなさい。"
+  },
+  {
+    "word": "restrict",
+    "meaning": "～を(…に)制限する",
+    "example": "We must restrict our spending.",
+    "example_jp": "支出を制限しなければならない。"
+  },
+  {
+    "word": "strict",
+    "meaning": "厳しい； 厳密な",
+    "example": "My parents are very strict.",
+    "example_jp": "私の両親はとても厳しい。"
+  },
+  {
+    "word": "distress",
+    "meaning": "苦悩, 貧困",
+    "example": "His words caused her great distress.",
+    "example_jp": "彼の言葉は彼女をひどく苦悩させた。"
+  },
+  {
+    "word": "strain",
+    "meaning": "緊張, 重圧, 品種, 血統",
+    "example": "She is under a lot of strain.",
+    "example_jp": "彼女は大きな重圧を感じている。"
+  },
+  {
+    "word": "restrain",
+    "meaning": "～を抑制する",
+    "example": "He couldn't restrain his anger.",
+    "example_jp": "彼は怒りを抑制できなかった。"
+  },
+  {
+    "word": "tense",
+    "meaning": "緊張した, ぴんと張った",
+    "example": "The situation is very tense.",
+    "example_jp": "状況はとても緊張している。"
+  },
+  {
+    "word": "extend",
+    "meaning": "～を伸ばす, 延長する",
+    "example": "We decided to extend our stay.",
+    "example_jp": "私たちは滞在を延長することにした。"
+  },
+  {
+    "word": "intense",
+    "meaning": "激しい",
+    "example": "There was intense heat today.",
+    "example_jp": "今日は激しい暑さだった。"
+  },
+  {
+    "word": "force",
+    "meaning": "力, 勢力； 軍事力； ～に(…することを)強制する",
+    "example": "They forced him to leave.",
+    "example_jp": "彼らは彼に去ることを強制した。"
+  },
+  {
+    "word": "compel",
+    "meaning": "～に(…することを)強いる",
+    "example": "Poverty compelled him to steal.",
+    "example_jp": "貧困が彼に盗みを強いた。"
+  },
+  {
+    "word": "oblige",
+    "meaning": "～に(…することを)義務づける, 余儀なくさせる",
+    "example": "I am obliged to follow the rules.",
+    "example_jp": "ルールに従う義務がある。"
+  },
+  {
+    "word": "voluntary",
+    "meaning": "自発的な",
+    "example": "Work here is purely voluntary.",
+    "example_jp": "ここでの仕事は完全に自発的なものだ。"
+  },
+  {
+    "word": "spontaneous",
+    "meaning": "自発的な, 自然発生的な",
+    "example": "We had a spontaneous party.",
+    "example_jp": "私たちは自然発生的なパーティーを開いた。"
+  },
+  {
+    "word": "free",
+    "meaning": "自由な； 無料の； 暇な",
+    "example": "You are free to go.",
+    "example_jp": "自由に行ってよい。"
+  },
+  {
+    "word": "liberty",
+    "meaning": "自由",
+    "example": "They are fighting for their liberty.",
+    "example_jp": "彼らは自由のために戦っている。"
+  },
+  {
+    "word": "release",
+    "meaning": "～を解放する",
+    "example": "They decided to release the prisoner.",
+    "example_jp": "彼らは囚人を解放することに決めた。"
+  },
+  {
+    "word": "capture",
+    "meaning": "～を捕らえる",
+    "example": "The police captured the thief.",
+    "example_jp": "警察が泥棒を捕らえた。"
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "word": "prohibit",
+    "meaning": "～を禁じる",
+    "example": "The law prohibits smoking in public places.",
+    "example_jp": "法律が公共の場所での喫煙を禁じている。"
+  },
+  {
+    "word": "forbid",
+    "meaning": "～を禁じる",
+    "example": "My parents forbid me from staying out late.",
+    "example_jp": "両親は私が遅くまで出歩くのを禁じている。"
+  },
+  {
+    "word": "ban",
+    "meaning": "～を(公的に)禁止する",
+    "example": "The city banned plastic bags.",
+    "example_jp": "市はレジ袋を禁止した。"
+  },
+  {
+    "word": "permit",
+    "meaning": "～を許す, ～に(…するのを)許可する",
+    "example": "The weather did not permit us to go out.",
+    "example_jp": "天候が私たちに外出を許さなかった。"
+  },
+  {
+    "word": "allow",
+    "meaning": "～が(…するのを)許す",
+    "example": "He doesn't allow his children to watch TV.",
+    "example_jp": "彼は子供たちがテレビを見るのを許していない。"
+  },
+  {
+    "word": "forgive",
+    "meaning": "～(過ちを犯した人)を許す",
+    "example": "I will never forgive him for what he did.",
+    "example_jp": "彼がしたことについて、私は決して彼を許さない。"
+  },
+  {
+    "word": "overlook",
+    "meaning": "～を大目に見る, 許す",
+    "example": "The teacher decided to overlook his mistake.",
+    "example_jp": "先生は彼の失敗を大目に見ることにした。"
+  },
+  {
+    "word": "overlook",
+    "meaning": "～を見落とす",
+    "example": "I overlooked a spelling error in the text.",
+    "example_jp": "私は文章中のスペルミスを見落とした。"
+  },
+  {
+    "word": "generous",
+    "meaning": "寛容な, 気前のよい",
+    "example": "He was generous enough to help me.",
+    "example_jp": "彼は寛容にも私を助けてくれた。"
+  },
+  {
+    "word": "tolerate",
+    "meaning": "～を許容する, 容認する",
+    "example": "I cannot tolerate such behavior.",
+    "example_jp": "私はそのような振る舞いを許容できない。"
+  },
+  {
+    "word": "prevent",
+    "meaning": "～を防ぐ； ～が(…するのを)妨げる",
+    "example": "A fence prevents the dog from running away.",
+    "example_jp": "フェンスが犬が逃げ出すのを妨げている。"
+  },
+  {
+    "word": "avoid",
+    "meaning": "～(望ましくないもの)を避ける, (するの)を回避する",
+    "example": "Try to avoid eating junk food.",
+    "example_jp": "ジャンクフードを食べるのを避けるようにしなさい。"
+  },
+  {
+    "word": "hinder",
+    "meaning": "～を妨げる",
+    "example": "Bad weather hindered our progress.",
+    "example_jp": "悪天候が我々の前進を妨げた。"
+  },
+  {
+    "word": "refrain",
+    "meaning": "(～するのを)差し控える, 遠慮する",
+    "example": "Please refrain from talking in the library.",
+    "example_jp": "図書館では私語を差し控えてください。"
+  },
+  {
+    "word": "interrupt",
+    "meaning": "～を中断する, 邪魔する",
+    "example": "Don't interrupt me while I am working.",
+    "example_jp": "仕事中は私を邪魔しないで。"
+  },
+  {
+    "word": "disrupt",
+    "meaning": "～を乱す, 混乱させる",
+    "example": "The strike disrupted train services.",
+    "example_jp": "ストライキが鉄道運行を混乱させた。"
+  },
+  {
+    "word": "disturb",
+    "meaning": "～を妨げる, 悩ませる",
+    "example": "The loud music disturbed my sleep.",
+    "example_jp": "大音量の音楽が私の睡眠を妨げた。"
+  },
+  {
+    "word": "interfere",
+    "meaning": "(～を)邪魔する, (に)干渉する",
+    "example": "Don't interfere in my personal affairs.",
+    "example_jp": "私の私的なことに干渉しないで。"
+  },
+  {
+    "word": "cease",
+    "meaning": "～をやめる, しなくなる",
+    "example": "The rain ceased at noon.",
+    "example_jp": "雨は正午にやんだ。"
+  },
+  {
+    "word": "halt",
+    "meaning": "～を停止する； 停止",
+    "example": "The driver had to halt the car suddenly.",
+    "example_jp": "運転手は急に車を停止させなければならなかった。"
+  },
+  {
+    "word": "deprive",
+    "meaning": "～から(…を)奪う",
+    "example": "They were deprived of their freedom.",
+    "example_jp": "彼らは自由を奪われた。"
+  },
+  {
+    "word": "rob",
+    "meaning": "～から(…を)奪う, 強奪する",
+    "example": "Someone robbed him of his wallet.",
+    "example_jp": "誰かが彼から財布を強奪した。"
+  },
+  {
+    "word": "strip",
+    "meaning": "から(…を)はぎ取る, 除去する",
+    "example": "The accident stripped him of his confidence.",
+    "example_jp": "その事故が彼から自信をはぎ取った。"
+  },
+  {
+    "word": "remove",
+    "meaning": "を(…から)除去する, 取り除く",
+    "example": "Please remove your shoes before entering.",
+    "example_jp": "入る前に靴を脱いでください。"
+  },
+  {
+    "word": "eliminate",
+    "meaning": "～を取り除く, 削除する",
+    "example": "We need to eliminate all errors.",
+    "example_jp": "すべてのエラーを取り除く必要がある。"
+  },
+  {
+    "word": "get rid of",
+    "meaning": "～を取り除く, 処分する",
+    "example": "I need to get rid of these old clothes.",
+    "example_jp": "この古い服を処分しなければならない。"
+  },
+  {
+    "word": "dispose of",
+    "meaning": "～を処理する, 取り除く",
+    "example": "How should I dispose of this waste?",
+    "example_jp": "このゴミをどう処理すればいいですか。"
+  },
+  {
+    "word": "do away with",
+    "meaning": "～を捨てる, 廃止する",
+    "example": "The company decided to do away with the old rules.",
+    "example_jp": "会社は古いルールを廃止することに決めた。"
+  },
+  {
+    "word": "discard",
+    "meaning": "～を捨てる",
+    "example": "Discard any expired items.",
+    "example_jp": "期限切れのものはすべて捨てなさい。"
+  },
+  {
+    "word": "abandon",
+    "meaning": "～を捨てる",
+    "example": "He had to abandon his car after it broke down.",
+    "example_jp": "彼は車が故障した後、車を捨てなければならなかった。"
+  },
+  {
+    "word": "desert",
+    "meaning": "～を捨てる, 見捨てる",
+    "example": "He deserted his family.",
+    "example_jp": "彼は家族を見捨てた。"
+  },
+  {
+    "word": "desert",
+    "meaning": "砂漠",
+    "example": "The Sahara is a vast desert.",
+    "example_jp": "サハラは広大な砂漠だ。"
+  },
+  {
+    "word": "provide",
+    "meaning": "～を(あらかじめ)供給する, 与える",
+    "example": "This book provides a lot of information.",
+    "example_jp": "この本は多くの情報を与えてくれる。"
+  },
+  {
+    "word": "supply",
+    "meaning": "～(足りない物)を供給する； 供給",
+    "example": "They supply electricity to the city.",
+    "example_jp": "彼らは市に電気を供給している。"
+  },
+  {
+    "word": "offer",
+    "meaning": "～を(…に)提供する, 申し出る； 提供, 申し出",
+    "example": "Can I offer you something to drink?",
+    "example_jp": "何か飲み物を提供しましょうか。"
+  },
+  {
+    "word": "furnish",
+    "meaning": "～に(…[家具など]を)備え付ける",
+    "example": "They furnished the room with new chairs.",
+    "example_jp": "彼らはその部屋に新しい椅子を備え付けた。"
+  },
+  {
+    "word": "equip",
+    "meaning": "～に(…を)装備する",
+    "example": "The car is equipped with a safety system.",
+    "example_jp": "その車には安全システムが装備されている。"
+  },
+  {
+    "word": "promote",
+    "meaning": "～を促進する",
+    "example": "They want to promote better health.",
+    "example_jp": "彼らはより良い健康を促進したいと考えている。"
+  },
+  {
+    "word": "promote",
+    "meaning": "昇進させる",
+    "example": "He was promoted to manager.",
+    "example_jp": "彼はマネージャーに昇進した。"
+  },
+  {
+    "word": "enhance",
+    "meaning": "～を高める, 強化する",
+    "example": "This will enhance the value of the property.",
+    "example_jp": "これはその資産の価値を高めるだろう。"
+  },
+  {
+    "word": "accelerate",
+    "meaning": "～を加速する, 促進する",
+    "example": "The government aims to accelerate economic growth.",
+    "example_jp": "政府は経済成長を加速させることを目指している。"
+  },
+  {
+    "word": "boost",
+    "meaning": "～を促進する, 高める",
+    "example": "Regular exercise boosts your energy.",
+    "example_jp": "定期的な運動はエネルギーを高める。"
+  },
+  {
+    "word": "urge",
+    "meaning": "～に(…するよう)せき立てる； 衝動, 欲望",
+    "example": "I urge you to think about the consequences.",
+    "example_jp": "結果について考えるよう強く促す。"
+  },
+  {
+    "word": "encourage",
+    "meaning": "～を(…するよう)励ます, 促進する",
+    "example": "My teacher encouraged me to apply.",
+    "example_jp": "先生は私に応募するよう励ましてくれた。"
+  },
+  {
+    "word": "project",
+    "meaning": "企画, 事業",
+    "example": "We are working on a new project.",
+    "example_jp": "私たちは新しい事業に取り組んでいる。"
+  },
+  {
+    "word": "project",
+    "meaning": "～を見積もる； 投影する",
+    "example": "Sales are projected to grow next year.",
+    "example_jp": "来年の売上は増加すると見積もられている。"
+  },
+  {
+    "word": "enterprise",
+    "meaning": "企て, 事業, 企業",
+    "example": "It was a risky enterprise.",
+    "example_jp": "それは危険な事業だった。"
+  },
+  {
+    "word": "scheme",
+    "meaning": "計画, 枠組み, 制度",
+    "example": "They have a scheme to improve traffic.",
+    "example_jp": "彼らには交通を改善する計画がある。"
+  },
+  {
+    "word": "attempt",
+    "meaning": "試み, 企画； ～を(しようと)試みる",
+    "example": "He attempted to solve the difficult puzzle.",
+    "example_jp": "彼はその難しいパズルを解こうと試みた。"
+  },
+  {
+    "word": "purpose",
+    "meaning": "目的",
+    "example": "What is the purpose of this meeting?",
+    "example_jp": "この会議の目的は何ですか。"
+  },
+  {
+    "word": "intention",
+    "meaning": "意図",
+    "example": "I have no intention of quitting my job.",
+    "example_jp": "私は仕事を辞める意図はない。"
+  },
+  {
+    "word": "destination",
+    "meaning": "目的地, 行き先",
+    "example": "We finally reached our destination.",
+    "example_jp": "私たちはついに目的地に到着した。"
+  },
+  {
+    "word": "ideal",
+    "meaning": "理想； 理想的な",
+    "example": "This is the ideal place for a picnic.",
+    "example_jp": "ここはピクニックに理想的な場所だ。"
+  },
+  {
+    "word": "practical",
+    "meaning": "実用的な, 現実的な",
+    "example": "This bag is very practical for daily use.",
+    "example_jp": "このバッグは日常使いにとても実用的だ。"
+  }
+]

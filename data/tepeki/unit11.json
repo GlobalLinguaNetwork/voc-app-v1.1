@@ -1,0 +1,338 @@
+[
+  {
+    "word": "oppose",
+    "meaning": "～に反対する",
+    "example": "Many people oppose the new plan.",
+    "example_jp": "多くの人がその新しい計画に反対している。"
+  },
+  {
+    "word": "object",
+    "meaning": "物体, 対象, 目的",
+    "example": "He looked at the strange object.",
+    "example_jp": "彼はその奇妙な物体を見た。"
+  },
+  {
+    "word": "object",
+    "meaning": "(～に)反対する",
+    "example": "I object to this proposal.",
+    "example_jp": "私はこの提案に反対だ。"
+  },
+  {
+    "word": "contrary",
+    "meaning": "(～と)反対の",
+    "example": "Her opinion is contrary to mine.",
+    "example_jp": "彼女の意見は私のものと反対だ。"
+  },
+  {
+    "word": "contrast",
+    "meaning": "対照",
+    "example": "There is a sharp contrast between them.",
+    "example_jp": "彼らの間には鮮明な対照がある。"
+  },
+  {
+    "word": "contradict",
+    "meaning": "～を否定する, に反論する, と矛盾する",
+    "example": "His actions contradict his words.",
+    "example_jp": "彼の行動は彼の言葉と矛盾している。"
+  },
+  {
+    "word": "approve",
+    "meaning": "～に賛成する, を認める",
+    "example": "The committee approved the budget.",
+    "example_jp": "委員会は予算を承認した。"
+  },
+  {
+    "word": "consent",
+    "meaning": "(～に)同意する",
+    "example": "He consented to the request.",
+    "example_jp": "彼はその要求に同意した。"
+  },
+  {
+    "word": "consent",
+    "meaning": "同意",
+    "example": "You need his written consent.",
+    "example_jp": "彼の書面による同意が必要だ。"
+  },
+  {
+    "word": "correspond",
+    "meaning": "(～と)一致する, 合致する",
+    "example": "His story does not correspond with the facts.",
+    "example_jp": "彼の話は事実と一致しない。"
+  },
+  {
+    "word": "correspond",
+    "meaning": "(～に)対応する",
+    "example": "The key corresponds to the lock.",
+    "example_jp": "その鍵はその錠に対応している。"
+  },
+  {
+    "word": "accord",
+    "meaning": "(～と)一致する, 調和する",
+    "example": "His actions accord with his beliefs.",
+    "example_jp": "彼の行動は彼の信念と一致している。"
+  },
+  {
+    "word": "conform",
+    "meaning": "(～に)従う, 順応する, 一致する",
+    "example": "You must conform to the rules.",
+    "example_jp": "ルールに従わなければならない。"
+  },
+  {
+    "word": "compatible",
+    "meaning": "(～と)両立可能な, 矛盾しない",
+    "example": "This software is compatible with your computer.",
+    "example_jp": "このソフトはあなたのコンピュータと互換性がある。"
+  },
+  {
+    "word": "compare",
+    "meaning": "～を(…と)比較する",
+    "example": "Compare this price with that one.",
+    "example_jp": "この価格をあれと比較しなさい。"
+  },
+  {
+    "word": "confuse",
+    "meaning": "～を(…と)混同する",
+    "example": "I often confuse him with his brother.",
+    "example_jp": "よく彼と彼の兄弟を混同する。"
+  },
+  {
+    "word": "confuse",
+    "meaning": "～を混乱させる",
+    "example": "The instructions confused me.",
+    "example_jp": "その指示は私を混乱させた。"
+  },
+  {
+    "word": "equal",
+    "meaning": "(～と)等しい, 匹敵する",
+    "example": "Two plus two is equal to four.",
+    "example_jp": "2足す2は4に等しい。"
+  },
+  {
+    "word": "equal",
+    "meaning": "するだけの能力がある",
+    "example": "He is equal to the task.",
+    "example_jp": "彼はその仕事をする能力がある。"
+  },
+  {
+    "word": "equivalent",
+    "meaning": "(～と)同等の",
+    "example": "This is equivalent to a full-time job.",
+    "example_jp": "これはフルタイムの仕事と同等だ。"
+  },
+  {
+    "word": "counterpart",
+    "meaning": "相当するもの・人",
+    "example": "He met with his French counterpart.",
+    "example_jp": "彼はフランスの相当する地位の人と会った。"
+  },
+  {
+    "word": "resemble",
+    "meaning": "～に似ている",
+    "example": "She resembles her mother.",
+    "example_jp": "彼女は母親に似ている。"
+  },
+  {
+    "word": "diverse",
+    "meaning": "多様な",
+    "example": "We have a diverse group of students.",
+    "example_jp": "私たちは多様な学生のグループを持っている。"
+  },
+  {
+    "word": "differ",
+    "meaning": "(～と)(…の点で)異なる",
+    "example": "My opinion differs from yours.",
+    "example_jp": "私の意見はあなたのものとは異なる。"
+  },
+  {
+    "word": "vary",
+    "meaning": "異なる, 変わる",
+    "example": "The results vary from day to day.",
+    "example_jp": "結果は日によって変わる。"
+  },
+  {
+    "word": "linguistic",
+    "meaning": "言語の",
+    "example": "She has a linguistic talent.",
+    "example_jp": "彼女には言語の才能がある。"
+  },
+  {
+    "word": "literary",
+    "meaning": "文学の",
+    "example": "He is a famous literary critic.",
+    "example_jp": "彼は有名な文芸評論家だ。"
+  },
+  {
+    "word": "literal",
+    "meaning": "文字通りの, 字義通りの",
+    "example": "I meant that in a literal sense.",
+    "example_jp": "文字通りの意味でそう言ったのだ。"
+  },
+  {
+    "word": "literate",
+    "meaning": "読み書きができる, 教養のある",
+    "example": "Most of the population is literate.",
+    "example_jp": "人口のほとんどが読み書きができる。"
+  },
+  {
+    "word": "letter",
+    "meaning": "手紙, 文字",
+    "example": "I received a letter today.",
+    "example_jp": "今日手紙を受け取った。"
+  },
+  {
+    "word": "dialogue",
+    "meaning": "対話",
+    "example": "We had a long dialogue about the future.",
+    "example_jp": "未来について長い対話をした。"
+  },
+  {
+    "word": "monologue",
+    "meaning": "独白",
+    "example": "The actor delivered a long monologue.",
+    "example_jp": "その俳優は長い独白をした。"
+  },
+  {
+    "word": "logic",
+    "meaning": "論理, 論理学",
+    "example": "Your argument follows clear logic.",
+    "example_jp": "あなたの議論は明快な論理に基づいている。"
+  },
+  {
+    "word": "apology",
+    "meaning": "謝罪",
+    "example": "He sent her a formal apology.",
+    "example_jp": "彼は彼女に正式な謝罪を送った。"
+  },
+  {
+    "word": "eloquent",
+    "meaning": "雄弁な",
+    "example": "She gave an eloquent speech.",
+    "example_jp": "彼女は雄弁な演説をした。"
+  },
+  {
+    "word": "biology",
+    "meaning": "生物学",
+    "example": "He is studying biology at college.",
+    "example_jp": "彼は大学で生物学を学んでいる。"
+  },
+  {
+    "word": "psychology",
+    "meaning": "心理学",
+    "example": "She is interested in child psychology.",
+    "example_jp": "彼女は児童心理学に興味がある。"
+  },
+  {
+    "word": "analogy",
+    "meaning": "類推",
+    "example": "He used an analogy to explain it.",
+    "example_jp": "彼はそれを説明するために類推を用いた。"
+  },
+  {
+    "word": "verb",
+    "meaning": "動詞",
+    "example": "Find the verb in this sentence.",
+    "example_jp": "この文中の動詞を見つけなさい。"
+  },
+  {
+    "word": "adjective",
+    "meaning": "形容詞",
+    "example": "An adjective modifies a noun.",
+    "example_jp": "形容詞は名詞を修飾する。"
+  },
+  {
+    "word": "proverb",
+    "meaning": "ことわざ",
+    "example": "As the proverb says, time is money.",
+    "example_jp": "ことわざにあるように、時は金なりだ。"
+  },
+  {
+    "word": "oral",
+    "meaning": "口頭の, 口の",
+    "example": "We had an oral exam.",
+    "example_jp": "口頭試験を受けた。"
+  },
+  {
+    "word": "utter",
+    "meaning": "～(言葉)を発する",
+    "example": "He did not utter a single word.",
+    "example_jp": "彼は一言も言葉を発しなかった。"
+  },
+  {
+    "word": "utter",
+    "meaning": "完全な, 全くの",
+    "example": "It was an utter disaster.",
+    "example_jp": "それは完全な災害だった。"
+  },
+  {
+    "word": "refer",
+    "meaning": "(～に)言及する, 参照する, 指す",
+    "example": "Please refer to the manual.",
+    "example_jp": "マニュアルを参照してください。"
+  },
+  {
+    "word": "consult",
+    "meaning": "～に相談する, 辞書などを参照する",
+    "example": "I consulted my doctor.",
+    "example_jp": "医者に相談した。"
+  },
+  {
+    "word": "look up",
+    "meaning": "～(単語など)を調べる",
+    "example": "Look up the word in the dictionary.",
+    "example_jp": "辞書でその単語を調べなさい。"
+  },
+  {
+    "word": "mention",
+    "meaning": "～に言及する, を口にする",
+    "example": "Did he mention me?",
+    "example_jp": "彼は私のことに触れていた？"
+  },
+  {
+    "word": "imply",
+    "meaning": "～を暗に意味する, 含意する",
+    "example": "Her silence implies consent.",
+    "example_jp": "彼女の沈黙は同意を暗に意味している。"
+  },
+  {
+    "word": "infer",
+    "meaning": "～を推察する",
+    "example": "What can you infer from this data?",
+    "example_jp": "このデータから何が推察できますか。"
+  },
+  {
+    "word": "interpret",
+    "meaning": "～を解釈する, 通訳する",
+    "example": "How do you interpret his behavior?",
+    "example_jp": "彼の振る舞いをどう解釈しますか。"
+  },
+  {
+    "word": "describe",
+    "meaning": "～を描写する, 説明する",
+    "example": "Can you describe the man?",
+    "example_jp": "その男を説明できますか。"
+  },
+  {
+    "word": "subscribe",
+    "meaning": "(～を)定期購読する",
+    "example": "I subscribe to this magazine.",
+    "example_jp": "私はこの雑誌を定期購読している。"
+  },
+  {
+    "word": "prescribe",
+    "meaning": "～(薬)を処方する, 指示する",
+    "example": "The doctor prescribed this medicine.",
+    "example_jp": "医者がこの薬を処方した。"
+  },
+  {
+    "word": "manuscript",
+    "meaning": "原稿",
+    "example": "He submitted his manuscript.",
+    "example_jp": "彼は原稿を提出した。"
+  },
+  {
+    "word": "criticize",
+    "meaning": "～を批判する",
+    "example": "It is easy to criticize others.",
+    "example_jp": "他人を批判するのは簡単だ。"
+  }
+]

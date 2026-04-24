@@ -1,0 +1,374 @@
+[
+  {
+    "word": "pretend",
+    "meaning": "(～する)ふりをする",
+    "example": "He pretended to be sick.",
+    "example_jp": "彼は病気のふりをした。"
+  },
+  {
+    "word": "doubt",
+    "meaning": "疑い, ～を疑う",
+    "example": "I doubt whether he will come.",
+    "example_jp": "彼が来るかどうか疑わしい。"
+  },
+  {
+    "word": "belong",
+    "meaning": "(～に)属する, (～の)所有である",
+    "example": "This book belongs to the library.",
+    "example_jp": "この本は図書館のものだ。"
+  },
+  {
+    "word": "fail",
+    "meaning": "(～に)失敗する, (～)しない, できない",
+    "example": "He failed to understand the question.",
+    "example_jp": "彼は質問を理解できなかった。"
+  },
+  {
+    "word": "enable",
+    "meaning": "～に(…するのを)可能にさせる",
+    "example": "This tool enables us to work faster.",
+    "example_jp": "このツールを使えばより速く作業できる。"
+  },
+  {
+    "word": "prefer",
+    "meaning": "～をより好む",
+    "example": "I prefer coffee to tea.",
+    "example_jp": "紅茶よりコーヒーの方が好きだ。"
+  },
+  {
+    "word": "marry",
+    "meaning": "～と結婚する",
+    "example": "They decided to marry next year.",
+    "example_jp": "彼らは来年結婚することにした。"
+  },
+  {
+    "word": "regret",
+    "meaning": "～を後悔する",
+    "example": "I regret saying that to him.",
+    "example_jp": "彼にそんなことを言ったのを後悔している。"
+  },
+  {
+    "word": "satisfy",
+    "meaning": "～を満足させる",
+    "example": "Does the answer satisfy you?",
+    "example_jp": "その答えで満足ですか。"
+  },
+  {
+    "word": "disappoint",
+    "meaning": "～をがっかりさせる",
+    "example": "I don't want to disappoint my parents.",
+    "example_jp": "両親をがっかりさせたくない。"
+  },
+  {
+    "word": "bore",
+    "meaning": "～を退屈させる",
+    "example": "The long speech bored everyone.",
+    "example_jp": "長い演説にみんな退屈した。"
+  },
+  {
+    "word": "amaze",
+    "meaning": "～をびっくりさせる",
+    "example": "The news amazed all of us.",
+    "example_jp": "その知らせに私たちは皆驚いた。"
+  },
+  {
+    "word": "astonish",
+    "meaning": "～をびっくりさせる",
+    "example": "She was astonished by his talent.",
+    "example_jp": "彼女は彼の才能に驚愕した。"
+  },
+  {
+    "word": "frighten",
+    "meaning": "～を怖がらせる, おびえさせる",
+    "example": "Loud noises frighten the baby.",
+    "example_jp": "大きな音は赤ちゃんを怖がらせる。"
+  },
+  {
+    "word": "scare",
+    "meaning": "～を怖がらせる",
+    "example": "Don't scare me like that!",
+    "example_jp": "そんな風に私を怖がらせないで！"
+  },
+  {
+    "word": "cause",
+    "meaning": "原因",
+    "example": "What is the cause of the fire?",
+    "example_jp": "火事の原因は何ですか。"
+  },
+  {
+    "word": "cause",
+    "meaning": "～を引き起こす",
+    "example": "Smoking causes health problems.",
+    "example_jp": "喫煙は健康問題を引き起こす。"
+  },
+  {
+    "word": "factor",
+    "meaning": "要因, 要素",
+    "example": "Price is a key factor in our choice.",
+    "example_jp": "価格は選択の主要な要因だ。"
+  },
+  {
+    "word": "result",
+    "meaning": "結果",
+    "example": "Hard work led to a good result.",
+    "example_jp": "努力が良い結果につながった。"
+  },
+  {
+    "word": "result",
+    "meaning": "結果として生ずる",
+    "example": "Accidents result from carelessness.",
+    "example_jp": "事故は不注意から生じる。"
+  },
+  {
+    "word": "lead",
+    "meaning": "～を(…へ)導く, (～を)引き起こす",
+    "example": "This road leads to the station.",
+    "example_jp": "この道は駅につながっている。"
+  },
+  {
+    "word": "favor",
+    "meaning": "好意, 親切な行為",
+    "example": "Could you do me a favor?",
+    "example_jp": "お願いを聞いていただけますか。"
+  },
+  {
+    "word": "favor",
+    "meaning": "～を好む",
+    "example": "She favors traditional style.",
+    "example_jp": "彼女は伝統的なスタイルを好む。"
+  },
+  {
+    "word": "harm",
+    "meaning": "害, 損害",
+    "example": "The storm did no harm to the house.",
+    "example_jp": "嵐はその家に損害を与えなかった。"
+  },
+  {
+    "word": "harm",
+    "meaning": "～を害する",
+    "example": "Don't harm that animal.",
+    "example_jp": "その動物を傷つけてはいけない。"
+  },
+  {
+    "word": "risk",
+    "meaning": "危険, リスク",
+    "example": "There is a high risk of failure.",
+    "example_jp": "失敗するリスクが高い。"
+  },
+  {
+    "word": "risk",
+    "meaning": "～を危険にさらす",
+    "example": "He risked his life to save her.",
+    "example_jp": "彼は彼女を救うために命を危険にさらした。"
+  },
+  {
+    "word": "board",
+    "meaning": "板, 委員会",
+    "example": "The board decided to fire him.",
+    "example_jp": "委員会は彼を解雇することに決めた。"
+  },
+  {
+    "word": "board",
+    "meaning": "～(乗り物)に搭乗する",
+    "example": "It is time to board the plane.",
+    "example_jp": "飛行機に搭乗する時間だ。"
+  },
+  {
+    "word": "rise",
+    "meaning": "上がる, 増える, 上昇",
+    "example": "The sun rises in the east.",
+    "example_jp": "太陽は東から昇る。"
+  },
+  {
+    "word": "raise",
+    "meaning": "～を上げる, 増やす",
+    "example": "Raise your hand if you know the answer.",
+    "example_jp": "答えを知っていたら手を挙げなさい。"
+  },
+  {
+    "word": "raise",
+    "meaning": "～(子供・家畜)を育てる",
+    "example": "They raised three children.",
+    "example_jp": "彼らは3人の子供を育てた。"
+  },
+  {
+    "word": "lie",
+    "meaning": "横たわる, 存在する",
+    "example": "He lay on the grass.",
+    "example_jp": "彼は芝生の上に横たわった。"
+  },
+  {
+    "word": "lay",
+    "meaning": "～を横たえる, 置く",
+    "example": "Lay the baby on the bed.",
+    "example_jp": "赤ちゃんをベッドに寝かせなさい。"
+  },
+  {
+    "word": "exhibit",
+    "meaning": "～を展示する, 示す, 展示品",
+    "example": "The museum exhibits rare artifacts.",
+    "example_jp": "博物館は珍しい工芸品を展示している。"
+  },
+  {
+    "word": "convenient",
+    "meaning": "便利な, 都合のよい",
+    "example": "This is a very convenient tool.",
+    "example_jp": "これはとても便利なツールだ。"
+  },
+  {
+    "word": "comfort",
+    "meaning": "快適さ",
+    "example": "He lives in great comfort.",
+    "example_jp": "彼はとても快適に暮らしている。"
+  },
+  {
+    "word": "comfort",
+    "meaning": "～を慰める, 元気づける",
+    "example": "She tried to comfort him.",
+    "example_jp": "彼女は彼を元気づけようとした。"
+  },
+  {
+    "word": "correct",
+    "meaning": "正しい",
+    "example": "Your answer is correct.",
+    "example_jp": "あなたの答えは正しい。"
+  },
+  {
+    "word": "correct",
+    "meaning": "～(謝り・欠点)を訂正する, 正す",
+    "example": "Please correct my pronunciation.",
+    "example_jp": "私の発音を直してください。"
+  },
+  {
+    "word": "salary",
+    "meaning": "給料",
+    "example": "He receives a high salary.",
+    "example_jp": "彼は高い給料をもらっている。"
+  },
+  {
+    "word": "reputation",
+    "meaning": "評判, うわさ",
+    "example": "The hotel has a good reputation.",
+    "example_jp": "そのホテルは評判が良い。"
+  },
+  {
+    "word": "rumor",
+    "meaning": "うわさ, 風説",
+    "example": "There is a rumor that they will marry.",
+    "example_jp": "彼らが結婚するといううわさがある。"
+  },
+  {
+    "word": "duty",
+    "meaning": "義務",
+    "example": "It is my duty to help you.",
+    "example_jp": "あなたを助けるのが私の義務だ。"
+  },
+  {
+    "word": "opportunity",
+    "meaning": "機会",
+    "example": "This is a great opportunity to learn.",
+    "example_jp": "これは学ぶ素晴らしい機会だ。"
+  },
+  {
+    "word": "idle",
+    "meaning": "何もしていない, 無用の, 何もしないでいる",
+    "example": "Don't stay idle.",
+    "example_jp": "何もしないでぼんやりしているな。"
+  },
+  {
+    "word": "calm",
+    "meaning": "冷静な, 落ち着いた",
+    "example": "Please stay calm.",
+    "example_jp": "冷静でいてください。"
+  },
+  {
+    "word": "calm",
+    "meaning": "～を落ち着かせる",
+    "example": "He tried to calm the child.",
+    "example_jp": "彼はその子供を落ち着かせようとした。"
+  },
+  {
+    "word": "curious",
+    "meaning": "好奇心のある, 奇妙な",
+    "example": "I am curious about the result.",
+    "example_jp": "結果に好奇心を持っている。"
+  },
+  {
+    "word": "cruel",
+    "meaning": "残酷な",
+    "example": "It is cruel to treat animals that way.",
+    "example_jp": "動物をそんな風に扱うのは残酷だ。"
+  },
+  {
+    "word": "official",
+    "meaning": "公式の",
+    "example": "That is the official statement.",
+    "example_jp": "それが公式の声明だ。"
+  },
+  {
+    "word": "official",
+    "meaning": "公務員, 役人",
+    "example": "He is a government official.",
+    "example_jp": "彼は公務員だ。"
+  },
+  {
+    "word": "relate",
+    "meaning": "～を(…に)関連づける, 話す",
+    "example": "Can you relate your experience?",
+    "example_jp": "あなたの経験を話してくれますか。"
+  },
+  {
+    "word": "absolute",
+    "meaning": "絶対的な, 完全な",
+    "example": "I have absolute trust in him.",
+    "example_jp": "彼に絶対の信頼を寄せている。"
+  },
+  {
+    "word": "relevant",
+    "meaning": "(～と)関連がある, 適切な",
+    "example": "That is not relevant to our discussion.",
+    "example_jp": "それは我々の議論に適切ではない。"
+  },
+  {
+    "word": "mutual",
+    "meaning": "相互の",
+    "example": "We have a mutual friend.",
+    "example_jp": "私たちには共通の友人がいる。"
+  },
+  {
+    "word": "associate",
+    "meaning": "～を(…と)関連づける, 連想する",
+    "example": "I associate summer with the beach.",
+    "example_jp": "夏と聞くとビーチを連想する。"
+  },
+  {
+    "word": "conflict",
+    "meaning": "争い, 衝突",
+    "example": "They have a conflict of interests.",
+    "example_jp": "彼らは利害の対立がある。"
+  },
+  {
+    "word": "conflict",
+    "meaning": "対立する, 衝突する",
+    "example": "His beliefs conflict with mine.",
+    "example_jp": "彼の信念は私のものと対立している。"
+  },
+  {
+    "word": "collision",
+    "meaning": "衝突",
+    "example": "The collision caused heavy damage.",
+    "example_jp": "その衝突が大きな被害を引き起こした。"
+  },
+  {
+    "word": "friction",
+    "meaning": "摩擦, 不和",
+    "example": "There is a lot of friction in the team.",
+    "example_jp": "チーム内に多くの不和がある。"
+  },
+  {
+    "word": "confront",
+    "meaning": "～に直面する",
+    "example": "We must confront the problem.",
+    "example_jp": "私たちはその問題に直面しなければならない。"
+  }
+]

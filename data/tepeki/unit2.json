@@ -1,0 +1,344 @@
+[
+  {
+    "word": "architecture",
+    "meaning": "建築, 建築学",
+    "example": "He studied modern architecture in London.",
+    "example_jp": "彼はロンドンで現代建築を学んだ。"
+  },
+  {
+    "word": "constitute",
+    "meaning": "～を構成する, 占める",
+    "example": "These factors constitute a major problem.",
+    "example_jp": "これらの要因が大きな問題を構成している。"
+  },
+  {
+    "word": "constitute",
+    "meaning": "設立する",
+    "example": "The group was constituted to help the poor.",
+    "example_jp": "その団体は貧しい人々を助けるために設立された。"
+  },
+  {
+    "word": "institute",
+    "meaning": "～(法律・制度)を制定する",
+    "example": "The government will institute new safety measures.",
+    "example_jp": "政府は新しい安全対策を制定する予定だ。"
+  },
+  {
+    "word": "institute",
+    "meaning": "協会, 研究所",
+    "example": "He works at a research institute.",
+    "example_jp": "彼は研究所で働いている。"
+  },
+  {
+    "word": "substitute",
+    "meaning": "～を(…の代わりに)代用する",
+    "example": "You can substitute honey for sugar.",
+    "example_jp": "砂糖の代わりにハチミツを代用できる。"
+  },
+  {
+    "word": "substitute",
+    "meaning": "代用品, 代理人",
+    "example": "He is just a substitute for the main player.",
+    "example_jp": "彼は主力選手の代役にすぎない。"
+  },
+  {
+    "word": "stable",
+    "meaning": "安定した",
+    "example": "The country has a stable government.",
+    "example_jp": "その国には安定した政府がある。"
+  },
+  {
+    "word": "establish",
+    "meaning": "～を設立する, 確立する",
+    "example": "They established a new business in 1990.",
+    "example_jp": "彼らは1990年に新しいビジネスを設立した。"
+  },
+  {
+    "word": "subject",
+    "meaning": "科目, 主題",
+    "example": "What is your favorite subject at school?",
+    "example_jp": "学校で好きな科目は何ですか。"
+  },
+  {
+    "word": "subject",
+    "meaning": "家来, 臣民",
+    "example": "The king loved his subjects.",
+    "example_jp": "王は臣民を愛していた。"
+  },
+  {
+    "word": "subject",
+    "meaning": "患者, 被験者",
+    "example": "He was a subject in the experiment.",
+    "example_jp": "彼は実験の被験者だった。"
+  },
+  {
+    "word": "subject",
+    "meaning": "(～に)従属している, かかりやすい",
+    "example": "This area is subject to heavy rain.",
+    "example_jp": "この地域は激しい雨に見舞われやすい。"
+  },
+  {
+    "word": "subdue",
+    "meaning": "～を征服する, 支配する, 抑える",
+    "example": "The police managed to subdue the crowd.",
+    "example_jp": "警察は群衆をなんとか抑え込んだ。"
+  },
+  {
+    "word": "submit",
+    "meaning": "（～に)服従する, 身を任せる",
+    "example": "They had to submit to the new rules.",
+    "example_jp": "彼らは新しいルールに服従しなければならなかった。"
+  },
+  {
+    "word": "submit",
+    "meaning": "～を服従させる, を提出する",
+    "example": "Please submit your application by Friday.",
+    "example_jp": "金曜日までに申請書を提出してください。"
+  },
+  {
+    "word": "substance",
+    "meaning": "物質、実体",
+    "example": "The unknown substance was sent to the lab.",
+    "example_jp": "未知の物質が研究所に送られた。"
+  },
+  {
+    "word": "fundamental",
+    "meaning": "根本的な, 基礎的な, 重要な",
+    "example": "Hard work is fundamental to success.",
+    "example_jp": "勤勉さは成功の根本である。"
+  },
+  {
+    "word": "fund",
+    "meaning": "資金, 基金",
+    "example": "They raised a fund for the library.",
+    "example_jp": "彼らは図書館のために資金を集めた。"
+  },
+  {
+    "word": "found",
+    "meaning": "～を設立する",
+    "example": "She founded a charity organization.",
+    "example_jp": "彼女は慈善団体を設立した。"
+  },
+  {
+    "word": "foundation",
+    "meaning": "基盤, 基礎, 土台",
+    "example": "Education is the foundation of a good life.",
+    "example_jp": "教育は良い人生の基礎だ。"
+  },
+  {
+    "word": "profound",
+    "meaning": "深い, 深遠な",
+    "example": "Her words had a profound effect on me.",
+    "example_jp": "彼女の言葉は私に深い影響を与えた。"
+  },
+  {
+    "word": "base",
+    "meaning": "土台、基礎",
+    "example": "The base of the statue is made of stone.",
+    "example_jp": "その彫像の土台は石でできている。"
+  },
+  {
+    "word": "basis",
+    "meaning": "基礎",
+    "example": "Trust is the basis of our relationship.",
+    "example_jp": "信頼は我々の関係の基礎だ。"
+  },
+  {
+    "word": "ground",
+    "meaning": "運動場, 地面, 根拠, 理由",
+    "example": "He sat on the ground.",
+    "example_jp": "彼は地面に座った。"
+  },
+  {
+    "word": "superficial",
+    "meaning": "うわべの",
+    "example": "He only has a superficial knowledge of history.",
+    "example_jp": "彼は歴史についてうわべの知識しかない。"
+  },
+  {
+    "word": "shallow",
+    "meaning": "浅い； 浅はかな, うわべの",
+    "example": "The water in the pool is quite shallow.",
+    "example_jp": "プールの水はかなり浅い。"
+  },
+  {
+    "word": "superb",
+    "meaning": "すばらしい, 見事な",
+    "example": "She gave a superb performance.",
+    "example_jp": "彼女はすばらしい演技をした。"
+  },
+  {
+    "word": "supervise",
+    "meaning": "～を監視する, 指揮する",
+    "example": "She supervises the entire team.",
+    "example_jp": "彼女はチーム全体を指揮している。"
+  },
+  {
+    "word": "superstition",
+    "meaning": "迷信",
+    "example": "Breaking a mirror is a common superstition.",
+    "example_jp": "鏡を割ることは一般的な迷信だ。"
+  },
+  {
+    "word": "core",
+    "meaning": "中心, 核心； (果物の)芯",
+    "example": "This issue is at the core of the problem.",
+    "example_jp": "この問題が事の核心だ。"
+  },
+  {
+    "word": "surface",
+    "meaning": "表面, 表層",
+    "example": "The ice on the surface is thin.",
+    "example_jp": "表面の氷は薄い。"
+  },
+  {
+    "word": "internal",
+    "meaning": "内面の, 内側の",
+    "example": "The medicine is for internal use only.",
+    "example_jp": "その薬は内服用だ。"
+  },
+  {
+    "word": "external",
+    "meaning": "外側の",
+    "example": "The external walls need painting.",
+    "example_jp": "外壁の塗装が必要だ。"
+  },
+  {
+    "word": "concentrate",
+    "meaning": "(～に)集中する",
+    "example": "I can't concentrate on my work.",
+    "example_jp": "仕事に集中できない。"
+  },
+  {
+    "word": "focus",
+    "meaning": "(～に)集中する, 重点を置く； 焦点",
+    "example": "Focus on your goals.",
+    "example_jp": "目標に集中しなさい。"
+  },
+  {
+    "word": "compose",
+    "meaning": "～を構成する； 作曲・作文する",
+    "example": "Water is composed of hydrogen and oxygen.",
+    "example_jp": "水は水素と酸素で構成されている。"
+  },
+  {
+    "word": "consist",
+    "meaning": "(～から)成る, (～の中に)ある",
+    "example": "Happiness consists in being content.",
+    "example_jp": "幸福は満足することにある。"
+  },
+  {
+    "word": "organize",
+    "meaning": "～を組織する",
+    "example": "They organized a protest march.",
+    "example_jp": "彼らは抗議デモを組織した。"
+  },
+  {
+    "word": "element",
+    "meaning": "要素, 元素",
+    "example": "Surprise is an element of good storytelling.",
+    "example_jp": "驚きは良い物語の要素だ。"
+  },
+  {
+    "word": "component",
+    "meaning": "構成要素, 部分",
+    "example": "Trust is a key component of a good team.",
+    "example_jp": "信頼は優れたチームの重要な構成要素だ。"
+  },
+  {
+    "word": "complex",
+    "meaning": "複雑な, 複合の",
+    "example": "The situation is very complex.",
+    "example_jp": "その状況はとても複雑だ。"
+  },
+  {
+    "word": "complicated",
+    "meaning": "複雑な",
+    "example": "The rules are too complicated.",
+    "example_jp": "そのルールは複雑すぎる。"
+  },
+  {
+    "word": "reveal",
+    "meaning": "～を明らかにする, 暴露する",
+    "example": "He revealed his secret to me.",
+    "example_jp": "彼は秘密を私に明かした。"
+  },
+  {
+    "word": "conceal",
+    "meaning": "～を隠す",
+    "example": "He tried to conceal his anxiety.",
+    "example_jp": "彼は不安を隠そうとした。"
+  },
+  {
+    "word": "expose",
+    "meaning": "～をさらす",
+    "example": "Don't expose your skin to direct sunlight.",
+    "example_jp": "肌を直射日光にさらさないでください。"
+  },
+  {
+    "word": "impose",
+    "meaning": "～を(…に)課す, 押しつける",
+    "example": "The government imposed a new tax.",
+    "example_jp": "政府は新しい税を課した。"
+  },
+  {
+    "word": "divide",
+    "meaning": "～を分割する",
+    "example": "Divide the cake into four pieces.",
+    "example_jp": "ケーキを4つに分けなさい。"
+  },
+  {
+    "word": "diffuse",
+    "meaning": "～をまき散らす, 分散する； 拡散する",
+    "example": "The smell diffused through the room.",
+    "example_jp": "匂いが部屋中に拡散した。"
+  },
+  {
+    "word": "scatter",
+    "meaning": "～をまき散らす",
+    "example": "She scattered seeds in the garden.",
+    "example_jp": "彼女は庭に種をまき散らした。"
+  },
+  {
+    "word": "spread",
+    "meaning": "広がる, 普及する",
+    "example": "The news spread quickly.",
+    "example_jp": "そのニュースはすぐに広まった。"
+  },
+  {
+    "word": "bend",
+    "meaning": "～を曲げる",
+    "example": "Bend your knees slightly.",
+    "example_jp": "膝を少し曲げなさい。"
+  },
+  {
+    "word": "incline",
+    "meaning": "～を傾ける, (…したい)気持ちにさせる",
+    "example": "I am inclined to agree with you.",
+    "example_jp": "私はあなたに同意するほうに傾いている。"
+  },
+  {
+    "word": "lean",
+    "meaning": "(～に)寄りかかる, もたれる",
+    "example": "Don't lean against the wall.",
+    "example_jp": "壁にもたれかかるな。"
+  },
+  {
+    "word": "erect",
+    "meaning": "～を直立させる, 建てる； 直立した",
+    "example": "They are going to erect a statue here.",
+    "example_jp": "彼らはここに銅像を建てる予定だ。"
+  },
+  {
+    "word": "emit",
+    "meaning": "～を放出する, 排出する",
+    "example": "The factory emits harmful gases.",
+    "example_jp": "その工場は有害なガスを排出している。"
+  },
+  {
+    "word": "absorb",
+    "meaning": "～を吸収する",
+    "example": "Plants absorb water through their roots.",
+    "example_jp": "植物は根から水を吸収する。"
+  }
+]

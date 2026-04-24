@@ -1,0 +1,320 @@
+[
+  {
+    "word": "real",
+    "meaning": "本当の, 本物の, 現実の",
+    "example": "Is this a real diamond?",
+    "example_jp": "これは本物のダイヤモンドですか。"
+  },
+  {
+    "word": "fantasy",
+    "meaning": "空想",
+    "example": "He lives in a world of fantasy.",
+    "example_jp": "彼は空想の世界に生きている。"
+  },
+  {
+    "word": "fancy",
+    "meaning": "空想； ～を想像する",
+    "example": "Can you fancy life without electricity?",
+    "example_jp": "電気のない生活を想像できますか。"
+  },
+  {
+    "word": "fancy",
+    "meaning": "高級な, 手の込んだ",
+    "example": "She wore a very fancy dress.",
+    "example_jp": "彼女はとても高級なドレスを着ていた。"
+  },
+  {
+    "word": "illusion",
+    "meaning": "幻想, 錯覚",
+    "example": "It is an illusion that money brings happiness.",
+    "example_jp": "お金が幸福をもたらすというのは幻想だ。"
+  },
+  {
+    "word": "imagine",
+    "meaning": "～を想像する",
+    "example": "Imagine you are on a beach.",
+    "example_jp": "ビーチにいるところを想像してみて。"
+  },
+  {
+    "word": "task",
+    "meaning": "仕事, 任務",
+    "example": "The task is difficult but important.",
+    "example_jp": "その仕事は困難だが重要だ。"
+  },
+  {
+    "word": "undertake",
+    "meaning": "～を引き受ける",
+    "example": "She decided to undertake the project.",
+    "example_jp": "彼女はそのプロジェクトを引き受けることにした。"
+  },
+  {
+    "word": "cage",
+    "meaning": "檻, かご",
+    "example": "The lion is in a cage.",
+    "example_jp": "ライオンが檻の中にいる。"
+  },
+  {
+    "word": "embark",
+    "meaning": "(～に)船出する, 着手する",
+    "example": "They embarked on a new career.",
+    "example_jp": "彼らは新しい仕事に着手した。"
+  },
+  {
+    "word": "hesitate",
+    "meaning": "(～するのを)ためらう, 躊躇する",
+    "example": "Don't hesitate to ask for help.",
+    "example_jp": "ためらわずに助けを求めてください。"
+  },
+  {
+    "word": "pursue",
+    "meaning": "～を追い求める",
+    "example": "He wants to pursue a career in medicine.",
+    "example_jp": "彼は医学の道を追い求めたいと思っている。"
+  },
+  {
+    "word": "seek",
+    "meaning": "～を探し求める",
+    "example": "Many people seek peace of mind.",
+    "example_jp": "多くの人が心の平安を探し求めている。"
+  },
+  {
+    "word": "strive",
+    "meaning": "(～を得ようと)努力する, 奮闘する",
+    "example": "We must strive for excellence.",
+    "example_jp": "私たちは卓越を目指して努力しなければならない。"
+  },
+  {
+    "word": "assign",
+    "meaning": "～を(…に)割り当てる, 課す",
+    "example": "The teacher assigned homework to us.",
+    "example_jp": "先生が私たちに宿題を課した。"
+  },
+  {
+    "word": "in charge of",
+    "meaning": "～を担当して, の責任者で",
+    "example": "Who is in charge of this department?",
+    "example_jp": "誰がこの部署の責任者ですか。"
+  },
+  {
+    "word": "responsible",
+    "meaning": "(～に対して)責任のある",
+    "example": "You are responsible for your own actions.",
+    "example_jp": "あなたは自分の行動に責任がある。"
+  },
+  {
+    "word": "execute",
+    "meaning": "～を実行する, 果たす",
+    "example": "The plan was executed perfectly.",
+    "example_jp": "その計画は完璧に実行された。"
+  },
+  {
+    "word": "execute",
+    "meaning": "～を処刑する",
+    "example": "The criminal was executed.",
+    "example_jp": "その犯罪者は処刑された。"
+  },
+  {
+    "word": "perform",
+    "meaning": "～を実行する, 果たす",
+    "example": "He performed his duty well.",
+    "example_jp": "彼は自分の任務をよく果たした。"
+  },
+  {
+    "word": "perform",
+    "meaning": "～を演じる, 上演する",
+    "example": "The band will perform tonight.",
+    "example_jp": "そのバンドは今夜演奏する。"
+  },
+  {
+    "word": "performance",
+    "meaning": "実行, 業績, 演技, 演奏",
+    "example": "Her performance was outstanding.",
+    "example_jp": "彼女の演技は傑出していた。"
+  },
+  {
+    "word": "obstacle",
+    "meaning": "障害, 障害物",
+    "example": "Lack of money is a major obstacle.",
+    "example_jp": "資金不足が大きな障害だ。"
+  },
+  {
+    "word": "adverse",
+    "meaning": "逆境の, 不利な",
+    "example": "The drug has adverse side effects.",
+    "example_jp": "その薬には不利な副作用がある。"
+  },
+  {
+    "word": "hardship",
+    "meaning": "苦難, 苦労",
+    "example": "They faced many hardships during the war.",
+    "example_jp": "彼らは戦争中多くの苦難に直面した。"
+  },
+  {
+    "word": "burden",
+    "meaning": "重荷, 負担",
+    "example": "Taxes are a heavy burden for many.",
+    "example_jp": "税金は多くの人にとって重い負担だ。"
+  },
+  {
+    "word": "overcome",
+    "meaning": "～を乗り越える, 克服する",
+    "example": "She overcame her fear of heights.",
+    "example_jp": "彼女は高所恐怖症を克服した。"
+  },
+  {
+    "word": "cope with",
+    "meaning": "～に取り組む, 対処する",
+    "example": "I have to cope with many problems.",
+    "example_jp": "私は多くの問題に対処しなければならない。"
+  },
+  {
+    "word": "tackle",
+    "meaning": "～に取り組む, 立ち向かう",
+    "example": "We must tackle the climate change issue.",
+    "example_jp": "私たちは気候変動問題に取り組まなければならない。"
+  },
+  {
+    "word": "talent",
+    "meaning": "才能",
+    "example": "She has a talent for music.",
+    "example_jp": "彼女には音楽の才能がある。"
+  },
+  {
+    "word": "gift",
+    "meaning": "贈り物, (生まれつきの)才能",
+    "example": "He has a gift for languages.",
+    "example_jp": "彼は語学の才能がある。"
+  },
+  {
+    "word": "ability",
+    "meaning": "能力",
+    "example": "Everyone has the ability to learn.",
+    "example_jp": "誰にでも学ぶ能力がある。"
+  },
+  {
+    "word": "skill",
+    "meaning": "技術, 能力",
+    "example": "He has good communication skills.",
+    "example_jp": "彼は優れたコミュニケーション能力を持っている。"
+  },
+  {
+    "word": "capable",
+    "meaning": "(～の, する)能力がある",
+    "example": "He is capable of doing the job.",
+    "example_jp": "彼はその仕事をやり遂げる能力がある。"
+  },
+  {
+    "word": "capacity",
+    "meaning": "(潜在的な)能力, 受け入れる能力",
+    "example": "The stadium has a large capacity.",
+    "example_jp": "そのスタジアムは大きな収容能力がある。"
+  },
+  {
+    "word": "potential",
+    "meaning": "潜在能力, 可能性； 潜在的に可能な",
+    "example": "This invention has great potential.",
+    "example_jp": "この発明には大きな可能性が秘められている。"
+  },
+  {
+    "word": "effort",
+    "meaning": "努力",
+    "example": "Success requires great effort.",
+    "example_jp": "成功には多大な努力が必要だ。"
+  },
+  {
+    "word": "struggle",
+    "meaning": "奮闘, 努力； 奮闘する, 努力する",
+    "example": "They struggled to survive the winter.",
+    "example_jp": "彼らは冬を生き延びるために奮闘した。"
+  },
+  {
+    "word": "endeavor",
+    "meaning": "努力, 試み； 努力する, 試みる",
+    "example": "He made an endeavor to improve his work.",
+    "example_jp": "彼は仕事を改善するために努力をした。"
+  },
+  {
+    "word": "persist",
+    "meaning": "ねばる, しつこく主張する",
+    "example": "He persisted in asking questions.",
+    "example_jp": "彼はしつこく質問を続けた。"
+  },
+  {
+    "word": "persevere",
+    "meaning": "ねばる",
+    "example": "If you persevere, you will succeed.",
+    "example_jp": "ねばれば、成功するだろう。"
+  },
+  {
+    "word": "efficient",
+    "meaning": "効率的な",
+    "example": "We need a more efficient system.",
+    "example_jp": "私たちはより効率的なシステムが必要だ。"
+  },
+  {
+    "word": "fulfill",
+    "meaning": "～(義務・約束)を果たす, 実行する",
+    "example": "He fulfilled his promise to his parents.",
+    "example_jp": "彼は両親への約束を果たした。"
+  },
+  {
+    "word": "attain",
+    "meaning": "～を達成する, 到達する",
+    "example": "He attained his goal at last.",
+    "example_jp": "彼はついに目標を達成した。"
+  },
+  {
+    "word": "achieve",
+    "meaning": "～を達成する",
+    "example": "Hard work helps you achieve success.",
+    "example_jp": "努力は成功を達成する助けになる。"
+  },
+  {
+    "word": "accomplish",
+    "meaning": "～を成し遂げる, 完成する",
+    "example": "We accomplished the mission safely.",
+    "example_jp": "私たちは任務を安全に成し遂げた。"
+  },
+  {
+    "word": "obtain",
+    "meaning": "～を手に入れる",
+    "example": "I obtained information from the web.",
+    "example_jp": "ウェブから情報を手に入れた。"
+  },
+  {
+    "word": "gain",
+    "meaning": "～を得る, ～を増す； 利益, 増加",
+    "example": "She gained a lot of experience.",
+    "example_jp": "彼女は多くの経験を得た。"
+  },
+  {
+    "word": "acquire",
+    "meaning": "～を獲得する, 身につける, 習得する",
+    "example": "He acquired a new skill.",
+    "example_jp": "彼は新しい技術を習得した。"
+  },
+  {
+    "word": "complete",
+    "meaning": "～を完了する, 完全にする； 完全な, 完成した",
+    "example": "They completed the report yesterday.",
+    "example_jp": "彼らは昨日報告書を完了させた。"
+  },
+  {
+    "word": "temporary",
+    "meaning": "一時的な, 仮の",
+    "example": "This is a temporary solution.",
+    "example_jp": "これは一時的な解決策だ。"
+  },
+  {
+    "word": "contemporary",
+    "meaning": "同時代の, 現代の",
+    "example": "We are studying contemporary art.",
+    "example_jp": "私たちは現代美術を学んでいる。"
+  },
+  {
+    "word": "permanent",
+    "meaning": "不変の, 永続する",
+    "example": "This is a permanent job.",
+    "example_jp": "これは永続的な仕事だ。"
+  }
+]

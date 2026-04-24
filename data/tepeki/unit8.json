@@ -1,0 +1,332 @@
+[
+  {
+    "word": "settle",
+    "meaning": "定住する",
+    "example": "They decided to settle in a small town.",
+    "example_jp": "彼らは小さな町に定住することにした。"
+  },
+  {
+    "word": "settle",
+    "meaning": "～を落ち着かせる, 解決する",
+    "example": "They settled their differences peacefully.",
+    "example_jp": "彼らは意見の相違を平和的に解決した。"
+  },
+  {
+    "word": "frontier",
+    "meaning": "辺境, 最先端",
+    "example": "He is exploring the frontier of science.",
+    "example_jp": "彼は科学の最先端を開拓している。"
+  },
+  {
+    "word": "pioneer",
+    "meaning": "開拓者, 先駆者",
+    "example": "She was a pioneer in space research.",
+    "example_jp": "彼女は宇宙研究の先駆者だった。"
+  },
+  {
+    "word": "pioneer",
+    "meaning": "～を開拓する",
+    "example": "He pioneered a new method of treatment.",
+    "example_jp": "彼は新しい治療法を開拓した。"
+  },
+  {
+    "word": "explore",
+    "meaning": "～を探索する",
+    "example": "They explored the deep jungle.",
+    "example_jp": "彼らは深いジャングルを探索した。"
+  },
+  {
+    "word": "include",
+    "meaning": "～を含む",
+    "example": "The price includes tax.",
+    "example_jp": "その価格には税金が含まれている。"
+  },
+  {
+    "word": "contain",
+    "meaning": "～を含む",
+    "example": "This bottle contains water.",
+    "example_jp": "このボトルには水が入っている。"
+  },
+  {
+    "word": "exclude",
+    "meaning": "～を(…から)除外する",
+    "example": "They excluded him from the team.",
+    "example_jp": "彼らは彼をチームから除外した。"
+  },
+  {
+    "word": "isolate",
+    "meaning": "～を隔離する",
+    "example": "The patients were isolated from others.",
+    "example_jp": "患者たちは他の人から隔離された。"
+  },
+  {
+    "word": "enclose",
+    "meaning": "～を囲む, 同封する",
+    "example": "I enclosed a photo in the letter.",
+    "example_jp": "手紙に写真を同封した。"
+  },
+  {
+    "word": "disclose",
+    "meaning": "～を開示する, 暴く",
+    "example": "The company disclosed its financial report.",
+    "example_jp": "その会社は財務報告書を開示した。"
+  },
+  {
+    "word": "surround",
+    "meaning": "～を取り囲む",
+    "example": "Tall trees surround the house.",
+    "example_jp": "高い木々がその家を取り囲んでいる。"
+  },
+  {
+    "word": "install",
+    "meaning": "～を設置する",
+    "example": "They installed a new security system.",
+    "example_jp": "彼らは新しいセキュリティシステムを設置した。"
+  },
+  {
+    "word": "introduce",
+    "meaning": "～を紹介する, ～を(初めて)導入する",
+    "example": "They introduced a new policy yesterday.",
+    "example_jp": "彼らは昨日新しい方針を導入した。"
+  },
+  {
+    "word": "locate",
+    "meaning": "～(の位置)を突き止める, 見つける, ～を(ある場所に)置く",
+    "example": "Can you locate the nearest station on the map?",
+    "example_jp": "地図で最寄りの駅を見つけられますか。"
+  },
+  {
+    "word": "spot",
+    "meaning": "場所",
+    "example": "This is a beautiful spot.",
+    "example_jp": "ここは美しい場所だ。"
+  },
+  {
+    "word": "spot",
+    "meaning": "～(の位置)を突き止める, 見つける",
+    "example": "I spotted a bird in the tree.",
+    "example_jp": "木の中に鳥を見つけた。"
+  },
+  {
+    "word": "search",
+    "meaning": "(…を求めて)～の中を探す； 探求, 探索",
+    "example": "I searched for my keys everywhere.",
+    "example_jp": "鍵をどこもかしこも探した。"
+  },
+  {
+    "word": "approach",
+    "meaning": "～に接近する, 話しかける",
+    "example": "The train is approaching the station.",
+    "example_jp": "電車が駅に接近している。"
+  },
+  {
+    "word": "remote",
+    "meaning": "遠方の； へんぴな, 人里離れた",
+    "example": "He lives in a remote village.",
+    "example_jp": "彼は人里離れた村に住んでいる。"
+  },
+  {
+    "word": "apart",
+    "meaning": "(～から)離れて",
+    "example": "The two houses are far apart.",
+    "example_jp": "その2軒の家は遠く離れている。"
+  },
+  {
+    "word": "aside",
+    "meaning": "脇に",
+    "example": "He put his book aside.",
+    "example_jp": "彼は本を脇に置いた。"
+  },
+  {
+    "word": "replace",
+    "meaning": "～にとって代わる； ～を(…と)置き換える",
+    "example": "We replaced the old machine with a new one.",
+    "example_jp": "古い機械を新しいものと置き換えた。"
+  },
+  {
+    "word": "site",
+    "meaning": "用地, 現場, サイト",
+    "example": "They visited the construction site.",
+    "example_jp": "彼らは建設現場を訪れた。"
+  },
+  {
+    "word": "realm",
+    "meaning": "領域, 領土, 王国",
+    "example": "This is a complex realm of study.",
+    "example_jp": "これは複雑な研究領域だ。"
+  },
+  {
+    "word": "domain",
+    "meaning": "領域, 領地",
+    "example": "This is beyond my domain of expertise.",
+    "example_jp": "これは私の専門領域を超えている。"
+  },
+  {
+    "word": "range",
+    "meaning": "範囲",
+    "example": "The price is in the range of 10 to 20 dollars.",
+    "example_jp": "価格は10ドルから20ドルの範囲内だ。"
+  },
+  {
+    "word": "scope",
+    "meaning": "(活動などの)範囲, 領域； 機会",
+    "example": "The project is beyond the scope of our plan.",
+    "example_jp": "そのプロジェクトは私たちの計画の範囲を超えている。"
+  },
+  {
+    "word": "category",
+    "meaning": "範疇, 種類",
+    "example": "These products fall into the same category.",
+    "example_jp": "これらの製品は同じ種類に分類される。"
+  },
+  {
+    "word": "genre",
+    "meaning": "（芸術・文学の）ジャンル",
+    "example": "What genre of music do you like?",
+    "example_jp": "どのジャンルの音楽が好きですか。"
+  },
+  {
+    "word": "margin",
+    "meaning": "余白, 余裕, 利ざや",
+    "example": "Leave a wide margin on the left.",
+    "example_jp": "左側に広い余白を残しなさい。"
+  },
+  {
+    "word": "emerge",
+    "meaning": "現れる, 出現する",
+    "example": "The truth emerged after the investigation.",
+    "example_jp": "調査の後、真実が明らかになった。"
+  },
+  {
+    "word": "arise",
+    "meaning": "(～から)生じる",
+    "example": "Problems often arise from poor communication.",
+    "example_jp": "問題はしばしばコミュニケーション不足から生じる。"
+  },
+  {
+    "word": "stem",
+    "meaning": "(～から)生じる",
+    "example": "His success stems from hard work.",
+    "example_jp": "彼の成功は努力から生じている。"
+  },
+  {
+    "word": "stem",
+    "meaning": "茎",
+    "example": "The flower has a long green stem.",
+    "example_jp": "その花は緑の長い茎を持っている。"
+  },
+  {
+    "word": "branch",
+    "meaning": "枝； 支店, 支社, 部門",
+    "example": "The bank has many branches.",
+    "example_jp": "その銀行には多くの支店がある。"
+  },
+  {
+    "word": "derive",
+    "meaning": "(～に)由来する； (…から)～を引き出す",
+    "example": "Many words derive from Latin.",
+    "example_jp": "多くの単語はラテン語に由来する。"
+  },
+  {
+    "word": "generate",
+    "meaning": "～を発生させる, 生み出す",
+    "example": "The solar panels generate electricity.",
+    "example_jp": "太陽光パネルが電気を発生させる。"
+  },
+  {
+    "word": "flourish",
+    "meaning": "繁栄する",
+    "example": "His business is flourishing.",
+    "example_jp": "彼のビジネスは繁栄している。"
+  },
+  {
+    "word": "bloom",
+    "meaning": "(花が)咲く； 栄える； 開花",
+    "example": "These flowers bloom in spring.",
+    "example_jp": "これらの花は春に咲く。"
+  },
+  {
+    "word": "prosper",
+    "meaning": "繁栄する",
+    "example": "The country continues to prosper.",
+    "example_jp": "その国は繁栄し続けている。"
+  },
+  {
+    "word": "thrive",
+    "meaning": "繁栄する",
+    "example": "Small businesses thrive in this city.",
+    "example_jp": "この街では小さなビジネスが繁栄している。"
+  },
+  {
+    "word": "prevail",
+    "meaning": "普及する, 主流となる",
+    "example": "That opinion prevails among students.",
+    "example_jp": "その意見が学生の間で主流だ。"
+  },
+  {
+    "word": "glory",
+    "meaning": "栄光",
+    "example": "They fought for the glory of their country.",
+    "example_jp": "彼らは祖国の栄光のために戦った。"
+  },
+  {
+    "word": "victory",
+    "meaning": "勝利",
+    "example": "They celebrated their victory.",
+    "example_jp": "彼らは勝利を祝った。"
+  },
+  {
+    "word": "triumph",
+    "meaning": "勝利, 大成功； 勝利する",
+    "example": "It was a triumph of science.",
+    "example_jp": "それは科学の偉大な勝利だった。"
+  },
+  {
+    "word": "fame",
+    "meaning": "名声",
+    "example": "He achieved fame at a young age.",
+    "example_jp": "彼は若い頃に名声を手に入れた。"
+  },
+  {
+    "word": "prestige",
+    "meaning": "声, 威信",
+    "example": "The university has great prestige.",
+    "example_jp": "その大学は大きな威信がある。"
+  },
+  {
+    "word": "fade",
+    "meaning": "衰退する, 次第に消える",
+    "example": "The memories began to fade.",
+    "example_jp": "記憶が次第に消え始めた。"
+  },
+  {
+    "word": "decline",
+    "meaning": "衰退する",
+    "example": "The industry is in decline.",
+    "example_jp": "その産業は衰退している。"
+  },
+  {
+    "word": "decline",
+    "meaning": "～(招待・申し出)を断る",
+    "example": "He declined the invitation.",
+    "example_jp": "彼はその招待を断った。"
+  },
+  {
+    "word": "corrupt",
+    "meaning": "頽廃した, 腐敗した； ～を堕落させる",
+    "example": "Power can corrupt people.",
+    "example_jp": "権力は人を堕落させることがある。"
+  },
+  {
+    "word": "decay",
+    "meaning": "腐る, 腐敗する； 腐敗, 衰退",
+    "example": "The old house is in a state of decay.",
+    "example_jp": "その古い家は朽ち果てている。"
+  },
+  {
+    "word": "rot",
+    "meaning": "腐る, 腐敗する",
+    "example": "The fruit started to rot.",
+    "example_jp": "果物が腐り始めた。"
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "word": "hatch",
+    "meaning": "(卵が)かえる、孵化する",
+    "example": "The eggs will hatch in two weeks.",
+    "example_jp": "卵は2週間後にかえる。"
+  },
+  {
+    "word": "wreck",
+    "meaning": "～を大破させる、台なしにする",
+    "example": "The accident wrecked the car completely.",
+    "example_jp": "その事故で車は大破した。"
+  },
+  {
+    "word": "wreck",
+    "meaning": "難破、残骸",
+    "example": "Divers found an old shipwreck.",
+    "example_jp": "ダイバーが古い難破船の残骸を見つけた。"
+  },
+  {
+    "word": "drain",
+    "meaning": "下水、排水",
+    "example": "The water is flowing down the drain.",
+    "example_jp": "水が排水口に流れている。"
+  },
+  {
+    "word": "drain",
+    "meaning": "～の排水をする、を消耗する",
+    "example": "The long trip drained all my energy.",
+    "example_jp": "長い旅でエネルギーをすべて消耗した。"
+  },
+  {
+    "word": "sewage",
+    "meaning": "下水",
+    "example": "The sewage system needs to be repaired.",
+    "example_jp": "下水システムを修理する必要がある。"
+  },
+  {
+    "word": "sew",
+    "meaning": "～を縫う",
+    "example": "She sewed a button onto her shirt.",
+    "example_jp": "彼女はシャツにボタンを縫い付けた。"
+  },
+  {
+    "word": "sober",
+    "meaning": "しらふの",
+    "example": "He is completely sober now.",
+    "example_jp": "彼は今は完全にしらふだ。"
+  },
+  {
+    "word": "sober",
+    "meaning": "ありのままの",
+    "example": "The report gives a sober assessment of the crisis.",
+    "example_jp": "その報告書は危機についてありのままの評価を下している。"
+  },
+  {
+    "word": "kin",
+    "meaning": "血縁、親族",
+    "example": "He is my next of kin.",
+    "example_jp": "彼は私の最も近い親族だ。"
+  },
+  {
+    "word": "merge",
+    "meaning": "合併する",
+    "example": "The two companies decided to merge.",
+    "example_jp": "その2社は合併することを決めた。"
+  },
+  {
+    "word": "riot",
+    "meaning": "暴動、反乱",
+    "example": "The protest turned into a riot.",
+    "example_jp": "抗議活動が暴動に発展した。"
+  },
+  {
+    "word": "galaxy",
+    "meaning": "銀河、星雲",
+    "example": "The Milky Way is our galaxy.",
+    "example_jp": "天の川は私たちの銀河だ。"
+  },
+  {
+    "word": "cosmos",
+    "meaning": "宇宙",
+    "example": "Scientists study the origins of the cosmos.",
+    "example_jp": "科学者は宇宙の起源を研究している。"
+  },
+  {
+    "word": "cosmic",
+    "meaning": "宇宙の",
+    "example": "Cosmic rays come from outer space.",
+    "example_jp": "宇宙線は宇宙空間からやってくる。"
+  },
+  {
+    "word": "celestial",
+    "meaning": "天体の",
+    "example": "The sun and moon are celestial bodies.",
+    "example_jp": "太陽と月は天体である。"
+  },
+  {
+    "word": "comet",
+    "meaning": "彗星",
+    "example": "A comet will pass near Earth next month.",
+    "example_jp": "来月、彗星が地球の近くを通過する。"
+  },
+  {
+    "word": "particle",
+    "meaning": "粒子",
+    "example": "Dust particles float in the air.",
+    "example_jp": "埃の粒子が空気中に漂っている。"
+  },
+  {
+    "word": "debris",
+    "meaning": "残骸、ゴミ",
+    "example": "The street was covered in debris after the storm.",
+    "example_jp": "嵐の後、通りは残骸で覆われていた。"
+  },
+  {
+    "word": "psychiatric",
+    "meaning": "精神医学の",
+    "example": "He is receiving psychiatric treatment.",
+    "example_jp": "彼は精神医学的な治療を受けている。"
+  },
+  {
+    "word": "contaminate",
+    "meaning": "～を汚染する",
+    "example": "The waste contaminated the river.",
+    "example_jp": "廃棄物が川を汚染した。"
+  },
+  {
+    "word": "specimen",
+    "meaning": "標本、見本",
+    "example": "The biologist collected a rare specimen.",
+    "example_jp": "生物学者が希少な標本を収集した。"
+  },
+  {
+    "word": "indigenous",
+    "meaning": "原住民の、その土地固有の",
+    "example": "Kangaroos are indigenous to Australia.",
+    "example_jp": "カンガルーはオーストラリア固有の動物だ。"
+  },
+  {
+    "word": "province",
+    "meaning": "州、省",
+    "example": "He lives in a small province of Canada.",
+    "example_jp": "彼はカナダのある小さな州に住んでいる。"
+  },
+  {
+    "word": "province",
+    "meaning": "地方",
+    "example": "She moved from the city to the provinces.",
+    "example_jp": "彼女は都市から地方へ移住した。"
+  },
+  {
+    "word": "peril",
+    "meaning": "危険",
+    "example": "The hikers were in great peril.",
+    "example_jp": "ハイカーたちは大きな危険にさらされていた。"
+  },
+  {
+    "word": "hazard",
+    "meaning": "危険、危険要素",
+    "example": "Icy roads are a major hazard in winter.",
+    "example_jp": "冬の凍結した道路は大きな危険要素だ。"
+  },
+  {
+    "word": "plausible",
+    "meaning": "もっともらしい、まことしやかな",
+    "example": "That sounds like a plausible explanation.",
+    "example_jp": "それはもっともらしい説明に聞こえる。"
+  },
+  {
+    "word": "preliminary",
+    "meaning": "予備の、事前の",
+    "example": "The results of the preliminary test were good.",
+    "example_jp": "予備テストの結果は良好だった。"
+  },
+  {
+    "word": "anonymous",
+    "meaning": "匿名の",
+    "example": "An anonymous donor gave a million dollars.",
+    "example_jp": "匿名の寄付者が100万ドルを寄付した。"
+  },
+  {
+    "word": "obsolete",
+    "meaning": "すたれた、時代遅れの",
+    "example": "Typewriters have become obsolete.",
+    "example_jp": "タイプライターは時代遅れになった。"
+  },
+  {
+    "word": "innate",
+    "meaning": "生まれつき持っている、固有の",
+    "example": "She has an innate talent for music.",
+    "example_jp": "彼女は生まれつき音楽の才能がある。"
+  },
+  {
+    "word": "subsequent",
+    "meaning": "その後の",
+    "example": "The first meeting was a failure, but subsequent ones were better.",
+    "example_jp": "最初の会議は失敗だったが、その後のものはより良かった。"
+  },
+  {
+    "word": "alleviate",
+    "meaning": "～を軽くする、軽減する",
+    "example": "This medicine will alleviate your pain.",
+    "example_jp": "この薬が痛みを軽減してくれるだろう。"
+  },
+  {
+    "word": "mandatory",
+    "meaning": "強制的な、必須の",
+    "example": "Attendance at the meeting is mandatory.",
+    "example_jp": "会議への出席は必須である。"
+  },
+  {
+    "word": "imperative",
+    "meaning": "必須の、急務の",
+    "example": "It is imperative that we act now.",
+    "example_jp": "今すぐ行動することが急務だ。"
+  },
+  {
+    "word": "advent",
+    "meaning": "出現、到来",
+    "example": "Life changed with the advent of the internet.",
+    "example_jp": "インターネットの到来で生活が変わった。"
+  },
+  {
+    "word": "heredity",
+    "meaning": "遺伝",
+    "example": "Eye color is determined by heredity.",
+    "example_jp": "目の色は遺伝で決まる。"
+  },
+  {
+    "word": "coherent",
+    "meaning": "首尾一貫した",
+    "example": "He failed to give a coherent explanation.",
+    "example_jp": "彼は首尾一貫した説明ができなかった。"
+  },
+  {
+    "word": "legitimate",
+    "meaning": "正当な、合法的な",
+    "example": "The company has a legitimate reason for the delay.",
+    "example_jp": "その会社には遅延に対する正当な理由がある。"
+  },
+  {
+    "word": "certificate",
+    "meaning": "証明書、免許",
+    "example": "I received my graduation certificate.",
+    "example_jp": "私は卒業証明書を受け取った。"
+  },
+  {
+    "word": "autonomy",
+    "meaning": "自治、自立、自主性",
+    "example": "Employees are given a high degree of autonomy.",
+    "example_jp": "従業員には高いレベルの自主性が与えられている。"
+  },
+  {
+    "word": "withstand",
+    "meaning": "～に耐える",
+    "example": "The building can withstand strong earthquakes.",
+    "example_jp": "その建物は強い地震に耐えられる。"
+  },
+  {
+    "word": "supplement",
+    "meaning": "～を補う",
+    "example": "He takes vitamins to supplement his diet.",
+    "example_jp": "彼は食事を補うためにビタミン剤を飲んでいる。"
+  },
+  {
+    "word": "supplement",
+    "meaning": "補うもの、栄養補助食品",
+    "example": "I take a dietary supplement every morning.",
+    "example_jp": "私は毎朝、栄養補助食品を飲んでいる。"
+  },
+  {
+    "word": "dispose",
+    "meaning": "(～する)気にさせる",
+    "example": "His kindness disposed me to trust him.",
+    "example_jp": "彼の親切心で、私は彼を信頼する気になった。"
+  },
+  {
+    "word": "dispose",
+    "meaning": "～を配置する",
+    "example": "The general disposed the troops along the river.",
+    "example_jp": "将軍は兵力を川沿いに配置した。"
+  },
+  {
+    "word": "humane",
+    "meaning": "思いやりのある、人道的な",
+    "example": "We must treat prisoners in a humane way.",
+    "example_jp": "囚人を人道的な方法で扱うべきだ。"
+  },
+  {
+    "word": "personnel",
+    "meaning": "人員部、全職員",
+    "example": "Please contact the personnel department.",
+    "example_jp": "人事部（人員部）に連絡してください。"
+  },
+  {
+    "word": "maxim",
+    "meaning": "格言、原理",
+    "example": "He lives his life by a simple maxim.",
+    "example_jp": "彼はシンプルな格言に従って生きている。"
+  },
+  {
+    "word": "questionnaire",
+    "meaning": "アンケート調査",
+    "example": "Please fill out this questionnaire.",
+    "example_jp": "このアンケートに記入してください。"
+  },
+  {
+    "word": "manifest",
+    "meaning": "～を明らかに示す",
+    "example": "She manifested her anger by shouting.",
+    "example_jp": "彼女は叫ぶことで怒りをあらわにした。"
+  },
+  {
+    "word": "manifest",
+    "meaning": "明白な",
+    "example": "His disappointment was manifest to everyone.",
+    "example_jp": "彼の失望は誰の目にも明白だった。"
+  },
+  {
+    "word": "connotation",
+    "meaning": "言外の意味, 含蓄",
+    "example": "The word 'cheap' has a negative connotation.",
+    "example_jp": "「安い」という言葉には否定的な含蓄がある。"
+  },
+  {
+    "word": "dogma",
+    "meaning": "教義、定説、独断",
+    "example": "Science should be based on evidence, not dogma.",
+    "example_jp": "科学は教義ではなく、根拠に基づくべきだ。"
+  },
+  {
+    "word": "prophet",
+    "meaning": "予言者",
+    "example": "He was known as a great prophet.",
+    "example_jp": "彼は偉大な予言者として知られていた。"
+  },
+  {
+    "word": "symmetry",
+    "meaning": "左右対称、対称",
+    "example": "The building is designed with perfect symmetry.",
+    "example_jp": "その建物は完璧な左右対称に設計されている。"
+  }
+]

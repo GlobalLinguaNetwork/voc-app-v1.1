@@ -1,0 +1,386 @@
+[
+  {
+    "word": "presumably",
+    "meaning": "おそらく、たぶん",
+    "example": "Presumably, he forgot about the meeting.",
+    "example_jp": "おそらく、彼は会議のことを忘れたのだろう。"
+  },
+  {
+    "word": "seemingly",
+    "meaning": "見たところでは",
+    "example": "It was a seemingly simple task.",
+    "example_jp": "それは見たところでは単純な作業だった。"
+  },
+  {
+    "word": "as a matter of fact",
+    "meaning": "実は",
+    "example": "As a matter of fact, I've already seen that movie.",
+    "example_jp": "実は、その映画はもう見たことがあります。"
+  },
+  {
+    "word": "for that matter",
+    "meaning": "さらに言えば",
+    "example": "I don't like fish, or seafood for that matter.",
+    "example_jp": "魚は好きではないし、さらに言えば海鮮全般が好きではない。"
+  },
+  {
+    "word": "thereby",
+    "meaning": "それによって",
+    "example": "He signed the contract, thereby sealing the deal.",
+    "example_jp": "彼は契約書に署名し、それによって取引を確定させた。"
+  },
+  {
+    "word": "whatsoever",
+    "meaning": "全く、少しでも",
+    "example": "I have no doubt whatsoever.",
+    "example_jp": "全く疑いはない。"
+  },
+  {
+    "word": "beneath",
+    "meaning": "～の下に",
+    "example": "The cat is hiding beneath the table.",
+    "example_jp": "猫がテーブルの下に隠れている。"
+  },
+  {
+    "word": "premise",
+    "meaning": "前提、仮定",
+    "example": "The whole argument is based on a false premise.",
+    "example_jp": "その議論全体が間違った前提に基づいている。"
+  },
+  {
+    "word": "entity",
+    "meaning": "存在物、統一体",
+    "example": "The company is a separate legal entity.",
+    "example_jp": "その会社は独立した法的主体（存在物）である。"
+  },
+  {
+    "word": "discourse",
+    "meaning": "論文、講演、言説",
+    "example": "Political discourse has become very aggressive.",
+    "example_jp": "政治的な言説は非常に攻撃的になっている。"
+  },
+  {
+    "word": "transcend",
+    "meaning": "～を越える、超越する",
+    "example": "Great art transcends cultural boundaries.",
+    "example_jp": "偉大な芸術は文化の境界を超える。"
+  },
+  {
+    "word": "ascribe",
+    "meaning": "～の原因を帰す",
+    "example": "He ascribes his success to hard work.",
+    "example_jp": "彼は自分の成功をハードワークのおかげだとしている。"
+  },
+  {
+    "word": "intrinsic",
+    "meaning": "本来備わっている",
+    "example": "Flexibility is intrinsic to this material.",
+    "example_jp": "柔軟性は、この素材が本来備えている特性だ。"
+  },
+  {
+    "word": "articulate",
+    "meaning": "～を(はっきり)言う、発音する",
+    "example": "Please articulate your words clearly.",
+    "example_jp": "言葉をはっきりと発音してください。"
+  },
+  {
+    "word": "articulate",
+    "meaning": "～をつなぐ",
+    "example": "The joints articulate the different parts of the arm.",
+    "example_jp": "関節が腕の異なる部分をつなげている。"
+  },
+  {
+    "word": "formula",
+    "meaning": "公式",
+    "example": "Do you remember the formula for the area of a circle?",
+    "example_jp": "円の面積の公式を覚えていますか。"
+  },
+  {
+    "word": "formula",
+    "meaning": "決まり切ったやり方、製法",
+    "example": "There is no simple formula for success.",
+    "example_jp": "成功への単純な決まり切ったやり方はない。"
+  },
+  {
+    "word": "contend",
+    "meaning": "…と主張する",
+    "example": "The lawyer contended that his client was innocent.",
+    "example_jp": "弁護士は依頼人が無実であると主張した。"
+  },
+  {
+    "word": "contend",
+    "meaning": "争う、対処する",
+    "example": "We have to contend with a lot of noise here.",
+    "example_jp": "ここではひどい騒音に対処しなければならない。"
+  },
+  {
+    "word": "advocate",
+    "meaning": "～を提唱する、主張する",
+    "example": "She advocates for women's rights.",
+    "example_jp": "彼女は女性の権利を提唱している。"
+  },
+  {
+    "word": "advocate",
+    "meaning": "提唱者",
+    "example": "He is a strong advocate of free trade.",
+    "example_jp": "彼は自由貿易の強い提唱者だ。"
+  },
+  {
+    "word": "delegation",
+    "meaning": "代表派遣、使節",
+    "example": "The Japanese delegation arrived in New York.",
+    "example_jp": "日本代表団（使節）がニューヨークに到着した。"
+  },
+  {
+    "word": "sanction",
+    "meaning": "制裁",
+    "example": "The UN imposed economic sanctions on the country.",
+    "example_jp": "国連はその国に経済制裁を科した。"
+  },
+  {
+    "word": "sanction",
+    "meaning": "是認、許可",
+    "example": "The government gave its sanction to the plan.",
+    "example_jp": "政府はその計画を是認した。"
+  },
+  {
+    "word": "pledge",
+    "meaning": "約束、誓約",
+    "example": "They made a pledge to protect the environment.",
+    "example_jp": "彼らは環境を保護することを誓約した。"
+  },
+  {
+    "word": "pledge",
+    "meaning": "～を約束する、誓約する",
+    "example": "The candidate pledged to lower taxes.",
+    "example_jp": "その候補者は減税を約束した。"
+  },
+  {
+    "word": "agenda",
+    "meaning": "協議事項、議題",
+    "example": "What is the first item on the agenda?",
+    "example_jp": "議題の最初の項目は何ですか。"
+  },
+  {
+    "word": "amend",
+    "meaning": "～を修正する、改正する",
+    "example": "The committee voted to amend the law.",
+    "example_jp": "委員会はその法律を改正することに投票した。"
+  },
+  {
+    "word": "subsidy",
+    "meaning": "補助金、助成金",
+    "example": "The government provides a subsidy for electric cars.",
+    "example_jp": "政府は電気自動車に補助金を出している。"
+  },
+  {
+    "word": "intuition",
+    "meaning": "直感",
+    "example": "I trusted my intuition and took the job.",
+    "example_jp": "私は直感を信じてその仕事を引き受けた。"
+  },
+  {
+    "word": "discern",
+    "meaning": "～を見分ける、識別する",
+    "example": "It was difficult to discern the truth from the lies.",
+    "example_jp": "嘘の中から真実を見分けるのは難しかった。"
+  },
+  {
+    "word": "skeptical",
+    "meaning": "懐疑的な",
+    "example": "I'm skeptical about his claims.",
+    "example_jp": "彼の主張には懐疑的だ。"
+  },
+  {
+    "word": "benign",
+    "meaning": "良性の、害のない",
+    "example": "The tumor turned out to be benign.",
+    "example_jp": "その腫瘍は良性であることがわかった。"
+  },
+  {
+    "word": "benign",
+    "meaning": "有益な",
+    "example": "The climate here is benign and mild.",
+    "example_jp": "ここの気候は穏やかで有益だ。"
+  },
+  {
+    "word": "malicious",
+    "meaning": "悪意的な",
+    "example": "He sent a malicious email to his boss.",
+    "example_jp": "彼は上司に悪意のあるメールを送った。"
+  },
+  {
+    "word": "hypocrisy",
+    "meaning": "偽善",
+    "example": "I cannot stand such hypocrisy.",
+    "example_jp": "そんな偽善には耐えられない。"
+  },
+  {
+    "word": "undermine",
+    "meaning": "～を阻害する、弱体化する",
+    "example": "Constant criticism can undermine a person's confidence.",
+    "example_jp": "絶え間ない批判は人の自信を弱めることがある。"
+  },
+  {
+    "word": "impair",
+    "meaning": "～を弱める、損なう",
+    "example": "Drinking alcohol can impair your driving ability.",
+    "example_jp": "飲酒は運転能力を損なう。"
+  },
+  {
+    "word": "deteriorate",
+    "meaning": "悪化する",
+    "example": "The patient's condition began to deteriorate.",
+    "example_jp": "患者の状態が悪化し始めた。"
+  },
+  {
+    "word": "trigger",
+    "meaning": "～を引き起こす、引き金となる",
+    "example": "Certain smells can trigger old memories.",
+    "example_jp": "特定の香りが古い記憶を引き起こすことがある。"
+  },
+  {
+    "word": "trigger",
+    "meaning": "引き金",
+    "example": "He pulled the trigger of the gun.",
+    "example_jp": "彼は銃の引き金を引いた。"
+  },
+  {
+    "word": "induce",
+    "meaning": "～を誘発する、～する気にさせる",
+    "example": "The medicine can induce sleep.",
+    "example_jp": "その薬は眠気を誘発することがある。"
+  },
+  {
+    "word": "deduce",
+    "meaning": "～を導き出す、推論する",
+    "example": "What can we deduce from these facts?",
+    "example_jp": "これらの事実からどのような結論を導き出せますか。"
+  },
+  {
+    "word": "intrigue",
+    "meaning": "～の興味をそそる",
+    "example": "The mysterious letter intrigued her.",
+    "example_jp": "その不思議な手紙が彼女の興味をそそった。"
+  },
+  {
+    "word": "intrigue",
+    "meaning": "陰謀",
+    "example": "The court was full of political intrigue.",
+    "example_jp": "宮廷は政治的な陰謀に満ちていた。"
+  },
+  {
+    "word": "momentum",
+    "meaning": "力、勢い、運動量",
+    "example": "The campaign is gaining momentum.",
+    "example_jp": "キャンペーンが勢いを増している。"
+  },
+  {
+    "word": "velocity",
+    "meaning": "速度",
+    "example": "The rocket reached a high velocity.",
+    "example_jp": "ロケットは高速に達した。"
+  },
+  {
+    "word": "chronic",
+    "meaning": "長期的な、慢性的な",
+    "example": "He suffers from chronic back pain.",
+    "example_jp": "彼は慢性の腰痛に悩んでいる。"
+  },
+  {
+    "word": "lapse",
+    "meaning": "時間の経過",
+    "example": "After a lapse of ten years, they met again.",
+    "example_jp": "10年の歳月が経過し、彼らは再会した。"
+  },
+  {
+    "word": "lapse",
+    "meaning": "ちょっとした誤り",
+    "example": "It was just a temporary lapse of memory.",
+    "example_jp": "それは単なる一時的な記憶違い（誤り）だった。"
+  },
+  {
+    "word": "gravity",
+    "meaning": "重力",
+    "example": "Gravity pulls objects toward the center of the Earth.",
+    "example_jp": "重力は物体を地球の中心に向かって引き寄せる。"
+  },
+  {
+    "word": "gravity",
+    "meaning": "重大さ",
+    "example": "I don't think you realize the gravity of the situation.",
+    "example_jp": "君はこの状況の重大さを理解していないと思う。"
+  },
+  {
+    "word": "orbit",
+    "meaning": "軌道、～の軌道を回る",
+    "example": "The moon orbits the Earth.",
+    "example_jp": "月は地球の軌道を回っている。"
+  },
+  {
+    "word": "axis",
+    "meaning": "軸",
+    "example": "The Earth rotates on its axis.",
+    "example_jp": "地球は自転軸を中心に回転している。"
+  },
+  {
+    "word": "fluid",
+    "meaning": "流動体",
+    "example": "Water is a common fluid.",
+    "example_jp": "水は一般的な流動体だ。"
+  },
+  {
+    "word": "fluid",
+    "meaning": "流動性の",
+    "example": "The situation is still very fluid.",
+    "example_jp": "状況はまだ非常に流動的だ。"
+  },
+  {
+    "word": "resilient",
+    "meaning": "弾力性のある",
+    "example": "Rubber is a resilient material.",
+    "example_jp": "ゴムは弾力性のある素材だ。"
+  },
+  {
+    "word": "resilient",
+    "meaning": "回復力のある、立ち直りの早い",
+    "example": "Children are often more resilient than adults.",
+    "example_jp": "子供はしばしば大人よりも立ち直りが早い。"
+  },
+  {
+    "word": "erode",
+    "meaning": "腐食する、侵食する",
+    "example": "The coastline is being eroded by the sea.",
+    "example_jp": "海岸線が海によって侵食されている。"
+  },
+  {
+    "word": "erupt",
+    "meaning": "噴火する",
+    "example": "The volcano erupted violently.",
+    "example_jp": "火山が激しく噴火した。"
+  },
+  {
+    "word": "assimilate",
+    "meaning": "～を同化する、消化・吸収する",
+    "example": "It takes time to assimilate new information.",
+    "example_jp": "新しい情報を吸収するには時間がかかる。"
+  },
+  {
+    "word": "adhere",
+    "meaning": "くっつく、固守する",
+    "example": "Please adhere to the rules.",
+    "example_jp": "ルールを厳守（固守）してください。"
+  },
+  {
+    "word": "exile",
+    "meaning": "追放、亡命",
+    "example": "The king lived in exile for ten years.",
+    "example_jp": "王は10年間亡命生活を送った。"
+  },
+  {
+    "word": "exile",
+    "meaning": "～を追放する",
+    "example": "The government exiled the political leader.",
+    "example_jp": "政府はその政治リーダーを追放した。"
+  }
+]

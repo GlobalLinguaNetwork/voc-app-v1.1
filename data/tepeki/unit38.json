@@ -1,0 +1,446 @@
+[
+  {
+    "word": "foul",
+    "meaning": "不快な、汚い",
+    "example": "There was a foul smell in the room.",
+    "example_jp": "部屋の中には不快な臭いが漂っていた。"
+  },
+  {
+    "word": "foul",
+    "meaning": "反則の、反則",
+    "example": "The player committed a foul.",
+    "example_jp": "その選手は反則を犯した。"
+  },
+  {
+    "word": "educate",
+    "meaning": "～を教育する",
+    "example": "We need to educate children about safety.",
+    "example_jp": "子供たちに安全について教育する必要がある。"
+  },
+  {
+    "word": "discipline",
+    "meaning": "しつけ、規律",
+    "example": "Strict discipline is necessary in the army.",
+    "example_jp": "軍隊では厳しい規律が必要だ。"
+  },
+  {
+    "word": "discipline",
+    "meaning": "～をしつける、訓練する",
+    "example": "Parents should discipline their children.",
+    "example_jp": "親は子供をしつけるべきだ。"
+  },
+  {
+    "word": "instruct",
+    "meaning": "Aに～するように指示する",
+    "example": "The teacher instructed us to open the books.",
+    "example_jp": "先生は私たちに本を開くように指示した。"
+  },
+  {
+    "word": "enlighten",
+    "meaning": "～を啓蒙・啓発する、に知らせる",
+    "example": "Please enlighten me on this subject.",
+    "example_jp": "この件について私に教えてください。"
+  },
+  {
+    "word": "illuminate",
+    "meaning": "～を照らす",
+    "example": "The moon illuminated the night sky.",
+    "example_jp": "月が夜空を照らしていた。"
+  },
+  {
+    "word": "illuminate",
+    "meaning": "問題を明らかにする",
+    "example": "This study illuminates the causes of the disease.",
+    "example_jp": "この研究はその病気の原因を明らかにしている。"
+  },
+  {
+    "word": "inspire",
+    "meaning": "～を奮起させる、創作意欲をかき立てる",
+    "example": "His speech inspired me to work harder.",
+    "example_jp": "彼の演説に奮起して、もっと努力しようと思った。"
+  },
+  {
+    "word": "incentive",
+    "meaning": "動機付け、やる気を出させるもの",
+    "example": "Money is a strong incentive for many people.",
+    "example_jp": "多くの人々にとって、お金は強い動機付けになる。"
+  },
+  {
+    "word": "enroll",
+    "meaning": "～を登録する、入学・入会させる",
+    "example": "The school decided to enroll more students.",
+    "example_jp": "学校はより多くの生徒を入学させることに決めた。"
+  },
+  {
+    "word": "enroll",
+    "meaning": "入学する",
+    "example": "I want to enroll in a cooking class.",
+    "example_jp": "料理教室に入会したい。"
+  },
+  {
+    "word": "register",
+    "meaning": "～を登録する、記録する",
+    "example": "You must register your car with the city.",
+    "example_jp": "市に車を登録しなければならない。"
+  },
+  {
+    "word": "register",
+    "meaning": "書留にする",
+    "example": "I will register this letter.",
+    "example_jp": "この手紙を書留にします。"
+  },
+  {
+    "word": "register",
+    "meaning": "登録する",
+    "example": "Please register for the seminar online.",
+    "example_jp": "セミナーへの登録はオンラインでお願いします。"
+  },
+  {
+    "word": "sign up",
+    "meaning": "登録する",
+    "example": "I signed up for the gym last week.",
+    "example_jp": "先週ジムに登録した。"
+  },
+  {
+    "word": "tuition",
+    "meaning": "授業料",
+    "example": "College tuition is becoming very expensive.",
+    "example_jp": "大学の授業料は非常に高くなってきている。"
+  },
+  {
+    "word": "tutor",
+    "meaning": "家庭教師、個人電話",
+    "example": "My parents hired a math tutor for me.",
+    "example_jp": "親が私のために数学の家庭教師を雇った。"
+  },
+  {
+    "word": "tutor",
+    "meaning": "～を(個人的に)教える",
+    "example": "She tutors students in English.",
+    "example_jp": "彼女は生徒に個人的に英語を教えている。"
+  },
+  {
+    "word": "faculty",
+    "meaning": "大学の学部",
+    "example": "He is a member of the law faculty.",
+    "example_jp": "彼は法学部のメンバーだ。"
+  },
+  {
+    "word": "faculty",
+    "meaning": "能力",
+    "example": "He has a great faculty for languages.",
+    "example_jp": "彼は言語に対する素晴らしい能力を持っている。"
+  },
+  {
+    "word": "facility",
+    "meaning": "施設、設備",
+    "example": "The sports facility is open to everyone.",
+    "example_jp": "そのスポーツ施設は誰でも利用できる。"
+  },
+  {
+    "word": "facility",
+    "meaning": "能力、容易さ",
+    "example": "She speaks French with great facility.",
+    "example_jp": "彼女は非常に軽々と（容易に）フランス語を話す。"
+  },
+  {
+    "word": "sophomore",
+    "meaning": "二年生",
+    "example": "I am a sophomore in college.",
+    "example_jp": "私は大学二年生です。"
+  },
+  {
+    "word": "semester",
+    "meaning": "学期",
+    "example": "The first semester ends in June.",
+    "example_jp": "第一学期は6月に終わる。"
+  },
+  {
+    "word": "curriculum",
+    "meaning": "カリキュラム、教科課程",
+    "example": "The school is updating its curriculum.",
+    "example_jp": "学校はカリキュラムを更新している。"
+  },
+  {
+    "word": "diploma",
+    "meaning": "学位",
+    "example": "She received her diploma last May.",
+    "example_jp": "彼女は去年の5月に学位を授与された。"
+  },
+  {
+    "word": "grade",
+    "meaning": "等級、学生",
+    "example": "My son is in the third grade.",
+    "example_jp": "私の息子は小学3年生です。"
+  },
+  {
+    "word": "grade",
+    "meaning": "評価、成績",
+    "example": "I got a good grade on the test.",
+    "example_jp": "テストで良い成績を取った。"
+  },
+  {
+    "word": "mark",
+    "meaning": "成績",
+    "example": "He got a high mark in history.",
+    "example_jp": "彼は歴史で高得点を取った。"
+  },
+  {
+    "word": "mark",
+    "meaning": "印、指標",
+    "example": "Make a mark on the map.",
+    "example_jp": "地図に印を付けてください。"
+  },
+  {
+    "word": "mark",
+    "meaning": "～を印す",
+    "example": "Mark the date on your calendar.",
+    "example_jp": "カレンダーにその日に印を付けておいて。"
+  },
+  {
+    "word": "rank",
+    "meaning": "等級、階級",
+    "example": "He rose to the rank of captain.",
+    "example_jp": "彼は大尉の階級まで昇進した。"
+  },
+  {
+    "word": "rank",
+    "meaning": "位置する、～を位置づける",
+    "example": "This city ranks high for quality of life.",
+    "example_jp": "この都市は生活の質において上位に位置している。"
+  },
+  {
+    "word": "profession",
+    "meaning": "職業",
+    "example": "Teaching is a noble profession.",
+    "example_jp": "教師は崇高な職業だ。"
+  },
+  {
+    "word": "vocation",
+    "meaning": "天職",
+    "example": "Nursing is more than a job; it's a vocation.",
+    "example_jp": "看護は単なる仕事ではなく、天職だ。"
+  },
+  {
+    "word": "candidate",
+    "meaning": "志願者、候補者",
+    "example": "He is the best candidate for the job.",
+    "example_jp": "彼はその仕事に最適な候補者だ。"
+  },
+  {
+    "word": "colleague",
+    "meaning": "同僚",
+    "example": "I'm going to lunch with a colleague.",
+    "example_jp": "同僚と一緒にランチに行きます。"
+  },
+  {
+    "word": "technology",
+    "meaning": "科学技術",
+    "example": "Technology is changing the way we live.",
+    "example_jp": "科学技術は私たちの生活様式を変えている。"
+  },
+  {
+    "word": "innovation",
+    "meaning": "革新、革新技術",
+    "example": "Technical innovation is key to growth.",
+    "example_jp": "技術革新が成長の鍵となる。"
+  },
+  {
+    "word": "novel",
+    "meaning": "小説",
+    "example": "I'm reading a historical novel.",
+    "example_jp": "歴史小説を読んでいます。"
+  },
+  {
+    "word": "novel",
+    "meaning": "斬新な、新奇な",
+    "example": "That's a novel approach to the problem.",
+    "example_jp": "それはその問題に対する斬新なアプローチだ。"
+  },
+  {
+    "word": "patent",
+    "meaning": "特許",
+    "example": "He filed a patent for his invention.",
+    "example_jp": "彼は発明の特許を申請した。"
+  },
+  {
+    "word": "patent",
+    "meaning": "～の特許をとる",
+    "example": "The company patented the new technology.",
+    "example_jp": "その会社は新技術の特許を取得した。"
+  },
+  {
+    "word": "breakthrough",
+    "meaning": "大躍進",
+    "example": "Scientists made a major breakthrough in cancer research.",
+    "example_jp": "科学者たちはがん研究において大きな躍進を遂げた。"
+  },
+  {
+    "word": "exploit",
+    "meaning": "～を開発・利用する",
+    "example": "We should exploit these resources better.",
+    "example_jp": "これらの資源をもっとうまく利用すべきだ。"
+  },
+  {
+    "word": "exploit",
+    "meaning": "搾取する",
+    "example": "Some companies exploit their workers.",
+    "example_jp": "一部の企業は労働者を搾取している。"
+  },
+  {
+    "word": "tool",
+    "meaning": "道具、工具",
+    "example": "A hammer is a useful tool.",
+    "example_jp": "ハンマーは便利な道具だ。"
+  },
+  {
+    "word": "implement",
+    "meaning": "道具、用具",
+    "example": "Agricultural implements are kept in the shed.",
+    "example_jp": "農具は小屋に保管されている。"
+  },
+  {
+    "word": "implement",
+    "meaning": "～を実行する",
+    "example": "We will implement the new policy next month.",
+    "example_jp": "来月から新方針を実行します。"
+  },
+  {
+    "word": "instrument",
+    "meaning": "器具",
+    "example": "The surgeon used a sharp instrument.",
+    "example_jp": "外科医は鋭い器具を使った。"
+  },
+  {
+    "word": "instrument",
+    "meaning": "楽器",
+    "example": "Can you play any musical instrument?",
+    "example_jp": "何か楽器を演奏できますか。"
+  },
+  {
+    "word": "machinery",
+    "meaning": "機械類",
+    "example": "The factory installed new machinery.",
+    "example_jp": "工場に新しい機械類が導入された。"
+  },
+  {
+    "word": "appliance",
+    "meaning": "電気製品",
+    "example": "A microwave is a handy kitchen appliance.",
+    "example_jp": "電子レンジは便利な調理家電だ。"
+  },
+  {
+    "word": "apparatus",
+    "meaning": "装置・器具(一式)",
+    "example": "They set up the breathing apparatus.",
+    "example_jp": "彼らは呼吸装置をセットした。"
+  },
+  {
+    "word": "gadget",
+    "meaning": "機械器具",
+    "example": "This gadget makes peeling garlic easy.",
+    "example_jp": "この便利グッズを使えばニンニクの皮むきが簡単だ。"
+  },
+  {
+    "word": "function",
+    "meaning": "機能、働き",
+    "example": "What is the main function of this button?",
+    "example_jp": "このボタンの主な機能は何ですか。"
+  },
+  {
+    "word": "function",
+    "meaning": "機能する",
+    "example": "The old elevator is still functioning.",
+    "example_jp": "古いエレベーターはまだ機能している。"
+  },
+  {
+    "word": "electric",
+    "meaning": "電気の",
+    "example": "I bought an electric kettle.",
+    "example_jp": "電気ケトルを買った。"
+  },
+  {
+    "word": "electronic",
+    "meaning": "電子の",
+    "example": "Electronic devices are everywhere now.",
+    "example_jp": "今や電子機器はどこにでもある。"
+  },
+  {
+    "word": "vehicle",
+    "meaning": "乗り物",
+    "example": "The car is a common vehicle for transport.",
+    "example_jp": "車は一般的な輸送手段（乗り物）だ。"
+  },
+  {
+    "word": "vehicle",
+    "meaning": "伝達手段、媒体、原動力",
+    "example": "Art can be a vehicle for social change.",
+    "example_jp": "芸術は社会変革の媒体となり得る。"
+  },
+  {
+    "word": "automobile",
+    "meaning": "自動車",
+    "example": "The automobile industry is evolving.",
+    "example_jp": "自動車産業は進化している。"
+  },
+  {
+    "word": "wheel",
+    "meaning": "車輪",
+    "example": "The wheel was one of the greatest inventions.",
+    "example_jp": "車輪は最大の発明の一つだった。"
+  },
+  {
+    "word": "wheel",
+    "meaning": "ハンドル",
+    "example": "Keep both hands on the wheel.",
+    "example_jp": "両手をハンドルに置いて。"
+  },
+  {
+    "word": "pedestrian",
+    "meaning": "歩行者",
+    "example": "Drivers must yield to pedestrians.",
+    "example_jp": "運転手は歩行者に道を譲らなければならない。"
+  },
+  {
+    "word": "pave",
+    "meaning": "～を舗装する",
+    "example": "The city is planning to pave the road.",
+    "example_jp": "市はその道を舗装する計画だ。"
+  },
+  {
+    "word": "manual",
+    "meaning": "手動の、手作業の",
+    "example": "Manual labor can be very tiring.",
+    "example_jp": "肉体労働（手作業）はとても疲れる。"
+  },
+  {
+    "word": "manual",
+    "meaning": "マニュアル、説明書",
+    "example": "Please read the instruction manual.",
+    "example_jp": "取扱説明書を読んでください。"
+  },
+  {
+    "word": "automatic",
+    "meaning": "自動の",
+    "example": "The door is automatic.",
+    "example_jp": "そのドアは自動だ。"
+  },
+  {
+    "word": "cover",
+    "meaning": "～を覆う",
+    "example": "Snow covered the entire village.",
+    "example_jp": "雪が村全体を覆った。"
+  },
+  {
+    "word": "cover",
+    "meaning": "～の範囲にわたる",
+    "example": "The insurance policy covers theft.",
+    "example_jp": "その保険は盗難をカバーしている。"
+  },
+  {
+    "word": "cover",
+    "meaning": "～を報道する",
+    "example": "Reporters came to cover the event.",
+    "example_jp": "記者たちがそのイベントを報道しに来た。"
+  }
+]

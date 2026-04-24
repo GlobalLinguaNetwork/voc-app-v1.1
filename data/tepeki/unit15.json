@@ -1,0 +1,332 @@
+[
+  {
+    "word": "independent",
+    "meaning": "（～から）独立している",
+    "example": "He is independent of his parents.",
+    "example_jp": "彼は両親から独立している。"
+  },
+  {
+    "word": "rely",
+    "meaning": "（～に）頼る、（を）あてにする",
+    "example": "You can rely on him in an emergency.",
+    "example_jp": "緊急時には彼を頼りにしていい。"
+  },
+  {
+    "word": "count on",
+    "meaning": "～をあてにする、頼りにする",
+    "example": "I am counting on your support.",
+    "example_jp": "あなたの支援をあてにしている。"
+  },
+  {
+    "word": "trust",
+    "meaning": "～を信用する",
+    "example": "I trust you to tell the truth.",
+    "example_jp": "あなたが真実を話してくれると信じている。"
+  },
+  {
+    "word": "trust",
+    "meaning": "信用",
+    "example": "We need to build mutual trust.",
+    "example_jp": "私たちは相互の信用を築く必要がある。"
+  },
+  {
+    "word": "compete",
+    "meaning": "競争する",
+    "example": "Small shops cannot compete with large stores.",
+    "example_jp": "小さな店は大型店と競争できない。"
+  },
+  {
+    "word": "press",
+    "meaning": "押す",
+    "example": "Press the button to start.",
+    "example_jp": "開始するにはボタンを押しなさい。"
+  },
+  {
+    "word": "press",
+    "meaning": "強く求める",
+    "example": "They pressed me for an answer.",
+    "example_jp": "彼らは私に答えを強く求めた。"
+  },
+  {
+    "word": "press",
+    "meaning": "新聞・雑誌、報道",
+    "example": "The incident was covered by the press.",
+    "example_jp": "その事件は報道機関によって取り上げられた。"
+  },
+  {
+    "word": "impress",
+    "meaning": "印象づける、感動させる",
+    "example": "His speech impressed me greatly.",
+    "example_jp": "彼の演説は私に大きな感銘を与えた。"
+  },
+  {
+    "word": "express",
+    "meaning": "表に出す、表現する",
+    "example": "It is hard to express my feelings in words.",
+    "example_jp": "自分の感情を言葉で表現するのは難しい。"
+  },
+  {
+    "word": "oppress",
+    "meaning": "圧迫する、虐げる",
+    "example": "The people were oppressed by the dictator.",
+    "example_jp": "人々は独裁者によって虐げられた。"
+  },
+  {
+    "word": "suppress",
+    "meaning": "抑える、抑圧する",
+    "example": "She tried to suppress a smile.",
+    "example_jp": "彼女は笑いを抑えようとした。"
+  },
+  {
+    "word": "threat",
+    "meaning": "脅し、脅威",
+    "example": "Climate change is a global threat.",
+    "example_jp": "気候変動は世界的な脅威だ。"
+  },
+  {
+    "word": "menace",
+    "meaning": "脅威",
+    "example": "Pollution is a menace to our health.",
+    "example_jp": "汚染は私たちの健康への脅威だ。"
+  },
+  {
+    "word": "tame",
+    "meaning": "飼いならす",
+    "example": "It is hard to tame a wild animal.",
+    "example_jp": "野生動物を飼いならすのは難しい。"
+  },
+  {
+    "word": "tame",
+    "meaning": "飼いならされた",
+    "example": "The cat is quite tame.",
+    "example_jp": "その猫はとても飼いならされている（おとなしい）。"
+  },
+  {
+    "word": "superior",
+    "meaning": "～より優れている",
+    "example": "This model is superior to the old one.",
+    "example_jp": "このモデルは古いものより優れている。"
+  },
+  {
+    "word": "inferior",
+    "meaning": "～より劣っている",
+    "example": "The quality of this product is inferior.",
+    "example_jp": "この製品の品質は劣っている。"
+  },
+  {
+    "word": "surpass",
+    "meaning": "～より優れる、～を越える",
+    "example": "Their sales surpassed our expectations.",
+    "example_jp": "彼らの売上は我々の予想を越えた。"
+  },
+  {
+    "word": "excel",
+    "meaning": "優れる",
+    "example": "He excels in mathematics.",
+    "example_jp": "彼は数学に優れている。"
+  },
+  {
+    "word": "perceive",
+    "meaning": "知覚する、感じ取る、認識する",
+    "example": "I perceived a change in his attitude.",
+    "example_jp": "彼の態度に変化を感じ取った。"
+  },
+  {
+    "word": "conceive",
+    "meaning": "考えだす、考案する、心に抱く",
+    "example": "He conceived a new plan for the project.",
+    "example_jp": "彼はプロジェクトのための新しい計画を考えだした。"
+  },
+  {
+    "word": "deceive",
+    "meaning": "だます",
+    "example": "He deceived me into signing the paper.",
+    "example_jp": "彼は私をだして書類に署名させた。"
+  },
+  {
+    "word": "sense",
+    "meaning": "感覚、判断力、思慮、意味",
+    "example": "She has a good sense of humor.",
+    "example_jp": "彼女は優れたユーモアのセンスを持っている。"
+  },
+  {
+    "word": "sense",
+    "meaning": "～に感づく",
+    "example": "I sensed something was wrong.",
+    "example_jp": "何かがおかしいと感づいた。"
+  },
+  {
+    "word": "sensitive",
+    "meaning": "敏感な",
+    "example": "She is sensitive to cold.",
+    "example_jp": "彼女は寒さに敏感だ。"
+  },
+  {
+    "word": "sensible",
+    "meaning": "分別のある、賢明な",
+    "example": "It was a sensible decision.",
+    "example_jp": "それは賢明な決断だった。"
+  },
+  {
+    "word": "sensation",
+    "meaning": "感覚、物議、騒動",
+    "example": "The news caused a sensation.",
+    "example_jp": "そのニュースは騒動を引き起こした。"
+  },
+  {
+    "word": "visual",
+    "meaning": "視覚の",
+    "example": "The presentation had great visual appeal.",
+    "example_jp": "そのプレゼンは視覚的な訴求力があった。"
+  },
+  {
+    "word": "visible",
+    "meaning": "目に見える",
+    "example": "The stars are visible tonight.",
+    "example_jp": "今夜は星が見える。"
+  },
+  {
+    "word": "revise",
+    "meaning": "改訂する、修正する",
+    "example": "I need to revise my essay.",
+    "example_jp": "エッセイを修正する必要がある。"
+  },
+  {
+    "word": "devise",
+    "meaning": "考案する",
+    "example": "They devised a new way to save energy.",
+    "example_jp": "彼らは省エネのための新しい方法を考案した。"
+  },
+  {
+    "word": "sight",
+    "meaning": "視覚、視力、光景、名所",
+    "example": "The mountains are a beautiful sight.",
+    "example_jp": "山々は美しい光景だ。"
+  },
+  {
+    "word": "stare",
+    "meaning": "（じろじろ）見つめる",
+    "example": "It is rude to stare at strangers.",
+    "example_jp": "見知らぬ人をじろじろ見るのは失礼だ。"
+  },
+  {
+    "word": "gaze",
+    "meaning": "（うっとりして・ぼーっと）見つめる",
+    "example": "She gazed at the stars for hours.",
+    "example_jp": "彼女は何時間も星を見つめていた。"
+  },
+  {
+    "word": "glance",
+    "meaning": "（意識的に）ちらりと見る",
+    "example": "He glanced at his watch.",
+    "example_jp": "彼はちらりと時計を見た。"
+  },
+  {
+    "word": "glimpse",
+    "meaning": "（偶然）ちらりと見る、垣間見る",
+    "example": "I caught a glimpse of the actor.",
+    "example_jp": "その俳優をちらりと見かけた。"
+  },
+  {
+    "word": "audible",
+    "meaning": "聞こえる",
+    "example": "Her voice was barely audible.",
+    "example_jp": "彼女の声はほとんど聞こえなかった。"
+  },
+  {
+    "word": "audience",
+    "meaning": "聴衆、観客",
+    "example": "The audience enjoyed the performance.",
+    "example_jp": "聴衆はその演技を楽しんだ。"
+  },
+  {
+    "word": "scent",
+    "meaning": "香り",
+    "example": "The room was filled with the scent of flowers.",
+    "example_jp": "部屋は花の香りで満たされていた。"
+  },
+  {
+    "word": "odor",
+    "meaning": "におい",
+    "example": "There was a strange odor in the room.",
+    "example_jp": "部屋に変なにおいがした。"
+  },
+  {
+    "word": "flavor",
+    "meaning": "味",
+    "example": "This ice cream has a strawberry flavor.",
+    "example_jp": "このアイスクリームはイチゴ味だ。"
+  },
+  {
+    "word": "arouse",
+    "meaning": "～（感情など）を呼び起こす、刺激する",
+    "example": "The news aroused his curiosity.",
+    "example_jp": "そのニュースが彼の好奇心を呼び起こした。"
+  },
+  {
+    "word": "evoke",
+    "meaning": "～（感情など）を呼び起こす、呼び覚ます",
+    "example": "The song evoked memories of my childhood.",
+    "example_jp": "その歌は子供時代の記憶を呼び覚ました。"
+  },
+  {
+    "word": "provoke",
+    "meaning": "～（反応など）を引き起こす",
+    "example": "The decision provoked a strong reaction.",
+    "example_jp": "その決定は強い反応を引き起こした。"
+  },
+  {
+    "word": "stimulate",
+    "meaning": "～を刺激する、促進する",
+    "example": "The government wants to stimulate the economy.",
+    "example_jp": "政府は経済を刺激したいと考えている。"
+  },
+  {
+    "word": "instinct",
+    "meaning": "本能",
+    "example": "Birds fly south by instinct.",
+    "example_jp": "鳥は本能で南へ飛ぶ。"
+  },
+  {
+    "word": "impulse",
+    "meaning": "衝動",
+    "example": "He bought it on impulse.",
+    "example_jp": "彼は衝動買いをした。"
+  },
+  {
+    "word": "embarrass",
+    "meaning": "恥ずかしい思いをさせる、当惑させる",
+    "example": "Don't embarrass me in public.",
+    "example_jp": "人前で私に恥をかかせないで。"
+  },
+  {
+    "word": "shame",
+    "meaning": "恥、残念なこと",
+    "example": "It's a shame that you can't come.",
+    "example_jp": "君が来られないなんて残念だ。"
+  },
+  {
+    "word": "nerve",
+    "meaning": "神経",
+    "example": "The injury damaged a nerve in his arm.",
+    "example_jp": "その怪我で腕の神経が損傷した。"
+  },
+  {
+    "word": "emotion",
+    "meaning": "感情",
+    "example": "He couldn't hide his emotions.",
+    "example_jp": "彼は感情を隠せなかった。"
+  },
+  {
+    "word": "passion",
+    "meaning": "情熱",
+    "example": "She has a passion for music.",
+    "example_jp": "彼女には音楽への情熱がある。"
+  },
+  {
+    "word": "compassion",
+    "meaning": "同情、あわれみ",
+    "example": "He felt compassion for the poor.",
+    "example_jp": "彼は貧しい人々に対して同情を感じた。"
+  }
+]

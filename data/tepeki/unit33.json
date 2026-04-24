@@ -1,0 +1,344 @@
+[
+  {
+    "word": "other way around",
+    "meaning": "あべこべ、逆",
+    "example": "It should be the other way around.",
+    "example_jp": "それは逆であるべきだ。"
+  },
+  {
+    "word": "this and that",
+    "meaning": "あれこれ、様々なこと",
+    "example": "We talked about this and that.",
+    "example_jp": "私たちはあれこれについて話した。"
+  },
+  {
+    "word": "for the good of",
+    "meaning": "～のために、利益となるように",
+    "example": "He did it for the good of the team.",
+    "example_jp": "彼はチームの利益のためにそれを行った。"
+  },
+  {
+    "word": "as good as",
+    "meaning": "～も同然",
+    "example": "The work is as good as finished.",
+    "example_jp": "その仕事は終わったも同然だ。"
+  },
+  {
+    "word": "get the better of",
+    "meaning": "～に勝る、打ち勝つ",
+    "example": "Don't let anger get the better of you.",
+    "example_jp": "怒りに負けないようにしなさい。"
+  },
+  {
+    "word": "know better",
+    "meaning": "～するほど馬鹿ではない、もっと分別がある",
+    "example": "I know better than to trust him.",
+    "example_jp": "彼を信用するほど私は馬鹿ではない。"
+  },
+  {
+    "word": "to the best of my knowledge",
+    "meaning": "私の知る限りでは",
+    "example": "To the best of my knowledge, he is innocent.",
+    "example_jp": "私の知る限り、彼は無実だ。"
+  },
+  {
+    "word": "to say the least",
+    "meaning": "控えめに言っても",
+    "example": "It was disappointing, to say the least.",
+    "example_jp": "控えめに言っても、それは期待外れだった。"
+  },
+  {
+    "word": "take ～ for granted",
+    "meaning": "当然とみなす",
+    "example": "Never take your health for granted.",
+    "example_jp": "健康を当たり前だと思ってはいけない。"
+  },
+  {
+    "word": "take one's word for it",
+    "meaning": "～の言うことを信じる",
+    "example": "I'll take your word for it.",
+    "example_jp": "君の言うことを信じるよ。"
+  },
+  {
+    "word": "take it easy",
+    "meaning": "気楽にやる",
+    "example": "Take it easy and don't work too hard.",
+    "example_jp": "気楽にやって、あまり頑張りすぎないで。"
+  },
+  {
+    "word": "keep up with",
+    "meaning": "～に遅れずについていく",
+    "example": "It's hard to keep up with the latest trends.",
+    "example_jp": "最新の流行についていくのは難しい。"
+  },
+  {
+    "word": "catch up with",
+    "meaning": "～に追いつく",
+    "example": "I need to catch up with my class.",
+    "example_jp": "クラスのみんなに追いつかなければならない。"
+  },
+  {
+    "word": "fall behind",
+    "meaning": "遅れる",
+    "example": "Don't fall behind the schedule.",
+    "example_jp": "予定に遅れないように。"
+  },
+  {
+    "word": "keep [stay] in touch with",
+    "meaning": "～と連絡を取り合う",
+    "example": "Let's stay in touch.",
+    "example_jp": "連絡を取り合おう。"
+  },
+  {
+    "word": "look into",
+    "meaning": "調べる、検討する",
+    "example": "We will look into the matter.",
+    "example_jp": "私たちはその問題を調査する予定だ。"
+  },
+  {
+    "word": "look over",
+    "meaning": "～にざっと目を通す",
+    "example": "Please look over this document.",
+    "example_jp": "この書類にざっと目を通してください。"
+  },
+  {
+    "word": "look on [upon]",
+    "meaning": "～を（…と）みなす",
+    "example": "They look upon him as a leader.",
+    "example_jp": "彼らは彼をリーダーとみなしている。"
+  },
+  {
+    "word": "pass on [down]",
+    "meaning": "～を（…に）手渡す、伝える",
+    "example": "Please pass this message on to him.",
+    "example_jp": "彼にこの伝言を伝えてください。"
+  },
+  {
+    "word": "pass for [as]",
+    "meaning": "～として（世間に）通る、通用する",
+    "example": "He can pass for a local.",
+    "example_jp": "彼は地元の人として通用する。"
+  },
+  {
+    "word": "pass out",
+    "meaning": "気絶する",
+    "example": "She almost passed out from the heat.",
+    "example_jp": "彼女は暑さで気絶しそうになった。"
+  },
+  {
+    "word": "pass away",
+    "meaning": "亡くなる",
+    "example": "His grandfather passed away last night.",
+    "example_jp": "彼のおじいさんが昨夜亡くなった。"
+  },
+  {
+    "word": "reach (out) for",
+    "meaning": "～に手を伸ばす",
+    "example": "She reached out for the book.",
+    "example_jp": "彼女はその本に手を伸ばした。"
+  },
+  {
+    "word": "set out [off]",
+    "meaning": "(～へ)出発する",
+    "example": "We set out for London early in the morning.",
+    "example_jp": "私たちは早朝にロンドンへ向けて出発した。"
+  },
+  {
+    "word": "set ～ free",
+    "meaning": "～を解放する",
+    "example": "They set the bird free.",
+    "example_jp": "彼らはその鳥を自由にした（解放した）。"
+  },
+  {
+    "word": "work out",
+    "meaning": "～を解く、考え出す",
+    "example": "I can't work out this puzzle.",
+    "example_jp": "このパズルが解けない。"
+  },
+  {
+    "word": "work out",
+    "meaning": "うまくいく",
+    "example": "Everything will work out fine.",
+    "example_jp": "すべてうまくいくよ。"
+  },
+  {
+    "word": "work out",
+    "meaning": "トレーニングをする",
+    "example": "I work out at the gym every day.",
+    "example_jp": "私は毎日ジムでトレーニングをしている。"
+  },
+  {
+    "word": "work on",
+    "meaning": "～(仕事)に取り組む",
+    "example": "I am working on a new project.",
+    "example_jp": "私は新しいプロジェクトに取り組んでいる。"
+  },
+  {
+    "word": "pick up",
+    "meaning": "～を拾う、取り上げる",
+    "example": "Could you pick up that pen?",
+    "example_jp": "そのペンを拾ってくれますか。"
+  },
+  {
+    "word": "pick up",
+    "meaning": "～を車に乗せる、車で迎える",
+    "example": "I'll pick you up at the station.",
+    "example_jp": "駅まで車で迎えに行くよ。"
+  },
+  {
+    "word": "pick up",
+    "meaning": "～を買う",
+    "example": "I need to pick up some milk.",
+    "example_jp": "牛乳を買わなければならない。"
+  },
+  {
+    "word": "pick up",
+    "meaning": "～(言語・知識など)を身に付ける",
+    "example": "I picked up some Spanish while traveling.",
+    "example_jp": "旅行中にスペイン語を少し覚えた。"
+  },
+  {
+    "word": "part with",
+    "meaning": "～を手放す、と別れる",
+    "example": "It's hard for me to part with this car.",
+    "example_jp": "この車を手放すのはつらい。"
+  },
+  {
+    "word": "live on",
+    "meaning": "～に頼って生きる",
+    "example": "They live on a small pension.",
+    "example_jp": "彼らは少額の年金で暮らしている。"
+  },
+  {
+    "word": "live on",
+    "meaning": "～を主食とする",
+    "example": "Some animals live on leaves.",
+    "example_jp": "草食動物の中には葉を主食とするものもいる。"
+  },
+  {
+    "word": "fall back on",
+    "meaning": "～に頼る、を最後の拠り所とする",
+    "example": "I have some savings to fall back on.",
+    "example_jp": "いざという時のために蓄えがある。"
+  },
+  {
+    "word": "rest on",
+    "meaning": "～に頼る",
+    "example": "The plan rests on your cooperation.",
+    "example_jp": "その計画はあなたの協力にかかっている。"
+  },
+  {
+    "word": "rest on",
+    "meaning": "～に基づく",
+    "example": "His argument rests on false facts.",
+    "example_jp": "彼の主張は誤った事実に基づいている。"
+  },
+  {
+    "word": "cut down on",
+    "meaning": "～を減らす、削減する",
+    "example": "I'm trying to cut down on sugar.",
+    "example_jp": "砂糖の摂取量を減らそうとしている。"
+  },
+  {
+    "word": "point",
+    "meaning": "要点、言いたいこと",
+    "example": "What's your point?",
+    "example_jp": "何が言いたいのですか。"
+  },
+  {
+    "word": "to the point",
+    "meaning": "的を射ている",
+    "example": "His comments were short and to the point.",
+    "example_jp": "彼のコメントは短く、的を射ていた。"
+  },
+  {
+    "word": "make a point of doing",
+    "meaning": "必ず～することにしている、～を重視する",
+    "example": "I make a point of walking every day.",
+    "example_jp": "私は毎日歩くことにしている。"
+  },
+  {
+    "word": "keep an eye on",
+    "meaning": "～を見張る",
+    "example": "Please keep an eye on my bag.",
+    "example_jp": "私のバッグを見ておいてください。"
+  },
+  {
+    "word": "have an eye for",
+    "meaning": "～を見る目がある、鑑賞眼がある",
+    "example": "She has an eye for fashion.",
+    "example_jp": "彼女はファッションを見る目がある。"
+  },
+  {
+    "word": "turn a deaf ear to",
+    "meaning": "～を聞こうとしない",
+    "example": "He turned a deaf ear to my advice.",
+    "example_jp": "彼は私の忠告を聞こうとしなかった。"
+  },
+  {
+    "word": "make a face",
+    "meaning": "顔をしかめる",
+    "example": "The child made a face at the bitter medicine.",
+    "example_jp": "子供は苦い薬に顔をしかめた。"
+  },
+  {
+    "word": "remain to do",
+    "meaning": "まだ～していない",
+    "example": "Much remains to be done.",
+    "example_jp": "やるべきことがまだたくさん残っている。"
+  },
+  {
+    "word": "have [be] yet to do",
+    "meaning": "まだ～していない",
+    "example": "I have yet to decide.",
+    "example_jp": "まだ決めていない。"
+  },
+  {
+    "word": "on behalf of",
+    "meaning": "～に代わって、を代表して",
+    "example": "I'm speaking on behalf of the company.",
+    "example_jp": "会社を代表して話します。"
+  },
+  {
+    "word": "second to none",
+    "meaning": "誰にも負けない",
+    "example": "His skill is second to none.",
+    "example_jp": "彼の技術は誰にも負けない。"
+  },
+  {
+    "word": "once and for all",
+    "meaning": "これを最後に、きっぱりと",
+    "example": "Let's settle this once and for all.",
+    "example_jp": "これを最後に、きっぱり解決しよう。"
+  },
+  {
+    "word": "for once",
+    "meaning": "今回だけは、１回でいいから",
+    "example": "For once, I agree with you.",
+    "example_jp": "今回だけは、君の意見に賛成するよ。"
+  },
+  {
+    "word": "at stake",
+    "meaning": "危険にさらされて、問題となって",
+    "example": "Lives are at stake.",
+    "example_jp": "命がかかっている。"
+  },
+  {
+    "word": "in the wake of",
+    "meaning": "～の後に続いて",
+    "example": "New laws were passed in the wake of the accident.",
+    "example_jp": "その事故を受けて、新しい法律が可決された。"
+  },
+  {
+    "word": "Beats me.",
+    "meaning": "分からない",
+    "example": "How did he escape? Beats me.",
+    "example_jp": "どうやって逃げたんだ？分からない。"
+  },
+  {
+    "word": "Serves you right.",
+    "meaning": "ざまあみろ、当然の報いだ",
+    "example": "You lost the bet? Serves you right.",
+    "example_jp": "賭けに負けたの？当然の報いだね。"
+  }
+]

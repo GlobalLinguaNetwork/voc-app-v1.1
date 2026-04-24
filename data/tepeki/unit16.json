@@ -1,0 +1,302 @@
+[
+  {
+    "word": "passive",
+    "meaning": "受け身の、受動的な",
+    "example": "He has a passive attitude toward his studies.",
+    "example_jp": "彼は勉強に対して受動的な姿勢を持っている。"
+  },
+  {
+    "word": "temper",
+    "meaning": "機嫌、平常心",
+    "example": "He lost his temper and shouted.",
+    "example_jp": "彼は機嫌を損ねて（かんしゃくを起こして）叫んだ。"
+  },
+  {
+    "word": "delight",
+    "meaning": "喜び、楽しみ",
+    "example": "It is a delight to see you again.",
+    "example_jp": "またお会いできて光栄です（喜びです）。"
+  },
+  {
+    "word": "rejoice",
+    "meaning": "喜ぶ",
+    "example": "The whole country rejoiced at the news.",
+    "example_jp": "国中がその知らせに喜んだ。"
+  },
+  {
+    "word": "gratify",
+    "meaning": "喜ばせる",
+    "example": "It gratifies me to see you succeed.",
+    "example_jp": "君の成功を見ると嬉しい。"
+  },
+  {
+    "word": "anger",
+    "meaning": "怒り",
+    "example": "She could not hide her anger.",
+    "example_jp": "彼女は怒りを隠せなかった。"
+  },
+  {
+    "word": "rage",
+    "meaning": "怒り、熱狂",
+    "example": "He was filled with rage.",
+    "example_jp": "彼は怒りで満たされていた。"
+  },
+  {
+    "word": "fury",
+    "meaning": "怒り",
+    "example": "She left the room in a fury.",
+    "example_jp": "彼女は激怒して部屋を出て行った。"
+  },
+  {
+    "word": "resent",
+    "meaning": "憤慨する、腹を立てる",
+    "example": "He resents being treated like a child.",
+    "example_jp": "彼は子供扱いされることに憤慨している。"
+  },
+  {
+    "word": "annoy",
+    "meaning": "怒らせる、むっとさせる",
+    "example": "It annoys me when people talk loudly.",
+    "example_jp": "大きな声で話されるとイライラする。"
+  },
+  {
+    "word": "irritate",
+    "meaning": "苛立たせる",
+    "example": "The smoke began to irritate my eyes.",
+    "example_jp": "煙が目を刺激し始めた。"
+  },
+  {
+    "word": "frustrate",
+    "meaning": "イライラさせる、失望させる",
+    "example": "Lack of progress is beginning to frustrate me.",
+    "example_jp": "進歩がないことにイライラし始めている。"
+  },
+  {
+    "word": "sorrow",
+    "meaning": "悲しみ",
+    "example": "She felt great sorrow for his loss.",
+    "example_jp": "彼女は彼の喪失に大きな悲しみを感じた。"
+  },
+  {
+    "word": "grief",
+    "meaning": "悲しみ",
+    "example": "He was overwhelmed with grief.",
+    "example_jp": "彼は深い悲しみに打ちひしがれた。"
+  },
+  {
+    "word": "lament",
+    "meaning": "悲しみ嘆く",
+    "example": "He lamented the loss of his old friend.",
+    "example_jp": "彼は旧友を失ったことを嘆き悲しんだ。"
+  },
+  {
+    "word": "mourn",
+    "meaning": "悲しみ嘆く",
+    "example": "The whole nation mourned the great leader.",
+    "example_jp": "国中が偉大な指導者の死を悼んだ。"
+  },
+  {
+    "word": "despair",
+    "meaning": "絶望",
+    "example": "He gave up in despair.",
+    "example_jp": "彼は絶望して諦めた。"
+  },
+  {
+    "word": "devastate",
+    "meaning": "打ちのめす",
+    "example": "She was devastated by the news.",
+    "example_jp": "彼女はその知らせに打ちのめされた。"
+  },
+  {
+    "word": "entertain",
+    "meaning": "楽しませる",
+    "example": "The clown entertained the children.",
+    "example_jp": "道化師が子供たちを楽しませた。"
+  },
+  {
+    "word": "amuse",
+    "meaning": "面白がらせる",
+    "example": "His funny story amused everyone.",
+    "example_jp": "彼の面白い話に皆が面白がった。"
+  },
+  {
+    "word": "virtue",
+    "meaning": "美徳、長所",
+    "example": "Patience is a virtue.",
+    "example_jp": "忍耐は美徳である。"
+  },
+  {
+    "word": "virtual",
+    "meaning": "仮想の、事実上の",
+    "example": "We held a virtual meeting.",
+    "example_jp": "仮想会議を開いた。"
+  },
+  {
+    "word": "vice",
+    "meaning": "悪、悪徳",
+    "example": "Greed is a common vice.",
+    "example_jp": "貪欲さはありふれた悪徳だ。"
+  },
+  {
+    "word": "evil",
+    "meaning": "邪悪な",
+    "example": "He fought against evil forces.",
+    "example_jp": "彼は邪悪な勢力と戦った。"
+  },
+  {
+    "word": "sin",
+    "meaning": "罪",
+    "example": "Stealing is a sin.",
+    "example_jp": "盗むことは罪だ。"
+  },
+  {
+    "word": "crime",
+    "meaning": "犯罪",
+    "example": "They are trying to prevent crime.",
+    "example_jp": "彼らは犯罪を防止しようとしている。"
+  },
+  {
+    "word": "ethics",
+    "meaning": "倫理",
+    "example": "Professional ethics are very important.",
+    "example_jp": "職業倫理は非常に重要だ。"
+  },
+  {
+    "word": "moral",
+    "meaning": "道徳上の、精神的な",
+    "example": "The story has a moral lesson.",
+    "example_jp": "その話には道徳的な教訓がある。"
+  },
+  {
+    "word": "confess",
+    "meaning": "告白する、認める",
+    "example": "He confessed to his crime.",
+    "example_jp": "彼は自分の罪を告白した。"
+  },
+  {
+    "word": "punish",
+    "meaning": "罰する",
+    "example": "The teacher punished the student for being late.",
+    "example_jp": "先生は生徒の遅刻を罰した。"
+  },
+  {
+    "word": "penalty",
+    "meaning": "刑罰",
+    "example": "He faced the penalty for his actions.",
+    "example_jp": "彼は自分の行動に対する刑罰に直面した。"
+  },
+  {
+    "word": "murder",
+    "meaning": "殺人（する）",
+    "example": "The police are investigating the murder.",
+    "example_jp": "警察が殺人事件を捜査している。"
+  },
+  {
+    "word": "victim",
+    "meaning": "犠牲者、被害者",
+    "example": "The earthquake had many victims.",
+    "example_jp": "その地震には多くの犠牲者がいた。"
+  },
+  {
+    "word": "offend",
+    "meaning": "怒らせる",
+    "example": "I didn't mean to offend you.",
+    "example_jp": "あなたを怒らせるつもりはなかった。"
+  },
+  {
+    "word": "defend",
+    "meaning": "防御する、弁護する",
+    "example": "The lawyer defended the man in court.",
+    "example_jp": "弁護士は法廷でその男性を弁護した。"
+  },
+  {
+    "word": "motive",
+    "meaning": "動機",
+    "example": "What was his motive for the crime?",
+    "example_jp": "彼の犯罪の動機は何だったのか。"
+  },
+  {
+    "word": "witness",
+    "meaning": "証人、目撃者； 目撃する",
+    "example": "I witnessed the accident.",
+    "example_jp": "私はその事故を目撃した。"
+  },
+  {
+    "word": "arrest",
+    "meaning": "逮捕する：逮捕",
+    "example": "The police arrested the suspect.",
+    "example_jp": "警察が容疑者を逮捕した。"
+  },
+  {
+    "word": "detain",
+    "meaning": "拘留する",
+    "example": "He was detained by the police.",
+    "example_jp": "彼は警察に拘留された。"
+  },
+  {
+    "word": "accuse",
+    "meaning": "非難する、告訴する",
+    "example": "They accused him of lying.",
+    "example_jp": "彼らは彼を嘘つきだと非難した。"
+  },
+  {
+    "word": "blame",
+    "meaning": "責任があるとする； せいにする",
+    "example": "Don't blame me for the mistake.",
+    "example_jp": "その間違いを私のせいにしないで。"
+  },
+  {
+    "word": "fault",
+    "meaning": "過失、責任； 欠陥",
+    "example": "It was my fault.",
+    "example_jp": "それは私の過失だった。"
+  },
+  {
+    "word": "condemn",
+    "meaning": "責める、刑を宣告する",
+    "example": "The public condemned the cruel act.",
+    "example_jp": "大衆はその残酷な行為を非難した。"
+  },
+  {
+    "word": "court",
+    "meaning": "法廷、裁判所",
+    "example": "He appeared in court today.",
+    "example_jp": "彼は今日、法廷に出頭した。"
+  },
+  {
+    "word": "courtesy",
+    "meaning": "礼儀、作法",
+    "example": "It is a common courtesy to say thank you.",
+    "example_jp": "ありがとうと言うのは一般的な礼儀だ。"
+  },
+  {
+    "word": "trial",
+    "meaning": "裁判、公判",
+    "example": "The trial will begin next week.",
+    "example_jp": "裁判は来週始まる。"
+  },
+  {
+    "word": "justice",
+    "meaning": "公正、正義； 裁判",
+    "example": "They are fighting for justice.",
+    "example_jp": "彼らは正義のために戦っている。"
+  },
+  {
+    "word": "judge",
+    "meaning": "判断する、裁判官",
+    "example": "Don't judge people by their appearance.",
+    "example_jp": "人を外見で判断してはいけない。"
+  },
+  {
+    "word": "jury",
+    "meaning": "陪審員団",
+    "example": "The jury found him not guilty.",
+    "example_jp": "陪審員団は彼を無罪だと判断した。"
+  },
+  {
+    "word": "testify",
+    "meaning": "証言する",
+    "example": "She testified in court.",
+    "example_jp": "彼女は法廷で証言した。"
+  }
+]

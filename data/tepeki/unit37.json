@@ -1,0 +1,368 @@
+[
+  {
+    "word": "severe",
+    "meaning": "厳しい",
+    "example": "The area suffered severe damage from the storm.",
+    "example_jp": "その地域は嵐で厳しい被害を受けた。"
+  },
+  {
+    "word": "puzzle",
+    "meaning": "～を戸惑わせる",
+    "example": "His strange behavior puzzles me.",
+    "example_jp": "彼の奇妙な行動には戸惑わされる。"
+  },
+  {
+    "word": "pause",
+    "meaning": "一時休止、一時休止する",
+    "example": "He paused for a moment before answering.",
+    "example_jp": "彼は答える前に少しの間休止した。"
+  },
+  {
+    "word": "reverse",
+    "meaning": "～を逆にする、に逆行する",
+    "example": "He reversed the car carefully.",
+    "example_jp": "彼は慎重に車を後退させた。"
+  },
+  {
+    "word": "reverse",
+    "meaning": "逆の、逆",
+    "example": "The reverse is also true.",
+    "example_jp": "逆もまた真なり。"
+  },
+  {
+    "word": "pose",
+    "meaning": "姿勢、ポーズをとる",
+    "example": "She posed for the photographer.",
+    "example_jp": "彼女は写真家のためにポーズをとった。"
+  },
+  {
+    "word": "pose",
+    "meaning": "～(問題・質問)を提起する",
+    "example": "Climate change poses a great threat.",
+    "example_jp": "気候変動は大きな脅威を提起している。"
+  },
+  {
+    "word": "random",
+    "meaning": "無作為の、でたらめな",
+    "example": "The numbers were chosen at random.",
+    "example_jp": "数字は無作為に選ばれた。"
+  },
+  {
+    "word": "bitter",
+    "meaning": "苦い、つらい",
+    "example": "This coffee has a bitter taste.",
+    "example_jp": "このコーヒーは苦い味がする。"
+  },
+  {
+    "word": "float",
+    "meaning": "浮く、～を浮かべる",
+    "example": "Wood floats on water.",
+    "example_jp": "木は水に浮く。"
+  },
+  {
+    "word": "recipe",
+    "meaning": "レシピ、調理法",
+    "example": "I followed the recipe carefully.",
+    "example_jp": "私はレシピに忠実に従った。"
+  },
+  {
+    "word": "recipe",
+    "meaning": "秘訣",
+    "example": "Hard work is the recipe for success.",
+    "example_jp": "ハードワークこそが成功の秘訣だ。"
+  },
+  {
+    "word": "luxury",
+    "meaning": "贅沢、贅沢品",
+    "example": "A vacation in Hawaii is a luxury.",
+    "example_jp": "ハワイでの休暇は贅沢だ。"
+  },
+  {
+    "word": "charity",
+    "meaning": "慈悲、慈善",
+    "example": "She donated money to charity.",
+    "example_jp": "彼女は慈善団体にお金を寄付した。"
+  },
+  {
+    "word": "athlete",
+    "meaning": "運動選手",
+    "example": "He is a professional athlete.",
+    "example_jp": "彼はプロの運動選手だ。"
+  },
+  {
+    "word": "laundry",
+    "meaning": "洗濯物",
+    "example": "I have to do the laundry today.",
+    "example_jp": "今日は洗濯物をしなければならない。"
+  },
+  {
+    "word": "label",
+    "meaning": "～にレッテルを貼る",
+    "example": "Don't label him as a failure.",
+    "example_jp": "彼に失敗者というレッテルを貼るな。"
+  },
+  {
+    "word": "loose",
+    "meaning": "ゆるんだ、だらしない",
+    "example": "The screw is loose.",
+    "example_jp": "ネジがゆるんでいる。"
+  },
+  {
+    "word": "humor",
+    "meaning": "ユーモア",
+    "example": "He has a great sense of humor.",
+    "example_jp": "彼は素晴らしいユーモアのセンスを持っている。"
+  },
+  {
+    "word": "humor",
+    "meaning": "機嫌",
+    "example": "The boss is in a bad humor today.",
+    "example_jp": "上司は今日、機嫌が悪い。"
+  },
+  {
+    "word": "image",
+    "meaning": "イメージ、画像、映像",
+    "example": "The company wants to improve its image.",
+    "example_jp": "その会社はイメージを向上させたいと考えている。"
+  },
+  {
+    "word": "amateur",
+    "meaning": "アマチュア、素人",
+    "example": "I'm just an amateur photographer.",
+    "example_jp": "私はただの素人写真家です。"
+  },
+  {
+    "word": "thrill",
+    "meaning": "～をわくわくさせる、興奮",
+    "example": "The roller coaster gave me a real thrill.",
+    "example_jp": "ジェットコースターに本当に興奮した。"
+  },
+  {
+    "word": "theme",
+    "meaning": "テーマ、主題",
+    "example": "What is the theme of this novel?",
+    "example_jp": "この小説のテーマは何ですか。"
+  },
+  {
+    "word": "leisure",
+    "meaning": "余暇",
+    "example": "What do you do in your leisure time?",
+    "example_jp": "余暇には何をしますか。"
+  },
+  {
+    "word": "alcohol",
+    "meaning": "アルコール、酒",
+    "example": "He doesn't drink alcohol.",
+    "example_jp": "彼は酒を飲まない。"
+  },
+  {
+    "word": "vitamin",
+    "meaning": "ビタミン",
+    "example": "Oranges are rich in vitamin C.",
+    "example_jp": "オレンジはビタミンCが豊富だ。"
+  },
+  {
+    "word": "liver",
+    "meaning": "肝臓",
+    "example": "Alcohol can damage the liver.",
+    "example_jp": "アルコールは肝臓を傷つける可能性がある。"
+  },
+  {
+    "word": "kidney",
+    "meaning": "腎臓",
+    "example": "The kidneys filter the blood.",
+    "example_jp": "腎臓は血液をろ過する。"
+  },
+  {
+    "word": "chaos",
+    "meaning": "混沌、無秩序",
+    "example": "The room was in total chaos.",
+    "example_jp": "部屋は完全に混沌とした状態だった。"
+  },
+  {
+    "word": "connect",
+    "meaning": "～を繋げる",
+    "example": "Connect the printer to the computer.",
+    "example_jp": "プリンターをコンピューターに繋げてください。"
+  },
+  {
+    "word": "appoint",
+    "meaning": "～を指名する、指定する",
+    "example": "They appointed him as the new manager.",
+    "example_jp": "彼らは彼を新しいマネージャーに指名した。"
+  },
+  {
+    "word": "guarantee",
+    "meaning": "～を保障(保証)する",
+    "example": "We guarantee the quality of our products.",
+    "example_jp": "私たちは製品の品質を保証します。"
+  },
+  {
+    "word": "aesthetic",
+    "meaning": "美的な、美学の",
+    "example": "The building has great aesthetic value.",
+    "example_jp": "その建物は美的な価値が高い。"
+  },
+  {
+    "word": "celebrity",
+    "meaning": "有名人",
+    "example": "She became a celebrity overnight.",
+    "example_jp": "彼女は一夜にして有名人になった。"
+  },
+  {
+    "word": "animate",
+    "meaning": "～を活気づける、に生命を与える",
+    "example": "His energy animated the whole room.",
+    "example_jp": "彼のエネルギーが部屋全体を活気づけた。"
+  },
+  {
+    "word": "department",
+    "meaning": "部署、部門、省",
+    "example": "I work in the sales department.",
+    "example_jp": "私は営業部署で働いています。"
+  },
+  {
+    "word": "depart",
+    "meaning": "出発する",
+    "example": "The train will depart at ten.",
+    "example_jp": "列車は10時に出発します。"
+  },
+  {
+    "word": "casual",
+    "meaning": "何気ない、偶然の",
+    "example": "It was just a casual remark.",
+    "example_jp": "それはただの何気ない発言だった。"
+  },
+  {
+    "word": "casual",
+    "meaning": "略式の",
+    "example": "You can wear casual clothes to the party.",
+    "example_jp": "パーティーには略装で来ていいです。"
+  },
+  {
+    "word": "challenge",
+    "meaning": "難題、課題、挑戦",
+    "example": "Learning a new language is a challenge.",
+    "example_jp": "新しい言語を学ぶことは挑戦的な課題だ。"
+  },
+  {
+    "word": "challenge",
+    "meaning": "～に挑む、挑戦する、異議を唱える",
+    "example": "I challenge you to a game of chess.",
+    "example_jp": "チェスであなたに挑戦します。"
+  },
+  {
+    "word": "naive",
+    "meaning": "世間知らずの、うぶな",
+    "example": "She is too naive to see the truth.",
+    "example_jp": "彼女はあまりにうぶで真実に気づかない。"
+  },
+  {
+    "word": "alien",
+    "meaning": "異質な、外国の",
+    "example": "This concept is alien to me.",
+    "example_jp": "この概念は私にとって異質なものだ。"
+  },
+  {
+    "word": "alien",
+    "meaning": "外国人",
+    "example": "The law applies to both citizens and aliens.",
+    "example_jp": "その法律は市民と外国人の両方に適用される。"
+  },
+  {
+    "word": "resort",
+    "meaning": "手段に訴える",
+    "example": "I had to resort to a loan.",
+    "example_jp": "私は借金という手段に訴えざるを得なかった。"
+  },
+  {
+    "word": "resort",
+    "meaning": "行楽地",
+    "example": "We stayed at a ski resort.",
+    "example_jp": "私たちはスキーリゾートに滞在した。"
+  },
+  {
+    "word": "web",
+    "meaning": "クモの巣",
+    "example": "The spider spun a web.",
+    "example_jp": "クモが巣を張った。"
+  },
+  {
+    "word": "web",
+    "meaning": "ネットワーク、ウェブ",
+    "example": "I found the information on the web.",
+    "example_jp": "ウェブでその情報を見つけた。"
+  },
+  {
+    "word": "faint",
+    "meaning": "かすかな、ぼんやりした",
+    "example": "I heard a faint noise.",
+    "example_jp": "かすかな音が聞こえた。"
+  },
+  {
+    "word": "faint",
+    "meaning": "失神する",
+    "example": "She almost fainted from the shock.",
+    "example_jp": "彼女はショックで失神しそうになった。"
+  },
+  {
+    "word": "interview",
+    "meaning": "インタビュー、面接",
+    "example": "I have a job interview tomorrow.",
+    "example_jp": "明日、就職面接がある。"
+  },
+  {
+    "word": "bond",
+    "meaning": "きづな、結束",
+    "example": "There is a strong bond between the two brothers.",
+    "example_jp": "その兄弟の間には強いきづながある。"
+  },
+  {
+    "word": "tissue",
+    "meaning": "細胞の組織",
+    "example": "Muscle tissue is very strong.",
+    "example_jp": "筋肉組織は非常に強い。"
+  },
+  {
+    "word": "tissue",
+    "meaning": "布、繊維",
+    "example": "She wiped her nose with a tissue.",
+    "example_jp": "彼女はティッシュで鼻をかんだ。"
+  },
+  {
+    "word": "campaign",
+    "meaning": "選挙活動、政治活動、軍事行動、促進販売",
+    "example": "The company started a new advertising campaign.",
+    "example_jp": "その会社は新しい広告キャンペーンを始めた。"
+  },
+  {
+    "word": "boss",
+    "meaning": "上司",
+    "example": "I need to talk to my boss.",
+    "example_jp": "上司に相談する必要がある。"
+  },
+  {
+    "word": "cafeteria",
+    "meaning": "社員食堂、学食",
+    "example": "Let's meet in the cafeteria.",
+    "example_jp": "食堂で会いましょう。"
+  },
+  {
+    "word": "companion",
+    "meaning": "仲間、旅の連れ",
+    "example": "He is a faithful companion.",
+    "example_jp": "彼は忠実な仲間だ。"
+  },
+  {
+    "word": "mode",
+    "meaning": "様式、方式、形態",
+    "example": "Put your phone in silent mode.",
+    "example_jp": "携帯電話をサイレントモードにしてください。"
+  },
+  {
+    "word": "mineral",
+    "meaning": "鉱物",
+    "example": "Gold is a precious mineral.",
+    "example_jp": "金は貴重な鉱物だ。"
+  }
+]

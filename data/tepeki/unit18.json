@@ -1,0 +1,350 @@
+[
+  {
+    "word": "reduce",
+    "meaning": "～を減らす、削減する",
+    "example": "We need to reduce our expenses.",
+    "example_jp": "私たちは出費を削減する必要がある。"
+  },
+  {
+    "word": "accumulate",
+    "meaning": "蓄積する",
+    "example": "Dust has accumulated on the shelves.",
+    "example_jp": "棚にほこりが蓄積している。"
+  },
+  {
+    "word": "add",
+    "meaning": "加える",
+    "example": "Add a little sugar to the coffee.",
+    "example_jp": "コーヒーに少し砂糖を加えなさい。"
+  },
+  {
+    "word": "subtract",
+    "meaning": "引く",
+    "example": "Subtract 5 from 10 and you get 5.",
+    "example_jp": "10から5を引くと5になる。"
+  },
+  {
+    "word": "multiply",
+    "meaning": "掛ける",
+    "example": "If you multiply 3 by 4, you get 12.",
+    "example_jp": "3に4を掛けると12になる。"
+  },
+  {
+    "word": "multitude",
+    "meaning": "多数",
+    "example": "There is a multitude of reasons for his decision.",
+    "example_jp": "彼がそう決断した理由には多数のものがある。"
+  },
+  {
+    "word": "calculate",
+    "meaning": "計算する",
+    "example": "I need to calculate the total cost.",
+    "example_jp": "合計費用を計算する必要がある。"
+  },
+  {
+    "word": "average",
+    "meaning": "平均の、普通の",
+    "example": "The average age of the students is 20.",
+    "example_jp": "学生の平均年齢は20歳だ。"
+  },
+  {
+    "word": "average",
+    "meaning": "平均",
+    "example": "On average, it rains here twice a week.",
+    "example_jp": "平均すると、ここでは週に2回雨が降る。"
+  },
+  {
+    "word": "altogether",
+    "meaning": "全部で",
+    "example": "There were ten of us altogether.",
+    "example_jp": "全部で10人いた。"
+  },
+  {
+    "word": "altogether",
+    "meaning": "全く、完全に",
+    "example": "I am not altogether convinced.",
+    "example_jp": "完全に納得したわけではない。"
+  },
+  {
+    "word": "overall",
+    "meaning": "全体の、全般の",
+    "example": "The overall effect was positive.",
+    "example_jp": "全体的な効果はポジティブなものだった。"
+  },
+  {
+    "word": "overall",
+    "meaning": "概して",
+    "example": "Overall, it was a good day.",
+    "example_jp": "概して、良い1日だった。"
+  },
+  {
+    "word": "approximately",
+    "meaning": "おおよそ",
+    "example": "The journey took approximately two hours.",
+    "example_jp": "その旅はおおよそ2時間かかった。"
+  },
+  {
+    "word": "rational",
+    "meaning": "合理的な",
+    "example": "We should make a rational decision.",
+    "example_jp": "私たちは合理的な決断をすべきだ。"
+  },
+  {
+    "word": "reason",
+    "meaning": "理由、根拠",
+    "example": "What is the reason for your delay?",
+    "example_jp": "遅刻の理由は何ですか。"
+  },
+  {
+    "word": "reason",
+    "meaning": "理性",
+    "example": "Humans are beings of reason.",
+    "example_jp": "人間は理性の生き物だ。"
+  },
+  {
+    "word": "reason",
+    "meaning": "論理的に考える",
+    "example": "It is difficult to reason with him.",
+    "example_jp": "彼と論理的に話し合うのは難しい。"
+  },
+  {
+    "word": "beast",
+    "meaning": "獣、動物",
+    "example": "The forest is home to many wild beasts.",
+    "example_jp": "その森は多くの野生動物の住処だ。"
+  },
+  {
+    "word": "brute",
+    "meaning": "獣、動物",
+    "example": "He behaved like a brute.",
+    "example_jp": "彼は獣のように振る舞った。"
+  },
+  {
+    "word": "notion",
+    "meaning": "概念、観念",
+    "example": "I have no notion of what he means.",
+    "example_jp": "彼が何を意味しているのか全く観念がない。"
+  },
+  {
+    "word": "abstract",
+    "meaning": "抽象的な",
+    "example": "Freedom is an abstract concept.",
+    "example_jp": "自由とは抽象的な概念だ。"
+  },
+  {
+    "word": "concrete",
+    "meaning": "具体的な",
+    "example": "We need a concrete plan.",
+    "example_jp": "私たちは具体的な計画が必要だ。"
+  },
+  {
+    "word": "stereotype",
+    "meaning": "固定観念、ステレオタイプ",
+    "example": "We should avoid acting on stereotypes.",
+    "example_jp": "固定観念に基づいて行動するのは避けるべきだ。"
+  },
+  {
+    "word": "prejudice",
+    "meaning": "先入観、偏見",
+    "example": "She has no prejudice against them.",
+    "example_jp": "彼女は彼らに対して偏見を持っていない。"
+  },
+  {
+    "word": "bias",
+    "meaning": "偏見",
+    "example": "The media may have a political bias.",
+    "example_jp": "メディアは政治的偏見を持っているかもしれない。"
+  },
+  {
+    "word": "view",
+    "meaning": "眺め、景色",
+    "example": "The view from the window is great.",
+    "example_jp": "窓からの眺めが素晴らしい。"
+  },
+  {
+    "word": "view",
+    "meaning": "意見",
+    "example": "What is your view on this?",
+    "example_jp": "これについてどういう意見ですか。"
+  },
+  {
+    "word": "view",
+    "meaning": "みなす、考える",
+    "example": "I view the situation as serious.",
+    "example_jp": "私はその状況を深刻なものとみなしている。"
+  },
+  {
+    "word": "review",
+    "meaning": "見直す、批評",
+    "example": "He wrote a review of the movie.",
+    "example_jp": "彼はその映画の批評を書いた。"
+  },
+  {
+    "word": "viewpoint",
+    "meaning": "観点、見地",
+    "example": "From my viewpoint, it is correct.",
+    "example_jp": "私の観点からは、それは正しい。"
+  },
+  {
+    "word": "standpoint",
+    "meaning": "立場、観点",
+    "example": "From a standpoint of safety, it is not good.",
+    "example_jp": "安全という観点からは、それは良くない。"
+  },
+  {
+    "word": "outlook",
+    "meaning": "見解、見方、見通し",
+    "example": "The outlook for the economy is positive.",
+    "example_jp": "経済の見通しはポジティブだ。"
+  },
+  {
+    "word": "optimistic",
+    "meaning": "楽観的な",
+    "example": "She is optimistic about the future.",
+    "example_jp": "彼女は未来に対して楽観的だ。"
+  },
+  {
+    "word": "pessimistic",
+    "meaning": "悲観的な",
+    "example": "Don't be so pessimistic.",
+    "example_jp": "そんなに悲観的にならないで。"
+  },
+  {
+    "word": "aware",
+    "meaning": "意識している",
+    "example": "Are you aware of the problem?",
+    "example_jp": "その問題を意識していますか。"
+  },
+  {
+    "word": "alert",
+    "meaning": "警戒している",
+    "example": "Stay alert while driving.",
+    "example_jp": "運転中は警戒を怠らないように。"
+  },
+  {
+    "word": "alert",
+    "meaning": "警報",
+    "example": "The storm alert was issued.",
+    "example_jp": "嵐の警報が出された。"
+  },
+  {
+    "word": "conscious",
+    "meaning": "意識している",
+    "example": "I was conscious of her gaze.",
+    "example_jp": "彼女の視線を意識していた。"
+  },
+  {
+    "word": "conscience",
+    "meaning": "良心、善悪の判断力",
+    "example": "My conscience is clear.",
+    "example_jp": "私の良心は痛まない。"
+  },
+  {
+    "word": "recognize",
+    "meaning": "識別する、それと分かる、認める",
+    "example": "I recognized him from a distance.",
+    "example_jp": "遠くからでも彼だと分かった。"
+  },
+  {
+    "word": "cognition",
+    "meaning": "認識",
+    "example": "He is studying human cognition.",
+    "example_jp": "彼は人間の認識について学んでいる。"
+  },
+  {
+    "word": "knowledge",
+    "meaning": "知識",
+    "example": "She has extensive knowledge of history.",
+    "example_jp": "彼女は歴史に関する広範な知識を持っている。"
+  },
+  {
+    "word": "acknowledge",
+    "meaning": "認める",
+    "example": "He acknowledged his mistake.",
+    "example_jp": "彼は自分のミスを認めた。"
+  },
+  {
+    "word": "identify",
+    "meaning": "身元を特定する、同一視する",
+    "example": "Can you identify the owner of this bag?",
+    "example_jp": "このバッグの持ち主を特定できますか。"
+  },
+  {
+    "word": "intellect",
+    "meaning": "知性",
+    "example": "He is a man of high intellect.",
+    "example_jp": "彼は高い知性の持ち主だ。"
+  },
+  {
+    "word": "intelligence",
+    "meaning": "知性、諜報",
+    "example": "She has great intelligence.",
+    "example_jp": "彼女には偉大な知性がある。"
+  },
+  {
+    "word": "intelligible",
+    "meaning": "理解可能な、判読可能な",
+    "example": "The explanation was clearly intelligible.",
+    "example_jp": "その説明は明らかに理解可能だった。"
+  },
+  {
+    "word": "wisdom",
+    "meaning": "賢明さ、知恵",
+    "example": "She is known for her wisdom.",
+    "example_jp": "彼女はその知恵で知られている。"
+  },
+  {
+    "word": "bright",
+    "meaning": "明るい、頭のいい",
+    "example": "He is a very bright student.",
+    "example_jp": "彼はとても頭のいい学生だ。"
+  },
+  {
+    "word": "brilliant",
+    "meaning": "頭のいい、輝かしい",
+    "example": "She has a brilliant career.",
+    "example_jp": "彼女は輝かしい経歴を持っている。"
+  },
+  {
+    "word": "smart",
+    "meaning": "利口な",
+    "example": "He is a smart businessman.",
+    "example_jp": "彼は利口なビジネスマンだ。"
+  },
+  {
+    "word": "wit",
+    "meaning": "機転、知力",
+    "example": "He has a sharp wit.",
+    "example_jp": "彼は鋭い機転を持っている。"
+  },
+  {
+    "word": "insight",
+    "meaning": "洞察力",
+    "example": "The book provides a deep insight into human nature.",
+    "example_jp": "その本は人間の本質への深い洞察を与えてくれる。"
+  },
+  {
+    "word": "philosophy",
+    "meaning": "哲学、考え方",
+    "example": "What is your philosophy of life?",
+    "example_jp": "あなたの人生哲学は何ですか。"
+  },
+  {
+    "word": "comprehend",
+    "meaning": "理解する、含む",
+    "example": "I cannot comprehend why he did that.",
+    "example_jp": "なぜ彼がそうしたのか理解できない。"
+  },
+  {
+    "word": "consider",
+    "meaning": "考慮する、みなす",
+    "example": "I will consider your offer.",
+    "example_jp": "あなたの申し出を考慮する。"
+  },
+  {
+    "word": "contemplation",
+    "meaning": "熟考、沈思",
+    "example": "He was in deep contemplation.",
+    "example_jp": "彼は深い熟考に沈んでいた。"
+  }
+]

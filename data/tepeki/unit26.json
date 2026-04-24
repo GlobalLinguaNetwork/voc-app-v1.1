@@ -1,0 +1,374 @@
+[
+  {
+    "word": "garbage",
+    "meaning": "ゴミ",
+    "example": "Please put the garbage in the bin.",
+    "example_jp": "ゴミをゴミ箱に入れてください。"
+  },
+  {
+    "word": "trash",
+    "meaning": "ゴミ",
+    "example": "Take out the trash.",
+    "example_jp": "ゴミを出して。"
+  },
+  {
+    "word": "trash",
+    "meaning": "～を捨てる",
+    "example": "I trashed all my old notes.",
+    "example_jp": "古いノートをすべて捨てた。"
+  },
+  {
+    "word": "rubbish",
+    "meaning": "ゴミ",
+    "example": "He threw the rubbish away.",
+    "example_jp": "彼はゴミを捨てた。"
+  },
+  {
+    "word": "rubbish",
+    "meaning": "くだらないこと",
+    "example": "Don't talk such rubbish.",
+    "example_jp": "そんなくだらないことを言うな。"
+  },
+  {
+    "word": "litter",
+    "meaning": "散らかす",
+    "example": "Don't litter in the park.",
+    "example_jp": "公園にゴミを散らかさないで。"
+  },
+  {
+    "word": "litter",
+    "meaning": "ゴミ",
+    "example": "There is a lot of litter on the beach.",
+    "example_jp": "浜辺には多くのゴミが落ちている。"
+  },
+  {
+    "word": "landscape",
+    "meaning": "風景",
+    "example": "We enjoyed the beautiful mountain landscape.",
+    "example_jp": "私たちは美しい山の風景を楽しんだ。"
+  },
+  {
+    "word": "resource",
+    "meaning": "資源、財源",
+    "example": "Water is a precious natural resource.",
+    "example_jp": "水は貴重な天然資源だ。"
+  },
+  {
+    "word": "fossil",
+    "meaning": "化石",
+    "example": "They found a dinosaur fossil.",
+    "example_jp": "彼らは恐竜の化石を発見した。"
+  },
+  {
+    "word": "fuel",
+    "meaning": "燃料",
+    "example": "The car is running out of fuel.",
+    "example_jp": "車の燃料が切れかかっている。"
+  },
+  {
+    "word": "petroleum",
+    "meaning": "石油",
+    "example": "Many products are made from petroleum.",
+    "example_jp": "多くの製品が石油から作られている。"
+  },
+  {
+    "word": "exhaust",
+    "meaning": "～を使い果たす",
+    "example": "We have exhausted our supplies.",
+    "example_jp": "私たちは備蓄を使い果たしてしまった。"
+  },
+  {
+    "word": "exhaust",
+    "meaning": "疲れさせる",
+    "example": "The long journey exhausted me.",
+    "example_jp": "長旅で私は疲れ切ってしまった。"
+  },
+  {
+    "word": "global warming",
+    "meaning": "地球温暖化",
+    "example": "Global warming is a serious problem.",
+    "example_jp": "地球温暖化は深刻な問題だ。"
+  },
+  {
+    "word": "greenhouse effect",
+    "meaning": "温室効果",
+    "example": "The greenhouse effect leads to climate change.",
+    "example_jp": "温室効果が気候変動につながる。"
+  },
+  {
+    "word": "carbon dioxide",
+    "meaning": "二酸化炭素",
+    "example": "Trees absorb carbon dioxide.",
+    "example_jp": "木々は二酸化炭素を吸収する。"
+  },
+  {
+    "word": "tropical rain forest",
+    "meaning": "熱帯雨林",
+    "example": "We need to protect the tropical rain forest.",
+    "example_jp": "私たちは熱帯雨林を保護しなければならない。"
+  },
+  {
+    "word": "acid rain",
+    "meaning": "酸性雨",
+    "example": "Acid rain can damage trees.",
+    "example_jp": "酸性雨は木々に被害を与える可能性がある。"
+  },
+  {
+    "word": "ozone layer",
+    "meaning": "オゾン層",
+    "example": "The ozone layer protects us from UV rays.",
+    "example_jp": "オゾン層は紫外線の害から私たちを守っている。"
+  },
+  {
+    "word": "climate",
+    "meaning": "気候",
+    "example": "This region has a mild climate.",
+    "example_jp": "この地域は温暖な気候だ。"
+  },
+  {
+    "word": "temperature",
+    "meaning": "温度、気温",
+    "example": "The temperature is dropping tonight.",
+    "example_jp": "今夜は気温が下がっている。"
+  },
+  {
+    "word": "humid",
+    "meaning": "湿った",
+    "example": "It is very humid in summer.",
+    "example_jp": "夏はとても湿気が多い。"
+  },
+  {
+    "word": "moist",
+    "meaning": "湿った",
+    "example": "The cake is soft and moist.",
+    "example_jp": "そのケーキはしっとりと湿り気がある。"
+  },
+  {
+    "word": "phenomenon",
+    "meaning": "現象",
+    "example": "This is a natural phenomenon.",
+    "example_jp": "これは自然現象だ。"
+  },
+  {
+    "word": "drought",
+    "meaning": "干ばつ",
+    "example": "The crops failed because of the drought.",
+    "example_jp": "干ばつのせいで作物が不作だった。"
+  },
+  {
+    "word": "disaster",
+    "meaning": "災害、惨事",
+    "example": "They provided help after the natural disaster.",
+    "example_jp": "彼らは自然災害の後、支援を提供した。"
+  },
+  {
+    "word": "hemisphere",
+    "meaning": "半球",
+    "example": "They live in the Northern Hemisphere.",
+    "example_jp": "彼らは北半球に住んでいる。"
+  },
+  {
+    "word": "continent",
+    "meaning": "大陸",
+    "example": "Australia is the smallest continent.",
+    "example_jp": "オーストラリアは最も小さい大陸だ。"
+  },
+  {
+    "word": "Arctic",
+    "meaning": "北極地方",
+    "example": "The Arctic is very cold.",
+    "example_jp": "北極地方はとても寒い。"
+  },
+  {
+    "word": "pole",
+    "meaning": "極",
+    "example": "The explorers traveled to the South Pole.",
+    "example_jp": "探検家たちは南極へ旅した。"
+  },
+  {
+    "word": "latitude",
+    "meaning": "緯度",
+    "example": "The city is at a high latitude.",
+    "example_jp": "その都市は高緯度にある。"
+  },
+  {
+    "word": "longitude",
+    "meaning": "経度",
+    "example": "We calculated the longitude.",
+    "example_jp": "私たちは経度を計算した。"
+  },
+  {
+    "word": "altitude",
+    "meaning": "高度",
+    "example": "The plane flew at a high altitude.",
+    "example_jp": "飛行機は高高度を飛んだ。"
+  },
+  {
+    "word": "equator",
+    "meaning": "赤道",
+    "example": "The country lies on the equator.",
+    "example_jp": "その国は赤道直下にある。"
+  },
+  {
+    "word": "nod",
+    "meaning": "うなずく",
+    "example": "He nodded in agreement.",
+    "example_jp": "彼は同意してうなずいた。"
+  },
+  {
+    "word": "bow",
+    "meaning": "おじぎする",
+    "example": "People bow to show respect.",
+    "example_jp": "人々は敬意を表すためにおじぎをする。"
+  },
+  {
+    "word": "bow",
+    "meaning": "おじぎ",
+    "example": "He gave a polite bow.",
+    "example_jp": "彼は丁寧におじぎをした。"
+  },
+  {
+    "word": "sigh",
+    "meaning": "ため息をつく",
+    "example": "She sighed when she heard the news.",
+    "example_jp": "その知らせを聞いて彼女はため息をついた。"
+  },
+  {
+    "word": "sigh",
+    "meaning": "ため息",
+    "example": "He let out a deep sigh.",
+    "example_jp": "彼は深いため息をついた。"
+  },
+  {
+    "word": "rub",
+    "meaning": "～をこする",
+    "example": "He rubbed his tired eyes.",
+    "example_jp": "彼は疲れた目をこすった。"
+  },
+  {
+    "word": "yell",
+    "meaning": "(～に向かって)叫ぶ(at～)",
+    "example": "Don't yell at your brother.",
+    "example_jp": "兄弟に向かって叫ぶのはやめて。"
+  },
+  {
+    "word": "leap",
+    "meaning": "跳ぶ",
+    "example": "The cat leaped onto the table.",
+    "example_jp": "猫がテーブルの上に飛び乗った。"
+  },
+  {
+    "word": "leap",
+    "meaning": "跳躍、飛躍",
+    "example": "This is a big leap forward.",
+    "example_jp": "これは大きな飛躍だ。"
+  },
+  {
+    "word": "fix",
+    "meaning": "～を固定する",
+    "example": "We fixed the shelf to the wall.",
+    "example_jp": "私たちは棚を壁に固定した。"
+  },
+  {
+    "word": "fix",
+    "meaning": "～を修理する",
+    "example": "Can you fix my computer?",
+    "example_jp": "私のコンピュータを修理してくれる？"
+  },
+  {
+    "word": "pour",
+    "meaning": "～を注ぐ",
+    "example": "Please pour me some tea.",
+    "example_jp": "お茶を注いでください。"
+  },
+  {
+    "word": "pour",
+    "meaning": "流れ込む",
+    "example": "Crowds poured into the stadium.",
+    "example_jp": "群衆がスタジアムに流れ込んだ。"
+  },
+  {
+    "word": "dip",
+    "meaning": "～を(軽く)浸す",
+    "example": "Dip the cookie into the milk.",
+    "example_jp": "クッキーを牛乳に軽く浸して。"
+  },
+  {
+    "word": "soak",
+    "meaning": "～を浸す",
+    "example": "Soak the clothes in water.",
+    "example_jp": "服を水に浸して。"
+  },
+  {
+    "word": "soak",
+    "meaning": "びしょ濡れになる",
+    "example": "I got soaked in the rain.",
+    "example_jp": "雨でびしょ濡れになった。"
+  },
+  {
+    "word": "sip",
+    "meaning": "～を一口飲む",
+    "example": "She sipped her hot coffee.",
+    "example_jp": "彼女は熱いコーヒーを一口飲んだ。"
+  },
+  {
+    "word": "cast",
+    "meaning": "～を投げる、投げかける",
+    "example": "He cast a fishing line into the lake.",
+    "example_jp": "彼は湖に釣り糸を投げ入れた。"
+  },
+  {
+    "word": "shed",
+    "meaning": "～を流す、こぼす",
+    "example": "She shed tears of joy.",
+    "example_jp": "彼女は嬉し涙を流した。"
+  },
+  {
+    "word": "spur",
+    "meaning": "～に拍車をかける、駆り立てる",
+    "example": "This success spurred him to work harder.",
+    "example_jp": "この成功が彼にもっと懸命に働くよう駆り立てた。"
+  },
+  {
+    "word": "blur",
+    "meaning": "～をぼやけさせる",
+    "example": "Tears blurred my vision.",
+    "example_jp": "涙で視界がぼやけた。"
+  },
+  {
+    "word": "blur",
+    "meaning": "ぼやける",
+    "example": "The image started to blur.",
+    "example_jp": "画像がぼやけ始めた。"
+  },
+  {
+    "word": "cite",
+    "meaning": "～を引用する",
+    "example": "The author cited several sources.",
+    "example_jp": "著者はいくつかの資料を引用した。"
+  },
+  {
+    "word": "rear",
+    "meaning": "～を育てる",
+    "example": "She reared three children alone.",
+    "example_jp": "彼女は1人で3人の子供を育てた。"
+  },
+  {
+    "word": "beg",
+    "meaning": "～を懇願する、請う",
+    "example": "He begged her to stay.",
+    "example_jp": "彼は彼女に留まるよう懇願した。"
+  },
+  {
+    "word": "bet",
+    "meaning": "～を賭ける",
+    "example": "They bet money on the race.",
+    "example_jp": "彼らはレースにお金を賭けた。"
+  },
+  {
+    "word": "bet",
+    "meaning": "きっと…だと思う",
+    "example": "I bet he will be late.",
+    "example_jp": "きっと彼は遅れてくると思う。"
+  }
+]

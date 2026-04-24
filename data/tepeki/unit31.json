@@ -1,0 +1,380 @@
+[
+  {
+    "word": "resume",
+    "meaning": "～を再開する； 再開する",
+    "example": "We will resume the meeting after lunch.",
+    "example_jp": "昼食後に会議を再開します。"
+  },
+  {
+    "word": "resume",
+    "meaning": "履歴書、要約",
+    "example": "Please send me your resume.",
+    "example_jp": "履歴書を送ってください。"
+  },
+  {
+    "word": "dissolve",
+    "meaning": "溶解する",
+    "example": "Sugar dissolves in hot water.",
+    "example_jp": "砂糖はお湯に溶ける。"
+  },
+  {
+    "word": "dissolve",
+    "meaning": "～を解散する",
+    "example": "The committee was dissolved last month.",
+    "example_jp": "委員会は先月解散した。"
+  },
+  {
+    "word": "erase",
+    "meaning": "～を消す、消去する",
+    "example": "He erased the mistake from the board.",
+    "example_jp": "彼は黒板のミスを消した。"
+  },
+  {
+    "word": "delete",
+    "meaning": "～を消す、消去する",
+    "example": "Delete the file before you leave.",
+    "example_jp": "帰る前にそのファイルを消去して。"
+  },
+  {
+    "word": "wipe out",
+    "meaning": "～を消し去る、絶滅させる",
+    "example": "The disease wiped out many people.",
+    "example_jp": "その病気が多くの人を絶滅させた。"
+  },
+  {
+    "word": "suspend",
+    "meaning": "～を宙吊りにする",
+    "example": "The lamp was suspended from the ceiling.",
+    "example_jp": "ランプが天井から吊るされていた。"
+  },
+  {
+    "word": "suspend",
+    "meaning": "～を(いったん)中止する、中断する",
+    "example": "The game was suspended due to rain.",
+    "example_jp": "雨のため試合が中断された。"
+  },
+  {
+    "word": "choke",
+    "meaning": "～を窒息させる、詰まらせる",
+    "example": "He choked on a piece of bread.",
+    "example_jp": "彼はパンを喉に詰まらせた。"
+  },
+  {
+    "word": "suffocate",
+    "meaning": "～を窒息させる",
+    "example": "The smoke began to suffocate him.",
+    "example_jp": "煙が彼を窒息させ始めた。"
+  },
+  {
+    "word": "squeeze",
+    "meaning": "～を絞る、絞り出す",
+    "example": "Squeeze the juice out of the lemon.",
+    "example_jp": "レモンから果汁を絞り出して。"
+  },
+  {
+    "word": "spill",
+    "meaning": "～をこぼす",
+    "example": "Don't spill your coffee.",
+    "example_jp": "コーヒーをこぼさないで。"
+  },
+  {
+    "word": "make up",
+    "meaning": "(～を)埋め合せる、取り戻す",
+    "example": "He tried to make up for his mistake.",
+    "example_jp": "彼はミスを埋め合わせようとした。"
+  },
+  {
+    "word": "make up",
+    "meaning": "(～と)仲直りする",
+    "example": "They finally made up after the argument.",
+    "example_jp": "口論の後、彼らはついに仲直りした。"
+  },
+  {
+    "word": "make up",
+    "meaning": "～(話)をでっち上げる",
+    "example": "He made up a crazy story.",
+    "example_jp": "彼はでたらめな話をでっち上げた。"
+  },
+  {
+    "word": "make up",
+    "meaning": "化粧する",
+    "example": "She took a few minutes to make up.",
+    "example_jp": "彼女は化粧するのに数分かけた。"
+  },
+  {
+    "word": "compensate",
+    "meaning": "(～を)埋め合わせをする、補償する",
+    "example": "I will compensate you for your time.",
+    "example_jp": "あなたの時間に相当する補償をします。"
+  },
+  {
+    "word": "make out",
+    "meaning": "～を理解する、判読する",
+    "example": "I couldn't make out what he said.",
+    "example_jp": "彼が何を言ったのか理解できなかった。"
+  },
+  {
+    "word": "make for",
+    "meaning": "～へ向かう",
+    "example": "The ship is making for the harbor.",
+    "example_jp": "船は港へ向かっている。"
+  },
+  {
+    "word": "make for",
+    "meaning": "～(の実現)に役立つ、～を可能にする",
+    "example": "Politeness makes for a better conversation.",
+    "example_jp": "礼儀正しさはより良い会話に役立つ。"
+  },
+  {
+    "word": "turn out",
+    "meaning": "～であることが分かる",
+    "example": "The plan turned out to be wrong.",
+    "example_jp": "その計画は間違っていたことが分かった。"
+  },
+  {
+    "word": "turn up",
+    "meaning": "現れる、登場する",
+    "example": "He didn't turn up for the meeting.",
+    "example_jp": "彼は会議に現れなかった。"
+  },
+  {
+    "word": "turn down",
+    "meaning": "～(誘い・要求)を断る",
+    "example": "She turned down my invitation.",
+    "example_jp": "彼女は私の招待を断った。"
+  },
+  {
+    "word": "turn down",
+    "meaning": "の音量を下げる",
+    "example": "Turn down the TV, please.",
+    "example_jp": "テレビの音量を下げてください。"
+  },
+  {
+    "word": "turn to",
+    "meaning": "～に頼る",
+    "example": "She has no one to turn to.",
+    "example_jp": "彼女には頼る人が誰もいない。"
+  },
+  {
+    "word": "take in",
+    "meaning": "～を取り入れる、理解する",
+    "example": "I couldn't take in all the information.",
+    "example_jp": "情報をすべて理解しきれなかった。"
+  },
+  {
+    "word": "take in",
+    "meaning": "を騙す",
+    "example": "Don't let yourself be taken in by him.",
+    "example_jp": "彼に騙されないようにして。"
+  },
+  {
+    "word": "take on",
+    "meaning": "～(意味・重要性)を帯びる",
+    "example": "The situation took on a new meaning.",
+    "example_jp": "その状況は新しい意味を帯びた。"
+  },
+  {
+    "word": "take on",
+    "meaning": "(仕事)を引き受ける",
+    "example": "I can't take on any more work.",
+    "example_jp": "これ以上仕事を引き受けられない。"
+  },
+  {
+    "word": "take after",
+    "meaning": "～に似る",
+    "example": "She takes after her mother.",
+    "example_jp": "彼女は母親に似ている。"
+  },
+  {
+    "word": "take up",
+    "meaning": "～を占める",
+    "example": "This desk takes up too much space.",
+    "example_jp": "この机はスペースをとりすぎている。"
+  },
+  {
+    "word": "take up",
+    "meaning": "～を取り上げる",
+    "example": "He took up the issue in the meeting.",
+    "example_jp": "彼は会議でその問題を取り上げた。"
+  },
+  {
+    "word": "take over",
+    "meaning": "～(仕事)を引き継ぐ",
+    "example": "Who will take over the project?",
+    "example_jp": "誰がそのプロジェクトを引き継ぎますか？"
+  },
+  {
+    "word": "take to",
+    "meaning": "～が好きになる、習慣になる",
+    "example": "He took to jogging every morning.",
+    "example_jp": "彼は毎朝ジョギングをするのが習慣になった。"
+  },
+  {
+    "word": "put out",
+    "meaning": "～を消す",
+    "example": "Please put out your cigarette.",
+    "example_jp": "タバコを消してください。"
+  },
+  {
+    "word": "to put it …",
+    "meaning": "…言うと",
+    "example": "To put it simply, we lost.",
+    "example_jp": "簡単に言うと、私たちは負けたのだ。"
+  },
+  {
+    "word": "do",
+    "meaning": "間に合う、良い",
+    "example": "This pen will do for now.",
+    "example_jp": "このペンで今は間に合う。"
+  },
+  {
+    "word": "make do with",
+    "meaning": "～で間に合わせる",
+    "example": "We had to make do with what we had.",
+    "example_jp": "持っているもので何とか間に合わせなければならなかった。"
+  },
+  {
+    "word": "give away",
+    "meaning": "～を(ただで)譲る",
+    "example": "He gave away his old books.",
+    "example_jp": "彼は古い本を譲った。"
+  },
+  {
+    "word": "give away",
+    "meaning": "(秘密・気持ち)を明かす",
+    "example": "Don't give away the secret.",
+    "example_jp": "秘密を明かさないで。"
+  },
+  {
+    "word": "give way",
+    "meaning": "(～)に屈する、取って代わられる",
+    "example": "The old system gave way to a new one.",
+    "example_jp": "古いシステムは新しいものに取って代わられた。"
+  },
+  {
+    "word": "give in",
+    "meaning": "(～)に屈する",
+    "example": "They refused to give in.",
+    "example_jp": "彼らは屈することを拒否した。"
+  },
+  {
+    "word": "give off",
+    "meaning": "～(光・熱・期待)を発する",
+    "example": "The flower gives off a sweet scent.",
+    "example_jp": "その花は甘い香りを放つ。"
+  },
+  {
+    "word": "come up with",
+    "meaning": "～を思いつく",
+    "example": "Can you come up with a better idea?",
+    "example_jp": "もっと良いアイデアを思いつけますか？"
+  },
+  {
+    "word": "come about",
+    "meaning": "生じる、起こる",
+    "example": "How did this change come about?",
+    "example_jp": "この変化はどうやって起きたのですか？"
+  },
+  {
+    "word": "come into being",
+    "meaning": "生じる",
+    "example": "The universe came into being long ago.",
+    "example_jp": "宇宙は遠い昔に生じた。"
+  },
+  {
+    "word": "come to",
+    "meaning": "意識を戻す",
+    "example": "He came to after a few minutes.",
+    "example_jp": "彼は数分後に意識を取り戻した。"
+  },
+  {
+    "word": "come to",
+    "meaning": "(全部で)～になる",
+    "example": "The bill came to fifty dollars.",
+    "example_jp": "勘定は50ドルになった。"
+  },
+  {
+    "word": "come in handy",
+    "meaning": "便利である、役に立つ",
+    "example": "This tool will come in handy.",
+    "example_jp": "この道具は役に立つだろう。"
+  },
+  {
+    "word": "Come on.",
+    "meaning": "おいおい、冗談だろ",
+    "example": "Come on, don't be late again.",
+    "example_jp": "おいおい、また遅刻するなよ。"
+  },
+  {
+    "word": "go on to do",
+    "meaning": "さらに続けて～する",
+    "example": "He went on to become a famous actor.",
+    "example_jp": "彼はその後、有名な俳優になった。"
+  },
+  {
+    "word": "go off",
+    "meaning": "爆発する",
+    "example": "The alarm went off at six.",
+    "example_jp": "アラームが6時に鳴った（爆発した）。"
+  },
+  {
+    "word": "Go ahead.",
+    "meaning": "どうぞ",
+    "example": "Go ahead, you can start without me.",
+    "example_jp": "どうぞ、私なしで始めていいですよ。"
+  },
+  {
+    "word": "bring about",
+    "meaning": "～を引き起こす、もたらす",
+    "example": "This decision will bring about changes.",
+    "example_jp": "この決定が変化をもたらすだろう。"
+  },
+  {
+    "word": "bring oneself to do",
+    "meaning": "～する気になる",
+    "example": "I couldn't bring myself to tell her.",
+    "example_jp": "彼女に話す気になることができなかった。"
+  },
+  {
+    "word": "bring A home to B",
+    "meaning": "AをBに分からせる、実感させる",
+    "example": "The accident brought the danger home to him.",
+    "example_jp": "その事故で彼は危険を実感した。"
+  },
+  {
+    "word": "get at",
+    "meaning": "～を言おうとする",
+    "example": "What are you getting at?",
+    "example_jp": "あなたは何を言おうとしているのですか？"
+  },
+  {
+    "word": "get by",
+    "meaning": "なんとかやりくりする",
+    "example": "We can get by on this salary.",
+    "example_jp": "この給料でなんとかやっていける。"
+  },
+  {
+    "word": "get ～ across",
+    "meaning": "～を伝える、分かってもらう",
+    "example": "I found it hard to get my meaning across.",
+    "example_jp": "自分の意味を伝えるのは難しいと感じた。"
+  },
+  {
+    "word": "get away with",
+    "meaning": "（罰を受けずに・ばれずに）逃げおおせる",
+    "example": "You won't get away with this.",
+    "example_jp": "これをして逃げおおせることはできないぞ。"
+  },
+  {
+    "word": "let go of",
+    "meaning": "～を手放す",
+    "example": "Let go of the rope.",
+    "example_jp": "ロープを手放して。"
+  },
+  {
+    "word": "let ～ in",
+    "meaning": "～を中に入れる",
+    "example": "Let the cat in.",
+    "example_jp": "猫を中に入れて。"
+  }
+]

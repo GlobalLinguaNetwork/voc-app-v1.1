@@ -1,0 +1,410 @@
+[
+  {
+    "word": "sue",
+    "meaning": "～を告訴する",
+    "example": "He decided to sue the company.",
+    "example_jp": "彼はその会社を告訴することにした。"
+  },
+  {
+    "word": "dread",
+    "meaning": "～を恐れる",
+    "example": "I dread going to the dentist.",
+    "example_jp": "歯医者に行くのが怖い。"
+  },
+  {
+    "word": "dread",
+    "meaning": "恐怖",
+    "example": "She felt a sense of dread.",
+    "example_jp": "彼女は恐怖を感じた。"
+  },
+  {
+    "word": "vow",
+    "meaning": "～を誓う",
+    "example": "They vowed to love each other forever.",
+    "example_jp": "彼らは永遠の愛を誓った。"
+  },
+  {
+    "word": "vow",
+    "meaning": "誓い",
+    "example": "He kept his wedding vow.",
+    "example_jp": "彼は結婚の誓いを守った。"
+  },
+  {
+    "word": "chill",
+    "meaning": "～を冷やす",
+    "example": "Chill the wine before serving.",
+    "example_jp": "出す前にワインを冷やして。"
+  },
+  {
+    "word": "chill",
+    "meaning": "に寒気を感じさせる",
+    "example": "The cold wind chilled me to the bone.",
+    "example_jp": "冷たい風で芯まで冷え切った。"
+  },
+  {
+    "word": "chill",
+    "meaning": "寒気、冷たさ",
+    "example": "There is a chill in the air this morning.",
+    "example_jp": "今朝は空気がひんやりしている。"
+  },
+  {
+    "word": "staff",
+    "meaning": "社員、職員",
+    "example": "The staff are very helpful.",
+    "example_jp": "スタッフはとても親切だ。"
+  },
+  {
+    "word": "stuff",
+    "meaning": "もの",
+    "example": "Move your stuff out of the way.",
+    "example_jp": "荷物をどけて。"
+  },
+  {
+    "word": "stuff",
+    "meaning": "～を詰め込む",
+    "example": "She stuffed her clothes into the bag.",
+    "example_jp": "彼女は服をバッグに詰め込んだ。"
+  },
+  {
+    "word": "crash",
+    "meaning": "衝突する（ぶつかって壊れる）",
+    "example": "The car crashed into a tree.",
+    "example_jp": "車が木に激突した。"
+  },
+  {
+    "word": "clash",
+    "meaning": "衝突する（カチンとぶつかる）",
+    "example": "Their ideas clashed during the meeting.",
+    "example_jp": "会議中、彼らの意見は対立した。"
+  },
+  {
+    "word": "clash",
+    "meaning": "衝突",
+    "example": "A clash between the two teams was inevitable.",
+    "example_jp": "両チームの衝突は避けられなかった。"
+  },
+  {
+    "word": "crush",
+    "meaning": "～を潰す（ぐしゃっと潰す）",
+    "example": "He crushed the can with his foot.",
+    "example_jp": "彼は足で空き缶をぐしゃっと潰した。"
+  },
+  {
+    "word": "flesh",
+    "meaning": "肉",
+    "example": "The tiger ate the flesh of its prey.",
+    "example_jp": "虎は獲物の肉を食べた。"
+  },
+  {
+    "word": "glow",
+    "meaning": "輝く",
+    "example": "The stars glowed in the night sky.",
+    "example_jp": "星が夜空に輝いていた。"
+  },
+  {
+    "word": "glow",
+    "meaning": "輝き",
+    "example": "She had a healthy glow.",
+    "example_jp": "彼女は健康的な輝きを放っていた。"
+  },
+  {
+    "word": "load",
+    "meaning": "荷物、負担",
+    "example": "He carries a heavy load.",
+    "example_jp": "彼は重い荷物を運んでいる。"
+  },
+  {
+    "word": "load",
+    "meaning": "～に(荷物を)積む",
+    "example": "Help me load the truck.",
+    "example_jp": "トラックに荷物を積むのを手伝って。"
+  },
+  {
+    "word": "pray",
+    "meaning": "祈る",
+    "example": "They pray for peace.",
+    "example_jp": "彼らは平和を祈っている。"
+  },
+  {
+    "word": "prey",
+    "meaning": "獲物、餌食",
+    "example": "The lion stalked its prey.",
+    "example_jp": "ライオンが獲物を狙っていた。"
+  },
+  {
+    "word": "prey",
+    "meaning": "捕食する",
+    "example": "Cats prey on mice.",
+    "example_jp": "猫はネズミを捕食する。"
+  },
+  {
+    "word": "flee",
+    "meaning": "逃げる",
+    "example": "The crowd fled in terror.",
+    "example_jp": "群衆は恐怖の中で逃げ出した。"
+  },
+  {
+    "word": "flee",
+    "meaning": "～から逃げる",
+    "example": "They fled the country.",
+    "example_jp": "彼らはその国から脱出した。"
+  },
+  {
+    "word": "dose",
+    "meaning": "(薬の１回の)服用量",
+    "example": "Take one dose with water.",
+    "example_jp": "1回分を水と一緒に服用して。"
+  },
+  {
+    "word": "role",
+    "meaning": "役割",
+    "example": "She plays an important role.",
+    "example_jp": "彼女は重要な役割を担っている。"
+  },
+  {
+    "word": "roll",
+    "meaning": "転がる",
+    "example": "The ball rolled down the hill.",
+    "example_jp": "ボールが丘を転がり落ちた。"
+  },
+  {
+    "word": "roll",
+    "meaning": "～を転がす、巻く",
+    "example": "Roll up the carpet.",
+    "example_jp": "カーペットを巻いて。"
+  },
+  {
+    "word": "tale",
+    "meaning": "話、物語",
+    "example": "He told us a fairy tale.",
+    "example_jp": "彼はおとぎ話をしてくれた。"
+  },
+  {
+    "word": "awe",
+    "meaning": "畏敬、畏怖",
+    "example": "They looked up at the mountain with awe.",
+    "example_jp": "彼らは畏敬の念を持って山を見上げた。"
+  },
+  {
+    "word": "awe",
+    "meaning": "畏怖させる",
+    "example": "The beauty of the cathedral awed them.",
+    "example_jp": "大聖堂の美しさに彼らは圧倒された。"
+  },
+  {
+    "word": "feat",
+    "meaning": "偉業、離れ業",
+    "example": "It was a feat of strength.",
+    "example_jp": "それは力による偉業だった。"
+  },
+  {
+    "word": "deed",
+    "meaning": "行動、行為",
+    "example": "One good deed deserves another.",
+    "example_jp": "善行には善行で報いるべきだ。"
+  },
+  {
+    "word": "clue",
+    "meaning": "手掛かり、鍵",
+    "example": "The police found a clue.",
+    "example_jp": "警察は手がかりを見つけた。"
+  },
+  {
+    "word": "path",
+    "meaning": "小道、道筋",
+    "example": "Follow the path through the forest.",
+    "example_jp": "森を通る小道に従って。"
+  },
+  {
+    "word": "aisle",
+    "meaning": "通路",
+    "example": "The flight attendant walked down the aisle.",
+    "example_jp": "客室乗務員が通路を歩いた。"
+  },
+  {
+    "word": "ray",
+    "meaning": "光線、放射線",
+    "example": "A ray of sunlight came through the window.",
+    "example_jp": "光線が窓から差し込んだ。"
+  },
+  {
+    "word": "lump",
+    "meaning": "(小さな)かたまり",
+    "example": "Add a lump of sugar to your tea.",
+    "example_jp": "紅茶に角砂糖を1つ入れて。"
+  },
+  {
+    "word": "bulk",
+    "meaning": "容積、かさ",
+    "example": "The bulk of the work is done.",
+    "example_jp": "仕事の大半は終わった。"
+  },
+  {
+    "word": "bulk",
+    "meaning": "巨大なもの",
+    "example": "The bulk of the ship was visible.",
+    "example_jp": "その巨大な船体が見えていた。"
+  },
+  {
+    "word": "pile",
+    "meaning": "(綺麗に積み重なった)山",
+    "example": "She made a pile of books.",
+    "example_jp": "彼女は本をきれいに積み上げた。"
+  },
+  {
+    "word": "heap",
+    "meaning": "(雑然と積み重なった)山",
+    "example": "Clothes were in a heap on the floor.",
+    "example_jp": "服が床に雑然と山積みになっていた。"
+  },
+  {
+    "word": "mess",
+    "meaning": "混雑、乱雑",
+    "example": "Your room is a mess.",
+    "example_jp": "あなたの部屋は散らかっている。"
+  },
+  {
+    "word": "fuss",
+    "meaning": "大騒ぎ",
+    "example": "Don't make such a fuss.",
+    "example_jp": "そんなに大騒ぎしないで。"
+  },
+  {
+    "word": "mere",
+    "meaning": "単なる、ほんの",
+    "example": "It is a mere coincidence.",
+    "example_jp": "それは単なる偶然だ。"
+  },
+  {
+    "word": "dull",
+    "meaning": "退屈な",
+    "example": "The movie was very dull.",
+    "example_jp": "その映画はとても退屈だった。"
+  },
+  {
+    "word": "dull",
+    "meaning": "頭の鈍い",
+    "example": "He has a dull student.",
+    "example_jp": "彼は頭の鈍い生徒だ。"
+  },
+  {
+    "word": "ripe",
+    "meaning": "熟した、成熟した",
+    "example": "The bananas are ripe.",
+    "example_jp": "バナナが熟している。"
+  },
+  {
+    "word": "bare",
+    "meaning": "裸の、むき出しの",
+    "example": "She walked with bare feet.",
+    "example_jp": "彼女は裸足で歩いた。"
+  },
+  {
+    "word": "bare",
+    "meaning": "最低限の、ギリギリの",
+    "example": "He earns the bare minimum.",
+    "example_jp": "彼は最低限の収入を得ている。"
+  },
+  {
+    "word": "raw",
+    "meaning": "生の、加工していない",
+    "example": "I like eating raw fish.",
+    "example_jp": "私は生魚を食べるのが好きだ。"
+  },
+  {
+    "word": "net",
+    "meaning": "正味の、掛け値なしの",
+    "example": "What is your net profit?",
+    "example_jp": "純利益はいくらですか？"
+  },
+  {
+    "word": "gross",
+    "meaning": "総計の",
+    "example": "The gross income was huge.",
+    "example_jp": "総収入は莫大だった。"
+  },
+  {
+    "word": "dim",
+    "meaning": "薄暗い、ぼんやりとした",
+    "example": "The room was dim.",
+    "example_jp": "その部屋は薄暗かった。"
+  },
+  {
+    "word": "deaf",
+    "meaning": "耳が聞こえない",
+    "example": "He has been deaf since birth.",
+    "example_jp": "彼は生まれつき耳が聞こえない。"
+  },
+  {
+    "word": "dumb",
+    "meaning": "口がきけない",
+    "example": "The character was born dumb.",
+    "example_jp": "そのキャラクターは生まれつき口がきけなかった。"
+  },
+  {
+    "word": "dumb",
+    "meaning": "馬鹿な",
+    "example": "That was a dumb mistake.",
+    "example_jp": "それは馬鹿なミスだった。"
+  },
+  {
+    "word": "weird",
+    "meaning": "変な、奇妙な",
+    "example": "That is a weird noise.",
+    "example_jp": "それは変な音だ。"
+  },
+  {
+    "word": "sake",
+    "meaning": "ため、目的",
+    "example": "I did it for your sake.",
+    "example_jp": "あなたのためにそれをした。"
+  },
+  {
+    "word": "vain",
+    "meaning": "無駄な、虚しい",
+    "example": "All my efforts were in vain.",
+    "example_jp": "私の努力はすべて無駄だった。"
+  },
+  {
+    "word": "dawn",
+    "meaning": "夜明け； 始まり",
+    "example": "We started at dawn.",
+    "example_jp": "夜明けに出発した。"
+  },
+  {
+    "word": "dawn",
+    "meaning": "夜が明ける",
+    "example": "It was just beginning to dawn.",
+    "example_jp": "ちょうど夜が明け始めていた。"
+  },
+  {
+    "word": "tend",
+    "meaning": "(～する)傾向がある",
+    "example": "I tend to worry too much.",
+    "example_jp": "私は心配しすぎる傾向がある。"
+  },
+  {
+    "word": "trend",
+    "meaning": "傾向、風潮",
+    "example": "There is a new fashion trend.",
+    "example_jp": "新しいファッションの流行がある。"
+  },
+  {
+    "word": "apt",
+    "meaning": "～しがちである",
+    "example": "He is apt to forget things.",
+    "example_jp": "彼は忘れ物をしがちだ。"
+  },
+  {
+    "word": "liable",
+    "meaning": "～しがちである",
+    "example": "It is liable to rain later.",
+    "example_jp": "後で雨が降りそうだ。"
+  },
+  {
+    "word": "liable",
+    "meaning": "(～に対して)法的責任がある",
+    "example": "You are liable for the damage.",
+    "example_jp": "あなたはその損害に対して法的な責任がある。"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "word": "meditate",
+    "meaning": "瞑想する、深く考える",
+    "example": "He meditates for twenty minutes every morning.",
+    "example_jp": "彼は毎朝20分間瞑想する。"
+  },
+  {
+    "word": "recollect",
+    "meaning": "思い出す",
+    "example": "I can vaguely recollect his face.",
+    "example_jp": "彼の顔をぼんやりと思い出せる。"
+  },
+  {
+    "word": "recall",
+    "meaning": "思い出す",
+    "example": "I cannot recall his name.",
+    "example_jp": "彼の名前を思い出せない。"
+  },
+  {
+    "word": "inform",
+    "meaning": "知らせる",
+    "example": "I need to inform him of the changes.",
+    "example_jp": "彼に変更事項を知らせる必要がある。"
+  },
+  {
+    "word": "remind",
+    "meaning": "思い出させる",
+    "example": "Please remind me to call him.",
+    "example_jp": "彼に電話するよう私に思い出させて。"
+  },
+  {
+    "word": "infant",
+    "meaning": "幼児",
+    "example": "The infant is sleeping peacefully.",
+    "example_jp": "その幼児は穏やかに眠っている。"
+  },
+  {
+    "word": "toddler",
+    "meaning": "幼児",
+    "example": "The toddler is learning how to walk.",
+    "example_jp": "その幼児は歩き方を学んでいる。"
+  },
+  {
+    "word": "adolescent",
+    "meaning": "思春期の、十代の； 十代の若者",
+    "example": "He works with troubled adolescents.",
+    "example_jp": "彼は悩みを抱える十代の若者たちと関わっている。"
+  },
+  {
+    "word": "juvenile",
+    "meaning": "少年少女の",
+    "example": "The crime rate for juvenile offenders is dropping.",
+    "example_jp": "少年犯罪者の犯罪率が低下している。"
+  },
+  {
+    "word": "adult",
+    "meaning": "大人； 大人の",
+    "example": "It is difficult to be an adult.",
+    "example_jp": "大人になるのは難しい。"
+  },
+  {
+    "word": "elderly",
+    "meaning": "年配の、お年寄りの",
+    "example": "He is very kind to elderly people.",
+    "example_jp": "彼は高齢者にとても親切だ。"
+  },
+  {
+    "word": "mature",
+    "meaning": "成熟した； 成熟する",
+    "example": "He is very mature for his age.",
+    "example_jp": "彼は年齢の割にとても成熟している。"
+  },
+  {
+    "word": "pregnant",
+    "meaning": "妊娠している",
+    "example": "She is pregnant with her first child.",
+    "example_jp": "彼女は第一子を妊娠している。"
+  },
+  {
+    "word": "maternity",
+    "meaning": "母性",
+    "example": "She is enjoying maternity.",
+    "example_jp": "彼女は母性を楽しんでいる。"
+  },
+  {
+    "word": "birthrate",
+    "meaning": "出生率",
+    "example": "The birthrate is declining.",
+    "example_jp": "出生率が低下している。"
+  },
+  {
+    "word": "abortion",
+    "meaning": "妊娠中絶",
+    "example": "The law regarding abortion is controversial.",
+    "example_jp": "妊娠中絶に関する法律は議論を呼んでいる。"
+  },
+  {
+    "word": "divorce",
+    "meaning": "離婚",
+    "example": "They decided to file for divorce.",
+    "example_jp": "彼らは離婚を申請することに決めた。"
+  },
+  {
+    "word": "celebrate",
+    "meaning": "祝う",
+    "example": "We gathered to celebrate her birthday.",
+    "example_jp": "私たちは彼女の誕生日を祝うために集まった。"
+  },
+  {
+    "word": "career",
+    "meaning": "職歴、キャリア",
+    "example": "She has had a successful career in law.",
+    "example_jp": "彼女は法律の世界で成功したキャリアを積んできた。"
+  },
+  {
+    "word": "background",
+    "meaning": "背景； 経歴、生い立ち",
+    "example": "What is his professional background?",
+    "example_jp": "彼の経歴は何ですか。"
+  },
+  {
+    "word": "status",
+    "meaning": "社会的地位",
+    "example": "She is concerned about her social status.",
+    "example_jp": "彼女は自分の社会的地位を気にしている。"
+  },
+  {
+    "word": "resign",
+    "meaning": "(途中で)辞職する； 断念する",
+    "example": "He resigned from his position.",
+    "example_jp": "彼は役職を辞職した。"
+  },
+  {
+    "word": "retire",
+    "meaning": "定年で退職する",
+    "example": "He will retire next year.",
+    "example_jp": "彼は来年定年退職する予定だ。"
+  },
+  {
+    "word": "quit",
+    "meaning": "やめる、中止する",
+    "example": "I decided to quit smoking.",
+    "example_jp": "禁煙することに決めた。"
+  },
+  {
+    "word": "farewell",
+    "meaning": "お別れ",
+    "example": "We had a farewell party for him.",
+    "example_jp": "彼のお別れ会を開いた。"
+  },
+  {
+    "word": "pension",
+    "meaning": "年金",
+    "example": "She lives on her pension.",
+    "example_jp": "彼女は年金で暮らしている。"
+  },
+  {
+    "word": "funeral",
+    "meaning": "葬式",
+    "example": "I went to his funeral yesterday.",
+    "example_jp": "昨日彼の葬式に出席した。"
+  },
+  {
+    "word": "tomb",
+    "meaning": "墓石、墓",
+    "example": "They visited the ancient tomb.",
+    "example_jp": "彼らは古代の墓を訪れた。"
+  },
+  {
+    "word": "bury",
+    "meaning": "埋める、埋葬する",
+    "example": "The dog buried a bone in the garden.",
+    "example_jp": "犬が庭に骨を埋めた。"
+  },
+  {
+    "word": "coffin",
+    "meaning": "棺桶",
+    "example": "They carried the coffin to the church.",
+    "example_jp": "彼らは棺桶を教会まで運んだ。"
+  },
+  {
+    "word": "corpse",
+    "meaning": "死体",
+    "example": "The detective examined the corpse.",
+    "example_jp": "刑事が死体を調べた。"
+  },
+  {
+    "word": "mortal",
+    "meaning": "死ぬ運命にある",
+    "example": "All humans are mortal.",
+    "example_jp": "人間はみな死ぬ運命にある。"
+  },
+  {
+    "word": "inherit",
+    "meaning": "相続する",
+    "example": "She inherited a house from her grandmother.",
+    "example_jp": "彼女は祖母から家を相続した。"
+  },
+  {
+    "word": "heir",
+    "meaning": "相続人、跡取り",
+    "example": "He is the sole heir to the fortune.",
+    "example_jp": "彼はその財産の唯一の相続人だ。"
+  },
+  {
+    "word": "heritage",
+    "meaning": "遺産",
+    "example": "The building is part of our cultural heritage.",
+    "example_jp": "その建物は我々の文化遺産の一部だ。"
+  },
+  {
+    "word": "legacy",
+    "meaning": "遺産、遺物",
+    "example": "He left a great legacy to science.",
+    "example_jp": "彼は科学に偉大な遺産を残した。"
+  },
+  {
+    "word": "offspring",
+    "meaning": "子、子孫",
+    "example": "Animals care for their offspring.",
+    "example_jp": "動物は自分の子を世話する。"
+  },
+  {
+    "word": "inevitable",
+    "meaning": "避けられない、必然的な",
+    "example": "Conflict is sometimes inevitable.",
+    "example_jp": "争いは時として避けられない。"
+  },
+  {
+    "word": "fate",
+    "meaning": "運命、宿命",
+    "example": "It was his fate to become a king.",
+    "example_jp": "王になるのが彼の運命だった。"
+  },
+  {
+    "word": "individual",
+    "meaning": "個人； 個人の、個々の",
+    "example": "We respect the rights of the individual.",
+    "example_jp": "私たちは個人の権利を尊重する。"
+  },
+  {
+    "word": "personal",
+    "meaning": "個人的な",
+    "example": "This is a personal matter.",
+    "example_jp": "これは個人的な問題だ。"
+  },
+  {
+    "word": "private",
+    "meaning": "個人的な",
+    "example": "She prefers to keep her life private.",
+    "example_jp": "彼女は生活を個人的なものにしておくことを好む。"
+  },
+  {
+    "word": "self",
+    "meaning": "自己",
+    "example": "He has a strong sense of self.",
+    "example_jp": "彼は強い自己意識を持っている。"
+  },
+  {
+    "word": "fellow",
+    "meaning": "人、奴； 仲間",
+    "example": "He is a good fellow.",
+    "example_jp": "彼は良い奴だ。"
+  },
+  {
+    "word": "male",
+    "meaning": "男性の； 男性",
+    "example": "The male lion has a thick mane.",
+    "example_jp": "オスのライオンはたてがみが厚い。"
+  },
+  {
+    "word": "female",
+    "meaning": "女性の； 女性",
+    "example": "She is a female doctor.",
+    "example_jp": "彼女は女性の医者だ。"
+  },
+  {
+    "word": "masculine",
+    "meaning": "男の、男らしい",
+    "example": "He has a masculine voice.",
+    "example_jp": "彼は男らしい声をしている。"
+  },
+  {
+    "word": "feminine",
+    "meaning": "女の、女らしい",
+    "example": "She likes feminine clothes.",
+    "example_jp": "彼女は女らしい服が好きだ。"
+  },
+  {
+    "word": "gender",
+    "meaning": "ジェンダー",
+    "example": "We should treat people equally regardless of gender.",
+    "example_jp": "ジェンダーに関係なく人々を平等に扱うべきだ。"
+  },
+  {
+    "word": "sibling",
+    "meaning": "兄弟",
+    "example": "I have two siblings.",
+    "example_jp": "私には2人の兄弟（姉妹）がいる。"
+  }
+]

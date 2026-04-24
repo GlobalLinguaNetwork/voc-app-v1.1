@@ -1,0 +1,362 @@
+[
+  {
+    "word": "dwell",
+    "meaning": "住む、宿る",
+    "example": "Many animals dwell in the forest.",
+    "example_jp": "多くの動物が森に住んでいる。"
+  },
+  {
+    "word": "residence",
+    "meaning": "住居、居住",
+    "example": "He has a private residence in the city.",
+    "example_jp": "彼は市内に私邸を持っている。"
+  },
+  {
+    "word": "accommodate",
+    "meaning": "～を宿泊させる、収容する",
+    "example": "The hotel can accommodate many guests.",
+    "example_jp": "そのホテルは多くの客を収容できる。"
+  },
+  {
+    "word": "accommodate",
+    "meaning": "順応させる",
+    "example": "We must accommodate our plans to the new rules.",
+    "example_jp": "新しい規則に計画を順応させなければならない。"
+  },
+  {
+    "word": "refuge",
+    "meaning": "避難、避難所",
+    "example": "They sought refuge from the storm.",
+    "example_jp": "彼らは嵐から逃れるために避難した。"
+  },
+  {
+    "word": "shelter",
+    "meaning": "避難所、住まい",
+    "example": "They built a temporary shelter.",
+    "example_jp": "彼らは仮の住まいを建てた。"
+  },
+  {
+    "word": "shelter",
+    "meaning": "～を保護する、住まわせる",
+    "example": "The trees shelter the house from the wind.",
+    "example_jp": "木々がその家を風から守っている。"
+  },
+  {
+    "word": "clothes",
+    "meaning": "衣服",
+    "example": "She bought some new clothes.",
+    "example_jp": "彼女は新しい服を何着か買った。"
+  },
+  {
+    "word": "fabric",
+    "meaning": "布地",
+    "example": "This fabric is very soft.",
+    "example_jp": "この布地はとても柔らかい。"
+  },
+  {
+    "word": "thread",
+    "meaning": "糸",
+    "example": "I need a needle and thread.",
+    "example_jp": "針と糸が必要です。"
+  },
+  {
+    "word": "weave",
+    "meaning": "～を織る",
+    "example": "She weaves her own fabric.",
+    "example_jp": "彼女は自分で布地を織る。"
+  },
+  {
+    "word": "wear",
+    "meaning": "～を着ている",
+    "example": "He wears a suit to work.",
+    "example_jp": "彼は仕事にスーツを着ていく。"
+  },
+  {
+    "word": "wear",
+    "meaning": "をすり減らす",
+    "example": "These shoes wear out quickly.",
+    "example_jp": "この靴はすぐにすり減る。"
+  },
+  {
+    "word": "disguise",
+    "meaning": "～を変装する、隠す",
+    "example": "He disguised his voice.",
+    "example_jp": "彼は声を隠した。"
+  },
+  {
+    "word": "disguise",
+    "meaning": "変装、隠蔽",
+    "example": "He wore a disguise to avoid being seen.",
+    "example_jp": "彼は見つからないように変装した。"
+  },
+  {
+    "word": "naked",
+    "meaning": "裸の、むき出しの",
+    "example": "He walked with naked feet.",
+    "example_jp": "彼は裸足で歩いた。"
+  },
+  {
+    "word": "fashion",
+    "meaning": "流行",
+    "example": "That style is back in fashion.",
+    "example_jp": "そのスタイルがまた流行している。"
+  },
+  {
+    "word": "fashion",
+    "meaning": "方法、やり方",
+    "example": "She spoke in a strange fashion.",
+    "example_jp": "彼女は変なやり方で話した。"
+  },
+  {
+    "word": "household",
+    "meaning": "家庭の",
+    "example": "They have many household chores.",
+    "example_jp": "彼らには多くの家事がある。"
+  },
+  {
+    "word": "domestic",
+    "meaning": "家庭内の； 国内の",
+    "example": "The country is facing domestic problems.",
+    "example_jp": "その国は国内問題を抱えている。"
+  },
+  {
+    "word": "routine",
+    "meaning": "日常の、おきまりの",
+    "example": "It is just a routine check.",
+    "example_jp": "それはただの日常的な点検だ。"
+  },
+  {
+    "word": "routine",
+    "meaning": "日課",
+    "example": "Morning exercise is my daily routine.",
+    "example_jp": "朝の運動が私の日課だ。"
+  },
+  {
+    "word": "chore",
+    "meaning": "雑用",
+    "example": "Cleaning the house is a chore.",
+    "example_jp": "家の掃除は雑用だ。"
+  },
+  {
+    "word": "commute",
+    "meaning": "通勤・通学する",
+    "example": "He commutes to work by train.",
+    "example_jp": "彼は電車で通勤している。"
+  },
+  {
+    "word": "grocery",
+    "meaning": "食料雑貨品",
+    "example": "I went to buy some groceries.",
+    "example_jp": "食料雑貨を買いに行った。"
+  },
+  {
+    "word": "greet",
+    "meaning": "～に挨拶する、を出迎える",
+    "example": "She greeted me with a smile.",
+    "example_jp": "彼女は笑顔で私を出迎えた。"
+  },
+  {
+    "word": "souvenir",
+    "meaning": "お土産、記念品",
+    "example": "I bought a souvenir for myself.",
+    "example_jp": "自分のためにお土産を買った。"
+  },
+  {
+    "word": "degree",
+    "meaning": "程度",
+    "example": "To some degree, I agree with you.",
+    "example_jp": "ある程度は、あなたに同意する。"
+  },
+  {
+    "word": "degree",
+    "meaning": "学位",
+    "example": "She earned a degree in science.",
+    "example_jp": "彼女は科学の学位を取得した。"
+  },
+  {
+    "word": "extent",
+    "meaning": "程度、範囲",
+    "example": "The extent of the damage is unknown.",
+    "example_jp": "被害の範囲は不明だ。"
+  },
+  {
+    "word": "scale",
+    "meaning": "規模、程度",
+    "example": "The project is on a large scale.",
+    "example_jp": "そのプロジェクトは大規模だ。"
+  },
+  {
+    "word": "moderate",
+    "meaning": "適度の、控えめな",
+    "example": "He drinks a moderate amount of wine.",
+    "example_jp": "彼は適度のワインを飲む。"
+  },
+  {
+    "word": "moderate",
+    "meaning": "穏やかな",
+    "example": "The town has a moderate climate.",
+    "example_jp": "その町は穏やかな気候だ。"
+  },
+  {
+    "word": "temperate",
+    "meaning": "適度の、節度のある； 穏やかな",
+    "example": "The region has a temperate climate.",
+    "example_jp": "その地域は穏やかな気候だ。"
+  },
+  {
+    "word": "proper",
+    "meaning": "適度の、適切な",
+    "example": "Is this the proper way to do it?",
+    "example_jp": "これが正しいやり方ですか？"
+  },
+  {
+    "word": "appropriate",
+    "meaning": "適切な",
+    "example": "His comments were appropriate for the meeting.",
+    "example_jp": "彼のコメントはその会議に適切だった。"
+  },
+  {
+    "word": "extreme",
+    "meaning": "極端な",
+    "example": "She took extreme measures.",
+    "example_jp": "彼女は極端な手段をとった。"
+  },
+  {
+    "word": "extreme",
+    "meaning": "極端、極限",
+    "example": "They faced the extreme of poverty.",
+    "example_jp": "彼らは極限の貧困に直面した。"
+  },
+  {
+    "word": "tremendous",
+    "meaning": "凄まじい、莫大な",
+    "example": "The team made a tremendous effort.",
+    "example_jp": "チームは凄まじい努力をした。"
+  },
+  {
+    "word": "excess",
+    "meaning": "超過、過剰な",
+    "example": "Avoid an excess of sugar.",
+    "example_jp": "糖分の摂りすぎに注意して。"
+  },
+  {
+    "word": "extra",
+    "meaning": "余分な、臨時の",
+    "example": "I need some extra help.",
+    "example_jp": "余分な手助けが必要だ。"
+  },
+  {
+    "word": "gradual",
+    "meaning": "徐々の",
+    "example": "There was a gradual change in the weather.",
+    "example_jp": "天気は徐々に変わった。"
+  },
+  {
+    "word": "steady",
+    "meaning": "安定した、着実な",
+    "example": "She made steady progress.",
+    "example_jp": "彼女は着実に進歩した。"
+  },
+  {
+    "word": "sharply",
+    "meaning": "急速に",
+    "example": "Prices rose sharply.",
+    "example_jp": "物価が急速に上昇した。"
+  },
+  {
+    "word": "steep",
+    "meaning": "(勾配が)急な、険しい",
+    "example": "The path was very steep.",
+    "example_jp": "小道はとても急だった。"
+  },
+  {
+    "word": "marked",
+    "meaning": "著しい、顕著な",
+    "example": "There was a marked improvement.",
+    "example_jp": "著しい改善があった。"
+  },
+  {
+    "word": "partly",
+    "meaning": "部分的に、一部には",
+    "example": "It is partly true.",
+    "example_jp": "それは部分的に正しい。"
+  },
+  {
+    "word": "entire",
+    "meaning": "全体の",
+    "example": "He ate the entire cake.",
+    "example_jp": "彼はケーキを丸ごと食べた。"
+  },
+  {
+    "word": "fully",
+    "meaning": "全く、完全に",
+    "example": "I fully agree with you.",
+    "example_jp": "あなたに完全に同意する。"
+  },
+  {
+    "word": "thorough",
+    "meaning": "完全な、徹底的な",
+    "example": "We did a thorough investigation.",
+    "example_jp": "徹底的な調査を行った。"
+  },
+  {
+    "word": "ultimate",
+    "meaning": "究極の、最終の",
+    "example": "Peace is our ultimate goal.",
+    "example_jp": "平和が私たちの究極の目標だ。"
+  },
+  {
+    "word": "terminal",
+    "meaning": "終点の、最終の",
+    "example": "This is the terminal station.",
+    "example_jp": "ここが終着駅だ。"
+  },
+  {
+    "word": "eventually",
+    "meaning": "結局は、ゆくゆくは",
+    "example": "He will eventually learn it.",
+    "example_jp": "彼は結局それを学ぶだろう。"
+  },
+  {
+    "word": "end up",
+    "meaning": "結局～になる",
+    "example": "He ended up losing his job.",
+    "example_jp": "彼は結局仕事を失った。"
+  },
+  {
+    "word": "in the long run",
+    "meaning": "長い目で見れば、結局は",
+    "example": "It will be better in the long run.",
+    "example_jp": "長い目で見れば、それが良いだろう。"
+  },
+  {
+    "word": "for good",
+    "meaning": "永遠に",
+    "example": "He left the city for good.",
+    "example_jp": "彼はその町を永遠に去った。"
+  },
+  {
+    "word": "rate",
+    "meaning": "割合、速度",
+    "example": "The crime rate is increasing.",
+    "example_jp": "犯罪率が上昇している。"
+  },
+  {
+    "word": "rate",
+    "meaning": "～を評価する",
+    "example": "How do you rate this movie?",
+    "example_jp": "この映画をどう評価しますか？"
+  },
+  {
+    "word": "proportion",
+    "meaning": "割合、比率",
+    "example": "A large proportion of the students passed.",
+    "example_jp": "学生の大きな割合が合格した。"
+  },
+  {
+    "word": "ratio",
+    "meaning": "比率",
+    "example": "The ratio of men to women is 2 to 1.",
+    "example_jp": "男女の比率は2対1だ。"
+  }
+]

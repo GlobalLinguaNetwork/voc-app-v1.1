@@ -1,0 +1,320 @@
+[
+  {
+    "word": "guilty",
+    "meaning": "有罪の",
+    "example": "The jury found him guilty of the crime.",
+    "example_jp": "陪審員団は彼を有罪と判断した。"
+  },
+  {
+    "word": "innocent",
+    "meaning": "無罪の",
+    "example": "He proved that he was innocent.",
+    "example_jp": "彼は自分が無罪であることを証明した。"
+  },
+  {
+    "word": "innocent",
+    "meaning": "無邪気な",
+    "example": "She has an innocent smile.",
+    "example_jp": "彼女には無邪気な笑顔がある。"
+  },
+  {
+    "word": "sentence",
+    "meaning": "判決（を下す）",
+    "example": "The judge sentenced him to five years in prison.",
+    "example_jp": "裁判官は彼に5年の禁固刑を言い渡した。"
+  },
+  {
+    "word": "prison",
+    "meaning": "刑務所",
+    "example": "He spent two years in prison.",
+    "example_jp": "彼は刑務所で2年間を過ごした。"
+  },
+  {
+    "word": "deter",
+    "meaning": "抑止する",
+    "example": "Stricter laws may deter crime.",
+    "example_jp": "より厳格な法律は犯罪を抑止するかもしれない。"
+  },
+  {
+    "word": "violence",
+    "meaning": "暴力",
+    "example": "The movie contains scenes of violence.",
+    "example_jp": "その映画には暴力シーンが含まれている。"
+  },
+  {
+    "word": "aggressive",
+    "meaning": "攻撃的な",
+    "example": "He has an aggressive personality.",
+    "example_jp": "彼は攻撃的な性格だ。"
+  },
+  {
+    "word": "legal",
+    "meaning": "合法の、法律の",
+    "example": "Is this action legal?",
+    "example_jp": "この行為は合法ですか。"
+  },
+  {
+    "word": "violate",
+    "meaning": "違反する、犯す、侵害する",
+    "example": "They violated the terms of the agreement.",
+    "example_jp": "彼らは協定の条件に違反した。"
+  },
+  {
+    "word": "unite",
+    "meaning": "結びつける",
+    "example": "The goal is to unite the country.",
+    "example_jp": "目標は国を団結させることだ。"
+  },
+  {
+    "word": "unity",
+    "meaning": "結束、統一",
+    "example": "We need national unity.",
+    "example_jp": "私たちには国家の結束が必要だ。"
+  },
+  {
+    "word": "uniform",
+    "meaning": "一様な、均一の",
+    "example": "The temperature should be kept uniform.",
+    "example_jp": "温度は一定に保たれるべきだ。"
+  },
+  {
+    "word": "universal",
+    "meaning": "普遍的な",
+    "example": "Music has a universal appeal.",
+    "example_jp": "音楽には普遍的な魅力がある。"
+  },
+  {
+    "word": "union",
+    "meaning": "組合",
+    "example": "The labor union went on strike.",
+    "example_jp": "労働組合がストライキを行った。"
+  },
+  {
+    "word": "reunion",
+    "meaning": "再開、同窓会",
+    "example": "We had a high school reunion last night.",
+    "example_jp": "昨夜、高校の同窓会があった。"
+  },
+  {
+    "word": "sole",
+    "meaning": "唯一の",
+    "example": "He is the sole survivor of the crash.",
+    "example_jp": "彼はその墜落事故の唯一の生存者だ。"
+  },
+  {
+    "word": "solitude",
+    "meaning": "孤独",
+    "example": "He enjoys living in solitude.",
+    "example_jp": "彼は孤独に暮らすことを楽しんでいる。"
+  },
+  {
+    "word": "console",
+    "meaning": "慰める",
+    "example": "She tried to console him after his loss.",
+    "example_jp": "彼女は彼の喪失後に彼を慰めようとした。"
+  },
+  {
+    "word": "monotonous",
+    "meaning": "単調な",
+    "example": "The work is monotonous and boring.",
+    "example_jp": "その仕事は単調で退屈だ。"
+  },
+  {
+    "word": "monopoly",
+    "meaning": "独占、専売",
+    "example": "The company has a monopoly on the market.",
+    "example_jp": "その会社は市場を独占している。"
+  },
+  {
+    "word": "combine",
+    "meaning": "結合させる",
+    "example": "We should combine our efforts.",
+    "example_jp": "私たちは力を合わせるべきだ。"
+  },
+  {
+    "word": "dual",
+    "meaning": "２つの、二重の",
+    "example": "The car has a dual control system.",
+    "example_jp": "その車は二重制御システムを持っている。"
+  },
+  {
+    "word": "duplicate",
+    "meaning": "複製する",
+    "example": "He duplicated the document.",
+    "example_jp": "彼はその文書を複製した。"
+  },
+  {
+    "word": "numerous",
+    "meaning": "無数の",
+    "example": "She has numerous friends in the city.",
+    "example_jp": "彼女はその街に無数の友人がいる。"
+  },
+  {
+    "word": "innumerable",
+    "meaning": "無数の",
+    "example": "There are innumerable stars in the sky.",
+    "example_jp": "空には無数の星がある。"
+  },
+  {
+    "word": "infinite",
+    "meaning": "無限の",
+    "example": "Space is infinite.",
+    "example_jp": "宇宙は無限だ。"
+  },
+  {
+    "word": "quantity",
+    "meaning": "量",
+    "example": "Quality is more important than quantity.",
+    "example_jp": "量よりも質の方が重要だ。"
+  },
+  {
+    "word": "quality",
+    "meaning": "質、品質、性質",
+    "example": "This product has high quality.",
+    "example_jp": "この製品は品質が高い。"
+  },
+  {
+    "word": "volume",
+    "meaning": "容積、量、かさ",
+    "example": "The volume of traffic has increased.",
+    "example_jp": "交通量が増加した。"
+  },
+  {
+    "word": "volume",
+    "meaning": "(大型の)本、(本の)１巻",
+    "example": "This is the second volume of the series.",
+    "example_jp": "これはそのシリーズの第2巻だ。"
+  },
+  {
+    "word": "amount",
+    "meaning": "量、総計、総額",
+    "example": "He spent a large amount of money.",
+    "example_jp": "彼は多額のお金を使った。"
+  },
+  {
+    "word": "amount",
+    "meaning": "～に達する、結局～になる(to)",
+    "example": "The expenses amount to 500 dollars.",
+    "example_jp": "出費は合計で500ドルに達する。"
+  },
+  {
+    "word": "sum",
+    "meaning": "合計、要約する",
+    "example": "The sum of three and five is eight.",
+    "example_jp": "3と5の合計は8だ。"
+  },
+  {
+    "word": "total",
+    "meaning": "完全な、合計の",
+    "example": "The total cost is 100 dollars.",
+    "example_jp": "合計費用は100ドルだ。"
+  },
+  {
+    "word": "vast",
+    "meaning": "莫大な、広大な",
+    "example": "The desert is a vast area.",
+    "example_jp": "砂漠は広大な領域だ。"
+  },
+  {
+    "word": "huge",
+    "meaning": "巨大な",
+    "example": "A huge crowd gathered.",
+    "example_jp": "巨大な群衆が集まった。"
+  },
+  {
+    "word": "enormous",
+    "meaning": "非常に大きい、莫大な",
+    "example": "He made an enormous mistake.",
+    "example_jp": "彼は莫大な（大きな）ミスをした。"
+  },
+  {
+    "word": "immense",
+    "meaning": "巨大な、膨大な",
+    "example": "The pressure on him was immense.",
+    "example_jp": "彼にかかるプレッシャーは膨大だった。"
+  },
+  {
+    "word": "abundant",
+    "meaning": "豊富な",
+    "example": "This area is abundant in natural resources.",
+    "example_jp": "この地域は天然資源が豊富だ。"
+  },
+  {
+    "word": "ample",
+    "meaning": "十分な、たっぷりの",
+    "example": "There is ample time for the trip.",
+    "example_jp": "旅行には十分な時間がある。"
+  },
+  {
+    "word": "affluent",
+    "meaning": "富裕な",
+    "example": "They live in an affluent neighborhood.",
+    "example_jp": "彼らは富裕な地域に住んでいる。"
+  },
+  {
+    "word": "sufficient",
+    "meaning": "十分な",
+    "example": "This amount is sufficient for our needs.",
+    "example_jp": "この量で私たちのニーズには十分だ。"
+  },
+  {
+    "word": "adequate",
+    "meaning": "十分な",
+    "example": "We have adequate supplies for the winter.",
+    "example_jp": "冬のための十分な物資がある。"
+  },
+  {
+    "word": "major",
+    "meaning": "主要な",
+    "example": "That is a major problem.",
+    "example_jp": "それは主要な問題だ。"
+  },
+  {
+    "word": "minor",
+    "meaning": "重要でない、小さい",
+    "example": "These are minor changes.",
+    "example_jp": "これらは重要でない（小さな）変更だ。"
+  },
+  {
+    "word": "maximum",
+    "meaning": "最大",
+    "example": "The maximum speed is 100km/h.",
+    "example_jp": "最大速度は時速100キロだ。"
+  },
+  {
+    "word": "minimum",
+    "meaning": "最小",
+    "example": "You need a minimum of 10 dollars.",
+    "example_jp": "最低10ドルが必要だ。"
+  },
+  {
+    "word": "magnificent",
+    "meaning": "壮大な",
+    "example": "The view from the top is magnificent.",
+    "example_jp": "頂上からの眺めは壮大だ。"
+  },
+  {
+    "word": "diminish",
+    "meaning": "減らす、小さくする",
+    "example": "His power has begun to diminish.",
+    "example_jp": "彼の権力は減少し始めた。"
+  },
+  {
+    "word": "utmost",
+    "meaning": "最大の",
+    "example": "We must treat the data with the utmost care.",
+    "example_jp": "データを最大の注意を払って扱う必要がある。"
+  },
+  {
+    "word": "increase",
+    "meaning": "増える； ～を増やす",
+    "example": "They increased the price.",
+    "example_jp": "彼らは価格を上げた。"
+  },
+  {
+    "word": "decrease",
+    "meaning": "減る； 減らす",
+    "example": "The population decreased last year.",
+    "example_jp": "人口が昨年減少した。"
+  }
+]

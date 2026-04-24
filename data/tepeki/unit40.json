@@ -1,0 +1,326 @@
+[
+  {
+    "word": "modern",
+    "meaning": "現代の",
+    "example": "I prefer modern architecture.",
+    "example_jp": "私は現代の建築が好きだ。"
+  },
+  {
+    "word": "metropolis",
+    "meaning": "大都市",
+    "example": "Tokyo is a huge metropolis.",
+    "example_jp": "東京は巨大な大都市だ。"
+  },
+  {
+    "word": "bustle",
+    "meaning": "喧噪",
+    "example": "I love the bustle of the city.",
+    "example_jp": "私は都会の喧騒が好きだ。"
+  },
+  {
+    "word": "skyscraper",
+    "meaning": "超高層ビル",
+    "example": "The city is full of skyscrapers.",
+    "example_jp": "その街は超高層ビルでいっぱいだ。"
+  },
+  {
+    "word": "military",
+    "meaning": "軍事の",
+    "example": "He has a military background.",
+    "example_jp": "彼は軍事的な経歴を持っている。"
+  },
+  {
+    "word": "army",
+    "meaning": "陸軍、軍隊",
+    "example": "He joined the army last year.",
+    "example_jp": "彼は昨年、陸軍に入った。"
+  },
+  {
+    "word": "arms",
+    "meaning": "武器、軍備",
+    "example": "The two countries agreed to limit their arms.",
+    "example_jp": "二国は軍備を制限することに合意した。"
+  },
+  {
+    "word": "navy",
+    "meaning": "海軍",
+    "example": "She serves in the navy.",
+    "example_jp": "彼女は海軍に勤務している。"
+  },
+  {
+    "word": "navigation",
+    "meaning": "航海",
+    "example": "Modern navigation uses GPS.",
+    "example_jp": "現代の航海はGPSを利用している。"
+  },
+  {
+    "word": "soldier",
+    "meaning": "軍人、兵士",
+    "example": "He is a brave soldier.",
+    "example_jp": "彼は勇敢な兵士だ。"
+  },
+  {
+    "word": "troop",
+    "meaning": "軍隊、兵士",
+    "example": "The government sent more troops to the border.",
+    "example_jp": "政府は国境へさらに多くの兵士を派遣した。"
+  },
+  {
+    "word": "hostage",
+    "meaning": "捕虜",
+    "example": "The terrorists took several hostages.",
+    "example_jp": "テロリストが数人の人質（捕虜）を取った。"
+  },
+  {
+    "word": "weapon",
+    "meaning": "武器",
+    "example": "The police found a hidden weapon.",
+    "example_jp": "警察は隠されていた武器を発見した。"
+  },
+  {
+    "word": "sword",
+    "meaning": "剣",
+    "example": "The samurai carried a sword.",
+    "example_jp": "侍は剣を帯びていた。"
+  },
+  {
+    "word": "strategy",
+    "meaning": "戦略、方策",
+    "example": "We need a new marketing strategy.",
+    "example_jp": "私たちは新しいマーケティング戦略が必要だ。"
+  },
+  {
+    "word": "tactics",
+    "meaning": "戦術",
+    "example": "The coach changed his tactics.",
+    "example_jp": "コーチは戦術を変更した。"
+  },
+  {
+    "word": "neutral",
+    "meaning": "中立の、どっちつかずの",
+    "example": "Switzerland remained neutral during the war.",
+    "example_jp": "スイスは戦争中、中立を保った。"
+  },
+  {
+    "word": "ally",
+    "meaning": "同盟国、味方",
+    "example": "The US is a key ally of Japan.",
+    "example_jp": "米国は日本の重要な同盟国だ。"
+  },
+  {
+    "word": "ally",
+    "meaning": "同盟する",
+    "example": "They decided to ally with the other group.",
+    "example_jp": "彼らは別のグループと同盟することに決めた。"
+  },
+  {
+    "word": "rally",
+    "meaning": "集会",
+    "example": "They held a political rally in the square.",
+    "example_jp": "彼らは広場で政治集会を開いた。"
+  },
+  {
+    "word": "rally",
+    "meaning": "再結集する",
+    "example": "The troops rallied around their leader.",
+    "example_jp": "兵士たちはリーダーの周りに再結集した。"
+  },
+  {
+    "word": "assault",
+    "meaning": "～を襲撃する、襲撃",
+    "example": "The army launched a sudden assault.",
+    "example_jp": "軍は突然の襲撃を開始した。"
+  },
+  {
+    "word": "raid",
+    "meaning": "急襲",
+    "example": "Police carried out a raid on the building.",
+    "example_jp": "警察はその建物に急襲を仕掛けた。"
+  },
+  {
+    "word": "assassination",
+    "meaning": "暗殺",
+    "example": "The assassination shocked the whole world.",
+    "example_jp": "その暗殺は全世界に衝撃を与えた。"
+  },
+  {
+    "word": "thus",
+    "meaning": "それ故に、このように",
+    "example": "He studied hard, and thus he passed the exam.",
+    "example_jp": "彼は猛勉強し、それ故に試験に合格した。"
+  },
+  {
+    "word": "hence",
+    "meaning": "それ故に、後に",
+    "example": "The cost is high, hence the need for a loan.",
+    "example_jp": "費用が高いため、それ故に融資が必要だ。"
+  },
+  {
+    "word": "nevertheless",
+    "meaning": "それにもかかわらず",
+    "example": "It was raining; nevertheless, we went out.",
+    "example_jp": "雨が降っていた。それにもかかわらず、私たちは外出した。"
+  },
+  {
+    "word": "nonetheless",
+    "meaning": "それにもかかわらず",
+    "example": "The task was hard, but nonetheless rewarding.",
+    "example_jp": "その課題は困難だったが、それでもやはりやりがいがあった。"
+  },
+  {
+    "word": "notwithstanding",
+    "meaning": "それにもかかわらず",
+    "example": "Notwithstanding the delay, the project was a success.",
+    "example_jp": "遅延があったにもかかわらず、プロジェクトは成功した。"
+  },
+  {
+    "word": "all the same",
+    "meaning": "それでもやはり、それにもかかわらず",
+    "example": "He apologized, but I'm angry all the same.",
+    "example_jp": "彼は謝ったが、それでもやはり私は怒っている。"
+  },
+  {
+    "word": "despite",
+    "meaning": "～にもかかわらず",
+    "example": "We enjoyed the trip despite the rain.",
+    "example_jp": "雨にもかかわらず、私たちは旅行を楽しんだ。"
+  },
+  {
+    "word": "besides",
+    "meaning": "それに加えて、さらに",
+    "example": "I'm too tired to go out; besides, it's raining.",
+    "example_jp": "疲れすぎて外出できない。それに、雨も降っている。"
+  },
+  {
+    "word": "moreover",
+    "meaning": "さらに",
+    "example": "The house is beautiful; moreover, it's cheap.",
+    "example_jp": "その家は美しい。さらに、安い。"
+  },
+  {
+    "word": "furthermore",
+    "meaning": "さらに",
+    "example": "He is a great singer; furthermore, he writes his own songs.",
+    "example_jp": "彼は素晴らしい歌手だ。さらに、自作の曲も書く。"
+  },
+  {
+    "word": "whereas",
+    "meaning": "その一方で",
+    "example": "He loves cats, whereas I prefer dogs.",
+    "example_jp": "彼は猫が好きだが、その一方で私は犬の方が好きだ。"
+  },
+  {
+    "word": "on the other hand",
+    "meaning": "その一方で",
+    "example": "Laptops are portable; on the other hand, desktops are more powerful.",
+    "example_jp": "ノートパソコンは持ち運べる。その一方で、デスクトップの方が高性能だ。"
+  },
+  {
+    "word": "meanwhile",
+    "meaning": "その間に",
+    "example": "The movie starts at eight; meanwhile, let's have dinner.",
+    "example_jp": "映画は8時に始まる。その間に夕食を食べよう。"
+  },
+  {
+    "word": "in the meantime",
+    "meaning": "その間に",
+    "example": "I'll be back in an hour; in the meantime, please wait here.",
+    "example_jp": "1時間で戻ります。その間、ここで待っていてください。"
+  },
+  {
+    "word": "that is (to say)",
+    "meaning": "すなわち、つまり",
+    "example": "She is a polyglot; that is to say, she speaks many languages.",
+    "example_jp": "彼女はポリグロットだ。つまり、多くの言語を話すということだ。"
+  },
+  {
+    "word": "namely",
+    "meaning": "すなわち、つまり",
+    "example": "We have one problem, namely the cost.",
+    "example_jp": "問題が一つある。すなわち、費用だ。"
+  },
+  {
+    "word": "in short",
+    "meaning": "手短に言うと、つまりは",
+    "example": "In short, the plan failed.",
+    "example_jp": "手短に言うと、計画は失敗した。"
+  },
+  {
+    "word": "say",
+    "meaning": "例えば",
+    "example": "Let's meet tomorrow, say at ten o'clock.",
+    "example_jp": "明日会いましょう、例えば10時に。"
+  },
+  {
+    "word": "for instance",
+    "meaning": "例えば",
+    "example": "Many animals, for instance elephants, are very smart.",
+    "example_jp": "多くの動物、例えば象などは非常に賢い。"
+  },
+  {
+    "word": "indeed",
+    "meaning": "確かに、本当に",
+    "example": "It is indeed a very strange story.",
+    "example_jp": "それは本当に奇妙な話だ。"
+  },
+  {
+    "word": "somewhat",
+    "meaning": "いくぶん、やや",
+    "example": "The results were somewhat disappointing.",
+    "example_jp": "結果はいくぶん期待外れだった。"
+  },
+  {
+    "word": "somehow",
+    "meaning": "どういうわけか、何らかの方法で",
+    "example": "We will finish the work somehow.",
+    "example_jp": "何らかの方法でこの仕事を終わらせよう。"
+  },
+  {
+    "word": "otherwise",
+    "meaning": "さもなければ",
+    "example": "Hurry up, otherwise you'll miss the train.",
+    "example_jp": "急げ、さもなければ電車に乗り遅れるぞ。"
+  },
+  {
+    "word": "otherwise",
+    "meaning": "その他の点で、別のやり方で",
+    "example": "The room is small, but otherwise perfect.",
+    "example_jp": "部屋は狭いが、その他の点では完璧だ。"
+  },
+  {
+    "word": "given",
+    "meaning": "～を考慮すると",
+    "example": "Given the weather, we should stay home.",
+    "example_jp": "天気を考慮すると、家にいたほうがいい。"
+  },
+  {
+    "word": "given",
+    "meaning": "特定の、任意の",
+    "example": "For any given number, there is a square.",
+    "example_jp": "任意の数に対して、その平方が存在する。"
+  },
+  {
+    "word": "rightly",
+    "meaning": "正当に、当然のことながら",
+    "example": "He was rightly praised for his courage.",
+    "example_jp": "彼は勇気ある行動で当然ながら称賛された。"
+  },
+  {
+    "word": "justly",
+    "meaning": "正当に、当然のことながら",
+    "example": "The winner was justly rewarded.",
+    "example_jp": "勝者は正当に報われた。"
+  },
+  {
+    "word": "mistakenly",
+    "meaning": "間違って",
+    "example": "I mistakenly deleted the file.",
+    "example_jp": "間違えてファイルを削除してしまった。"
+  },
+  {
+    "word": "reportedly",
+    "meaning": "報じられるところでは",
+    "example": "The actor is reportedly getting married.",
+    "example_jp": "その俳優は結婚すると報じられている。"
+  }
+]

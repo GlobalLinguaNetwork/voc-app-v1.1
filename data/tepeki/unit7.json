@@ -1,0 +1,368 @@
+[
+  {
+    "word": "fortune",
+    "meaning": "富, 財産",
+    "example": "He inherited a huge fortune.",
+    "example_jp": "彼は莫大な財産を相続した。"
+  },
+  {
+    "word": "fortune",
+    "meaning": "運",
+    "example": "Good fortune followed him throughout his life.",
+    "example_jp": "幸運が彼の人生を通じて彼について回った。"
+  },
+  {
+    "word": "wealth",
+    "meaning": "富",
+    "example": "He used his wealth to help others.",
+    "example_jp": "彼は自分の富を他者を助けるために使った。"
+  },
+  {
+    "word": "well off",
+    "meaning": "裕福な, 暮らし向きがいい",
+    "example": "They are quite well off.",
+    "example_jp": "彼らはかなり裕福だ。"
+  },
+  {
+    "word": "poverty",
+    "meaning": "貧困",
+    "example": "The project aims to reduce poverty.",
+    "example_jp": "そのプロジェクトは貧困を削減することを目指している。"
+  },
+  {
+    "word": "property",
+    "meaning": "財産, 所有物",
+    "example": "He owns a lot of property in this city.",
+    "example_jp": "彼はこの街に多くの財産を所有している。"
+  },
+  {
+    "word": "property",
+    "meaning": "特性",
+    "example": "One property of water is that it boils at 100°C.",
+    "example_jp": "水の特性の一つは100度で沸騰することだ。"
+  },
+  {
+    "word": "asset",
+    "meaning": "財産",
+    "example": "He has many assets abroad.",
+    "example_jp": "彼は海外に多くの財産がある。"
+  },
+  {
+    "word": "estate",
+    "meaning": "(主に土地の)財産",
+    "example": "He left a large estate to his children.",
+    "example_jp": "彼は子供たちに広大な地所を残した。"
+  },
+  {
+    "word": "invest",
+    "meaning": "～を投資する",
+    "example": "She wants to invest in a new company.",
+    "example_jp": "彼女は新しい会社に投資したいと考えている。"
+  },
+  {
+    "word": "entrepreneur",
+    "meaning": "起業家",
+    "example": "He is a successful young entrepreneur.",
+    "example_jp": "彼は成功した若手起業家だ。"
+  },
+  {
+    "word": "capital",
+    "meaning": "資本",
+    "example": "We need more capital to start the business.",
+    "example_jp": "ビジネスを始めるにはもっと資本が必要だ。"
+  },
+  {
+    "word": "capital",
+    "meaning": "首都",
+    "example": "Tokyo is the capital of Japan.",
+    "example_jp": "東京は日本の首都だ。"
+  },
+  {
+    "word": "capital",
+    "meaning": "大文字",
+    "example": "Start the sentence with a capital letter.",
+    "example_jp": "文の書き出しは大文字にしなさい。"
+  },
+  {
+    "word": "interest",
+    "meaning": "興味",
+    "example": "She has an interest in art.",
+    "example_jp": "彼女は芸術に興味がある。"
+  },
+  {
+    "word": "interest",
+    "meaning": "利子, 利益",
+    "example": "The bank pays interest on your savings.",
+    "example_jp": "銀行は預金に利子を支払う。"
+  },
+  {
+    "word": "profit",
+    "meaning": "利益",
+    "example": "The company made a large profit this year.",
+    "example_jp": "その会社は今年、大きな利益を出した。"
+  },
+  {
+    "word": "benefit",
+    "meaning": "恩恵, 利益",
+    "example": "We all benefit from clean air.",
+    "example_jp": "私たちは皆、きれいな空気から恩恵を受けている。"
+  },
+  {
+    "word": "budget",
+    "meaning": "予算, 家計",
+    "example": "We need to plan our monthly budget.",
+    "example_jp": "私たちは月々の予算を立てる必要がある。"
+  },
+  {
+    "word": "purchase",
+    "meaning": "～を購入する",
+    "example": "I purchased a new laptop yesterday.",
+    "example_jp": "昨日新しいノートパソコンを購入した。"
+  },
+  {
+    "word": "afford",
+    "meaning": "(〈経済的・時間的に〉～する)余裕がある",
+    "example": "I cannot afford to buy a new car.",
+    "example_jp": "新しい車を買う余裕はない。"
+  },
+  {
+    "word": "available",
+    "meaning": "入手できる, 利用できる",
+    "example": "Are there any tickets available?",
+    "example_jp": "利用できるチケットはありますか。"
+  },
+  {
+    "word": "available",
+    "meaning": "手があいている",
+    "example": "He is available for a meeting at two.",
+    "example_jp": "2時に会議の時間が取れる。"
+  },
+  {
+    "word": "debt",
+    "meaning": "借金",
+    "example": "He is in debt because of gambling.",
+    "example_jp": "彼はギャンブルが原因で借金を抱えている。"
+  },
+  {
+    "word": "owe",
+    "meaning": "～を(…に)借りている, 恩恵がある",
+    "example": "I owe you a lot for your help.",
+    "example_jp": "助けてくれて本当に恩がある。"
+  },
+  {
+    "word": "bankrupt",
+    "meaning": "破産した",
+    "example": "The company went bankrupt last month.",
+    "example_jp": "その会社は先月破産した。"
+  },
+  {
+    "word": "save",
+    "meaning": "～を貯める, 節約する",
+    "example": "I am trying to save money for a trip.",
+    "example_jp": "旅行のために金を貯めようとしている。"
+  },
+  {
+    "word": "save",
+    "meaning": "省く, ～を救う",
+    "example": "This shortcut saves time.",
+    "example_jp": "この近道は時間を節約できる。"
+  },
+  {
+    "word": "spare",
+    "meaning": "～をとっておく, なしですます, 節約する",
+    "example": "Can you spare a minute?",
+    "example_jp": "1分だけ時間を割いていただけますか。"
+  },
+  {
+    "word": "spare",
+    "meaning": "予備の",
+    "example": "I have a spare tire in the trunk.",
+    "example_jp": "トランクに予備のタイヤがある。"
+  },
+  {
+    "word": "deposit",
+    "meaning": "貯金",
+    "example": "He made a deposit into his bank account.",
+    "example_jp": "彼は銀行口座に貯金をした。"
+  },
+  {
+    "word": "deposit",
+    "meaning": "埋蔵金, ～を貯める",
+    "example": "The river deposits mud at its mouth.",
+    "example_jp": "川が河口に泥を沈殿させる。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "～を引き出す, 引っ込める",
+    "example": "I need to withdraw some cash.",
+    "example_jp": "いくらか現金を引き出す必要がある。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "引き下がる, 退く",
+    "example": "The soldiers had to withdraw from the area.",
+    "example_jp": "兵士たちはその地域から退かなければならなかった。"
+  },
+  {
+    "word": "extravagant",
+    "meaning": "金遣いの荒い, 過度の, 法外な",
+    "example": "Don't be so extravagant with your money.",
+    "example_jp": "お金をそんなに荒く使うな。"
+  },
+  {
+    "word": "income",
+    "meaning": "収入",
+    "example": "He has a high monthly income.",
+    "example_jp": "彼は高い月収がある。"
+  },
+  {
+    "word": "outcome",
+    "meaning": "結果",
+    "example": "The outcome of the election is uncertain.",
+    "example_jp": "選挙の結果は不透明だ。"
+  },
+  {
+    "word": "revenue",
+    "meaning": "歳入, 収入",
+    "example": "Tax revenue has decreased this year.",
+    "example_jp": "今年は税収が減った。"
+  },
+  {
+    "word": "cost",
+    "meaning": "費用",
+    "example": "The cost of living is rising.",
+    "example_jp": "生活費が上がっている。"
+  },
+  {
+    "word": "expense",
+    "meaning": "出費",
+    "example": "We need to cut down on expenses.",
+    "example_jp": "出費を減らす必要がある。"
+  },
+  {
+    "word": "fee",
+    "meaning": "(専門家への)謝礼, 料金",
+    "example": "He paid the lawyer's fee.",
+    "example_jp": "彼は弁護士への謝礼を支払った。"
+  },
+  {
+    "word": "fare",
+    "meaning": "(乗り物の)運賃",
+    "example": "The bus fare has gone up.",
+    "example_jp": "バスの運賃が上がった。"
+  },
+  {
+    "word": "area",
+    "meaning": "地域, 領域",
+    "example": "This is a dangerous area.",
+    "example_jp": "ここは危険な地域だ。"
+  },
+  {
+    "word": "region",
+    "meaning": "地域, 地方",
+    "example": "It is cold in this region.",
+    "example_jp": "この地域は寒い。"
+  },
+  {
+    "word": "district",
+    "meaning": "地区, 区域",
+    "example": "He lives in the business district.",
+    "example_jp": "彼はビジネス地区に住んでいる。"
+  },
+  {
+    "word": "quarter",
+    "meaning": "4ぶんの1, 地域, 界隈",
+    "example": "He lives in the old quarter of the city.",
+    "example_jp": "彼はその市の古い街区に住んでいる。"
+  },
+  {
+    "word": "local",
+    "meaning": "地域の, 地元の",
+    "example": "I bought this at a local store.",
+    "example_jp": "地元の店でこれを買った。"
+  },
+  {
+    "word": "local",
+    "meaning": "地元の人",
+    "example": "Ask a local for directions.",
+    "example_jp": "地元の人に道を聞きなさい。"
+  },
+  {
+    "word": "globe",
+    "meaning": "地球, 地球儀",
+    "example": "She has traveled around the globe.",
+    "example_jp": "彼女は世界中を旅した。"
+  },
+  {
+    "word": "urban",
+    "meaning": "都市の、都会の",
+    "example": "Traffic is a problem in urban areas.",
+    "example_jp": "都市部では交通が問題だ。"
+  },
+  {
+    "word": "rural",
+    "meaning": "田舎の",
+    "example": "He prefers a rural lifestyle.",
+    "example_jp": "彼は田舎暮らしを好む。"
+  },
+  {
+    "word": "suburb",
+    "meaning": "郊外",
+    "example": "They live in the suburbs of Tokyo.",
+    "example_jp": "彼らは東京の郊外に住んでいる。"
+  },
+  {
+    "word": "border",
+    "meaning": "境界, 国境",
+    "example": "They crossed the border illegally.",
+    "example_jp": "彼らは不法に国境を越えた。"
+  },
+  {
+    "word": "boundary",
+    "meaning": "境界(線), 限界",
+    "example": "This wall marks the boundary of our property.",
+    "example_jp": "この壁が私たちの土地の境界線だ。"
+  },
+  {
+    "word": "territory",
+    "meaning": "領土, なわばり",
+    "example": "The animal protects its territory.",
+    "example_jp": "その動物は自分のなわばりを守る。"
+  },
+  {
+    "word": "invade",
+    "meaning": "～に侵入する, 侵略する",
+    "example": "The army invaded the country.",
+    "example_jp": "軍隊はその国に侵略した。"
+  },
+  {
+    "word": "intrude",
+    "meaning": "(～に)侵入する",
+    "example": "Don't intrude on my private life.",
+    "example_jp": "私の私生活に侵入してこないで。"
+  },
+  {
+    "word": "occupy",
+    "meaning": "～を占領する, 占める",
+    "example": "The army occupied the city for years.",
+    "example_jp": "軍隊は何年もの間、その都市を占領した。"
+  },
+  {
+    "word": "migrate",
+    "meaning": "移動する、移住する",
+    "example": "Birds migrate south in winter.",
+    "example_jp": "鳥は冬に南へ移動する。"
+  },
+  {
+    "word": "immigrate",
+    "meaning": "移住する",
+    "example": "He immigrated to Canada at a young age.",
+    "example_jp": "彼は幼い頃にカナダへ移住した。"
+  },
+  {
+    "word": "emigrate",
+    "meaning": "(国外へ)移住する",
+    "example": "Many people emigrated to find work.",
+    "example_jp": "多くの人が仕事を見つけるために国外へ移住した。"
+  }
+]

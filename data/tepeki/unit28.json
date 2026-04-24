@@ -1,0 +1,374 @@
+[
+  {
+    "word": "prone",
+    "meaning": "(～)しがちである",
+    "example": "He is prone to making mistakes.",
+    "example_jp": "彼はミスをしがちだ。"
+  },
+  {
+    "word": "prone",
+    "meaning": "(を)こうむりがちである",
+    "example": "This area is prone to flooding.",
+    "example_jp": "この地域は洪水被害をこうむりがちだ。"
+  },
+  {
+    "word": "susceptible",
+    "meaning": "(～の)影響を受けやすい",
+    "example": "Children are susceptible to colds.",
+    "example_jp": "子供は風邪の影響を受けやすい。"
+  },
+  {
+    "word": "likely",
+    "meaning": "(～)しそうである",
+    "example": "It is likely to rain later.",
+    "example_jp": "後で雨が降りそうだ。"
+  },
+  {
+    "word": "probable",
+    "meaning": "じゅうぶんありえる",
+    "example": "It is probable that he will win.",
+    "example_jp": "彼が勝つことはじゅうぶんありえる。"
+  },
+  {
+    "word": "possibly",
+    "meaning": "ことによると",
+    "example": "It could possibly happen.",
+    "example_jp": "ことによると、それは起こりうるかもしれない。"
+  },
+  {
+    "word": "be about to do",
+    "meaning": "今にも～しそうである",
+    "example": "The train is about to leave.",
+    "example_jp": "電車が今にも出発しそうだ。"
+  },
+  {
+    "word": "on the verge of",
+    "meaning": "今にも～しそうである",
+    "example": "She was on the verge of tears.",
+    "example_jp": "彼女は今にも泣き出しそうだった。"
+  },
+  {
+    "word": "on the brink of",
+    "meaning": "今にも～しそうである",
+    "example": "The company is on the brink of collapse.",
+    "example_jp": "その会社は今にも倒産しそうだ。"
+  },
+  {
+    "word": "eager",
+    "meaning": "(～することを)熱望している",
+    "example": "He is eager to start the new job.",
+    "example_jp": "彼は新しい仕事を始めることを熱望している。"
+  },
+  {
+    "word": "willing",
+    "meaning": "（～することを）いとわない、快く～する",
+    "example": "Are you willing to help me?",
+    "example_jp": "手伝うのをいとわないですか？"
+  },
+  {
+    "word": "reluctant",
+    "meaning": "(～する)気が進まない",
+    "example": "She is reluctant to talk about it.",
+    "example_jp": "彼女はそのことについて話す気が進まない。"
+  },
+  {
+    "word": "enthusiastic",
+    "meaning": "(～に対し)熱意がある、熱心な",
+    "example": "They are enthusiastic about the plan.",
+    "example_jp": "彼らはその計画に熱心だ。"
+  },
+  {
+    "word": "keen",
+    "meaning": "(～に)熱心な",
+    "example": "He is keen on photography.",
+    "example_jp": "彼は写真に熱心だ。"
+  },
+  {
+    "word": "keen",
+    "meaning": "鋭い",
+    "example": "She has a keen sense of humor.",
+    "example_jp": "彼女は鋭いユーモアのセンスを持っている。"
+  },
+  {
+    "word": "intent",
+    "meaning": "(～に)熱心な、一生懸命の",
+    "example": "He is intent on finishing his work.",
+    "example_jp": "彼は仕事を終えることに一生懸命だ。"
+  },
+  {
+    "word": "earnest",
+    "meaning": "まじめな、真剣な",
+    "example": "She made an earnest effort to learn.",
+    "example_jp": "彼女は学ぶために真剣な努力をした。"
+  },
+  {
+    "word": "aspire",
+    "meaning": "(～することを)熱望する",
+    "example": "He aspires to become a doctor.",
+    "example_jp": "彼は医者になることを熱望している。"
+  },
+  {
+    "word": "yearn",
+    "meaning": "(～することを)熱望する",
+    "example": "She yearns to travel the world.",
+    "example_jp": "彼女は世界を旅することを熱望している。"
+  },
+  {
+    "word": "long for",
+    "meaning": "～を待ち望む、懐かしく思う",
+    "example": "I long for a quiet life.",
+    "example_jp": "静かな生活を待ち望んでいる。"
+  },
+  {
+    "word": "tempt",
+    "meaning": "～を(…するよう)誘惑する",
+    "example": "Don't let them tempt you into bad habits.",
+    "example_jp": "彼らに誘惑されて悪い習慣を身につけてはいけない。"
+  },
+  {
+    "word": "fascinate",
+    "meaning": "～を魅了する",
+    "example": "Space travel fascinates many people.",
+    "example_jp": "宇宙旅行は多くの人を魅了する。"
+  },
+  {
+    "word": "appeal",
+    "meaning": "魅力、人気",
+    "example": "The movie has broad appeal.",
+    "example_jp": "その映画には幅広い人気がある。"
+  },
+  {
+    "word": "appeal",
+    "meaning": "訴え、要請",
+    "example": "The charity made an appeal for donations.",
+    "example_jp": "その慈善団体は寄付を募る訴えをした。"
+  },
+  {
+    "word": "appeal",
+    "meaning": "(～に)訴える、要請する",
+    "example": "They appealed to the public for help.",
+    "example_jp": "彼らは一般の人々に助けを訴えた。"
+  },
+  {
+    "word": "charm",
+    "meaning": "魅力",
+    "example": "She has a lot of charm.",
+    "example_jp": "彼女はとても魅力的だ。"
+  },
+  {
+    "word": "charm",
+    "meaning": "呪文",
+    "example": "The wizard used a charm to open the door.",
+    "example_jp": "魔法使いはドアを開けるために呪文を使った。"
+  },
+  {
+    "word": "respond",
+    "meaning": "(～に)反応する、返事をする",
+    "example": "He didn't respond to my email.",
+    "example_jp": "彼は私のメールに返事をしなかった。"
+  },
+  {
+    "word": "react",
+    "meaning": "(～に)反応する",
+    "example": "How did she react to the news?",
+    "example_jp": "彼女はその知らせにどう反応しましたか？"
+  },
+  {
+    "word": "interact",
+    "meaning": "(～と)相互作用する、交流し合う",
+    "example": "Children need to interact with others.",
+    "example_jp": "子供は他者と交流し合う必要がある。"
+  },
+  {
+    "word": "adjust",
+    "meaning": "(～に)順応する、適応する",
+    "example": "It takes time to adjust to a new life.",
+    "example_jp": "新しい生活に順応するには時間がかかる。"
+  },
+  {
+    "word": "adjust",
+    "meaning": "～を(…に)適合させる",
+    "example": "You need to adjust the seat to your height.",
+    "example_jp": "自分の身長に合わせて座席を調整する必要がある。"
+  },
+  {
+    "word": "adapt",
+    "meaning": "(～に)順応する、適応する",
+    "example": "Animals adapt to their environment.",
+    "example_jp": "動物は環境に適応する。"
+  },
+  {
+    "word": "shift",
+    "meaning": "変化、移行",
+    "example": "There has been a shift in public opinion.",
+    "example_jp": "世論に変化があった。"
+  },
+  {
+    "word": "shift",
+    "meaning": "シフト、交代勤務期間",
+    "example": "He works the night shift.",
+    "example_jp": "彼は夜勤をしている。"
+  },
+  {
+    "word": "shift",
+    "meaning": "移る、変わる",
+    "example": "The wind shifted to the north.",
+    "example_jp": "風が北に変わった。"
+  },
+  {
+    "word": "fit",
+    "meaning": "合う、はまる",
+    "example": "The key fits the lock.",
+    "example_jp": "その鍵は錠前にはまる。"
+  },
+  {
+    "word": "fit",
+    "meaning": "～に(サイズが)合う",
+    "example": "These shoes don't fit me.",
+    "example_jp": "この靴は私のサイズに合わない。"
+  },
+  {
+    "word": "fit",
+    "meaning": "健康な、体調がよい",
+    "example": "Regular exercise keeps you fit.",
+    "example_jp": "定期的な運動は健康を維持する。"
+  },
+  {
+    "word": "suit",
+    "meaning": "～に似合う",
+    "example": "That color suits you well.",
+    "example_jp": "その色はあなたにとても似合う。"
+  },
+  {
+    "word": "suit",
+    "meaning": "(都合が)合う",
+    "example": "Does Friday suit you?",
+    "example_jp": "金曜日は都合がいいですか？"
+  },
+  {
+    "word": "match",
+    "meaning": "～と(組み合わせが)合う",
+    "example": "Her tie matches her shirt.",
+    "example_jp": "彼女のネクタイはシャツと合っている。"
+  },
+  {
+    "word": "match",
+    "meaning": "に匹敵する",
+    "example": "Nobody can match his skill.",
+    "example_jp": "誰も彼の技術に匹敵できない。"
+  },
+  {
+    "word": "go with",
+    "meaning": "～と(組み合わせが)合う、～に同意する",
+    "example": "Those shoes go with that dress.",
+    "example_jp": "その靴はそのドレスと合っている。"
+  },
+  {
+    "word": "diet",
+    "meaning": "食事、食習慣",
+    "example": "A healthy diet is important.",
+    "example_jp": "健康的な食習慣は重要だ。"
+  },
+  {
+    "word": "obese",
+    "meaning": "肥満した",
+    "example": "He is becoming obese.",
+    "example_jp": "彼は肥満体になりつつある。"
+  },
+  {
+    "word": "weight",
+    "meaning": "重さ、体重",
+    "example": "He is trying to lose weight.",
+    "example_jp": "彼は体重を減らそうとしている。"
+  },
+  {
+    "word": "nutrition",
+    "meaning": "栄養",
+    "example": "Good nutrition is key to health.",
+    "example_jp": "良い栄養状態は健康の鍵だ。"
+  },
+  {
+    "word": "nourish",
+    "meaning": "～に栄養を与える、養育する",
+    "example": "The milk nourishes the baby.",
+    "example_jp": "そのミルクが赤ちゃんに栄養を与える。"
+  },
+  {
+    "word": "nurture",
+    "meaning": "～を養育する、育てる",
+    "example": "She nurtures her children with love.",
+    "example_jp": "彼女は愛を持って子供を育てている。"
+  },
+  {
+    "word": "foster",
+    "meaning": "～を養育する、育む",
+    "example": "The program fosters creativity.",
+    "example_jp": "そのプログラムは創造性を育む。"
+  },
+  {
+    "word": "feast",
+    "meaning": "ご馳走",
+    "example": "They prepared a wedding feast.",
+    "example_jp": "彼らは結婚式のご馳走を用意した。"
+  },
+  {
+    "word": "appetite",
+    "meaning": "食欲",
+    "example": "I have a good appetite today.",
+    "example_jp": "今日は食欲がある。"
+  },
+  {
+    "word": "starve",
+    "meaning": "飢える、空腹である",
+    "example": "I'm starving!",
+    "example_jp": "お腹がぺこぺこだ！"
+  },
+  {
+    "word": "hunger",
+    "meaning": "空腹",
+    "example": "He suffered from hunger.",
+    "example_jp": "彼は空腹に苦しんだ。"
+  },
+  {
+    "word": "thirst",
+    "meaning": "喉の渇き",
+    "example": "Water can quench your thirst.",
+    "example_jp": "水は喉の渇きを癒せる。"
+  },
+  {
+    "word": "greed",
+    "meaning": "貪欲",
+    "example": "His greed caused him problems.",
+    "example_jp": "彼の貪欲さが問題を引き起こした。"
+  },
+  {
+    "word": "famine",
+    "meaning": "飢饉",
+    "example": "Many people died in the famine.",
+    "example_jp": "多くの人が飢饉で亡くなった。"
+  },
+  {
+    "word": "ingredient",
+    "meaning": "食材、成分",
+    "example": "What are the ingredients in this cake?",
+    "example_jp": "このケーキの成分は何ですか？"
+  },
+  {
+    "word": "digest",
+    "meaning": "～を消化する",
+    "example": "It is hard to digest this food.",
+    "example_jp": "この食べ物は消化しにくい。"
+  },
+  {
+    "word": "beverage",
+    "meaning": "飲料",
+    "example": "They offer a wide range of beverages.",
+    "example_jp": "彼らは幅広い飲料を提供している。"
+  },
+  {
+    "word": "habitat",
+    "meaning": "生息地",
+    "example": "The panda's natural habitat is the forest.",
+    "example_jp": "パンダの自然の生息地は森だ。"
+  }
+]

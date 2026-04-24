@@ -1,0 +1,332 @@
+[
+  {
+    "word": "predict",
+    "meaning": "～を予言する、予測する",
+    "example": "The weather forecast predicts rain for tomorrow.",
+    "example_jp": "天気予報は明日の雨を予測している。"
+  },
+  {
+    "word": "indicate",
+    "meaning": "示す、指示する",
+    "example": "The map indicates the best route to the park.",
+    "example_jp": "地図が公園への最適なルートを示している。"
+  },
+  {
+    "word": "dictate",
+    "meaning": "書き取らせる、命令する",
+    "example": "The manager dictates notes to his assistant.",
+    "example_jp": "マネージャーはアシスタントにメモを書き取らせる。"
+  },
+  {
+    "word": "dedicate",
+    "meaning": "捧げる",
+    "example": "She dedicated her life to helping the poor.",
+    "example_jp": "彼女は貧しい人々を助けることに人生を捧げた。"
+  },
+  {
+    "word": "admit",
+    "meaning": "～を（しぶしぶ）認める",
+    "example": "He admitted that he had made a mistake.",
+    "example_jp": "彼は間違いを犯したことを認めた。"
+  },
+  {
+    "word": "admit",
+    "meaning": "（人[の入場・入学]）を受け入れる",
+    "example": "They admit students from all over the world.",
+    "example_jp": "彼らは世界中から学生を受け入れている。"
+  },
+  {
+    "word": "commit",
+    "meaning": "～（罪）を犯す",
+    "example": "He committed a serious crime.",
+    "example_jp": "彼は重大な罪を犯した。"
+  },
+  {
+    "word": "commit",
+    "meaning": "～に取り組む、～を約束する",
+    "example": "She is committed to her work.",
+    "example_jp": "彼女は仕事に献身的に取り組んでいる。"
+  },
+  {
+    "word": "omit",
+    "meaning": "省く",
+    "example": "Please omit unnecessary details.",
+    "example_jp": "不必要な詳細は省いてください。"
+  },
+  {
+    "word": "dismiss",
+    "meaning": "～を解散する、解雇する",
+    "example": "The school dismissed the students early today.",
+    "example_jp": "学校は今日、生徒を早く下校させた。"
+  },
+  {
+    "word": "dismiss",
+    "meaning": "～を退ける、却下する",
+    "example": "The judge dismissed the case.",
+    "example_jp": "裁判官はその訴訟を却下した。"
+  },
+  {
+    "word": "transmit",
+    "meaning": "送る、伝える",
+    "example": "Radio waves transmit information.",
+    "example_jp": "電波が情報を伝送する。"
+  },
+  {
+    "word": "mission",
+    "meaning": "使命、任務",
+    "example": "His mission is to bring peace.",
+    "example_jp": "彼の使命は平和をもたらすことだ。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "～を移動する",
+    "example": "They transferred him to a new branch.",
+    "example_jp": "彼らは彼を新しい支店へ異動させた。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "乗り換える",
+    "example": "I need to transfer to the subway.",
+    "example_jp": "地下鉄に乗り換える必要がある。"
+  },
+  {
+    "word": "transport",
+    "meaning": "～を輸送する",
+    "example": "Trucks transport goods across the country.",
+    "example_jp": "トラックが国中で商品を輸送している。"
+  },
+  {
+    "word": "transform",
+    "meaning": "～を変形する、変化させる",
+    "example": "The new technology transformed the industry.",
+    "example_jp": "その新技術が業界を変革した。"
+  },
+  {
+    "word": "translate",
+    "meaning": "～を（…に）翻訳する",
+    "example": "Please translate this document into English.",
+    "example_jp": "この文書を英語に翻訳してください。"
+  },
+  {
+    "word": "transplant",
+    "meaning": "～を移植する",
+    "example": "Doctors transplanted a new heart into him.",
+    "example_jp": "医師たちが彼に新しい心臓を移植した。"
+  },
+  {
+    "word": "transparent",
+    "meaning": "透明な",
+    "example": "The glass is perfectly transparent.",
+    "example_jp": "そのガラスは完全に透明だ。"
+  },
+  {
+    "word": "transition",
+    "meaning": "移り変わり、過渡期",
+    "example": "The country is in a period of transition.",
+    "example_jp": "その国は過渡期にある。"
+  },
+  {
+    "word": "distribute",
+    "meaning": "分配する",
+    "example": "The organization distributes food to the poor.",
+    "example_jp": "その団体は貧しい人々に食料を分配している。"
+  },
+  {
+    "word": "contribute",
+    "meaning": "貢献する",
+    "example": "He contributed to the success of the project.",
+    "example_jp": "彼はプロジェクトの成功に貢献した。"
+  },
+  {
+    "word": "attribute",
+    "meaning": "原因を帰す",
+    "example": "She attributed her success to hard work.",
+    "example_jp": "彼女は自分の成功を勤勉さの結果だとした。"
+  },
+  {
+    "word": "attribute",
+    "meaning": "属性、性質",
+    "example": "Patience is one of his key attributes.",
+    "example_jp": "忍耐強さは彼の重要な性質の一つだ。"
+  },
+  {
+    "word": "assure",
+    "meaning": "保証する、確信させる",
+    "example": "I assure you that I will be on time.",
+    "example_jp": "時間通りに来ることを約束します。"
+  },
+  {
+    "word": "reassure",
+    "meaning": "安心させる",
+    "example": "She reassured the child that he was safe.",
+    "example_jp": "彼女は子供に安全だと言って安心させた。"
+  },
+  {
+    "word": "ensure",
+    "meaning": "保証する、確保する",
+    "example": "Please check to ensure the door is locked.",
+    "example_jp": "ドアが施錠されていることを確認してください。"
+  },
+  {
+    "word": "insurance",
+    "meaning": "保険",
+    "example": "I need to buy car insurance.",
+    "example_jp": "自動車保険に加入する必要がある。"
+  },
+  {
+    "word": "influence",
+    "meaning": "影響",
+    "example": "He has a great influence on me.",
+    "example_jp": "彼は私に大きな影響を与えている。"
+  },
+  {
+    "word": "impact",
+    "meaning": "影響、衝撃",
+    "example": "The new law will have a major impact.",
+    "example_jp": "新法は大きな影響をもたらすだろう。"
+  },
+  {
+    "word": "affect",
+    "meaning": "～に（直接）影響・効果を及ぼす",
+    "example": "The cold weather affected the crops.",
+    "example_jp": "寒い天候が農作物に影響を及ぼした。"
+  },
+  {
+    "word": "effect",
+    "meaning": "効果、影響",
+    "example": "This medicine has a positive effect.",
+    "example_jp": "この薬には良い効果がある。"
+  },
+  {
+    "word": "affection",
+    "meaning": "愛情",
+    "example": "He showed great affection for his cat.",
+    "example_jp": "彼は猫に対して大きな愛情を示した。"
+  },
+  {
+    "word": "dominant",
+    "meaning": "支配的な、より優位にたつ",
+    "example": "English is the dominant language in business.",
+    "example_jp": "英語はビジネスにおいて支配的な言語だ。"
+  },
+  {
+    "word": "rule",
+    "meaning": "～を支配する",
+    "example": "The king ruled the country for many years.",
+    "example_jp": "王は何年もの間、その国を支配した。"
+  },
+  {
+    "word": "regulate",
+    "meaning": "規制する",
+    "example": "The government regulates the banking industry.",
+    "example_jp": "政府が銀行業界を規制している。"
+  },
+  {
+    "word": "control",
+    "meaning": "～を抑制する、支配する、制御する",
+    "example": "It is hard to control your emotions.",
+    "example_jp": "感情を制御するのは難しい。"
+  },
+  {
+    "word": "bind",
+    "meaning": "拘束する",
+    "example": "The contract binds us to the agreement.",
+    "example_jp": "その契約は我々を協定に拘束する。"
+  },
+  {
+    "word": "authority",
+    "meaning": "権威、権力、権限",
+    "example": "She has the authority to make decisions.",
+    "example_jp": "彼女には決定を下す権限がある。"
+  },
+  {
+    "word": "author",
+    "meaning": "著者",
+    "example": "Who is the author of this book?",
+    "example_jp": "この本の著者は誰ですか。"
+  },
+  {
+    "word": "exert",
+    "meaning": "～（力など）を行使する、働かせる",
+    "example": "They exert pressure on the government.",
+    "example_jp": "彼らは政府に圧力をかけている。"
+  },
+  {
+    "word": "exercise",
+    "meaning": "練習、運動",
+    "example": "Daily exercise is good for your health.",
+    "example_jp": "毎日の運動は健康に良い。"
+  },
+  {
+    "word": "obey",
+    "meaning": "従う",
+    "example": "Children should obey their parents.",
+    "example_jp": "子供は親に従うべきだ。"
+  },
+  {
+    "word": "resist",
+    "meaning": "～に抵抗する",
+    "example": "He could not resist eating the cake.",
+    "example_jp": "彼はケーキを食べる誘惑に抵抗できなかった。"
+  },
+  {
+    "word": "protest",
+    "meaning": "抗議（する）",
+    "example": "They held a protest against the war.",
+    "example_jp": "彼らは戦争に対する抗議デモを行った。"
+  },
+  {
+    "word": "rebel",
+    "meaning": "反逆者、反逆する",
+    "example": "The rebels fought against the government.",
+    "example_jp": "反逆者たちは政府と戦った。"
+  },
+  {
+    "word": "conquer",
+    "meaning": "征服する",
+    "example": "The army conquered the neighboring nation.",
+    "example_jp": "軍隊が隣国を征服した。"
+  },
+  {
+    "word": "win",
+    "meaning": "勝つ、獲得する",
+    "example": "We hope to win the game.",
+    "example_jp": "試合に勝つことを望んでいる。"
+  },
+  {
+    "word": "defeat",
+    "meaning": "～をうち巻かす",
+    "example": "They defeated the enemy in battle.",
+    "example_jp": "彼らは戦闘で敵を打ち負かした。"
+  },
+  {
+    "word": "beat",
+    "meaning": "～を（繰り返し）叩く、うち負かす",
+    "example": "Our team beat theirs last night.",
+    "example_jp": "昨夜、我々のチームが彼らのチームを打ち負かした。"
+  },
+  {
+    "word": "lose",
+    "meaning": "負ける、失う",
+    "example": "It is hard to lose a close friend.",
+    "example_jp": "親しい友人を失うのは辛い。"
+  },
+  {
+    "word": "surrender",
+    "meaning": "降伏する",
+    "example": "The soldiers were forced to surrender.",
+    "example_jp": "兵士たちは降伏を余儀なくされた。"
+  },
+  {
+    "word": "yield",
+    "meaning": "屈する、産出する",
+    "example": "The company yielded high profits.",
+    "example_jp": "その会社は高い利益を産出した。"
+  },
+  {
+    "word": "depend",
+    "meaning": "（～に）依存する； よる、左右される",
+    "example": "Success depends on your effort.",
+    "example_jp": "成功はあなたの努力次第だ。"
+  }
+]

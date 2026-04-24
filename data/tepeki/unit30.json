@@ -1,0 +1,374 @@
+[
+  {
+    "word": "fraction",
+    "meaning": "一部分",
+    "example": "He only told me a fraction of the story.",
+    "example_jp": "彼は物語のほんの一部しか話してくれなかった。"
+  },
+  {
+    "word": "portion",
+    "meaning": "一部分",
+    "example": "I ate a portion of the cake.",
+    "example_jp": "私はケーキを一部分食べた。"
+  },
+  {
+    "word": "fragment",
+    "meaning": "断片、破片",
+    "example": "She found a fragment of the broken vase.",
+    "example_jp": "彼女は壊れた花瓶の破片を見つけた。"
+  },
+  {
+    "word": "segment",
+    "meaning": "(区分された)部分",
+    "example": "He read a segment of the book.",
+    "example_jp": "彼はその本の一部を読んだ。"
+  },
+  {
+    "word": "cluster",
+    "meaning": "群れ、集まり",
+    "example": "A cluster of stars was visible.",
+    "example_jp": "星の集まりが見えた。"
+  },
+  {
+    "word": "partial",
+    "meaning": "部分的な",
+    "example": "The project was a partial success.",
+    "example_jp": "そのプロジェクトは部分的な成功だった。"
+  },
+  {
+    "word": "partial",
+    "meaning": "偏った、不公平な",
+    "example": "The judge was partial to his friend.",
+    "example_jp": "裁判官は友人に偏っていた。"
+  },
+  {
+    "word": "all in all",
+    "meaning": "全般的に見て、概して",
+    "example": "All in all, the event was a success.",
+    "example_jp": "全般的に見て、イベントは成功だった。"
+  },
+  {
+    "word": "on the whole",
+    "meaning": "概して、全般的に",
+    "example": "On the whole, I enjoyed the trip.",
+    "example_jp": "概して、私はその旅行を楽しんだ。"
+  },
+  {
+    "word": "by and large",
+    "meaning": "概して、全般的に",
+    "example": "By and large, it was a good experience.",
+    "example_jp": "概して、それは良い経験だった。"
+  },
+  {
+    "word": "at large",
+    "meaning": "全体の",
+    "example": "Society at large needs to change.",
+    "example_jp": "社会全体が変わる必要がある。"
+  },
+  {
+    "word": "at large",
+    "meaning": "逃走中で",
+    "example": "The prisoner is still at large.",
+    "example_jp": "その囚人はまだ逃走中だ。"
+  },
+  {
+    "word": "at length",
+    "meaning": "長々と、詳細にわたって",
+    "example": "We discussed the matter at length.",
+    "example_jp": "私たちはその件について詳細にわたって議論した。"
+  },
+  {
+    "word": "at length",
+    "meaning": "ついには",
+    "example": "At length, he arrived home.",
+    "example_jp": "ついには、彼は家に着いた。"
+  },
+  {
+    "word": "lack",
+    "meaning": "～を欠く",
+    "example": "They lack the necessary funds.",
+    "example_jp": "彼らは必要な資金を欠いている。"
+  },
+  {
+    "word": "lack",
+    "meaning": "欠如",
+    "example": "The lack of rain caused a drought.",
+    "example_jp": "雨の欠如が干ばつを引き起こした。"
+  },
+  {
+    "word": "devoid",
+    "meaning": "(～が)欠けている",
+    "example": "His speech was devoid of emotion.",
+    "example_jp": "彼のスピーチには感情が欠けていた。"
+  },
+  {
+    "word": "run out of",
+    "meaning": "～を切らす、使い果たす",
+    "example": "We have run out of gas.",
+    "example_jp": "ガソリンが切れてしまった。"
+  },
+  {
+    "word": "short of",
+    "meaning": "～が不足している",
+    "example": "We are short of time.",
+    "example_jp": "時間が不足している。"
+  },
+  {
+    "word": "deficit",
+    "meaning": "不足、赤字",
+    "example": "The company reported a large deficit.",
+    "example_jp": "会社は大きな赤字を報告した。"
+  },
+  {
+    "word": "scarce",
+    "meaning": "不十分な、乏しい",
+    "example": "Food was scarce during the war.",
+    "example_jp": "戦時中は食料が乏しかった。"
+  },
+  {
+    "word": "vacant",
+    "meaning": "空いている",
+    "example": "Is this seat vacant?",
+    "example_jp": "この席は空いていますか？"
+  },
+  {
+    "word": "for want of",
+    "meaning": "～がないので、不足して",
+    "example": "For want of money, he couldn't go.",
+    "example_jp": "お金がないので、彼は行けなかった。"
+  },
+  {
+    "word": "dense",
+    "meaning": "密集した、密度の濃い",
+    "example": "The fog was very dense.",
+    "example_jp": "霧がとても濃かった。"
+  },
+  {
+    "word": "convey",
+    "meaning": "～(情報・意味など)を伝える",
+    "example": "He conveyed his message clearly.",
+    "example_jp": "彼はメッセージを明確に伝えた。"
+  },
+  {
+    "word": "convey",
+    "meaning": "運搬する",
+    "example": "Pipes convey water to the city.",
+    "example_jp": "パイプが市内に水を運んでいる。"
+  },
+  {
+    "word": "impart",
+    "meaning": "～を(…に)与える、伝える",
+    "example": "Teachers impart knowledge to students.",
+    "example_jp": "教師は生徒に知識を与える。"
+  },
+  {
+    "word": "donate",
+    "meaning": "～を(…に)寄付する、贈与する",
+    "example": "She donated money to charity.",
+    "example_jp": "彼女は慈善団体に寄付をした。"
+  },
+  {
+    "word": "endow",
+    "meaning": "～に与える、授ける",
+    "example": "Nature endowed him with talent.",
+    "example_jp": "天性が彼に才能を授けた。"
+  },
+  {
+    "word": "distract",
+    "meaning": "～をそらす、の気をそらす",
+    "example": "The noise distracted me from work.",
+    "example_jp": "騒音のせいで仕事に集中できなかった。"
+  },
+  {
+    "word": "evade",
+    "meaning": "～を避ける、回避する",
+    "example": "He tried to evade the question.",
+    "example_jp": "彼は質問を避けようとした。"
+  },
+  {
+    "word": "divert",
+    "meaning": "～をそらす",
+    "example": "They diverted the river to irrigate the field.",
+    "example_jp": "彼らは畑を灌漑するために川の流れを変えた。"
+  },
+  {
+    "word": "convert",
+    "meaning": "～を転換する、改宗・転向させる",
+    "example": "He converted the garage into a room.",
+    "example_jp": "彼は車庫を部屋に改造した。"
+  },
+  {
+    "word": "expel",
+    "meaning": "～を追い出す",
+    "example": "The student was expelled from school.",
+    "example_jp": "その生徒は学校を退学処分になった。"
+  },
+  {
+    "word": "repel",
+    "meaning": "～を追い払う、退ける",
+    "example": "This spray repels mosquitoes.",
+    "example_jp": "このスプレーは蚊を寄せ付けない。"
+  },
+  {
+    "word": "disperse",
+    "meaning": "～を散らす",
+    "example": "The wind dispersed the clouds.",
+    "example_jp": "風が雲を散らした。"
+  },
+  {
+    "word": "circulate",
+    "meaning": "循環する",
+    "example": "Blood circulates through the body.",
+    "example_jp": "血液は体内を循環する。"
+  },
+  {
+    "word": "circulate",
+    "meaning": "～を循環させる； 流通させる",
+    "example": "They circulated a rumor.",
+    "example_jp": "彼らは噂を流した。"
+  },
+  {
+    "word": "encounter",
+    "meaning": "～(人・問題など)に出くわす、遭遇する",
+    "example": "I encountered a problem.",
+    "example_jp": "問題に出くわした。"
+  },
+  {
+    "word": "encounter",
+    "meaning": "遭遇",
+    "example": "It was a brief encounter.",
+    "example_jp": "それは短い遭遇だった。"
+  },
+  {
+    "word": "bump into",
+    "meaning": "～にばったりと出会う",
+    "example": "I bumped into him at the station.",
+    "example_jp": "駅で彼にばったり出会った。"
+  },
+  {
+    "word": "come across",
+    "meaning": "～に偶然出会う、を偶然見つける",
+    "example": "I came across an old photo.",
+    "example_jp": "古い写真を偶然見つけた。"
+  },
+  {
+    "word": "trace",
+    "meaning": "～をたどる； 遡る",
+    "example": "Can you trace the origin of this?",
+    "example_jp": "これの起源をたどれますか？"
+  },
+  {
+    "word": "trace",
+    "meaning": "痕迹",
+    "example": "There was no trace of him.",
+    "example_jp": "彼の痕跡はなかった。"
+  },
+  {
+    "word": "overwhelm",
+    "meaning": "～を圧倒する、打ちのめす",
+    "example": "I was overwhelmed by his kindness.",
+    "example_jp": "彼の親切さに圧倒された。"
+  },
+  {
+    "word": "overtake",
+    "meaning": "～に追いつく、を追い越す",
+    "example": "The car overtook the truck.",
+    "example_jp": "その車がトラックを追い越した。"
+  },
+  {
+    "word": "overtake",
+    "meaning": "(災難などが)を襲う",
+    "example": "Disaster overtook them.",
+    "example_jp": "彼らを災難が襲った。"
+  },
+  {
+    "word": "undergo",
+    "meaning": "～(悪いこと・辛いこと・変化)を経験する",
+    "example": "He is undergoing surgery.",
+    "example_jp": "彼は手術を受けている。"
+  },
+  {
+    "word": "descend",
+    "meaning": "下りる",
+    "example": "They descended the mountain.",
+    "example_jp": "彼らは山を下りた。"
+  },
+  {
+    "word": "descend",
+    "meaning": "由来する",
+    "example": "He descends from a famous family.",
+    "example_jp": "彼は名家を由来としている。"
+  },
+  {
+    "word": "ascend",
+    "meaning": "上る",
+    "example": "The plane began to ascend.",
+    "example_jp": "飛行機が上昇し始めた。"
+  },
+  {
+    "word": "plunge",
+    "meaning": "落ちる、飛び込む",
+    "example": "He plunged into the pool.",
+    "example_jp": "彼はプールに飛び込んだ。"
+  },
+  {
+    "word": "embrace",
+    "meaning": "～を抱く",
+    "example": "She embraced her daughter.",
+    "example_jp": "彼女は娘を抱きしめた。"
+  },
+  {
+    "word": "embrace",
+    "meaning": "(思想など)を信奉する、採用する",
+    "example": "They embraced the new ideas.",
+    "example_jp": "彼らは新しい考えを採用した。"
+  },
+  {
+    "word": "embody",
+    "meaning": "～を具体化する",
+    "example": "He embodies the spirit of the team.",
+    "example_jp": "彼はチームの精神を具体化している。"
+  },
+  {
+    "word": "render",
+    "meaning": "～を(…)にする",
+    "example": "The accident rendered him helpless.",
+    "example_jp": "その事故で彼は無力になった。"
+  },
+  {
+    "word": "modify",
+    "meaning": "～を修正する、変更する",
+    "example": "We should modify the plan.",
+    "example_jp": "計画を修正すべきだ。"
+  },
+  {
+    "word": "restore",
+    "meaning": "～を復元する、回復する",
+    "example": "They restored the old building.",
+    "example_jp": "彼らはその古い建物を修復した。"
+  },
+  {
+    "word": "relieve",
+    "meaning": "～を解放する； 安心させる",
+    "example": "The medicine relieved his pain.",
+    "example_jp": "薬が彼の痛みを和らげた。"
+  },
+  {
+    "word": "retreat",
+    "meaning": "退却する",
+    "example": "The army had to retreat.",
+    "example_jp": "軍は退却せざるを得なかった。"
+  },
+  {
+    "word": "retreat",
+    "meaning": "退却",
+    "example": "The retreat was sudden.",
+    "example_jp": "退却は突然だった。"
+  },
+  {
+    "word": "retrieve",
+    "meaning": "～を回収する、取り戻す",
+    "example": "He retrieved his bag from the locker.",
+    "example_jp": "彼はロッカーからカバンを取り戻した。"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "word": "worth",
+    "meaning": "～の価値のある",
+    "example": "This book is worth reading.",
+    "example_jp": "この本は読む価値がある。"
+  },
+  {
+    "word": "worth",
+    "meaning": "価値",
+    "example": "He doesn't know the worth of his own work.",
+    "example_jp": "彼は自分の仕事の価値を知らない。"
+  },
+  {
+    "word": "deserve",
+    "meaning": "～に値する",
+    "example": "You deserve a rest after your hard work.",
+    "example_jp": "君は一生懸命働いたのだから休むに値する。"
+  },
+  {
+    "word": "cherish",
+    "meaning": "～を大事にする",
+    "example": "I will cherish our memories together.",
+    "example_jp": "私たちの思い出を大事にする。"
+  },
+  {
+    "word": "treasure",
+    "meaning": "～を大事にする",
+    "example": "She treasures the necklace her grandmother gave her.",
+    "example_jp": "彼女は祖母からもらったネックレスを大事にしている。"
+  },
+  {
+    "word": "treasure",
+    "meaning": "宝",
+    "example": "They searched for hidden treasure.",
+    "example_jp": "彼らは隠された宝を探した。"
+  },
+  {
+    "word": "evaluate",
+    "meaning": "～を評価する",
+    "example": "We need to evaluate the results of the project.",
+    "example_jp": "プロジェクトの結果を評価する必要がある。"
+  },
+  {
+    "word": "measure",
+    "meaning": "～を測定する",
+    "example": "Measure the length of the table.",
+    "example_jp": "テーブルの長さを測定しなさい。"
+  },
+  {
+    "word": "measure",
+    "meaning": "(測定の)基準、手段、程度",
+    "example": "They took drastic measures to solve the problem.",
+    "example_jp": "彼らは問題を解決するために劇的な手段をとった。"
+  },
+  {
+    "word": "assess",
+    "meaning": "～を査定する",
+    "example": "The experts assessed the damage caused by the storm.",
+    "example_jp": "専門家が嵐による被害を査定した。"
+  },
+  {
+    "word": "standard",
+    "meaning": "基準、標準、水準",
+    "example": "High standards are expected in this company.",
+    "example_jp": "この会社では高い水準が求められている。"
+  },
+  {
+    "word": "norm",
+    "meaning": "基準、規範",
+    "example": "Honesty is the social norm.",
+    "example_jp": "正直さは社会の規範だ。"
+  },
+  {
+    "word": "criterion",
+    "meaning": "基準、指標",
+    "example": "What is your main criterion for choosing a job?",
+    "example_jp": "仕事を選ぶ際の主な基準は何ですか。"
+  },
+  {
+    "word": "test",
+    "meaning": "テスト、判断基準",
+    "example": "This will be the ultimate test of our ability.",
+    "example_jp": "これが私たちの能力の最終的な判断基準になるだろう。"
+  },
+  {
+    "word": "class",
+    "meaning": "クラス、授業、階級、分類",
+    "example": "He is in a different social class.",
+    "example_jp": "彼は異なる社会階級にいる。"
+  },
+  {
+    "word": "sort",
+    "meaning": "種類",
+    "example": "What sort of music do you like?",
+    "example_jp": "どんな種類の音楽が好きですか。"
+  },
+  {
+    "word": "sort",
+    "meaning": "～を分類する",
+    "example": "Sort these letters by date.",
+    "example_jp": "これらの手紙を日付順に分類しなさい。"
+  },
+  {
+    "word": "alter",
+    "meaning": "～を変える",
+    "example": "We had to alter our plans.",
+    "example_jp": "私たちは計画を変えなければならなかった。"
+  },
+  {
+    "word": "alternative",
+    "meaning": "(取りうる)選択肢、代案",
+    "example": "We have no other alternative.",
+    "example_jp": "私たちは他に選択肢がない。"
+  },
+  {
+    "word": "alternative",
+    "meaning": "代わりの",
+    "example": "Do you have an alternative suggestion?",
+    "example_jp": "代わりの提案はありますか。"
+  },
+  {
+    "word": "option",
+    "meaning": "選択肢",
+    "example": "You have many options to choose from.",
+    "example_jp": "選べる選択肢がたくさんある。"
+  },
+  {
+    "word": "adopt",
+    "meaning": "～(政策など)を採用する、～を養子にする",
+    "example": "The company adopted a new policy.",
+    "example_jp": "会社は新しい方針を採用した。"
+  },
+  {
+    "word": "decide",
+    "meaning": "～を決定する",
+    "example": "I decided to study abroad.",
+    "example_jp": "留学することを決定した。"
+  },
+  {
+    "word": "determine",
+    "meaning": "～を決定する",
+    "example": "Price is determined by supply and demand.",
+    "example_jp": "価格は需要と供給によって決定される。"
+  },
+  {
+    "word": "resolve",
+    "meaning": "～を決意する、～を解決する",
+    "example": "We must resolve this conflict immediately.",
+    "example_jp": "この対立を直ちに解決しなければならない。"
+  },
+  {
+    "word": "event",
+    "meaning": "(重要な)出来事、事件",
+    "example": "The Olympic Games is a major event.",
+    "example_jp": "オリンピックは主要な出来事だ。"
+  },
+  {
+    "word": "incident",
+    "meaning": "(付随する)出来事、事件",
+    "example": "The incident caused a lot of trouble.",
+    "example_jp": "その事件が多くのトラブルを引き起こした。"
+  },
+  {
+    "word": "accident",
+    "meaning": "(偶然の)事故、事件、偶然",
+    "example": "The accident was caused by ice on the road.",
+    "example_jp": "その事故は道路の氷が原因で起こった。"
+  },
+  {
+    "word": "affair",
+    "meaning": "出来事、事件、関心事、情事",
+    "example": "That is a private affair.",
+    "example_jp": "それは個人的な問題（関心事）だ。"
+  },
+  {
+    "word": "occur",
+    "meaning": "起こる",
+    "example": "The earthquake occurred at midnight.",
+    "example_jp": "地震は真夜中に起こった。"
+  },
+  {
+    "word": "take place",
+    "meaning": "(予定されていたことが)起こる、行われる",
+    "example": "The concert will take place tonight.",
+    "example_jp": "今夜コンサートが行われる。"
+  },
+  {
+    "word": "situation",
+    "meaning": "(物・人が置かれている)状況",
+    "example": "I am in a difficult situation.",
+    "example_jp": "私は困難な状況にいる。"
+  },
+  {
+    "word": "condition",
+    "meaning": "状況、体調、条件",
+    "example": "You can go on the condition that you return early.",
+    "example_jp": "早く帰るという条件でなら行ってもよい。"
+  },
+  {
+    "word": "condition",
+    "meaning": "～を条件づける、制約する",
+    "example": "My choices are conditioned by my budget.",
+    "example_jp": "私の選択は予算によって制約されている。"
+  },
+  {
+    "word": "circumstance",
+    "meaning": "状況、環境",
+    "example": "Under no circumstances should you lie.",
+    "example_jp": "どんな状況下でも嘘をついてはいけない。"
+  },
+  {
+    "word": "participate",
+    "meaning": "参加する",
+    "example": "They participated in the meeting.",
+    "example_jp": "彼らは会議に参加した。"
+  },
+  {
+    "word": "take part",
+    "meaning": "参加する",
+    "example": "She took part in the competition.",
+    "example_jp": "彼女はその競技会に参加した。"
+  },
+  {
+    "word": "involve",
+    "meaning": "～を(必然的に)含む、関与させる、巻き込む、伴う、必要とする、もたらす",
+    "example": "The job involves traveling a lot.",
+    "example_jp": "その仕事は多くの出張を伴う。"
+  },
+  {
+    "word": "entail",
+    "meaning": "～を伴う、必要とする、を含意する",
+    "example": "The task entails long hours of work.",
+    "example_jp": "そのタスクは長時間の労働を必要とする。"
+  },
+  {
+    "word": "engage",
+    "meaning": "～を従事させる",
+    "example": "She engaged herself in studying history.",
+    "example_jp": "彼女は歴史の研究に従事した。"
+  },
+  {
+    "word": "indulge",
+    "meaning": "～を没頭させる、甘やかす、耽る",
+    "example": "Don't indulge yourself in lazy habits.",
+    "example_jp": "怠惰な習慣に耽ってはいけない。"
+  },
+  {
+    "word": "devote",
+    "meaning": "～(金・時間・労力)を(…に)捧げる、割く",
+    "example": "She devoted her life to art.",
+    "example_jp": "彼女は人生を芸術に捧げた。"
+  },
+  {
+    "word": "act",
+    "meaning": "行動する、行動、法令",
+    "example": "We must act now.",
+    "example_jp": "私たちは今行動しなければならない。"
+  },
+  {
+    "word": "enact",
+    "meaning": "～(法律)を制定する",
+    "example": "The parliament enacted a new law.",
+    "example_jp": "議会が新しい法律を制定した。"
+  },
+  {
+    "word": "behave",
+    "meaning": "行動する、ふるまう",
+    "example": "He knows how to behave in public.",
+    "example_jp": "彼は人前でどうふるまうかを知っている。"
+  },
+  {
+    "word": "conduct",
+    "meaning": "～(研究・実験・業務など)を行う、行為",
+    "example": "They conducted an experiment.",
+    "example_jp": "彼らは実験を行った。"
+  },
+  {
+    "word": "attitude",
+    "meaning": "態度、考え方",
+    "example": "He has a positive attitude toward work.",
+    "example_jp": "彼は仕事に対して前向きな考え方を持っている。"
+  },
+  {
+    "word": "politics",
+    "meaning": "政治、政治学",
+    "example": "She is interested in politics.",
+    "example_jp": "彼女は政治に興味がある。"
+  },
+  {
+    "word": "principle",
+    "meaning": "主義、原理、信条",
+    "example": "It is against my principles.",
+    "example_jp": "それは私の信条に反する。"
+  },
+  {
+    "word": "conserve",
+    "meaning": "～を保存する、守る",
+    "example": "We need to conserve energy.",
+    "example_jp": "私たちはエネルギーを節約（保存）する必要がある。"
+  },
+  {
+    "word": "progress",
+    "meaning": "進歩、進歩する",
+    "example": "We are making steady progress.",
+    "example_jp": "私たちは着実な進歩を遂げている。"
+  },
+  {
+    "word": "radical",
+    "meaning": "徹底的な、根本的な、急進的な、過激な",
+    "example": "They proposed a radical change.",
+    "example_jp": "彼らは根本的な変更を提案した。"
+  },
+  {
+    "word": "reform",
+    "meaning": "改革",
+    "example": "The government needs tax reform.",
+    "example_jp": "政府は税制改革が必要だ。"
+  },
+  {
+    "word": "regime",
+    "meaning": "政治体制",
+    "example": "The regime collapsed after the protests.",
+    "example_jp": "抗議活動の後、その政治体制は崩壊した。"
+  },
+  {
+    "word": "democracy",
+    "meaning": "民主主義",
+    "example": "Democracy is based on free elections.",
+    "example_jp": "民主主義は自由選挙に基づいている。"
+  },
+  {
+    "word": "republic",
+    "meaning": "共和国",
+    "example": "The nation is a republic.",
+    "example_jp": "その国は共和国だ。"
+  }
+]

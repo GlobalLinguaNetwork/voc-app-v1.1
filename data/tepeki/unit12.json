@@ -1,0 +1,332 @@
+[
+  {
+    "word": "critical",
+    "meaning": "決定的な",
+    "example": "This is a critical moment for our project.",
+    "example_jp": "これは我々のプロジェクトにとって決定的な瞬間だ。"
+  },
+  {
+    "word": "critical",
+    "meaning": "批評の",
+    "example": "He wrote a critical review of the play.",
+    "example_jp": "彼はその劇の批評を書いた。"
+  },
+  {
+    "word": "crisis",
+    "meaning": "危機",
+    "example": "The government is facing a financial crisis.",
+    "example_jp": "政府は財政危機に直面している。"
+  },
+  {
+    "word": "opinion",
+    "meaning": "意見",
+    "example": "What is your opinion on this matter?",
+    "example_jp": "この件についてあなたの意見はどうですか。"
+  },
+  {
+    "word": "remark",
+    "meaning": "意見, 論評",
+    "example": "He made a remark about my appearance.",
+    "example_jp": "彼は私の見た目について論評した。"
+  },
+  {
+    "word": "remark",
+    "meaning": "(意見を)述べる",
+    "example": "He remarked that it was cold.",
+    "example_jp": "彼は寒いと述べた。"
+  },
+  {
+    "word": "comment",
+    "meaning": "意見, 論評",
+    "example": "I have no comment on that.",
+    "example_jp": "それについてはコメントすることはない。"
+  },
+  {
+    "word": "comment",
+    "meaning": "(意見を)述べる",
+    "example": "She commented on the recent news.",
+    "example_jp": "彼女は最近のニュースについて論評した。"
+  },
+  {
+    "word": "prose",
+    "meaning": "散文",
+    "example": "He prefers prose to poetry.",
+    "example_jp": "彼は詩よりも散文を好む。"
+  },
+  {
+    "word": "verse",
+    "meaning": "韻文, 詩",
+    "example": "He writes his diary in verse.",
+    "example_jp": "彼は日記を詩で書いている。"
+  },
+  {
+    "word": "poetry",
+    "meaning": "詩",
+    "example": "I love reading romantic poetry.",
+    "example_jp": "私はロマンチックな詩を読むのが大好きだ。"
+  },
+  {
+    "word": "document",
+    "meaning": "文書, 書類",
+    "example": "Please sign this document.",
+    "example_jp": "この書類に署名してください。"
+  },
+  {
+    "word": "narrative",
+    "meaning": "語り, 物語",
+    "example": "The book is written in a narrative style.",
+    "example_jp": "その本は物語風のスタイルで書かれている。"
+  },
+  {
+    "word": "plot",
+    "meaning": "筋書き",
+    "example": "The movie has a complex plot.",
+    "example_jp": "その映画には複雑な筋書きがある。"
+  },
+  {
+    "word": "plot",
+    "meaning": "策略, 陰謀",
+    "example": "They uncovered a secret plot.",
+    "example_jp": "彼らは秘密の陰謀を暴いた。"
+  },
+  {
+    "word": "quote",
+    "meaning": "～を引用する",
+    "example": "He quoted a line from Shakespeare.",
+    "example_jp": "彼はシェイクスピアのセリフを引用した。"
+  },
+  {
+    "word": "rhetoric",
+    "meaning": "修辞学, 美辞麗句",
+    "example": "His speech was full of empty rhetoric.",
+    "example_jp": "彼の演説は中身のない美辞麗句であふれていた。"
+  },
+  {
+    "word": "metaphor",
+    "meaning": "比喩, 隠喩",
+    "example": "Life is a journey is a common metaphor.",
+    "example_jp": "「人生は旅だ」はありふれた比喩だ。"
+  },
+  {
+    "word": "irony",
+    "meaning": "皮肉",
+    "example": "It was the irony of fate.",
+    "example_jp": "それは運命の皮肉だった。"
+  },
+  {
+    "word": "paradox",
+    "meaning": "逆説, 矛盾",
+    "example": "It is a paradox that less is more.",
+    "example_jp": "「少ない方が豊かである」というのは逆説だ。"
+  },
+  {
+    "word": "dialect",
+    "meaning": "方言",
+    "example": "He speaks a local dialect.",
+    "example_jp": "彼は地元の方言を話す。"
+  },
+  {
+    "word": "accent",
+    "meaning": "訛り",
+    "example": "He speaks English with a French accent.",
+    "example_jp": "彼はフランス語の訛りで英語を話す。"
+  },
+  {
+    "word": "pronounce",
+    "meaning": "～を発音する",
+    "example": "How do you pronounce this word?",
+    "example_jp": "この単語をどう発音しますか。"
+  },
+  {
+    "word": "tongue",
+    "meaning": "舌, 言語",
+    "example": "English is my mother tongue.",
+    "example_jp": "英語が私の母国語だ。"
+  },
+  {
+    "word": "text",
+    "meaning": "文章",
+    "example": "Read the text carefully.",
+    "example_jp": "その文章を注意深く読みなさい。"
+  },
+  {
+    "word": "text",
+    "meaning": "メール, メールを送る",
+    "example": "I will text you later.",
+    "example_jp": "後でメールするよ。"
+  },
+  {
+    "word": "context",
+    "meaning": "文脈, 前後関係, 状況",
+    "example": "I need more context to understand it.",
+    "example_jp": "それを理解するには、もっと文脈が必要だ。"
+  },
+  {
+    "word": "grammar",
+    "meaning": "文法",
+    "example": "She is good at English grammar.",
+    "example_jp": "彼女は英語の文法が得意だ。"
+  },
+  {
+    "word": "vocabulary",
+    "meaning": "語彙, ボキャブラリー",
+    "example": "I want to improve my vocabulary.",
+    "example_jp": "語彙を増やしたい。"
+  },
+  {
+    "word": "research",
+    "meaning": "研究, 調査",
+    "example": "She is doing research on cancer.",
+    "example_jp": "彼女はガンの研究をしている。"
+  },
+  {
+    "word": "investigate",
+    "meaning": "～を調査する, 研究する",
+    "example": "The police are investigating the case.",
+    "example_jp": "警察がその事件を調査している。"
+  },
+  {
+    "word": "survey",
+    "meaning": "見渡す, 調査する, 調査, 概観",
+    "example": "We conducted a survey of public opinion.",
+    "example_jp": "世論調査を行った。"
+  },
+  {
+    "word": "inquire",
+    "meaning": "尋ねる, 調査する",
+    "example": "I will inquire about the schedule.",
+    "example_jp": "スケジュールについて尋ねるつもりだ。"
+  },
+  {
+    "word": "theory",
+    "meaning": "理論, 学説",
+    "example": "His theory was proven correct.",
+    "example_jp": "彼の理論は正しいと証明された。"
+  },
+  {
+    "word": "method",
+    "meaning": "(体系的な)方法",
+    "example": "We need a better teaching method.",
+    "example_jp": "より良い教授法が必要だ。"
+  },
+  {
+    "word": "hypothesis",
+    "meaning": "仮説, 前提",
+    "example": "The evidence supports our hypothesis.",
+    "example_jp": "証拠が我々の仮説を支持している。"
+  },
+  {
+    "word": "experiment",
+    "meaning": "実験",
+    "example": "They performed a scientific experiment.",
+    "example_jp": "彼らは科学実験を行った。"
+  },
+  {
+    "word": "detect",
+    "meaning": "～を検出する, 見つける",
+    "example": "The sensor can detect gas leaks.",
+    "example_jp": "そのセンサーはガス漏れを検出できる。"
+  },
+  {
+    "word": "thesis",
+    "meaning": "学位論文",
+    "example": "He is writing his master's thesis.",
+    "example_jp": "彼は修士論文を書いている。"
+  },
+  {
+    "word": "statistics",
+    "meaning": "統計",
+    "example": "The statistics show a rising trend.",
+    "example_jp": "統計は上昇傾向を示している。"
+  },
+  {
+    "word": "analyze",
+    "meaning": "～を分析する",
+    "example": "We need to analyze the data.",
+    "example_jp": "データを分析する必要がある。"
+  },
+  {
+    "word": "laboratory",
+    "meaning": "研究室",
+    "example": "She works in a chemistry laboratory.",
+    "example_jp": "彼女は化学の研究室で働いている。"
+  },
+  {
+    "word": "conclude",
+    "meaning": "(…と)結論を下す",
+    "example": "I concluded that he was innocent.",
+    "example_jp": "彼が無実だと結論を下した。"
+  },
+  {
+    "word": "prove",
+    "meaning": "～を証明する",
+    "example": "They couldn't prove his guilt.",
+    "example_jp": "彼らは彼の有罪を証明できなかった。"
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "～を実証する, 実演する",
+    "example": "He demonstrated the new machine.",
+    "example_jp": "彼はその新しい機械を実演してみせた。"
+  },
+  {
+    "word": "illustrate",
+    "meaning": "～を例証する, 図で説明する",
+    "example": "She illustrated the point with a story.",
+    "example_jp": "彼女は物語を使ってその点を説明した。"
+  },
+  {
+    "word": "estimate",
+    "meaning": "～を見積もる",
+    "example": "I estimate the cost at 100 dollars.",
+    "example_jp": "費用を100ドルと見積もる。"
+  },
+  {
+    "word": "expert",
+    "meaning": "専門家",
+    "example": "She is an expert in technology.",
+    "example_jp": "彼女は技術の専門家だ。"
+  },
+  {
+    "word": "scholar",
+    "meaning": "学者",
+    "example": "He is a famous history scholar.",
+    "example_jp": "彼は有名な歴史学者だ。"
+  },
+  {
+    "word": "academic",
+    "meaning": "学問の, 大学の",
+    "example": "He has a great academic record.",
+    "example_jp": "彼は素晴らしい学業成績を持っている。"
+  },
+  {
+    "word": "specialize",
+    "meaning": "(～を)専攻する, 専門にする",
+    "example": "I want to specialize in law.",
+    "example_jp": "法律を専攻したい。"
+  },
+  {
+    "word": "geography",
+    "meaning": "地理学",
+    "example": "She studies geography at university.",
+    "example_jp": "彼女は大学で地理学を学んでいる。"
+  },
+  {
+    "word": "geology",
+    "meaning": "地質学",
+    "example": "Geology helps us understand the Earth.",
+    "example_jp": "地質学は地球を理解する助けになる。"
+  },
+  {
+    "word": "geometry",
+    "meaning": "幾何学",
+    "example": "We studied geometry in math class.",
+    "example_jp": "数学のクラスで幾何学を勉強した。"
+  },
+  {
+    "word": "arithmetic",
+    "meaning": "算数",
+    "example": "He is good at arithmetic.",
+    "example_jp": "彼は算数が得意だ。"
+  }
+]

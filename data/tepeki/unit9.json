@@ -1,0 +1,410 @@
+[
+  {
+    "word": "bribe",
+    "meaning": "賄賂",
+    "example": "He was arrested for taking a bribe.",
+    "example_jp": "彼は賄賂を受け取った容疑で逮捕された。"
+  },
+  {
+    "word": "fraud",
+    "meaning": "詐欺, 不正行為",
+    "example": "He was convicted of credit card fraud.",
+    "example_jp": "彼はクレジットカード詐欺で有罪判決を受けた。"
+  },
+  {
+    "word": "perish",
+    "meaning": "消滅する, 死ぬ",
+    "example": "Many animals perished in the forest fire.",
+    "example_jp": "多くの動物が森林火災で死んだ。"
+  },
+  {
+    "word": "vanish",
+    "meaning": "消滅する, 消える",
+    "example": "The ship vanished into the fog.",
+    "example_jp": "船は霧の中に消えた。"
+  },
+  {
+    "word": "ruin",
+    "meaning": "破壊, 廃墟",
+    "example": "The castle is now in ruins.",
+    "example_jp": "その城は現在廃墟となっている。"
+  },
+  {
+    "word": "ruin",
+    "meaning": "～を破壊させる, 台無しにする",
+    "example": "The rain ruined our picnic.",
+    "example_jp": "雨がピクニックを台無しにした。"
+  },
+  {
+    "word": "collapse",
+    "meaning": "崩壊する, 崩れる",
+    "example": "The old bridge collapsed after the storm.",
+    "example_jp": "古い橋が嵐の後に崩壊した。"
+  },
+  {
+    "word": "extinguish",
+    "meaning": "～(火)を消す",
+    "example": "Firefighters extinguished the flames quickly.",
+    "example_jp": "消防士たちは素早く火を消した。"
+  },
+  {
+    "word": "extinguish",
+    "meaning": "～を絶滅させる",
+    "example": "The species was extinguished by hunting.",
+    "example_jp": "その種は狩猟によって絶滅させられた。"
+  },
+  {
+    "word": "catastrophe",
+    "meaning": "破滅, 大惨事",
+    "example": "The earthquake was a terrible catastrophe.",
+    "example_jp": "その地震は恐ろしい大惨事だった。"
+  },
+  {
+    "word": "survive",
+    "meaning": "～を生き残る",
+    "example": "He survived the accident.",
+    "example_jp": "彼は事故を生き延びた。"
+  },
+  {
+    "word": "regard",
+    "meaning": "～を(…と)みなす",
+    "example": "I regard him as a close friend.",
+    "example_jp": "私は彼を親友とみなしている。"
+  },
+  {
+    "word": "regard",
+    "meaning": "尊重する, に敬意を払う",
+    "example": "We should regard the rules of others.",
+    "example_jp": "他人のルールを尊重すべきだ。"
+  },
+  {
+    "word": "regard",
+    "meaning": "尊敬, 敬意, 点",
+    "example": "He has high regard for his teacher.",
+    "example_jp": "彼は先生に深い敬意を抱いている。"
+  },
+  {
+    "word": "account",
+    "meaning": "説明, 報告, 口座, 勘定, 重要性",
+    "example": "I opened a bank account today.",
+    "example_jp": "今日銀行口座を開設した。"
+  },
+  {
+    "word": "account",
+    "meaning": "(～[理由]を)説明する",
+    "example": "Can you account for your absence?",
+    "example_jp": "欠席の理由を説明できますか。"
+  },
+  {
+    "word": "account",
+    "meaning": "(～[割合]を)占める",
+    "example": "Exports account for half of our sales.",
+    "example_jp": "輸出が売上の半分を占めている。"
+  },
+  {
+    "word": "concern",
+    "meaning": "～に関係する, ～を心配させる",
+    "example": "This matter concerns everyone here.",
+    "example_jp": "この件はここにいる全員に関係している。"
+  },
+  {
+    "word": "concern",
+    "meaning": "関係, 心配, 懸念, 関心",
+    "example": "My main concern is his health.",
+    "example_jp": "私の最大の懸念は彼の健康だ。"
+  },
+  {
+    "word": "anxious",
+    "meaning": "(～を)心配している",
+    "example": "I am anxious about the test results.",
+    "example_jp": "テストの結果が心配だ。"
+  },
+  {
+    "word": "anxious",
+    "meaning": "(～を)切望している",
+    "example": "He is anxious to meet his family.",
+    "example_jp": "彼は家族に会うことを切望している。"
+  },
+  {
+    "word": "attend",
+    "meaning": "～に出席する",
+    "example": "He attended the meeting yesterday.",
+    "example_jp": "彼は昨日会議に出席した。"
+  },
+  {
+    "word": "attend",
+    "meaning": "(～を)注意して聞く, (～に)付き添う, 看護する",
+    "example": "She attended to the injured child.",
+    "example_jp": "彼女はその怪我をした子供の看護をした。"
+  },
+  {
+    "word": "apply",
+    "meaning": "～を(…に)適用する, 応用する",
+    "example": "Apply this theory to the new problem.",
+    "example_jp": "この理論を新しい問題に応用しなさい。"
+  },
+  {
+    "word": "apply",
+    "meaning": "(～に)応募する, 志願する",
+    "example": "I will apply for that job.",
+    "example_jp": "その仕事に応募するつもりだ。"
+  },
+  {
+    "word": "reflect",
+    "meaning": "～を反射する, 反映する",
+    "example": "The mirror reflects the light.",
+    "example_jp": "鏡が光を反射する。"
+  },
+  {
+    "word": "reflect",
+    "meaning": "(～を)熟考する",
+    "example": "I need to reflect on my mistakes.",
+    "example_jp": "自分の間違いを熟考する必要がある。"
+  },
+  {
+    "word": "wait",
+    "meaning": "(～を)待つ",
+    "example": "Please wait for me here.",
+    "example_jp": "ここで待っていてください。"
+  },
+  {
+    "word": "wait",
+    "meaning": "(～に)仕える, 給仕する",
+    "example": "He waited on the customers at the restaurant.",
+    "example_jp": "彼はレストランで客に給仕をした。"
+  },
+  {
+    "word": "due",
+    "meaning": "しかるべき, 正当な, 期限の, 到着予定の",
+    "example": "The train is due at noon.",
+    "example_jp": "電車は正午に到着予定だ。"
+  },
+  {
+    "word": "odd",
+    "meaning": "奇妙な, 半端な, 奇数の",
+    "example": "It is odd that he is late.",
+    "example_jp": "彼が遅れているのは奇妙だ。"
+  },
+  {
+    "word": "odds",
+    "meaning": "見込み, 勝算",
+    "example": "The odds are in our favor.",
+    "example_jp": "勝算は我々にある。"
+  },
+  {
+    "word": "issue",
+    "meaning": "(争点となる)問題, 号",
+    "example": "Climate change is a global issue.",
+    "example_jp": "気候変動は世界的な問題だ。"
+  },
+  {
+    "word": "issue",
+    "meaning": "～を発行する, 発布する",
+    "example": "The government issued a new law.",
+    "example_jp": "政府は新しい法律を発布した。"
+  },
+  {
+    "word": "term",
+    "meaning": "用語, 期間, 関係, 折り合い",
+    "example": "Scientific terms are difficult to understand.",
+    "example_jp": "科学用語は理解しにくい。"
+  },
+  {
+    "word": "figure",
+    "meaning": "姿, 形, 図, 人物, 数字",
+    "example": "He is a famous figure in history.",
+    "example_jp": "彼は歴史上の有名な人物だ。"
+  },
+  {
+    "word": "figure",
+    "meaning": "考える",
+    "example": "I figured that he would come.",
+    "example_jp": "彼が来るだろうと考えていた。"
+  },
+  {
+    "word": "state",
+    "meaning": "州, 国家, (一時的な)状態",
+    "example": "The building is in a bad state.",
+    "example_jp": "その建物は悪い状態にある。"
+  },
+  {
+    "word": "state",
+    "meaning": "～を述べる",
+    "example": "Please state your name.",
+    "example_jp": "名前を述べてください。"
+  },
+  {
+    "word": "bear",
+    "meaning": "～を住む, ～に耐える",
+    "example": "I cannot bear the pain.",
+    "example_jp": "痛みには耐えられない。"
+  },
+  {
+    "word": "case",
+    "meaning": "場合, 事件, 訴訟, 実情, 事実, 本当, 症例",
+    "example": "That is not the case.",
+    "example_jp": "それは事実ではない。"
+  },
+  {
+    "word": "mean",
+    "meaning": "～を意味する, ～しようと(意図)する",
+    "example": "I mean to finish it today.",
+    "example_jp": "今日それを終わらせるつもりだ。"
+  },
+  {
+    "word": "mean",
+    "meaning": "卑劣な, 意地悪な",
+    "example": "It was mean of you to say that.",
+    "example_jp": "あんなことを言うなんて意地悪だ。"
+  },
+  {
+    "word": "means",
+    "meaning": "手段, 方法, 財産",
+    "example": "He has no means to support himself.",
+    "example_jp": "彼には自活する手段がない。"
+  },
+  {
+    "word": "represent",
+    "meaning": "～を代表する, 象徴する, 表す",
+    "example": "The flag represents our country.",
+    "example_jp": "国旗は我々の国を象徴している。"
+  },
+  {
+    "word": "assume",
+    "meaning": "～を想定する, 思いこむ, ～(責任, 任務)を引き受ける",
+    "example": "I assumed that you were busy.",
+    "example_jp": "忙しいのだろうと想定していた。"
+  },
+  {
+    "word": "possess",
+    "meaning": "～を所有する, ～に取り憑く",
+    "example": "He possesses great talent.",
+    "example_jp": "彼は偉大な才能を所有している。"
+  },
+  {
+    "word": "observe",
+    "meaning": "～を観察する, ～を守る",
+    "example": "We must observe the traffic rules.",
+    "example_jp": "交通ルールを守らなければならない。"
+  },
+  {
+    "word": "swallow",
+    "meaning": "飲み込む, 鵜呑みにする, 信じる",
+    "example": "Don't swallow everything you hear.",
+    "example_jp": "聞いたことをすべて鵜呑みにするな。"
+  },
+  {
+    "word": "swallow",
+    "meaning": "ツバメ",
+    "example": "A swallow flew into the room.",
+    "example_jp": "ツバメが部屋に入ってきた。"
+  },
+  {
+    "word": "company",
+    "meaning": "会社, 一緒にいること, 仲間",
+    "example": "I enjoy her company.",
+    "example_jp": "彼女と一緒にいるのが楽しい。"
+  },
+  {
+    "word": "firm",
+    "meaning": "固い, 確固たる",
+    "example": "He has a firm belief in his success.",
+    "example_jp": "彼は自分の成功を確固として信じている。"
+  },
+  {
+    "word": "firm",
+    "meaning": "会社, 企業",
+    "example": "She works for a law firm.",
+    "example_jp": "彼女は法律事務所で働いている。"
+  },
+  {
+    "word": "enter",
+    "meaning": "～に入る",
+    "example": "Please enter the room quietly.",
+    "example_jp": "静かに部屋に入ってください。"
+  },
+  {
+    "word": "receive",
+    "meaning": "～を受け取る",
+    "example": "I received a letter from him.",
+    "example_jp": "彼から手紙を受け取った。"
+  },
+  {
+    "word": "accept",
+    "meaning": "～を受け入れる",
+    "example": "I accepted his apology.",
+    "example_jp": "彼の謝罪を受け入れた。"
+  },
+  {
+    "word": "refuse",
+    "meaning": "～を拒否する, しようとしない",
+    "example": "He refused to answer my question.",
+    "example_jp": "彼は私の質問に答えることを拒否した。"
+  },
+  {
+    "word": "reject",
+    "meaning": "～を拒絶する, はねつける",
+    "example": "The university rejected his application.",
+    "example_jp": "大学は彼の応募を拒絶した。"
+  },
+  {
+    "word": "deny",
+    "meaning": "～を否定する",
+    "example": "He denied stealing the money.",
+    "example_jp": "彼は金を盗んだことを否定した。"
+  },
+  {
+    "word": "appear",
+    "meaning": "現れる, のように見える",
+    "example": "He appears to be tired.",
+    "example_jp": "彼は疲れているように見える。"
+  },
+  {
+    "word": "exist",
+    "meaning": "存在する, 生存する",
+    "example": "Does life exist on other planets?",
+    "example_jp": "他の惑星に生命は存在するのか。"
+  },
+  {
+    "word": "expect",
+    "meaning": "～を予想する, 期待する",
+    "example": "I expect to be back by five.",
+    "example_jp": "5時までには戻る予定だ。"
+  },
+  {
+    "word": "except",
+    "meaning": "～を除いて, 以外は",
+    "example": "Everyone was there except him.",
+    "example_jp": "彼を除いて全員そこにいた。"
+  },
+  {
+    "word": "improve",
+    "meaning": "～を改良する, 改善する, 良くなる",
+    "example": "You need to improve your English.",
+    "example_jp": "英語を改善する必要がある。"
+  },
+  {
+    "word": "solve",
+    "meaning": "～を解く, 解決する",
+    "example": "We solved the math problem.",
+    "example_jp": "私たちはその数学の問題を解いた。"
+  },
+  {
+    "word": "suppose",
+    "meaning": "(…だと)思う, ～を想定する",
+    "example": "I suppose he will come.",
+    "example_jp": "彼が来ると思う。"
+  },
+  {
+    "word": "suggest",
+    "meaning": "～を提案する, 暗に示す",
+    "example": "She suggested going to the park.",
+    "example_jp": "彼女は公園に行くことを提案した。"
+  },
+  {
+    "word": "propose",
+    "meaning": "～を提案する",
+    "example": "He proposed a new plan.",
+    "example_jp": "彼は新しい計画を提案した。"
+  }
+]

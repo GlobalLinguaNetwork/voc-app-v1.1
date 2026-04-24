@@ -1,0 +1,344 @@
+[
+  {
+    "word": "stroll",
+    "meaning": "(ぶらぶら)歩く",
+    "example": "We took a stroll through the park.",
+    "example_jp": "私たちは公園をぶらぶら歩いた。"
+  },
+  {
+    "word": "stride",
+    "meaning": "ひとまたぎ",
+    "example": "He covered the distance in one long stride.",
+    "example_jp": "彼は一歩の大股でその距離を埋めた。"
+  },
+  {
+    "word": "stride",
+    "meaning": "進歩",
+    "example": "We have made great strides in medicine.",
+    "example_jp": "医学において大きな進歩を遂げた。"
+  },
+  {
+    "word": "stride",
+    "meaning": "大股で歩く",
+    "example": "She strode confidently into the room.",
+    "example_jp": "彼女は大股で自信満々に部屋に入った。"
+  },
+  {
+    "word": "stumble",
+    "meaning": "つまずく",
+    "example": "I stumbled over a rock.",
+    "example_jp": "岩につまずいた。"
+  },
+  {
+    "word": "stumble",
+    "meaning": "偶然でくわす",
+    "example": "I stumbled upon an old photo in the attic.",
+    "example_jp": "屋根裏で偶然古い写真を見つけた。"
+  },
+  {
+    "word": "creep",
+    "meaning": "這う、こっそり進む",
+    "example": "The baby started to creep across the floor.",
+    "example_jp": "赤ちゃんが床を這い始めた。"
+  },
+  {
+    "word": "linger",
+    "meaning": "ぐずぐずする、残存する",
+    "example": "The scent of her perfume lingered in the air.",
+    "example_jp": "彼女の香水の香りが空気に残っていた。"
+  },
+  {
+    "word": "sniff",
+    "meaning": "くんくん嗅ぐ、においを嗅ぐ",
+    "example": "The dog sniffed my shoes.",
+    "example_jp": "犬が私の靴のにおいをくんくん嗅いだ。"
+  },
+  {
+    "word": "sneeze",
+    "meaning": "くしゃみをする",
+    "example": "The dust made me sneeze.",
+    "example_jp": "埃のせいでくしゃみが出た。"
+  },
+  {
+    "word": "snore",
+    "meaning": "いびきをかく",
+    "example": "My husband snores very loudly.",
+    "example_jp": "夫はとてもひどいいびきをかく。"
+  },
+  {
+    "word": "sneer",
+    "meaning": "あざ笑う、鼻で笑う",
+    "example": "He sneered at my simple idea.",
+    "example_jp": "彼は私の単純なアイデアを鼻で笑った。"
+  },
+  {
+    "word": "shrug",
+    "meaning": "肩をすくめる",
+    "example": "He just shrugged when I asked him.",
+    "example_jp": "彼に尋ねると、彼はただ肩をすくめた。"
+  },
+  {
+    "word": "clear one's throat",
+    "meaning": "咳払いする",
+    "example": "He cleared his throat before speaking.",
+    "example_jp": "彼は話し始める前に咳払いをした。"
+  },
+  {
+    "word": "frown",
+    "meaning": "しかめ面をする、しかめ面",
+    "example": "She frowned at the confusing instructions.",
+    "example_jp": "彼女は分かりにくい説明書にしかめ面をした。"
+  },
+  {
+    "word": "grimace",
+    "meaning": "しかめ面をする、しかめ面",
+    "example": "He made a grimace of pain.",
+    "example_jp": "彼は痛みで顔をしかめた。"
+  },
+  {
+    "word": "blink",
+    "meaning": "まばたきをする、まばたき",
+    "example": "She blinked in the bright sunlight.",
+    "example_jp": "彼女は強い日差しにまばたきをした。"
+  },
+  {
+    "word": "yawn",
+    "meaning": "あくびをする",
+    "example": "I couldn't stop yawning during the lecture.",
+    "example_jp": "講義中、あくびが止まらなかった。"
+  },
+  {
+    "word": "mutter",
+    "meaning": "つぶやく",
+    "example": "He muttered something under his breath.",
+    "example_jp": "彼は小声で何かをつぶやいた。"
+  },
+  {
+    "word": "murmur",
+    "meaning": "つぶやく",
+    "example": "They murmured softly in the library.",
+    "example_jp": "彼らは図書館で静かにつぶやき合った。"
+  },
+  {
+    "word": "mumble",
+    "meaning": "つぶやく",
+    "example": "Stop mumbling and speak clearly.",
+    "example_jp": "もごもごつぶやかずに、はっきり話しなさい。"
+  },
+  {
+    "word": "whisper",
+    "meaning": "ささやく",
+    "example": "She whispered a secret in my ear.",
+    "example_jp": "彼女は私の耳に秘密をささやいた。"
+  },
+  {
+    "word": "shriek",
+    "meaning": "金切り声を上げる、叫ぶ",
+    "example": "The children shrieked with excitement.",
+    "example_jp": "子供たちが興奮して金切り声を上げた。"
+  },
+  {
+    "word": "sob",
+    "meaning": "すすり泣く",
+    "example": "The little girl began to sob.",
+    "example_jp": "小さな女の子がすすり泣き始めた。"
+  },
+  {
+    "word": "genuine",
+    "meaning": "本物の、純粋の、心からの",
+    "example": "This is a genuine leather bag.",
+    "example_jp": "これは本革のバッグです。"
+  },
+  {
+    "word": "authentic",
+    "meaning": "本物の、本場の",
+    "example": "We ate authentic Italian pizza.",
+    "example_jp": "私たちは本場のイタリアンピザを食べた。"
+  },
+  {
+    "word": "fake",
+    "meaning": "偽物の",
+    "example": "That diamond is a fake.",
+    "example_jp": "そのダイヤモンドは偽物だ。"
+  },
+  {
+    "word": "false",
+    "meaning": "間違った、偽の",
+    "example": "He gave me a false address.",
+    "example_jp": "彼は私に偽の住所を教えた。"
+  },
+  {
+    "word": "sincere",
+    "meaning": "心からの、誠実な",
+    "example": "Please accept my sincere apologies.",
+    "example_jp": "心からの謝罪を受け入れてください。"
+  },
+  {
+    "word": "sheer",
+    "meaning": "全くの",
+    "example": "It was sheer luck that I won.",
+    "example_jp": "勝ったのは全くの幸運だった。"
+  },
+  {
+    "word": "elaborate",
+    "meaning": "手の込んだ、精巧な",
+    "example": "She wore an elaborate dress.",
+    "example_jp": "彼女は手の込んだドレスを着ていた。"
+  },
+  {
+    "word": "intricate",
+    "meaning": "複雑な、込み入った",
+    "example": "The watch has an intricate mechanism.",
+    "example_jp": "その時計は複雑な仕組みになっている。"
+  },
+  {
+    "word": "exquisite",
+    "meaning": "精緻な、素晴らしい",
+    "example": "The jewelry is exquisitely made.",
+    "example_jp": "その宝石は精緻に作られている。"
+  },
+  {
+    "word": "sophisticated",
+    "meaning": "洗練された",
+    "example": "She has a sophisticated taste in art.",
+    "example_jp": "彼女は芸術に関して洗練された趣味を持っている。"
+  },
+  {
+    "word": "sophisticated",
+    "meaning": "精巧な",
+    "example": "The company uses sophisticated software.",
+    "example_jp": "その会社は精巧なソフトウェアを使用している。"
+  },
+  {
+    "word": "proficient",
+    "meaning": "熟達した",
+    "example": "He is proficient in English.",
+    "example_jp": "彼は英語に熟達している。"
+  },
+  {
+    "word": "negative",
+    "meaning": "否定的な、消極的な、マイナスの",
+    "example": "Don't have such a negative attitude.",
+    "example_jp": "そんなに否定的な態度にならないで。"
+  },
+  {
+    "word": "affirmative",
+    "meaning": "肯定の、積極的な",
+    "example": "He gave an affirmative answer.",
+    "example_jp": "彼は肯定的な返事をした。"
+  },
+  {
+    "word": "positive",
+    "meaning": "積極的な、プラスの",
+    "example": "Try to stay positive.",
+    "example_jp": "前向きに（積極的に）いようとして。"
+  },
+  {
+    "word": "positive",
+    "meaning": "確信している",
+    "example": "Are you positive about the date?",
+    "example_jp": "日付に確信はありますか。"
+  },
+  {
+    "word": "vertical",
+    "meaning": "垂直の、縦の",
+    "example": "Draw a vertical line here.",
+    "example_jp": "ここに垂直な線を引いてください。"
+  },
+  {
+    "word": "horizontal",
+    "meaning": "水平の",
+    "example": "Keep the camera in a horizontal position.",
+    "example_jp": "カメラを水平に保ってください。"
+  },
+  {
+    "word": "parallel",
+    "meaning": "平行の、類似した",
+    "example": "These two roads run parallel to each other.",
+    "example_jp": "この2本の道は互いに平行に走っている。"
+  },
+  {
+    "word": "parallel",
+    "meaning": "類似物、匹敵するもの",
+    "example": "There is no parallel to his genius.",
+    "example_jp": "彼の天才性に匹敵するものはない。"
+  },
+  {
+    "word": "indifferent",
+    "meaning": "無関心な",
+    "example": "He is indifferent to politics.",
+    "example_jp": "彼は政治に無関心だ。"
+  },
+  {
+    "word": "infamous",
+    "meaning": "悪名高い、評判が悪い",
+    "example": "He is infamous for his temper.",
+    "example_jp": "彼は気性の激しさで悪名高い。"
+  },
+  {
+    "word": "notorious",
+    "meaning": "悪名高い、評判が悪い",
+    "example": "This area is notorious for crime.",
+    "example_jp": "この地域は犯罪で悪名高い。"
+  },
+  {
+    "word": "uneasy",
+    "meaning": "落ち着かない、不安な",
+    "example": "I felt uneasy about the deal.",
+    "example_jp": "その取引に不安を感じた。"
+  },
+  {
+    "word": "awkward",
+    "meaning": "落ち着かない、気まずい",
+    "example": "There was an awkward silence.",
+    "example_jp": "気まずい沈黙が流れた。"
+  },
+  {
+    "word": "awkward",
+    "meaning": "不器用な、ぎこちない",
+    "example": "He is a bit awkward in social situations.",
+    "example_jp": "彼は社交の場で少しぎこちない。"
+  },
+  {
+    "word": "clumsy",
+    "meaning": "不器用な、ぎこちない",
+    "example": "I'm so clumsy that I always drop things.",
+    "example_jp": "私はとても不器用で、いつも物を落とす。"
+  },
+  {
+    "word": "restless",
+    "meaning": "落ち着きがない、せわしない",
+    "example": "He grew restless during the long flight.",
+    "example_jp": "長い飛行機の中、彼は落ち着きがなくなった。"
+  },
+  {
+    "word": "relentless",
+    "meaning": "執拗な、情け容赦のない",
+    "example": "The heat was relentless all day.",
+    "example_jp": "一日中、容赦ない暑さが続いた。"
+  },
+  {
+    "word": "ruthless",
+    "meaning": "情け容赦のない、冷酷な",
+    "example": "He is a ruthless businessman.",
+    "example_jp": "彼は冷酷なビジネスマンだ。"
+  },
+  {
+    "word": "reckless",
+    "meaning": "向こう見ずな",
+    "example": "Reckless driving is dangerous.",
+    "example_jp": "向こう見ずな運転は危険だ。"
+  },
+  {
+    "word": "stupid",
+    "meaning": "ばかな、愚かな",
+    "example": "That was a stupid mistake.",
+    "example_jp": "それはばかな間違いだった。"
+  },
+  {
+    "word": "silly",
+    "meaning": "ばかな",
+    "example": "Don't be silly.",
+    "example_jp": "ばかなこと言わないで。"
+  }
+]

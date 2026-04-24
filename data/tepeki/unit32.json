@@ -1,0 +1,326 @@
+[
+  {
+    "word": "let alone",
+    "meaning": "ましてや?ない",
+    "example": "He can't even speak his own language, let alone a foreign one.",
+    "example_jp": "外国語は言うまでもなく、母国語すら話せない。"
+  },
+  {
+    "word": "pull up",
+    "meaning": "車を止める",
+    "example": "He pulled up in front of the house.",
+    "example_jp": "彼は家の前で車を止めた。"
+  },
+  {
+    "word": "make it",
+    "meaning": "(約束・予定通り)やり遂げる、都合がつく、間に合う",
+    "example": "I'm sorry, I can't make it tonight.",
+    "example_jp": "ごめん、今夜は都合がつかないんだ。"
+  },
+  {
+    "word": "That's it",
+    "meaning": "もう終わりだ",
+    "example": "That's it, I'm quitting this job.",
+    "example_jp": "もう終わりだ、この仕事は辞める。"
+  },
+  {
+    "word": "That's it",
+    "meaning": "まさにそれだ、その通りだ",
+    "example": "That's it! You've got the right answer.",
+    "example_jp": "その通り！正解だよ。"
+  },
+  {
+    "word": "That is that",
+    "meaning": "それでおしまいだ、それだけのこと",
+    "example": "I'm not going, and that is that.",
+    "example_jp": "行かないと言ったら行かない、それでおしまいだ。"
+  },
+  {
+    "word": "make ～ of A",
+    "meaning": "Aを～と評価する、判断する",
+    "example": "What do you make of his behavior?",
+    "example_jp": "彼の振る舞いをどう評価しますか？"
+  },
+  {
+    "word": "make the most of",
+    "meaning": "～を最大限利用する",
+    "example": "You should make the most of your time abroad.",
+    "example_jp": "海外にいる時間を最大限利用すべきだ。"
+  },
+  {
+    "word": "make the best of",
+    "meaning": "～をできる限り利用する",
+    "example": "It's not ideal, but we have to make the best of it.",
+    "example_jp": "理想的ではないが、できる限りうまくやるしかない。"
+  },
+  {
+    "word": "make sure",
+    "meaning": "確実に～する； ～を確かめる",
+    "example": "Make sure to lock the door.",
+    "example_jp": "確実にドアをロックして。"
+  },
+  {
+    "word": "make ends meet",
+    "meaning": "やりくりする、帳尻を合わせる",
+    "example": "It's hard to make ends meet on this salary.",
+    "example_jp": "この給料でやりくりするのは難しい。"
+  },
+  {
+    "word": "make believe",
+    "meaning": "～のふりをする、真似をする",
+    "example": "The children made believe they were astronauts.",
+    "example_jp": "子供たちは宇宙飛行士のふりをした。"
+  },
+  {
+    "word": "make a scene",
+    "meaning": "ひと騒ぎする、醜態を晒す",
+    "example": "Please don't make a scene here.",
+    "example_jp": "ここでひと騒ぎしないでください。"
+  },
+  {
+    "word": "think much of",
+    "meaning": "～を高く評価する",
+    "example": "I don't think much of his new book.",
+    "example_jp": "彼の新しい本をあまり高く評価していない。"
+  },
+  {
+    "word": "think better of",
+    "meaning": "～を考え直す、見直す",
+    "example": "He thought better of his plan to quit.",
+    "example_jp": "彼は辞めるという計画を考え直した。"
+  },
+  {
+    "word": "think twice",
+    "meaning": "よく考える",
+    "example": "Think twice before you speak.",
+    "example_jp": "話す前によく考えなさい。"
+  },
+  {
+    "word": "on second thought",
+    "meaning": "考え直して、やっぱり",
+    "example": "On second thought, I'll stay home.",
+    "example_jp": "考え直して、やっぱり家にいることにする。"
+  },
+  {
+    "word": "show off",
+    "meaning": "～を見せびらかせる、誇示する",
+    "example": "He likes to show off his car.",
+    "example_jp": "彼は車を見せびらかしたがる。"
+  },
+  {
+    "word": "show up",
+    "meaning": "現れる、登場する",
+    "example": "She finally showed up at midnight.",
+    "example_jp": "彼女はついに真夜中に現れた。"
+  },
+  {
+    "word": "see to",
+    "meaning": "～に対処する、の世話をする、を手配する",
+    "example": "I'll see to the arrangements for the party.",
+    "example_jp": "パーティーの手配に対処するよ。"
+  },
+  {
+    "word": "see through",
+    "meaning": "～（嘘など）を見抜く",
+    "example": "I saw through his lies.",
+    "example_jp": "彼の嘘を見抜いた。"
+  },
+  {
+    "word": "see through",
+    "meaning": "～を最後までやり通す",
+    "example": "We must see this project through.",
+    "example_jp": "このプロジェクトを最後までやり通さなければならない。"
+  },
+  {
+    "word": "in the way of",
+    "meaning": "Aの邪魔になって",
+    "example": "Your bags are in the way.",
+    "example_jp": "あなたのカバンが邪魔になっている。"
+  },
+  {
+    "word": "make one's way",
+    "meaning": "前進する",
+    "example": "He made his way toward the door.",
+    "example_jp": "彼はドアに向かって前進した。"
+  },
+  {
+    "word": "find one's way",
+    "meaning": "たどり着く、入ってくる",
+    "example": "The letter finally found its way to me.",
+    "example_jp": "手紙がついに私のところにたどり着いた。"
+  },
+  {
+    "word": "go out of one's way to do",
+    "meaning": "わざわざ～する",
+    "example": "She went out of her way to help me.",
+    "example_jp": "彼女はわざわざ私を助けてくれた。"
+  },
+  {
+    "word": "by way of",
+    "meaning": "～を経由して、～によって",
+    "example": "We flew to London by way of Paris.",
+    "example_jp": "パリを経由してロンドンへ飛んだ。"
+  },
+  {
+    "word": "have a way of doing",
+    "meaning": "～する癖がある、傾向がある",
+    "example": "Accidents have a way of happening when you're busy.",
+    "example_jp": "忙しい時に限って事故は起こるものだ。"
+  },
+  {
+    "word": "under way",
+    "meaning": "進行中で",
+    "example": "The construction is under way.",
+    "example_jp": "建設工事は進行中だ。"
+  },
+  {
+    "word": "true for [of]",
+    "meaning": "～に当てはまる",
+    "example": "This is true for all students.",
+    "example_jp": "これはすべての学生に当てはまる。"
+  },
+  {
+    "word": "hold true [good]",
+    "meaning": "当てはまる、通用する",
+    "example": "This rule still holds true today.",
+    "example_jp": "この規則は今日でも通用する。"
+  },
+  {
+    "word": "true to life",
+    "meaning": "実物そっくり",
+    "example": "The movie was very true to life.",
+    "example_jp": "その映画は実物そっくりだった。"
+  },
+  {
+    "word": "give rise to",
+    "meaning": "～を生じる、引き起こす",
+    "example": "The new law gave rise to many protests.",
+    "example_jp": "新しい法律は多くの抗議を生んだ。"
+  },
+  {
+    "word": "give birth to",
+    "meaning": "～を産む； 生じる、引き起こす",
+    "example": "She gave birth to a healthy boy.",
+    "example_jp": "彼女は健康な男の子を産んだ。"
+  },
+  {
+    "word": "put an end to",
+    "meaning": "～を終わらせる",
+    "example": "We must put an end to this conflict.",
+    "example_jp": "この対立を終わらせなければならない。"
+  },
+  {
+    "word": "take turns",
+    "meaning": "交替する、順番にやる",
+    "example": "Let's take turns driving.",
+    "example_jp": "交代で運転しよう。"
+  },
+  {
+    "word": "in turn",
+    "meaning": "それが今度は",
+    "example": "He helped me, and I, in turn, helped him.",
+    "example_jp": "彼が私を助け、今度は私が彼を助けた。"
+  },
+  {
+    "word": "in return",
+    "meaning": "(～の)お返しに",
+    "example": "He gave me a gift in return.",
+    "example_jp": "彼は私にお返しにプレゼントをくれた。"
+  },
+  {
+    "word": "out of the question",
+    "meaning": "論外である、話にならない",
+    "example": "That's out of the question.",
+    "example_jp": "それは論外だ。"
+  },
+  {
+    "word": "in question",
+    "meaning": "問題になっている、当の",
+    "example": "The man in question is my brother.",
+    "example_jp": "問題になっているその男は私の兄弟だ。"
+  },
+  {
+    "word": "on end",
+    "meaning": "続けて",
+    "example": "She talked for hours on end.",
+    "example_jp": "彼女は何時間も続けて話した。"
+  },
+  {
+    "word": "in a row",
+    "meaning": "続けて",
+    "example": "He won three times in a row.",
+    "example_jp": "彼は3回連続で勝った。"
+  },
+  {
+    "word": "so far",
+    "meaning": "これ(それ)までのところは",
+    "example": "So far, everything is fine.",
+    "example_jp": "これまでのところ、すべてうまくいっている。"
+  },
+  {
+    "word": "go so far as to do",
+    "meaning": "～までする",
+    "example": "He went so far as to insult me.",
+    "example_jp": "彼は私を侮辱するまでする。"
+  },
+  {
+    "word": "up to",
+    "meaning": "(最大で)～まで",
+    "example": "It can seat up to ten people.",
+    "example_jp": "最大10人まで座れる。"
+  },
+  {
+    "word": "up to",
+    "meaning": "～次第で",
+    "example": "It's up to you.",
+    "example_jp": "君次第だ。"
+  },
+  {
+    "word": "up to",
+    "meaning": "～(良くないこと)を企んで",
+    "example": "What is he up to now?",
+    "example_jp": "彼は今何を企んでいるんだ？"
+  },
+  {
+    "word": "leave behind",
+    "meaning": "～を置き忘れる、残していく",
+    "example": "I left my umbrella behind.",
+    "example_jp": "傘を置き忘れてきた。"
+  },
+  {
+    "word": "leave out",
+    "meaning": "～を省く、除外する",
+    "example": "Don't leave out any details.",
+    "example_jp": "どんな詳細も省かないで。"
+  },
+  {
+    "word": "rule out",
+    "meaning": "～を除外する",
+    "example": "We cannot rule out the possibility.",
+    "example_jp": "その可能性を除外することはできない。"
+  },
+  {
+    "word": "back and forth",
+    "meaning": "行ったり来たり",
+    "example": "He paced back and forth.",
+    "example_jp": "彼は行ったり来たりして歩き回った。"
+  },
+  {
+    "word": "upside down",
+    "meaning": "上下逆さまに",
+    "example": "The picture is hanging upside down.",
+    "example_jp": "その絵は上下逆さまに掛かっている。"
+  },
+  {
+    "word": "inside out",
+    "meaning": "裏返しに",
+    "example": "You are wearing your shirt inside out.",
+    "example_jp": "シャツを裏返しに着ているよ。"
+  },
+  {
+    "word": "vice versa",
+    "meaning": "その逆、逆もまた同様",
+    "example": "Men respect women and vice versa.",
+    "example_jp": "男性は女性を尊敬し、その逆もまた同様だ。"
+  }
+]

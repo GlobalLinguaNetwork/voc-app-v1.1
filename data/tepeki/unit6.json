@@ -1,0 +1,332 @@
+[
+  {
+    "word": "eternal",
+    "meaning": "永久の, 永遠の",
+    "example": "Nothing lasts for an eternal time.",
+    "example_jp": "永遠に続くものはない。"
+  },
+  {
+    "word": "rare",
+    "meaning": "稀な, めったにない",
+    "example": "It is a rare opportunity to meet him.",
+    "example_jp": "彼に会えるのは稀な機会だ。"
+  },
+  {
+    "word": "once in a while",
+    "meaning": "たまに",
+    "example": "I go for a walk once in a while.",
+    "example_jp": "私はたまに散歩に行く。"
+  },
+  {
+    "word": "occasion",
+    "meaning": "機会, 場合, 出来事",
+    "example": "I only wear a suit on special occasions.",
+    "example_jp": "特別な機会にしかスーツは着ない。"
+  },
+  {
+    "word": "now and then",
+    "meaning": "時々",
+    "example": "I see him now and then.",
+    "example_jp": "時々彼に会う。"
+  },
+  {
+    "word": "frequency",
+    "meaning": "頻度, 頻繁",
+    "example": "The frequency of these meetings is high.",
+    "example_jp": "これらの会議の頻度は高い。"
+  },
+  {
+    "word": "frequency",
+    "meaning": "周波数",
+    "example": "You can change the radio frequency.",
+    "example_jp": "ラジオの周波数を変えられる。"
+  },
+  {
+    "word": "constant",
+    "meaning": "絶え間ない, 一定の",
+    "example": "The constant noise is annoying.",
+    "example_jp": "絶え間ない騒音がうるさい。"
+  },
+  {
+    "word": "perpetual",
+    "meaning": "絶え間ない, 永久の",
+    "example": "They are in a state of perpetual war.",
+    "example_jp": "彼らは絶え間ない戦争状態にある。"
+  },
+  {
+    "word": "at the moment",
+    "meaning": "今のところは",
+    "example": "He is not available at the moment.",
+    "example_jp": "彼は今のところは手が空いていない。"
+  },
+  {
+    "word": "at present",
+    "meaning": "今のところは",
+    "example": "The problem is under control at present.",
+    "example_jp": "今のところはその問題は収まっている。"
+  },
+  {
+    "word": "for the time being",
+    "meaning": "ここしばらくは",
+    "example": "You can stay here for the time being.",
+    "example_jp": "ここしばらくはここに滞在していいよ。"
+  },
+  {
+    "word": "rapid",
+    "meaning": "急速な",
+    "example": "The country is seeing rapid growth.",
+    "example_jp": "その国は急速な成長を遂げている。"
+  },
+  {
+    "word": "immediate",
+    "meaning": "即座の； 直接の",
+    "example": "I need an immediate answer.",
+    "example_jp": "即座の返答が必要だ。"
+  },
+  {
+    "word": "prompt",
+    "meaning": "即座の, 素早い",
+    "example": "Thank you for your prompt reply.",
+    "example_jp": "迅速な返信をありがとう。"
+  },
+  {
+    "word": "prompt",
+    "meaning": "～を促す, 刺激する",
+    "example": "Curiosity prompted him to ask.",
+    "example_jp": "好奇心が彼に質問を促した。"
+  },
+  {
+    "word": "abruptly",
+    "meaning": "不意に, 突然",
+    "example": "He stood up abruptly.",
+    "example_jp": "彼は突然立ち上がった。"
+  },
+  {
+    "word": "period",
+    "meaning": "期間, 時代, 時限",
+    "example": "He lived there for a short period.",
+    "example_jp": "彼は短い期間そこに住んでいた。"
+  },
+  {
+    "word": "age",
+    "meaning": "年齢, 時代",
+    "example": "We live in the age of information.",
+    "example_jp": "私たちは情報時代に生きている。"
+  },
+  {
+    "word": "era",
+    "meaning": "時代",
+    "example": "This marks the end of an era.",
+    "example_jp": "これはひとつの時代の終わりを意味する。"
+  },
+  {
+    "word": "epoch",
+    "meaning": "新時代, 時代の幕開け",
+    "example": "This discovery opened a new epoch.",
+    "example_jp": "その発見は新時代を切り開いた。"
+  },
+  {
+    "word": "phase",
+    "meaning": "局面, 面, 段階",
+    "example": "The project is in its final phase.",
+    "example_jp": "プロジェクトは最終段階にある。"
+  },
+  {
+    "word": "decade",
+    "meaning": "10年間",
+    "example": "She has lived here for a decade.",
+    "example_jp": "彼女は10年間ここに住んでいる。"
+  },
+  {
+    "word": "annual",
+    "meaning": "毎年の, 年に1回の",
+    "example": "The annual meeting is in June.",
+    "example_jp": "年次総会は6月だ。"
+  },
+  {
+    "word": "anniversary",
+    "meaning": "記念日",
+    "example": "Today is our wedding anniversary.",
+    "example_jp": "今日は私たちの結婚記念日だ。"
+  },
+  {
+    "word": "interval",
+    "meaning": "(時間・空間の)間隔",
+    "example": "There is a short interval between acts.",
+    "example_jp": "幕間に短い間隔がある。"
+  },
+  {
+    "word": "origin",
+    "meaning": "起源, 出生",
+    "example": "The origin of the problem is unclear.",
+    "example_jp": "その問題の起源は不明だ。"
+  },
+  {
+    "word": "initial",
+    "meaning": "最初の",
+    "example": "His initial reaction was shock.",
+    "example_jp": "彼の最初の反応はショックだった。"
+  },
+  {
+    "word": "former",
+    "meaning": "以前の, 前者の",
+    "example": "He is a former member of the club.",
+    "example_jp": "彼はそのクラブの以前のメンバーだ。"
+  },
+  {
+    "word": "previous",
+    "meaning": "前の",
+    "example": "I have seen this movie on a previous occasion.",
+    "example_jp": "以前にもこの映画を見たことがある。"
+  },
+  {
+    "word": "precede",
+    "meaning": "～より先行する",
+    "example": "The parade will precede the festival.",
+    "example_jp": "パレードが祭りに先行する。"
+  },
+  {
+    "word": "posterior",
+    "meaning": "(～より)後の",
+    "example": "The event was posterior to the discovery.",
+    "example_jp": "その出来事は発見の後だった。"
+  },
+  {
+    "word": "prior",
+    "meaning": "(～より)前の",
+    "example": "I have a prior engagement.",
+    "example_jp": "以前からの約束がある。"
+  },
+  {
+    "word": "advance",
+    "meaning": "前進する, 進歩する",
+    "example": "Science continues to advance.",
+    "example_jp": "科学は進歩し続けている。"
+  },
+  {
+    "word": "advance",
+    "meaning": "進歩",
+    "example": "There has been a great advance in technology.",
+    "example_jp": "技術に大きな進歩があった。"
+  },
+  {
+    "word": "simultaneous",
+    "meaning": "同時の, 同時に起こる",
+    "example": "The two events were simultaneous.",
+    "example_jp": "その2つの出来事は同時だった。"
+  },
+  {
+    "word": "coincide",
+    "meaning": "(～と)同時に起こる, 一致する",
+    "example": "My holiday coincides with yours.",
+    "example_jp": "私の休暇はあなたの休暇と重なっている。"
+  },
+  {
+    "word": "prolong",
+    "meaning": "～(時間)を延長する",
+    "example": "We shouldn't prolong the meeting.",
+    "example_jp": "会議を延長すべきではない。"
+  },
+  {
+    "word": "postpone",
+    "meaning": "～(予定)を(…まで)延期する",
+    "example": "They had to postpone the game.",
+    "example_jp": "彼らは試合を延期しなければならなかった。"
+  },
+  {
+    "word": "delay",
+    "meaning": "～を遅らせる",
+    "example": "The rain delayed our departure.",
+    "example_jp": "雨が出発を遅らせた。"
+  },
+  {
+    "word": "delay",
+    "meaning": "遅延",
+    "example": "Sorry for the delay.",
+    "example_jp": "遅れてすみません。"
+  },
+  {
+    "word": "punctual",
+    "meaning": "時間に正確な",
+    "example": "She is always punctual.",
+    "example_jp": "彼女はいつも時間に正確だ。"
+  },
+  {
+    "word": "current",
+    "meaning": "今の",
+    "example": "What is your current job?",
+    "example_jp": "現在の仕事は何ですか。"
+  },
+  {
+    "word": "current",
+    "meaning": "流通している； 流れ",
+    "example": "The current of the river is strong.",
+    "example_jp": "川の流れが速い。"
+  },
+  {
+    "word": "out of date",
+    "meaning": "時代遅れの",
+    "example": "This information is out of date.",
+    "example_jp": "この情報は時代遅れだ。"
+  },
+  {
+    "word": "up to date",
+    "meaning": "最新の",
+    "example": "Keep your records up to date.",
+    "example_jp": "記録を最新の状態に保ちなさい。"
+  },
+  {
+    "word": "ancient",
+    "meaning": "古代の, 大昔の",
+    "example": "They visited ancient ruins.",
+    "example_jp": "彼らは古代の遺跡を訪れた。"
+  },
+  {
+    "word": "ancestor",
+    "meaning": "先祖",
+    "example": "He is proud of his ancestors.",
+    "example_jp": "彼は先祖を誇りに思っている。"
+  },
+  {
+    "word": "primitive",
+    "meaning": "原始的な, 未開の",
+    "example": "They lived in primitive conditions.",
+    "example_jp": "彼らは原始的な環境で暮らしていた。"
+  },
+  {
+    "word": "economy",
+    "meaning": "経済",
+    "example": "The national economy is growing.",
+    "example_jp": "国家経済が成長している。"
+  },
+  {
+    "word": "finance",
+    "meaning": "財政, 資金, 融資",
+    "example": "He works in finance.",
+    "example_jp": "彼は金融業界で働いている。"
+  },
+  {
+    "word": "recede",
+    "meaning": "後退する",
+    "example": "The tide began to recede.",
+    "example_jp": "潮が引き始めた。"
+  },
+  {
+    "word": "recession",
+    "meaning": "不景気, 不況",
+    "example": "The country is in a deep recession.",
+    "example_jp": "その国は深刻な不況にある。"
+  },
+  {
+    "word": "currency",
+    "meaning": "通貨",
+    "example": "They exchanged their local currency.",
+    "example_jp": "彼らは現地通貨を両替した。"
+  },
+  {
+    "word": "stock",
+    "meaning": "在庫, 株, 株式",
+    "example": "He invests in the stock market.",
+    "example_jp": "彼は株式市場に投資している。"
+  }
+]

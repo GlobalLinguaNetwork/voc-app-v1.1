@@ -1,0 +1,320 @@
+[
+  {
+    "word": "spouse",
+    "meaning": "配偶者",
+    "example": "He attended the event with his spouse.",
+    "example_jp": "彼は配偶者と一緒にそのイベントに出席した。"
+  },
+  {
+    "word": "society",
+    "meaning": "社会",
+    "example": "We should contribute to society.",
+    "example_jp": "私たちは社会に貢献すべきだ。"
+  },
+  {
+    "word": "society",
+    "meaning": "社交",
+    "example": "She enjoys the world of high society.",
+    "example_jp": "彼女は社交界の世界を楽しんでいる。"
+  },
+  {
+    "word": "community",
+    "meaning": "地域社会、共同体",
+    "example": "He is a leader in the local community.",
+    "example_jp": "彼は地域社会のリーダーだ。"
+  },
+  {
+    "word": "communicate",
+    "meaning": "(～と)意志の疎通をする",
+    "example": "It is important to communicate effectively.",
+    "example_jp": "効果的に意志を疎通させることが重要だ。"
+  },
+  {
+    "word": "acquainted",
+    "meaning": "知り合いである",
+    "example": "I am acquainted with his work.",
+    "example_jp": "彼の仕事については知り合いだ（よく知っている）。"
+  },
+  {
+    "word": "intimate",
+    "meaning": "親しい、親密な",
+    "example": "They have an intimate relationship.",
+    "example_jp": "彼らは親密な関係にある。"
+  },
+  {
+    "word": "hostile",
+    "meaning": "敵意のある",
+    "example": "He gave me a hostile look.",
+    "example_jp": "彼は私に敵意のある視線を向けた。"
+  },
+  {
+    "word": "hospitality",
+    "meaning": "歓待、もてなし",
+    "example": "Thank you for your warm hospitality.",
+    "example_jp": "温かいおもてなしをありがとうございます。"
+  },
+  {
+    "word": "sympathy",
+    "meaning": "同情",
+    "example": "I have deep sympathy for the victims.",
+    "example_jp": "犠牲者の方々に深い同情を寄せます。"
+  },
+  {
+    "word": "empathy",
+    "meaning": "共感、感情移入",
+    "example": "She has great empathy for others.",
+    "example_jp": "彼女は他人に対して深い共感を持っている。"
+  },
+  {
+    "word": "pity",
+    "meaning": "あわれむ",
+    "example": "I pity him because he has no friends.",
+    "example_jp": "友達が一人もいない彼をあわれむ。"
+  },
+  {
+    "word": "pity",
+    "meaning": "残念なこと",
+    "example": "It is a pity that you cannot come.",
+    "example_jp": "あなたが来られないとは残念だ。"
+  },
+  {
+    "word": "mercy",
+    "meaning": "慈悲、あわれみ",
+    "example": "He begged for mercy.",
+    "example_jp": "彼は慈悲を乞うた。"
+  },
+  {
+    "word": "envy",
+    "meaning": "うらやむ",
+    "example": "I envy your success.",
+    "example_jp": "あなたの成功をうらやむ。"
+  },
+  {
+    "word": "envy",
+    "meaning": "ねたみ",
+    "example": "He was filled with envy.",
+    "example_jp": "彼はねたみで満たされていた。"
+  },
+  {
+    "word": "jealous",
+    "meaning": "嫉妬した",
+    "example": "Don't be jealous of others.",
+    "example_jp": "他人を嫉妬してはいけない。"
+  },
+  {
+    "word": "contempt",
+    "meaning": "軽蔑",
+    "example": "He treated them with contempt.",
+    "example_jp": "彼は彼らを軽蔑して扱った。"
+  },
+  {
+    "word": "scorn",
+    "meaning": "軽蔑",
+    "example": "He laughed with scorn.",
+    "example_jp": "彼は軽蔑して笑った。"
+  },
+  {
+    "word": "despise",
+    "meaning": "軽蔑する",
+    "example": "I despise liars.",
+    "example_jp": "私は嘘つきを軽蔑する。"
+  },
+  {
+    "word": "look down on",
+    "meaning": "軽蔑する",
+    "example": "Never look down on anyone.",
+    "example_jp": "決して誰かを軽蔑してはいけない。"
+  },
+  {
+    "word": "disgust",
+    "meaning": "嫌悪、むかつかせる",
+    "example": "The sight of the trash filled me with disgust.",
+    "example_jp": "ゴミの光景を見て嫌悪感に包まれた。"
+  },
+  {
+    "word": "hatred",
+    "meaning": "憎悪",
+    "example": "There is so much hatred in the world.",
+    "example_jp": "世界にはあまりに多くの憎悪がある。"
+  },
+  {
+    "word": "insult",
+    "meaning": "侮辱（する）",
+    "example": "It was a personal insult.",
+    "example_jp": "それは個人的な侮辱だった。"
+  },
+  {
+    "word": "humiliate",
+    "meaning": "屈辱を与える",
+    "example": "He humiliated her in front of everyone.",
+    "example_jp": "彼は皆の前で彼女に屈辱を与えた。"
+  },
+  {
+    "word": "curse",
+    "meaning": "呪う、ののしる",
+    "example": "He cursed his bad luck.",
+    "example_jp": "彼は自分の不運をののしった。"
+  },
+  {
+    "word": "endure",
+    "meaning": "耐える、我慢する",
+    "example": "He endured great pain.",
+    "example_jp": "彼は大きな痛みに耐えた。"
+  },
+  {
+    "word": "durable",
+    "meaning": "耐久性のある",
+    "example": "This material is very durable.",
+    "example_jp": "この素材はとても耐久性がある。"
+  },
+  {
+    "word": "put up with",
+    "meaning": "耐える、我慢する",
+    "example": "I cannot put up with the noise.",
+    "example_jp": "その騒音には我慢できない。"
+  },
+  {
+    "word": "compromise",
+    "meaning": "妥協（する）",
+    "example": "We reached a compromise.",
+    "example_jp": "私たちは妥協点に達した。"
+  },
+  {
+    "word": "praise",
+    "meaning": "賞賛、ほめる",
+    "example": "The teacher praised his hard work.",
+    "example_jp": "先生は彼の努力をほめた。"
+  },
+  {
+    "word": "award",
+    "meaning": "賞、賞を与える",
+    "example": "He was awarded a gold medal.",
+    "example_jp": "彼は金メダルを授与された。"
+  },
+  {
+    "word": "reward",
+    "meaning": "報酬",
+    "example": "He received a reward for his work.",
+    "example_jp": "彼は仕事に対する報酬を受け取った。"
+  },
+  {
+    "word": "compliment",
+    "meaning": "お世辞（を言う）",
+    "example": "She gave me a nice compliment.",
+    "example_jp": "彼女は私に素敵な賛辞をくれた。"
+  },
+  {
+    "word": "flatter",
+    "meaning": "おだてる",
+    "example": "He tried to flatter the boss.",
+    "example_jp": "彼は上司をおだてようとした。"
+  },
+  {
+    "word": "spoil",
+    "meaning": "甘やかす、台無しにする",
+    "example": "Don't spoil the child.",
+    "example_jp": "その子供を甘やかしてはいけない。"
+  },
+  {
+    "word": "congratulate",
+    "meaning": "祝う、お祝いを述べる",
+    "example": "I want to congratulate you on your success.",
+    "example_jp": "君の成功を祝いたい。"
+  },
+  {
+    "word": "grateful",
+    "meaning": "感謝している、ありがたく思う",
+    "example": "I am grateful for your help.",
+    "example_jp": "あなたの助けに感謝しています。"
+  },
+  {
+    "word": "appreciate",
+    "meaning": "正しく評価する、感謝する、鑑賞する",
+    "example": "I appreciate your advice.",
+    "example_jp": "あなたの助言に感謝します。"
+  },
+  {
+    "word": "gratitude",
+    "meaning": "感謝",
+    "example": "I want to express my gratitude.",
+    "example_jp": "感謝の気持ちを表したい。"
+  },
+  {
+    "word": "admire",
+    "meaning": "感心する、賞賛する",
+    "example": "I admire her courage.",
+    "example_jp": "彼女の勇気に感心する。"
+  },
+  {
+    "word": "esteem",
+    "meaning": "尊敬する、尊重する",
+    "example": "I hold him in high esteem.",
+    "example_jp": "私は彼を高く尊敬している。"
+  },
+  {
+    "word": "adore",
+    "meaning": "崇拝する、敬愛する",
+    "example": "He adores his grandmother.",
+    "example_jp": "彼は祖母を敬愛している。"
+  },
+  {
+    "word": "dignity",
+    "meaning": "威厳",
+    "example": "He behaved with great dignity.",
+    "example_jp": "彼はとても威厳を持って振る舞った。"
+  },
+  {
+    "word": "cooperate",
+    "meaning": "協力する",
+    "example": "They agreed to cooperate with each other.",
+    "example_jp": "彼らはお互いに協力することに同意した。"
+  },
+  {
+    "word": "loyal",
+    "meaning": "忠実な",
+    "example": "The dog is loyal to its owner.",
+    "example_jp": "その犬は飼い主に忠実だ。"
+  },
+  {
+    "word": "betray",
+    "meaning": "裏切る、暴露する",
+    "example": "He betrayed his best friend.",
+    "example_jp": "彼は親友を裏切った。"
+  },
+  {
+    "word": "make fun of",
+    "meaning": "からかう",
+    "example": "It is not nice to make fun of others.",
+    "example_jp": "他人をからかうのは良くない。"
+  },
+  {
+    "word": "tease",
+    "meaning": "いじめる、からかう",
+    "example": "The children teased him about his haircut.",
+    "example_jp": "子供たちが彼の髪型をからかった。"
+  },
+  {
+    "word": "bully",
+    "meaning": "いじめる",
+    "example": "He was bullied at school.",
+    "example_jp": "彼は学校でいじめられていた。"
+  },
+  {
+    "word": "bother",
+    "meaning": "悩ます、迷惑をかける",
+    "example": "Don't bother me while I am busy.",
+    "example_jp": "忙しい時に邪魔しないで。"
+  },
+  {
+    "word": "nuisance",
+    "meaning": "迷惑行為、迷惑な人",
+    "example": "The noise is a nuisance.",
+    "example_jp": "その騒音は迷惑だ。"
+  },
+  {
+    "word": "value",
+    "meaning": "価値、価値観、重んじる",
+    "example": "I value your opinion.",
+    "example_jp": "私はあなたの意見を重んじている。"
+  }
+]

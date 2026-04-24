@@ -1,0 +1,188 @@
+[
+  {
+    "word": "rectangular",
+    "meaning": "長方形の",
+    "example": "The table is rectangular.",
+    "example_jp": "そのテーブルは長方形だ。"
+  },
+  {
+    "word": "diameter",
+    "meaning": "直径",
+    "example": "The circle has a diameter of ten centimeters.",
+    "example_jp": "その円の直径は10センチメートルだ。"
+  },
+  {
+    "word": "soothe",
+    "meaning": "～をなだめる、和らげる",
+    "example": "The music helped soothe the baby.",
+    "example_jp": "その音楽が赤ちゃんをなだめるのに役立った。"
+  },
+  {
+    "word": "wither",
+    "meaning": "しおれる、弱まる",
+    "example": "The flowers began to wither without water.",
+    "example_jp": "水がなくて花がしおれ始めた。"
+  },
+  {
+    "word": "surge",
+    "meaning": "急増、急騰",
+    "example": "There was a sudden surge in stock prices.",
+    "example_jp": "株価が突然急騰した。"
+  },
+  {
+    "word": "surge",
+    "meaning": "急増する、急騰する",
+    "example": "The number of tourists surged this summer.",
+    "example_jp": "この夏、観光客の数が急増した。"
+  },
+  {
+    "word": "proliferate",
+    "meaning": "急増する、繁殖する",
+    "example": "Small shops are proliferating in the area.",
+    "example_jp": "その地域では小さな店が急増している。"
+  },
+  {
+    "word": "fetch",
+    "meaning": "～を取ってくる, 連れてくる",
+    "example": "Could you fetch me a glass of water?",
+    "example_jp": "水を一杯取ってきてくれますか。"
+  },
+  {
+    "word": "immerse",
+    "meaning": "～を浸す",
+    "example": "Immerse the cloth in warm water.",
+    "example_jp": "布をぬるま湯に浸してください。"
+  },
+  {
+    "word": "immerse",
+    "meaning": "没頭させる",
+    "example": "She immersed herself in her studies.",
+    "example_jp": "彼女は勉強に没頭した。"
+  },
+  {
+    "word": "hamper",
+    "meaning": "～を妨げる",
+    "example": "The heavy snow hampered the rescue efforts.",
+    "example_jp": "大雪が救助活動を妨げた。"
+  },
+  {
+    "word": "forge",
+    "meaning": "～を偽造する",
+    "example": "He tried to forge his father's signature.",
+    "example_jp": "彼は父親の署名を偽造しようとした。"
+  },
+  {
+    "word": "token",
+    "meaning": "しるし",
+    "example": "Please accept this gift as a token of my gratitude.",
+    "example_jp": "感謝のしるしとして、この贈り物を受け取ってください。"
+  },
+  {
+    "word": "mock",
+    "meaning": "～をあざ笑う",
+    "example": "It's not nice to mock others.",
+    "example_jp": "他人をあざ笑うのは良くない。"
+  },
+  {
+    "word": "mock",
+    "meaning": "模擬の、偽の",
+    "example": "We took a mock exam last week.",
+    "example_jp": "先週、模擬試験を受けた。"
+  },
+  {
+    "word": "toll",
+    "meaning": "損害、死傷者",
+    "example": "The death toll continues to rise.",
+    "example_jp": "死者数は増え続けている。"
+  },
+  {
+    "word": "toll",
+    "meaning": "通行料、通話料",
+    "example": "You have to pay a toll to use this bridge.",
+    "example_jp": "この橋を使うには通行料を払わなければならない。"
+  },
+  {
+    "word": "doom",
+    "meaning": "運命, 宿命",
+    "example": "They felt a sense of inevitable doom.",
+    "example_jp": "彼らは避けられない宿命のようなものを感じた。"
+  },
+  {
+    "word": "doom",
+    "meaning": "～を運命づける",
+    "example": "The mistake doomed the project to failure.",
+    "example_jp": "そのミスがプロジェクトを失敗という運命づけた。"
+  },
+  {
+    "word": "flaw",
+    "meaning": "ひび、欠陥",
+    "example": "There is a slight flaw in the diamond.",
+    "example_jp": "そのダイヤモンドにはわずかな欠陥がある。"
+  },
+  {
+    "word": "cater",
+    "meaning": "食事などをまかなう、要求に応じる",
+    "example": "The hotel caters to business travelers.",
+    "example_jp": "そのホテルはビジネス客のニーズに応えている。"
+  },
+  {
+    "word": "edible",
+    "meaning": "食べられる",
+    "example": "Are these wild mushrooms edible?",
+    "example_jp": "この野生のキノコは食べられますか。"
+  },
+  {
+    "word": "delinquent",
+    "meaning": "非行の",
+    "example": "He was a delinquent teenager.",
+    "example_jp": "彼は非行少年のティーンエイジャーだった。"
+  },
+  {
+    "word": "gigantic",
+    "meaning": "巨大な、大きな",
+    "example": "The ship was absolutely gigantic.",
+    "example_jp": "その船は本当に巨大だった。"
+  },
+  {
+    "word": "static",
+    "meaning": "静止した、動きのない",
+    "example": "The population of the village has remained static.",
+    "example_jp": "その村の人口は静止したままだ（変わっていない）。"
+  },
+  {
+    "word": "antique",
+    "meaning": "古い、骨董の",
+    "example": "She collects antique furniture.",
+    "example_jp": "彼女は骨董家具を集めている。"
+  },
+  {
+    "word": "transact",
+    "meaning": "～(業務・取引)を処理する、行う",
+    "example": "Most business is now transacted online.",
+    "example_jp": "ほとんどの取引は現在オンラインで行われている。"
+  },
+  {
+    "word": "ornament",
+    "meaning": "装飾",
+    "example": "Christmas ornaments hang from the tree.",
+    "example_jp": "クリスマスの装飾が木に吊るされている。"
+  },
+  {
+    "word": "corridor",
+    "meaning": "廊下",
+    "example": "The rooms are located along a long corridor.",
+    "example_jp": "部屋は長い廊下に沿って配置されている。"
+  },
+  {
+    "word": "warrant",
+    "meaning": "～を保証する、正当化する",
+    "example": "The situation does not warrant such a strong reaction.",
+    "example_jp": "その状況は、それほど強い反応を正当化しない。"
+  },
+  {
+    "word": "mischief",
+    "meaning": "いたずら、悪さ",
+    "example": "The children are always getting into mischief.",
+    "example_jp": "子供たちはいつもいたずらばかりしている。"
+  }
+]

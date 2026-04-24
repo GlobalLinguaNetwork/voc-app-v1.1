@@ -1,0 +1,332 @@
+[
+  {
+    "word": "probe",
+    "meaning": "探査、探査機",
+    "example": "The space probe sent images of Mars.",
+    "example_jp": "その探査機は火星の画像を送信した。"
+  },
+  {
+    "word": "probe",
+    "meaning": "～を厳密に調べる",
+    "example": "Police are probing the cause of the accident.",
+    "example_jp": "警察は事故の原因を厳密に調べている。"
+  },
+  {
+    "word": "scrutinize",
+    "meaning": "～を綿密に調べる",
+    "example": "The auditor will scrutinize the accounts.",
+    "example_jp": "監査人が会計を綿密に調べるだろう。"
+  },
+  {
+    "word": "verify",
+    "meaning": "～を証明する、確かめる",
+    "example": "Please verify your email address.",
+    "example_jp": "メールアドレスを確認してください。"
+  },
+  {
+    "word": "census",
+    "meaning": "国勢調査",
+    "example": "The government conducts a census every ten years.",
+    "example_jp": "政府は10年ごとに国勢調査を行う。"
+  },
+  {
+    "word": "censorship",
+    "meaning": "検閲",
+    "example": "The movie suffered from strict censorship.",
+    "example_jp": "その映画は厳しい検閲を受けた。"
+  },
+  {
+    "word": "index",
+    "meaning": "指標、指針、指数",
+    "example": "The consumer price index has risen.",
+    "example_jp": "消費者物価指数が上昇した。"
+  },
+  {
+    "word": "index",
+    "meaning": "見出し",
+    "example": "Check the index at the back of the book.",
+    "example_jp": "本の巻末にある索引（見出し）を確認してください。"
+  },
+  {
+    "word": "defy",
+    "meaning": "～を拒む、に反抗する",
+    "example": "Some students defy the school rules.",
+    "example_jp": "一部の生徒は校則に反抗している。"
+  },
+  {
+    "word": "comply",
+    "meaning": "～に従う、合致する",
+    "example": "You must comply with the safety regulations.",
+    "example_jp": "安全規則に従わなければならない。"
+  },
+  {
+    "word": "synthesize",
+    "meaning": "～を総合する、合成する",
+    "example": "Plants synthesize nutrients from sunlight.",
+    "example_jp": "植物は日光から栄養分を合成する。"
+  },
+  {
+    "word": "coordinate",
+    "meaning": "～を同調して動かす、調整する",
+    "example": "We need to coordinate our efforts.",
+    "example_jp": "私たちは努力を調整（連携）させる必要がある。"
+  },
+  {
+    "word": "subordinate",
+    "meaning": "従属している、下位の、二次的な",
+    "example": "He is in a subordinate position in the company.",
+    "example_jp": "彼は社内で下位の立場にいる。"
+  },
+  {
+    "word": "subordinate",
+    "meaning": "従属するもの、下位のもの",
+    "example": "The manager treats his subordinates with respect.",
+    "example_jp": "マネージャーは部下（従属するもの）に敬意を持って接する。"
+  },
+  {
+    "word": "subordinate",
+    "meaning": "～を従属させる",
+    "example": "She subordinated her personal life to her career.",
+    "example_jp": "彼女は私生活をキャリアに従属させた。"
+  },
+  {
+    "word": "incorporate",
+    "meaning": "～を組み込む",
+    "example": "We should incorporate your ideas into the plan.",
+    "example_jp": "あなたのアイデアを計画に組み込むべきだ。"
+  },
+  {
+    "word": "comprise",
+    "meaning": "～を構成する、～からなる",
+    "example": "The committee comprises ten members.",
+    "example_jp": "委員会は10人のメンバーで構成されている。"
+  },
+  {
+    "word": "manipulate",
+    "meaning": "～を操作する、あやつる",
+    "example": "He knows how to manipulate the software.",
+    "example_jp": "彼はそのソフトウェアの操作方法を知っている。"
+  },
+  {
+    "word": "tangible",
+    "meaning": "触れることができる、明白な、具体的な",
+    "example": "We need tangible evidence to prove it.",
+    "example_jp": "それを証明するための具体的な証拠が必要だ。"
+  },
+  {
+    "word": "designate",
+    "meaning": "～を指名する、指定する",
+    "example": "This area is designated as a no-smoking zone.",
+    "example_jp": "この区域は禁煙ゾーンに指定されている。"
+  },
+  {
+    "word": "depict",
+    "meaning": "～を描く",
+    "example": "The painting depicts a rural landscape.",
+    "example_jp": "その絵は田舎の風景を描いている。"
+  },
+  {
+    "word": "ingenious",
+    "meaning": "創意工夫に富んだ",
+    "example": "She came up with an ingenious solution.",
+    "example_jp": "彼女は創意工夫に富んだ解決策を考え出した。"
+  },
+  {
+    "word": "ingenuous",
+    "meaning": "純真な、無邪気な",
+    "example": "He gave an ingenuous smile.",
+    "example_jp": "彼は純真な笑みを浮かべた。"
+  },
+  {
+    "word": "proximity",
+    "meaning": "近いこと",
+    "example": "The hotel is popular due to its proximity to the beach.",
+    "example_jp": "そのホテルはビーチに近いことで人気がある。"
+  },
+  {
+    "word": "dismay",
+    "meaning": "～を動揺させる、動揺",
+    "example": "The bad news filled her with dismay.",
+    "example_jp": "悪い知らせに彼女は動揺した。"
+  },
+  {
+    "word": "appall",
+    "meaning": "～をぎょっとさせる",
+    "example": "The conditions in the camp appall me.",
+    "example_jp": "キャンプの環境にぎょっとさせられる。"
+  },
+  {
+    "word": "stun",
+    "meaning": "～をびっくりさせる、茫然とさせる",
+    "example": "The news of his resignation stunned everyone.",
+    "example_jp": "彼の辞任のニュースに誰もが茫然とした。"
+  },
+  {
+    "word": "marvel",
+    "meaning": "～に驚く、驚き",
+    "example": "I marvel at her patience.",
+    "example_jp": "彼女の忍耐強さには驚かされる。"
+  },
+  {
+    "word": "perplex",
+    "meaning": "～を当惑させる",
+    "example": "The complex instructions perplexed him.",
+    "example_jp": "複雑な指示に彼は当惑した。"
+  },
+  {
+    "word": "bewilder",
+    "meaning": "～を当惑させる",
+    "example": "The city's layout bewildered the tourists.",
+    "example_jp": "街の構造に観光客は当惑した。"
+  },
+  {
+    "word": "astound",
+    "meaning": "～をびっくりさせる",
+    "example": "Her speed astounded the judges.",
+    "example_jp": "彼女のスピードに審査員はびっくりした。"
+  },
+  {
+    "word": "startle",
+    "meaning": "～をびっくりさせる",
+    "example": "The loud noise startled the baby.",
+    "example_jp": "大きな音に赤ちゃんがびっくりした。"
+  },
+  {
+    "word": "anticipate",
+    "meaning": "～を予期する",
+    "example": "We anticipate a large crowd at the event.",
+    "example_jp": "イベントには大勢の人が来ると予期している。"
+  },
+  {
+    "word": "apprehension",
+    "meaning": "懸念、不安",
+    "example": "She felt a sense of apprehension about the future.",
+    "example_jp": "彼女は将来に不安を感じていた。"
+  },
+  {
+    "word": "deplore",
+    "meaning": "～を嘆く",
+    "example": "Many people deplore the loss of rainforests.",
+    "example_jp": "多くの人が熱帯雨林の喪失を嘆いている。"
+  },
+  {
+    "word": "agony",
+    "meaning": "苦悩、苦痛",
+    "example": "He was in agony after the accident.",
+    "example_jp": "事故の後、彼は激しい苦痛の中にいた。"
+  },
+  {
+    "word": "inflict",
+    "meaning": "～(苦痛・打撃)を与える",
+    "example": "They inflicted heavy losses on the enemy.",
+    "example_jp": "彼らは敵に大きな打撃を与えた。"
+  },
+  {
+    "word": "afflict",
+    "meaning": "～を苦しめる",
+    "example": "The region is afflicted by drought.",
+    "example_jp": "その地域は干ばつに苦しんでいる。"
+  },
+  {
+    "word": "ambivalent",
+    "meaning": "矛盾する、相反する、どちらか決めかねて",
+    "example": "I feel ambivalent about my new job.",
+    "example_jp": "新しい仕事について複雑な心境だ。"
+  },
+  {
+    "word": "arbitrary",
+    "meaning": "任意の、独断的な、恣意的な、気まぐれな",
+    "example": "The decision seemed completely arbitrary.",
+    "example_jp": "その決定は完全に恣意的（独断的）に見えた。"
+  },
+  {
+    "word": "unanimous",
+    "meaning": "満場一致の",
+    "example": "The committee reached a unanimous decision.",
+    "example_jp": "委員会は満場一致の決定を下した。"
+  },
+  {
+    "word": "consensus",
+    "meaning": "意見の一致、合意",
+    "example": "There is a general consensus on this issue.",
+    "example_jp": "この問題については概ね合意が得られている。"
+  },
+  {
+    "word": "ponder",
+    "meaning": "～をじっくり考える",
+    "example": "I need some time to ponder the offer.",
+    "example_jp": "その申し出についてじっくり考える時間が必要だ。"
+  },
+  {
+    "word": "reckon",
+    "meaning": "～を推定する、と考える",
+    "example": "I reckon it will take about an hour.",
+    "example_jp": "だいたい1時間くらいかかると思う。"
+  },
+  {
+    "word": "soar",
+    "meaning": "急上昇する、高く舞い上がる",
+    "example": "Stock prices soared after the announcement.",
+    "example_jp": "発表後、株価が急上昇した。"
+  },
+  {
+    "word": "roar",
+    "meaning": "鳴り響く、吠える",
+    "example": "The lion let out a loud roar.",
+    "example_jp": "ライオンが大きく吠えた。"
+  },
+  {
+    "word": "peer",
+    "meaning": "仲間、同等の人",
+    "example": "Children often want to be accepted by their peers.",
+    "example_jp": "子供はしばしば仲間に受け入れられたいと思う。"
+  },
+  {
+    "word": "reap",
+    "meaning": "～を収穫する、手に入れる",
+    "example": "You will reap the rewards of your hard work.",
+    "example_jp": "努力の報酬を手に入れることができるだろう。"
+  },
+  {
+    "word": "curb",
+    "meaning": "～を抑制する",
+    "example": "The government is trying to curb inflation.",
+    "example_jp": "政府はインフレを抑制しようとしている。"
+  },
+  {
+    "word": "curb",
+    "meaning": "縁石",
+    "example": "He tripped over the curb.",
+    "example_jp": "彼は縁石につまずいた。"
+  },
+  {
+    "word": "carve",
+    "meaning": "～を彫る、作る",
+    "example": "He carved a statue out of wood.",
+    "example_jp": "彼は木から像を彫り出した。"
+  },
+  {
+    "word": "cue",
+    "meaning": "合図、指図",
+    "example": "That's my cue to enter the stage.",
+    "example_jp": "それが私のステージ登場の合図だ。"
+  },
+  {
+    "word": "queue",
+    "meaning": "行列",
+    "example": "There was a long queue for the tickets.",
+    "example_jp": "チケットを買うための長い行列ができていた。"
+  },
+  {
+    "word": "slap",
+    "meaning": "～をぴしゃりと叩く",
+    "example": "She slapped him on the cheek.",
+    "example_jp": "彼女は彼の頬をぴしゃりと叩いた。"
+  },
+  {
+    "word": "clap",
+    "meaning": "～(手)を叩く",
+    "example": "The audience began to clap.",
+    "example_jp": "観客が拍手し始めた。"
+  }
+]

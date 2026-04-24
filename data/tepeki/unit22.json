@@ -1,0 +1,314 @@
+[
+  {
+    "word": "monarchy",
+    "meaning": "君主政治",
+    "example": "The country is a constitutional monarchy.",
+    "example_jp": "その国は立憲君主制だ。"
+  },
+  {
+    "word": "aristocracy",
+    "meaning": "貴族階級、貴族社会",
+    "example": "He was born into the aristocracy.",
+    "example_jp": "彼は貴族階級に生まれた。"
+  },
+  {
+    "word": "bureaucracy",
+    "meaning": "官僚、官僚主義",
+    "example": "The project was delayed by bureaucracy.",
+    "example_jp": "そのプロジェクトは官僚主義によって遅延した。"
+  },
+  {
+    "word": "ideology",
+    "meaning": "イデオロギー、思考傾向",
+    "example": "Political ideology shapes his views.",
+    "example_jp": "政治的イデオロギーが彼の見方を形成している。"
+  },
+  {
+    "word": "communism",
+    "meaning": "共産主義",
+    "example": "He studied the history of communism.",
+    "example_jp": "彼は共産主義の歴史を学んだ。"
+  },
+  {
+    "word": "socialism",
+    "meaning": "社会主義",
+    "example": "The country is moving toward socialism.",
+    "example_jp": "その国は社会主義に向かっている。"
+  },
+  {
+    "word": "nationalism",
+    "meaning": "国家主義",
+    "example": "The rise of nationalism worried neighboring countries.",
+    "example_jp": "国家主義の台頭が近隣諸国を不安にさせた。"
+  },
+  {
+    "word": "patriotism",
+    "meaning": "愛国主義",
+    "example": "He showed great patriotism during the war.",
+    "example_jp": "彼は戦争中、強い愛国心を示した。"
+  },
+  {
+    "word": "govern",
+    "meaning": "統治する",
+    "example": "It is difficult to govern such a large nation.",
+    "example_jp": "これほど大きな国家を統治するのは難しい。"
+  },
+  {
+    "word": "govern",
+    "meaning": "決定する、左右する",
+    "example": "Economic factors govern our future.",
+    "example_jp": "経済的要因が我々の未来を左右する。"
+  },
+  {
+    "word": "reign",
+    "meaning": "統治、治世",
+    "example": "During her reign, the country prospered.",
+    "example_jp": "彼女の治世の間、国は繁栄した。"
+  },
+  {
+    "word": "reign",
+    "meaning": "君臨する",
+    "example": "The queen reigned for fifty years.",
+    "example_jp": "女王は50年間君臨した。"
+  },
+  {
+    "word": "tyranny",
+    "meaning": "専制政治、暴政",
+    "example": "They fought against the tyranny of the leader.",
+    "example_jp": "彼らは指導者の専制政治と戦った。"
+  },
+  {
+    "word": "administer",
+    "meaning": "～を管理する、運営する",
+    "example": "The foundation administers several hospitals.",
+    "example_jp": "その財団はいくつかの病院を運営している。"
+  },
+  {
+    "word": "policy",
+    "meaning": "政策、方針",
+    "example": "The government changed its foreign policy.",
+    "example_jp": "政府は外交方針を変更した。"
+  },
+  {
+    "word": "welfare",
+    "meaning": "福祉、幸福",
+    "example": "The government is concerned with child welfare.",
+    "example_jp": "政府は児童福祉を懸念している。"
+  },
+  {
+    "word": "ministry",
+    "meaning": "省庁",
+    "example": "He works at the Ministry of Finance.",
+    "example_jp": "彼は財務省で働いている。"
+  },
+  {
+    "word": "minister",
+    "meaning": "大臣、牧師",
+    "example": "The Prime Minister met with the cabinet ministers.",
+    "example_jp": "首相は閣僚たちと会談した。"
+  },
+  {
+    "word": "diplomat",
+    "meaning": "外交官",
+    "example": "She served as a diplomat in many countries.",
+    "example_jp": "彼女は多くの国で外交官として務めた。"
+  },
+  {
+    "word": "embassy",
+    "meaning": "大使館",
+    "example": "I visited the Japanese embassy.",
+    "example_jp": "日本大使館を訪れた。"
+  },
+  {
+    "word": "ambassador",
+    "meaning": "大使",
+    "example": "The ambassador gave a speech.",
+    "example_jp": "大使が演説をした。"
+  },
+  {
+    "word": "treaty",
+    "meaning": "条約",
+    "example": "The two nations signed a peace treaty.",
+    "example_jp": "両国は平和条約に調印した。"
+  },
+  {
+    "word": "legislate",
+    "meaning": "法律を制定する",
+    "example": "They have the power to legislate.",
+    "example_jp": "彼らには法律を制定する権限がある。"
+  },
+  {
+    "word": "congress",
+    "meaning": "国会、議会、会議",
+    "example": "The US Congress passed the new bill.",
+    "example_jp": "米国議会が新法案を可決した。"
+  },
+  {
+    "word": "Senate",
+    "meaning": "上院",
+    "example": "The Senate voted in favor of the bill.",
+    "example_jp": "上院はその法案に賛成票を投じた。"
+  },
+  {
+    "word": "parliament",
+    "meaning": "国会",
+    "example": "He was elected to parliament.",
+    "example_jp": "彼は国会議員に選出された。"
+  },
+  {
+    "word": "Diet",
+    "meaning": "国会、議会",
+    "example": "The bill was submitted to the Diet.",
+    "example_jp": "法案が国会に提出された。"
+  },
+  {
+    "word": "council",
+    "meaning": "議会、評議会、審議会",
+    "example": "The city council met to discuss the budget.",
+    "example_jp": "市議会が予算を議論するために会合した。"
+  },
+  {
+    "word": "federal",
+    "meaning": "(米国)連邦の",
+    "example": "This is a matter for federal law.",
+    "example_jp": "これは連邦法の問題だ。"
+  },
+  {
+    "word": "bill",
+    "meaning": "請求書、紙幣、法案",
+    "example": "The congress is discussing the bill.",
+    "example_jp": "議会は法案を議論している。"
+  },
+  {
+    "word": "abolish",
+    "meaning": "～を廃止する",
+    "example": "The government decided to abolish the tax.",
+    "example_jp": "政府はその税を廃止することに決めた。"
+  },
+  {
+    "word": "elect",
+    "meaning": "～を選出する",
+    "example": "They elected him as the new leader.",
+    "example_jp": "彼らは彼を新しいリーダーに選出した。"
+  },
+  {
+    "word": "vote",
+    "meaning": "(～に)投票する、投票",
+    "example": "Did you vote in the election?",
+    "example_jp": "選挙で投票しましたか。"
+  },
+  {
+    "word": "poll",
+    "meaning": "投票、世論調査",
+    "example": "According to the latest poll, he is popular.",
+    "example_jp": "最新の世論調査によると、彼は人気がある。"
+  },
+  {
+    "word": "run for",
+    "meaning": "～に出馬する",
+    "example": "She decided to run for mayor.",
+    "example_jp": "彼女は市長選挙に出馬することに決めた。"
+  },
+  {
+    "word": "mayor",
+    "meaning": "市長",
+    "example": "The mayor attended the opening ceremony.",
+    "example_jp": "市長が開会式に出席した。"
+  },
+  {
+    "word": "governor",
+    "meaning": "知事",
+    "example": "The governor announced the new project.",
+    "example_jp": "知事が新しいプロジェクトを発表した。"
+  },
+  {
+    "word": "industry",
+    "meaning": "産業、工業、勤勉",
+    "example": "The auto industry is very important here.",
+    "example_jp": "自動車産業はここにとって非常に重要だ。"
+  },
+  {
+    "word": "sector",
+    "meaning": "部門",
+    "example": "He works in the private sector.",
+    "example_jp": "彼は民間部門で働いている。"
+  },
+  {
+    "word": "agriculture",
+    "meaning": "農業",
+    "example": "The economy depends on agriculture.",
+    "example_jp": "経済は農業に依存している。"
+  },
+  {
+    "word": "cultivate",
+    "meaning": "～を耕す、～(才能など)を磨く・養う",
+    "example": "She is trying to cultivate her musical talent.",
+    "example_jp": "彼女は自分の音楽的才能を磨こうとしている。"
+  },
+  {
+    "word": "culture",
+    "meaning": "文化、教養、栽培",
+    "example": "This is a part of our traditional culture.",
+    "example_jp": "これは私たちの伝統文化の一部だ。"
+  },
+  {
+    "word": "crop",
+    "meaning": "作物、収穫",
+    "example": "The farmers are harvesting the crop.",
+    "example_jp": "農家の人々が作物を収穫している。"
+  },
+  {
+    "word": "harvest",
+    "meaning": "収穫、収穫高、～を収穫する",
+    "example": "The harvest was successful this year.",
+    "example_jp": "今年は収穫がうまくいった。"
+  },
+  {
+    "word": "soil",
+    "meaning": "土、土壌",
+    "example": "The soil in this area is very rich.",
+    "example_jp": "この地域の土壌は非常に肥沃だ。"
+  },
+  {
+    "word": "fertile",
+    "meaning": "肥沃な",
+    "example": "The valley has fertile land.",
+    "example_jp": "その谷には肥沃な土地がある。"
+  },
+  {
+    "word": "barren",
+    "meaning": "不毛な",
+    "example": "Nothing grows in this barren land.",
+    "example_jp": "この不毛な土地では何も育たない。"
+  },
+  {
+    "word": "irrigation",
+    "meaning": "灌漑",
+    "example": "They built an irrigation system.",
+    "example_jp": "彼らは灌漑システムを建設した。"
+  },
+  {
+    "word": "grain",
+    "meaning": "穀物",
+    "example": "Rice is a staple grain.",
+    "example_jp": "米は主食の穀物だ。"
+  },
+  {
+    "word": "wheat",
+    "meaning": "小麦",
+    "example": "They are growing wheat in the field.",
+    "example_jp": "彼らは畑で小麦を育てている。"
+  },
+  {
+    "word": "weed",
+    "meaning": "雑草",
+    "example": "He is pulling the weeds in the garden.",
+    "example_jp": "彼は庭で雑草を抜いている。"
+  },
+  {
+    "word": "seed",
+    "meaning": "種",
+    "example": "I planted some seeds in the pot.",
+    "example_jp": "鉢に種をまいた。"
+  }
+]

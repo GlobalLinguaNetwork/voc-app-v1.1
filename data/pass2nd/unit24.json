@@ -1,0 +1,326 @@
+[
+  {
+    "word": "rumor",
+    "meaning": "うわさ",
+    "example": "I heard a rumor about the merger.",
+    "example_jp": "合併についてのうわさを聞いた。"
+  },
+  {
+    "word": "fiction",
+    "meaning": "(架空の)物語、フィクション",
+    "example": "She enjoys reading science fiction.",
+    "example_jp": "彼女はSF小説を読むのが好きだ。"
+  },
+  {
+    "word": "faith",
+    "meaning": "信頼、信用",
+    "example": "I have faith in your ability.",
+    "example_jp": "あなたの能力を信頼している。"
+  },
+  {
+    "word": "duty",
+    "meaning": "職務、義務",
+    "example": "It is my duty to help you.",
+    "example_jp": "あなたを助けるのが私の義務だ。"
+  },
+  {
+    "word": "proposal",
+    "meaning": "提案、計画案",
+    "example": "They discussed his new proposal.",
+    "example_jp": "彼らは彼の新しい提案について議論した。"
+  },
+  {
+    "word": "debt",
+    "meaning": "借金",
+    "example": "He is trying to pay off his debt.",
+    "example_jp": "彼は借金を返済しようとしている。"
+  },
+  {
+    "word": "barrier",
+    "meaning": "障壁、障害",
+    "example": "Language is a barrier to communication.",
+    "example_jp": "言語はコミュニケーションの障壁となる。"
+  },
+  {
+    "word": "disaster",
+    "meaning": "天災、災難",
+    "example": "The flood was a terrible disaster.",
+    "example_jp": "その洪水は恐ろしい災害だった。"
+  },
+  {
+    "word": "cigarette",
+    "meaning": "巻きたばこ",
+    "example": "He lit a cigarette.",
+    "example_jp": "彼はたばこに火をつけた。"
+  },
+  {
+    "word": "absolute",
+    "meaning": "完全な、絶対的な",
+    "example": "There is no absolute truth here.",
+    "example_jp": "ここに絶対的な真実はない。"
+  },
+  {
+    "word": "independent",
+    "meaning": "独立した",
+    "example": "She wants to be independent.",
+    "example_jp": "彼女は独立したいと思っている。"
+  },
+  {
+    "word": "entire",
+    "meaning": "全体の、完全な",
+    "example": "I ate the entire cake.",
+    "example_jp": "私はケーキをまるごと全部食べた。"
+  },
+  {
+    "word": "capable",
+    "meaning": "有能な、できる",
+    "example": "He is a very capable leader.",
+    "example_jp": "彼は非常に有能なリーダーだ。"
+  },
+  {
+    "word": "previous",
+    "meaning": "以前の、前の",
+    "example": "I met him on a previous occasion.",
+    "example_jp": "以前の機会に彼に会った。"
+  },
+  {
+    "word": "unclear",
+    "meaning": "不明確な",
+    "example": "The instructions are unclear.",
+    "example_jp": "その指示は不明確だ。"
+  },
+  {
+    "word": "unsure",
+    "meaning": "確信がない、確かでない",
+    "example": "I am unsure about the schedule.",
+    "example_jp": "予定について確信が持てない。"
+  },
+  {
+    "word": "unbelievable",
+    "meaning": "信じられない、驚くほど素晴らしい",
+    "example": "The view is unbelievable.",
+    "example_jp": "その景色は信じられないほど素晴らしい。"
+  },
+  {
+    "word": "uncomfortable",
+    "meaning": "心地の良くない",
+    "example": "This chair is uncomfortable.",
+    "example_jp": "この椅子は座り心地が良くない。"
+  },
+  {
+    "word": "spare",
+    "meaning": "余分の、予備の",
+    "example": "Do you have a spare key?",
+    "example_jp": "予備の鍵はありますか？"
+  },
+  {
+    "word": "exclusive",
+    "meaning": "高級な",
+    "example": "He stays at an exclusive hotel.",
+    "example_jp": "彼は高級ホテルに泊まっている。"
+  },
+  {
+    "word": "exclusive",
+    "meaning": "排他的な",
+    "example": "This club is very exclusive.",
+    "example_jp": "このクラブはとても排他的だ。"
+  },
+  {
+    "word": "rough",
+    "meaning": "大まかな",
+    "example": "I have a rough idea of the cost.",
+    "example_jp": "費用の大まかな見当はついている。"
+  },
+  {
+    "word": "rough",
+    "meaning": "粗い、乱暴な",
+    "example": "Don't be so rough with the toy.",
+    "example_jp": "おもちゃをそんなに乱暴に扱わないで。"
+  },
+  {
+    "word": "farther",
+    "meaning": "もっと遠い",
+    "example": "We need to walk a little farther.",
+    "example_jp": "もう少し遠くまで歩く必要がある。"
+  },
+  {
+    "word": "ridiculous",
+    "meaning": "ばかげた",
+    "example": "That sounds ridiculous.",
+    "example_jp": "それはばかげているように聞こえる。"
+  },
+  {
+    "word": "royal",
+    "meaning": "王室の、国王の",
+    "example": "They visited the royal palace.",
+    "example_jp": "彼らは王宮を訪れた。"
+  },
+  {
+    "word": "pleasant",
+    "meaning": "快い、気持ちの良い",
+    "example": "We had a pleasant chat.",
+    "example_jp": "私たちは気持ちの良いおしゃべりをした。"
+  },
+  {
+    "word": "precious",
+    "meaning": "貴重な",
+    "example": "Time is precious.",
+    "example_jp": "時間は貴重だ。"
+  },
+  {
+    "word": "precious",
+    "meaning": "高価な",
+    "example": "She collects precious stones.",
+    "example_jp": "彼女は高価な宝石を集めている。"
+  },
+  {
+    "word": "nonprofit",
+    "meaning": "非営利的な",
+    "example": "He works for a nonprofit organization.",
+    "example_jp": "彼は非営利団体で働いている。"
+  },
+  {
+    "word": "messy",
+    "meaning": "散らかった、汚い",
+    "example": "Your room is very messy.",
+    "example_jp": "あなたの部屋はとても散らかっている。"
+  },
+  {
+    "word": "romantic",
+    "meaning": "恋愛の、ロマンチックな",
+    "example": "It was a romantic dinner.",
+    "example_jp": "それはロマンチックな夕食だった。"
+  },
+  {
+    "word": "romantic",
+    "meaning": "空想的な",
+    "example": "He has a romantic view of life.",
+    "example_jp": "彼は人生に対して空想的な考えを持っている。"
+  },
+  {
+    "word": "rooftop",
+    "meaning": "屋上にある",
+    "example": "There is a rooftop garden.",
+    "example_jp": "屋上に庭がある。"
+  },
+  {
+    "word": "embarrassed",
+    "meaning": "きまりの悪い、恥ずかしい",
+    "example": "I felt embarrassed by his comment.",
+    "example_jp": "彼のコメントにきまりが悪かった。"
+  },
+  {
+    "word": "ugly",
+    "meaning": "醜い、見苦しい",
+    "example": "It was an ugly situation.",
+    "example_jp": "それは見苦しい状況だった。"
+  },
+  {
+    "word": "unwanted",
+    "meaning": "不必要な、望まれていない",
+    "example": "I threw away all the unwanted items.",
+    "example_jp": "不要なものをすべて捨てた。"
+  },
+  {
+    "word": "carry-on",
+    "meaning": "機内持ち込みの",
+    "example": "I only have a carry-on bag.",
+    "example_jp": "機内持ち込み用のバッグしか持っていない。"
+  },
+  {
+    "word": "shiny",
+    "meaning": "光る、光沢のある",
+    "example": "She wore shiny shoes.",
+    "example_jp": "彼女は光沢のある靴を履いていた。"
+  },
+  {
+    "word": "up-to-date",
+    "meaning": "最新の",
+    "example": "Keep the file up-to-date.",
+    "example_jp": "ファイルを最新の状態に保って。"
+  },
+  {
+    "word": "salty",
+    "meaning": "塩気のある、塩分の多い",
+    "example": "This soup is too salty.",
+    "example_jp": "このスープは塩気が強すぎる。"
+  },
+  {
+    "word": "possibly",
+    "meaning": "もしかしたら、たぶん",
+    "example": "He could possibly be right.",
+    "example_jp": "もしかしたら彼が正しいかもしれない。"
+  },
+  {
+    "word": "purely",
+    "meaning": "全く、純粋に",
+    "example": "It was purely by chance.",
+    "example_jp": "それは全くの偶然だった。"
+  },
+  {
+    "word": "otherwise",
+    "meaning": "そうでなければ",
+    "example": "Leave now, otherwise you will be late.",
+    "example_jp": "今出発しなさい、そうでなければ遅刻しますよ。"
+  },
+  {
+    "word": "randomly",
+    "meaning": "無作為に",
+    "example": "The winners were chosen randomly.",
+    "example_jp": "勝者は無作為に選ばれた。"
+  },
+  {
+    "word": "amazingly",
+    "meaning": "驚くほど",
+    "example": "He is amazingly talented.",
+    "example_jp": "彼は驚くほど才能がある。"
+  },
+  {
+    "word": "visually",
+    "meaning": "視覚的に",
+    "example": "The book is visually appealing.",
+    "example_jp": "その本は視覚的に魅力的だ。"
+  },
+  {
+    "word": "individually",
+    "meaning": "個々に、個別に",
+    "example": "The items are packed individually.",
+    "example_jp": "商品は個別に梱包されている。"
+  },
+  {
+    "word": "temporarily",
+    "meaning": "一時的に",
+    "example": "The store is temporarily closed.",
+    "example_jp": "その店は一時的に閉まっている。"
+  },
+  {
+    "word": "exceptionally",
+    "meaning": "並外れて、例外として",
+    "example": "He is exceptionally smart.",
+    "example_jp": "彼は並外れて賢い。"
+  },
+  {
+    "word": "halfway",
+    "meaning": "中途で、半分だけ",
+    "example": "He stopped halfway up the hill.",
+    "example_jp": "彼は丘の途中で立ち止まった。"
+  },
+  {
+    "word": "objectively",
+    "meaning": "客観的に",
+    "example": "Try to look at it objectively.",
+    "example_jp": "それを客観的に見るように努めて。"
+  },
+  {
+    "word": "fluently",
+    "meaning": "流ちょうに",
+    "example": "She speaks English fluently.",
+    "example_jp": "彼女は英語を流ちょうに話す。"
+  },
+  {
+    "word": "innocently",
+    "meaning": "無邪気に、知らないふりをして",
+    "example": "She smiled innocently.",
+    "example_jp": "彼女は無邪気に微笑んだ。"
+  }
+]

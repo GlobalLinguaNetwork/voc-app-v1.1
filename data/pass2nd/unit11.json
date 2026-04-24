@@ -1,0 +1,302 @@
+[
+  {
+    "word": "select",
+    "meaning": "を選ぶ",
+    "example": "Select the best option.",
+    "example_jp": "最良の選択肢を選びなさい。"
+  },
+  {
+    "word": "arrange",
+    "meaning": "(会合の日時など)を取り決める",
+    "example": "Let's arrange a meeting.",
+    "example_jp": "打ち合わせの日時を取り決めましょう。"
+  },
+  {
+    "word": "observe",
+    "meaning": "を観察する",
+    "example": "We observed the bird.",
+    "example_jp": "私たちはその鳥を観察した。"
+  },
+  {
+    "word": "switch",
+    "meaning": "を交換する",
+    "example": "Can we switch seats?",
+    "example_jp": "席を交換してもいいですか？"
+  },
+  {
+    "word": "bend",
+    "meaning": "を曲げる",
+    "example": "Bend your knees slowly.",
+    "example_jp": "膝をゆっくり曲げなさい。"
+  },
+  {
+    "word": "prove",
+    "meaning": "わかる",
+    "example": "It proved to be true.",
+    "example_jp": "それが真実だとわかった。"
+  },
+  {
+    "word": "achieve",
+    "meaning": "を達成する",
+    "example": "He achieved his goal.",
+    "example_jp": "彼は目標を達成した。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "を移す",
+    "example": "Transfer the data to the PC.",
+    "example_jp": "PCにデータを移しなさい。"
+  },
+  {
+    "word": "impress",
+    "meaning": "を感心させる",
+    "example": "His work impressed me.",
+    "example_jp": "彼の仕事ぶりに感心した。"
+  },
+  {
+    "word": "fold",
+    "meaning": "を折る",
+    "example": "Fold the paper in half.",
+    "example_jp": "紙を半分に折りなさい。"
+  },
+  {
+    "word": "correct",
+    "meaning": "を訂正する",
+    "example": "Correct your mistakes.",
+    "example_jp": "間違いを訂正しなさい。"
+  },
+  {
+    "word": "reply",
+    "meaning": "返事をする",
+    "example": "Please reply by tomorrow.",
+    "example_jp": "明日までに返事をして。"
+  },
+  {
+    "word": "emphasize",
+    "meaning": "を強調する",
+    "example": "He emphasized the importance.",
+    "example_jp": "彼はその重要性を強調した。"
+  },
+  {
+    "word": "spill",
+    "meaning": "をこぼす",
+    "example": "Don't spill the coffee.",
+    "example_jp": "コーヒーをこぼさないで。"
+  },
+  {
+    "word": "confuse",
+    "meaning": "を当惑させる",
+    "example": "The question confused me.",
+    "example_jp": "その質問に当惑した。"
+  },
+  {
+    "word": "breathe",
+    "meaning": "呼吸する",
+    "example": "Breathe in deeply.",
+    "example_jp": "深く呼吸しなさい。"
+  },
+  {
+    "word": "lie",
+    "meaning": "横になる",
+    "example": "Lie down and rest.",
+    "example_jp": "横になって休みなさい。"
+  },
+  {
+    "word": "lock",
+    "meaning": "にカギをかける",
+    "example": "Lock the door when you leave.",
+    "example_jp": "出るときはドアにカギをかけなさい。"
+  },
+  {
+    "word": "spin",
+    "meaning": "回る",
+    "example": "The wheels started to spin.",
+    "example_jp": "車輪が回り始めた。"
+  },
+  {
+    "word": "process",
+    "meaning": "(食品・原料など)を加工処理する",
+    "example": "They process raw milk.",
+    "example_jp": "彼らは生乳を加工処理している。"
+  },
+  {
+    "word": "trap",
+    "meaning": "を閉じ込める",
+    "example": "The snow trapped them inside.",
+    "example_jp": "雪が彼らを中に閉じ込めた。"
+  },
+  {
+    "word": "rob",
+    "meaning": "から奪う",
+    "example": "They robbed him of his wallet.",
+    "example_jp": "彼らは彼から財布を奪った。"
+  },
+  {
+    "word": "analyze",
+    "meaning": "を分析する",
+    "example": "Analyze the results carefully.",
+    "example_jp": "結果を注意深く分析しなさい。"
+  },
+  {
+    "word": "choice",
+    "meaning": "選択",
+    "example": "It was a tough choice.",
+    "example_jp": "それは難しい選択だった。"
+  },
+  {
+    "word": "profit",
+    "meaning": "利益",
+    "example": "The company made a profit.",
+    "example_jp": "その会社は利益を上げた。"
+  },
+  {
+    "word": "influence",
+    "meaning": "影響",
+    "example": "He has a great influence.",
+    "example_jp": "彼は大きな影響力を持っている。"
+  },
+  {
+    "word": "tradition",
+    "meaning": "伝統",
+    "example": "It is a family tradition.",
+    "example_jp": "それは家族の伝統だ。"
+  },
+  {
+    "word": "purpose",
+    "meaning": "目的",
+    "example": "What is the purpose of this?",
+    "example_jp": "これの目的は何ですか？"
+  },
+  {
+    "word": "consumer",
+    "meaning": "消費者",
+    "example": "The consumer needs are changing.",
+    "example_jp": "消費者のニーズが変化している。"
+  },
+  {
+    "word": "production",
+    "meaning": "生産",
+    "example": "Car production has increased.",
+    "example_jp": "車の生産が増加した。"
+  },
+  {
+    "word": "audience",
+    "meaning": "観衆",
+    "example": "The audience enjoyed the show.",
+    "example_jp": "観衆はそのショーを楽しんだ。"
+  },
+  {
+    "word": "cash",
+    "meaning": "現金",
+    "example": "Do you have any cash?",
+    "example_jp": "現金を持っていますか？"
+  },
+  {
+    "word": "emotion",
+    "meaning": "感情",
+    "example": "He hides his emotions.",
+    "example_jp": "彼は感情を隠している。"
+  },
+  {
+    "word": "growth",
+    "meaning": "成長",
+    "example": "The company saw rapid growth.",
+    "example_jp": "その会社は急成長した。"
+  },
+  {
+    "word": "range",
+    "meaning": "範囲",
+    "example": "They have a wide range.",
+    "example_jp": "彼らは幅広い範囲を持っている。"
+  },
+  {
+    "word": "impact",
+    "meaning": "影響",
+    "example": "The impact was very strong.",
+    "example_jp": "その影響はとても強かった。"
+  },
+  {
+    "word": "tournament",
+    "meaning": "トーナメント",
+    "example": "He won the tennis tournament.",
+    "example_jp": "彼はテニスのトーナメントで優勝した。"
+  },
+  {
+    "word": "emergency",
+    "meaning": "緊急",
+    "example": "Call me in an emergency.",
+    "example_jp": "緊急のときは電話して。"
+  },
+  {
+    "word": "roommate",
+    "meaning": "ルームメイト",
+    "example": "My roommate is very kind.",
+    "example_jp": "私のルームメイトはとても親切だ。"
+  },
+  {
+    "word": "guard",
+    "meaning": "守衛",
+    "example": "The guard opened the gate.",
+    "example_jp": "守衛が門を開けた。"
+  },
+  {
+    "word": "rate",
+    "meaning": "速度",
+    "example": "At this rate, we'll be late.",
+    "example_jp": "この速度では遅刻する。"
+  },
+  {
+    "word": "lack",
+    "meaning": "不足",
+    "example": "There is a lack of water.",
+    "example_jp": "水が不足している。"
+  },
+  {
+    "word": "expense",
+    "meaning": "費用",
+    "example": "Cover all the expenses.",
+    "example_jp": "すべての費用を支払いなさい。"
+  },
+  {
+    "word": "step",
+    "meaning": "1段階",
+    "example": "This is the first step.",
+    "example_jp": "これが最初の段階だ。"
+  },
+  {
+    "word": "pattern",
+    "meaning": "パターン",
+    "example": "It follows a new pattern.",
+    "example_jp": "それは新しいパターンに従っている。"
+  },
+  {
+    "word": "shelf",
+    "meaning": "棚",
+    "example": "Put the books on the shelf.",
+    "example_jp": "その本を棚に置きなさい。"
+  },
+  {
+    "word": "jewelry",
+    "meaning": "宝石類",
+    "example": "She wears expensive jewelry.",
+    "example_jp": "彼女は高価な宝石類を身につけている。"
+  },
+  {
+    "word": "childhood",
+    "meaning": "子供のころ",
+    "example": "He had a happy childhood.",
+    "example_jp": "彼は幸せな子供のころを送った。"
+  },
+  {
+    "word": "pamphlet",
+    "meaning": "パンフレット",
+    "example": "Read the information pamphlet.",
+    "example_jp": "情報パンフレットを読みなさい。"
+  },
+  {
+    "word": "assistant",
+    "meaning": "助手",
+    "example": "He is my research assistant.",
+    "example_jp": "彼は私の研究助手だ。"
+  }
+]

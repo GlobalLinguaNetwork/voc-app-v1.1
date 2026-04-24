@@ -1,0 +1,302 @@
+[
+  {
+    "word": "site",
+    "meaning": "場所",
+    "example": "This is a construction site.",
+    "example_jp": "ここは建設現場です。"
+  },
+  {
+    "word": "tablet",
+    "meaning": "タブレット",
+    "example": "I read news on my tablet.",
+    "example_jp": "私はタブレットでニュースを読みます。"
+  },
+  {
+    "word": "organization",
+    "meaning": "組織",
+    "example": "She works for a non-profit organization.",
+    "example_jp": "彼女は非営利組織で働いています。"
+  },
+  {
+    "word": "treatment",
+    "meaning": "治療",
+    "example": "This treatment is very effective.",
+    "example_jp": "この治療はとても効果的です。"
+  },
+  {
+    "word": "farming",
+    "meaning": "農業",
+    "example": "He is interested in organic farming.",
+    "example_jp": "彼は有機農業に関心があります。"
+  },
+  {
+    "word": "case",
+    "meaning": "場合",
+    "example": "In that case, I will go.",
+    "example_jp": "その場合、私が行きます。"
+  },
+  {
+    "word": "announcement",
+    "meaning": "アナウンス",
+    "example": "Did you hear the announcement?",
+    "example_jp": "アナウンスを聞きましたか？"
+  },
+  {
+    "word": "author",
+    "meaning": "著者",
+    "example": "She is a famous author.",
+    "example_jp": "彼女は有名な著者です。"
+  },
+  {
+    "word": "biology",
+    "meaning": "生物学",
+    "example": "He is studying biology.",
+    "example_jp": "彼は生物学を学んでいます。"
+  },
+  {
+    "word": "advertisement",
+    "meaning": "広告",
+    "example": "I saw an advertisement for it.",
+    "example_jp": "それの広告を見ました。"
+  },
+  {
+    "word": "account",
+    "meaning": "口座",
+    "example": "I opened a bank account.",
+    "example_jp": "銀行口座を開設しました。"
+  },
+  {
+    "word": "data",
+    "meaning": "データ",
+    "example": "The data shows a decline.",
+    "example_jp": "データは減少を示しています。"
+  },
+  {
+    "word": "solution",
+    "meaning": "解決(策)",
+    "example": "We need a better solution.",
+    "example_jp": "私たちはより良い解決策が必要です。"
+  },
+  {
+    "word": "harm",
+    "meaning": "害",
+    "example": "It does no harm to try.",
+    "example_jp": "試してみても害はありません。"
+  },
+  {
+    "word": "competition",
+    "meaning": "競技(会)",
+    "example": "She won the dance competition.",
+    "example_jp": "彼女はダンス競技会で優勝しました。"
+  },
+  {
+    "word": "industry",
+    "meaning": "産業",
+    "example": "The tourism industry is growing.",
+    "example_jp": "観光産業が成長しています。"
+  },
+  {
+    "word": "participant",
+    "meaning": "参加者",
+    "example": "There are fifty participants.",
+    "example_jp": "参加者が50人います。"
+  },
+  {
+    "word": "charity",
+    "meaning": "慈善(事業)",
+    "example": "He donated money to charity.",
+    "example_jp": "彼は慈善団体に寄付しました。"
+  },
+  {
+    "word": "medicine",
+    "meaning": "薬",
+    "example": "Take this medicine after meals.",
+    "example_jp": "食後にこの薬を飲みなさい。"
+  },
+  {
+    "word": "opinion",
+    "meaning": "意見",
+    "example": "What is your opinion?",
+    "example_jp": "あなたの意見はどうですか？"
+  },
+  {
+    "word": "payment",
+    "meaning": "支払い",
+    "example": "Please make your payment here.",
+    "example_jp": "こちらで支払いをお願いします。"
+  },
+  {
+    "word": "population",
+    "meaning": "人口",
+    "example": "The population is increasing.",
+    "example_jp": "人口が増加しています。"
+  },
+  {
+    "word": "access",
+    "meaning": "入手方法",
+    "example": "They have access to the internet.",
+    "example_jp": "彼らはインターネットを利用できます。"
+  },
+  {
+    "word": "generation",
+    "meaning": "(同)世代",
+    "example": "This music appeals to my generation.",
+    "example_jp": "この音楽は私の世代に響きます。"
+  },
+  {
+    "word": "resident",
+    "meaning": "居住者",
+    "example": "She is a local resident.",
+    "example_jp": "彼女は地元の居住者です。"
+  },
+  {
+    "word": "quality",
+    "meaning": "質",
+    "example": "This product is of high quality.",
+    "example_jp": "この製品は質が高いです。"
+  },
+  {
+    "word": "distance",
+    "meaning": "距離",
+    "example": "The distance is ten kilometers.",
+    "example_jp": "距離は10キロです。"
+  },
+  {
+    "word": "variety",
+    "meaning": "種類",
+    "example": "They offer a variety of services.",
+    "example_jp": "彼らはさまざまなサービスを提供しています。"
+  },
+  {
+    "word": "career",
+    "meaning": "職業",
+    "example": "She started her career in sales.",
+    "example_jp": "彼女は営業職からキャリアを始めました。"
+  },
+  {
+    "word": "item",
+    "meaning": "品目",
+    "example": "This item is on sale.",
+    "example_jp": "この品目はセール中です。"
+  },
+  {
+    "word": "view",
+    "meaning": "見解",
+    "example": "That is my point of view.",
+    "example_jp": "それが私の見解です。"
+  },
+  {
+    "word": "present",
+    "meaning": "現在の",
+    "example": "I am busy at the present time.",
+    "example_jp": "今は忙しいです。"
+  },
+  {
+    "word": "recent",
+    "meaning": "最近の",
+    "example": "Have you seen recent reports?",
+    "example_jp": "最近のレポートを見ましたか？"
+  },
+  {
+    "word": "available",
+    "meaning": "手に入る",
+    "example": "Is this model available?",
+    "example_jp": "このモデルは手に入りますか？"
+  },
+  {
+    "word": "extra",
+    "meaning": "余分の",
+    "example": "I need some extra time.",
+    "example_jp": "もう少し余分の時間が必要です。"
+  },
+  {
+    "word": "successful",
+    "meaning": "成功した",
+    "example": "The event was successful.",
+    "example_jp": "イベントは成功しました。"
+  },
+  {
+    "word": "nearby",
+    "meaning": "すぐ近くの",
+    "example": "Is there a nearby station?",
+    "example_jp": "すぐ近くに駅はありますか？"
+  },
+  {
+    "word": "certain",
+    "meaning": "一定の",
+    "example": "He has a certain charm.",
+    "example_jp": "彼にはある種の魅力があります。"
+  },
+  {
+    "word": "similar",
+    "meaning": "類似した",
+    "example": "They have similar ideas.",
+    "example_jp": "彼らは類似した考えを持っています。"
+  },
+  {
+    "word": "various",
+    "meaning": "さまざまな",
+    "example": "We have various choices.",
+    "example_jp": "私たちにはさまざまな選択肢があります。"
+  },
+  {
+    "word": "effective",
+    "meaning": "効果的な",
+    "example": "This is an effective method.",
+    "example_jp": "これは効果的な方法です。"
+  },
+  {
+    "word": "huge",
+    "meaning": "ばく大な",
+    "example": "He made a huge mistake.",
+    "example_jp": "彼はばく大なミスを犯しました。"
+  },
+  {
+    "word": "serious",
+    "meaning": "深刻な",
+    "example": "This is a serious problem.",
+    "example_jp": "これは深刻な問題です。"
+  },
+  {
+    "word": "social",
+    "meaning": "社会の",
+    "example": "He has poor social skills.",
+    "example_jp": "彼は社会スキルが乏しいです。"
+  },
+  {
+    "word": "nowadays",
+    "meaning": "近ごろは",
+    "example": "Nowadays, everyone uses phones.",
+    "example_jp": "近ごろは、みんな電話を使います。"
+  },
+  {
+    "word": "somewhere",
+    "meaning": "どこかに",
+    "example": "I left my keys somewhere.",
+    "example_jp": "どこかに鍵を置き忘れました。"
+  },
+  {
+    "word": "moreover",
+    "meaning": "その上",
+    "example": "It is cold; moreover, it is raining.",
+    "example_jp": "寒いし、その上雨も降っています。"
+  },
+  {
+    "word": "sincerely",
+    "meaning": "心から",
+    "example": "I sincerely apologize.",
+    "example_jp": "心からお詫びします。"
+  },
+  {
+    "word": "rather",
+    "meaning": "かなり",
+    "example": "It was rather difficult.",
+    "example_jp": "それはかなり難しかったです。"
+  },
+  {
+    "word": "originally",
+    "meaning": "本来(は)",
+    "example": "It was originally a hotel.",
+    "example_jp": "それは本来はホテルでした。"
+  }
+]

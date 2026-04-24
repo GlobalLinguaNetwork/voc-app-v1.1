@@ -1,0 +1,302 @@
+[
+  {
+    "word": "conversation",
+    "meaning": "会話",
+    "example": "We had a long conversation.",
+    "example_jp": "私たちは長い会話をした。"
+  },
+  {
+    "word": "blanket",
+    "meaning": "毛布",
+    "example": "It is cold, use a blanket.",
+    "example_jp": "寒いから毛布を使いなさい。"
+  },
+  {
+    "word": "global warming",
+    "meaning": "地球温暖化",
+    "example": "We must stop global warming.",
+    "example_jp": "私たちは地球温暖化を止めなければならない。"
+  },
+  {
+    "word": "law",
+    "meaning": "法律",
+    "example": "He is studying law.",
+    "example_jp": "彼は法律を学んでいる。"
+  },
+  {
+    "word": "disease",
+    "meaning": "病気",
+    "example": "Exercise helps prevent disease.",
+    "example_jp": "運動は病気の予防に役立つ。"
+  },
+  {
+    "word": "knowledge",
+    "meaning": "知識",
+    "example": "He has extensive knowledge.",
+    "example_jp": "彼は幅広い知識を持っている。"
+  },
+  {
+    "word": "discovery",
+    "meaning": "発見",
+    "example": "It was a great discovery.",
+    "example_jp": "それは偉大な発見だった。"
+  },
+  {
+    "word": "challenge",
+    "meaning": "難題",
+    "example": "We face a new challenge.",
+    "example_jp": "私たちは新たな難題に直面している。"
+  },
+  {
+    "word": "muscle",
+    "meaning": "筋肉",
+    "example": "Running builds muscle.",
+    "example_jp": "走ることは筋肉をつくる。"
+  },
+  {
+    "word": "ingredient",
+    "meaning": "材料",
+    "example": "What is the main ingredient?",
+    "example_jp": "主な材料は何ですか？"
+  },
+  {
+    "word": "agent",
+    "meaning": "仲介者",
+    "example": "I called my travel agent.",
+    "example_jp": "旅行の仲介者に電話した。"
+  },
+  {
+    "word": "fear",
+    "meaning": "恐れ",
+    "example": "He overcame his fear.",
+    "example_jp": "彼は恐れを克服した。"
+  },
+  {
+    "word": "fashion",
+    "meaning": "流行",
+    "example": "That is back in fashion.",
+    "example_jp": "あれがまた流行している。"
+  },
+  {
+    "word": "balance",
+    "meaning": "つり合い",
+    "example": "Try to keep your balance.",
+    "example_jp": "つり合いを保つようにしなさい。"
+  },
+  {
+    "word": "instructor",
+    "meaning": "教官",
+    "example": "The instructor gave us advice.",
+    "example_jp": "教官が私たちにアドバイスをくれた。"
+  },
+  {
+    "word": "development",
+    "meaning": "発達",
+    "example": "This is important for development.",
+    "example_jp": "これは発達にとって重要だ。"
+  },
+  {
+    "word": "technique",
+    "meaning": "(専門的)技術",
+    "example": "He has a unique technique.",
+    "example_jp": "彼は独自の専門技術を持っている。"
+  },
+  {
+    "word": "director",
+    "meaning": "映画監督",
+    "example": "She is a famous director.",
+    "example_jp": "彼女は有名な映画監督だ。"
+  },
+  {
+    "word": "exhibition",
+    "meaning": "展覧(会)",
+    "example": "Let's go to the exhibition.",
+    "example_jp": "展覧会に行こう。"
+  },
+  {
+    "word": "region",
+    "meaning": "地域",
+    "example": "It is cold in this region.",
+    "example_jp": "この地域は寒い。"
+  },
+  {
+    "word": "facility",
+    "meaning": "施設",
+    "example": "This is a sports facility.",
+    "example_jp": "ここはスポーツ施設だ。"
+  },
+  {
+    "word": "aim",
+    "meaning": "狙い",
+    "example": "What is the aim of this?",
+    "example_jp": "これの狙いは何ですか？"
+  },
+  {
+    "word": "assignment",
+    "meaning": "課題",
+    "example": "Finish your assignment today.",
+    "example_jp": "今日中に課題を終えなさい。"
+  },
+  {
+    "word": "trail",
+    "meaning": "(山中の)小道",
+    "example": "We followed the forest trail.",
+    "example_jp": "私たちは森の小道を進んだ。"
+  },
+  {
+    "word": "scene",
+    "meaning": "現場",
+    "example": "Police arrived at the scene.",
+    "example_jp": "警察が現場に到着した。"
+  },
+  {
+    "word": "pressure",
+    "meaning": "圧力",
+    "example": "Don't give in to pressure.",
+    "example_jp": "圧力に屈してはいけない。"
+  },
+  {
+    "word": "response",
+    "meaning": "応答",
+    "example": "He gave a quick response.",
+    "example_jp": "彼は素早い応答をした。"
+  },
+  {
+    "word": "vehicle",
+    "meaning": "乗り物",
+    "example": "Park your vehicle here.",
+    "example_jp": "ここに乗り物を駐車しなさい。"
+  },
+  {
+    "word": "skin",
+    "meaning": "肌",
+    "example": "Sunlight damages your skin.",
+    "example_jp": "日光は肌を傷つける。"
+  },
+  {
+    "word": "fossil",
+    "meaning": "化石",
+    "example": "They found a rare fossil.",
+    "example_jp": "彼らは珍しい化石を見つけた。"
+  },
+  {
+    "word": "electric",
+    "meaning": "電気の",
+    "example": "I bought an electric guitar.",
+    "example_jp": "エレキギターを買った。"
+  },
+  {
+    "word": "current",
+    "meaning": "現在の",
+    "example": "What is the current situation?",
+    "example_jp": "現在の状況はどうですか？"
+  },
+  {
+    "word": "environmental",
+    "meaning": "環境の",
+    "example": "We face environmental problems.",
+    "example_jp": "私たちは環境問題に直面している。"
+  },
+  {
+    "word": "rare",
+    "meaning": "珍しい",
+    "example": "That is a rare bird.",
+    "example_jp": "それは珍しい鳥だ。"
+  },
+  {
+    "word": "efficient",
+    "meaning": "能率的な",
+    "example": "This system is very efficient.",
+    "example_jp": "このシステムは非常に能率的だ。"
+  },
+  {
+    "word": "personal",
+    "meaning": "個人の",
+    "example": "This is a personal matter.",
+    "example_jp": "これは個人的な事柄だ。"
+  },
+  {
+    "word": "confident",
+    "meaning": "確信して",
+    "example": "I am confident of success.",
+    "example_jp": "成功を確信している。"
+  },
+  {
+    "word": "past",
+    "meaning": "過去の",
+    "example": "Forget the past events.",
+    "example_jp": "過去の出来事は忘れなさい。"
+  },
+  {
+    "word": "solar",
+    "meaning": "太陽の",
+    "example": "We use solar power.",
+    "example_jp": "私たちは太陽光発電を利用している。"
+  },
+  {
+    "word": "official",
+    "meaning": "公式の",
+    "example": "This is the official website.",
+    "example_jp": "これが公式ウェブサイトです。"
+  },
+  {
+    "word": "valuable",
+    "meaning": "高価な",
+    "example": "He gave me valuable advice.",
+    "example_jp": "彼は貴重な（高価な）助言をくれた。"
+  },
+  {
+    "word": "casual",
+    "meaning": "(衣服が)カジュアルな",
+    "example": "Wear casual clothes today.",
+    "example_jp": "今日はカジュアルな服を着なさい。"
+  },
+  {
+    "word": "negative",
+    "meaning": "好ましくない",
+    "example": "He gave a negative answer.",
+    "example_jp": "彼は好ましくない回答をした。"
+  },
+  {
+    "word": "major",
+    "meaning": "主要な",
+    "example": "This is a major change.",
+    "example_jp": "これは主要な変更だ。"
+  },
+  {
+    "word": "classic",
+    "meaning": "(文学・芸術などが)最高水準の",
+    "example": "It is a classic movie.",
+    "example_jp": "それは最高水準の名画だ。"
+  },
+  {
+    "word": "especially",
+    "meaning": "特に",
+    "example": "I especially like this song.",
+    "example_jp": "特にこの曲が好きだ。"
+  },
+  {
+    "word": "directly",
+    "meaning": "直接に",
+    "example": "Speak to him directly.",
+    "example_jp": "彼に直接話しなさい。"
+  },
+  {
+    "word": "frequently",
+    "meaning": "頻繁に",
+    "example": "She travels frequently.",
+    "example_jp": "彼女は頻繁に旅行する。"
+  },
+  {
+    "word": "environmentally",
+    "meaning": "環境(保護)の点で",
+    "example": "It is environmentally friendly.",
+    "example_jp": "それは環境保護の点で優しい。"
+  },
+  {
+    "word": "eventually",
+    "meaning": "結局(は)",
+    "example": "He eventually agreed.",
+    "example_jp": "結局、彼は同意した。"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "word": "economy",
+    "meaning": "経済",
+    "example": "The economy is growing.",
+    "example_jp": "経済が成長している。"
+  },
+  {
+    "word": "guest",
+    "meaning": "訪問客",
+    "example": "We have a guest today.",
+    "example_jp": "今日はお客さんが来ている。"
+  },
+  {
+    "word": "rest",
+    "meaning": "残り",
+    "example": "I ate the rest of the cake.",
+    "example_jp": "ケーキの残りを食べた。"
+  },
+  {
+    "word": "income",
+    "meaning": "収入",
+    "example": "His income has increased.",
+    "example_jp": "彼の収入が増えた。"
+  },
+  {
+    "word": "transportation",
+    "meaning": "輸送[交通](機関)",
+    "example": "Public transportation is cheap.",
+    "example_jp": "公共交通機関は安い。"
+  },
+  {
+    "word": "communication",
+    "meaning": "意思の疎通",
+    "example": "Good communication is vital.",
+    "example_jp": "円滑な意思の疎通が不可欠だ。"
+  },
+  {
+    "word": "coast",
+    "meaning": "海岸",
+    "example": "We drove along the coast.",
+    "example_jp": "私たちは海岸沿いをドライブした。"
+  },
+  {
+    "word": "advantage",
+    "meaning": "利点",
+    "example": "This plan has many advantages.",
+    "example_jp": "この計画には多くの利点がある。"
+  },
+  {
+    "word": "effort",
+    "meaning": "努力",
+    "example": "Make an effort to study.",
+    "example_jp": "勉強する努力をしなさい。"
+  },
+  {
+    "word": "period",
+    "meaning": "期間",
+    "example": "It was a difficult period.",
+    "example_jp": "それは困難な期間だった。"
+  },
+  {
+    "word": "license",
+    "meaning": "免許証",
+    "example": "May I see your license?",
+    "example_jp": "免許証を見せていただけますか？"
+  },
+  {
+    "word": "invention",
+    "meaning": "発明",
+    "example": "This is a great invention.",
+    "example_jp": "これは偉大な発明だ。"
+  },
+  {
+    "word": "laptop",
+    "meaning": "ノートパソコン",
+    "example": "I bought a new laptop.",
+    "example_jp": "新しいノートパソコンを買った。"
+  },
+  {
+    "word": "agency",
+    "meaning": "代理店",
+    "example": "I contacted the travel agency.",
+    "example_jp": "旅行代理店に連絡した。"
+  },
+  {
+    "word": "evidence",
+    "meaning": "証拠",
+    "example": "There is no evidence.",
+    "example_jp": "証拠は何もない。"
+  },
+  {
+    "word": "neighborhood",
+    "meaning": "近所",
+    "example": "I live in this neighborhood.",
+    "example_jp": "私はこの近所に住んでいる。"
+  },
+  {
+    "word": "appointment",
+    "meaning": "(会う)約束",
+    "example": "I have an appointment today.",
+    "example_jp": "今日は会う約束がある。"
+  },
+  {
+    "word": "measure",
+    "meaning": "措置",
+    "example": "They took strong measures.",
+    "example_jp": "彼らは強力な措置をとった。"
+  },
+  {
+    "word": "temperature",
+    "meaning": "温度",
+    "example": "The temperature is rising.",
+    "example_jp": "温度が上がっている。"
+  },
+  {
+    "word": "salary",
+    "meaning": "給料",
+    "example": "Her salary is high.",
+    "example_jp": "彼女の給料は高い。"
+  },
+  {
+    "word": "creature",
+    "meaning": "生き物",
+    "example": "It is a rare creature.",
+    "example_jp": "それは珍しい生き物だ。"
+  },
+  {
+    "word": "direction",
+    "meaning": "(行き方などの)指示",
+    "example": "Follow the manager's directions.",
+    "example_jp": "マネージャーの指示に従いなさい。"
+  },
+  {
+    "word": "crime",
+    "meaning": "犯罪",
+    "example": "The crime rate is low.",
+    "example_jp": "犯罪率が低い。"
+  },
+  {
+    "word": "deadline",
+    "meaning": "締切",
+    "example": "The deadline is tomorrow.",
+    "example_jp": "締切は明日だ。"
+  },
+  {
+    "word": "role",
+    "meaning": "役割",
+    "example": "He has an important role.",
+    "example_jp": "彼は重要な役割を担っている。"
+  },
+  {
+    "word": "image",
+    "meaning": "画像",
+    "example": "The image is very clear.",
+    "example_jp": "その画像はとても鮮明だ。"
+  },
+  {
+    "word": "society",
+    "meaning": "社会",
+    "example": "Society is changing fast.",
+    "example_jp": "社会が急速に変化している。"
+  },
+  {
+    "word": "climate",
+    "meaning": "(ある地域の平均的な)気候",
+    "example": "This area has a warm climate.",
+    "example_jp": "この地域は暖かい気候だ。"
+  },
+  {
+    "word": "survey",
+    "meaning": "調査",
+    "example": "We conducted a survey.",
+    "example_jp": "調査を行った。"
+  },
+  {
+    "word": "experiment",
+    "meaning": "実験",
+    "example": "The experiment failed.",
+    "example_jp": "実験は失敗した。"
+  },
+  {
+    "word": "vitamin",
+    "meaning": "ビタミン",
+    "example": "Fruits contain many vitamins.",
+    "example_jp": "果物には多くのビタミンが含まれている。"
+  },
+  {
+    "word": "particular",
+    "meaning": "特定の",
+    "example": "Is there a particular reason?",
+    "example_jp": "特定の理由はありますか？"
+  },
+  {
+    "word": "harmful",
+    "meaning": "有害な",
+    "example": "Smoking is harmful.",
+    "example_jp": "喫煙は有害だ。"
+  },
+  {
+    "word": "convenient",
+    "meaning": "都合のいい",
+    "example": "Is this time convenient?",
+    "example_jp": "この時間は都合がいいですか？"
+  },
+  {
+    "word": "public",
+    "meaning": "公の",
+    "example": "This is a public park.",
+    "example_jp": "これは公立公園だ。"
+  },
+  {
+    "word": "medical",
+    "meaning": "医学の",
+    "example": "He needs medical care.",
+    "example_jp": "彼は医学的なケアが必要だ。"
+  },
+  {
+    "word": "original",
+    "meaning": "最初の",
+    "example": "This is the original plan.",
+    "example_jp": "これが最初の計画だ。"
+  },
+  {
+    "word": "economic",
+    "meaning": "経済の",
+    "example": "We face economic problems.",
+    "example_jp": "私たちは経済的な問題に直面している。"
+  },
+  {
+    "word": "nervous",
+    "meaning": "心配して",
+    "example": "I feel nervous about the test.",
+    "example_jp": "試験について心配だ。"
+  },
+  {
+    "word": "empty",
+    "meaning": "空の",
+    "example": "The bottle is empty.",
+    "example_jp": "ボトルは空だ。"
+  },
+  {
+    "word": "global",
+    "meaning": "地球全体の",
+    "example": "It is a global issue.",
+    "example_jp": "それは地球全体の問題だ。"
+  },
+  {
+    "word": "frequent",
+    "meaning": "頻繁な",
+    "example": "He is a frequent visitor.",
+    "example_jp": "彼は頻繁に来る訪問者だ。"
+  },
+  {
+    "word": "surprising",
+    "meaning": "驚くべき",
+    "example": "It is a surprising result.",
+    "example_jp": "それは驚くべき結果だ。"
+  },
+  {
+    "word": "regularly",
+    "meaning": "定期的に",
+    "example": "I exercise regularly.",
+    "example_jp": "定期的に運動している。"
+  },
+  {
+    "word": "lately",
+    "meaning": "近ごろ",
+    "example": "Have you been busy lately?",
+    "example_jp": "近ごろ忙しいですか？"
+  },
+  {
+    "word": "immediately",
+    "meaning": "直ちに",
+    "example": "Come here immediately.",
+    "example_jp": "直ちにここへ来なさい。"
+  },
+  {
+    "word": "furthermore",
+    "meaning": "その上",
+    "example": "It is cold; furthermore, it is late.",
+    "example_jp": "寒いし、その上もう遅い。"
+  },
+  {
+    "word": "unfortunately",
+    "meaning": "不運にも",
+    "example": "Unfortunately, I can't go.",
+    "example_jp": "不運にも、私は行けない。"
+  },
+  {
+    "word": "downtown",
+    "meaning": "町の中心部へ[で]",
+    "example": "We went downtown.",
+    "example_jp": "私たちは中心街へ行った。"
+  },
+  {
+    "word": "despite",
+    "meaning": "〜にもかかわらず",
+    "example": "Despite the rain, we walked.",
+    "example_jp": "雨にもかかわらず、私たちは歩いた。"
+  }
+]

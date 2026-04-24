@@ -1,0 +1,302 @@
+[
+  {
+    "word": "complain",
+    "meaning": "不平を言う",
+    "example": "Don't complain about the food.",
+    "example_jp": "食事について不平を言うな。"
+  },
+  {
+    "word": "decorate",
+    "meaning": "を飾る",
+    "example": "We decorated the room for the party.",
+    "example_jp": "パーティーのために部屋を飾った。"
+  },
+  {
+    "word": "preserve",
+    "meaning": "を保存する",
+    "example": "We must preserve nature.",
+    "example_jp": "自然を保存しなければならない。"
+  },
+  {
+    "word": "inform",
+    "meaning": "に通知する",
+    "example": "Please inform me of any changes.",
+    "example_jp": "変更があれば通知してください。"
+  },
+  {
+    "word": "discuss",
+    "meaning": "について議論する",
+    "example": "We discussed the project plan.",
+    "example_jp": "私たちはプロジェクトの計画について議論した。"
+  },
+  {
+    "word": "upset",
+    "meaning": "を動揺させる",
+    "example": "The news upset her.",
+    "example_jp": "そのニュースは彼女を動揺させた。"
+  },
+  {
+    "word": "destroy",
+    "meaning": "を破壊する",
+    "example": "The fire destroyed the building.",
+    "example_jp": "火災が建物を破壊した。"
+  },
+  {
+    "word": "promote",
+    "meaning": "を促進する",
+    "example": "They promote healthy eating.",
+    "example_jp": "彼らは健康的な食事を促進している。"
+  },
+  {
+    "word": "concentrate",
+    "meaning": "集中する",
+    "example": "I can't concentrate on my work.",
+    "example_jp": "仕事に集中できない。"
+  },
+  {
+    "word": "estimate",
+    "meaning": "を見積もる",
+    "example": "Estimate the cost of repairs.",
+    "example_jp": "修理費を見積もりなさい。"
+  },
+  {
+    "word": "suppose",
+    "meaning": "〜することになっている",
+    "example": "I am supposed to be there at six.",
+    "example_jp": "6時にそこへ行くことになっている。"
+  },
+  {
+    "word": "request",
+    "meaning": "に頼む",
+    "example": "He requested me to wait.",
+    "example_jp": "彼は私に待つよう頼んだ。"
+  },
+  {
+    "word": "advertise",
+    "meaning": "を宣伝[広告]する",
+    "example": "They advertise on the internet.",
+    "example_jp": "彼らはインターネットで宣伝している。"
+  },
+  {
+    "word": "marry",
+    "meaning": "と結婚する",
+    "example": "She married him last year.",
+    "example_jp": "彼女は昨年彼と結婚した。"
+  },
+  {
+    "word": "separate",
+    "meaning": "を離す",
+    "example": "Separate the files into folders.",
+    "example_jp": "ファイルをフォルダごとに離して整理しなさい。"
+  },
+  {
+    "word": "search",
+    "meaning": "(を)探す",
+    "example": "Search for the lost key.",
+    "example_jp": "なくした鍵を探しなさい。"
+  },
+  {
+    "word": "click",
+    "meaning": "をクリックする",
+    "example": "Click the link to open.",
+    "example_jp": "開くにはそのリンクをクリックして。"
+  },
+  {
+    "word": "release",
+    "meaning": "を放つ",
+    "example": "The company released a new product.",
+    "example_jp": "会社が新製品を発売した。"
+  },
+  {
+    "word": "apply",
+    "meaning": "申し込む",
+    "example": "I applied for the job.",
+    "example_jp": "その仕事に応募した。"
+  },
+  {
+    "word": "pack",
+    "meaning": "を詰める",
+    "example": "Pack your bag for the trip.",
+    "example_jp": "旅行のためにバッグに荷物を詰めなさい。"
+  },
+  {
+    "word": "fit",
+    "meaning": "に適合する",
+    "example": "The key doesn't fit the lock.",
+    "example_jp": "鍵が錠に合わない。"
+  },
+  {
+    "word": "recognize",
+    "meaning": "を見分ける",
+    "example": "I didn't recognize her at first.",
+    "example_jp": "最初は彼女だとわからなかった。"
+  },
+  {
+    "word": "delay",
+    "meaning": "を遅らせる",
+    "example": "Heavy rain delayed the train.",
+    "example_jp": "豪雨が電車を遅らせた。"
+  },
+  {
+    "word": "transport",
+    "meaning": "を輸送する",
+    "example": "They transport goods by ship.",
+    "example_jp": "彼らは船で商品を輸送する。"
+  },
+  {
+    "word": "respect",
+    "meaning": "を尊敬する",
+    "example": "I respect his opinion.",
+    "example_jp": "私は彼の意見を尊重する。"
+  },
+  {
+    "word": "celebrate",
+    "meaning": "(を)祝う",
+    "example": "Let's celebrate your success.",
+    "example_jp": "あなたの成功を祝いましょう。"
+  },
+  {
+    "word": "connect",
+    "meaning": "をつなぐ",
+    "example": "Connect the printer to the PC.",
+    "example_jp": "プリンターをPCにつなぎなさい。"
+  },
+  {
+    "word": "gather",
+    "meaning": "を集める",
+    "example": "The students gathered in the hall.",
+    "example_jp": "生徒たちがホールに集まった。"
+  },
+  {
+    "word": "hand",
+    "meaning": "(物)を手渡す",
+    "example": "Hand me that pen.",
+    "example_jp": "そのペンを手渡して。"
+  },
+  {
+    "word": "compare",
+    "meaning": "を比較する",
+    "example": "Compare the two items.",
+    "example_jp": "2つの品目を比較しなさい。"
+  },
+  {
+    "word": "appreciate",
+    "meaning": "を感謝する",
+    "example": "I appreciate your help.",
+    "example_jp": "手伝ってくれて感謝している。"
+  },
+  {
+    "word": "stick",
+    "meaning": "くっつく",
+    "example": "The stamp stuck to the envelope.",
+    "example_jp": "切手が封筒にくっついた。"
+  },
+  {
+    "word": "adopt",
+    "meaning": "を採用する",
+    "example": "We adopted a new policy.",
+    "example_jp": "私たちは新しい方針を採用した。"
+  },
+  {
+    "word": "source",
+    "meaning": "源",
+    "example": "Sunlight is a source of energy.",
+    "example_jp": "太陽光はエネルギーの源だ。"
+  },
+  {
+    "word": "trend",
+    "meaning": "傾向",
+    "example": "This is a growing trend.",
+    "example_jp": "これは増えている傾向だ。"
+  },
+  {
+    "word": "reservation",
+    "meaning": "(座席・部屋などの)予約",
+    "example": "I made a hotel reservation.",
+    "example_jp": "ホテルの予約をした。"
+  },
+  {
+    "word": "detail",
+    "meaning": "詳細",
+    "example": "Tell me the details.",
+    "example_jp": "詳細を教えて。"
+  },
+  {
+    "word": "clerk",
+    "meaning": "店員",
+    "example": "Ask the store clerk for help.",
+    "example_jp": "店員に助けを求めなさい。"
+  },
+  {
+    "word": "issue",
+    "meaning": "問題(点)",
+    "example": "This is a serious issue.",
+    "example_jp": "これは深刻な問題だ。"
+  },
+  {
+    "word": "approach",
+    "meaning": "取り組み方",
+    "example": "We need a new approach.",
+    "example_jp": "新しい取り組み方が必要だ。"
+  },
+  {
+    "word": "majority",
+    "meaning": "大多数",
+    "example": "The majority of students agree.",
+    "example_jp": "大多数の生徒が同意している。"
+  },
+  {
+    "word": "location",
+    "meaning": "場所",
+    "example": "The location is perfect.",
+    "example_jp": "その場所は完璧だ。"
+  },
+  {
+    "word": "relationship",
+    "meaning": "関係",
+    "example": "They have a good relationship.",
+    "example_jp": "彼らは良い関係にある。"
+  },
+  {
+    "word": "equipment",
+    "meaning": "用具",
+    "example": "They bought new sports equipment.",
+    "example_jp": "彼らは新しいスポーツ用具を買った。"
+  },
+  {
+    "word": "battery",
+    "meaning": "電池",
+    "example": "My phone is low on battery.",
+    "example_jp": "スマホの電池が少ない。"
+  },
+  {
+    "word": "object",
+    "meaning": "物",
+    "example": "I saw a strange object.",
+    "example_jp": "奇妙な物を見た。"
+  },
+  {
+    "word": "software",
+    "meaning": "ソフトウェア",
+    "example": "I need to update the software.",
+    "example_jp": "ソフトウェアを更新する必要がある。"
+  },
+  {
+    "word": "air conditioner",
+    "meaning": "冷暖房装置",
+    "example": "Turn on the air conditioner.",
+    "example_jp": "冷暖房をつけて。"
+  },
+  {
+    "word": "engine",
+    "meaning": "エンジン",
+    "example": "The engine is running.",
+    "example_jp": "エンジンがかかっている。"
+  },
+  {
+    "word": "officer",
+    "meaning": "警察官",
+    "example": "The officer stopped the car.",
+    "example_jp": "警察官がその車を止めた。"
+  }
+]

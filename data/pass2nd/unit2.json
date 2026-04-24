@@ -1,0 +1,302 @@
+[
+  {
+    "word": "amount",
+    "meaning": "量",
+    "example": "Drink a large amount of water.",
+    "example_jp": "多量の水を飲みなさい。"
+  },
+  {
+    "word": "situation",
+    "meaning": "状況",
+    "example": "He explained the situation.",
+    "example_jp": "彼は状況を説明した。"
+  },
+  {
+    "word": "garbage",
+    "meaning": "ゴミ",
+    "example": "Take out the garbage.",
+    "example_jp": "ゴミを出して。"
+  },
+  {
+    "word": "device",
+    "meaning": "装置",
+    "example": "This device is very useful.",
+    "example_jp": "この装置はとても便利だ。"
+  },
+  {
+    "word": "exercise",
+    "meaning": "運動",
+    "example": "Exercise is good for health.",
+    "example_jp": "運動は健康に良い。"
+  },
+  {
+    "word": "skill",
+    "meaning": "技能",
+    "example": "He has good communication skills.",
+    "example_jp": "彼は優れたコミュニケーション能力を持っている。"
+  },
+  {
+    "word": "metal",
+    "meaning": "金属",
+    "example": "This ring is made of metal.",
+    "example_jp": "この指輪は金属でできている。"
+  },
+  {
+    "word": "electricity",
+    "meaning": "電気",
+    "example": "The electricity went out.",
+    "example_jp": "停電した。"
+  },
+  {
+    "word": "traffic",
+    "meaning": "交通(量)",
+    "example": "The traffic was heavy today.",
+    "example_jp": "今日は交通量が多かった。"
+  },
+  {
+    "word": "stress",
+    "meaning": "(心身への)ストレス",
+    "example": "She is under a lot of stress.",
+    "example_jp": "彼女はかなりのストレスを抱えている。"
+  },
+  {
+    "word": "employee",
+    "meaning": "従業員",
+    "example": "He is a model employee.",
+    "example_jp": "彼は模範的な従業員だ。"
+  },
+  {
+    "word": "education",
+    "meaning": "教育",
+    "example": "Education is important.",
+    "example_jp": "教育は重要だ。"
+  },
+  {
+    "word": "presentation",
+    "meaning": "発表",
+    "example": "I have a presentation tomorrow.",
+    "example_jp": "明日発表がある。"
+  },
+  {
+    "word": "design",
+    "meaning": "デザイン",
+    "example": "I like the design of this car.",
+    "example_jp": "この車のデザインが好きだ。"
+  },
+  {
+    "word": "experience",
+    "meaning": "経験",
+    "example": "I have no experience in this field.",
+    "example_jp": "この分野での経験はありません。"
+  },
+  {
+    "word": "expert",
+    "meaning": "専門家",
+    "example": "Ask an expert for advice.",
+    "example_jp": "専門家にアドバイスを求めなさい。"
+  },
+  {
+    "word": "fact",
+    "meaning": "事実",
+    "example": "It is a fact that he left.",
+    "example_jp": "彼が出発したことは事実だ。"
+  },
+  {
+    "word": "staff",
+    "meaning": "スタッフ",
+    "example": "The staff here is very friendly.",
+    "example_jp": "ここのスタッフはとてもフレンドリーだ。"
+  },
+  {
+    "word": "fuel",
+    "meaning": "燃料",
+    "example": "The plane is low on fuel.",
+    "example_jp": "飛行機の燃料が少なくなっている。"
+  },
+  {
+    "word": "tour",
+    "meaning": "見学",
+    "example": "We took a factory tour.",
+    "example_jp": "私たちは工場見学をした。"
+  },
+  {
+    "word": "taste",
+    "meaning": "好み",
+    "example": "This music is not my taste.",
+    "example_jp": "この音楽は私の好みではない。"
+  },
+  {
+    "word": "benefit",
+    "meaning": "利益",
+    "example": "You will benefit from this plan.",
+    "example_jp": "あなたはこの計画から利益を得るだろう。"
+  },
+  {
+    "word": "practice",
+    "meaning": "実践",
+    "example": "It is different in practice.",
+    "example_jp": "実際に行うと異なる。"
+  },
+  {
+    "word": "activity",
+    "meaning": "活動",
+    "example": "We need more outdoor activities.",
+    "example_jp": "もっと屋外活動が必要だ。"
+  },
+  {
+    "word": "subject",
+    "meaning": "話題",
+    "example": "Let's change the subject.",
+    "example_jp": "話題を変えましょう。"
+  },
+  {
+    "word": "professor",
+    "meaning": "教授",
+    "example": "He is a professor at this university.",
+    "example_jp": "彼はこの大学の教授だ。"
+  },
+  {
+    "word": "memory",
+    "meaning": "記憶(力)",
+    "example": "He has a good memory.",
+    "example_jp": "彼は記憶力が良い。"
+  },
+  {
+    "word": "effect",
+    "meaning": "影響",
+    "example": "The medicine has a good effect.",
+    "example_jp": "その薬は良い効果がある。"
+  },
+  {
+    "word": "patient",
+    "meaning": "患者",
+    "example": "The doctor talked to the patient.",
+    "example_jp": "医者は患者と話をした。"
+  },
+  {
+    "word": "project",
+    "meaning": "(組織的)計画",
+    "example": "The project starts on Monday.",
+    "example_jp": "その計画は月曜日に始まる。"
+  },
+  {
+    "word": "article",
+    "meaning": "記事",
+    "example": "I read an interesting article.",
+    "example_jp": "面白い記事を読んだ。"
+  },
+  {
+    "word": "material",
+    "meaning": "材料",
+    "example": "What material is this made of?",
+    "example_jp": "これは何の材料でできていますか？"
+  },
+  {
+    "word": "bill",
+    "meaning": "請求書",
+    "example": "Could I have the bill, please?",
+    "example_jp": "お会計をお願いします。"
+  },
+  {
+    "word": "technology",
+    "meaning": "科学技術",
+    "example": "Technology is changing rapidly.",
+    "example_jp": "科学技術は急速に変化している。"
+  },
+  {
+    "word": "security",
+    "meaning": "安全",
+    "example": "Security is our top priority.",
+    "example_jp": "安全が私たちの最優先事項だ。"
+  },
+  {
+    "word": "discount",
+    "meaning": "割引",
+    "example": "I got a 10% discount.",
+    "example_jp": "10％の割引を受けた。"
+  },
+  {
+    "word": "review",
+    "meaning": "批評",
+    "example": "I read a review of the movie.",
+    "example_jp": "その映画の批評を読んだ。"
+  },
+  {
+    "word": "flight",
+    "meaning": "定期航空便",
+    "example": "My flight was delayed.",
+    "example_jp": "私の乗る便が遅れた。"
+  },
+  {
+    "word": "smartphone",
+    "meaning": "スマートフォン",
+    "example": "I bought a new smartphone.",
+    "example_jp": "新しいスマートフォンを買った。"
+  },
+  {
+    "word": "supplement",
+    "meaning": "サプリメント",
+    "example": "I take this vitamin supplement.",
+    "example_jp": "このビタミンサプリメントを飲んでいる。"
+  },
+  {
+    "word": "chemical",
+    "meaning": "化学の",
+    "example": "They are doing chemical research.",
+    "example_jp": "彼らは化学の研究をしている。"
+  },
+  {
+    "word": "ancient",
+    "meaning": "古代の",
+    "example": "They studied ancient history.",
+    "example_jp": "彼らは古代史を研究した。"
+  },
+  {
+    "word": "common",
+    "meaning": "共通の",
+    "example": "We have a common goal.",
+    "example_jp": "私たちは共通の目標を持っている。"
+  },
+  {
+    "word": "likely",
+    "meaning": "〜しそうで",
+    "example": "It is likely to rain.",
+    "example_jp": "雨が降りそうだ。"
+  },
+  {
+    "word": "recently",
+    "meaning": "最近",
+    "example": "I saw him recently.",
+    "example_jp": "最近彼に会った。"
+  },
+  {
+    "word": "probably",
+    "meaning": "たぶん",
+    "example": "He will probably come.",
+    "example_jp": "彼はたぶん来るだろう。"
+  },
+  {
+    "word": "actually",
+    "meaning": "実は",
+    "example": "I actually like it.",
+    "example_jp": "実はそれ、好きなんです。"
+  },
+  {
+    "word": "though",
+    "meaning": "…だけれども",
+    "example": "It was small, though it was expensive.",
+    "example_jp": "高かったけれど、小さかった。"
+  },
+  {
+    "word": "while",
+    "meaning": "…している間に",
+    "example": "I read while I waited.",
+    "example_jp": "待っている間に本を読んだ。"
+  },
+  {
+    "word": "whether",
+    "meaning": "…かどうか",
+    "example": "I don't know whether he knows.",
+    "example_jp": "彼が知っているかどうかはわからない。"
+  }
+]

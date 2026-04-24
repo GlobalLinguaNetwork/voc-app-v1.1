@@ -1,0 +1,374 @@
+[
+  {
+    "word": "make one’s way",
+    "meaning": "前進する",
+    "example": "He made his way toward the exit.",
+    "example_jp": "彼は出口に向かって進んだ。"
+  },
+  {
+    "word": "make one’s way",
+    "meaning": "成功する",
+    "example": "She worked hard to make her way in the industry.",
+    "example_jp": "彼女はその業界で成功するために懸命に働いた。"
+  },
+  {
+    "word": "make sense",
+    "meaning": "道理にかなう",
+    "example": "What you said makes sense.",
+    "example_jp": "君の言ったことは理にかなっている。"
+  },
+  {
+    "word": "make sense",
+    "meaning": "意味が通じる",
+    "example": "This sentence doesn't make sense.",
+    "example_jp": "この文は意味が通じない。"
+  },
+  {
+    "word": "make up one’s mind",
+    "meaning": "決心する",
+    "example": "I have made up my mind to quit.",
+    "example_jp": "辞めることに決めた。"
+  },
+  {
+    "word": "make use of ~",
+    "meaning": "〜を利用［活用］する",
+    "example": "Make full use of your time.",
+    "example_jp": "時間を最大限に活用しなさい。"
+  },
+  {
+    "word": "none of one’s business",
+    "meaning": "〜には関係ない",
+    "example": "That is none of your business.",
+    "example_jp": "それはあなたには関係のないことだ。"
+  },
+  {
+    "word": "not to mention ~",
+    "meaning": "〜は言うまでもなく",
+    "example": "He is smart, not to mention kind.",
+    "example_jp": "彼は親切なのは言うまでもなく、賢い。"
+  },
+  {
+    "word": "on one’s own",
+    "meaning": "独力で",
+    "example": "He solved the problem on his own.",
+    "example_jp": "彼は独力でその問題を解決した。"
+  },
+  {
+    "word": "on the condition that …",
+    "meaning": "…という条件で",
+    "example": "I will go on the condition that you come too.",
+    "example_jp": "君も来るという条件で私も行く。"
+  },
+  {
+    "word": "on the contrary",
+    "meaning": "それどころか",
+    "example": "It wasn't cold; on the contrary, it was warm.",
+    "example_jp": "寒くはなかった。それどころか、暖かかった。"
+  },
+  {
+    "word": "on the whole",
+    "meaning": "全体的に見て",
+    "example": "On the whole, it was a good day.",
+    "example_jp": "全体的に見て、良い一日だった。"
+  },
+  {
+    "word": "one （~）after another",
+    "meaning": "次々と",
+    "example": "Customers arrived one after another.",
+    "example_jp": "客が次々と到着した。"
+  },
+  {
+    "word": "one by one",
+    "meaning": "一つずつ",
+    "example": "Please answer the questions one by one.",
+    "example_jp": "質問には一つずつ答えてください。"
+  },
+  {
+    "word": "out of control",
+    "meaning": "制御しきれなくなって",
+    "example": "The situation is getting out of control.",
+    "example_jp": "事態が制御不能になりつつある。"
+  },
+  {
+    "word": "owing to ~",
+    "meaning": "〜のために",
+    "example": "The trip was cancelled owing to bad weather.",
+    "example_jp": "悪天候のために旅行は中止された。"
+  },
+  {
+    "word": "pass away",
+    "meaning": "亡くなる",
+    "example": "His grandfather passed away last night.",
+    "example_jp": "彼の祖父が昨晩亡くなった。"
+  },
+  {
+    "word": "pass away",
+    "meaning": "過ぎ去る",
+    "example": "The pain will pass away soon.",
+    "example_jp": "その痛みはやがて過ぎ去るだろう。"
+  },
+  {
+    "word": "prohibit A from doing",
+    "meaning": "Aが〜するのを禁止する",
+    "example": "They prohibited us from smoking here.",
+    "example_jp": "彼らはここで喫煙することを禁止した。"
+  },
+  {
+    "word": "provided that …",
+    "meaning": "もし…なら",
+    "example": "I will go provided that I have time.",
+    "example_jp": "時間があれば行くつもりだ。"
+  },
+  {
+    "word": "pull off ~",
+    "meaning": "〜をやってのける",
+    "example": "It was difficult, but we pulled it off.",
+    "example_jp": "難しかったが、やり遂げた。"
+  },
+  {
+    "word": "pull off ~",
+    "meaning": "〜を引っ張って取る",
+    "example": "He pulled the sticker off the glass.",
+    "example_jp": "彼はガラスからステッカーを引っ張って剥がした。"
+  },
+  {
+    "word": "put an end to ~",
+    "meaning": "〜を終わらせる",
+    "example": "We must put an end to this violence.",
+    "example_jp": "この暴力を終わらせなければならない。"
+  },
+  {
+    "word": "put aside ~",
+    "meaning": "〜を脇に置く",
+    "example": "Put aside your ego and listen.",
+    "example_jp": "自我を脇に置いて聞きなさい。"
+  },
+  {
+    "word": "put away ~",
+    "meaning": "〜を片付ける",
+    "example": "Please put away your toys.",
+    "example_jp": "おもちゃを片付けてください。"
+  },
+  {
+    "word": "put ~ into [in] practice",
+    "meaning": "〜を実行する",
+    "example": "It is time to put our plan into practice.",
+    "example_jp": "計画を実行に移す時だ。"
+  },
+  {
+    "word": "put off ~",
+    "meaning": "〜を延期する",
+    "example": "Don't put off your work until tomorrow.",
+    "example_jp": "仕事を明日まで延ばしてはいけない。"
+  },
+  {
+    "word": "put up with ~",
+    "meaning": "〜を我慢する",
+    "example": "I can't put up with this noise.",
+    "example_jp": "この騒音には我慢できない。"
+  },
+  {
+    "word": "remind A of B",
+    "meaning": "AにBを思い起こさせる",
+    "example": "This song reminds me of my childhood.",
+    "example_jp": "この歌を聴くと子供時代を思い出す。"
+  },
+  {
+    "word": "run through ~",
+    "meaning": "〜をざっとおさらいする",
+    "example": "Let's run through the list one more time.",
+    "example_jp": "リストをもう一度ざっとおさらいしよう。"
+  },
+  {
+    "word": "settle down",
+    "meaning": "身を固める",
+    "example": "They are ready to settle down and start a family.",
+    "example_jp": "彼らは身を固めて家庭を持つ準備ができている。"
+  },
+  {
+    "word": "settle down",
+    "meaning": "落ち着く",
+    "example": "The children finally settled down.",
+    "example_jp": "子供たちはようやく落ち着いた。"
+  },
+  {
+    "word": "shake hands",
+    "meaning": "握手する",
+    "example": "The two leaders shook hands.",
+    "example_jp": "2人のリーダーは握手をした。"
+  },
+  {
+    "word": "show off ~",
+    "meaning": "〜を見せびらかす",
+    "example": "He likes to show off his new car.",
+    "example_jp": "彼は新しい車を見せびらかすのが好きだ。"
+  },
+  {
+    "word": "show up（~）",
+    "meaning": "姿を見せる、現れる",
+    "example": "He didn't show up for the meeting.",
+    "example_jp": "彼は会議に現れなかった。"
+  },
+  {
+    "word": "show up（~）",
+    "meaning": "〜を目立たせる",
+    "example": "The stain shows up on the white shirt.",
+    "example_jp": "白いシャツだとそのシミが目立つ。"
+  },
+  {
+    "word": "sit up",
+    "meaning": "（寝ないで）起きている",
+    "example": "I sat up late reading a book.",
+    "example_jp": "本を読んでいて夜遅くまで起きていた。"
+  },
+  {
+    "word": "sooner or later",
+    "meaning": "遅かれ早かれ",
+    "example": "Sooner or later, you will understand.",
+    "example_jp": "遅かれ早かれ、あなたは理解するだろう。"
+  },
+  {
+    "word": "speak up",
+    "meaning": "大きな声で話す、意見を述べる",
+    "example": "You need to speak up about your ideas.",
+    "example_jp": "自分のアイデアについて、はっきりと意見を述べる必要がある。"
+  },
+  {
+    "word": "stand by（~）",
+    "meaning": "待機する",
+    "example": "Please stand by for further instructions.",
+    "example_jp": "次の指示があるまで待機してください。"
+  },
+  {
+    "word": "stand by（~）",
+    "meaning": "支援する",
+    "example": "I will always stand by you.",
+    "example_jp": "いつもあなたの味方（支援）でいるよ。"
+  },
+  {
+    "word": "stand out",
+    "meaning": "目立つ",
+    "example": "She stands out in the crowd.",
+    "example_jp": "彼女は人混みの中でも目立つ。"
+  },
+  {
+    "word": "sum up ~",
+    "meaning": "〜を要約する",
+    "example": "Can you sum up the article in one sentence?",
+    "example_jp": "その記事を1文で要約できる？"
+  },
+  {
+    "word": "sum up ~",
+    "meaning": "〜を合計する",
+    "example": "Sum up these figures for me.",
+    "example_jp": "これらの数字を合計して。"
+  },
+  {
+    "word": "take advantage of ~",
+    "meaning": "〜を利用する",
+    "example": "Take advantage of this special offer.",
+    "example_jp": "この特別オファーを利用しなさい。"
+  },
+  {
+    "word": "take advantage of ~",
+    "meaning": "〜につけ込む",
+    "example": "Don't take advantage of her kindness.",
+    "example_jp": "彼女の優しさにつけ込んではいけない。"
+  },
+  {
+    "word": "take one’s place",
+    "meaning": "代理を務める",
+    "example": "He will take my place while I'm away.",
+    "example_jp": "私がいない間、彼が私の代理を務める。"
+  },
+  {
+    "word": "take over ~",
+    "meaning": "（職・責任など）を引き継ぐ",
+    "example": "She will take over the project next month.",
+    "example_jp": "来月、彼女がそのプロジェクトを引き継ぐ予定だ。"
+  },
+  {
+    "word": "take over ~",
+    "meaning": "〜を支配する",
+    "example": "The rebels took over the city.",
+    "example_jp": "反乱軍がその都市を支配した。"
+  },
+  {
+    "word": "tell [distinguish] A from B",
+    "meaning": "AをBと見分ける",
+    "example": "Can you tell red from green?",
+    "example_jp": "赤と緑を見分けられる？"
+  },
+  {
+    "word": "There is no doing",
+    "meaning": "〜することはできない",
+    "example": "There is no telling what will happen next.",
+    "example_jp": "次に何が起こるかは誰にもわからない。"
+  },
+  {
+    "word": "think over ~",
+    "meaning": "〜をじっくり考える",
+    "example": "Think it over before you decide.",
+    "example_jp": "決断する前に、それをじっくり考えなさい。"
+  },
+  {
+    "word": "to some [a certain] extent",
+    "meaning": "ある程度",
+    "example": "I agree with you to some extent.",
+    "example_jp": "ある程度はあなたの意見に賛成だ。"
+  },
+  {
+    "word": "to the point",
+    "meaning": "的を射た",
+    "example": "Your comments were brief and to the point.",
+    "example_jp": "あなたのコメントは簡潔で的を射ていた。"
+  },
+  {
+    "word": "try out ~",
+    "meaning": "〜を試す",
+    "example": "I want to try out this new bike.",
+    "example_jp": "この新しい自転車を試してみたい。"
+  },
+  {
+    "word": "turn away ~",
+    "meaning": "（顔･目など）をそらす",
+    "example": "He turned away his face in shame.",
+    "example_jp": "彼は恥ずかしさで顔をそらした。"
+  },
+  {
+    "word": "turn up（~）",
+    "meaning": "姿を現す",
+    "example": "He finally turned up at the party.",
+    "example_jp": "彼がついにパーティーに姿を現した。"
+  },
+  {
+    "word": "turn up（~）",
+    "meaning": "（音量など）を大きくする",
+    "example": "Could you turn up the music?",
+    "example_jp": "音楽の音量を上げてくれる？"
+  },
+  {
+    "word": "upside down",
+    "meaning": "逆さま",
+    "example": "You are holding the picture upside down.",
+    "example_jp": "写真が逆さまですよ。"
+  },
+  {
+    "word": "use up ~",
+    "meaning": "〜を使い果たす",
+    "example": "Don't use up all the milk.",
+    "example_jp": "牛乳を全部使い果たさないで。"
+  },
+  {
+    "word": "wear out （~）",
+    "meaning": "すり減る",
+    "example": "My shoes wore out after months of walking.",
+    "example_jp": "数ヶ月歩いたら靴がすり減った。"
+  },
+  {
+    "word": "wear out （~）",
+    "meaning": "（〜を）すり減らす",
+    "example": "Don't wear out your welcome at their house.",
+    "example_jp": "彼らの家で長居して迷惑をかけないようにしなさい。"
+  }
+]

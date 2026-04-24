@@ -1,0 +1,302 @@
+[
+  {
+    "word": "let",
+    "meaning": "Oに～させる",
+    "example": "Let him go.",
+    "example_jp": "彼を行かせてあげなさい。"
+  },
+  {
+    "word": "create",
+    "meaning": "(を)つくり出す",
+    "example": "They created a new app.",
+    "example_jp": "彼らは新しいアプリを作り出した。"
+  },
+  {
+    "word": "cause",
+    "meaning": "を引き起こす",
+    "example": "This caused a delay.",
+    "example_jp": "これが遅延を引き起こした。"
+  },
+  {
+    "word": "increase",
+    "meaning": "増加する",
+    "example": "Sales increased by 10%.",
+    "example_jp": "売上が10%増加した。"
+  },
+  {
+    "word": "leave",
+    "meaning": "OをCのままにしておく",
+    "example": "Leave the door open.",
+    "example_jp": "ドアを開けたままにしておいて。"
+  },
+  {
+    "word": "develop",
+    "meaning": "を開発する",
+    "example": "They developed a new vaccine.",
+    "example_jp": "彼らは新しいワクチンを開発した。"
+  },
+  {
+    "word": "reduce",
+    "meaning": "を減らす",
+    "example": "We must reduce costs.",
+    "example_jp": "私たちはコストを削減しなければならない。"
+  },
+  {
+    "word": "improve",
+    "meaning": "を進歩[向上]させる",
+    "example": "I want to improve my English.",
+    "example_jp": "私は英語を上達させたい。"
+  },
+  {
+    "word": "produce",
+    "meaning": "(製品・農作物など)を作る",
+    "example": "This factory produces cars.",
+    "example_jp": "この工場は車を製造している。"
+  },
+  {
+    "word": "agree",
+    "meaning": "意見が一致する",
+    "example": "We all agreed on the plan.",
+    "example_jp": "私たちは皆、その計画に同意した。"
+  },
+  {
+    "word": "tell",
+    "meaning": "がわかる",
+    "example": "I can tell it's fake.",
+    "example_jp": "それが偽物だとわかる。"
+  },
+  {
+    "word": "allow",
+    "meaning": "を許す",
+    "example": "Smoking is not allowed here.",
+    "example_jp": "ここでは喫煙が許可されていない。"
+  },
+  {
+    "word": "prepare",
+    "meaning": "(を)準備する",
+    "example": "I prepared dinner for us.",
+    "example_jp": "私たちのために夕食を用意した。"
+  },
+  {
+    "word": "own",
+    "meaning": "を所有している",
+    "example": "He owns a big house.",
+    "example_jp": "彼は大きな家を所有している。"
+  },
+  {
+    "word": "check",
+    "meaning": "(を)検査[点検]する",
+    "example": "Check the brakes before driving.",
+    "example_jp": "運転する前にブレーキを点検しなさい。"
+  },
+  {
+    "word": "suggest",
+    "meaning": "を提案する",
+    "example": "I suggest we leave early.",
+    "example_jp": "早めに出発することを提案します。"
+  },
+  {
+    "word": "cost",
+    "meaning": "(費用)がかかる",
+    "example": "The ticket costs fifty dollars.",
+    "example_jp": "そのチケットは50ドルかかる。"
+  },
+  {
+    "word": "meet",
+    "meaning": "(要求・条件など)を満たす",
+    "example": "Does this meet your needs?",
+    "example_jp": "これはあなたのニーズを満たしていますか？"
+  },
+  {
+    "word": "provide",
+    "meaning": "を提供[供給]する",
+    "example": "They provide free Wi-Fi.",
+    "example_jp": "彼らは無料Wi-Fiを提供している。"
+  },
+  {
+    "word": "waste",
+    "meaning": "を浪費する",
+    "example": "Don't waste your time.",
+    "example_jp": "時間を無駄にしないで。"
+  },
+  {
+    "word": "protect",
+    "meaning": "を保護する",
+    "example": "Wear a mask to protect yourself.",
+    "example_jp": "身を守るためにマスクをしなさい。"
+  },
+  {
+    "word": "offer",
+    "meaning": "を申し出る",
+    "example": "He offered to help me.",
+    "example_jp": "彼は助けることを申し出てくれた。"
+  },
+  {
+    "word": "describe",
+    "meaning": "(の特徴)を述べる",
+    "example": "Describe your ideal job.",
+    "example_jp": "あなたの理想の仕事について述べてください。"
+  },
+  {
+    "word": "damage",
+    "meaning": "に損傷[損害]を与える",
+    "example": "The fire damaged the roof.",
+    "example_jp": "火災が屋根に損傷を与えた。"
+  },
+  {
+    "word": "disagree",
+    "meaning": "意見が食い違う",
+    "example": "They disagreed on the strategy.",
+    "example_jp": "彼らは戦略について意見が食い違った。"
+  },
+  {
+    "word": "recommend",
+    "meaning": "を推薦する",
+    "example": "I recommend this restaurant.",
+    "example_jp": "このレストランを推薦します。"
+  },
+  {
+    "word": "repair",
+    "meaning": "を修理する",
+    "example": "Can you repair my watch?",
+    "example_jp": "私の時計を修理できますか？"
+  },
+  {
+    "word": "share",
+    "meaning": "を共有する",
+    "example": "We share a common goal.",
+    "example_jp": "私たちは共通の目標を共有している。"
+  },
+  {
+    "word": "follow",
+    "meaning": "に続く",
+    "example": "He followed me into the room.",
+    "example_jp": "彼は私に続いて部屋に入った。"
+  },
+  {
+    "word": "lead",
+    "meaning": "つながる",
+    "example": "This road leads to the station.",
+    "example_jp": "この道は駅につながっている。"
+  },
+  {
+    "word": "attract",
+    "meaning": "(注意・興味など)を引く",
+    "example": "The event attracted many people.",
+    "example_jp": "そのイベントは多くの人々を惹きつけた。"
+  },
+  {
+    "word": "encourage",
+    "meaning": "を促す",
+    "example": "They encourage students to read.",
+    "example_jp": "彼らは学生に読書を促している。"
+  },
+  {
+    "word": "support",
+    "meaning": "を支持[支援]する",
+    "example": "I support this policy.",
+    "example_jp": "私はこの方針を支持します。"
+  },
+  {
+    "word": "raise",
+    "meaning": "(子ども)を育てる",
+    "example": "They are raising two children.",
+    "example_jp": "彼らは二人の子供を育てている。"
+  },
+  {
+    "word": "hire",
+    "meaning": "を雇う",
+    "example": "We need to hire more staff.",
+    "example_jp": "もっとスタッフを雇う必要がある。"
+  },
+  {
+    "word": "charge",
+    "meaning": "(税金など)を課す",
+    "example": "They charge tax on items.",
+    "example_jp": "彼らは商品に税金を課している。"
+  },
+  {
+    "word": "care",
+    "meaning": "気にかける",
+    "example": "I don't care about the price.",
+    "example_jp": "価格は気にしない。"
+  },
+  {
+    "word": "book",
+    "meaning": "を予約する",
+    "example": "I booked a table for two.",
+    "example_jp": "二人分のテーブルを予約した。"
+  },
+  {
+    "word": "store",
+    "meaning": "を蓄える",
+    "example": "Squirrels store nuts for winter.",
+    "example_jp": "リスは冬のためにナッツを蓄える。"
+  },
+  {
+    "word": "train",
+    "meaning": "を訓練する",
+    "example": "He is training a dog.",
+    "example_jp": "彼は犬を訓練している。"
+  },
+  {
+    "word": "last",
+    "meaning": "続く",
+    "example": "The meeting lasted an hour.",
+    "example_jp": "会議は1時間続いた。"
+  },
+  {
+    "word": "park",
+    "meaning": "を駐車する",
+    "example": "You can park your car here.",
+    "example_jp": "ここに車を駐車できます。"
+  },
+  {
+    "word": "run",
+    "meaning": "を経営[運営]する",
+    "example": "She runs a small cafe.",
+    "example_jp": "彼女は小さなカフェを経営している。"
+  },
+  {
+    "word": "pay",
+    "meaning": "給料",
+    "example": "The pay is good here.",
+    "example_jp": "ここは給料が良い。"
+  },
+  {
+    "word": "brain",
+    "meaning": "頭脳",
+    "example": "He has a great brain.",
+    "example_jp": "彼は優れた頭脳を持っている。"
+  },
+  {
+    "word": "customer",
+    "meaning": "顧客",
+    "example": "The customer is always right.",
+    "example_jp": "お客様は常に正しい。"
+  },
+  {
+    "word": "order",
+    "meaning": "順番",
+    "example": "Put them in alphabetical order.",
+    "example_jp": "アルファベット順に並べなさい。"
+  },
+  {
+    "word": "research",
+    "meaning": "調査",
+    "example": "The research took three years.",
+    "example_jp": "その調査は3年かかった。"
+  },
+  {
+    "word": "environment",
+    "meaning": "環境",
+    "example": "We must protect the environment.",
+    "example_jp": "私たちは環境を保護しなければならない。"
+  },
+  {
+    "word": "result",
+    "meaning": "結果",
+    "example": "What was the result?",
+    "example_jp": "結果はどうでしたか？"
+  }
+]

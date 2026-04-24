@@ -1,0 +1,338 @@
+[
+  {
+    "word": "ceiling",
+    "meaning": "天井",
+    "example": "The ceiling is very high in this room.",
+    "example_jp": "この部屋は天井がとても高い。"
+  },
+  {
+    "word": "calculator",
+    "meaning": "計算機",
+    "example": "I used a calculator to solve the math problem.",
+    "example_jp": "数学の問題を解くために計算機を使った。"
+  },
+  {
+    "word": "storage",
+    "meaning": "保管、貯蔵",
+    "example": "This room is used for storage.",
+    "example_jp": "この部屋は保管用に使われている。"
+  },
+  {
+    "word": "dormitory",
+    "meaning": "寮、(学校の)寄宿舎",
+    "example": "He lives in a university dormitory.",
+    "example_jp": "彼は大学の寮に住んでいる。"
+  },
+  {
+    "word": "cave",
+    "meaning": "洞窟、洞穴",
+    "example": "They explored a deep cave.",
+    "example_jp": "彼らは深い洞窟を探検した。"
+  },
+  {
+    "word": "echo",
+    "meaning": "反響、こだま",
+    "example": "My voice had an echo in the hall.",
+    "example_jp": "ホールでは私の声が反響した。"
+  },
+  {
+    "word": "representative",
+    "meaning": "代表者、代理人",
+    "example": "She is the company representative.",
+    "example_jp": "彼女はその会社の代表者だ。"
+  },
+  {
+    "word": "former",
+    "meaning": "前の、先の",
+    "example": "He is my former teacher.",
+    "example_jp": "彼は私の以前の先生だ。"
+  },
+  {
+    "word": "widespread",
+    "meaning": "広く行き渡った、普及した",
+    "example": "The new law received widespread support.",
+    "example_jp": "その新しい法律は広く支持を得た。"
+  },
+  {
+    "word": "beneficial",
+    "meaning": "有益な、ためになる",
+    "example": "Exercise is beneficial to your health.",
+    "example_jp": "運動は健康に有益だ。"
+  },
+  {
+    "word": "historical",
+    "meaning": "歴史の、歴史に関する",
+    "example": "We visited many historical sites.",
+    "example_jp": "私たちは多くの史跡を訪れた。"
+  },
+  {
+    "word": "ideal",
+    "meaning": "理想的な",
+    "example": "This is the ideal place to live.",
+    "example_jp": "ここが住むのに理想的な場所だ。"
+  },
+  {
+    "word": "extinct",
+    "meaning": "絶滅した",
+    "example": "Dinosaurs are now extinct.",
+    "example_jp": "恐竜は今や絶滅している。"
+  },
+  {
+    "word": "extinct",
+    "meaning": "廃止された",
+    "example": "That custom is now extinct.",
+    "example_jp": "その習慣はもう廃止されている。"
+  },
+  {
+    "word": "creative",
+    "meaning": "創造的な、想像力のある",
+    "example": "She has a creative mind.",
+    "example_jp": "彼女は創造力がある。"
+  },
+  {
+    "word": "relevant",
+    "meaning": "関連した",
+    "example": "Please provide relevant information.",
+    "example_jp": "関連する情報を提供してください。"
+  },
+  {
+    "word": "initial",
+    "meaning": "最初の",
+    "example": "My initial reaction was surprise.",
+    "example_jp": "私の最初の反応は驚きだった。"
+  },
+  {
+    "word": "reasonable",
+    "meaning": "(値段が)手ごろな",
+    "example": "The price is quite reasonable.",
+    "example_jp": "価格はかなり手ごろだ。"
+  },
+  {
+    "word": "reasonable",
+    "meaning": "道理をわきまえた、筋の通った",
+    "example": "She made a reasonable request.",
+    "example_jp": "彼女は筋の通った要求をした。"
+  },
+  {
+    "word": "appropriate",
+    "meaning": "適切な",
+    "example": "This dress is appropriate for the party.",
+    "example_jp": "このドレスはパーティーに適切だ。"
+  },
+  {
+    "word": "obvious",
+    "meaning": "明らかな",
+    "example": "It is obvious that he is lying.",
+    "example_jp": "彼が嘘をついているのは明らかだ。"
+  },
+  {
+    "word": "permanent",
+    "meaning": "永続的な、永久不変の",
+    "example": "They are looking for a permanent solution.",
+    "example_jp": "彼らは永続的な解決策を探している。"
+  },
+  {
+    "word": "full-time",
+    "meaning": "常勤の、正規の",
+    "example": "She has a full-time job.",
+    "example_jp": "彼女は正規の仕事に就いている。"
+  },
+  {
+    "word": "challenging",
+    "meaning": "やりがいのある",
+    "example": "It was a challenging project.",
+    "example_jp": "それはやりがいのあるプロジェクトだった。"
+  },
+  {
+    "word": "complicated",
+    "meaning": "複雑な、ややこしい",
+    "example": "The situation is very complicated.",
+    "example_jp": "状況はとても複雑だ。"
+  },
+  {
+    "word": "dramatic",
+    "meaning": "劇的な",
+    "example": "There was a dramatic change in the weather.",
+    "example_jp": "天候が劇的に変化した。"
+  },
+  {
+    "word": "dramatic",
+    "meaning": "演劇の",
+    "example": "She is in the dramatic club.",
+    "example_jp": "彼女は演劇部に所属している。"
+  },
+  {
+    "word": "innocent",
+    "meaning": "無罪の",
+    "example": "He was proven innocent.",
+    "example_jp": "彼は無罪であることが証明された。"
+  },
+  {
+    "word": "innocent",
+    "meaning": "無邪気な",
+    "example": "She has an innocent smile.",
+    "example_jp": "彼女は無邪気な笑顔をしている。"
+  },
+  {
+    "word": "reliable",
+    "meaning": "信頼できる",
+    "example": "He is a reliable friend.",
+    "example_jp": "彼は信頼できる友人だ。"
+  },
+  {
+    "word": "stable",
+    "meaning": "安定した",
+    "example": "The economy is stable now.",
+    "example_jp": "経済は今安定している。"
+  },
+  {
+    "word": "unnecessary",
+    "meaning": "不要な",
+    "example": "That is an unnecessary expense.",
+    "example_jp": "それは不要な出費だ。"
+  },
+  {
+    "word": "rapid",
+    "meaning": "急速な",
+    "example": "The city has seen rapid growth.",
+    "example_jp": "その都市は急速な成長を遂げた。"
+  },
+  {
+    "word": "regional",
+    "meaning": "地方の、局地的な",
+    "example": "They speak a regional dialect.",
+    "example_jp": "彼らは地方の方言を話す。"
+  },
+  {
+    "word": "vital",
+    "meaning": "極めて重要な、不可欠な",
+    "example": "Sleep is vital for health.",
+    "example_jp": "睡眠は健康に不可欠だ。"
+  },
+  {
+    "word": "adequate",
+    "meaning": "十分な",
+    "example": "He had adequate time to prepare.",
+    "example_jp": "彼には準備する十分な時間があった。"
+  },
+  {
+    "word": "formal",
+    "meaning": "正式の",
+    "example": "This is a formal invitation.",
+    "example_jp": "これは正式な招待状だ。"
+  },
+  {
+    "word": "formal",
+    "meaning": "(服装が)正装の",
+    "example": "We should wear formal clothes.",
+    "example_jp": "私たちは正装すべきだ。"
+  },
+  {
+    "word": "smooth",
+    "meaning": "円滑に動く、なめらかな",
+    "example": "The process should be smooth.",
+    "example_jp": "その過程は円滑に進むはずだ。"
+  },
+  {
+    "word": "opposite",
+    "meaning": "逆の、反対の",
+    "example": "We have opposite opinions.",
+    "example_jp": "私たちは反対の意見を持っている。"
+  },
+  {
+    "word": "definitely",
+    "meaning": "間違いなく",
+    "example": "I will definitely be there.",
+    "example_jp": "間違いなくそこに行きます。"
+  },
+  {
+    "word": "totally",
+    "meaning": "全く、すっかり",
+    "example": "I totally forgot about it.",
+    "example_jp": "それをすっかり忘れていた。"
+  },
+  {
+    "word": "separately",
+    "meaning": "離れて、別々に",
+    "example": "Please pack these items separately.",
+    "example_jp": "これらの品物は別々に梱包してください。"
+  },
+  {
+    "word": "steadily",
+    "meaning": "着実に",
+    "example": "His health is improving steadily.",
+    "example_jp": "彼の健康は着実に回復している。"
+  },
+  {
+    "word": "importantly",
+    "meaning": "重要なことには",
+    "example": "More importantly, we must act now.",
+    "example_jp": "重要なことには、私たちは今行動しなければならない。"
+  },
+  {
+    "word": "terribly",
+    "meaning": "ひどく、とても",
+    "example": "I feel terribly sorry.",
+    "example_jp": "ひどく申し訳なく思っている。"
+  },
+  {
+    "word": "effectively",
+    "meaning": "効果的に、有効に",
+    "example": "The new system works effectively.",
+    "example_jp": "新しいシステムは効果的に機能している。"
+  },
+  {
+    "word": "basically",
+    "meaning": "基本的に",
+    "example": "It is basically a good idea.",
+    "example_jp": "それは基本的には良い考えだ。"
+  },
+  {
+    "word": "constantly",
+    "meaning": "いつでも、絶えず",
+    "example": "He is constantly asking questions.",
+    "example_jp": "彼は絶えず質問をしている。"
+  },
+  {
+    "word": "negatively",
+    "meaning": "否定的に、消極的に",
+    "example": "Don't think negatively.",
+    "example_jp": "否定的に考えないで。"
+  },
+  {
+    "word": "independently",
+    "meaning": "独立して、自主的に",
+    "example": "They work independently.",
+    "example_jp": "彼らは独立して働いている。"
+  },
+  {
+    "word": "truly",
+    "meaning": "本当に、実に",
+    "example": "That was a truly wonderful day.",
+    "example_jp": "それは本当に素晴らしい一日だった。"
+  },
+  {
+    "word": "economically",
+    "meaning": "経済的に",
+    "example": "The country is growing economically.",
+    "example_jp": "その国は経済的に成長している。"
+  },
+  {
+    "word": "throughout",
+    "meaning": "〜の間中ずっと",
+    "example": "It rained throughout the night.",
+    "example_jp": "一晩中ずっと雨が降った。"
+  },
+  {
+    "word": "throughout",
+    "meaning": "〜の至るところで",
+    "example": "They have shops throughout the country.",
+    "example_jp": "彼らは全国の至るところに店を持っている。"
+  },
+  {
+    "word": "plus",
+    "meaning": "〜を加えて、〜に加えて",
+    "example": "You need money, plus time.",
+    "example_jp": "お金に加えて、時間も必要だ。"
+  }
+]

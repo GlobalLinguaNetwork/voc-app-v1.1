@@ -1,0 +1,326 @@
+[
+  {
+    "word": "conpare A with B",
+    "meaning": "AをBと比べる",
+    "example": "Compare this product with that one to see the difference.",
+    "example_jp": "違いを確認するために、この製品とあの製品を比べなさい。"
+  },
+  {
+    "word": "concentrate on~",
+    "meaning": "〜に集中する",
+    "example": "I need to concentrate on my work.",
+    "example_jp": "仕事に集中する必要がある。"
+  },
+  {
+    "word": "count on(upon)~",
+    "meaning": "〜を当てにする、〜に頼る",
+    "example": "You can count on me for help.",
+    "example_jp": "助けが必要なら私を頼っていいよ。"
+  },
+  {
+    "word": "die out",
+    "meaning": "死滅する、完全に消える",
+    "example": "These animals are starting to die out.",
+    "example_jp": "これらの動物は絶滅し始めている。"
+  },
+  {
+    "word": "do awaay with~",
+    "meaning": "〜を廃止する、〜を取り除く",
+    "example": "We should do away with these old rules.",
+    "example_jp": "古い規則は廃止すべきだ。"
+  },
+  {
+    "word": "drop in",
+    "meaning": "立ち寄る、ひょっこり訪ねる",
+    "example": "Feel free to drop in anytime.",
+    "example_jp": "いつでも気軽に立ち寄ってね。"
+  },
+  {
+    "word": "even if (though)~",
+    "meaning": "たとえ〜だとしても",
+    "example": "Even if it rains, we will go.",
+    "example_jp": "雨が降ったとしても私たちは行くつもりだ。"
+  },
+  {
+    "word": "ever since",
+    "meaning": "それ以来、その後",
+    "example": "I have lived here ever since.",
+    "example_jp": "それ以来、ずっとここに住んでいる。"
+  },
+  {
+    "word": "find one’s way (to ~)",
+    "meaning": "〜にたどり着く",
+    "example": "I finally found my way home.",
+    "example_jp": "ついに家にたどり着いた。"
+  },
+  {
+    "word": "for free",
+    "meaning": "無料で",
+    "example": "You can get this for free.",
+    "example_jp": "これは無料で手に入る。"
+  },
+  {
+    "word": "for lack of~",
+    "meaning": "〜の不足のために",
+    "example": "The project failed for lack of funding.",
+    "example_jp": "資金不足のためにプロジェクトは失敗した。"
+  },
+  {
+    "word": "for sure",
+    "meaning": "確かに、間違いなく",
+    "example": "I know for sure that he is right.",
+    "example_jp": "彼が正しいと確信している。"
+  },
+  {
+    "word": "from now on",
+    "meaning": "今後は",
+    "example": "From now on, I will study harder.",
+    "example_jp": "今後はもっと一生懸命勉強するつもりだ。"
+  },
+  {
+    "word": "get along with~",
+    "meaning": "〜とうまくやっていく",
+    "example": "Do you get along with your boss?",
+    "example_jp": "上司とうまくいっている？"
+  },
+  {
+    "word": "get over ~",
+    "meaning": "〜から立ち直る、〜を克服する",
+    "example": "It takes time to get over a breakup.",
+    "example_jp": "失恋から立ち直るには時間がかかる。"
+  },
+  {
+    "word": "in advance",
+    "meaning": "前もって",
+    "example": "Please let me know in advance.",
+    "example_jp": "前もって知らせてください。"
+  },
+  {
+    "word": "in danger of~",
+    "meaning": "〜の危険にさらされて",
+    "example": "The species is in danger of extinction.",
+    "example_jp": "その種は絶滅の危機にある。"
+  },
+  {
+    "word": "in demand",
+    "meaning": "需要がある",
+    "example": "This product is in high demand.",
+    "example_jp": "その製品は需要が高い。"
+  },
+  {
+    "word": "in fashion",
+    "meaning": "流行して",
+    "example": "That hat is back in fashion.",
+    "example_jp": "あの帽子は再び流行している。"
+  },
+  {
+    "word": "in general",
+    "meaning": "一般に、たいてい",
+    "example": "In general, I like to walk.",
+    "example_jp": "一般的に、私は歩くのが好きだ。"
+  },
+  {
+    "word": "in reality",
+    "meaning": "実は、実際には",
+    "example": "It is difficult in reality.",
+    "example_jp": "実際にはそれは難しい。"
+  },
+  {
+    "word": "in spite of~",
+    "meaning": "〜にもかかわらず",
+    "example": "He succeeded in spite of the difficulties.",
+    "example_jp": "困難にもかかわらず彼は成功した。"
+  },
+  {
+    "word": "in terms of~",
+    "meaning": "〜の観点から",
+    "example": "Think in terms of long-term goals.",
+    "example_jp": "長期的な目標の観点から考えなさい。"
+  },
+  {
+    "word": "in time (for~)",
+    "meaning": "（〜に）間に合うように",
+    "example": "We arrived in time for the train.",
+    "example_jp": "私たちは電車に間に合うように到着した。"
+  },
+  {
+    "word": "in time (for~)",
+    "meaning": "やがて",
+    "example": "The package will arrive in time.",
+    "example_jp": "その荷物はやがて届くだろう。"
+  },
+  {
+    "word": "in vain",
+    "meaning": "無駄に、むなしく",
+    "example": "All our efforts were in vain.",
+    "example_jp": "私たちの努力はすべて無駄だった。"
+  },
+  {
+    "word": "(just) in cace~",
+    "meaning": "〜するといけないから、〜に備えて",
+    "example": "Take an umbrella in case it rains.",
+    "example_jp": "雨が降るといけないので傘を持って行きなさい。"
+  },
+  {
+    "word": "keep one’s world (promesi)",
+    "meaning": "約束を守る",
+    "example": "You must keep your word.",
+    "example_jp": "約束は守らなければならない。"
+  },
+  {
+    "word": "keep up with ~",
+    "meaning": "〜に遅れないでついていく",
+    "example": "It's hard to keep up with the latest news.",
+    "example_jp": "最新のニュースに遅れずについていくのは難しい。"
+  },
+  {
+    "word": "leave ~ behind",
+    "meaning": "〜を置き忘れる、〜をおいていく",
+    "example": "I left my umbrella behind on the bus.",
+    "example_jp": "バスに傘を置き忘れた。"
+  },
+  {
+    "word": "let A down",
+    "meaning": "Aを失望させる",
+    "example": "Don't let me down.",
+    "example_jp": "私をがっかりさせないで。"
+  },
+  {
+    "word": "look through~",
+    "meaning": "〜にざっと目を通す",
+    "example": "I'll look through these documents.",
+    "example_jp": "これらの書類にざっと目を通しておく。"
+  },
+  {
+    "word": "make up for~",
+    "meaning": "〜の埋め合わせをする",
+    "example": "This hard work will make up for the delay.",
+    "example_jp": "このハードワークが遅れを取り戻すだろう。"
+  },
+  {
+    "word": "meet one’s needs",
+    "meaning": "〜の必要性を満たす",
+    "example": "This new app meets all my needs.",
+    "example_jp": "この新しいアプリは私のニーズをすべて満たしている。"
+  },
+  {
+    "word": "no matter what~",
+    "meaning": "何を〜しても",
+    "example": "No matter what happens, I will be here.",
+    "example_jp": "何が起きても私はここにいる。"
+  },
+  {
+    "word": "not only A but (also) B",
+    "meaning": "AだけでなくBも",
+    "example": "She is not only smart but also kind.",
+    "example_jp": "彼女は頭が良いだけでなく親切でもある。"
+  },
+  {
+    "word": "on board",
+    "meaning": "（乗り物に）乗って",
+    "example": "Everyone is now on board the ship.",
+    "example_jp": "全員が船に乗っている。"
+  },
+  {
+    "word": "on (off) duty",
+    "meaning": "勤務中で",
+    "example": "The doctor is on duty tonight.",
+    "example_jp": "今夜はその医師が勤務中だ。"
+  },
+  {
+    "word": "on (off) duty",
+    "meaning": "勤務時間外で",
+    "example": "I am off duty after 5 PM.",
+    "example_jp": "5時以降は勤務時間外です。"
+  },
+  {
+    "word": "on purpose",
+    "meaning": "わざと",
+    "example": "He didn't break it on purpose.",
+    "example_jp": "彼はわざと壊したわけではない。"
+  },
+  {
+    "word": "on schedule",
+    "meaning": "予定通りに",
+    "example": "The train arrived on schedule.",
+    "example_jp": "電車は予定通りに到着した。"
+  },
+  {
+    "word": "on (the an) average",
+    "meaning": "概して、平均して",
+    "example": "On average, it costs ten dollars.",
+    "example_jp": "平均して10ドルかかる。"
+  },
+  {
+    "word": "out of order",
+    "meaning": "故障して、調子が悪い",
+    "example": "The elevator is out of order.",
+    "example_jp": "エレベーターが故障している。"
+  },
+  {
+    "word": "pay well",
+    "meaning": "給料が良い",
+    "example": "This job pays quite well.",
+    "example_jp": "この仕事は給料が良い。"
+  },
+  {
+    "word": "plenty of~",
+    "meaning": "多くの〜、十分な〜",
+    "example": "There is plenty of food for everyone.",
+    "example_jp": "みんなのための食料が十分にある。"
+  },
+  {
+    "word": "put together~",
+    "meaning": "まとめる",
+    "example": "We need to put together a new plan.",
+    "example_jp": "新しい計画をまとめる必要がある。"
+  },
+  {
+    "word": "put together~",
+    "meaning": "組み立てる",
+    "example": "He put together the bookshelf easily.",
+    "example_jp": "彼は簡単に本棚を組み立てた。"
+  },
+  {
+    "word": "run into (across)~",
+    "meaning": "〜に偶然出会う",
+    "example": "I ran into an old friend today.",
+    "example_jp": "今日、旧友に偶然会った。"
+  },
+  {
+    "word": "speak out",
+    "meaning": "はっきりと意見を述べる",
+    "example": "You should speak out against injustice.",
+    "example_jp": "不公正に対してはっきりと意見を述べるべきだ。"
+  },
+  {
+    "word": "stand for~",
+    "meaning": "〜を我慢する",
+    "example": "I won't stand for such behavior.",
+    "example_jp": "そのような振る舞いは我慢できない。"
+  },
+  {
+    "word": "stand for~",
+    "meaning": "〜の意味を表す",
+    "example": "What does \"DIY\" stand for?",
+    "example_jp": "DIYは何を表しているの？"
+  },
+  {
+    "word": "stare at~",
+    "meaning": "〜をじっと見る",
+    "example": "Don't stare at people like that.",
+    "example_jp": "そんな風に人をじっと見るな。"
+  },
+  {
+    "word": "turn out to be~",
+    "meaning": "〜だとわかる",
+    "example": "The mystery turned out to be simple.",
+    "example_jp": "その謎は単純だとわかった。"
+  },
+  {
+    "word": "work out",
+    "meaning": "運動する",
+    "example": "I go to the gym to work out.",
+    "example_jp": "運動するためにジムに行く。"
+  }
+]

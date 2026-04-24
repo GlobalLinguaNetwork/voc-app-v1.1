@@ -1,0 +1,368 @@
+[
+  {
+    "word": "import",
+    "meaning": "を輸入する",
+    "example": "We import coffee from Brazil.",
+    "example_jp": "私たちはブラジルからコーヒーを輸入している。"
+  },
+  {
+    "word": "vary",
+    "meaning": "変わる・異なる",
+    "example": "Prices vary from shop to shop.",
+    "example_jp": "価格は店によって異なる。"
+  },
+  {
+    "word": "vary",
+    "meaning": "を変える",
+    "example": "You should vary your diet.",
+    "example_jp": "食生活を変えたほうがいいですよ。"
+  },
+  {
+    "word": "deserve",
+    "meaning": "値する",
+    "example": "You deserve a break.",
+    "example_jp": "君は休憩を取るに値する。"
+  },
+  {
+    "word": "heal",
+    "meaning": "(傷などが)治る",
+    "example": "The cut will heal quickly.",
+    "example_jp": "その切り傷はすぐに治るだろう。"
+  },
+  {
+    "word": "heal",
+    "meaning": "(傷・病人)を治す",
+    "example": "Time heals all wounds.",
+    "example_jp": "時はすべての傷を癒やす。"
+  },
+  {
+    "word": "appeal",
+    "meaning": "訴える・懇願する",
+    "example": "He appealed for help.",
+    "example_jp": "彼は助けを求めた。"
+  },
+  {
+    "word": "insist",
+    "meaning": "強く主張する",
+    "example": "She insisted that she was right.",
+    "example_jp": "彼女は自分が正しいと強く主張した。"
+  },
+  {
+    "word": "accomplish",
+    "meaning": "を成し遂げる",
+    "example": "They accomplished their goal.",
+    "example_jp": "彼らは目標を成し遂げた。"
+  },
+  {
+    "word": "dislike",
+    "meaning": "を嫌う",
+    "example": "I dislike cold weather.",
+    "example_jp": "私は寒い天気が嫌いだ。"
+  },
+  {
+    "word": "bloom",
+    "meaning": "(花が)咲く",
+    "example": "The cherry blossoms bloom in spring.",
+    "example_jp": "桜は春に咲く。"
+  },
+  {
+    "word": "refresh",
+    "meaning": "(気分)をさわやかにする・を元気づける",
+    "example": "A cold drink refreshed me.",
+    "example_jp": "冷たい飲み物で気分がさわやかになった。"
+  },
+  {
+    "word": "tremble",
+    "meaning": "震える",
+    "example": "Her hands trembled with fear.",
+    "example_jp": "彼女の手は恐怖で震えていた。"
+  },
+  {
+    "word": "float",
+    "meaning": "浮かぶ・漂う",
+    "example": "Leaves floated on the water.",
+    "example_jp": "葉が水面に浮かんでいた。"
+  },
+  {
+    "word": "vote",
+    "meaning": "投票する",
+    "example": "Don't forget to vote.",
+    "example_jp": "投票することを忘れないで。"
+  },
+  {
+    "word": "decline",
+    "meaning": "衰退する",
+    "example": "The empire began to decline.",
+    "example_jp": "その帝国は衰退し始めた。"
+  },
+  {
+    "word": "decline",
+    "meaning": "(を)丁重に断る",
+    "example": "I must decline your offer.",
+    "example_jp": "あなたの申し出を断らなければなりません。"
+  },
+  {
+    "word": "refuse",
+    "meaning": "拒否する",
+    "example": "She refused to answer.",
+    "example_jp": "彼女は答えることを拒否した。"
+  },
+  {
+    "word": "establish",
+    "meaning": "を設立する",
+    "example": "They established a new company.",
+    "example_jp": "彼らは新しい会社を設立した。"
+  },
+  {
+    "word": "establish",
+    "meaning": "を確立する",
+    "example": "He established his reputation.",
+    "example_jp": "彼は名声を確立した。"
+  },
+  {
+    "word": "oppose",
+    "meaning": "に反対する",
+    "example": "Many people opposed the plan.",
+    "example_jp": "多くの人がその計画に反対した。"
+  },
+  {
+    "word": "oppose",
+    "meaning": "を対抗させる",
+    "example": "We were opposed against strong rivals.",
+    "example_jp": "私たちは強力なライバルと対抗させられた。"
+  },
+  {
+    "word": "ban",
+    "meaning": "を禁止する",
+    "example": "Smoking is banned here.",
+    "example_jp": "ここでは喫煙が禁止されている。"
+  },
+  {
+    "word": "alter",
+    "meaning": "を変える・を改める",
+    "example": "She altered her dress.",
+    "example_jp": "彼女はドレスを仕立て直した。"
+  },
+  {
+    "word": "alter",
+    "meaning": "変わる",
+    "example": "Things have altered since then.",
+    "example_jp": "あれから状況が変わった。"
+  },
+  {
+    "word": "mention",
+    "meaning": "に言及する",
+    "example": "Did she mention my name?",
+    "example_jp": "彼女は私の名前を出しましたか？"
+  },
+  {
+    "word": "confirm",
+    "meaning": "を確かめる・を確証する",
+    "example": "Please confirm your booking.",
+    "example_jp": "予約を確認してください。"
+  },
+  {
+    "word": "defeat",
+    "meaning": "を負かす",
+    "example": "Our team defeated the champions.",
+    "example_jp": "私たちのチームはチャンピオンを負かした。"
+  },
+  {
+    "word": "detect",
+    "meaning": "を検出する・を感知する",
+    "example": "The sensor detected smoke.",
+    "example_jp": "センサーが煙を感知した。"
+  },
+  {
+    "word": "absorb",
+    "meaning": "夢中になる",
+    "example": "He was absorbed in his book.",
+    "example_jp": "彼は本に夢中だった。"
+  },
+  {
+    "word": "install",
+    "meaning": "(装置など)を設置する・(ソフトなど)をインストールする",
+    "example": "I installed the new app.",
+    "example_jp": "新しいアプリをインストールした。"
+  },
+  {
+    "word": "educate",
+    "meaning": "を教育する",
+    "example": "She was educated in London.",
+    "example_jp": "彼女はロンドンで教育を受けた。"
+  },
+  {
+    "word": "stock",
+    "meaning": "(商品)を店に置いている",
+    "example": "We stock fresh vegetables.",
+    "example_jp": "当店では新鮮な野菜を取り扱っています。"
+  },
+  {
+    "word": "stock",
+    "meaning": "に補充する",
+    "example": "We need to stock the shelves.",
+    "example_jp": "棚に商品を補充する必要がある。"
+  },
+  {
+    "word": "foundation",
+    "meaning": "基礎・根拠",
+    "example": "This theory has no foundation.",
+    "example_jp": "この理論には根拠がない。"
+  },
+  {
+    "word": "foundation",
+    "meaning": "団体・設立",
+    "example": "She started a charitable foundation.",
+    "example_jp": "彼女は慈善団体を立ち上げた。"
+  },
+  {
+    "word": "suggestion",
+    "meaning": "提案",
+    "example": "Do you have any suggestions?",
+    "example_jp": "何か提案はありますか？"
+  },
+  {
+    "word": "resource",
+    "meaning": "資源・資金",
+    "example": "Water is a natural resource.",
+    "example_jp": "水は天然資源だ。"
+  },
+  {
+    "word": "resource",
+    "meaning": "(いざというときの)手段",
+    "example": "Words were his only resource.",
+    "example_jp": "言葉だけが彼の唯一の手段だった。"
+  },
+  {
+    "word": "graduation",
+    "meaning": "卒業",
+    "example": "She attended her graduation.",
+    "example_jp": "彼女は卒業式に出席した。"
+  },
+  {
+    "word": "permission",
+    "meaning": "許可",
+    "example": "You need permission to enter.",
+    "example_jp": "入るには許可が必要です。"
+  },
+  {
+    "word": "lecture",
+    "meaning": "講演・講義",
+    "example": "I missed the history lecture.",
+    "example_jp": "歴史の講義を聞き逃した。"
+  },
+  {
+    "word": "lecture",
+    "meaning": "説教",
+    "example": "My father gave me a lecture.",
+    "example_jp": "父が私に説教をした。"
+  },
+  {
+    "word": "budgest",
+    "meaning": "予算・経費",
+    "example": "We have a limited budget.",
+    "example_jp": "私たちの予算は限られている。"
+  },
+  {
+    "word": "management",
+    "meaning": "経営・管理",
+    "example": "She is in management.",
+    "example_jp": "彼女は経営陣の一人だ。"
+  },
+  {
+    "word": "citizen",
+    "meaning": "国民・市民",
+    "example": "He is a good citizen.",
+    "example_jp": "彼は善良な市民だ。"
+  },
+  {
+    "word": "candidate",
+    "meaning": "候補者・志願者",
+    "example": "She is the best candidate.",
+    "example_jp": "彼女が最適な候補者だ。"
+  },
+  {
+    "word": "geography",
+    "meaning": "地理学・地理",
+    "example": "I'm studying geography.",
+    "example_jp": "私は地理学を勉強している。"
+  },
+  {
+    "word": "option",
+    "meaning": "選択権・選択の自由・選択肢",
+    "example": "We have no other option.",
+    "example_jp": "私たちには他に選択肢がない。"
+  },
+  {
+    "word": "summary",
+    "meaning": "要約",
+    "example": "Give me a brief summary.",
+    "example_jp": "短い要約をください。"
+  },
+  {
+    "word": "possibility",
+    "meaning": "可能性",
+    "example": "Is there a possibility of rain?",
+    "example_jp": "雨の可能性はありますか？"
+  },
+  {
+    "word": "employment",
+    "meaning": "雇用・勤務",
+    "example": "The employment rate is stable.",
+    "example_jp": "雇用率は安定している。"
+  },
+  {
+    "word": "supporter",
+    "meaning": "支持者・後援者",
+    "example": "He has many supporters.",
+    "example_jp": "彼には多くの支持者がいる。"
+  },
+  {
+    "word": "consequence",
+    "meaning": "結果・結論",
+    "example": "It had serious consequences.",
+    "example_jp": "それは重大な結果を招いた。"
+  },
+  {
+    "word": "criminal",
+    "meaning": "犯罪者・犯人",
+    "example": "The criminal was caught.",
+    "example_jp": "犯人は捕まった。"
+  },
+  {
+    "word": "warmth",
+    "meaning": "暖かさ・温かさ・温情",
+    "example": "I felt the warmth of the sun.",
+    "example_jp": "私は太陽の暖かさを感じた。"
+  },
+  {
+    "word": "branch",
+    "meaning": "支店",
+    "example": "This is the local branch.",
+    "example_jp": "ここが地元の支店です。"
+  },
+  {
+    "word": "branch",
+    "meaning": "枝",
+    "example": "A bird sat on the branch.",
+    "example_jp": "鳥が枝に止まった。"
+  },
+  {
+    "word": "automobile",
+    "meaning": "自動車",
+    "example": "This is a classic automobile.",
+    "example_jp": "これはクラシックカーです。"
+  },
+  {
+    "word": "edge",
+    "meaning": "端・縁・(刃物の)刃",
+    "example": "Sit on the edge of the chair.",
+    "example_jp": "椅子の端に座りなさい。"
+  },
+  {
+    "word": "thunderstorm",
+    "meaning": "激しい雷雨",
+    "example": "A thunderstorm is coming.",
+    "example_jp": "雷雨が近づいている。"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "word": "(close[near])at hand",
+    "meaning": "手元に",
+    "example": "Always keep a dictionary at hand.",
+    "example_jp": "辞書はいつも手元に置いておきなさい。"
+  },
+  {
+    "word": "(close[near])at hand",
+    "meaning": "近くに",
+    "example": "The final exam is close at hand.",
+    "example_jp": "期末試験が近づいている。"
+  },
+  {
+    "word": "come about",
+    "meaning": "起こる",
+    "example": "How did this problem come about?",
+    "example_jp": "この問題はどうして起こったのか？"
+  },
+  {
+    "word": "come to light",
+    "meaning": "明るみに出る",
+    "example": "The truth finally came to light.",
+    "example_jp": "真実がついに明るみに出た。"
+  },
+  {
+    "word": "cope with ~",
+    "meaning": "うまく処理する",
+    "example": "She knows how to cope with stress.",
+    "example_jp": "彼女はストレスをうまく処理する方法を知っている。"
+  },
+  {
+    "word": "drop out",
+    "meaning": "脱落する、身を引く",
+    "example": "He decided to drop out of the race.",
+    "example_jp": "彼はレースから身を引くことに決めた。"
+  },
+  {
+    "word": "enable A to do",
+    "meaning": "Aが〜するのを可能にする",
+    "example": "This tool enables you to work faster.",
+    "example_jp": "このツールを使えば、より速く仕事ができるようになる。"
+  },
+  {
+    "word": "far from ~",
+    "meaning": "決して〜でない",
+    "example": "He is far from happy about the result.",
+    "example_jp": "彼はその結果を決して喜んでいない。"
+  },
+  {
+    "word": "for certain",
+    "meaning": "確かに",
+    "example": "I know it for certain.",
+    "example_jp": "それを確かに知っている。"
+  },
+  {
+    "word": "for good（and all）",
+    "meaning": "永久に",
+    "example": "He left the city for good.",
+    "example_jp": "彼は永久にその街を去った。"
+  },
+  {
+    "word": "for the time being",
+    "meaning": "当分の間",
+    "example": "Let's stay here for the time being.",
+    "example_jp": "当分の間ここにいよう。"
+  },
+  {
+    "word": "get by",
+    "meaning": "なんとかやっていく",
+    "example": "We can get by with what we have.",
+    "example_jp": "今あるものでなんとかやっていける。"
+  },
+  {
+    "word": "get by",
+    "meaning": "通り抜ける",
+    "example": "It was crowded, but I managed to get by.",
+    "example_jp": "混んでいたが、なんとか通り抜けることができた。"
+  },
+  {
+    "word": "go off",
+    "meaning": "鳴る",
+    "example": "The alarm went off at six.",
+    "example_jp": "目覚まし時計が6時に鳴った。"
+  },
+  {
+    "word": "hang up",
+    "meaning": "電話を切る",
+    "example": "Don't hang up yet.",
+    "example_jp": "まだ電話を切らないで。"
+  },
+  {
+    "word": "have ~ in common",
+    "meaning": "共通して〜を持つ",
+    "example": "We have nothing in common.",
+    "example_jp": "私たちは共通点が何もない。"
+  },
+  {
+    "word": "have second thoughts",
+    "meaning": "考え直す",
+    "example": "I am having second thoughts about the plan.",
+    "example_jp": "その計画について考え直している。"
+  },
+  {
+    "word": "head for ~",
+    "meaning": "〜に向かう",
+    "example": "We are heading for the airport.",
+    "example_jp": "私たちは空港に向かっている。"
+  },
+  {
+    "word": "hold up ~",
+    "meaning": "遅らせる",
+    "example": "Traffic held us up for an hour.",
+    "example_jp": "交通渋滞で1時間遅れた。"
+  },
+  {
+    "word": "hold up ~",
+    "meaning": "持ち上げる",
+    "example": "She held up her hand to ask a question.",
+    "example_jp": "彼女は質問するために手を挙げた。"
+  },
+  {
+    "word": "in comparison with [to]~",
+    "meaning": "〜と比べると",
+    "example": "In comparison with last year, sales are up.",
+    "example_jp": "昨年と比べると、売上が上がっている。"
+  },
+  {
+    "word": "in contrast（to ~）",
+    "meaning": "〜とは対照的に",
+    "example": "In contrast to his brother, he is quiet.",
+    "example_jp": "兄とは対照的に、彼は物静かだ。"
+  },
+  {
+    "word": "in detail",
+    "meaning": "詳細に",
+    "example": "Can you explain the plan in detail?",
+    "example_jp": "その計画を詳細に説明してくれますか？"
+  },
+  {
+    "word": "in effect",
+    "meaning": "事実上",
+    "example": "The law is in effect now.",
+    "example_jp": "その法律は事実上、現在施行されている。"
+  },
+  {
+    "word": "in exchange for ~",
+    "meaning": "〜と引き換えに",
+    "example": "I gave him a book in exchange for a pen.",
+    "example_jp": "ペンと引き換えに彼に本をあげた。"
+  },
+  {
+    "word": "in favor of ~",
+    "meaning": "〜に賛成して",
+    "example": "Are you in favor of the new policy?",
+    "example_jp": "新しい方針に賛成ですか？"
+  },
+  {
+    "word": "in favor of ~",
+    "meaning": "〜のために",
+    "example": "He decided in favor of his family.",
+    "example_jp": "彼は家族のために決断した。"
+  },
+  {
+    "word": "in order",
+    "meaning": "順序正しく整理されて",
+    "example": "Everything is in order.",
+    "example_jp": "すべて順序正しく整理されている。"
+  },
+  {
+    "word": "in person",
+    "meaning": "直接、じかに",
+    "example": "I would like to meet him in person.",
+    "example_jp": "彼と直接会いたい。"
+  },
+  {
+    "word": "in place of ~",
+    "meaning": "〜の代わりに",
+    "example": "Use honey in place of sugar.",
+    "example_jp": "砂糖の代わりにハチミツを使いなさい。"
+  },
+  {
+    "word": "in private",
+    "meaning": "内緒で",
+    "example": "Can we talk in private?",
+    "example_jp": "内緒で話せますか？"
+  },
+  {
+    "word": "in progress",
+    "meaning": "進行中で",
+    "example": "The project is now in progress.",
+    "example_jp": "プロジェクトは現在進行中だ。"
+  },
+  {
+    "word": "in public",
+    "meaning": "人前で",
+    "example": "He doesn't like to cry in public.",
+    "example_jp": "彼は人前で泣くのを好まない。"
+  },
+  {
+    "word": "in relation to ~",
+    "meaning": "〜に関して",
+    "example": "This is in relation to your request.",
+    "example_jp": "これはあなたの要望に関してです。"
+  },
+  {
+    "word": "in shape",
+    "meaning": "体調が良くて",
+    "example": "I need to get in shape.",
+    "example_jp": "体調を整える必要がある。"
+  },
+  {
+    "word": "in short",
+    "meaning": "要するに",
+    "example": "In short, we failed.",
+    "example_jp": "要するに、私たちは失敗した。"
+  },
+  {
+    "word": "in the face of ~",
+    "meaning": "〜に直面して",
+    "example": "He stayed calm in the face of danger.",
+    "example_jp": "彼は危険に直面しても冷静だった。"
+  },
+  {
+    "word": "in the face of ~",
+    "meaning": "〜にもかかわらず",
+    "example": "She succeeded in the face of many obstacles.",
+    "example_jp": "多くの障害にもかかわらず、彼女は成功した。"
+  },
+  {
+    "word": "in the first place",
+    "meaning": "そもそも",
+    "example": "Why did you go there in the first place?",
+    "example_jp": "そもそもなぜそこへ行ったの？"
+  },
+  {
+    "word": "in the meantime",
+    "meaning": "その間に",
+    "example": "I will wait in the meantime.",
+    "example_jp": "その間、待っています。"
+  },
+  {
+    "word": "in use",
+    "meaning": "使われて",
+    "example": "The bathroom is currently in use.",
+    "example_jp": "そのバスルームは現在使用中です。"
+  },
+  {
+    "word": "(It is)no wonder（that）…",
+    "meaning": "…は全く不思議ではない",
+    "example": "It is no wonder that you are tired.",
+    "example_jp": "あなたが疲れているのも不思議ではない。"
+  },
+  {
+    "word": "keep [bear] ~in mind",
+    "meaning": "〜を心に留める",
+    "example": "Please keep this in mind.",
+    "example_jp": "これを心に留めておいてください。"
+  },
+  {
+    "word": "keep in touch [contact] with ~",
+    "meaning": "〜と連絡を保つ",
+    "example": "Let's keep in touch.",
+    "example_jp": "連絡を取り合おう。"
+  },
+  {
+    "word": "keep off ~",
+    "meaning": "〜に近寄らない",
+    "example": "Please keep off the grass.",
+    "example_jp": "芝生に入らないでください。"
+  },
+  {
+    "word": "keep track of ~",
+    "meaning": "〜を見失わないようにする",
+    "example": "It's hard to keep track of all the details.",
+    "example_jp": "すべての詳細を把握しておくのは難しい。"
+  },
+  {
+    "word": "lay off ~",
+    "meaning": "〜を一時的に解雇する",
+    "example": "They had to lay off many workers.",
+    "example_jp": "彼らは多くの労働者を一時解雇しなければならなかった。"
+  },
+  {
+    "word": "leave A alone",
+    "meaning": "Aを放っておく",
+    "example": "Just leave me alone.",
+    "example_jp": "私を放っておいて。"
+  },
+  {
+    "word": "live up to ~",
+    "meaning": "〜に応える",
+    "example": "He failed to live up to our expectations.",
+    "example_jp": "彼は私たちの期待に応えられなかった。"
+  },
+  {
+    "word": "long for ~",
+    "meaning": "〜を熱望する",
+    "example": "I long for peace.",
+    "example_jp": "私は平和を熱望している。"
+  },
+  {
+    "word": "look down on [upon] ~",
+    "meaning": "〜を見下す",
+    "example": "Don't look down on others.",
+    "example_jp": "他人を見下してはいけない。"
+  },
+  {
+    "word": "look into ~",
+    "meaning": "〜を調べる",
+    "example": "We need to look into this matter.",
+    "example_jp": "私たちはこの問題を調べる必要がある。"
+  },
+  {
+    "word": "look into ~",
+    "meaning": "〜をのぞき込む",
+    "example": "He looked into the box.",
+    "example_jp": "彼は箱をのぞき込んだ。"
+  },
+  {
+    "word": "major in ~",
+    "meaning": "〜を専攻する",
+    "example": "I majored in history at college.",
+    "example_jp": "大学では歴史を専攻した。"
+  },
+  {
+    "word": "make an appointment",
+    "meaning": "約束をする",
+    "example": "I made an appointment with the doctor.",
+    "example_jp": "医師の予約を入れた。"
+  },
+  {
+    "word": "make fun of ~",
+    "meaning": "〜をからかう",
+    "example": "It is not nice to make fun of him.",
+    "example_jp": "彼をからかうのは良くない。"
+  }
+]

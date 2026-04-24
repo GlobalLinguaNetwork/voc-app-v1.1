@@ -1,0 +1,338 @@
+[
+  {
+    "word": "construct",
+    "meaning": "建設する・組み立てる",
+    "example": "They are constructing a new bridge.",
+    "example_jp": "彼らは新しい橋を建設している。"
+  },
+  {
+    "word": "instruct",
+    "meaning": "に指示する",
+    "example": "He instructed me to wait here.",
+    "example_jp": "彼は私にここで待つように指示した。"
+  },
+  {
+    "word": "escape",
+    "meaning": "逃げる",
+    "example": "The prisoner escaped from the jail.",
+    "example_jp": "その囚人は刑務所から逃げた。"
+  },
+  {
+    "word": "divide",
+    "meaning": "分ける・分割する",
+    "example": "Divide the cake into four pieces.",
+    "example_jp": "ケーキを4等分に分けなさい。"
+  },
+  {
+    "word": "arrest",
+    "meaning": "を逮捕する",
+    "example": "The police arrested the suspect.",
+    "example_jp": "警察は容疑者を逮捕した。"
+  },
+  {
+    "word": "reject",
+    "meaning": "拒絶する・断る",
+    "example": "They rejected my offer.",
+    "example_jp": "彼らは私の提案を拒絶した。"
+  },
+  {
+    "word": "punish",
+    "meaning": "を罰する",
+    "example": "The teacher punished the boy.",
+    "example_jp": "先生はその少年を罰した。"
+  },
+  {
+    "word": "pretend",
+    "meaning": "(の)ふりをする",
+    "example": "He pretended to be asleep.",
+    "example_jp": "彼は眠っているふりをした。"
+  },
+  {
+    "word": "ship",
+    "meaning": "を送る・輸送する",
+    "example": "We will ship the goods tomorrow.",
+    "example_jp": "明日商品を発送します。"
+  },
+  {
+    "word": "stimulate",
+    "meaning": "を刺激する",
+    "example": "The game stimulates the brain.",
+    "example_jp": "そのゲームは脳を刺激する。"
+  },
+  {
+    "word": "differ",
+    "meaning": "違う",
+    "example": "Our opinions differ on this issue.",
+    "example_jp": "この問題に関して私たちの意見は違う。"
+  },
+  {
+    "word": "accompany",
+    "meaning": "に同行する・に伴って起こる",
+    "example": "May I accompany you?",
+    "example_jp": "同行してもよろしいですか？"
+  },
+  {
+    "word": "confess",
+    "meaning": "告白する",
+    "example": "He confessed that he stole the money.",
+    "example_jp": "彼は金を盗んだと告白した。"
+  },
+  {
+    "word": "injure",
+    "meaning": "にけがをさせる",
+    "example": "He injured his leg in the accident.",
+    "example_jp": "彼は事故で脚にけがをした。"
+  },
+  {
+    "word": "explore",
+    "meaning": "探検する・調査する",
+    "example": "They explored the deep forest.",
+    "example_jp": "彼らは深い森を探検した。"
+  },
+  {
+    "word": "hug",
+    "meaning": "を抱きしめる",
+    "example": "She hugged her mother tightly.",
+    "example_jp": "彼女は母親をきつく抱きしめた。"
+  },
+  {
+    "word": "translate",
+    "meaning": "を翻訳する",
+    "example": "Please translate this into English.",
+    "example_jp": "これを英語に翻訳してください。"
+  },
+  {
+    "word": "rescue",
+    "meaning": "を救助する",
+    "example": "They rescued the cat from the tree.",
+    "example_jp": "彼らは木から猫を救助した。"
+  },
+  {
+    "word": "ignore",
+    "meaning": "を無視する",
+    "example": "He ignored my advice.",
+    "example_jp": "彼は私のアドバイスを無視した。"
+  },
+  {
+    "word": "reverse",
+    "meaning": "を逆にする",
+    "example": "The judge reversed the decision.",
+    "example_jp": "裁判官はその判決を覆した（逆にした）。"
+  },
+  {
+    "word": "wrap",
+    "meaning": "を包む・巻きつける",
+    "example": "Wrap the gift in paper.",
+    "example_jp": "その贈り物を紙で包みなさい。"
+  },
+  {
+    "word": "admire",
+    "meaning": "を称賛する",
+    "example": "I admire her courage.",
+    "example_jp": "私は彼女の勇気を称賛する。"
+  },
+  {
+    "word": "force",
+    "meaning": "に強いる",
+    "example": "He forced me to do it.",
+    "example_jp": "彼は私にそれをすることを強いた。"
+  },
+  {
+    "word": "seek",
+    "meaning": "さがす・探求する",
+    "example": "He is seeking a new job.",
+    "example_jp": "彼は新しい仕事を探している。"
+  },
+  {
+    "word": "conclude",
+    "meaning": "と結論を下す",
+    "example": "He concluded that she was innocent.",
+    "example_jp": "彼は彼女が無実だと結論を下した。"
+  },
+  {
+    "word": "conclude",
+    "meaning": "を締結する",
+    "example": "The two countries concluded a treaty.",
+    "example_jp": "両国は条約を締結した。"
+  },
+  {
+    "word": "criticize",
+    "meaning": "非難する・批評する",
+    "example": "Don't criticize others so easily.",
+    "example_jp": "他人を簡単に非難してはいけない。"
+  },
+  {
+    "word": "protest",
+    "meaning": "抗議する",
+    "example": "The workers protested against the plan.",
+    "example_jp": "労働者たちはその計画に抗議した。"
+  },
+  {
+    "word": "encounter",
+    "meaning": "に遭遇する・に直面する",
+    "example": "We encountered some problems.",
+    "example_jp": "私たちはいくつかの問題に直面した。"
+  },
+  {
+    "word": "breed",
+    "meaning": "飼育・繁殖・栽培する",
+    "example": "They breed cattle on the farm.",
+    "example_jp": "彼らは農場で牛を飼育している。"
+  },
+  {
+    "word": "praise",
+    "meaning": "を称賛する・褒める",
+    "example": "She praised his hard work.",
+    "example_jp": "彼女は彼の勤勉さを褒めた。"
+  },
+  {
+    "word": "trace",
+    "meaning": "の跡をたどる・なぞる",
+    "example": "He traced the map with his finger.",
+    "example_jp": "彼は地図を指でなぞった。"
+  },
+  {
+    "word": "seal",
+    "meaning": "に封をする・密封する",
+    "example": "Seal the envelope properly.",
+    "example_jp": "封筒にしっかり封をしなさい。"
+  },
+  {
+    "word": "resemble",
+    "meaning": "に似ている",
+    "example": "She resembles her mother.",
+    "example_jp": "彼女は母親に似ている。"
+  },
+  {
+    "word": "delight",
+    "meaning": "を喜ばせる",
+    "example": "His performance delighted the audience.",
+    "example_jp": "彼のパフォーマンスは観客を喜ばせた。"
+  },
+  {
+    "word": "pause",
+    "meaning": "休止する",
+    "example": "He paused for a second.",
+    "example_jp": "彼は一瞬休止した。"
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "論証する",
+    "example": "He demonstrated his theory with facts.",
+    "example_jp": "彼は事実に基づいて自分の理論を論証した。"
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "実演する",
+    "example": "She demonstrated how to use the tool.",
+    "example_jp": "彼女はその道具の使い方を実演した。"
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "デモをする",
+    "example": "Students demonstrated in the street.",
+    "example_jp": "学生たちは通りでデモをした。"
+  },
+  {
+    "word": "propose",
+    "meaning": "を提案する",
+    "example": "I propose a new plan.",
+    "example_jp": "新しい計画を提案します。"
+  },
+  {
+    "word": "propose",
+    "meaning": "結婚を申し込む",
+    "example": "He proposed to her.",
+    "example_jp": "彼は彼女にプロポーズした。"
+  },
+  {
+    "word": "reflect",
+    "meaning": "を反射する",
+    "example": "The water reflected the moon.",
+    "example_jp": "水面が月を反射していた。"
+  },
+  {
+    "word": "reflect",
+    "meaning": "を反映する",
+    "example": "The price reflects the quality.",
+    "example_jp": "価格は品質を反映している。"
+  },
+  {
+    "word": "reflect",
+    "meaning": "熟考する",
+    "example": "I need to reflect on my choices.",
+    "example_jp": "自分の選択について熟考する必要がある。"
+  },
+  {
+    "word": "blow",
+    "meaning": "吹き飛ばす・吹く",
+    "example": "The wind blew away the hat.",
+    "example_jp": "風が帽子を吹き飛ばした。"
+  },
+  {
+    "word": "obey",
+    "meaning": "に従う",
+    "example": "You must obey the rules.",
+    "example_jp": "規則に従わなければならない。"
+  },
+  {
+    "word": "forbid",
+    "meaning": "を禁止する",
+    "example": "My parents forbid me to go out late.",
+    "example_jp": "両親は私が遅くに出かけることを禁止している。"
+  },
+  {
+    "word": "fulfill",
+    "meaning": "を実現する・果たす",
+    "example": "He fulfilled his dream.",
+    "example_jp": "彼は夢を実現した。"
+  },
+  {
+    "word": "burst",
+    "meaning": "破裂・爆発する",
+    "example": "The balloon burst suddenly.",
+    "example_jp": "風船が突然破裂した。"
+  },
+  {
+    "word": "ankle",
+    "meaning": "足首",
+    "example": "I hurt my ankle.",
+    "example_jp": "私は足首をけがした。"
+  },
+  {
+    "word": "jungle",
+    "meaning": "ジャングル",
+    "example": "They traveled through the jungle.",
+    "example_jp": "彼らはジャングルを旅した。"
+  },
+  {
+    "word": "novelist",
+    "meaning": "小説家",
+    "example": "He is a famous novelist.",
+    "example_jp": "彼は有名な小説家だ。"
+  },
+  {
+    "word": "emperor",
+    "meaning": "皇帝・天皇",
+    "example": "The emperor ruled the land.",
+    "example_jp": "皇帝がその土地を統治した。"
+  },
+  {
+    "word": "critic",
+    "meaning": "批評家",
+    "example": "She is a film critic.",
+    "example_jp": "彼女は映画批評家だ。"
+  },
+  {
+    "word": "repairperson",
+    "meaning": "修理工",
+    "example": "Call a repairperson for the heater.",
+    "example_jp": "ヒーターの修理のために修理工を呼んで。"
+  },
+  {
+    "word": "Buddhist",
+    "meaning": "仏教徒",
+    "example": "He is a devout Buddhist.",
+    "example_jp": "彼は熱心な仏教徒だ。"
+  }
+]

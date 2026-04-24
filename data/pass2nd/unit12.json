@@ -1,0 +1,302 @@
+[
+  {
+    "word": "section",
+    "meaning": "区間",
+    "example": "The road has a closed section.",
+    "example_jp": "その道路には閉鎖された区間がある。"
+  },
+  {
+    "word": "politician",
+    "meaning": "政治家",
+    "example": "He is a famous politician.",
+    "example_jp": "彼は有名な政治家だ。"
+  },
+  {
+    "word": "shark",
+    "meaning": "サメ",
+    "example": "I saw a shark in the water.",
+    "example_jp": "水中にサメを見た。"
+  },
+  {
+    "word": "conclusion",
+    "meaning": "結論",
+    "example": "I reached a final conclusion.",
+    "example_jp": "最終的な結論に達した。"
+  },
+  {
+    "word": "document",
+    "meaning": "文書",
+    "example": "Please sign this document.",
+    "example_jp": "この文書に署名してください。"
+  },
+  {
+    "word": "loss",
+    "meaning": "損失",
+    "example": "The company suffered a loss.",
+    "example_jp": "会社は損失を被った。"
+  },
+  {
+    "word": "application",
+    "meaning": "申し込み",
+    "example": "Fill out this application.",
+    "example_jp": "この申し込み用紙に記入しなさい。"
+  },
+  {
+    "word": "shortage",
+    "meaning": "不足",
+    "example": "There is a food shortage.",
+    "example_jp": "食料が不足している。"
+  },
+  {
+    "word": "password",
+    "meaning": "パスワード",
+    "example": "Change your password frequently.",
+    "example_jp": "パスワードを頻繁に変更しなさい。"
+  },
+  {
+    "word": "co-worker",
+    "meaning": "同僚",
+    "example": "He is my favorite co-worker.",
+    "example_jp": "彼は私のお気に入りの同僚だ。"
+  },
+  {
+    "word": "screen",
+    "meaning": "画面",
+    "example": "The screen is very bright.",
+    "example_jp": "画面がとても明るい。"
+  },
+  {
+    "word": "code",
+    "meaning": "暗号",
+    "example": "He broke the secret code.",
+    "example_jp": "彼は秘密の暗号を解読した。"
+  },
+  {
+    "word": "pain",
+    "meaning": "痛み",
+    "example": "I feel pain in my back.",
+    "example_jp": "背中に痛みを感じる。"
+  },
+  {
+    "word": "reality",
+    "meaning": "現実",
+    "example": "Face up to reality.",
+    "example_jp": "現実に向き合いなさい。"
+  },
+  {
+    "word": "exhibit",
+    "meaning": "展示品",
+    "example": "The museum has many exhibits.",
+    "example_jp": "その博物館には多くの展示品がある。"
+  },
+  {
+    "word": "programmer",
+    "meaning": "プログラマー",
+    "example": "She is a skilled programmer.",
+    "example_jp": "彼女は熟練したプログラマーだ。"
+  },
+  {
+    "word": "signal",
+    "meaning": "信号",
+    "example": "Wait for the green signal.",
+    "example_jp": "青信号を待ちなさい。"
+  },
+  {
+    "word": "instinct",
+    "meaning": "本能",
+    "example": "It is a survival instinct.",
+    "example_jp": "それは生存本能だ。"
+  },
+  {
+    "word": "army",
+    "meaning": "陸軍",
+    "example": "He joined the army.",
+    "example_jp": "彼は陸軍に入隊した。"
+  },
+  {
+    "word": "route",
+    "meaning": "(一定の規則的な)道",
+    "example": "This is the fastest route.",
+    "example_jp": "これが一番速い道だ。"
+  },
+  {
+    "word": "bubble",
+    "meaning": "泡",
+    "example": "Bubbles float in the air.",
+    "example_jp": "泡が空中に浮かんでいる。"
+  },
+  {
+    "word": "banking",
+    "meaning": "銀行業",
+    "example": "He works in banking.",
+    "example_jp": "彼は銀行業で働いている。"
+  },
+  {
+    "word": "label",
+    "meaning": "ラベル",
+    "example": "Read the label carefully.",
+    "example_jp": "ラベルを注意深く読みなさい。"
+  },
+  {
+    "word": "dinosaur",
+    "meaning": "恐竜",
+    "example": "Children love dinosaurs.",
+    "example_jp": "子供たちは恐竜が大好きだ。"
+  },
+  {
+    "word": "terrible",
+    "meaning": "ひどい",
+    "example": "I had a terrible day.",
+    "example_jp": "ひどい一日だった。"
+  },
+  {
+    "word": "boring",
+    "meaning": "退屈な",
+    "example": "The movie was so boring.",
+    "example_jp": "その映画はとても退屈だった。"
+  },
+  {
+    "word": "due",
+    "meaning": "期限が来て",
+    "example": "The report is due tomorrow.",
+    "example_jp": "レポートの期限は明日だ。"
+  },
+  {
+    "word": "exact",
+    "meaning": "正確な",
+    "example": "What is the exact time?",
+    "example_jp": "正確な時間は何時ですか？"
+  },
+  {
+    "word": "high-quality",
+    "meaning": "高品質の",
+    "example": "This is a high-quality product.",
+    "example_jp": "これは高品質の製品だ。"
+  },
+  {
+    "word": "tiny",
+    "meaning": "わずかな",
+    "example": "He made a tiny mistake.",
+    "example_jp": "彼はわずかなミスをした。"
+  },
+  {
+    "word": "senior",
+    "meaning": "上位の",
+    "example": "He is a senior official.",
+    "example_jp": "彼は上位の役人だ。"
+  },
+  {
+    "word": "unusual",
+    "meaning": "普通でない",
+    "example": "That is an unusual sound.",
+    "example_jp": "それは普通でない音だ。"
+  },
+  {
+    "word": "mysterious",
+    "meaning": "神秘的な",
+    "example": "It was a mysterious event.",
+    "example_jp": "それは神秘的な出来事だった。"
+  },
+  {
+    "word": "unhealthy",
+    "meaning": "不健康な",
+    "example": "Eating sweets is unhealthy.",
+    "example_jp": "甘いものを食べるのは不健康だ。"
+  },
+  {
+    "word": "specific",
+    "meaning": "特定の",
+    "example": "I need a specific answer.",
+    "example_jp": "特定の回答が必要だ。"
+  },
+  {
+    "word": "accurate",
+    "meaning": "正確な",
+    "example": "Your data is very accurate.",
+    "example_jp": "あなたのデータはとても正確だ。"
+  },
+  {
+    "word": "poisonous",
+    "meaning": "有毒な",
+    "example": "Some snakes are poisonous.",
+    "example_jp": "ヘビの中には有毒なものがいる。"
+  },
+  {
+    "word": "mental",
+    "meaning": "精神の",
+    "example": "Physical and mental health.",
+    "example_jp": "身体的および精神的な健康。"
+  },
+  {
+    "word": "exactly",
+    "meaning": "まさに",
+    "example": "That is exactly what I need.",
+    "example_jp": "それこそまさに私が必要としているものだ。"
+  },
+  {
+    "word": "naturally",
+    "meaning": "自然に",
+    "example": "He acts naturally.",
+    "example_jp": "彼は自然に振る舞う。"
+  },
+  {
+    "word": "normally",
+    "meaning": "通常は",
+    "example": "Normally, I get up at seven.",
+    "example_jp": "通常は7時に起きる。"
+  },
+  {
+    "word": "generally",
+    "meaning": "一般に",
+    "example": "It is generally true.",
+    "example_jp": "それは一般に真実だ。"
+  },
+  {
+    "word": "nevertheless",
+    "meaning": "それにもかかわらず",
+    "example": "It was cold; nevertheless, we went.",
+    "example_jp": "寒かったが、それにもかかわらず私たちは行った。"
+  },
+  {
+    "word": "entirely",
+    "meaning": "完全に",
+    "example": "I am entirely satisfied.",
+    "example_jp": "完全に満足している。"
+  },
+  {
+    "word": "efficiently",
+    "meaning": "能率的に",
+    "example": "He works very efficiently.",
+    "example_jp": "彼はとても能率的に働く。"
+  },
+  {
+    "word": "meanwhile",
+    "meaning": "その間(に)",
+    "example": "I waited, and meanwhile, he ate.",
+    "example_jp": "私は待っていた。その間に彼は食べた。"
+  },
+  {
+    "word": "accidentally",
+    "meaning": "誤って",
+    "example": "I accidentally dropped my phone.",
+    "example_jp": "誤って電話を落としてしまった。"
+  },
+  {
+    "word": "locally",
+    "meaning": "地元で",
+    "example": "This is grown locally.",
+    "example_jp": "これは地元で栽培されている。"
+  },
+  {
+    "word": "unlike",
+    "meaning": "〜とは違って",
+    "example": "Unlike you, I am busy.",
+    "example_jp": "あなたとは違って、私は忙しい。"
+  },
+  {
+    "word": "within",
+    "meaning": "〜以内に",
+    "example": "Return it within two days.",
+    "example_jp": "2日以内に返却しなさい。"
+  }
+]

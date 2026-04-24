@@ -1,0 +1,302 @@
+[
+  {
+    "word": "consume",
+    "meaning": "を消費する",
+    "example": "This car consumes little fuel.",
+    "example_jp": "この車は燃料をあまり消費しない。"
+  },
+  {
+    "word": "count",
+    "meaning": "(を)数える",
+    "example": "Count your money carefully.",
+    "example_jp": "お金を慎重に数えなさい。"
+  },
+  {
+    "word": "remind",
+    "meaning": "に思い出させる",
+    "example": "Remind me to call him later.",
+    "example_jp": "後で彼に電話するように思い出させて。"
+  },
+  {
+    "word": "warn",
+    "meaning": "(に)警告する",
+    "example": "He warned us of the danger.",
+    "example_jp": "彼は私たちに危険を警告した。"
+  },
+  {
+    "word": "rely",
+    "meaning": "頼る",
+    "example": "We rely on solar energy.",
+    "example_jp": "私たちは太陽光エネルギーに頼っている。"
+  },
+  {
+    "word": "respond",
+    "meaning": "答える",
+    "example": "Please respond to my email.",
+    "example_jp": "私のメールに返信（答える）してください。"
+  },
+  {
+    "word": "refer",
+    "meaning": "参照する",
+    "example": "Refer to the manual for help.",
+    "example_jp": "助けが必要なときはマニュアルを参照しなさい。"
+  },
+  {
+    "word": "behave",
+    "meaning": "振る舞う",
+    "example": "Behave yourself in public.",
+    "example_jp": "公共の場では行儀よく振る舞いなさい。"
+  },
+  {
+    "word": "scare",
+    "meaning": "をおびえさせる",
+    "example": "The loud noise scared me.",
+    "example_jp": "大きな音が私をおびえさせた。"
+  },
+  {
+    "word": "disturb",
+    "meaning": "の邪魔をする",
+    "example": "Don't disturb him while he works.",
+    "example_jp": "彼が働いている間は邪魔をしないで。"
+  },
+  {
+    "word": "cover",
+    "meaning": "(話題など)を扱う",
+    "example": "The book covers many topics.",
+    "example_jp": "その本は多くの話題を扱っている。"
+  },
+  {
+    "word": "reserve",
+    "meaning": "(座席・部屋など)を予約する",
+    "example": "I reserved a table for two.",
+    "example_jp": "二人分のテーブルを予約した。"
+  },
+  {
+    "word": "deliver",
+    "meaning": "を配達する",
+    "example": "They deliver food to your door.",
+    "example_jp": "彼らは玄関まで食べ物を配達してくれる。"
+  },
+  {
+    "word": "trust",
+    "meaning": "を信頼する",
+    "example": "I trust your judgment.",
+    "example_jp": "私はあなたの判断を信頼している。"
+  },
+  {
+    "word": "upgrade",
+    "meaning": "(の)質を高める",
+    "example": "We need to upgrade our system.",
+    "example_jp": "システムの質を高める必要がある。"
+  },
+  {
+    "word": "roll",
+    "meaning": "を巻く",
+    "example": "Roll the paper into a tube.",
+    "example_jp": "紙を筒状に巻きなさい。"
+  },
+  {
+    "word": "surf",
+    "meaning": "(ウェブサイトなど)を見て回る",
+    "example": "I love to surf the web.",
+    "example_jp": "ウェブを見て回るのが大好きだ。"
+  },
+  {
+    "word": "beat",
+    "meaning": "鼓動する",
+    "example": "His heart began to beat fast.",
+    "example_jp": "彼の心臓が速く鼓動し始めた。"
+  },
+  {
+    "word": "lay",
+    "meaning": "(卵)を産む",
+    "example": "The bird lays eggs once a year.",
+    "example_jp": "その鳥は年に一度卵を産む。"
+  },
+  {
+    "word": "register",
+    "meaning": "(を)登録する",
+    "example": "Register online for the event.",
+    "example_jp": "イベントのためにオンラインで登録しなさい。"
+  },
+  {
+    "word": "expand",
+    "meaning": "(を)拡大[拡張]する",
+    "example": "They plan to expand the shop.",
+    "example_jp": "彼らは店を拡大する計画だ。"
+  },
+  {
+    "word": "cure",
+    "meaning": "(患者・病気)を治す",
+    "example": "The doctor cured his illness.",
+    "example_jp": "医者が彼の病気を治した。"
+  },
+  {
+    "word": "rush",
+    "meaning": "急いで行く",
+    "example": "I had to rush to the office.",
+    "example_jp": "オフィスへ急いで行かなければならなかった。"
+  },
+  {
+    "word": "scan",
+    "meaning": "をスキャンする",
+    "example": "Scan the document carefully.",
+    "example_jp": "書類を丁寧にスキャンしなさい。"
+  },
+  {
+    "word": "promotion",
+    "meaning": "昇級",
+    "example": "He got a well-deserved promotion.",
+    "example_jp": "彼は当然の昇級を果たした。"
+  },
+  {
+    "word": "improvement",
+    "meaning": "改善",
+    "example": "We have seen great improvements.",
+    "example_jp": "私たちは大きな改善が見られた。"
+  },
+  {
+    "word": "degree",
+    "meaning": "学位",
+    "example": "She earned a degree in science.",
+    "example_jp": "彼女は科学の学位を取得した。"
+  },
+  {
+    "word": "instruction",
+    "meaning": "指示",
+    "example": "Follow the teacher's instructions.",
+    "example_jp": "先生の指示に従いなさい。"
+  },
+  {
+    "word": "countryside",
+    "meaning": "田舎",
+    "example": "Life in the countryside is quiet.",
+    "example_jp": "田舎での生活は静かだ。"
+  },
+  {
+    "word": "brand",
+    "meaning": "ブランド",
+    "example": "This is a popular clothing brand.",
+    "example_jp": "これは人気の衣類ブランドだ。"
+  },
+  {
+    "word": "privacy",
+    "meaning": "プライバシー",
+    "example": "Respect your neighbor's privacy.",
+    "example_jp": "近所の人のプライバシーを尊重しなさい。"
+  },
+  {
+    "word": "healthcare",
+    "meaning": "医療",
+    "example": "Quality healthcare is essential.",
+    "example_jp": "質の高い医療が不可欠だ。"
+  },
+  {
+    "word": "term",
+    "meaning": "期間",
+    "example": "This is a short term project.",
+    "example_jp": "これは短期間のプロジェクトだ。"
+  },
+  {
+    "word": "clinic",
+    "meaning": "診療所",
+    "example": "I have an appointment at the clinic.",
+    "example_jp": "診療所で診察の予約がある。"
+  },
+  {
+    "word": "safety",
+    "meaning": "安全(性)",
+    "example": "Check the safety of the equipment.",
+    "example_jp": "機器の安全性を確認しなさい。"
+  },
+  {
+    "word": "blood",
+    "meaning": "血",
+    "example": "He lost a lot of blood.",
+    "example_jp": "彼は多量の血を失った。"
+  },
+  {
+    "word": "tourism",
+    "meaning": "観光事業",
+    "example": "The area relies on tourism.",
+    "example_jp": "その地域は観光事業に頼っている。"
+  },
+  {
+    "word": "construction",
+    "meaning": "建設(工事)",
+    "example": "The construction is nearly finished.",
+    "example_jp": "建設工事がほぼ終わった。"
+  },
+  {
+    "word": "temple",
+    "meaning": "寺院",
+    "example": "We visited the ancient temple.",
+    "example_jp": "私たちは古代の寺院を訪れた。"
+  },
+  {
+    "word": "demand",
+    "meaning": "需要",
+    "example": "The demand for oil is high.",
+    "example_jp": "石油の需要が高い。"
+  },
+  {
+    "word": "crop",
+    "meaning": "作物",
+    "example": "This year's crop is excellent.",
+    "example_jp": "今年の作物は素晴らしい。"
+  },
+  {
+    "word": "campaign",
+    "meaning": "(社会的・政治的・商業的な)組織的活動[運動]",
+    "example": "They started a cleaning campaign.",
+    "example_jp": "彼らは清掃活動を始めた。"
+  },
+  {
+    "word": "conference",
+    "meaning": "(公式の)会議",
+    "example": "I have to attend a conference.",
+    "example_jp": "公式の会議に出席しなければならない。"
+  },
+  {
+    "word": "poison",
+    "meaning": "毒",
+    "example": "Some mushrooms are poison.",
+    "example_jp": "いくつかのキノコは毒がある。"
+  },
+  {
+    "word": "chemistry",
+    "meaning": "化学",
+    "example": "She is interested in chemistry.",
+    "example_jp": "彼女は化学に興味がある。"
+  },
+  {
+    "word": "delivery",
+    "meaning": "配達",
+    "example": "Is delivery available today?",
+    "example_jp": "今日は配達可能ですか？"
+  },
+  {
+    "word": "slum",
+    "meaning": "スラム街",
+    "example": "He helps people in the slum.",
+    "example_jp": "彼はスラム街の人々を助けている。"
+  },
+  {
+    "word": "panel",
+    "meaning": "パネル",
+    "example": "He installed a solar panel.",
+    "example_jp": "彼は太陽光パネルを設置した。"
+  },
+  {
+    "word": "flavor",
+    "meaning": "香味料",
+    "example": "Add a little flavor to the food.",
+    "example_jp": "食べ物に少し香味料を加えなさい。"
+  },
+  {
+    "word": "surface",
+    "meaning": "表面",
+    "example": "The surface is very smooth.",
+    "example_jp": "その表面はとても滑らかだ。"
+  }
+]

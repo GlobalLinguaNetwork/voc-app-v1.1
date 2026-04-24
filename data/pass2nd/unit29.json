@@ -1,0 +1,362 @@
+[
+  {
+    "word": "except for~",
+    "meaning": "〜を除いては",
+    "example": "Everyone arrived on time except for him.",
+    "example_jp": "彼を除いては、全員が時間通りに到着した。"
+  },
+  {
+    "word": "exchange A for B",
+    "meaning": "Aをと交換する",
+    "example": "I exchanged my ticket for a better seat.",
+    "example_jp": "チケットをより良い席のものと交換した。"
+  },
+  {
+    "word": "in return (for~)",
+    "meaning": "(〜の)お返しに",
+    "example": "He gave me a gift in return for my help.",
+    "example_jp": "彼は私の助けのお返しにプレゼントをくれた。"
+  },
+  {
+    "word": "feel like doing",
+    "meaning": "〜したい気がする",
+    "example": "I feel like going for a walk.",
+    "example_jp": "散歩に行きたい気分だ。"
+  },
+  {
+    "word": "for fear of~",
+    "meaning": "〜を恐れて",
+    "example": "He drove slowly for fear of an accident.",
+    "example_jp": "彼は事故を恐れてゆっくり運転した。"
+  },
+  {
+    "word": "for long",
+    "meaning": "長い間",
+    "example": "She didn't stay at the party for long.",
+    "example_jp": "彼女はパーティーに長くは留まらなかった。"
+  },
+  {
+    "word": "give A a hand",
+    "meaning": "Aを手助けする",
+    "example": "Could you give me a hand with this bag?",
+    "example_jp": "このカバンを持つのを手伝ってくれますか？"
+  },
+  {
+    "word": "give in to~",
+    "meaning": "〜に屈する",
+    "example": "They finally gave in to our demands.",
+    "example_jp": "彼らはついに私たちの要求に屈した。"
+  },
+  {
+    "word": "go into ~",
+    "meaning": "〜を詳しく説明する",
+    "example": "We don't need to go into all the details.",
+    "example_jp": "すべての詳細を詳しく説明する必要はない。"
+  },
+  {
+    "word": "go with~",
+    "meaning": "〜と合う、〜を調和する",
+    "example": "Does this tie go with my blue shirt?",
+    "example_jp": "このネクタイは私の青いシャツと合うかな？"
+  },
+  {
+    "word": "had better do",
+    "meaning": "〜するほうが良い",
+    "example": "You had better see a doctor.",
+    "example_jp": "医者に診てもらったほうがいいよ。"
+  },
+  {
+    "word": "if A were to do",
+    "meaning": "仮にAが〜するようなことがあれば",
+    "example": "If the sun were to stop shining, we would have no light.",
+    "example_jp": "仮に太陽が輝くのをやめるようなことがあれば、光はなくなるだろう。"
+  },
+  {
+    "word": "in addition to~",
+    "meaning": "〜に加えて",
+    "example": "In addition to English, he speaks Spanish.",
+    "example_jp": "英語に加えて、彼はスペイン語も話す。"
+  },
+  {
+    "word": "in charge of~",
+    "meaning": "〜を管理する",
+    "example": "She is in charge of the marketing department.",
+    "example_jp": "彼女はマーケティング部門を管理している。"
+  },
+  {
+    "word": "in other words",
+    "meaning": "言い換えれば、つまり",
+    "example": "It is free; in other words, you pay nothing.",
+    "example_jp": "それは無料です。言い換えれば、支払いは不要です。"
+  },
+  {
+    "word": "in response to~",
+    "meaning": "〜に応えて",
+    "example": "The company changed its policy in response to complaints.",
+    "example_jp": "その会社は苦情に応えて方針を変更した。"
+  },
+  {
+    "word": "in trouble",
+    "meaning": "困った状態で",
+    "example": "He got into trouble for being late again.",
+    "example_jp": "彼はまた遅刻して困った状態になった。"
+  },
+  {
+    "word": "in turn",
+    "meaning": "その結果",
+    "example": "Increased production will, in turn, lower costs.",
+    "example_jp": "増産は、その結果としてコストを下げることになる。"
+  },
+  {
+    "word": "make a mistake",
+    "meaning": "間違いを犯す",
+    "example": "It's natural to make a mistake sometimes.",
+    "example_jp": "時々間違いを犯すのは自然なことだ。"
+  },
+  {
+    "word": "on (in) behalf of~",
+    "meaning": "〜を代表して",
+    "example": "I am speaking on behalf of the group.",
+    "example_jp": "グループを代表して発言しています。"
+  },
+  {
+    "word": "on (in) behalf of~",
+    "meaning": "〜のために",
+    "example": "We collected money on behalf of the victims.",
+    "example_jp": "被害者のために募金を集めた。"
+  },
+  {
+    "word": "out of stock",
+    "meaning": "在庫切れの",
+    "example": "I'm afraid that item is out of stock.",
+    "example_jp": "あいにくその商品は在庫切れです。"
+  },
+  {
+    "word": "pay (give) attention to",
+    "meaning": "〜に注意を払う",
+    "example": "Please pay attention to what I say.",
+    "example_jp": "私の言うことに注意を払ってください。"
+  },
+  {
+    "word": "persuade A to do",
+    "meaning": "Aを〜するように説得する",
+    "example": "She persuaded him to join the club.",
+    "example_jp": "彼女は彼を説得してクラブに入部させた。"
+  },
+  {
+    "word": "point out ~",
+    "meaning": "〜を指摘する",
+    "example": "He pointed out the errors in the document.",
+    "example_jp": "彼は文書の誤りを指摘した。"
+  },
+  {
+    "word": "point out ~",
+    "meaning": "〜を指し示す",
+    "example": "She pointed out the correct path.",
+    "example_jp": "彼女は正しい道を指し示した。"
+  },
+  {
+    "word": "rely on A for B",
+    "meaning": "Bを求めてAを頼る",
+    "example": "I rely on my teacher for advice.",
+    "example_jp": "助言を求めて先生を頼る。"
+  },
+  {
+    "word": "run out of~",
+    "meaning": "〜を使い果たす",
+    "example": "We have run out of gas.",
+    "example_jp": "ガソリンを使い果たしてしまった。"
+  },
+  {
+    "word": "sign up for~",
+    "meaning": "〜に申し込む",
+    "example": "I signed up for the online course.",
+    "example_jp": "オンライン講座に申し込んだ。"
+  },
+  {
+    "word": "sign up for~",
+    "meaning": "〜に登録する",
+    "example": "Sign up for our newsletter.",
+    "example_jp": "私たちのニュースレターに登録してください。"
+  },
+  {
+    "word": "stick to~",
+    "meaning": "〜をやり通す",
+    "example": "You should stick to your plan.",
+    "example_jp": "計画をやり通すべきだ。"
+  },
+  {
+    "word": "stick to~",
+    "meaning": "〜にくっつく",
+    "example": "Mud sticks to your shoes.",
+    "example_jp": "泥が靴にくっつく。"
+  },
+  {
+    "word": "take away ~",
+    "meaning": "〜を持ち去る",
+    "example": "The waiter took away the dirty plates.",
+    "example_jp": "ウェイターが汚れた皿を持ち去った。"
+  },
+  {
+    "word": "take ~ for granted",
+    "meaning": "〜を当然のことと考える",
+    "example": "Don't take your good health for granted.",
+    "example_jp": "健康であることを当然のことと思わないで。"
+  },
+  {
+    "word": "tend to do",
+    "meaning": "〜しがちである",
+    "example": "People tend to avoid conflicts.",
+    "example_jp": "人は対立を避けがちだ。"
+  },
+  {
+    "word": "turn in ~",
+    "meaning": "〜を提出する",
+    "example": "Please turn in your assignments by Friday.",
+    "example_jp": "金曜日までに課題を提出してください。"
+  },
+  {
+    "word": "would rather do",
+    "meaning": "むしろ〜したい",
+    "example": "I would rather stay home today.",
+    "example_jp": "今日はむしろ家にいたい。"
+  },
+  {
+    "word": "a bunch of~",
+    "meaning": "たくさんの",
+    "example": "I have a bunch of emails to answer.",
+    "example_jp": "返信すべきメールがたくさんある。"
+  },
+  {
+    "word": "a bunch of~",
+    "meaning": "一房の",
+    "example": "I bought a bunch of grapes.",
+    "example_jp": "ブドウを一房買った。"
+  },
+  {
+    "word": "a wide range of~",
+    "meaning": "広範囲に渡る〜、様々な〜",
+    "example": "They offer a wide range of services.",
+    "example_jp": "彼らは様々なサービスを提供している。"
+  },
+  {
+    "word": "ahead of~",
+    "meaning": "〜より早く",
+    "example": "She finished the race ahead of everyone else.",
+    "example_jp": "彼女は他の誰よりも早くレースを終えた。"
+  },
+  {
+    "word": "ahead of~",
+    "meaning": "〜に先立って",
+    "example": "They met ahead of the conference.",
+    "example_jp": "彼らは会議に先立って会った。"
+  },
+  {
+    "word": "allow A to do",
+    "meaning": "Aが〜するのを許す",
+    "example": "My parents don't allow me to stay out late.",
+    "example_jp": "両親は私に遅くまで出歩くことを許さない。"
+  },
+  {
+    "word": "allow A to do",
+    "meaning": "Aが〜できる",
+    "example": "This app allows you to edit photos easily.",
+    "example_jp": "このアプリを使えば写真を簡単に編集できる。"
+  },
+  {
+    "word": "~. and so on",
+    "meaning": "〜など",
+    "example": "I bought pens, paper, notebooks, and so on.",
+    "example_jp": "ペン、紙、ノートなどを買った。"
+  },
+  {
+    "word": "as follows",
+    "meaning": "次の通り",
+    "example": "The rules are as follows.",
+    "example_jp": "規則は次の通りです。"
+  },
+  {
+    "word": "at the moment",
+    "meaning": "今、現在",
+    "example": "He is busy at the moment.",
+    "example_jp": "彼は今、忙しい。"
+  },
+  {
+    "word": "at the moment",
+    "meaning": "そのときに",
+    "example": "I didn't know what to do at the moment.",
+    "example_jp": "そのとき、何をすべきかわからなかった。"
+  },
+  {
+    "word": "be concerned with~",
+    "meaning": "〜に関心がある",
+    "example": "She is concerned with human rights.",
+    "example_jp": "彼女は人権に関心がある。"
+  },
+  {
+    "word": "be concerned with~",
+    "meaning": "〜と関わる",
+    "example": "My job is concerned with public safety.",
+    "example_jp": "私の仕事は公共の安全に関わっている。"
+  },
+  {
+    "word": "be responsible for ~",
+    "meaning": "〜の責任がある",
+    "example": "Who is responsible for this mess?",
+    "example_jp": "誰がこの散らかった状態に責任があるのですか？"
+  },
+  {
+    "word": "be said to be~",
+    "meaning": "〜だと言われている",
+    "example": "The new manager is said to be very strict.",
+    "example_jp": "新しいマネージャーはとても厳しいと言われている。"
+  },
+  {
+    "word": "be satisfied with ~",
+    "meaning": "〜に満足している",
+    "example": "I am satisfied with my current job.",
+    "example_jp": "私は現在の仕事に満足している。"
+  },
+  {
+    "word": "behind one’s back",
+    "meaning": "〜のいないところで、影で",
+    "example": "It is rude to talk about people behind their backs.",
+    "example_jp": "影で人の悪口を言うのは失礼だ。"
+  },
+  {
+    "word": "by far",
+    "meaning": "断然、ずば抜けて",
+    "example": "This is by far the best movie I have ever seen.",
+    "example_jp": "これは私が今まで見た中で断然最高の映画だ。"
+  },
+  {
+    "word": "by way of ~",
+    "meaning": "〜経由で",
+    "example": "We flew to New York by way of Tokyo.",
+    "example_jp": "私たちは東京経由でニューヨークへ飛んだ。"
+  },
+  {
+    "word": "by way of ~",
+    "meaning": "〜の手段として",
+    "example": "He said it by way of an apology.",
+    "example_jp": "彼は謝罪の手段としてそれを言った。"
+  },
+  {
+    "word": "catch up with ~",
+    "meaning": "〜に追いつく",
+    "example": "She ran to catch up with her friends.",
+    "example_jp": "彼女は友達に追いつくために走った。"
+  },
+  {
+    "word": "change one’s mind",
+    "meaning": "気が変わる",
+    "example": "I might change my mind later.",
+    "example_jp": "後で気が変わるかもしれない。"
+  },
+  {
+    "word": "come to do",
+    "meaning": "〜するようになる",
+    "example": "I came to love this city.",
+    "example_jp": "この街が好きになった。"
+  }
+]

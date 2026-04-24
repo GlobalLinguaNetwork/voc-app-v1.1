@@ -1,0 +1,380 @@
+[
+  {
+    "word": "documentary",
+    "meaning": "ドキュメンタリー(番組・映画)",
+    "example": "I watched an interesting documentary about whales.",
+    "example_jp": "私はクジラに関する面白いドキュメンタリーを見た。"
+  },
+  {
+    "word": "documentary",
+    "meaning": "実録",
+    "example": "The book is a documentary of the war.",
+    "example_jp": "その本は戦争の実録である。"
+  },
+  {
+    "word": "studio",
+    "meaning": "スタジオ、アトリエ",
+    "example": "The artist paints in her studio.",
+    "example_jp": "その芸術家はアトリエで絵を描いている。"
+  },
+  {
+    "word": "weapon",
+    "meaning": "武器、兵器",
+    "example": "They found a hidden weapon.",
+    "example_jp": "彼らは隠された武器を見つけた。"
+  },
+  {
+    "word": "procedure",
+    "meaning": "手順、手続き",
+    "example": "Follow the standard procedure.",
+    "example_jp": "標準的な手順に従ってください。"
+  },
+  {
+    "word": "reputation",
+    "meaning": "評判、名声",
+    "example": "This restaurant has a good reputation.",
+    "example_jp": "このレストランは評判が良い。"
+  },
+  {
+    "word": "species",
+    "meaning": "種",
+    "example": "Many species are in danger.",
+    "example_jp": "多くの種が危険にさらされている。"
+  },
+  {
+    "word": "substance",
+    "meaning": "物質",
+    "example": "It is a dangerous substance.",
+    "example_jp": "それは危険な物質だ。"
+  },
+  {
+    "word": "substance",
+    "meaning": "実質",
+    "example": "His speech lacked substance.",
+    "example_jp": "彼のスピーチには実質が欠けていた。"
+  },
+  {
+    "word": "status",
+    "meaning": "地位、身分",
+    "example": "He has a high social status.",
+    "example_jp": "彼は高い社会的地位にある。"
+  },
+  {
+    "word": "desire",
+    "meaning": "願望、欲望、欲求",
+    "example": "I have a strong desire to learn.",
+    "example_jp": "私には学びたいという強い欲求がある。"
+  },
+  {
+    "word": "deal",
+    "meaning": "量",
+    "example": "A great deal of water was wasted.",
+    "example_jp": "大量の水が無駄になった。"
+  },
+  {
+    "word": "biofuel",
+    "meaning": "バイオ燃料",
+    "example": "Biofuel is better for the environment.",
+    "example_jp": "バイオ燃料は環境により良い。"
+  },
+  {
+    "word": "room",
+    "meaning": "余地、場所",
+    "example": "There is no room for doubt.",
+    "example_jp": "疑いの余地はない。"
+  },
+  {
+    "word": "room",
+    "meaning": "部屋",
+    "example": "Please clean your room.",
+    "example_jp": "部屋を掃除してください。"
+  },
+  {
+    "word": "internship",
+    "meaning": "インターンシップ、実習訓練(期間)",
+    "example": "She is doing an internship this summer.",
+    "example_jp": "彼女はこの夏、インターンシップをしている。"
+  },
+  {
+    "word": "wheel",
+    "meaning": "車輪",
+    "example": "The wheel of the car is broken.",
+    "example_jp": "車の車輪が壊れている。"
+  },
+  {
+    "word": "principal",
+    "meaning": "校長、長",
+    "example": "The principal talked to the students.",
+    "example_jp": "校長が生徒たちに話しかけた。"
+  },
+  {
+    "word": "shot",
+    "meaning": "(ワクチンなどの)注射",
+    "example": "I got a flu shot today.",
+    "example_jp": "今日、インフルエンザの予防接種を受けた。"
+  },
+  {
+    "word": "shot",
+    "meaning": "シュート",
+    "example": "He made a great shot.",
+    "example_jp": "彼は素晴らしいシュートを決めた。"
+  },
+  {
+    "word": "shot",
+    "meaning": "発砲",
+    "example": "I heard a gunshot last night.",
+    "example_jp": "昨夜、発砲の音が聞こえた。"
+  },
+  {
+    "word": "laundry",
+    "meaning": "洗濯(物)",
+    "example": "I need to do the laundry.",
+    "example_jp": "洗濯をしなければならない。"
+  },
+  {
+    "word": "laundry",
+    "meaning": "クリーニング店",
+    "example": "I picked up my suit from the laundry.",
+    "example_jp": "クリーニング店でスーツを受け取った。"
+  },
+  {
+    "word": "press",
+    "meaning": "新聞、報道機関",
+    "example": "The press reported the news.",
+    "example_jp": "報道機関がそのニュースを報じた。"
+  },
+  {
+    "word": "fitness",
+    "meaning": "健康",
+    "example": "He maintains his fitness by running.",
+    "example_jp": "彼はランニングで健康を維持している。"
+  },
+  {
+    "word": "fitness",
+    "meaning": "適合",
+    "example": "We checked the fitness of the candidate.",
+    "example_jp": "候補者の適合性を確認した。"
+  },
+  {
+    "word": "scenery",
+    "meaning": "風景、景色",
+    "example": "The scenery was beautiful.",
+    "example_jp": "景色が美しかった。"
+  },
+  {
+    "word": "figure",
+    "meaning": "数字",
+    "example": "Check the sales figures.",
+    "example_jp": "売上の数字を確認して。"
+  },
+  {
+    "word": "figure",
+    "meaning": "体型",
+    "example": "She has a slender figure.",
+    "example_jp": "彼女はほっそりした体型をしている。"
+  },
+  {
+    "word": "figure",
+    "meaning": "人物",
+    "example": "He is a famous historical figure.",
+    "example_jp": "彼は有名な歴史的人物だ。"
+  },
+  {
+    "word": "disagreement",
+    "meaning": "意見の相違、不一致",
+    "example": "There was a disagreement over the plan.",
+    "example_jp": "計画について意見の相違があった。"
+  },
+  {
+    "word": "suitable",
+    "meaning": "適した",
+    "example": "This weather is suitable for a walk.",
+    "example_jp": "この天気は散歩に適している。"
+  },
+  {
+    "word": "guilty",
+    "meaning": "罪悪感のある",
+    "example": "I feel guilty about lying to you.",
+    "example_jp": "あなたに嘘をついたことに罪悪感を感じる。"
+  },
+  {
+    "word": "guilty",
+    "meaning": "有罪の",
+    "example": "The jury found him guilty.",
+    "example_jp": "陪審員は彼を有罪と判断した。"
+  },
+  {
+    "word": "inexpensive",
+    "meaning": "安価な",
+    "example": "The food here is inexpensive.",
+    "example_jp": "ここの食べ物は安価だ。"
+  },
+  {
+    "word": "curios",
+    "meaning": "好奇心の強い、知りたがる、奇妙な",
+    "example": "The cat is very curious.",
+    "example_jp": "その猫はとても好奇心が強い。"
+  },
+  {
+    "word": "ethnic",
+    "meaning": "民族的な",
+    "example": "They serve ethnic food.",
+    "example_jp": "彼らは民族料理を提供している。"
+  },
+  {
+    "word": "leftover",
+    "meaning": "食べ残し",
+    "example": "I ate the leftovers for lunch.",
+    "example_jp": "昼食に食べ残しを食べた。"
+  },
+  {
+    "word": "potential",
+    "meaning": "潜在的な",
+    "example": "This is a potential problem.",
+    "example_jp": "これは潜在的な問題だ。"
+  },
+  {
+    "word": "general",
+    "meaning": "一般的な",
+    "example": "This is a general rule.",
+    "example_jp": "これが一般的なルールです。"
+  },
+  {
+    "word": "general",
+    "meaning": "全体の",
+    "example": "I have a general idea of the plan.",
+    "example_jp": "計画の全体的な構想は理解している。"
+  },
+  {
+    "word": "complex",
+    "meaning": "複雑な",
+    "example": "The instructions were complex.",
+    "example_jp": "その説明書は複雑だった。"
+  },
+  {
+    "word": "complex",
+    "meaning": "複合の",
+    "example": "They live in a large apartment complex.",
+    "example_jp": "彼らは大きな集合住宅に住んでいる。"
+  },
+  {
+    "word": "overall",
+    "meaning": "全般(全体)的な",
+    "example": "The overall cost is high.",
+    "example_jp": "全体的なコストは高い。"
+  },
+  {
+    "word": "alternative",
+    "meaning": "代わりの",
+    "example": "We need an alternative plan.",
+    "example_jp": "代わりの計画が必要だ。"
+  },
+  {
+    "word": "alternative",
+    "meaning": "二者択一の",
+    "example": "There is no alternative.",
+    "example_jp": "他に選択肢はない。"
+  },
+  {
+    "word": "additional",
+    "meaning": "追加の",
+    "example": "We need additional information.",
+    "example_jp": "追加の情報が必要です。"
+  },
+  {
+    "word": "cheerful",
+    "meaning": "元気の良い、陽気な",
+    "example": "She has a cheerful personality.",
+    "example_jp": "彼女は陽気な性格だ。"
+  },
+  {
+    "word": "imperial",
+    "meaning": "皇帝の、帝国の",
+    "example": "It was an imperial palace.",
+    "example_jp": "それは帝国の宮殿だった。"
+  },
+  {
+    "word": "face-to-face",
+    "meaning": "対面の",
+    "example": "We need a face-to-face meeting.",
+    "example_jp": "私たちは対面の会議が必要だ。"
+  },
+  {
+    "word": "informal",
+    "meaning": "くだけた、非公式の",
+    "example": "The party was informal.",
+    "example_jp": "そのパーティーはくだけた雰囲気だった。"
+  },
+  {
+    "word": "eco-friendly",
+    "meaning": "環境に優しい",
+    "example": "I bought an eco-friendly bag.",
+    "example_jp": "環境に優しいバッグを買った。"
+  },
+  {
+    "word": "secondhand",
+    "meaning": "中古の",
+    "example": "I bought a secondhand car.",
+    "example_jp": "私は中古車を買った。"
+  },
+  {
+    "word": "homeless",
+    "meaning": "家のない",
+    "example": "Many homeless people need help.",
+    "example_jp": "多くの家のない人々が助けを必要としている。"
+  },
+  {
+    "word": "sound",
+    "meaning": "健全な、安定した、妥当な",
+    "example": "The advice was sound.",
+    "example_jp": "そのアドバイスは妥当だった。"
+  },
+  {
+    "word": "scary",
+    "meaning": "怖い、恐ろしい",
+    "example": "That was a scary movie.",
+    "example_jp": "あれは怖い映画だった。"
+  },
+  {
+    "word": "classical",
+    "meaning": "古典的な、古典主義の",
+    "example": "I like listening to classical music.",
+    "example_jp": "私は古典音楽を聴くのが好きだ。"
+  },
+  {
+    "word": "responsible",
+    "meaning": "責任のある",
+    "example": "Who is responsible for this?",
+    "example_jp": "誰がこれに責任があるのですか？"
+  },
+  {
+    "word": "awake",
+    "meaning": "目が覚めて",
+    "example": "I was wide awake all night.",
+    "example_jp": "一晩中目が覚めていた。"
+  },
+  {
+    "word": "slightly",
+    "meaning": "わずかに",
+    "example": "The price is slightly higher.",
+    "example_jp": "価格はわずかに高い。"
+  },
+  {
+    "word": "specially",
+    "meaning": "特別に、特に",
+    "example": "This cake is specially made for you.",
+    "example_jp": "このケーキはあなたのために特別に作られた。"
+  },
+  {
+    "word": "silently",
+    "meaning": "黙って、静かに",
+    "example": "He walked silently.",
+    "example_jp": "彼は静かに歩いた。"
+  },
+  {
+    "word": "hopefully",
+    "meaning": "うまくいけば、願わくば",
+    "example": "Hopefully, the weather will be nice.",
+    "example_jp": "うまくいけば、天気が良くなるだろう。"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "word": "amount to ~",
+    "meaning": "総計で〜に達する",
+    "example": "The total cost will amount to five hundred dollars.",
+    "example_jp": "総費用は500ドルに達するだろう。"
+  },
+  {
+    "word": "anything but ~",
+    "meaning": "決して〜でない",
+    "example": "This hotel is anything but cheap.",
+    "example_jp": "このホテルは決して安くはない。"
+  },
+  {
+    "word": "as for [to] ~",
+    "meaning": "〜に関しては",
+    "example": "As for me, I prefer tea over coffee.",
+    "example_jp": "私に関しては、コーヒーより紅茶の方が好きだ。"
+  },
+  {
+    "word": "as time goes by",
+    "meaning": "時間がたつにつれて",
+    "example": "Things get easier as time goes by.",
+    "example_jp": "時間がたつにつれて、物事は楽になっていく。"
+  },
+  {
+    "word": "be anxious about ~",
+    "meaning": "〜心配している",
+    "example": "I'm anxious about the exam results.",
+    "example_jp": "試験の結果が心配だ。"
+  },
+  {
+    "word": "be at a loss",
+    "meaning": "困っている、途方に暮れている",
+    "example": "I was at a loss for words when I heard the news.",
+    "example_jp": "そのニュースを聞いたとき、私は言葉に詰まり途方に暮れた。"
+  },
+  {
+    "word": "be engaged to A",
+    "meaning": "Aと婚約している",
+    "example": "She is engaged to a kind man.",
+    "example_jp": "彼女は親切な男性と婚約している。"
+  },
+  {
+    "word": "be equal to ~",
+    "meaning": "〜と同等である、〜と等しい",
+    "example": "Two plus two is equal to four.",
+    "example_jp": "2足す2は4と等しい。"
+  },
+  {
+    "word": "be guilty of ~",
+    "meaning": "〜の罪を犯している",
+    "example": "He was found guilty of theft.",
+    "example_jp": "彼は窃盗の罪を犯したと判決を受けた。"
+  },
+  {
+    "word": "be known to ~",
+    "meaning": "〜に知られている",
+    "example": "He is known to everyone in the neighborhood.",
+    "example_jp": "彼は近所の誰にでも知られている。"
+  },
+  {
+    "word": "be well off",
+    "meaning": "裕福である",
+    "example": "They are quite well off.",
+    "example_jp": "彼らはかなり裕福だ。"
+  },
+  {
+    "word": "be worthy of ~",
+    "meaning": "〜に値する、〜にふさわしい",
+    "example": "This book is worthy of your attention.",
+    "example_jp": "この本は読む価値がある（注意を払うに値する）。"
+  },
+  {
+    "word": "beyond one’s reach",
+    "meaning": "〜の届く範囲を超えて",
+    "example": "The top shelf was beyond my reach.",
+    "example_jp": "一番上の棚は私の届く範囲を超えていた。"
+  },
+  {
+    "word": "by degrees",
+    "meaning": "徐々に",
+    "example": "The temperature rose by degrees.",
+    "example_jp": "気温が徐々に上がった。"
+  },
+  {
+    "word": "by nature",
+    "meaning": "生まれつき",
+    "example": "She is kind by nature.",
+    "example_jp": "彼女は生まれつき親切だ。"
+  },
+  {
+    "word": "call in ~",
+    "meaning": "（医師･専門家）を呼ぶ",
+    "example": "You should call in a doctor.",
+    "example_jp": "医師を呼んだほうがいい。"
+  },
+  {
+    "word": "check out",
+    "meaning": "勘定を済ませて出る、チェックアウトする",
+    "example": "We need to check out by noon.",
+    "example_jp": "正午までにチェックアウトしなければならない。"
+  },
+  {
+    "word": "come down",
+    "meaning": "（価格などが）下がる",
+    "example": "Prices will come down soon.",
+    "example_jp": "価格はすぐに下がるだろう。"
+  },
+  {
+    "word": "come down",
+    "meaning": "降りてくる",
+    "example": "Can you come down here for a second?",
+    "example_jp": "ちょっとここに降りてきてくれる？"
+  },
+  {
+    "word": "decide on ~",
+    "meaning": "〜を［に］決める",
+    "example": "Have you decided on a date for the party?",
+    "example_jp": "パーティーの日程は決めた？"
+  },
+  {
+    "word": "for a change",
+    "meaning": "気分転換に",
+    "example": "Let's try something new for a change.",
+    "example_jp": "気分転換に新しいことを試してみよう。"
+  },
+  {
+    "word": "get away (from~)",
+    "meaning": "〜から離れる",
+    "example": "I want to get away from the city for the weekend.",
+    "example_jp": "週末は都会から離れたい。"
+  },
+  {
+    "word": "get away (from~)",
+    "meaning": "逃げる",
+    "example": "The thief managed to get away.",
+    "example_jp": "泥棒はなんとか逃げおおせた。"
+  },
+  {
+    "word": "go after 〜",
+    "meaning": "〜の後を追う",
+    "example": "The police went after the car.",
+    "example_jp": "警察はその車を追った。"
+  },
+  {
+    "word": "go along with ~",
+    "meaning": "〜を支持する",
+    "example": "I go along with your plan.",
+    "example_jp": "あなたの計画を支持するよ。"
+  },
+  {
+    "word": "go along with ~",
+    "meaning": "〜と一緒に行く",
+    "example": "She went along with me to the store.",
+    "example_jp": "彼女は私と一緒に店へ行った。"
+  },
+  {
+    "word": "go over ~",
+    "meaning": "〜を詳しく調べる",
+    "example": "Let's go over the report again.",
+    "example_jp": "報告書をもう一度詳しく調べよう。"
+  },
+  {
+    "word": "go through ~",
+    "meaning": "〜を経験する",
+    "example": "I went through a lot of trouble last year.",
+    "example_jp": "昨年は多くの困難を経験した。"
+  },
+  {
+    "word": "hand down ~",
+    "meaning": "〜を後世に残す、〜を伝える",
+    "example": "This tradition was handed down to us.",
+    "example_jp": "この伝統は私たちに伝えられた。"
+  },
+  {
+    "word": "hand [give] out ~",
+    "meaning": "〜を配る",
+    "example": "Please hand out these papers to the class.",
+    "example_jp": "クラスのみんなにこれらの書類を配ってください。"
+  },
+  {
+    "word": "hold the line",
+    "meaning": "電話を切らずに待つ",
+    "example": "Please hold the line for a moment.",
+    "example_jp": "少々お待ちください（電話を切らずに）。"
+  },
+  {
+    "word": "in a row",
+    "meaning": "連続して",
+    "example": "It rained for three days in a row.",
+    "example_jp": "3日連続で雨が降った。"
+  },
+  {
+    "word": "in a row",
+    "meaning": "一列に",
+    "example": "The chairs are arranged in a row.",
+    "example_jp": "椅子が一列に並べられている。"
+  },
+  {
+    "word": "in a [one] sense",
+    "meaning": "ある意味で",
+    "example": "In a sense, you are right.",
+    "example_jp": "ある意味で、君は正しい。"
+  },
+  {
+    "word": "in one’s favor",
+    "meaning": "〜気に入られて",
+    "example": "The decision was in my favor.",
+    "example_jp": "その決定は私に有利なものだった。"
+  },
+  {
+    "word": "in search of ~",
+    "meaning": "〜をさがして、〜を求めて",
+    "example": "They went in search of gold.",
+    "example_jp": "彼らは金を求めて出発した。"
+  },
+  {
+    "word": "in the long run",
+    "meaning": "長い目で見れば",
+    "example": "It will be cheaper in the long run.",
+    "example_jp": "長い目で見れば、その方が安くなるだろう。"
+  },
+  {
+    "word": "in the middle of~",
+    "meaning": "〜の最中に［で］",
+    "example": "I was in the middle of a meeting.",
+    "example_jp": "会議の最中だった。"
+  },
+  {
+    "word": "in the middle of~",
+    "meaning": "〜の真ん中に［で］",
+    "example": "The house is in the middle of the woods.",
+    "example_jp": "その家は森の真ん中にある。"
+  },
+  {
+    "word": "look over ~",
+    "meaning": "〜に目を通す、〜を（ざっと）調べる",
+    "example": "I need to look over your essay.",
+    "example_jp": "君の小論文に目を通す必要がある。"
+  },
+  {
+    "word": "lose one’s way",
+    "meaning": "道に迷う",
+    "example": "I lost my way in the dark.",
+    "example_jp": "暗闇の中で道に迷った。"
+  },
+  {
+    "word": "make a difference",
+    "meaning": "違いを生む",
+    "example": "Your support makes a real difference.",
+    "example_jp": "あなたのサポートは大きな違いを生む。"
+  },
+  {
+    "word": "make do with ~",
+    "meaning": "（ありあわせのもの）で済ます",
+    "example": "We can make do with these tools.",
+    "example_jp": "これらの道具で（なんとなく）済ませることはできる。"
+  },
+  {
+    "word": "name A（B）after C",
+    "meaning": "CにちなんでAを（Bと）名付ける",
+    "example": "They named the baby after his grandfather.",
+    "example_jp": "彼らは祖父にちなんで赤ん坊を名付けた。"
+  },
+  {
+    "word": "no more than ~",
+    "meaning": "わずか〜",
+    "example": "I have no more than five dollars.",
+    "example_jp": "私はわずか5ドルしか持っていない。"
+  },
+  {
+    "word": "now that …",
+    "meaning": "今はもう…だから",
+    "example": "Now that you are here, let's start.",
+    "example_jp": "君が来たことだし、始めよう。"
+  },
+  {
+    "word": "of one’s own",
+    "meaning": "自分自身の",
+    "example": "I want a room of my own.",
+    "example_jp": "自分自身の部屋が欲しい。"
+  },
+  {
+    "word": "on account of ~",
+    "meaning": "〜のために",
+    "example": "The game was cancelled on account of rain.",
+    "example_jp": "雨のために試合は中止になった。"
+  },
+  {
+    "word": "on demand",
+    "meaning": "要求［請求］があり次第",
+    "example": "You can watch the show on demand.",
+    "example_jp": "その番組はオンデマンドで視聴できる。"
+  },
+  {
+    "word": "on the move",
+    "meaning": "発展して",
+    "example": "The team is always on the move.",
+    "example_jp": "そのチームは常に発展し続けている。"
+  },
+  {
+    "word": "on the spot",
+    "meaning": "即座に、その場で",
+    "example": "I decided to accept the offer on the spot.",
+    "example_jp": "その場でオファーを受けることにした。"
+  },
+  {
+    "word": "on top of ~",
+    "meaning": "〜に加えて",
+    "example": "On top of being tired, I was hungry.",
+    "example_jp": "疲れている上に、お腹も空いていた。"
+  },
+  {
+    "word": "on top of ~",
+    "meaning": "〜の上に",
+    "example": "The book is on top of the desk.",
+    "example_jp": "本は机の上にある。"
+  },
+  {
+    "word": "out of date",
+    "meaning": "時代遅れで［の］",
+    "example": "This software is out of date.",
+    "example_jp": "このソフトウェアは時代遅れだ。"
+  },
+  {
+    "word": "pass on A to B",
+    "meaning": "AをBに伝える",
+    "example": "Please pass this message on to him.",
+    "example_jp": "このメッセージを彼に伝えてください。"
+  },
+  {
+    "word": "pick out ~",
+    "meaning": "〜を選び出す",
+    "example": "Can you pick out the best one?",
+    "example_jp": "一番良いものを選び出せる？"
+  }
+]

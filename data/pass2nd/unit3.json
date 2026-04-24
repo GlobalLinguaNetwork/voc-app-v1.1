@@ -1,0 +1,302 @@
+[
+  {
+    "word": "form",
+    "meaning": "を組織する",
+    "example": "They formed a new team.",
+    "example_jp": "彼らは新しいチームを組織した。"
+  },
+  {
+    "word": "cancel",
+    "meaning": "を取り消す",
+    "example": "Please cancel my reservation.",
+    "example_jp": "予約を取り消してください。"
+  },
+  {
+    "word": "relax",
+    "meaning": "くつろぐ",
+    "example": "I like to relax at home.",
+    "example_jp": "家でくつろぐのが好きだ。"
+  },
+  {
+    "word": "add",
+    "meaning": "を加える",
+    "example": "Add some salt to the soup.",
+    "example_jp": "スープに塩を少々加えなさい。"
+  },
+  {
+    "word": "contact",
+    "meaning": "と連絡を取る",
+    "example": "Please contact me later.",
+    "example_jp": "後で私に連絡を取ってください。"
+  },
+  {
+    "word": "purchase",
+    "meaning": "(高価な物・大量の物)を購入する",
+    "example": "We purchased a new car.",
+    "example_jp": "私たちは新しい車を購入した。"
+  },
+  {
+    "word": "expect",
+    "meaning": "を予期する",
+    "example": "I expect good news.",
+    "example_jp": "良い知らせを期待している。"
+  },
+  {
+    "word": "continue",
+    "meaning": "を続ける",
+    "example": "Please continue your work.",
+    "example_jp": "作業を続けてください。"
+  },
+  {
+    "word": "require",
+    "meaning": "を要求する",
+    "example": "This job requires patience.",
+    "example_jp": "この仕事は忍耐を要求する。"
+  },
+  {
+    "word": "replace",
+    "meaning": "を取り替える",
+    "example": "I need to replace the battery.",
+    "example_jp": "電池を取り替える必要がある。"
+  },
+  {
+    "word": "suffer",
+    "meaning": "苦しむ",
+    "example": "He suffers from headaches.",
+    "example_jp": "彼は頭痛に苦しんでいる。"
+  },
+  {
+    "word": "fix",
+    "meaning": "を修理する",
+    "example": "Can you fix my computer?",
+    "example_jp": "コンピュータを修理してくれませんか？"
+  },
+  {
+    "word": "serve",
+    "meaning": "(に)食事を出す",
+    "example": "They serve breakfast until ten.",
+    "example_jp": "朝食は10時まで提供されます。"
+  },
+  {
+    "word": "include",
+    "meaning": "を含む",
+    "example": "The price includes tax.",
+    "example_jp": "価格には税金が含まれている。"
+  },
+  {
+    "word": "attend",
+    "meaning": "に出席する",
+    "example": "I will attend the meeting.",
+    "example_jp": "会議に出席します。"
+  },
+  {
+    "word": "quit",
+    "meaning": "をやめる",
+    "example": "He quit smoking recently.",
+    "example_jp": "彼は最近タバコをやめた。"
+  },
+  {
+    "word": "prefer",
+    "meaning": "の方を好む",
+    "example": "I prefer tea to coffee.",
+    "example_jp": "コーヒーより紅茶の方が好きだ。"
+  },
+  {
+    "word": "recycle",
+    "meaning": "(を)再生利用する",
+    "example": "We should recycle paper.",
+    "example_jp": "紙を再生利用すべきだ。"
+  },
+  {
+    "word": "face",
+    "meaning": "に直面する",
+    "example": "We face many problems.",
+    "example_jp": "私たちは多くの問題に直面している。"
+  },
+  {
+    "word": "invent",
+    "meaning": "を発明する",
+    "example": "Who invented the telephone?",
+    "example_jp": "誰が電話を発明したのか？"
+  },
+  {
+    "word": "prevent",
+    "meaning": "を防ぐ",
+    "example": "This will prevent accidents.",
+    "example_jp": "これが事故を防ぐだろう。"
+  },
+  {
+    "word": "decrease",
+    "meaning": "を減らす",
+    "example": "We should decrease our waste.",
+    "example_jp": "ゴミを減らすべきだ。"
+  },
+  {
+    "word": "attach",
+    "meaning": "を添付する",
+    "example": "Please attach the file.",
+    "example_jp": "ファイルを添付してください。"
+  },
+  {
+    "word": "shape",
+    "meaning": "を形作る",
+    "example": "Shape the clay into a ball.",
+    "example_jp": "粘土を丸い形にしなさい。"
+  },
+  {
+    "word": "fill",
+    "meaning": "を満たす",
+    "example": "Fill the cup with water.",
+    "example_jp": "コップを水で満たしなさい。"
+  },
+  {
+    "word": "exchange",
+    "meaning": "を交換し合う",
+    "example": "Let's exchange contact info.",
+    "example_jp": "連絡先を交換しましょう。"
+  },
+  {
+    "word": "realize",
+    "meaning": "に気づく",
+    "example": "I realized my mistake.",
+    "example_jp": "自分の間違いに気づいた。"
+  },
+  {
+    "word": "lower",
+    "meaning": "を下げる",
+    "example": "Please lower your voice.",
+    "example_jp": "声を下げてください。"
+  },
+  {
+    "word": "guess",
+    "meaning": "だと思う",
+    "example": "I guess he is right.",
+    "example_jp": "彼が正しいんだと思う。"
+  },
+  {
+    "word": "gain",
+    "meaning": "を得る",
+    "example": "You can gain experience here.",
+    "example_jp": "ここで経験を得ることができる。"
+  },
+  {
+    "word": "suit",
+    "meaning": "に似合う",
+    "example": "That color suits you.",
+    "example_jp": "その色はあなたに似合う。"
+  },
+  {
+    "word": "land",
+    "meaning": "着陸する",
+    "example": "The plane will land soon.",
+    "example_jp": "飛行機はまもなく着陸する。"
+  },
+  {
+    "word": "award",
+    "meaning": "AにB(賞など)を与える",
+    "example": "They awarded him a prize.",
+    "example_jp": "彼らは彼に賞を与えた。"
+  },
+  {
+    "word": "statement",
+    "meaning": "陳述",
+    "example": "His statement was clear.",
+    "example_jp": "彼の陳述は明確だった。"
+  },
+  {
+    "word": "insect",
+    "meaning": "虫",
+    "example": "That insect is harmless.",
+    "example_jp": "その虫は無害だ。"
+  },
+  {
+    "word": "department",
+    "meaning": "部門",
+    "example": "She works in the sales department.",
+    "example_jp": "彼女は営業部門で働いている。"
+  },
+  {
+    "word": "membership",
+    "meaning": "会員資格",
+    "example": "I renewed my membership.",
+    "example_jp": "会員資格を更新した。"
+  },
+  {
+    "word": "fat",
+    "meaning": "脂肪",
+    "example": "This food is high in fat.",
+    "example_jp": "この食べ物は脂肪分が多い。"
+  },
+  {
+    "word": "sentence",
+    "meaning": "文",
+    "example": "Read the whole sentence.",
+    "example_jp": "文全体を読みなさい。"
+  },
+  {
+    "word": "community",
+    "meaning": "地域社会",
+    "example": "He helps the community.",
+    "example_jp": "彼は地域社会を助けている。"
+  },
+  {
+    "word": "instrument",
+    "meaning": "機器",
+    "example": "He used a precise instrument.",
+    "example_jp": "彼は精密な機器を使った。"
+  },
+  {
+    "word": "focus",
+    "meaning": "焦点",
+    "example": "Focus is on the main issue.",
+    "example_jp": "焦点は主要な問題にある。"
+  },
+  {
+    "word": "client",
+    "meaning": "顧客",
+    "example": "I have a meeting with a client.",
+    "example_jp": "顧客との打ち合わせがある。"
+  },
+  {
+    "word": "bacteria",
+    "meaning": "細菌",
+    "example": "Soap kills most bacteria.",
+    "example_jp": "石鹸はほとんどの細菌を殺す。"
+  },
+  {
+    "word": "retirement",
+    "meaning": "(定年による)退職",
+    "example": "He is planning his retirement.",
+    "example_jp": "彼は退職後の計画を立てている。"
+  },
+  {
+    "word": "nature",
+    "meaning": "性質",
+    "example": "It is human nature.",
+    "example_jp": "それは人間の性質だ。"
+  },
+  {
+    "word": "earth",
+    "meaning": "地球",
+    "example": "We must protect the earth.",
+    "example_jp": "私たちは地球を守らなければならない。"
+  },
+  {
+    "word": "grocery",
+    "meaning": "食料雑貨店",
+    "example": "I went to the grocery store.",
+    "example_jp": "食料雑貨店へ行った。"
+  },
+  {
+    "word": "trash",
+    "meaning": "ゴミ",
+    "example": "Please empty the trash.",
+    "example_jp": "ゴミを空にしてください。"
+  },
+  {
+    "word": "method",
+    "meaning": "(研究・調査などの)方法",
+    "example": "This is a new method.",
+    "example_jp": "これは新しい方法だ。"
+  }
+]

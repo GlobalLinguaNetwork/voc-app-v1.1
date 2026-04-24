@@ -1,0 +1,350 @@
+[
+  {
+    "word": "direct",
+    "meaning": "を指揮する",
+    "example": "He directed the famous movie.",
+    "example_jp": "彼はその有名な映画を指揮した。"
+  },
+  {
+    "word": "direct",
+    "meaning": "を向ける",
+    "example": "Please direct your attention to the screen.",
+    "example_jp": "画面に注目してください。"
+  },
+  {
+    "word": "admit",
+    "meaning": "を認める",
+    "example": "He admitted that he was wrong.",
+    "example_jp": "彼は自分が間違っていたことを認めた。"
+  },
+  {
+    "word": "regret",
+    "meaning": "を後悔する",
+    "example": "I regret saying that to her.",
+    "example_jp": "彼女にそんなことを言ったのを後悔している。"
+  },
+  {
+    "word": "predict",
+    "meaning": "(を)予測する・(を)予言する",
+    "example": "Experts predict a hot summer.",
+    "example_jp": "専門家は暑い夏を予測している。"
+  },
+  {
+    "word": "cough",
+    "meaning": "咳をする",
+    "example": "He started to cough during the meeting.",
+    "example_jp": "彼は会議中に咳をし始めた。"
+  },
+  {
+    "word": "commute",
+    "meaning": "通勤[通学]する",
+    "example": "She commutes by train every day.",
+    "example_jp": "彼女は毎日電車で通勤している。"
+  },
+  {
+    "word": "resist",
+    "meaning": "を我慢する",
+    "example": "I couldn't resist eating the cake.",
+    "example_jp": "ケーキを食べるのを我慢できなかった。"
+  },
+  {
+    "word": "resist",
+    "meaning": "に抵抗する",
+    "example": "The enemy refused to resist.",
+    "example_jp": "敵は抵抗することを拒んだ。"
+  },
+  {
+    "word": "inherit",
+    "meaning": "を継ぐ・を相続する",
+    "example": "He inherited a lot of money.",
+    "example_jp": "彼は多額の現金を相続した。"
+  },
+  {
+    "word": "sacrifice",
+    "meaning": "を犠牲にする",
+    "example": "He sacrificed his time for his family.",
+    "example_jp": "彼は家族のために自分の時間を犠牲にした。"
+  },
+  {
+    "word": "imply",
+    "meaning": "をほのめかす・をあんに示す",
+    "example": "Her tone implied that she was angry.",
+    "example_jp": "彼女の口調は怒っていることをほのめかしていた。"
+  },
+  {
+    "word": "tolerate",
+    "meaning": "を許容する・を我慢する・に耐える",
+    "example": "I cannot tolerate this noise.",
+    "example_jp": "この騒音には耐えられない。"
+  },
+  {
+    "word": "yell",
+    "meaning": "どなる・叫ぶ",
+    "example": "Don't yell at me.",
+    "example_jp": "私に向かってどならないで。"
+  },
+  {
+    "word": "impose",
+    "meaning": "(義務や税)を課す",
+    "example": "The government imposed a new tax.",
+    "example_jp": "政府は新しい税を課した。"
+  },
+  {
+    "word": "guarantee",
+    "meaning": "を保証する",
+    "example": "I guarantee that it will work.",
+    "example_jp": "それが機能することを保証します。"
+  },
+  {
+    "word": "substitute",
+    "meaning": "を代わりに用いる",
+    "example": "You can substitute butter for oil.",
+    "example_jp": "油の代わりにバターを使うことができる。"
+  },
+  {
+    "word": "collapse",
+    "meaning": "崩壊する",
+    "example": "The building collapsed during the earthquake.",
+    "example_jp": "その建物は地震で崩壊した。"
+  },
+  {
+    "word": "approve",
+    "meaning": "を承認する・良いと認める",
+    "example": "The boss approved the plan.",
+    "example_jp": "上司はその計画を承認した。"
+  },
+  {
+    "word": "interfere",
+    "meaning": "邪魔する",
+    "example": "Don't interfere in my personal life.",
+    "example_jp": "私の私生活を邪魔しないで。"
+  },
+  {
+    "word": "compnesate",
+    "meaning": "に埋め合わせをする",
+    "example": "We will compensate you for your loss.",
+    "example_jp": "損失分を埋め合わせします。"
+  },
+  {
+    "word": "feature",
+    "meaning": "を主演させる",
+    "example": "The movie features a famous actor.",
+    "example_jp": "その映画は有名な俳優を主演させている。"
+  },
+  {
+    "word": "feature",
+    "meaning": "を特集する",
+    "example": "This magazine features local food.",
+    "example_jp": "この雑誌は地元の食べ物を特集している。"
+  },
+  {
+    "word": "bite",
+    "meaning": "(を)かむ",
+    "example": "The dog bit the ball.",
+    "example_jp": "その犬はボールをかんだ。"
+  },
+  {
+    "word": "bite",
+    "meaning": "(を)刺す",
+    "example": "Mosquitoes bite in the summer.",
+    "example_jp": "夏は蚊が刺してくる。"
+  },
+  {
+    "word": "fault",
+    "meaning": "責任",
+    "example": "It is not my fault.",
+    "example_jp": "それは私の責任ではない。"
+  },
+  {
+    "word": "fault",
+    "meaning": "欠点",
+    "example": "Everyone has their faults.",
+    "example_jp": "誰にでも欠点はある。"
+  },
+  {
+    "word": "foreigner",
+    "meaning": "外国人",
+    "example": "He is a foreigner here.",
+    "example_jp": "彼はここでは外国人だ。"
+  },
+  {
+    "word": "eyesight",
+    "meaning": "視力",
+    "example": "She has perfect eyesight.",
+    "example_jp": "彼女は視力が完璧だ。"
+  },
+  {
+    "word": "reminder",
+    "meaning": "リマインダー・思い起こさせるもの",
+    "example": "This note is a reminder for the meeting.",
+    "example_jp": "このメモは会議のリマインダーだ。"
+  },
+  {
+    "word": "forecast",
+    "meaning": "(天気)予報・予測",
+    "example": "The weather forecast says it will rain.",
+    "example_jp": "天気予報によると雨が降るそうだ。"
+  },
+  {
+    "word": "scholarship",
+    "meaning": "奨学金",
+    "example": "She won a scholarship to the university.",
+    "example_jp": "彼女はその大学への奨学金を獲得した。"
+  },
+  {
+    "word": "scholarship",
+    "meaning": "学識",
+    "example": "He is a man of great scholarship.",
+    "example_jp": "彼は非常に学識のある人だ。"
+  },
+  {
+    "word": "breeze",
+    "meaning": "そよ風",
+    "example": "A cool breeze felt nice.",
+    "example_jp": "涼しいそよ風が心地よかった。"
+  },
+  {
+    "word": "sculpture",
+    "meaning": "彫刻(作品)",
+    "example": "He created a marble sculpture.",
+    "example_jp": "彼は大理石の彫刻作品を作った。"
+  },
+  {
+    "word": "exception",
+    "meaning": "例外",
+    "example": "This is an exception to the rule.",
+    "example_jp": "これはルールの例外だ。"
+  },
+  {
+    "word": "luggage",
+    "meaning": "手荷物・スーツケース",
+    "example": "I left my luggage at the station.",
+    "example_jp": "駅に手荷物を置いてきた。"
+  },
+  {
+    "word": "altitude",
+    "meaning": "高度・海抜",
+    "example": "We are at a high altitude.",
+    "example_jp": "私たちは高い高度にいる。"
+  },
+  {
+    "word": "handout",
+    "meaning": "配布資料",
+    "example": "Read the handout carefully.",
+    "example_jp": "配布資料をよく読んでください。"
+  },
+  {
+    "word": "lens",
+    "meaning": "レンズ",
+    "example": "I lost my contact lens.",
+    "example_jp": "コンタクトレンズをなくした。"
+  },
+  {
+    "word": "masterpiece",
+    "meaning": "傑作・名作",
+    "example": "That painting is a masterpiece.",
+    "example_jp": "あの絵画は傑作だ。"
+  },
+  {
+    "word": "stranger",
+    "meaning": "見知らぬ人",
+    "example": "Don't talk to strangers.",
+    "example_jp": "見知らぬ人と話してはいけない。"
+  },
+  {
+    "word": "illustration",
+    "meaning": "挿絵",
+    "example": "Look at the illustration on page five.",
+    "example_jp": "5ページの挿絵を見てください。"
+  },
+  {
+    "word": "illustration",
+    "meaning": "説明(図)",
+    "example": "This is an illustration of how it works.",
+    "example_jp": "これは仕組みの説明図です。"
+  },
+  {
+    "word": "accomplishment",
+    "meaning": "業績・成果",
+    "example": "It was a great accomplishment.",
+    "example_jp": "それは大きな成果だった。"
+  },
+  {
+    "word": "chest",
+    "meaning": "胸(部)",
+    "example": "He felt pain in his chest.",
+    "example_jp": "彼は胸に痛みを感じた。"
+  },
+  {
+    "word": "heartbeat",
+    "meaning": "心臓の鼓動",
+    "example": "His heartbeat was fast.",
+    "example_jp": "彼の心臓の鼓動は速かった。"
+  },
+  {
+    "word": "mask",
+    "meaning": "マスク・面",
+    "example": "She wore a face mask.",
+    "example_jp": "彼女はマスクをしていた。"
+  },
+  {
+    "word": "script",
+    "meaning": "台本",
+    "example": "I memorized the script.",
+    "example_jp": "私は台本を暗記した。"
+  },
+  {
+    "word": "brightness",
+    "meaning": "明るさ・鮮やかさ",
+    "example": "Adjust the brightness of the screen.",
+    "example_jp": "画面の明るさを調整してください。"
+  },
+  {
+    "word": "encouragement",
+    "meaning": "励まし",
+    "example": "I need your encouragement.",
+    "example_jp": "君の励ましが必要だ。"
+  },
+  {
+    "word": "encouragement",
+    "meaning": "奨励・促進",
+    "example": "The law serves as an encouragement to save energy.",
+    "example_jp": "その法律は省エネの促進の役割を果たす。"
+  },
+  {
+    "word": "profile",
+    "meaning": "プロフィール・略歴",
+    "example": "Check her online profile.",
+    "example_jp": "彼女のオンラインプロフィールをチェックして。"
+  },
+  {
+    "word": "joy",
+    "meaning": "喜び・うれしさ",
+    "example": "I felt great joy.",
+    "example_jp": "私は大きな喜びを感じた。"
+  },
+  {
+    "word": "trade",
+    "meaning": "貿易・商売",
+    "example": "They trade goods with Japan.",
+    "example_jp": "彼らは日本と商品を貿易している。"
+  },
+  {
+    "word": "value",
+    "meaning": "価値・値段",
+    "example": "The value of this gold is high.",
+    "example_jp": "この金の価値は高い。"
+  },
+  {
+    "word": "version",
+    "meaning": "(製品などの)型・(出版物などの)版",
+    "example": "I have the latest version.",
+    "example_jp": "私は最新版を持っている。"
+  },
+  {
+    "word": "comment",
+    "meaning": "論評・意見・コメント",
+    "example": "Leave a comment below.",
+    "example_jp": "下にコメントを残してください。"
+  }
+]

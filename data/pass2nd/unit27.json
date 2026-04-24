@@ -1,0 +1,350 @@
+[
+  {
+    "word": "according to ~",
+    "meaning": "〜によれば",
+    "example": "According to the weather report, it will be sunny.",
+    "example_jp": "天気予報によれば、晴れるだろう。"
+  },
+  {
+    "word": "in order to do",
+    "meaning": "〜するために",
+    "example": "I woke up early in order to catch the train.",
+    "example_jp": "電車に乗るために早く起きた。"
+  },
+  {
+    "word": "a number of ~",
+    "meaning": "いくらかの〜",
+    "example": "I have a number of questions.",
+    "example_jp": "いくつか質問があります。"
+  },
+  {
+    "word": "a number of ~",
+    "meaning": "たくさんの〜",
+    "example": "A number of people were waiting for the bus.",
+    "example_jp": "たくさんの人がバスを待っていた。"
+  },
+  {
+    "word": "lead to ~",
+    "meaning": "〜につながる・発展する",
+    "example": "Hard work will lead to success.",
+    "example_jp": "勤勉さは成功につながるだろう。"
+  },
+  {
+    "word": "work on ~",
+    "meaning": "〜に取り組む",
+    "example": "I am working on a new project.",
+    "example_jp": "私は新しいプロジェクトに取り組んでいる。"
+  },
+  {
+    "word": "suffer from ~",
+    "meaning": "〜に苦しむ・悩まされる",
+    "example": "She suffers from a bad headache.",
+    "example_jp": "彼女はひどい頭痛に苦しんでいる。"
+  },
+  {
+    "word": "find out ~",
+    "meaning": "(調べて)〜を知る・わかる",
+    "example": "I need to find out the time of the meeting.",
+    "example_jp": "会議の時間を確認しなければならない。"
+  },
+  {
+    "word": "ask (A) for B",
+    "meaning": "(Aに)Bを求める",
+    "example": "He asked me for some money.",
+    "example_jp": "彼は私にお金を求めた。"
+  },
+  {
+    "word": "be on A",
+    "meaning": "Aのおごりである",
+    "example": "The drinks are on me tonight.",
+    "example_jp": "今夜の飲み物代は私のおごりだ。"
+  },
+  {
+    "word": "instead of ~",
+    "meaning": "〜の代わりに・〜しないで",
+    "example": "I drank tea instead of coffee.",
+    "example_jp": "コーヒーの代わりに紅茶を飲んだ。"
+  },
+  {
+    "word": "set up ~",
+    "meaning": "〜を設置する・設定する",
+    "example": "They set up a new system in the office.",
+    "example_jp": "彼らはオフィスに新しいシステムを設置した。"
+  },
+  {
+    "word": "set up ~",
+    "meaning": "〜を設立する",
+    "example": "She set up her own company.",
+    "example_jp": "彼女は自分の会社を設立した。"
+  },
+  {
+    "word": "come up with ~",
+    "meaning": "〜を思いつく",
+    "example": "She came up with a great idea.",
+    "example_jp": "彼女は素晴らしいアイデアを思いついた。"
+  },
+  {
+    "word": "in particular",
+    "meaning": "特に",
+    "example": "I like music, in particular jazz.",
+    "example_jp": "私は音楽が好きで、特にジャズが好きだ。"
+  },
+  {
+    "word": "pick A up",
+    "meaning": "Aを(車で)迎えに行く・来る",
+    "example": "I will pick you up at the airport.",
+    "example_jp": "空港まであなたを迎えに行きます。"
+  },
+  {
+    "word": "so A to do",
+    "meaning": "とてもAなので〜する",
+    "example": "He was so kind as to show me the way.",
+    "example_jp": "彼はとても親切にも道を教えてくれた。"
+  },
+  {
+    "word": "too A to do",
+    "meaning": "あまりにAなので〜できない",
+    "example": "It is too dark to read.",
+    "example_jp": "暗すぎて読めない。"
+  },
+  {
+    "word": "~ as well",
+    "meaning": "〜もまた",
+    "example": "She speaks French as well.",
+    "example_jp": "彼女はフランス語も話す。"
+  },
+  {
+    "word": "deal with ~",
+    "meaning": "(問題)を処理する",
+    "example": "We need to deal with this problem now.",
+    "example_jp": "今この問題を処理する必要がある。"
+  },
+  {
+    "word": "deal with ~",
+    "meaning": "(主題など)を扱う",
+    "example": "This book deals with history.",
+    "example_jp": "この本は歴史を扱っている。"
+  },
+  {
+    "word": "make A from B",
+    "meaning": "B(原料・材料)からA(製品)を作る",
+    "example": "Paper is made from wood.",
+    "example_jp": "紙は木から作られる。"
+  },
+  {
+    "word": "on time",
+    "meaning": "時間通りに",
+    "example": "The train arrived on time.",
+    "example_jp": "列車は時間通りに到着した。"
+  },
+  {
+    "word": "provide A with B",
+    "meaning": "AにBを提供する",
+    "example": "They provided us with maps.",
+    "example_jp": "彼らは私たちに地図を提供してくれた。"
+  },
+  {
+    "word": "at least",
+    "meaning": "少なくとも",
+    "example": "It costs at least fifty dollars.",
+    "example_jp": "それは少なくとも50ドルかかる。"
+  },
+  {
+    "word": "come out",
+    "meaning": "外に出る",
+    "example": "The sun came out after the rain.",
+    "example_jp": "雨の後、太陽が顔を出した。"
+  },
+  {
+    "word": "come out",
+    "meaning": "発売される",
+    "example": "Her new book will come out soon.",
+    "example_jp": "彼女の新刊がまもなく発売される。"
+  },
+  {
+    "word": "come out",
+    "meaning": "(真実などが)明らかになる",
+    "example": "The truth finally came out.",
+    "example_jp": "ついに真実が明らかになった。"
+  },
+  {
+    "word": "encourage A to do",
+    "meaning": "Aに〜するよう促す・励ます",
+    "example": "My parents encouraged me to study abroad.",
+    "example_jp": "両親は私に留学するよう励ましてくれた。"
+  },
+  {
+    "word": "hand in ~",
+    "meaning": "〜を提出する",
+    "example": "Please hand in your reports.",
+    "example_jp": "レポートを提出してください。"
+  },
+  {
+    "word": "on the other hand",
+    "meaning": "他方では・それに反して",
+    "example": "He is rich; on the other hand, he is lonely.",
+    "example_jp": "彼は金持ちだが、一方で孤独でもある。"
+  },
+  {
+    "word": "a variety of ~",
+    "meaning": "さまざまな〜",
+    "example": "We have a variety of choices.",
+    "example_jp": "私たちにはさまざまな選択肢がある。"
+  },
+  {
+    "word": "be based on ~",
+    "meaning": "〜に基づいている",
+    "example": "The movie is based on a true story.",
+    "example_jp": "その映画は実話に基づいている。"
+  },
+  {
+    "word": "fill out ~",
+    "meaning": "(書類)に記入する",
+    "example": "Please fill out this form.",
+    "example_jp": "この用紙に記入してください。"
+  },
+  {
+    "word": "take part in ~",
+    "meaning": "〜に参加する",
+    "example": "I want to take part in the event.",
+    "example_jp": "そのイベントに参加したい。"
+  },
+  {
+    "word": "up to ~",
+    "meaning": "〜次第で",
+    "example": "It is up to you to decide.",
+    "example_jp": "決めるのはあなた次第だ。"
+  },
+  {
+    "word": "up to ~",
+    "meaning": "〜に至る(まで)",
+    "example": "He can run up to 10 kilometers.",
+    "example_jp": "彼は10キロまでなら走れる。"
+  },
+  {
+    "word": "A rather than B",
+    "meaning": "BよりむしろA",
+    "example": "I chose tea rather than coffee.",
+    "example_jp": "コーヒーよりもむしろ紅茶を選んだ。"
+  },
+  {
+    "word": "be similar to ~",
+    "meaning": "〜と似ている",
+    "example": "This song is similar to that one.",
+    "example_jp": "この歌はあの歌と似ている。"
+  },
+  {
+    "word": "bring back ~",
+    "meaning": "〜を戻す",
+    "example": "Please bring back the book by Friday.",
+    "example_jp": "金曜日までに本を戻してください。"
+  },
+  {
+    "word": "bring back ~",
+    "meaning": "〜を持ち帰る",
+    "example": "I will bring back some souvenirs.",
+    "example_jp": "お土産を持ち帰ります。"
+  },
+  {
+    "word": "figure out ~",
+    "meaning": "〜を理解する・わかる",
+    "example": "I can't figure out why he left.",
+    "example_jp": "なぜ彼が行ってしまったのか分からない。"
+  },
+  {
+    "word": "happen to do",
+    "meaning": "偶然・たまたま〜する",
+    "example": "I happened to see him at the park.",
+    "example_jp": "たまたま公園で彼を見かけた。"
+  },
+  {
+    "word": "much [still] more ~",
+    "meaning": "まして〜はいっそうそうだ",
+    "example": "He can't speak English, much more French.",
+    "example_jp": "彼は英語さえ話せないのだから、ましてフランス語など話せるはずがない。"
+  },
+  {
+    "word": "no longer ~",
+    "meaning": "もはや〜でない",
+    "example": "He no longer works here.",
+    "example_jp": "彼はもうここで働いていない。"
+  },
+  {
+    "word": "prevent A from doing",
+    "meaning": "Aが〜するのを防ぐ",
+    "example": "The rain prevented us from going out.",
+    "example_jp": "雨のせいで外出できなかった。"
+  },
+  {
+    "word": "so far",
+    "meaning": "これまでは",
+    "example": "So far, everything is going well.",
+    "example_jp": "これまでのところ、すべて順調だ。"
+  },
+  {
+    "word": "A as well as B",
+    "meaning": "BだけでなくAもまた",
+    "example": "She is smart as well as kind.",
+    "example_jp": "彼女は親切なだけでなく頭も良い。"
+  },
+  {
+    "word": "as ~ as possible",
+    "meaning": "できるだけ",
+    "example": "Please run as fast as possible.",
+    "example_jp": "できるだけ速く走ってください。"
+  },
+  {
+    "word": "by mistake",
+    "meaning": "誤って",
+    "example": "I took your bag by mistake.",
+    "example_jp": "間違えてあなたのバッグを持ってしまった。"
+  },
+  {
+    "word": "depend on [upon] ~",
+    "meaning": "〜次第である・〜による",
+    "example": "It depends on the weather.",
+    "example_jp": "それは天気次第だ。"
+  },
+  {
+    "word": "get rid of ~",
+    "meaning": "〜を取り除く・処分する",
+    "example": "I need to get rid of these old clothes.",
+    "example_jp": "これらの古い服を処分しなければならない。"
+  },
+  {
+    "word": "help (A) (to) do",
+    "meaning": "(Aが)〜するのを手伝う",
+    "example": "Can you help me clean the room?",
+    "example_jp": "部屋の掃除を手伝ってくれる？"
+  },
+  {
+    "word": "help (A) (to) do",
+    "meaning": "(Aが)〜するのに役立つ",
+    "example": "This tool helps to open jars.",
+    "example_jp": "この道具は瓶を開けるのに役立つ。"
+  },
+  {
+    "word": "make sure that …",
+    "meaning": "･･･であることを確実にする・必ず･･･するようにする",
+    "example": "Make sure that you lock the door.",
+    "example_jp": "必ずドアに鍵をかけるようにしてね。"
+  },
+  {
+    "word": "so that A can B",
+    "meaning": "AがBできるように",
+    "example": "I studied hard so that I could pass the exam.",
+    "example_jp": "試験に合格できるように一生懸命勉強した。"
+  },
+  {
+    "word": "A enough to do",
+    "meaning": "〜するほど十分Aな",
+    "example": "He is old enough to drive.",
+    "example_jp": "彼は運転できる年齢だ。"
+  },
+  {
+    "word": "along with ~",
+    "meaning": "〜と一緒に",
+    "example": "He went along with his friends.",
+    "example_jp": "彼は友達と一緒に去った。"
+  }
+]

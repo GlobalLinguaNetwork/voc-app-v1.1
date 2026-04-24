@@ -1,0 +1,302 @@
+[
+  {
+    "word": "avoid",
+    "meaning": "を避ける",
+    "example": "Try to avoid processed food.",
+    "example_jp": "加工食品を避けるようにしなさい。"
+  },
+  {
+    "word": "contain",
+    "meaning": "を含む",
+    "example": "This box contains books.",
+    "example_jp": "この箱には本が入っている。"
+  },
+  {
+    "word": "manage",
+    "meaning": "を管理[経営]する",
+    "example": "He manages a small company.",
+    "example_jp": "彼は小さな会社を経営している。"
+  },
+  {
+    "word": "consider",
+    "meaning": "をみなす",
+    "example": "I consider him a friend.",
+    "example_jp": "私は彼を友人だとみなしている。"
+  },
+  {
+    "word": "remove",
+    "meaning": "を取り除く",
+    "example": "Please remove your shoes.",
+    "example_jp": "靴を脱いでください。"
+  },
+  {
+    "word": "organize",
+    "meaning": "を計画[準備]する",
+    "example": "She organized a surprise party.",
+    "example_jp": "彼女はサプライズパーティーを計画した。"
+  },
+  {
+    "word": "examine",
+    "meaning": "を検査する",
+    "example": "The doctor examined her.",
+    "example_jp": "医者は彼女を診察した。"
+  },
+  {
+    "word": "publish",
+    "meaning": "を発表する",
+    "example": "They published the results.",
+    "example_jp": "彼らは結果を発表した。"
+  },
+  {
+    "word": "affect",
+    "meaning": "に影響を及ぼす",
+    "example": "The weather affects my mood.",
+    "example_jp": "天候は私の気分に影響を及ぼす。"
+  },
+  {
+    "word": "treat",
+    "meaning": "を扱う",
+    "example": "Treat others with respect.",
+    "example_jp": "他人を敬意を持って扱いなさい。"
+  },
+  {
+    "word": "participate",
+    "meaning": "参加する",
+    "example": "Anyone can participate.",
+    "example_jp": "誰でも参加できます。"
+  },
+  {
+    "word": "appear",
+    "meaning": "のように見える",
+    "example": "He appears to be tired.",
+    "example_jp": "彼は疲れているように見える。"
+  },
+  {
+    "word": "rent",
+    "meaning": "を賃借りする",
+    "example": "We rented a car for the trip.",
+    "example_jp": "旅行のために車を借りた。"
+  },
+  {
+    "word": "graduate",
+    "meaning": "卒業する",
+    "example": "She will graduate next year.",
+    "example_jp": "彼女は来年卒業する。"
+  },
+  {
+    "word": "communicate",
+    "meaning": "意思疎通する",
+    "example": "We communicate by email.",
+    "example_jp": "私たちはメールで連絡を取り合っている。"
+  },
+  {
+    "word": "afford",
+    "meaning": "を持つ[する]余裕がある",
+    "example": "I can't afford a new car.",
+    "example_jp": "新しい車を買う余裕がない。"
+  },
+  {
+    "word": "donate",
+    "meaning": "を寄付する",
+    "example": "He donated money to the hospital.",
+    "example_jp": "彼は病院に寄付をした。"
+  },
+  {
+    "word": "promise",
+    "meaning": "(に)約束する",
+    "example": "I promise to be home early.",
+    "example_jp": "早く帰ると約束するよ。"
+  },
+  {
+    "word": "remain",
+    "meaning": "のままである",
+    "example": "Please remain seated.",
+    "example_jp": "座ったままでいてください。"
+  },
+  {
+    "word": "locate",
+    "meaning": "に位置する",
+    "example": "Our office is located downtown.",
+    "example_jp": "私たちのオフィスは中心街にある。"
+  },
+  {
+    "word": "match",
+    "meaning": "(と)調和する",
+    "example": "The tie matches your shirt.",
+    "example_jp": "そのネクタイはシャツと調和している。"
+  },
+  {
+    "word": "kill",
+    "meaning": "(時間・計画)をつぶす",
+    "example": "I played games to kill time.",
+    "example_jp": "暇つぶしにゲームをした。"
+  },
+  {
+    "word": "occur",
+    "meaning": "思い浮かぶ",
+    "example": "The idea occurred to me.",
+    "example_jp": "その考えが頭に浮かんだ。"
+  },
+  {
+    "word": "employ",
+    "meaning": "を雇う",
+    "example": "They employ fifty people.",
+    "example_jp": "彼らは50人を雇っている。"
+  },
+  {
+    "word": "involve",
+    "meaning": "を巻き込む",
+    "example": "Don't involve me in this.",
+    "example_jp": "私をこれに巻き込まないで。"
+  },
+  {
+    "word": "perform",
+    "meaning": "(を)演じる",
+    "example": "The band performed well.",
+    "example_jp": "バンドは良い演奏をした。"
+  },
+  {
+    "word": "spread",
+    "meaning": "広まる",
+    "example": "The rumor spread quickly.",
+    "example_jp": "その噂はすぐに広まった。"
+  },
+  {
+    "word": "depend",
+    "meaning": "当てにする",
+    "example": "You can depend on me.",
+    "example_jp": "私を当てにしていいよ。"
+  },
+  {
+    "word": "argue",
+    "meaning": "と主張する",
+    "example": "He argues that it is too late.",
+    "example_jp": "彼は遅すぎると主張している。"
+  },
+  {
+    "word": "accept",
+    "meaning": "に応じる",
+    "example": "I accept your invitation.",
+    "example_jp": "ご招待に応じます。"
+  },
+  {
+    "word": "disappoint",
+    "meaning": "を失望させる",
+    "example": "I don't want to disappoint you.",
+    "example_jp": "あなたを失望させたくない。"
+  },
+  {
+    "word": "edit",
+    "meaning": "(原稿など)を編集する",
+    "example": "He edited the final report.",
+    "example_jp": "彼は最終報告書を編集した。"
+  },
+  {
+    "word": "complete",
+    "meaning": "を完成させる",
+    "example": "I completed the project.",
+    "example_jp": "プロジェクトを完成させた。"
+  },
+  {
+    "word": "control",
+    "meaning": "を抑制する",
+    "example": "She couldn't control her anger.",
+    "example_jp": "彼女は怒りを抑制できなかった。"
+  },
+  {
+    "word": "rise",
+    "meaning": "上昇する",
+    "example": "The price has risen.",
+    "example_jp": "価格が上昇した。"
+  },
+  {
+    "word": "feed",
+    "meaning": "に食べ物[エサ]を与える",
+    "example": "Did you feed the cat?",
+    "example_jp": "猫にエサをあげた？"
+  },
+  {
+    "word": "point",
+    "meaning": "指し示す",
+    "example": "He pointed at the map.",
+    "example_jp": "彼は地図を指し示した。"
+  },
+  {
+    "word": "condition",
+    "meaning": "状態",
+    "example": "The car is in good condition.",
+    "example_jp": "その車は状態が良い。"
+  },
+  {
+    "word": "sense",
+    "meaning": "感覚",
+    "example": "I have a sense of danger.",
+    "example_jp": "危険な感覚がある。"
+  },
+  {
+    "word": "decision",
+    "meaning": "決定",
+    "example": "It was a difficult decision.",
+    "example_jp": "それは難しい決定だった。"
+  },
+  {
+    "word": "goods",
+    "meaning": "品物",
+    "example": "They sell imported goods.",
+    "example_jp": "彼らは輸入品を売っている。"
+  },
+  {
+    "word": "cell",
+    "meaning": "細胞",
+    "example": "The body is made of cells.",
+    "example_jp": "体は細胞でできている。"
+  },
+  {
+    "word": "fee",
+    "meaning": "料金",
+    "example": "What is the entrance fee?",
+    "example_jp": "入場料はいくらですか？"
+  },
+  {
+    "word": "head",
+    "meaning": "責任者",
+    "example": "She is the head of this department.",
+    "example_jp": "彼女はこの部門の責任者だ。"
+  },
+  {
+    "word": "success",
+    "meaning": "成功",
+    "example": "He is a big success.",
+    "example_jp": "彼は大成功している。"
+  },
+  {
+    "word": "opportunity",
+    "meaning": "機会",
+    "example": "It is a great opportunity.",
+    "example_jp": "それは素晴らしい機会だ。"
+  },
+  {
+    "word": "movement",
+    "meaning": "(政治・社会的)運動",
+    "example": "It is a peaceful movement.",
+    "example_jp": "それは平和的な運動だ。"
+  },
+  {
+    "word": "clothing",
+    "meaning": "衣類",
+    "example": "He bought new clothing.",
+    "example_jp": "彼は新しい衣類を買った。"
+  },
+  {
+    "word": "instance",
+    "meaning": "例",
+    "example": "For instance, look at this.",
+    "example_jp": "例えば、これを見て。"
+  },
+  {
+    "word": "concern",
+    "meaning": "関心事",
+    "example": "It is my main concern.",
+    "example_jp": "それが私の主な関心事だ。"
+  }
+]

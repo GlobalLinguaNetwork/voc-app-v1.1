@@ -1,0 +1,302 @@
+[
+  {
+    "word": "user",
+    "meaning": "利用者",
+    "example": "He is a regular user.",
+    "example_jp": "彼は定期的な利用者だ。"
+  },
+  {
+    "word": "liqud",
+    "meaning": "液体",
+    "example": "This liquid is dangerous.",
+    "example_jp": "この液体は危険だ。"
+  },
+  {
+    "word": "manufacturer",
+    "meaning": "製造業者",
+    "example": "The manufacturer is reliable.",
+    "example_jp": "その製造業者は信頼できる。"
+  },
+  {
+    "word": "satellite",
+    "meaning": "衛星",
+    "example": "The satellite orbits Earth.",
+    "example_jp": "その衛星は地球の軌道を回っている。"
+  },
+  {
+    "word": "civilization",
+    "meaning": "文明",
+    "example": "It is an ancient civilization.",
+    "example_jp": "それは古代文明だ。"
+  },
+  {
+    "word": "feeling",
+    "meaning": "感情",
+    "example": "She expressed her feelings.",
+    "example_jp": "彼女は自分の感情を表現した。"
+  },
+  {
+    "word": "risk",
+    "meaning": "リスク",
+    "example": "Don't take any unnecessary risks.",
+    "example_jp": "不必要なリスクは冒さないで。"
+  },
+  {
+    "word": "workplace",
+    "meaning": "職場",
+    "example": "Maintain a clean workplace.",
+    "example_jp": "職場を清潔に保ちなさい。"
+  },
+  {
+    "word": "behavior",
+    "meaning": "行動",
+    "example": "His behavior was strange.",
+    "example_jp": "彼の行動は奇妙だった。"
+  },
+  {
+    "word": "graph",
+    "meaning": "グラフ",
+    "example": "The graph shows an increase.",
+    "example_jp": "グラフは増加を示している。"
+  },
+  {
+    "word": "luxury",
+    "meaning": "贅沢(品)",
+    "example": "He lives in luxury.",
+    "example_jp": "彼は贅沢に暮らしている。"
+  },
+  {
+    "word": "newsletter",
+    "meaning": "会報",
+    "example": "I read the monthly newsletter.",
+    "example_jp": "月刊の会報を読んだ。"
+  },
+  {
+    "word": "ray",
+    "meaning": "光線",
+    "example": "Sun rays are strong today.",
+    "example_jp": "今日は太陽の光線が強い。"
+  },
+  {
+    "word": "anniversary",
+    "meaning": "記念日",
+    "example": "It is our wedding anniversary.",
+    "example_jp": "今日は私たちの結婚記念日だ。"
+  },
+  {
+    "word": "partnership",
+    "meaning": "提携",
+    "example": "They formed a new partnership.",
+    "example_jp": "彼らは新しい提携を結んだ。"
+  },
+  {
+    "word": "aisle",
+    "meaning": "通路",
+    "example": "The aisle is blocked.",
+    "example_jp": "通路がふさがっている。"
+  },
+  {
+    "word": "session",
+    "meaning": "活動のための集まり",
+    "example": "The training session starts now.",
+    "example_jp": "トレーニングの集まりが今始まる。"
+  },
+  {
+    "word": "cruise",
+    "meaning": "遊覧航海",
+    "example": "They went on a world cruise.",
+    "example_jp": "彼らは世界一周の遊覧航海に出た。"
+  },
+  {
+    "word": "microscope",
+    "meaning": "顕微鏡",
+    "example": "Look through the microscope.",
+    "example_jp": "顕微鏡をのぞきなさい。"
+  },
+  {
+    "word": "ecotourism",
+    "meaning": "エコツーリズム",
+    "example": "Ecotourism protects nature.",
+    "example_jp": "エコツーリズムは自然を守る。"
+  },
+  {
+    "word": "rude",
+    "meaning": "失礼な",
+    "example": "Don't be so rude.",
+    "example_jp": "そんなに失礼な態度をとるな。"
+  },
+  {
+    "word": "urban",
+    "meaning": "都会の",
+    "example": "He enjoys urban life.",
+    "example_jp": "彼は都会の生活を楽しんでいる。"
+  },
+  {
+    "word": "frozen",
+    "meaning": "(食料品が)冷凍した",
+    "example": "I bought some frozen food.",
+    "example_jp": "冷凍食品をいくつか買った。"
+  },
+  {
+    "word": "religious",
+    "meaning": "宗教の",
+    "example": "It is a religious ceremony.",
+    "example_jp": "それは宗教の儀式だ。"
+  },
+  {
+    "word": "disabled",
+    "meaning": "身体障がいの",
+    "example": "The parking is for disabled people.",
+    "example_jp": "その駐車場は身体障がい者用だ。"
+  },
+  {
+    "word": "talented",
+    "meaning": "才能がある",
+    "example": "She is a talented singer.",
+    "example_jp": "彼女は才能がある歌手だ。"
+  },
+  {
+    "word": "anxious",
+    "meaning": "心配して",
+    "example": "I felt anxious about the news.",
+    "example_jp": "そのニュースについて心配だった。"
+  },
+  {
+    "word": "best-selling",
+    "meaning": "ベストセラーの",
+    "example": "It is a best-selling novel.",
+    "example_jp": "それはベストセラーの小説だ。"
+  },
+  {
+    "word": "incorrect",
+    "meaning": "間違った",
+    "example": "The answer is incorrect.",
+    "example_jp": "その答えは間違っている。"
+  },
+  {
+    "word": "stylish",
+    "meaning": "おしゃれな",
+    "example": "She has a stylish dress.",
+    "example_jp": "彼女はおしゃれなドレスを着ている。"
+  },
+  {
+    "word": "financial",
+    "meaning": "財政(上)の",
+    "example": "We have financial problems.",
+    "example_jp": "私たちは財政上の問題を抱えている。"
+  },
+  {
+    "word": "enormous",
+    "meaning": "莫大な",
+    "example": "He has an enormous house.",
+    "example_jp": "彼は莫大な家を持っている。"
+  },
+  {
+    "word": "temporary",
+    "meaning": "一時的な",
+    "example": "This is a temporary solution.",
+    "example_jp": "これが一時的な解決策だ。"
+  },
+  {
+    "word": "organic",
+    "meaning": "有機の",
+    "example": "I only buy organic vegetables.",
+    "example_jp": "有機野菜しか買わない。"
+  },
+  {
+    "word": "bilind",
+    "meaning": "目の不自由な",
+    "example": "He helps blind people cross.",
+    "example_jp": "彼は目の不自由な人が渡るのを助ける。"
+  },
+  {
+    "word": "dizzy",
+    "meaning": "めまいがする",
+    "example": "I feel dizzy today.",
+    "example_jp": "今日はめまいがする。"
+  },
+  {
+    "word": "low-income",
+    "meaning": "低収入の",
+    "example": "He supports low-income families.",
+    "example_jp": "彼は低収入の家族を支援している。"
+  },
+  {
+    "word": "perhaps",
+    "meaning": "もしかすると",
+    "example": "Perhaps he will join us.",
+    "example_jp": "もしかすると彼が加わるかもしれない。"
+  },
+  {
+    "word": "increasingly",
+    "meaning": "ますます",
+    "example": "The costs are increasingly high.",
+    "example_jp": "コストはますます高くなっている。"
+  },
+  {
+    "word": "particulary",
+    "meaning": "特に",
+    "example": "I am particularly interested.",
+    "example_jp": "特に興味があります。"
+  },
+  {
+    "word": "worldwide",
+    "meaning": "世界中に",
+    "example": "They sell products worldwide.",
+    "example_jp": "彼らは世界中に製品を売っている。"
+  },
+  {
+    "word": "additionaly",
+    "meaning": "またさらに",
+    "example": "Additionally, we need more time.",
+    "example_jp": "またさらに、もっと時間が必要だ。"
+  },
+  {
+    "word": "commonly",
+    "meaning": "一般に",
+    "example": "This is commonly used here.",
+    "example_jp": "これはここで一般に使われている。"
+  },
+  {
+    "word": "closely",
+    "meaning": "綿密に",
+    "example": "Work closely with the team.",
+    "example_jp": "チームと綿密に働きなさい。"
+  },
+  {
+    "word": "thus",
+    "meaning": "従って",
+    "example": "He was tired; thus, he slept.",
+    "example_jp": "彼は疲れていた。従って、眠った。"
+  },
+  {
+    "word": "overnight",
+    "meaning": "一晩中",
+    "example": "It rained overnight.",
+    "example_jp": "一晩中雨が降った。"
+  },
+  {
+    "word": "fairly",
+    "meaning": "公正に",
+    "example": "Treat everyone fairly.",
+    "example_jp": "皆を公正に扱いなさい。"
+  },
+  {
+    "word": "relatively",
+    "meaning": "比較的",
+    "example": "It is relatively cheap.",
+    "example_jp": "それは比較的安い。"
+  },
+  {
+    "word": "wherever",
+    "meaning": "どこで〜しようとも",
+    "example": "Go wherever you want.",
+    "example_jp": "どこでしようとも行きたいところへ行きなさい。"
+  },
+  {
+    "word": "whenever",
+    "meaning": "〜するときはいつも",
+    "example": "Whenever I call, he answers.",
+    "example_jp": "私が電話するときはいつも、彼は出る。"
+  }
+]

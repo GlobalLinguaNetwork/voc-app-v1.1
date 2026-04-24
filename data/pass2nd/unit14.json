@@ -1,0 +1,302 @@
+[
+  {
+    "word": "publisher",
+    "meaning": "出版社",
+    "example": "The book was sent to the publisher.",
+    "example_jp": "その本は出版社に送られた。"
+  },
+  {
+    "word": "lamp",
+    "meaning": "ランプ",
+    "example": "Turn on the lamp.",
+    "example_jp": "ランプをつけて。"
+  },
+  {
+    "word": "championship",
+    "meaning": "選手権",
+    "example": "He won the national championship.",
+    "example_jp": "彼は全国選手権で優勝した。"
+  },
+  {
+    "word": "tutor",
+    "meaning": "家庭教師",
+    "example": "I need a math tutor.",
+    "example_jp": "数学の家庭教師が必要だ。"
+  },
+  {
+    "word": "insurance",
+    "meaning": "保険",
+    "example": "Do you have car insurance?",
+    "example_jp": "自動車保険に入っていますか？"
+  },
+  {
+    "word": "court",
+    "meaning": "(テニスなどの)コート",
+    "example": "They are on the tennis court.",
+    "example_jp": "彼らはテニスコートにいる。"
+  },
+  {
+    "word": "counter",
+    "meaning": "カウンター",
+    "example": "I waited at the counter.",
+    "example_jp": "カウンターで待った。"
+  },
+  {
+    "word": "orchestra",
+    "meaning": "オーケストラ",
+    "example": "She plays for the orchestra.",
+    "example_jp": "彼女はオーケストラで演奏している。"
+  },
+  {
+    "word": "handwriting",
+    "meaning": "手書き",
+    "example": "His handwriting is hard to read.",
+    "example_jp": "彼の手書きは読みにくい。"
+  },
+  {
+    "word": "sight",
+    "meaning": "視力",
+    "example": "He has good sight.",
+    "example_jp": "彼は視力が良い。"
+  },
+  {
+    "word": "title",
+    "meaning": "題名",
+    "example": "What is the title of the book?",
+    "example_jp": "その本の題名は何ですか？"
+  },
+  {
+    "word": "avenue",
+    "meaning": "大通り",
+    "example": "The hotel is on Fifth Avenue.",
+    "example_jp": "そのホテルは5番街（大通り）にある。"
+  },
+  {
+    "word": "billion",
+    "meaning": "10億",
+    "example": "The world population is over seven billion.",
+    "example_jp": "世界人口は70億を超えている。"
+  },
+  {
+    "word": "habit",
+    "meaning": "(個人的な)習慣",
+    "example": "Smoking is a bad habit.",
+    "example_jp": "喫煙は悪い習慣だ。"
+  },
+  {
+    "word": "cycle",
+    "meaning": "サイクル",
+    "example": "The business cycle is changing.",
+    "example_jp": "景気サイクルが変化している。"
+  },
+  {
+    "word": "container",
+    "meaning": "容器",
+    "example": "Put food in a container.",
+    "example_jp": "食べ物を容器に入れなさい。"
+  },
+  {
+    "word": "breath",
+    "meaning": "息",
+    "example": "Take a deep breath.",
+    "example_jp": "深呼吸しなさい。"
+  },
+  {
+    "word": "entry",
+    "meaning": "入る権利",
+    "example": "Entry is free for students.",
+    "example_jp": "学生は入る権利（入場）が無料だ。"
+  },
+  {
+    "word": "jam",
+    "meaning": "混雑",
+    "example": "We got stuck in a traffic jam.",
+    "example_jp": "交通渋滞（混雑）に巻き込まれた。"
+  },
+  {
+    "word": "drug",
+    "meaning": "薬",
+    "example": "This drug has no side effects.",
+    "example_jp": "この薬には副作用がない。"
+  },
+  {
+    "word": "youth",
+    "meaning": "青年時代",
+    "example": "He spent his youth abroad.",
+    "example_jp": "彼は青年時代を海外で過ごした。"
+  },
+  {
+    "word": "mineral",
+    "meaning": "鉱物",
+    "example": "This water is rich in minerals.",
+    "example_jp": "この水は鉱物が豊富だ。"
+  },
+  {
+    "word": "requirement",
+    "meaning": "必要条件",
+    "example": "What are the job requirements?",
+    "example_jp": "その仕事の必要条件は何ですか？"
+  },
+  {
+    "word": "league",
+    "meaning": "リーグ",
+    "example": "He plays in the major league.",
+    "example_jp": "彼はメジャーリーグでプレーしている。"
+  },
+  {
+    "word": "content",
+    "meaning": "中身",
+    "example": "I checked the content of the box.",
+    "example_jp": "箱の中身を確認した。"
+  },
+  {
+    "word": "anxiety",
+    "meaning": "不安",
+    "example": "She felt a lot of anxiety.",
+    "example_jp": "彼女は強い不安を感じた。"
+  },
+  {
+    "word": "FALSE",
+    "meaning": "間違った",
+    "example": "That statement is false.",
+    "example_jp": "その発言は間違っている。"
+  },
+  {
+    "word": "artifical",
+    "meaning": "人工の",
+    "example": "It is an artificial light.",
+    "example_jp": "それは人工の光だ。"
+  },
+  {
+    "word": "unique",
+    "meaning": "唯一の",
+    "example": "Every snowflake is unique.",
+    "example_jp": "すべての雪の結晶は唯一のものだ。"
+  },
+  {
+    "word": "thin",
+    "meaning": "薄い",
+    "example": "He wore a thin shirt.",
+    "example_jp": "彼は薄いシャツを着ていた。"
+  },
+  {
+    "word": "long-term",
+    "meaning": "長期の",
+    "example": "We have a long-term goal.",
+    "example_jp": "私たちは長期の目標を持っている。"
+  },
+  {
+    "word": "historic",
+    "meaning": "歴史上有名な",
+    "example": "It is a historic building.",
+    "example_jp": "それは歴史上有名な建物だ。"
+  },
+  {
+    "word": "tough",
+    "meaning": "困難な",
+    "example": "It was a tough decision.",
+    "example_jp": "それは困難な決定だった。"
+  },
+  {
+    "word": "actual",
+    "meaning": "実際の",
+    "example": "What is the actual cost?",
+    "example_jp": "実際の費用はいくらですか？"
+  },
+  {
+    "word": "cultural",
+    "meaning": "文化の",
+    "example": "We have different cultural backgrounds.",
+    "example_jp": "私たちは異なる文化の背景を持っている。"
+  },
+  {
+    "word": "latest",
+    "meaning": "最新の",
+    "example": "This is the latest news.",
+    "example_jp": "これが最新のニュースです。"
+  },
+  {
+    "word": "constant",
+    "meaning": "絶えず続く",
+    "example": "He is under constant pressure.",
+    "example_jp": "彼は絶えず続く重圧の下にいる。"
+  },
+  {
+    "word": "nearly",
+    "meaning": "ほとんど",
+    "example": "It is nearly finished.",
+    "example_jp": "ほとんど終わっている。"
+  },
+  {
+    "word": "poorly",
+    "meaning": "下手に",
+    "example": "The house was poorly built.",
+    "example_jp": "その家は下手に建てられていた。"
+  },
+  {
+    "word": "simply",
+    "meaning": "単に",
+    "example": "I simply forgot.",
+    "example_jp": "単に忘れていた。"
+  },
+  {
+    "word": "mainly",
+    "meaning": "主に",
+    "example": "The team consists mainly of students.",
+    "example_jp": "そのチームは主に学生で成り立っている。"
+  },
+  {
+    "word": "rarely",
+    "meaning": "めったに〜ない",
+    "example": "He rarely goes out.",
+    "example_jp": "彼はめったに出かけない。"
+  },
+  {
+    "word": "correctly",
+    "meaning": "正しく",
+    "example": "Did you spell it correctly?",
+    "example_jp": "正しく綴れましたか？"
+  },
+  {
+    "word": "shortly",
+    "meaning": "まもなく",
+    "example": "The show starts shortly.",
+    "example_jp": "ショーはまもなく始まる。"
+  },
+  {
+    "word": "afterwards",
+    "meaning": "その後",
+    "example": "We had dinner afterwards.",
+    "example_jp": "その後、夕食を食べた。"
+  },
+  {
+    "word": "currently",
+    "meaning": "現在",
+    "example": "He is currently working here.",
+    "example_jp": "彼は現在ここで働いている。"
+  },
+  {
+    "word": "extremely",
+    "meaning": "極めて",
+    "example": "It is extremely hot today.",
+    "example_jp": "今日は極めて暑い。"
+  },
+  {
+    "word": "healthily",
+    "meaning": "健康的に",
+    "example": "Live healthily.",
+    "example_jp": "健康的に生きなさい。"
+  },
+  {
+    "word": "besides",
+    "meaning": "その上",
+    "example": "I am tired; besides, it's late.",
+    "example_jp": "疲れているし、その上もう遅い。"
+  },
+  {
+    "word": "except",
+    "meaning": "〜を除いては",
+    "example": "Everyone came except him.",
+    "example_jp": "彼を除いては皆来た。"
+  }
+]

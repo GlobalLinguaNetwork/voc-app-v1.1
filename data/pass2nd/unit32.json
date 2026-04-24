@@ -1,0 +1,356 @@
+[
+  {
+    "word": "put out ~",
+    "meaning": "〜を外に出す",
+    "example": "Please put out the trash before you leave.",
+    "example_jp": "出かける前にゴミを外に出しておいてください。"
+  },
+  {
+    "word": "refrain from doing",
+    "meaning": "〜するのを慎む",
+    "example": "Please refrain from talking in the library.",
+    "example_jp": "図書館では私語を慎んでください。"
+  },
+  {
+    "word": "rule out ~",
+    "meaning": "〜を除外する",
+    "example": "We cannot rule out the possibility of an accident.",
+    "example_jp": "事故の可能性を除外することはできない。"
+  },
+  {
+    "word": "run away （from ~）",
+    "meaning": "(〜から)走り去る、逃げる",
+    "example": "The cat ran away when it saw the dog.",
+    "example_jp": "その猫は犬を見て逃げ去った。"
+  },
+  {
+    "word": "send out ~",
+    "meaning": "〜を多数発送［配布］する",
+    "example": "The company sent out invitations to all clients.",
+    "example_jp": "会社はすべての顧客に招待状を発送した。"
+  },
+  {
+    "word": "send out ~",
+    "meaning": "〜を派遣する",
+    "example": "They sent out a rescue team to the mountains.",
+    "example_jp": "彼らは山に救助隊を派遣した。"
+  },
+  {
+    "word": "sit back",
+    "meaning": "くつろぐ",
+    "example": "Sit back and enjoy the movie.",
+    "example_jp": "くつろいで映画を楽しんでね。"
+  },
+  {
+    "word": "sit back",
+    "meaning": "深く座る",
+    "example": "He sat back in his chair and sighed.",
+    "example_jp": "彼は椅子に深く座り、ため息をついた。"
+  },
+  {
+    "word": "take after ~",
+    "meaning": "(親など)に似ている",
+    "example": "She takes after her mother.",
+    "example_jp": "彼女は母親に似ている。"
+  },
+  {
+    "word": "take up ~",
+    "meaning": "(趣味･仕事として)〜を始める",
+    "example": "I decided to take up photography.",
+    "example_jp": "写真撮影を始めることにした。"
+  },
+  {
+    "word": "the last thing（that）…",
+    "meaning": "最も･･･しそうにないこと",
+    "example": "That is the last thing I want to hear.",
+    "example_jp": "それは私が最も聞きたくないことだ。"
+  },
+  {
+    "word": "to one’s joy",
+    "meaning": "うれしいことに",
+    "example": "To my joy, I passed the exam.",
+    "example_jp": "うれしいことに、試験に合格した。"
+  },
+  {
+    "word": "to one’s suprise",
+    "meaning": "驚いたことに",
+    "example": "To my surprise, he was already there.",
+    "example_jp": "驚いたことに、彼はもうそこにいた。"
+  },
+  {
+    "word": "turn over ~",
+    "meaning": "〜を裏返す",
+    "example": "Please turn over the paper to see the questions.",
+    "example_jp": "問題を見るために紙を裏返してください。"
+  },
+  {
+    "word": "watch out for ~",
+    "meaning": "〜に気をつける",
+    "example": "Watch out for cars when you cross the street.",
+    "example_jp": "道を渡るときは車に気をつけて。"
+  },
+  {
+    "word": "watch out for ~",
+    "meaning": "〜を油断なく見張る",
+    "example": "We need to watch out for any suspicious activity.",
+    "example_jp": "不審な動きがないか、油断なく見張る必要がある。"
+  },
+  {
+    "word": "what is called",
+    "meaning": "いわゆる",
+    "example": "He is what is called a bookworm.",
+    "example_jp": "彼は、いわゆる本の虫だ。"
+  },
+  {
+    "word": "above all",
+    "meaning": "何よりも",
+    "example": "Above all, stay safe.",
+    "example_jp": "何よりも、安全第一でいてください。"
+  },
+  {
+    "word": "account for ~",
+    "meaning": "〜の所在がわかっている",
+    "example": "All the students are accounted for.",
+    "example_jp": "生徒全員の所在が確認できている。"
+  },
+  {
+    "word": "account for ~",
+    "meaning": "〜(の理由)を説明する",
+    "example": "How do you account for his behavior?",
+    "example_jp": "彼の振る舞いをどう説明しますか？"
+  },
+  {
+    "word": "accuse A of B",
+    "meaning": "AをBのことで非難する",
+    "example": "They accused him of lying.",
+    "example_jp": "彼らは彼が嘘をついたと非難した。"
+  },
+  {
+    "word": "accuse A of B",
+    "meaning": "AをBのことで告訴する",
+    "example": "The police accused him of theft.",
+    "example_jp": "警察は彼を窃盗で告訴した。"
+  },
+  {
+    "word": "as a（general）rule",
+    "meaning": "通例、概して",
+    "example": "As a rule, I wake up at six.",
+    "example_jp": "通例、私は6時に起きる。"
+  },
+  {
+    "word": "as a matter of fact",
+    "meaning": "実のところは、実際は",
+    "example": "As a matter of fact, I don't like it.",
+    "example_jp": "実のところ、それは好きではない。"
+  },
+  {
+    "word": "at any cost",
+    "meaning": "どんな犠牲を払っても",
+    "example": "We must finish this at any cost.",
+    "example_jp": "どんな犠牲を払ってもこれを終わらせなければならない。"
+  },
+  {
+    "word": "at random",
+    "meaning": "無作為に",
+    "example": "The winner was chosen at random.",
+    "example_jp": "勝者は無作為に選ばれた。"
+  },
+  {
+    "word": "at（the）most",
+    "meaning": "最高［最大］でも、せいぜい",
+    "example": "It will take ten minutes at most.",
+    "example_jp": "せいぜい10分しかかからないだろう。"
+  },
+  {
+    "word": "at times",
+    "meaning": "時々",
+    "example": "At times, I feel lonely.",
+    "example_jp": "時々、寂しく感じることがある。"
+  },
+  {
+    "word": "back and forth",
+    "meaning": "行ったり来たり",
+    "example": "He walked back and forth in the room.",
+    "example_jp": "彼は部屋を行ったり来たりした。"
+  },
+  {
+    "word": "back and forth",
+    "meaning": "前後に",
+    "example": "The swing moved back and forth.",
+    "example_jp": "ブランコが前後に揺れた。"
+  },
+  {
+    "word": "be acquainted with ~",
+    "meaning": "〜と顔見知りである",
+    "example": "I am acquainted with his family.",
+    "example_jp": "彼の家族とは顔見知りだ。"
+  },
+  {
+    "word": "be engaged in ~",
+    "meaning": "〜に従事している",
+    "example": "He is engaged in research.",
+    "example_jp": "彼は研究に従事している。"
+  },
+  {
+    "word": "be familiar with ~",
+    "meaning": "〜に精通している",
+    "example": "Are you familiar with this software?",
+    "example_jp": "このソフトウェアに精通していますか？"
+  },
+  {
+    "word": "be free from [of] ~",
+    "meaning": "〜がない",
+    "example": "This product is free from harmful chemicals.",
+    "example_jp": "この製品には有害な化学物質が含まれていない。"
+  },
+  {
+    "word": "be independent of ~",
+    "meaning": "〜から独立している",
+    "example": "She wants to be independent of her parents.",
+    "example_jp": "彼女は両親から独立したいと思っている。"
+  },
+  {
+    "word": "be likely to do",
+    "meaning": "〜しそうである",
+    "example": "It is likely to rain tomorrow.",
+    "example_jp": "明日は雨が降りそうだ。"
+  },
+  {
+    "word": "be made up of ~",
+    "meaning": "〜で構成されている",
+    "example": "The team is made up of five members.",
+    "example_jp": "チームは5人のメンバーで構成されている。"
+  },
+  {
+    "word": "be obliged to do",
+    "meaning": "〜するよう義務づけられている",
+    "example": "We are obliged to follow the rules.",
+    "example_jp": "私たちは規則に従う義務がある。"
+  },
+  {
+    "word": "be reluctant to do",
+    "meaning": "〜することに気が進まない",
+    "example": "I was reluctant to leave the party.",
+    "example_jp": "パーティーを離れるのが気が進まなかった。"
+  },
+  {
+    "word": "be sick of ~",
+    "meaning": "〜にうんざりしている",
+    "example": "I am sick of hearing the same excuses.",
+    "example_jp": "同じ言い訳を聞くのにはうんざりだ。"
+  },
+  {
+    "word": "be subject to ~",
+    "meaning": "〜になりやすい、〜を受けやすい",
+    "example": "Flights are subject to delay due to bad weather.",
+    "example_jp": "悪天候のため、フライトは遅延しやすい。"
+  },
+  {
+    "word": "be sure of ~",
+    "meaning": "〜を確信している",
+    "example": "Are you sure of the result?",
+    "example_jp": "結果を確信している？"
+  },
+  {
+    "word": "be ture of ~",
+    "meaning": "〜に当てはまる",
+    "example": "That is not necessarily true of everyone.",
+    "example_jp": "それが誰にでも当てはまるとは限らない。"
+  },
+  {
+    "word": "be typical of ~",
+    "meaning": "〜に典型的な",
+    "example": "It is typical of him to be late.",
+    "example_jp": "遅刻するのは彼に典型的なことだ。"
+  },
+  {
+    "word": "be willing to do",
+    "meaning": "進んで〜する",
+    "example": "I am willing to help you.",
+    "example_jp": "喜んであなたを手伝います。"
+  },
+  {
+    "word": "break into ~",
+    "meaning": "〜へ(不法に)押し入る",
+    "example": "Someone broke into the house last night.",
+    "example_jp": "昨夜、誰かが家に押し入った。"
+  },
+  {
+    "word": "break into ~",
+    "meaning": "急に〜し始める",
+    "example": "She broke into tears.",
+    "example_jp": "彼女は急に泣き出した。"
+  },
+  {
+    "word": "break out",
+    "meaning": "(災害･戦争などが)発生する",
+    "example": "A fire broke out in the building.",
+    "example_jp": "建物で火災が発生した。"
+  },
+  {
+    "word": "bring about ~",
+    "meaning": "(結果など)を招く、〜を引き起こす",
+    "example": "What brought about this change?",
+    "example_jp": "何がこの変化を引き起こしたのか？"
+  },
+  {
+    "word": "bring down ~",
+    "meaning": "〜を下げる",
+    "example": "They decided to bring down the price.",
+    "example_jp": "彼らは価格を下げることに決めた。"
+  },
+  {
+    "word": "bring down ~",
+    "meaning": "〜を落ち込ませる",
+    "example": "The bad news brought me down.",
+    "example_jp": "その悪いニュースは私を落ち込ませた。"
+  },
+  {
+    "word": "bring up ~",
+    "meaning": "〜を育てる",
+    "example": "She brought up three children by herself.",
+    "example_jp": "彼女は一人で3人の子供を育てた。"
+  },
+  {
+    "word": "by means of ~",
+    "meaning": "〜によって",
+    "example": "They communicated by means of sign language.",
+    "example_jp": "彼らは手話によって意思疎通した。"
+  },
+  {
+    "word": "by no means",
+    "meaning": "決して〜でない",
+    "example": "It is by no means an easy task.",
+    "example_jp": "それは決して簡単な仕事ではない。"
+  },
+  {
+    "word": "call off ~",
+    "meaning": "〜を中止する",
+    "example": "They had to call off the game due to rain.",
+    "example_jp": "雨のため試合を中止しなければならなかった。"
+  },
+  {
+    "word": "call on A",
+    "meaning": "Aを訪ねる",
+    "example": "I will call on her tomorrow.",
+    "example_jp": "明日、彼女を訪ねるつもりだ。"
+  },
+  {
+    "word": "care for ~",
+    "meaning": "〜の世話をする",
+    "example": "He cares for his elderly parents.",
+    "example_jp": "彼は高齢の両親の世話をしている。"
+  },
+  {
+    "word": "care for ~",
+    "meaning": "〜を好む",
+    "example": "I don't really care for spicy food.",
+    "example_jp": "辛い食べ物はあまり好きではない。"
+  },
+  {
+    "word": "carry on ~",
+    "meaning": "〜を続ける",
+    "example": "Please carry on with your work.",
+    "example_jp": "仕事を続けてください。"
+  }
+]

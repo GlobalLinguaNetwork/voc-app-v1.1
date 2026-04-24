@@ -1,0 +1,302 @@
+[
+  {
+    "word": "death",
+    "meaning": "死",
+    "example": "He grieved for her death.",
+    "example_jp": "彼は彼女の死を悼んだ。"
+  },
+  {
+    "word": "carbon dioxide",
+    "meaning": "二酸化炭素",
+    "example": "Trees absorb carbon dioxide.",
+    "example_jp": "木々は二酸化炭素を吸収する。"
+  },
+  {
+    "word": "bone",
+    "meaning": "骨",
+    "example": "Calcium is good for your bones.",
+    "example_jp": "カルシウムは骨に良い。"
+  },
+  {
+    "word": "average",
+    "meaning": "平均",
+    "example": "The average is fifty.",
+    "example_jp": "平均は50だ。"
+  },
+  {
+    "word": "gallery",
+    "meaning": "美術館",
+    "example": "Let's visit the art gallery.",
+    "example_jp": "美術館へ行こう。"
+  },
+  {
+    "word": "credit card",
+    "meaning": "クレジットカード",
+    "example": "I paid by credit card.",
+    "example_jp": "クレジットカードで支払った。"
+  },
+  {
+    "word": "board",
+    "meaning": "委員会",
+    "example": "The board approved the plan.",
+    "example_jp": "委員会はその計画を承認した。"
+  },
+  {
+    "word": "valley",
+    "meaning": "谷",
+    "example": "The village is in the valley.",
+    "example_jp": "その村は谷にある。"
+  },
+  {
+    "word": "decade",
+    "meaning": "10年間",
+    "example": "It took over a decade.",
+    "example_jp": "10年以上かかった。"
+  },
+  {
+    "word": "recommendation",
+    "meaning": "推薦",
+    "example": "I followed his recommendation.",
+    "example_jp": "彼の推薦に従った。"
+  },
+  {
+    "word": "organ",
+    "meaning": "臓器",
+    "example": "He needs an organ transplant.",
+    "example_jp": "彼は臓器移植が必要だ。"
+  },
+  {
+    "word": "policy",
+    "meaning": "政策",
+    "example": "The government changed its policy.",
+    "example_jp": "政府は政策を変更した。"
+  },
+  {
+    "word": "sample",
+    "meaning": "見本",
+    "example": "They gave me a free sample.",
+    "example_jp": "彼らは無料の見本をくれた。"
+  },
+  {
+    "word": "custom",
+    "meaning": "慣習",
+    "example": "It is a local custom.",
+    "example_jp": "それは地元の慣習だ。"
+  },
+  {
+    "word": "contract",
+    "meaning": "契約(書)",
+    "example": "I signed the contract today.",
+    "example_jp": "今日、契約書に署名した。"
+  },
+  {
+    "word": "standard",
+    "meaning": "基準",
+    "example": "This meets our standard.",
+    "example_jp": "これは私たちの基準を満たしている。"
+  },
+  {
+    "word": "relative",
+    "meaning": "親類",
+    "example": "I visited my relatives.",
+    "example_jp": "親類を訪ねた。"
+  },
+  {
+    "word": "active",
+    "meaning": "活動的な",
+    "example": "She leads an active life.",
+    "example_jp": "彼女は活動的な生活を送っている。"
+  },
+  {
+    "word": "stressful",
+    "meaning": "ストレスの多い",
+    "example": "This is a stressful job.",
+    "example_jp": "これはストレスの多い仕事だ。"
+  },
+  {
+    "word": "positive",
+    "meaning": "肯定的な",
+    "example": "Try to have a positive attitude.",
+    "example_jp": "肯定的な態度を持つようにしなさい。"
+  },
+  {
+    "word": "aware",
+    "meaning": "知って",
+    "example": "Are you aware of the risk?",
+    "example_jp": "そのリスクを知っていますか？"
+  },
+  {
+    "word": "either",
+    "meaning": "どちらでも",
+    "example": "Either way is fine.",
+    "example_jp": "どちらでもいいですよ。"
+  },
+  {
+    "word": "regular",
+    "meaning": "規則正しい",
+    "example": "I have regular work hours.",
+    "example_jp": "規則正しい勤務時間だ。"
+  },
+  {
+    "word": "private",
+    "meaning": "個人の",
+    "example": "This is my private office.",
+    "example_jp": "ここは私の個人事務所だ。"
+  },
+  {
+    "word": "worth",
+    "meaning": "値する",
+    "example": "It is worth your time.",
+    "example_jp": "それは時間をかける価値がある。"
+  },
+  {
+    "word": "flexible",
+    "meaning": "融通の利く",
+    "example": "He is very flexible.",
+    "example_jp": "彼はとても融通が利く。"
+  },
+  {
+    "word": "individual",
+    "meaning": "個々の",
+    "example": "Look at each individual case.",
+    "example_jp": "個々のケースを詳しく見なさい。"
+  },
+  {
+    "word": "electronic",
+    "meaning": "電子の",
+    "example": "I prefer electronic books.",
+    "example_jp": "電子書籍の方が好きだ。"
+  },
+  {
+    "word": "violent",
+    "meaning": "暴力的な",
+    "example": "It was a violent storm.",
+    "example_jp": "それは暴力的な（猛烈な）嵐だった。"
+  },
+  {
+    "word": "educational",
+    "meaning": "教育的な",
+    "example": "The game is educational.",
+    "example_jp": "そのゲームは教育的だ。"
+  },
+  {
+    "word": "wealthy",
+    "meaning": "裕福な",
+    "example": "He comes from a wealthy family.",
+    "example_jp": "彼は裕福な家の出身だ。"
+  },
+  {
+    "word": "ordinary",
+    "meaning": "普通の",
+    "example": "It was an ordinary day.",
+    "example_jp": "普通の一日だった。"
+  },
+  {
+    "word": "physical",
+    "meaning": "身体の",
+    "example": "I need physical exercise.",
+    "example_jp": "身体の運動が必要だ。"
+  },
+  {
+    "word": "attractive",
+    "meaning": "魅力的な",
+    "example": "That is an attractive offer.",
+    "example_jp": "それは魅力的な申し出だ。"
+  },
+  {
+    "word": "portable",
+    "meaning": "持ち運びできる",
+    "example": "I bought a portable radio.",
+    "example_jp": "持ち運びできるラジオを買った。"
+  },
+  {
+    "word": "unlikely",
+    "meaning": "ありそうにもない",
+    "example": "That is unlikely to happen.",
+    "example_jp": "それは起こりそうにない。"
+  },
+  {
+    "word": "real-estate",
+    "meaning": "不動産の",
+    "example": "He is a real-estate agent.",
+    "example_jp": "彼は不動産業者だ。"
+  },
+  {
+    "word": "traditionally",
+    "meaning": "伝統的に",
+    "example": "This is traditionally made.",
+    "example_jp": "これは伝統的に作られている。"
+  },
+  {
+    "word": "further",
+    "meaning": "さらに",
+    "example": "We need further discussion.",
+    "example_jp": "さらに議論が必要だ。"
+  },
+  {
+    "word": "rapidly",
+    "meaning": "急速に",
+    "example": "The city is growing rapidly.",
+    "example_jp": "その街は急速に成長している。"
+  },
+  {
+    "word": "properly",
+    "meaning": "適切に",
+    "example": "Do your job properly.",
+    "example_jp": "仕事は適切に行いなさい。"
+  },
+  {
+    "word": "indeed",
+    "meaning": "事実として",
+    "example": "It was indeed a long day.",
+    "example_jp": "事実、それは長い一日だった。"
+  },
+  {
+    "word": "differently",
+    "meaning": "異なって",
+    "example": "We think differently.",
+    "example_jp": "私たちは異なった考えを持っている。"
+  },
+  {
+    "word": "mostly",
+    "meaning": "ほとんど",
+    "example": "It is mostly finished.",
+    "example_jp": "ほとんど終わっている。"
+  },
+  {
+    "word": "completely",
+    "meaning": "完全に",
+    "example": "I completely forgot it.",
+    "example_jp": "完全に忘れていた。"
+  },
+  {
+    "word": "gradually",
+    "meaning": "徐々に",
+    "example": "The weather improved gradually.",
+    "example_jp": "天候は徐々に回復した。"
+  },
+  {
+    "word": "dramatically",
+    "meaning": "劇的に",
+    "example": "Things changed dramatically.",
+    "example_jp": "状況は劇的に変わった。"
+  },
+  {
+    "word": "overtime",
+    "meaning": "時間外に",
+    "example": "I worked overtime today.",
+    "example_jp": "今日は時間外に働いた（残業した）。"
+  },
+  {
+    "word": "freely",
+    "meaning": "自由に",
+    "example": "Feel free to ask questions.",
+    "example_jp": "自由に質問してください。"
+  },
+  {
+    "word": "neither",
+    "meaning": "どちらも〜ない",
+    "example": "Neither of them knows.",
+    "example_jp": "二人とも知らない。"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "word": "note",
+    "meaning": "に注意する",
+    "example": "Please note the time.",
+    "example_jp": "時間に注意してください。"
+  },
+  {
+    "word": "bury",
+    "meaning": "を埋める",
+    "example": "The dog buried a bone.",
+    "example_jp": "その犬は骨を埋めた。"
+  },
+  {
+    "word": "bother",
+    "meaning": "を悩ます",
+    "example": "Don't bother me now.",
+    "example_jp": "今は私を悩まさないで（邪魔しないで）。"
+  },
+  {
+    "word": "weigh",
+    "meaning": "の重さがある",
+    "example": "He weighs eighty kilograms.",
+    "example_jp": "彼は80キロの重さがある。"
+  },
+  {
+    "word": "sort",
+    "meaning": "を分類する",
+    "example": "Sort the mail by date.",
+    "example_jp": "郵便物を日付順に分類しなさい。"
+  },
+  {
+    "word": "freeze",
+    "meaning": "凍る",
+    "example": "Water freezes at zero degrees.",
+    "example_jp": "水は0度で凍る。"
+  },
+  {
+    "word": "update",
+    "meaning": "をアップデートする",
+    "example": "Update your software now.",
+    "example_jp": "今すぐソフトウェアをアップデートしなさい。"
+  },
+  {
+    "word": "stretch",
+    "meaning": "を伸ばす",
+    "example": "Stretch your arms up.",
+    "example_jp": "腕を上に伸ばしなさい。"
+  },
+  {
+    "word": "display",
+    "meaning": "を展示する",
+    "example": "They display art here.",
+    "example_jp": "彼らはここで芸術を展示している。"
+  },
+  {
+    "word": "pour",
+    "meaning": "を注ぐ",
+    "example": "Pour some water for me.",
+    "example_jp": "水を少し注いで。"
+  },
+  {
+    "word": "judge",
+    "meaning": "(を)審査する",
+    "example": "The judges judged the race.",
+    "example_jp": "審査員たちがそのレースを審査した。"
+  },
+  {
+    "word": "roast",
+    "meaning": "を炒る",
+    "example": "Roast the coffee beans.",
+    "example_jp": "コーヒー豆を炒りなさい。"
+  },
+  {
+    "word": "supply",
+    "meaning": "を供給する",
+    "example": "They supply power to us.",
+    "example_jp": "彼らは私たちに電力を供給している。"
+  },
+  {
+    "word": "survive",
+    "meaning": "存在し続ける",
+    "example": "Only the strong survive.",
+    "example_jp": "強いものだけが生き残る（存在し続ける）。"
+  },
+  {
+    "word": "lift",
+    "meaning": "を持ち上げる",
+    "example": "Lift the box carefully.",
+    "example_jp": "慎重に箱を持ち上げなさい。"
+  },
+  {
+    "word": "apologize",
+    "meaning": "謝る",
+    "example": "I must apologize to her.",
+    "example_jp": "彼女に謝らなければならない。"
+  },
+  {
+    "word": "obtain",
+    "meaning": "を得る",
+    "example": "He obtained a permit.",
+    "example_jp": "彼は許可を得た。"
+  },
+  {
+    "word": "associate",
+    "meaning": "を結び付けて考える",
+    "example": "Don't associate me with him.",
+    "example_jp": "私を彼と結び付けて考えないで。"
+  },
+  {
+    "word": "advance",
+    "meaning": "を促進する",
+    "example": "This will advance our goal.",
+    "example_jp": "これが私たちの目標を促進するだろう。"
+  },
+  {
+    "word": "progress",
+    "meaning": "進歩する",
+    "example": "Our work is progressing well.",
+    "example_jp": "私たちの仕事は順調に進歩している。"
+  },
+  {
+    "word": "doubt",
+    "meaning": "を疑う",
+    "example": "I doubt he is right.",
+    "example_jp": "彼が正しいのか疑わしい。"
+  },
+  {
+    "word": "invest",
+    "meaning": "(を)投資する",
+    "example": "Invest money in new stocks.",
+    "example_jp": "新しい株にお金を投資しなさい。"
+  },
+  {
+    "word": "evolve",
+    "meaning": "進化する",
+    "example": "Life evolves over time.",
+    "example_jp": "生命は時とともに進化する。"
+  },
+  {
+    "word": "represent",
+    "meaning": "を代表する",
+    "example": "He represents our school.",
+    "example_jp": "彼は私たちの学校を代表している。"
+  },
+  {
+    "word": "adapt",
+    "meaning": "を適応させる",
+    "example": "Adapt to the new environment.",
+    "example_jp": "新しい環境に適応させなさい。"
+  },
+  {
+    "word": "shock",
+    "meaning": "に衝撃を与える",
+    "example": "The news shocked us.",
+    "example_jp": "そのニュースは私たちに衝撃を与えた。"
+  },
+  {
+    "word": "strengthen",
+    "meaning": "を強くする",
+    "example": "Exercise strengthens your muscles.",
+    "example_jp": "運動は筋肉を強くする。"
+  },
+  {
+    "word": "consist",
+    "meaning": "成り立っている",
+    "example": "It consists of three parts.",
+    "example_jp": "それは3つの部分から成り立っている。"
+  },
+  {
+    "word": "react",
+    "meaning": "反応する",
+    "example": "How did he react?",
+    "example_jp": "彼はどう反応したか？"
+  },
+  {
+    "word": "insert",
+    "meaning": "を挿入する",
+    "example": "Insert the card here.",
+    "example_jp": "ここにカードを挿入しなさい。"
+  },
+  {
+    "word": "favor",
+    "meaning": "親切な行為",
+    "example": "Can you do me a favor?",
+    "example_jp": "親切な行為（お願い）をしてもらえますか？"
+  },
+  {
+    "word": "inconvenience",
+    "meaning": "不便(さ)",
+    "example": "Sorry for the inconvenience.",
+    "example_jp": "ご不便をおかけしてすみません。"
+  },
+  {
+    "word": "poverty",
+    "meaning": "貧困",
+    "example": "They live in poverty.",
+    "example_jp": "彼らは貧困の中で暮らしている。"
+  },
+  {
+    "word": "fund",
+    "meaning": "資金",
+    "example": "We need more funds.",
+    "example_jp": "もっと資金が必要だ。"
+  },
+  {
+    "word": "aspect",
+    "meaning": "局面",
+    "example": "This is a key aspect.",
+    "example_jp": "これが重要な局面だ。"
+  },
+  {
+    "word": "means",
+    "meaning": "手段",
+    "example": "It is the only means.",
+    "example_jp": "それが唯一の手段だ。"
+  },
+  {
+    "word": "theory",
+    "meaning": "仮説",
+    "example": "That is just a theory.",
+    "example_jp": "それは単なる仮説だ。"
+  },
+  {
+    "word": "strength",
+    "meaning": "力",
+    "example": "He lacks physical strength.",
+    "example_jp": "彼は身体的な力が足りない。"
+  },
+  {
+    "word": "collection",
+    "meaning": "収蔵品",
+    "example": "They have a fine collection.",
+    "example_jp": "彼らは素晴らしい収蔵品を持っている。"
+  },
+  {
+    "word": "positin",
+    "meaning": "職",
+    "example": "He applied for the position.",
+    "example_jp": "彼はその職に応募した。"
+  },
+  {
+    "word": "factor",
+    "meaning": "要因",
+    "example": "It is a major factor.",
+    "example_jp": "それが主要な要因だ。"
+  },
+  {
+    "word": "structure",
+    "meaning": "構造",
+    "example": "The structure is strong.",
+    "example_jp": "その構造は頑丈だ。"
+  },
+  {
+    "word": "destination",
+    "meaning": "目的地",
+    "example": "We reached our destination.",
+    "example_jp": "私たちは目的地に到着した。"
+  },
+  {
+    "word": "combination",
+    "meaning": "組み合わせ",
+    "example": "Try a new combination.",
+    "example_jp": "新しい組み合わせを試して。"
+  },
+  {
+    "word": "connection",
+    "meaning": "接続",
+    "example": "The connection is slow.",
+    "example_jp": "接続が遅い。"
+  },
+  {
+    "word": "link",
+    "meaning": "つながり",
+    "example": "There is a link between them.",
+    "example_jp": "彼らの間にはつながりがある。"
+  },
+  {
+    "word": "council",
+    "meaning": "会議",
+    "example": "The city council met today.",
+    "example_jp": "市議会（会議）が今日開かれた。"
+  },
+  {
+    "word": "vegetarian",
+    "meaning": "ベジタリアン",
+    "example": "He is a vegetarian.",
+    "example_jp": "彼はベジタリアンだ。"
+  },
+  {
+    "word": "laboratory",
+    "meaning": "研究室",
+    "example": "She works in a laboratory.",
+    "example_jp": "彼女は研究室で働いている。"
+  },
+  {
+    "word": "navy",
+    "meaning": "海軍",
+    "example": "He joined the navy.",
+    "example_jp": "彼は海軍に入隊した。"
+  }
+]

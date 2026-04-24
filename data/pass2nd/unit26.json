@@ -1,0 +1,398 @@
+[
+  {
+    "word": "warning",
+    "meaning": "警告",
+    "example": "He gave a warning about the upcoming storm.",
+    "example_jp": "彼は迫り来る嵐について警告を発した。"
+  },
+  {
+    "word": "warning",
+    "meaning": "注意",
+    "example": "The label has a warning about side effects.",
+    "example_jp": "ラベルには副作用についての注意書きがある。"
+  },
+  {
+    "word": "revolution",
+    "meaning": "革命",
+    "example": "The digital revolution changed our lives.",
+    "example_jp": "デジタル革命が私たちの生活を変えた。"
+  },
+  {
+    "word": "unit",
+    "meaning": "単位",
+    "example": "The meter is a unit of length.",
+    "example_jp": "メートルは長さの単位だ。"
+  },
+  {
+    "word": "housework",
+    "meaning": "家事",
+    "example": "She finished all the housework by noon.",
+    "example_jp": "彼女は正午までにすべての家事を終えた。"
+  },
+  {
+    "word": "path",
+    "meaning": "小道",
+    "example": "They walked along the narrow path.",
+    "example_jp": "彼らは狭い小道を歩いた。"
+  },
+  {
+    "word": "path",
+    "meaning": "進路",
+    "example": "The hurricane changed its path.",
+    "example_jp": "ハリケーンはその進路を変えた。"
+  },
+  {
+    "word": "makeup",
+    "meaning": "化粧",
+    "example": "She put on her makeup in a hurry.",
+    "example_jp": "彼女は急いで化粧をした。"
+  },
+  {
+    "word": "phrase",
+    "meaning": "成句・句",
+    "example": "This is a common English phrase.",
+    "example_jp": "これは一般的な英語の成句だ。"
+  },
+  {
+    "word": "lane",
+    "meaning": "車線",
+    "example": "You should stay in the right lane.",
+    "example_jp": "右側の車線を走るべきだ。"
+  },
+  {
+    "word": "lane",
+    "meaning": "路地・小道",
+    "example": "They live in a quiet lane.",
+    "example_jp": "彼らは静かな路地に住んでいる。"
+  },
+  {
+    "word": "electronics",
+    "meaning": "エレクトロニクス・電子工学",
+    "example": "He is studying electronics at university.",
+    "example_jp": "彼は大学で電子工学を学んでいる。"
+  },
+  {
+    "word": "attitude",
+    "meaning": "態度・考え方",
+    "example": "She has a positive attitude toward work.",
+    "example_jp": "彼女は仕事に対して前向きな考え方をしている。"
+  },
+  {
+    "word": "border",
+    "meaning": "国境・境界線",
+    "example": "They crossed the border late at night.",
+    "example_jp": "彼らは深夜に国境を越えた。"
+  },
+  {
+    "word": "origin",
+    "meaning": "起源",
+    "example": "We are studying the origin of the universe.",
+    "example_jp": "私たちは宇宙の起源を研究している。"
+  },
+  {
+    "word": "manual",
+    "meaning": "説明書・指導書",
+    "example": "Please read the instruction manual carefully.",
+    "example_jp": "取扱説明書をよく読んでください。"
+  },
+  {
+    "word": "lawyer",
+    "meaning": "弁護士",
+    "example": "I need to consult with a lawyer.",
+    "example_jp": "弁護士に相談する必要があります。"
+  },
+  {
+    "word": "mission",
+    "meaning": "使命",
+    "example": "Our mission is to help those in need.",
+    "example_jp": "私たちの使命は困っている人々を助けることだ。"
+  },
+  {
+    "word": "mission",
+    "meaning": "使節(団)",
+    "example": "They sent a diplomatic mission to the country.",
+    "example_jp": "彼らはその国へ外交使節団を派遣した。"
+  },
+  {
+    "word": "oxygen",
+    "meaning": "酸素",
+    "example": "Plants produce oxygen.",
+    "example_jp": "植物は酸素を産出する。"
+  },
+  {
+    "word": "peak",
+    "meaning": "絶頂・頂点",
+    "example": "He is at the peak of his career.",
+    "example_jp": "彼はキャリアの絶頂にいる。"
+  },
+  {
+    "word": "peak",
+    "meaning": "山頂",
+    "example": "They finally reached the peak.",
+    "example_jp": "彼らはついに山頂に到達した。"
+  },
+  {
+    "word": "volume",
+    "meaning": "分量",
+    "example": "The volume of traffic is increasing.",
+    "example_jp": "交通量が増えている。"
+  },
+  {
+    "word": "volume",
+    "meaning": "(本の)巻",
+    "example": "I have the first volume of the series.",
+    "example_jp": "そのシリーズの第1巻を持っている。"
+  },
+  {
+    "word": "volume",
+    "meaning": "音量",
+    "example": "Please turn down the volume.",
+    "example_jp": "音量を下げてください。"
+  },
+  {
+    "word": "explosion",
+    "meaning": "爆発",
+    "example": "The explosion caused great damage.",
+    "example_jp": "その爆発は大きな被害を引き起こした。"
+  },
+  {
+    "word": "portion",
+    "meaning": "分け前・一部分",
+    "example": "I ate a large portion of the pie.",
+    "example_jp": "私はパイの一部分をたくさん食べた。"
+  },
+  {
+    "word": "angle",
+    "meaning": "角度・角",
+    "example": "The angle of the line is forty-five degrees.",
+    "example_jp": "その線の角度は45度だ。"
+  },
+  {
+    "word": "media",
+    "meaning": "マスメディア",
+    "example": "The story was covered by the media.",
+    "example_jp": "その話はマスメディアによって取り上げられた。"
+  },
+  {
+    "word": "property",
+    "meaning": "財産",
+    "example": "He lost all his property in the fire.",
+    "example_jp": "彼は火事で財産をすべて失った。"
+  },
+  {
+    "word": "property",
+    "meaning": "不動産",
+    "example": "They are investing in real property.",
+    "example_jp": "彼らは不動産に投資している。"
+  },
+  {
+    "word": "property",
+    "meaning": "特性",
+    "example": "Water has the property of freezing at zero degrees.",
+    "example_jp": "水には0度で凍るという特性がある。"
+  },
+  {
+    "word": "corporation",
+    "meaning": "大企業・株式会社",
+    "example": "She works for a large corporation.",
+    "example_jp": "彼女は大企業で働いている。"
+  },
+  {
+    "word": "argument",
+    "meaning": "論争・議論・主張",
+    "example": "They had a heated argument about the plan.",
+    "example_jp": "彼らはその計画について激しい議論をした。"
+  },
+  {
+    "word": "victim",
+    "meaning": "犠牲者・被害者",
+    "example": "The police helped the crime victim.",
+    "example_jp": "警察が犯罪の被害者を助けた。"
+  },
+  {
+    "word": "wealth",
+    "meaning": "富・財産",
+    "example": "He used his wealth to build a school.",
+    "example_jp": "彼は富を使って学校を建てた。"
+  },
+  {
+    "word": "psychology",
+    "meaning": "心理学",
+    "example": "She is interested in child psychology.",
+    "example_jp": "彼女は児童心理学に興味がある。"
+  },
+  {
+    "word": "arctic",
+    "meaning": "北極地方",
+    "example": "It is very cold in the arctic.",
+    "example_jp": "北極地方はとても寒い。"
+  },
+  {
+    "word": "fare",
+    "meaning": "(乗り物の)運賃",
+    "example": "The bus fare has increased.",
+    "example_jp": "バスの運賃が上がった。"
+  },
+  {
+    "word": "honor",
+    "meaning": "光栄・名誉",
+    "example": "It is an honor to meet you.",
+    "example_jp": "お会いできて光栄です。"
+  },
+  {
+    "word": "necessity",
+    "meaning": "必需品",
+    "example": "Food is a basic necessity of life.",
+    "example_jp": "食料は生活の基本的な必需品だ。"
+  },
+  {
+    "word": "necessity",
+    "meaning": "必要性",
+    "example": "I doubt the necessity of this meeting.",
+    "example_jp": "この会議の必要性に疑問を感じる。"
+  },
+  {
+    "word": "essential",
+    "meaning": "必要不可欠な・本質的な",
+    "example": "Water is essential for life.",
+    "example_jp": "水は生命にとって必要不可欠だ。"
+  },
+  {
+    "word": "annual",
+    "meaning": "1年間の・年1回の",
+    "example": "We have an annual meeting every year.",
+    "example_jp": "毎年、年1回の会議がある。"
+  },
+  {
+    "word": "jealous",
+    "meaning": "ねたんで・しっとして",
+    "example": "Don't be jealous of his success.",
+    "example_jp": "彼の成功をねたむな。"
+  },
+  {
+    "word": "typical",
+    "meaning": "典型的な",
+    "example": "That is a typical mistake.",
+    "example_jp": "それは典型的な間違いだ。"
+  },
+  {
+    "word": "sudden",
+    "meaning": "突然の",
+    "example": "We heard a sudden noise.",
+    "example_jp": "突然の音が聞こえた。"
+  },
+  {
+    "word": "delicate",
+    "meaning": "繊細な",
+    "example": "She has delicate taste.",
+    "example_jp": "彼女は繊細な好みを持っている。"
+  },
+  {
+    "word": "delicate",
+    "meaning": "微妙な",
+    "example": "It is a delicate situation.",
+    "example_jp": "それは微妙な状況だ。"
+  },
+  {
+    "word": "nuclear",
+    "meaning": "原子力利用の・核エネルギーの",
+    "example": "They are discussing nuclear power.",
+    "example_jp": "彼らは原子力について議論している。"
+  },
+  {
+    "word": "superior",
+    "meaning": "優れた",
+    "example": "This model is superior to the old one.",
+    "example_jp": "このモデルは古いものより優れている。"
+  },
+  {
+    "word": "superior",
+    "meaning": "上位の",
+    "example": "He has a superior officer.",
+    "example_jp": "彼には上官がいる。"
+  },
+  {
+    "word": "intelligent",
+    "meaning": "知能の高い・頭の良い",
+    "example": "He is a very intelligent student.",
+    "example_jp": "彼は非常に頭の良い生徒だ。"
+  },
+  {
+    "word": "steady",
+    "meaning": "安定した・一定した",
+    "example": "We have seen a steady increase in sales.",
+    "example_jp": "売り上げが安定して伸びている。"
+  },
+  {
+    "word": "awful",
+    "meaning": "ひどく悪い",
+    "example": "I had an awful cold.",
+    "example_jp": "私はひどい風邪をひいた。"
+  },
+  {
+    "word": "awful",
+    "meaning": "恐ろしい",
+    "example": "What an awful accident.",
+    "example_jp": "なんて恐ろしい事故なんだ。"
+  },
+  {
+    "word": "raw",
+    "meaning": "生の",
+    "example": "Do you like to eat raw fish?",
+    "example_jp": "あなたは生魚を食べるのが好きですか？"
+  },
+  {
+    "word": "raw",
+    "meaning": "未処理の",
+    "example": "The factory processes raw materials.",
+    "example_jp": "その工場は未処理の原材料を加工する。"
+  },
+  {
+    "word": "equally",
+    "meaning": "同程度に・等しく",
+    "example": "Both candidates are equally qualified.",
+    "example_jp": "両候補者とも同程度に資格がある。"
+  },
+  {
+    "word": "technically",
+    "meaning": "技術的に",
+    "example": "The device is technically advanced.",
+    "example_jp": "その装置は技術的に進んでいる。"
+  },
+  {
+    "word": "technically",
+    "meaning": "厳密に言えば",
+    "example": "Technically, you are correct.",
+    "example_jp": "厳密に言えば、あなたは正しい。"
+  },
+  {
+    "word": "technically",
+    "meaning": "専門的に",
+    "example": "The book is technically difficult.",
+    "example_jp": "その本は専門的に難しい。"
+  },
+  {
+    "word": "seldom",
+    "meaning": "めったに〜ない・まれにしか〜ない",
+    "example": "He seldom goes out at night.",
+    "example_jp": "彼は夜にはめったに外出しない。"
+  },
+  {
+    "word": "frankly",
+    "meaning": "率直に・率直に言って",
+    "example": "Frankly, I don't like this idea.",
+    "example_jp": "率直に言って、私はこの考えが好きではない。"
+  },
+  {
+    "word": "unless",
+    "meaning": "･･･でない限り・･･･でなければ",
+    "example": "I will leave unless you come now.",
+    "example_jp": "今あなたが来なければ、私は出発します。"
+  },
+  {
+    "word": "beside",
+    "meaning": "〜のそばに",
+    "example": "She sat beside me.",
+    "example_jp": "彼女は私のそばに座った。"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "word": "operation",
+    "meaning": "手術",
+    "example": "The operation was a success.",
+    "example_jp": "手術は成功しました。"
+  },
+  {
+    "word": "tongue",
+    "meaning": "舌",
+    "example": "He burnt his tongue on the coffee.",
+    "example_jp": "彼はコーヒーで舌を火傷した。"
+  },
+  {
+    "word": "occasion",
+    "meaning": "(特定の)時",
+    "example": "I've met him on several occasions.",
+    "example_jp": "彼には何度か会ったことがあります。"
+  },
+  {
+    "word": "envelope",
+    "meaning": "封筒",
+    "example": "Put the letter in the envelope.",
+    "example_jp": "手紙を封筒に入れてください。"
+  },
+  {
+    "word": "rtythm",
+    "meaning": "リズム",
+    "example": "The song has a great rhythm.",
+    "example_jp": "その曲はとてもいいリズムだ。"
+  },
+  {
+    "word": "souvenir",
+    "meaning": "土産",
+    "example": "I bought a souvenir from Paris.",
+    "example_jp": "パリでお土産を買いました。"
+  },
+  {
+    "word": "authority",
+    "meaning": "当局",
+    "example": "The local authority approved the plan.",
+    "example_jp": "地方当局がその計画を承認した。"
+  },
+  {
+    "word": "canser",
+    "meaning": "がん",
+    "example": "Early detection of cancer is key.",
+    "example_jp": "がんの早期発見が重要です。"
+  },
+  {
+    "word": "tribe",
+    "meaning": "部族",
+    "example": "They belong to a remote tribe.",
+    "example_jp": "彼らは辺境の部族に属している。"
+  },
+  {
+    "word": "birth",
+    "meaning": "出産",
+    "example": "The birth of their son was a joy.",
+    "example_jp": "息子の誕生は喜びだった。"
+  },
+  {
+    "word": "loan",
+    "meaning": "借金",
+    "example": "I need to pay off my student loan.",
+    "example_jp": "学生ローンを返済しなければならない。"
+  },
+  {
+    "word": "historian",
+    "meaning": "歴史学者",
+    "example": "She is a famous historian.",
+    "example_jp": "彼女は有名な歴史学者です。"
+  },
+  {
+    "word": "soil",
+    "meaning": "土",
+    "example": "This soil is good for farming.",
+    "example_jp": "この土は農業に適している。"
+  },
+  {
+    "word": "background",
+    "meaning": "経歴",
+    "example": "Tell me about your educational background.",
+    "example_jp": "あなたの学歴について教えてください。"
+  },
+  {
+    "word": "volcano",
+    "meaning": "火山",
+    "example": "The volcano erupted last year.",
+    "example_jp": "その火山は昨年噴火した。"
+  },
+  {
+    "word": "ancestor",
+    "meaning": "祖先",
+    "example": "My ancestors came from Italy.",
+    "example_jp": "私の祖先はイタリアから来ました。"
+  },
+  {
+    "word": "engineering",
+    "meaning": "工学",
+    "example": "He is studying mechanical engineering.",
+    "example_jp": "彼は機械工学を学んでいる。"
+  },
+  {
+    "word": "prescription",
+    "meaning": "処方箋",
+    "example": "I need a prescription for this medicine.",
+    "example_jp": "この薬には処方箋が必要です。"
+  },
+  {
+    "word": "secretary",
+    "meaning": "秘書",
+    "example": "The secretary scheduled the meeting.",
+    "example_jp": "秘書が会議をスケジュールした。"
+  },
+  {
+    "word": "attraction",
+    "meaning": "人を引き付けるもの",
+    "example": "The Eiffel Tower is a major attraction.",
+    "example_jp": "エッフェル塔は主要な観光スポットです。"
+  },
+  {
+    "word": "reward",
+    "meaning": "報酬",
+    "example": "There is a reward for the lost dog.",
+    "example_jp": "迷い犬に報酬が出ている。"
+  },
+  {
+    "word": "checkup",
+    "meaning": "健康診断",
+    "example": "I go for a medical checkup every year.",
+    "example_jp": "私は毎年健康診断を受けています。"
+  },
+  {
+    "word": "datebase",
+    "meaning": "データベース",
+    "example": "We store customer data in a database.",
+    "example_jp": "顧客データをデータベースに保存しています。"
+  },
+  {
+    "word": "bomb",
+    "meaning": "爆弾",
+    "example": "The bomb was defused by experts.",
+    "example_jp": "爆弾は専門家によって解体された。"
+  },
+  {
+    "word": "coal",
+    "meaning": "石炭",
+    "example": "Coal is still used for power.",
+    "example_jp": "石炭は今でも発電に使われている。"
+  },
+  {
+    "word": "nonfiction",
+    "meaning": "ノンフィクション",
+    "example": "I prefer reading nonfiction books.",
+    "example_jp": "私はノンフィクションの本を読む方が好きだ。"
+  },
+  {
+    "word": "wire",
+    "meaning": "電信線",
+    "example": "The storm knocked down the wires.",
+    "example_jp": "嵐で電線が切れた。"
+  },
+  {
+    "word": "blog",
+    "meaning": "ブログ",
+    "example": "She writes a travel blog.",
+    "example_jp": "彼女は旅行ブログを書いています。"
+  },
+  {
+    "word": "lung",
+    "meaning": "肺",
+    "example": "Smoking damages your lungs.",
+    "example_jp": "喫煙は肺を傷つける。"
+  },
+  {
+    "word": "pump",
+    "meaning": "ポンプ",
+    "example": "The pump moves water to the tank.",
+    "example_jp": "ポンプが水をタンクに送る。"
+  },
+  {
+    "word": "fingerprint",
+    "meaning": "指紋",
+    "example": "He unlocked the phone with a fingerprint.",
+    "example_jp": "彼は指紋で電話のロックを解除した。"
+  },
+  {
+    "word": "poetry",
+    "meaning": "(文学の一形式としての)詩",
+    "example": "She loves reading romantic poetry.",
+    "example_jp": "彼女はロマンチックな詩を読むのが大好きだ。"
+  },
+  {
+    "word": "scar",
+    "meaning": "傷跡",
+    "example": "The accident left a scar on his arm.",
+    "example_jp": "事故で彼の腕に傷跡が残った。"
+  },
+  {
+    "word": "stain",
+    "meaning": "しみ",
+    "example": "I can't get this coffee stain out.",
+    "example_jp": "このコーヒーのしみが落ちない。"
+  },
+  {
+    "word": "aluminum",
+    "meaning": "アルミニウム",
+    "example": "The can is made of aluminum.",
+    "example_jp": "その缶はアルミニウム製です。"
+  },
+  {
+    "word": "freeway",
+    "meaning": "高速道路",
+    "example": "Traffic on the freeway is heavy today.",
+    "example_jp": "今日の高速道路は渋滞している。"
+  },
+  {
+    "word": "influenza",
+    "meaning": "インフルエンザ",
+    "example": "Influenza spreads quickly in winter.",
+    "example_jp": "インフルエンザは冬に急速に広がる。"
+  },
+  {
+    "word": "suburb",
+    "meaning": "郊外",
+    "example": "They live in a quiet suburb.",
+    "example_jp": "彼らは静かな郊外に住んでいる。"
+  },
+  {
+    "word": "affection",
+    "meaning": "愛情",
+    "example": "The dog showed affection to its owner.",
+    "example_jp": "その犬は飼い主に愛情を示した。"
+  },
+  {
+    "word": "artwoek",
+    "meaning": "芸術作品",
+    "example": "This artwork is worth millions.",
+    "example_jp": "この芸術作品は数百万ドルの価値がある。"
+  },
+  {
+    "word": "massage",
+    "meaning": "マッサージ",
+    "example": "I need a back massage.",
+    "example_jp": "背中のマッサージが必要です。"
+  },
+  {
+    "word": "tip",
+    "meaning": "秘訣",
+    "example": "Give me a tip for learning English.",
+    "example_jp": "英語学習の秘訣を教えてください。"
+  },
+  {
+    "word": "newborn",
+    "meaning": "生まれたばかりの",
+    "example": "The newborn baby is sleeping.",
+    "example_jp": "生まれたばかりの赤ちゃんが眠っている。"
+  },
+  {
+    "word": "unexpected",
+    "meaning": "意外な",
+    "example": "The news was completely unexpected.",
+    "example_jp": "その知らせは全く意外だった。"
+  },
+  {
+    "word": "virtual",
+    "meaning": "仮想の",
+    "example": "They held a virtual meeting online.",
+    "example_jp": "彼らはオンラインで仮想会議を行った。"
+  },
+  {
+    "word": "generous",
+    "meaning": "気前の良い",
+    "example": "Thank you for your generous donation.",
+    "example_jp": "寛大な寄付をありがとうございます。"
+  },
+  {
+    "word": "commercial",
+    "meaning": "商業の",
+    "example": "This is a commercial district.",
+    "example_jp": "ここは商業地区です。"
+  },
+  {
+    "word": "academic",
+    "meaning": "学問の",
+    "example": "She has a strong academic record.",
+    "example_jp": "彼女は優れた学業成績を収めている。"
+  },
+  {
+    "word": "extreme",
+    "meaning": "極度の",
+    "example": "The hikers faced extreme cold.",
+    "example_jp": "ハイカーたちは極限の寒さに直面した。"
+  },
+  {
+    "word": "permanently",
+    "meaning": "永久に",
+    "example": "The store is permanently closed.",
+    "example_jp": "その店は永久に閉店した。"
+  }
+]

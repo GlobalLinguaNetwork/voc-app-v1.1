@@ -1,0 +1,476 @@
+[
+  {
+    "word": "spoil",
+    "meaning": "を台無しにする",
+    "example": "The rain spoiled our picnic.",
+    "example_jp": "雨が私たちのピクニックを台無しにした。"
+  },
+  {
+    "word": "spoil",
+    "meaning": "を甘やかす",
+    "example": "Don't spoil your child with too many gifts.",
+    "example_jp": "プレゼントをあげすぎて子供を甘やかしてはいけない。"
+  },
+  {
+    "word": "spoil",
+    "meaning": "だめになる",
+    "example": "Food spoils quickly in this heat.",
+    "example_jp": "この暑さでは食べ物がすぐにだめになる。"
+  },
+  {
+    "word": "stimulate",
+    "meaning": "を刺激する",
+    "example": "This exercise stimulates your brain.",
+    "example_jp": "この運動は脳を刺激する。"
+  },
+  {
+    "word": "distract",
+    "meaning": "（注意など）をそらす",
+    "example": "Don't let loud noises distract you from your work.",
+    "example_jp": "大きな音で仕事から気をそらさないように。"
+  },
+  {
+    "word": "bargain",
+    "meaning": "買い得品",
+    "example": "This shirt was a real bargain.",
+    "example_jp": "このシャツは本当にお買い得だった。"
+  },
+  {
+    "word": "bargain",
+    "meaning": "取引、契約",
+    "example": "They made a bargain to help each other.",
+    "example_jp": "彼らはお互いに助け合うという取引をした。"
+  },
+  {
+    "word": "emerge",
+    "meaning": "明らかになる",
+    "example": "The truth eventually emerged.",
+    "example_jp": "真実が結局明らかになった。"
+  },
+  {
+    "word": "emerge",
+    "meaning": "現れる",
+    "example": "The sun emerged from behind the clouds.",
+    "example_jp": "太陽が雲の間から現れた。"
+  },
+  {
+    "word": "browse",
+    "meaning": "(を)拾い読みする",
+    "example": "I browsed through a magazine while waiting.",
+    "example_jp": "待っている間、雑誌を拾い読みした。"
+  },
+  {
+    "word": "browse",
+    "meaning": "(を)閲覧する",
+    "example": "You can browse the website for more info.",
+    "example_jp": "詳細はウェブサイトを閲覧してください。"
+  },
+  {
+    "word": "browse",
+    "meaning": "(商品など)を見て歩く",
+    "example": "I'm just browsing, thank you.",
+    "example_jp": "ただ見ているだけです、ありがとう。"
+  },
+  {
+    "word": "define",
+    "meaning": "を定義する、を明確に示す",
+    "example": "Can you define the word for me?",
+    "example_jp": "その単語を定義してくれますか？"
+  },
+  {
+    "word": "adjust",
+    "meaning": "を調整する",
+    "example": "Please adjust the seat to your height.",
+    "example_jp": "身長に合わせて座席を調整してください。"
+  },
+  {
+    "word": "adjust",
+    "meaning": "を適合させる、順応する",
+    "example": "It took time to adjust to the new environment.",
+    "example_jp": "新しい環境に順応するには時間がかかった。"
+  },
+  {
+    "word": "deserve",
+    "meaning": "に値する",
+    "example": "You deserve a break after all your hard work.",
+    "example_jp": "これだけ一生懸命働いたのだから、休憩する権利がある（値する）。"
+  },
+  {
+    "word": "undergo",
+    "meaning": "を経験する",
+    "example": "The country is undergoing major changes.",
+    "example_jp": "その国は大きな変化を経験している。"
+  },
+  {
+    "word": "undergo",
+    "meaning": "(手術など)を受ける",
+    "example": "He had to undergo surgery.",
+    "example_jp": "彼は手術を受けなければならなかった。"
+  },
+  {
+    "word": "undergo",
+    "meaning": "に耐える",
+    "example": "The material must undergo high pressure.",
+    "example_jp": "その素材は高い圧力に耐えなければならない。"
+  },
+  {
+    "word": "contradict",
+    "meaning": "と矛盾する",
+    "example": "His actions contradict his words.",
+    "example_jp": "彼の行動は言葉と矛盾している。"
+  },
+  {
+    "word": "contradict",
+    "meaning": "に反対意見を言う",
+    "example": "Don't contradict your teacher.",
+    "example_jp": "先生に口答え（反対意見を言うこと）をしてはいけない。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "を引き出す",
+    "example": "I withdrew some money from the bank.",
+    "example_jp": "銀行からいくらかお金を引き出した。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "を撤回する",
+    "example": "He withdrew his previous statement.",
+    "example_jp": "彼は以前の声明を撤回した。"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "撤退する",
+    "example": "The army withdrew from the region.",
+    "example_jp": "軍は地域から撤退した。"
+  },
+  {
+    "word": "accompany",
+    "meaning": "に同行する",
+    "example": "May I accompany you to the party?",
+    "example_jp": "パーティーに同行してもいいですか？"
+  },
+  {
+    "word": "accompany",
+    "meaning": "に付随する",
+    "example": "Heavy rain accompanied the storm.",
+    "example_jp": "嵐に大雨が伴った。"
+  },
+  {
+    "word": "infect",
+    "meaning": "(人)を感染させる",
+    "example": "The virus can infect people quickly.",
+    "example_jp": "そのウイルスは急速に人を感染させる可能性がある。"
+  },
+  {
+    "word": "infect",
+    "meaning": "を汚染する",
+    "example": "Bacteria infected the water supply.",
+    "example_jp": "バクテリアが給水源を汚染した。"
+  },
+  {
+    "word": "rebel",
+    "meaning": "反逆者",
+    "example": "The rebels fought against the government.",
+    "example_jp": "反逆者たちが政府軍と戦った。"
+  },
+  {
+    "word": "convert",
+    "meaning": "を変える",
+    "example": "We converted the attic into a bedroom.",
+    "example_jp": "屋根裏部屋を寝室に改造（変更）した。"
+  },
+  {
+    "word": "convert",
+    "meaning": "を改宗［転向］させる",
+    "example": "She converted to another religion.",
+    "example_jp": "彼女は別の宗教に改宗した。"
+  },
+  {
+    "word": "convert",
+    "meaning": "を交換する",
+    "example": "I need to convert dollars into yen.",
+    "example_jp": "ドルを円に両替する必要がある。"
+  },
+  {
+    "word": "calculate",
+    "meaning": "を計算する",
+    "example": "Calculate the total cost for me.",
+    "example_jp": "合計費用を計算して。"
+  },
+  {
+    "word": "calculate",
+    "meaning": "を予測する",
+    "example": "He calculated that he would arrive by noon.",
+    "example_jp": "彼は正午までに到着できると予測した。"
+  },
+  {
+    "word": "utilize",
+    "meaning": "を利用する",
+    "example": "We must utilize every resource we have.",
+    "example_jp": "私たちは持っているすべての資源を利用しなければならない。"
+  },
+  {
+    "word": "admit",
+    "meaning": "～と(しぶしぶ)認める",
+    "example": "He admitted that he was wrong.",
+    "example_jp": "彼は自分が間違っていたと認めた。"
+  },
+  {
+    "word": "admit",
+    "meaning": "を中に入れる",
+    "example": "The tickets admit two people to the show.",
+    "example_jp": "そのチケットは2人まで入場を許可する。"
+  },
+  {
+    "word": "punish",
+    "meaning": "を罰する",
+    "example": "The teacher punished the student for fighting.",
+    "example_jp": "先生は喧嘩をした生徒を罰した。"
+  },
+  {
+    "word": "punish",
+    "meaning": "に損傷を与える",
+    "example": "The heavy rain punished the crops.",
+    "example_jp": "大雨が作物を痛めつけた。"
+  },
+  {
+    "word": "approve",
+    "meaning": "賛成する、を承認する",
+    "example": "The board approved the new project.",
+    "example_jp": "委員会は新しいプロジェクトを承認した。"
+  },
+  {
+    "word": "owe",
+    "meaning": "に借りがある",
+    "example": "I owe you ten dollars.",
+    "example_jp": "君に10ドル借りている。"
+  },
+  {
+    "word": "owe",
+    "meaning": "のおかげである",
+    "example": "I owe my success to my parents.",
+    "example_jp": "成功したのは両親のおかげだ。"
+  },
+  {
+    "word": "proceed",
+    "meaning": "進む、進行する",
+    "example": "The meeting will proceed as planned.",
+    "example_jp": "会議は予定通り進行する。"
+  },
+  {
+    "word": "proceed",
+    "meaning": "(～を)続行する",
+    "example": "Please proceed with your presentation.",
+    "example_jp": "プレゼンテーションを続けてください。"
+  },
+  {
+    "word": "navigate",
+    "meaning": "(経路を)案内・誘導する、操縦・航行する",
+    "example": "He navigated the boat to the harbor.",
+    "example_jp": "彼はボートを港へ操縦（航行）した。"
+  },
+  {
+    "word": "postpone",
+    "meaning": "を延期する",
+    "example": "We decided to postpone the party.",
+    "example_jp": "パーティーを延期することにした。"
+  },
+  {
+    "word": "swallow",
+    "meaning": "(を)飲み込む",
+    "example": "Swallow the pill with water.",
+    "example_jp": "水と一緒に薬を飲み込みなさい。"
+  },
+  {
+    "word": "swallow",
+    "meaning": "をうのみにする",
+    "example": "Don't swallow everything you hear.",
+    "example_jp": "聞いたことをすべてうのみにしてはいけない。"
+  },
+  {
+    "word": "swallow",
+    "meaning": "に耐える",
+    "example": "He had to swallow his pride.",
+    "example_jp": "彼はプライドを捨てて耐えなければならなかった。"
+  },
+  {
+    "word": "tailor",
+    "meaning": "を合わせて作る",
+    "example": "The jacket was tailored to fit him perfectly.",
+    "example_jp": "そのジャケットは彼に完璧に合うように仕立てられた。"
+  },
+  {
+    "word": "overhear",
+    "meaning": "を偶然耳にする",
+    "example": "I overheard them talking about the secret.",
+    "example_jp": "彼らが秘密について話しているのを偶然耳にした。"
+  },
+  {
+    "word": "consequence",
+    "meaning": "結果",
+    "example": "You must face the consequences of your actions.",
+    "example_jp": "自分の行動の結果と向き合わなければならない。"
+  },
+  {
+    "word": "consequence",
+    "meaning": "重要さ",
+    "example": "It is a matter of great consequence.",
+    "example_jp": "それは非常に重要な問題だ。"
+  },
+  {
+    "word": "application",
+    "meaning": "申請書、申し込み",
+    "example": "I sent in my job application.",
+    "example_jp": "求職の申し込み（申請書）を送った。"
+  },
+  {
+    "word": "application",
+    "meaning": "適用",
+    "example": "This rule has no application here.",
+    "example_jp": "この規則はここでは適用されない。"
+  },
+  {
+    "word": "workout",
+    "meaning": "運動、(運動競技の)練習",
+    "example": "I had a good workout at the gym.",
+    "example_jp": "ジムで良い運動をした。"
+  },
+  {
+    "word": "obstacle",
+    "meaning": "(～に対する)障害(物)",
+    "example": "Lack of money is the biggest obstacle.",
+    "example_jp": "資金不足が最大の障害だ。"
+  },
+  {
+    "word": "treaty",
+    "meaning": "条約、協定",
+    "example": "The two countries signed a peace treaty.",
+    "example_jp": "両国は平和条約に署名した。"
+  },
+  {
+    "word": "deforestation",
+    "meaning": "森林伐採",
+    "example": "Deforestation is destroying the environment.",
+    "example_jp": "森林伐採が環境を破壊している。"
+  },
+  {
+    "word": "infrastructure",
+    "meaning": "基本的施設、(経済)基盤",
+    "example": "The city needs better infrastructure.",
+    "example_jp": "その都市はより良い基本的施設が必要だ。"
+  },
+  {
+    "word": "contribution",
+    "meaning": "貢献",
+    "example": "He made a great contribution to science.",
+    "example_jp": "彼は科学に多大な貢献をした。"
+  },
+  {
+    "word": "contribution",
+    "meaning": "寄付(金)",
+    "example": "They made a generous contribution to the charity.",
+    "example_jp": "彼らは慈善団体に寛大な寄付をした。"
+  },
+  {
+    "word": "congestion",
+    "meaning": "混雑",
+    "example": "Traffic congestion is bad in the morning.",
+    "example_jp": "朝は交通の混雑がひどい。"
+  },
+  {
+    "word": "exposure",
+    "meaning": "身をさらすこと、暴露",
+    "example": "Prolonged exposure to the sun is harmful.",
+    "example_jp": "長時間の太陽への露出は有害だ。"
+  },
+  {
+    "word": "blow",
+    "meaning": "強打、打撃、災難",
+    "example": "The news was a heavy blow to him.",
+    "example_jp": "そのニュースは彼にとって大きな打撃だった。"
+  },
+  {
+    "word": "participation",
+    "meaning": "参加",
+    "example": "Thank you for your active participation.",
+    "example_jp": "積極的な参加をありがとう。"
+  },
+  {
+    "word": "crisis",
+    "meaning": "危機、難局",
+    "example": "The company is facing a financial crisis.",
+    "example_jp": "その会社は財政危機に直面している。"
+  },
+  {
+    "word": "ancestor",
+    "meaning": "先祖、祖先",
+    "example": "His ancestors came from Ireland.",
+    "example_jp": "彼の祖先はアイルランド出身だ。"
+  },
+  {
+    "word": "architect",
+    "meaning": "建築家、設計者",
+    "example": "She is the architect of this building.",
+    "example_jp": "彼女はこの建物の設計者だ。"
+  },
+  {
+    "word": "existence",
+    "meaning": "存在、生存",
+    "example": "The existence of aliens is still a mystery.",
+    "example_jp": "宇宙人の存在は依然として謎だ。"
+  },
+  {
+    "word": "deposit",
+    "meaning": "を置く",
+    "example": "Please deposit your trash in the bin.",
+    "example_jp": "ゴミをゴミ箱に置いて（入れて）ください。"
+  },
+  {
+    "word": "deposit",
+    "meaning": "を預ける",
+    "example": "He deposited his paycheck in the bank.",
+    "example_jp": "彼は給料を銀行に預けた。"
+  },
+  {
+    "word": "deposit",
+    "meaning": "を堆積させる",
+    "example": "The river deposits sand on the beach.",
+    "example_jp": "その川はビーチに砂を堆積させる。"
+  },
+  {
+    "word": "finance",
+    "meaning": "金融、財政(学)",
+    "example": "He studied finance at university.",
+    "example_jp": "彼は大学で金融学を学んだ。"
+  },
+  {
+    "word": "awareness",
+    "meaning": "認識、意識",
+    "example": "There is a growing awareness of the problem.",
+    "example_jp": "その問題に対する意識が高まっている。"
+  },
+  {
+    "word": "intake",
+    "meaning": "摂取量、受け入れ数、取り入れること",
+    "example": "You should limit your daily sugar intake.",
+    "example_jp": "毎日の砂糖の摂取量を制限すべきだ。"
+  },
+  {
+    "word": "witness",
+    "meaning": "目撃者、証人、証拠、証言",
+    "example": "The witness gave evidence in court.",
+    "example_jp": "目撃者が法廷で証言した。"
+  },
+  {
+    "word": "coverage",
+    "meaning": "報道",
+    "example": "The news coverage was extensive.",
+    "example_jp": "ニュースの報道は広範囲にわたった。"
+  },
+  {
+    "word": "coverage",
+    "meaning": "(保険の)補償範囲、適用範囲",
+    "example": "Does your insurance provide full coverage?",
+    "example_jp": "あなたの保険は完全な補償範囲を提供していますか？"
+  }
+]

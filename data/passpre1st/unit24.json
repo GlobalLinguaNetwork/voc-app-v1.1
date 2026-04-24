@@ -1,0 +1,344 @@
+[
+  {
+    "word": "temper",
+    "meaning": "気質",
+    "example": "He has a calm temper.",
+    "example_jp": "彼は穏やかな気質を持っている。"
+  },
+  {
+    "word": "temper",
+    "meaning": "機嫌",
+    "example": "She is in a bad temper today.",
+    "example_jp": "彼女は今日機嫌が悪い。"
+  },
+  {
+    "word": "temper",
+    "meaning": "かんしゃく",
+    "example": "He lost his temper at the meeting.",
+    "example_jp": "彼は会議でかんしゃくを起こした。"
+  },
+  {
+    "word": "fragment",
+    "meaning": "断片",
+    "example": "I found a fragment of the broken vase.",
+    "example_jp": "壊れた花瓶の断片を見つけた。"
+  },
+  {
+    "word": "intersection",
+    "meaning": "交差点",
+    "example": "Turn left at the next intersection.",
+    "example_jp": "次の交差点を左に曲がって。"
+  },
+  {
+    "word": "anarchy",
+    "meaning": "無秩序",
+    "example": "The country fell into total anarchy.",
+    "example_jp": "その国は完全な無秩序状態に陥った。"
+  },
+  {
+    "word": "breakup",
+    "meaning": "別れ",
+    "example": "Their breakup was very painful.",
+    "example_jp": "彼らの別れはとても辛いものだった。"
+  },
+  {
+    "word": "privilege",
+    "meaning": "特権",
+    "example": "Education should be a right, not a privilege.",
+    "example_jp": "教育は特権ではなく権利であるべきだ。"
+  },
+  {
+    "word": "exemption",
+    "meaning": "免除",
+    "example": "He applied for a tax exemption.",
+    "example_jp": "彼は税の免除を申請した。"
+  },
+  {
+    "word": "monarch",
+    "meaning": "君主",
+    "example": "The monarch addressed the nation.",
+    "example_jp": "君主が国民に向けて演説した。"
+  },
+  {
+    "word": "narrative",
+    "meaning": "話",
+    "example": "The book is a compelling narrative.",
+    "example_jp": "その本は説得力のある物語だ。"
+  },
+  {
+    "word": "sensation",
+    "meaning": "感覚",
+    "example": "I lost the sensation in my fingers.",
+    "example_jp": "指の感覚がなくなった。"
+  },
+  {
+    "word": "sensation",
+    "meaning": "大騒ぎ",
+    "example": "The new movie caused a sensation.",
+    "example_jp": "その新しい映画は大騒ぎを巻き起こした。"
+  },
+  {
+    "word": "apprentice",
+    "meaning": "見習い",
+    "example": "He works as an apprentice carpenter.",
+    "example_jp": "彼は大工の見習いとして働いている。"
+  },
+  {
+    "word": "chore",
+    "meaning": "雑用",
+    "example": "Doing the dishes is my least favorite chore.",
+    "example_jp": "皿洗いは一番嫌いな雑用だ。"
+  },
+  {
+    "word": "dehydration",
+    "meaning": "脱水",
+    "example": "Drink plenty of water to prevent dehydration.",
+    "example_jp": "脱水を防ぐためにたっぷり水を飲んで。"
+  },
+  {
+    "word": "questionable",
+    "meaning": "疑わしい",
+    "example": "That is a questionable claim.",
+    "example_jp": "それは疑わしい主張だ。"
+  },
+  {
+    "word": "outdated",
+    "meaning": "時代遅れの",
+    "example": "The software is completely outdated.",
+    "example_jp": "そのソフトウェアは完全に時代遅れだ。"
+  },
+  {
+    "word": "forthcoming",
+    "meaning": "来るべき",
+    "example": "We look forward to the forthcoming event.",
+    "example_jp": "来るべきイベントを楽しみにしている。"
+  },
+  {
+    "word": "gross",
+    "meaning": "総計の",
+    "example": "The gross income is quite high.",
+    "example_jp": "総所得はかなり高い。"
+  },
+  {
+    "word": "gross",
+    "meaning": "甚だしい",
+    "example": "It was a gross error of judgment.",
+    "example_jp": "それは甚だしい判断ミスだった。"
+  },
+  {
+    "word": "gross",
+    "meaning": "粗野な",
+    "example": "He was rude and gross.",
+    "example_jp": "彼は失礼で粗野だった。"
+  },
+  {
+    "word": "overdue",
+    "meaning": "期限を過ぎた",
+    "example": "This book is three days overdue.",
+    "example_jp": "この本は返却期限を3日過ぎている。"
+  },
+  {
+    "word": "contemporary",
+    "meaning": "現代の",
+    "example": "I enjoy contemporary art.",
+    "example_jp": "現代アートを楽しんでいる。"
+  },
+  {
+    "word": "drastic",
+    "meaning": "徹底的な",
+    "example": "The company needs drastic changes.",
+    "example_jp": "その会社には徹底的な変革が必要だ。"
+  },
+  {
+    "word": "conditional",
+    "meaning": "条件付きの",
+    "example": "The job offer is conditional.",
+    "example_jp": "その仕事のオファーは条件付きだ。"
+  },
+  {
+    "word": "subjective",
+    "meaning": "主観的な",
+    "example": "Beauty is a subjective matter.",
+    "example_jp": "美しさは主観的な問題だ。"
+  },
+  {
+    "word": "exotic",
+    "meaning": "異国風の",
+    "example": "She loves exotic food.",
+    "example_jp": "彼女は異国風の料理が大好物だ。"
+  },
+  {
+    "word": "intensive",
+    "meaning": "集中的な",
+    "example": "He took an intensive English course.",
+    "example_jp": "彼は集中的な英語コースを受講した。"
+  },
+  {
+    "word": "obscure",
+    "meaning": "知られていない",
+    "example": "He is an obscure writer.",
+    "example_jp": "彼は知られていない作家だ。"
+  },
+  {
+    "word": "obscure",
+    "meaning": "不明瞭な",
+    "example": "The meaning of the text is obscure.",
+    "example_jp": "その文章の意味は不明瞭だ。"
+  },
+  {
+    "word": "tedious",
+    "meaning": "退屈な",
+    "example": "The work is long and tedious.",
+    "example_jp": "その仕事は長く退屈だ。"
+  },
+  {
+    "word": "exclusive",
+    "meaning": "高級な",
+    "example": "They stayed at an exclusive hotel.",
+    "example_jp": "彼らは高級なホテルに泊まった。"
+  },
+  {
+    "word": "decent",
+    "meaning": "まずまずの",
+    "example": "I want a decent meal.",
+    "example_jp": "まずまずの食事がしたい。"
+  },
+  {
+    "word": "considerate",
+    "meaning": "思いやりのある",
+    "example": "He is very considerate of others.",
+    "example_jp": "彼は他人に対してとても思いやりがある。"
+  },
+  {
+    "word": "durable",
+    "meaning": "丈夫な",
+    "example": "These shoes are very durable.",
+    "example_jp": "これらの靴はとても丈夫だ。"
+  },
+  {
+    "word": "perpetual",
+    "meaning": "永続的な",
+    "example": "They are in a state of perpetual war.",
+    "example_jp": "彼らは永続的な戦争状態にある。"
+  },
+  {
+    "word": "proficient",
+    "meaning": "堪能な",
+    "example": "She is proficient in French.",
+    "example_jp": "彼女はフランス語に堪能だ。"
+  },
+  {
+    "word": "acoustic",
+    "meaning": "音響の",
+    "example": "The room has great acoustic quality.",
+    "example_jp": "その部屋は素晴らしい音響品質だ。"
+  },
+  {
+    "word": "biographical",
+    "meaning": "伝記の",
+    "example": "This is a biographical film.",
+    "example_jp": "これは伝記映画だ。"
+  },
+  {
+    "word": "botanical",
+    "meaning": "植物の",
+    "example": "They visited a botanical garden.",
+    "example_jp": "彼らは植物園を訪れた。"
+  },
+  {
+    "word": "brutal",
+    "meaning": "残酷な",
+    "example": "The criminal was brutal.",
+    "example_jp": "その犯人は残酷だった。"
+  },
+  {
+    "word": "commendable",
+    "meaning": "賞賛されるべき",
+    "example": "Your effort is commendable.",
+    "example_jp": "君の努力は賞賛されるべきだ。"
+  },
+  {
+    "word": "desperate",
+    "meaning": "絶望的な",
+    "example": "The situation is desperate.",
+    "example_jp": "状況は絶望的だ。"
+  },
+  {
+    "word": "desperate",
+    "meaning": "必死の",
+    "example": "He made a desperate attempt to escape.",
+    "example_jp": "彼は逃げるために必死の試みをした。"
+  },
+  {
+    "word": "extravagant",
+    "meaning": "浪費する",
+    "example": "She has extravagant spending habits.",
+    "example_jp": "彼女は浪費癖がある。"
+  },
+  {
+    "word": "filthy",
+    "meaning": "汚い",
+    "example": "His clothes were filthy.",
+    "example_jp": "彼の服は汚かった。"
+  },
+  {
+    "word": "serene",
+    "meaning": "穏やかな",
+    "example": "She has a serene expression.",
+    "example_jp": "彼女は穏やかな表情をしている。"
+  },
+  {
+    "word": "valid",
+    "meaning": "有効な",
+    "example": "This ticket is valid for one month.",
+    "example_jp": "このチケットは1ヶ月有効だ。"
+  },
+  {
+    "word": "inherent",
+    "meaning": "本来的に備わっている",
+    "example": "Risk is inherent in this business.",
+    "example_jp": "このビジネスにはリスクが本来的に備わっている。"
+  },
+  {
+    "word": "merely",
+    "meaning": "単に",
+    "example": "It was merely a suggestion.",
+    "example_jp": "それは単なる提案だった。"
+  },
+  {
+    "word": "somehow",
+    "meaning": "何とかして",
+    "example": "We will finish the work somehow.",
+    "example_jp": "何とかして仕事を終わらせるつもりだ。"
+  },
+  {
+    "word": "subsequently",
+    "meaning": "その後",
+    "example": "He was subsequently promoted.",
+    "example_jp": "彼はその後昇進した。"
+  },
+  {
+    "word": "deliberately",
+    "meaning": "故意に",
+    "example": "She deliberately ignored his question.",
+    "example_jp": "彼女は故意に彼の質問を無視した。"
+  },
+  {
+    "word": "gently",
+    "meaning": "優しく",
+    "example": "She spoke gently to the child.",
+    "example_jp": "彼女は子供に優しく話しかけた。"
+  },
+  {
+    "word": "via",
+    "meaning": "経由で",
+    "example": "We flew to London via Paris.",
+    "example_jp": "パリ経由でロンドンへ飛んだ。"
+  },
+  {
+    "word": "alongside",
+    "meaning": "一緒に",
+    "example": "He worked alongside his father.",
+    "example_jp": "彼は父親と一緒に働いた。"
+  }
+]

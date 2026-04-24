@@ -1,0 +1,356 @@
+[
+  {
+    "word": "fit into",
+    "meaning": "～に溶け込む",
+    "example": "He fits into the new team well.",
+    "example_jp": "彼は新しいチームによく溶け込んでいる。"
+  },
+  {
+    "word": "fit into",
+    "meaning": "～に収まる",
+    "example": "This box won't fit into the suitcase.",
+    "example_jp": "この箱はスーツケースに収まらない。"
+  },
+  {
+    "word": "fix up",
+    "meaning": "～を修理する",
+    "example": "We need to fix up the old fence.",
+    "example_jp": "古いフェンスを修理する必要がある。"
+  },
+  {
+    "word": "fix up",
+    "meaning": "～を改装する",
+    "example": "They fixed up their kitchen.",
+    "example_jp": "彼らはキッチンを改装した。"
+  },
+  {
+    "word": "for all",
+    "meaning": "～にもかかわらず",
+    "example": "For all his wealth, he is not happy.",
+    "example_jp": "富があるにもかかわらず、彼は幸せではない。"
+  },
+  {
+    "word": "for the time being",
+    "meaning": "当分の間",
+    "example": "I will stay here for the time being.",
+    "example_jp": "当分の間はここに留まるつもりだ。"
+  },
+  {
+    "word": "force down",
+    "meaning": "感情などを抑える",
+    "example": "She forced down her anger.",
+    "example_jp": "彼女は怒りを抑えた。"
+  },
+  {
+    "word": "free up",
+    "meaning": "～を自由化する",
+    "example": "The government aims to free up trade.",
+    "example_jp": "政府は貿易を自由化することを目指している。"
+  },
+  {
+    "word": "free up",
+    "meaning": "～解放する",
+    "example": "We need to free up some space on the hard drive.",
+    "example_jp": "ハードドライブの空き容量を解放する必要がある。"
+  },
+  {
+    "word": "frown on (upon)",
+    "meaning": "～に難色を示す",
+    "example": "Smoking is frowned on in this building.",
+    "example_jp": "この建物では喫煙に難色が示されている。"
+  },
+  {
+    "word": "gear up",
+    "meaning": "準備をする",
+    "example": "The team is gearing up for the tournament.",
+    "example_jp": "チームはトーナメントに向けて準備をしている。"
+  },
+  {
+    "word": "get around",
+    "meaning": "あちこち動き回る",
+    "example": "It's easy to get around by bike.",
+    "example_jp": "自転車であちこち動き回るのは簡単だ。"
+  },
+  {
+    "word": "get around",
+    "meaning": "うまく避ける",
+    "example": "He always finds a way to get around the rules.",
+    "example_jp": "彼はいつもルールをうまく避ける方法を見つける。"
+  },
+  {
+    "word": "get around to doing",
+    "meaning": "～をする余裕ができる",
+    "example": "I finally got around to reading that book.",
+    "example_jp": "ついにその本を読む余裕ができた。"
+  },
+  {
+    "word": "get away with",
+    "meaning": "～をうまくやる",
+    "example": "You can't get away with cheating forever.",
+    "example_jp": "カンニングをいつまでもやり通せるわけがない。"
+  },
+  {
+    "word": "get by",
+    "meaning": "何とかやっていく",
+    "example": "We can get by with what we have.",
+    "example_jp": "今あるもので何とかやっていける。"
+  },
+  {
+    "word": "get down to",
+    "meaning": "～本気で取りかかる",
+    "example": "Let's get down to business.",
+    "example_jp": "本気で仕事に取りかかろう。"
+  },
+  {
+    "word": "get in on",
+    "meaning": "～に参加する",
+    "example": "He wants to get in on the project.",
+    "example_jp": "彼はそのプロジェクトに参加したがっている。"
+  },
+  {
+    "word": "get into",
+    "meaning": "～に夢中になる",
+    "example": "I'm really getting into this TV show.",
+    "example_jp": "このテレビ番組にすっかり夢中になっている。"
+  },
+  {
+    "word": "get into",
+    "meaning": "～になる",
+    "example": "He got into a bad mood.",
+    "example_jp": "彼は不機嫌な状態になった。"
+  },
+  {
+    "word": "get on with",
+    "meaning": "仕事などを続ける",
+    "example": "Please get on with your work.",
+    "example_jp": "仕事の続きをして。"
+  },
+  {
+    "word": "get on with",
+    "meaning": "人とうまくやっていく",
+    "example": "She gets on with everyone.",
+    "example_jp": "彼女は誰とでもうまくやっていく。"
+  },
+  {
+    "word": "give away",
+    "meaning": "～をばらす",
+    "example": "Don't give away the ending of the movie.",
+    "example_jp": "映画の結末をばらさないで。"
+  },
+  {
+    "word": "give away",
+    "meaning": "～をただで与える",
+    "example": "He gave away his old clothes.",
+    "example_jp": "彼は古い服をただで与えた。"
+  },
+  {
+    "word": "give in (to)",
+    "meaning": "～に降参する",
+    "example": "They finally gave in to our demands.",
+    "example_jp": "彼らはついに我々の要求に降参した。"
+  },
+  {
+    "word": "give off",
+    "meaning": "～を発する",
+    "example": "The flowers give off a sweet scent.",
+    "example_jp": "その花は甘い香りを発する。"
+  },
+  {
+    "word": "give A over to B",
+    "meaning": "AをBに預ける",
+    "example": "I gave my pet over to my friend.",
+    "example_jp": "ペットを友人に預けた。"
+  },
+  {
+    "word": "give rise to",
+    "meaning": "～の原因となる",
+    "example": "The incident gave rise to a lot of rumors.",
+    "example_jp": "その出来事が多くの噂の原因となった。"
+  },
+  {
+    "word": "go back on",
+    "meaning": "～を破る",
+    "example": "Never go back on your word.",
+    "example_jp": "約束（言葉）を決して破るな。"
+  },
+  {
+    "word": "go for",
+    "meaning": "～を選ぶ",
+    "example": "I think I will go for the steak.",
+    "example_jp": "ステーキを選ぶつもりだ。"
+  },
+  {
+    "word": "grow into",
+    "meaning": "成長して着られるようになる",
+    "example": "He will grow into those clothes soon.",
+    "example_jp": "彼はすぐにその服が着られるようになるだろう。"
+  },
+  {
+    "word": "grow on",
+    "meaning": "気にいるようになる",
+    "example": "This song is starting to grow on me.",
+    "example_jp": "この曲がだんだん気に入ってきた。"
+  },
+  {
+    "word": "grow out of",
+    "meaning": "成長して脱する",
+    "example": "She will grow out of this habit.",
+    "example_jp": "彼女はそのうちこの習慣から脱するだろう。"
+  },
+  {
+    "word": "hand down",
+    "meaning": "～を伝える",
+    "example": "The story was handed down through generations.",
+    "example_jp": "その物語は何世代にもわたって伝えられた。"
+  },
+  {
+    "word": "hand down",
+    "meaning": "～を言い渡す",
+    "example": "The court handed down a final judgment.",
+    "example_jp": "裁判所は最終判決を言い渡した。"
+  },
+  {
+    "word": "hand off",
+    "meaning": "～を任せる",
+    "example": "He handed off the task to his assistant.",
+    "example_jp": "彼はその仕事をアシスタントに任せた。"
+  },
+  {
+    "word": "hand out A (to B)",
+    "meaning": "～を配る",
+    "example": "The teacher handed out the papers.",
+    "example_jp": "先生がプリントを配った。"
+  },
+  {
+    "word": "hang around",
+    "meaning": "ぶらつく",
+    "example": "They are hanging around outside.",
+    "example_jp": "彼らは外でぶらついている。"
+  },
+  {
+    "word": "hang on",
+    "meaning": "待つ",
+    "example": "Hang on a second, I'll be right there.",
+    "example_jp": "少し待って、すぐに行くから。"
+  },
+  {
+    "word": "hang up",
+    "meaning": "～を切る",
+    "example": "He hung up the phone suddenly.",
+    "example_jp": "彼は突然電話を切った。"
+  },
+  {
+    "word": "head off",
+    "meaning": "～を阻止する",
+    "example": "We must head off this problem now.",
+    "example_jp": "今すぐこの問題を阻止しなければならない。"
+  },
+  {
+    "word": "head out",
+    "meaning": "出かける",
+    "example": "We should head out before it gets dark.",
+    "example_jp": "暗くなる前に出かけるべきだ。"
+  },
+  {
+    "word": "hold back",
+    "meaning": "～を抑えておく",
+    "example": "She held back her tears.",
+    "example_jp": "彼女は涙を抑えた。"
+  },
+  {
+    "word": "hold off",
+    "meaning": "～を延期する",
+    "example": "We should hold off making a decision.",
+    "example_jp": "決定を延期すべきだ。"
+  },
+  {
+    "word": "hold out",
+    "meaning": "もちこたえる",
+    "example": "They held out for two weeks.",
+    "example_jp": "彼らは2週間もちこたえた。"
+  },
+  {
+    "word": "hold out",
+    "meaning": "～を差し出す",
+    "example": "She held out her hand to me.",
+    "example_jp": "彼女は私に手を差し出した。"
+  },
+  {
+    "word": "hold over",
+    "meaning": "～を延期する",
+    "example": "The decision was held over until next week.",
+    "example_jp": "決定は来週まで延期された。"
+  },
+  {
+    "word": "in a row",
+    "meaning": "連続で",
+    "example": "They won five games in a row.",
+    "example_jp": "彼らは5試合連続で勝った。"
+  },
+  {
+    "word": "in favor of",
+    "meaning": "～に賛成して",
+    "example": "The majority voted in favor of the plan.",
+    "example_jp": "多数派がその計画に賛成票を投じた。"
+  },
+  {
+    "word": "in response to",
+    "meaning": "～に応えて",
+    "example": "He resigned in response to the pressure.",
+    "example_jp": "彼は圧力に応えて辞任した。"
+  },
+  {
+    "word": "in terms of",
+    "meaning": "～の観点から",
+    "example": "We measured success in terms of profit.",
+    "example_jp": "私たちは成功を利益の観点から測定した。"
+  },
+  {
+    "word": "in the event of",
+    "meaning": "～の場合には",
+    "example": "In the event of fire, leave the building.",
+    "example_jp": "火災の場合には建物から避難してください。"
+  },
+  {
+    "word": "in vain",
+    "meaning": "無駄に",
+    "example": "They tried to fix it in vain.",
+    "example_jp": "彼らはそれを直そうとしたが無駄だった。"
+  },
+  {
+    "word": "jump at",
+    "meaning": "～にすぐ飛びつく",
+    "example": "He jumped at the chance to travel.",
+    "example_jp": "彼は旅行のチャンスにすぐ飛びついた。"
+  },
+  {
+    "word": "keep track of",
+    "meaning": "～に注意している",
+    "example": "It is hard to keep track of all the changes.",
+    "example_jp": "すべての変更に注意しておくのは難しい。"
+  },
+  {
+    "word": "keep up with",
+    "meaning": "～に遅れずについていく",
+    "example": "It is difficult to keep up with the latest trends.",
+    "example_jp": "最新の流行についていくのは難しい。"
+  },
+  {
+    "word": "kick around",
+    "meaning": "～をあれこれ検討する",
+    "example": "Let's kick around some ideas for the project.",
+    "example_jp": "プロジェクトのアイデアをあれこれ検討しよう。"
+  },
+  {
+    "word": "kick in",
+    "meaning": "効き始める",
+    "example": "The medicine should kick in soon.",
+    "example_jp": "薬がもうすぐ効き始めるはずだ。"
+  },
+  {
+    "word": "kick off",
+    "meaning": "～を開始する",
+    "example": "The band kicked off the show with a new song.",
+    "example_jp": "バンドは新曲でショーを開始した。"
+  }
+]

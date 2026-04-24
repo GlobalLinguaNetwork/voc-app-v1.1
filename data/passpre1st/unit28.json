@@ -1,0 +1,326 @@
+[
+  {
+    "word": "peasant",
+    "meaning": "小作人",
+    "example": "The peasant worked hard on the land.",
+    "example_jp": "小作人はその土地で懸命に働いた。"
+  },
+  {
+    "word": "burden",
+    "meaning": "負担",
+    "example": "High taxes are a heavy burden for families.",
+    "example_jp": "高い税金は家族にとって重い負担だ。"
+  },
+  {
+    "word": "faculty",
+    "meaning": "教授陣",
+    "example": "The faculty voted to change the curriculum.",
+    "example_jp": "教授陣はカリキュラムの変更を可決した。"
+  },
+  {
+    "word": "faculty",
+    "meaning": "能力",
+    "example": "He has a great faculty for languages.",
+    "example_jp": "彼には言語に対する優れた能力がある。"
+  },
+  {
+    "word": "tactics",
+    "meaning": "戦術",
+    "example": "The team changed their tactics during the game.",
+    "example_jp": "チームは試合中に戦術を変えた。"
+  },
+  {
+    "word": "fare",
+    "meaning": "運賃",
+    "example": "The bus fare has increased.",
+    "example_jp": "バスの運賃が値上がりした。"
+  },
+  {
+    "word": "manner",
+    "meaning": "方法",
+    "example": "He spoke in a friendly manner.",
+    "example_jp": "彼は親しみやすい方法で話した。"
+  },
+  {
+    "word": "manner",
+    "meaning": "行儀",
+    "example": "You should mind your manners at the table.",
+    "example_jp": "食卓では行儀に気を付けるべきだ。"
+  },
+  {
+    "word": "correlation",
+    "meaning": "相関関係",
+    "example": "There is a strong correlation between exercise and health.",
+    "example_jp": "運動と健康の間には強い相関関係がある。"
+  },
+  {
+    "word": "weed",
+    "meaning": "雑草",
+    "example": "I need to clear the weeds from the garden.",
+    "example_jp": "庭から雑草を取り除く必要がある。"
+  },
+  {
+    "word": "command",
+    "meaning": "命令",
+    "example": "He followed the command without question.",
+    "example_jp": "彼は質問せずに命令に従った。"
+  },
+  {
+    "word": "command",
+    "meaning": "能力",
+    "example": "She has a good command of English.",
+    "example_jp": "彼女は英語を自由に使う能力がある。"
+  },
+  {
+    "word": "quarter",
+    "meaning": "4分の1",
+    "example": "A quarter of the students passed.",
+    "example_jp": "生徒の4分の1が合格した。"
+  },
+  {
+    "word": "quarter",
+    "meaning": "地区",
+    "example": "They visited the historic French quarter.",
+    "example_jp": "彼らは歴史的なフランス人地区を訪れた。"
+  },
+  {
+    "word": "availability",
+    "meaning": "入手の可能性",
+    "example": "The availability of fresh food is limited here.",
+    "example_jp": "ここでは新鮮な食べ物の入手の可能性が限られている。"
+  },
+  {
+    "word": "caution",
+    "meaning": "用心",
+    "example": "You should approach the problem with caution.",
+    "example_jp": "用心してその問題に取り組むべきだ。"
+  },
+  {
+    "word": "prevention",
+    "meaning": "予防",
+    "example": "Disease prevention is our top priority.",
+    "example_jp": "病気の予防が我々の最優先事項だ。"
+  },
+  {
+    "word": "reptile",
+    "meaning": "爬虫類",
+    "example": "The lizard is a type of reptile.",
+    "example_jp": "トカゲは爬虫類の一種だ。"
+  },
+  {
+    "word": "fate",
+    "meaning": "運命",
+    "example": "It was her fate to become a famous singer.",
+    "example_jp": "有名な歌手になるのが彼女の運命だった。"
+  },
+  {
+    "word": "inclination",
+    "meaning": "意向",
+    "example": "I have no inclination to go out tonight.",
+    "example_jp": "今夜出かける意向はない。"
+  },
+  {
+    "word": "scorn",
+    "meaning": "軽蔑",
+    "example": "He looked at the painting with scorn.",
+    "example_jp": "彼はその絵を軽蔑の目で見つめた。"
+  },
+  {
+    "word": "contempt",
+    "meaning": "軽蔑",
+    "example": "She has total contempt for his methods.",
+    "example_jp": "彼女は彼のやり方に対して全くの軽蔑を抱いている。"
+  },
+  {
+    "word": "domain",
+    "meaning": "分野",
+    "example": "Science is his domain of expertise.",
+    "example_jp": "科学は彼の専門分野だ。"
+  },
+  {
+    "word": "pillar",
+    "meaning": "柱",
+    "example": "The roof is supported by stone pillars.",
+    "example_jp": "屋根は石の柱で支えられている。"
+  },
+  {
+    "word": "tender",
+    "meaning": "柔らかい",
+    "example": "The steak was very tender.",
+    "example_jp": "ステーキはとても柔らかかった。"
+  },
+  {
+    "word": "awkward",
+    "meaning": "気まずい",
+    "example": "There was an awkward silence in the room.",
+    "example_jp": "部屋に気まずい沈黙が流れた。"
+  },
+  {
+    "word": "fierce",
+    "meaning": "猛烈な",
+    "example": "They fought a fierce battle.",
+    "example_jp": "彼らは猛烈な戦いをした。"
+  },
+  {
+    "word": "peculiar",
+    "meaning": "変な",
+    "example": "I noticed a peculiar smell in the kitchen.",
+    "example_jp": "キッチンで変な臭いに気づいた。"
+  },
+  {
+    "word": "genuine",
+    "meaning": "本物の",
+    "example": "Is this a genuine diamond?",
+    "example_jp": "これは本物のダイヤモンドですか？"
+  },
+  {
+    "word": "vigorous",
+    "meaning": "精力的な",
+    "example": "He gave a vigorous speech.",
+    "example_jp": "彼は精力的な演説をした。"
+  },
+  {
+    "word": "gloomy",
+    "meaning": "陰気な",
+    "example": "It was a gloomy winter day.",
+    "example_jp": "陰気な冬の日だった。"
+  },
+  {
+    "word": "medieval",
+    "meaning": "中世の",
+    "example": "They visited a medieval castle.",
+    "example_jp": "彼らは中世の城を訪れた。"
+  },
+  {
+    "word": "subtle",
+    "meaning": "微妙な",
+    "example": "There is a subtle difference in color.",
+    "example_jp": "色に微妙な違いがある。"
+  },
+  {
+    "word": "rigid",
+    "meaning": "厳しい",
+    "example": "The school has rigid rules.",
+    "example_jp": "その学校には厳しい規則がある。"
+  },
+  {
+    "word": "coarse",
+    "meaning": "粗い",
+    "example": "The fabric felt coarse to the touch.",
+    "example_jp": "その生地は触ると粗い感じがした。"
+  },
+  {
+    "word": "humble",
+    "meaning": "謙虚な",
+    "example": "He is a humble man despite his success.",
+    "example_jp": "彼は成功しているにもかかわらず謙虚な人だ。"
+  },
+  {
+    "word": "slack",
+    "meaning": "たるんだ",
+    "example": "The rope was slack.",
+    "example_jp": "ロープがたるんでいた。"
+  },
+  {
+    "word": "trivial",
+    "meaning": "取るに足らない",
+    "example": "Don't worry about such trivial matters.",
+    "example_jp": "そんな取るに足らないことを心配しないで。"
+  },
+  {
+    "word": "mutual",
+    "meaning": "相互の",
+    "example": "We have a mutual friend.",
+    "example_jp": "私たちには相互の友人がいる。"
+  },
+  {
+    "word": "redundant",
+    "meaning": "不要な",
+    "example": "This part of the report is redundant.",
+    "example_jp": "レポートのこの部分は不要だ。"
+  },
+  {
+    "word": "premature",
+    "meaning": "早過ぎる",
+    "example": "It is premature to jump to conclusions.",
+    "example_jp": "結論を急ぐのは早過ぎる。"
+  },
+  {
+    "word": "attentive",
+    "meaning": "注意深い",
+    "example": "She was an attentive listener.",
+    "example_jp": "彼女は注意深い聞き手だった。"
+  },
+  {
+    "word": "integral",
+    "meaning": "不可欠な",
+    "example": "Music is an integral part of my life.",
+    "example_jp": "音楽は私の人生に不可欠な一部だ。"
+  },
+  {
+    "word": "memorable",
+    "meaning": "忘れられない",
+    "example": "It was a memorable trip.",
+    "example_jp": "忘れられない旅行だった。"
+  },
+  {
+    "word": "persuasive",
+    "meaning": "説得力のある",
+    "example": "He gave a persuasive argument.",
+    "example_jp": "彼は説得力のある議論をした。"
+  },
+  {
+    "word": "prevalent",
+    "meaning": "蔓延している",
+    "example": "This disease is prevalent in the region.",
+    "example_jp": "この病気はその地域で蔓延している。"
+  },
+  {
+    "word": "unaware",
+    "meaning": "気づかないで",
+    "example": "I was unaware of the danger.",
+    "example_jp": "私は危険に気づいていなかった。"
+  },
+  {
+    "word": "worthwhile",
+    "meaning": "価値のある",
+    "example": "It was a worthwhile experience.",
+    "example_jp": "価値のある経験だった。"
+  },
+  {
+    "word": "amazing",
+    "meaning": "驚くべき",
+    "example": "The results were amazing.",
+    "example_jp": "結果は驚くべきものだった。"
+  },
+  {
+    "word": "eligible",
+    "meaning": "適格の",
+    "example": "You are eligible for a refund.",
+    "example_jp": "あなたは返金の適格がある。"
+  },
+  {
+    "word": "vicious",
+    "meaning": "悪意のある",
+    "example": "She started a vicious rumor.",
+    "example_jp": "彼女は悪意のある噂を流した。"
+  },
+  {
+    "word": "invisible",
+    "meaning": "見えない",
+    "example": "The gas is invisible to the eye.",
+    "example_jp": "そのガスは目に見えない。"
+  },
+  {
+    "word": "invalid",
+    "meaning": "無効な",
+    "example": "This ticket is invalid.",
+    "example_jp": "このチケットは無効だ。"
+  },
+  {
+    "word": "rotten",
+    "meaning": "腐った",
+    "example": "The fruit was rotten.",
+    "example_jp": "果物は腐っていた。"
+  }
+]

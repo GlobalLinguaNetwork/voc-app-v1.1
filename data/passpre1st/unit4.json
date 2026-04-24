@@ -1,0 +1,410 @@
+[
+  {
+    "word": "district",
+    "meaning": "地区、行政区",
+    "example": "He lives in the shopping district.",
+    "example_jp": "彼はショッピング地区に住んでいる。"
+  },
+  {
+    "word": "election",
+    "meaning": "選挙",
+    "example": "She won the presidential election.",
+    "example_jp": "彼女は大統領選挙で勝利した。"
+  },
+  {
+    "word": "medication",
+    "meaning": "薬、医薬品",
+    "example": "You need a prescription for this medication.",
+    "example_jp": "この薬には処方箋が必要です。"
+  },
+  {
+    "word": "medication",
+    "meaning": "薬物治療",
+    "example": "He is undergoing medication for his illness.",
+    "example_jp": "彼は病気のため薬物治療を受けている。"
+  },
+  {
+    "word": "breed",
+    "meaning": "を繁殖させる、育てる",
+    "example": "Farmers breed cattle for meat.",
+    "example_jp": "農家は食肉用に牛を繁殖させている。"
+  },
+  {
+    "word": "breed",
+    "meaning": "繁殖する",
+    "example": "These animals breed in the spring.",
+    "example_jp": "これらの動物は春に繁殖する。"
+  },
+  {
+    "word": "conflict",
+    "meaning": "争い",
+    "example": "There is a serious conflict between the two countries.",
+    "example_jp": "両国の間には深刻な争いがある。"
+  },
+  {
+    "word": "conflict",
+    "meaning": "論争",
+    "example": "The conflict over the new policy continues.",
+    "example_jp": "新政策をめぐる論争が続いている。"
+  },
+  {
+    "word": "conflict",
+    "meaning": "不一致",
+    "example": "There is a conflict between his words and actions.",
+    "example_jp": "彼の言動には不一致がある。"
+  },
+  {
+    "word": "productivity",
+    "meaning": "生産性",
+    "example": "We need to improve our productivity.",
+    "example_jp": "私たちは生産性を向上させる必要がある。"
+  },
+  {
+    "word": "organism",
+    "meaning": "有機体、生物",
+    "example": "A single cell is a living organism.",
+    "example_jp": "単細胞は一つの生物である。"
+  },
+  {
+    "word": "representative",
+    "meaning": "代表者、代理人",
+    "example": "A company representative will meet you.",
+    "example_jp": "会社の代表者があなたと面談します。"
+  },
+  {
+    "word": "warehouse",
+    "meaning": "倉庫",
+    "example": "They store the goods in a large warehouse.",
+    "example_jp": "彼らは商品を大きな倉庫に保管している。"
+  },
+  {
+    "word": "refund",
+    "meaning": "返金、払い戻し",
+    "example": "Can I get a refund for this broken item?",
+    "example_jp": "この壊れた商品に対して返金してもらえますか？"
+  },
+  {
+    "word": "tuition",
+    "meaning": "授業料",
+    "example": "The university raised the tuition fees.",
+    "example_jp": "大学は授業料を値上げした。"
+  },
+  {
+    "word": "tuition",
+    "meaning": "（個人）指導",
+    "example": "She gives private tuition in math.",
+    "example_jp": "彼女は数学の個人指導をしている。"
+  },
+  {
+    "word": "range",
+    "meaning": "範囲、領域",
+    "example": "The price is within the range of my budget.",
+    "example_jp": "その価格は私の予算の範囲内だ。"
+  },
+  {
+    "word": "victim",
+    "meaning": "犠牲者、被害者",
+    "example": "The police are helping the victims of the crime.",
+    "example_jp": "警察はその犯罪の被害者を支援している。"
+  },
+  {
+    "word": "dose",
+    "meaning": "（薬や放射線などの）投与量",
+    "example": "Take the correct dose of medicine.",
+    "example_jp": "正しい量の薬を服用してください。"
+  },
+  {
+    "word": "mainland",
+    "meaning": "本土",
+    "example": "They traveled from the island to the mainland.",
+    "example_jp": "彼らは島から本土へ移動した。"
+  },
+  {
+    "word": "waterfall",
+    "meaning": "滝",
+    "example": "We saw a beautiful waterfall in the forest.",
+    "example_jp": "私たちは森の中で美しい滝を見た。"
+  },
+  {
+    "word": "satellite",
+    "meaning": "人工衛星、衛星",
+    "example": "The satellite sends signals to the earth.",
+    "example_jp": "その人工衛星は地球に信号を送っている。"
+  },
+  {
+    "word": "evolution",
+    "meaning": "進化",
+    "example": "The theory of evolution explains how species change.",
+    "example_jp": "進化論は種がどのように変化するかを説明している。"
+  },
+  {
+    "word": "evolution",
+    "meaning": "発展、展開",
+    "example": "This is a new stage in the evolution of technology.",
+    "example_jp": "これは技術の発展における新しい段階だ。"
+  },
+  {
+    "word": "prey",
+    "meaning": "獲物",
+    "example": "The lion is hunting for prey.",
+    "example_jp": "ライオンが獲物を探している。"
+  },
+  {
+    "word": "prey",
+    "meaning": "犠牲者",
+    "example": "He became prey to his own greed.",
+    "example_jp": "彼は自身の欲の犠牲者となった。"
+  },
+  {
+    "word": "bystander",
+    "meaning": "傍観者",
+    "example": "The accident was seen by several bystanders.",
+    "example_jp": "その事故は数人の傍観者によって目撃された。"
+  },
+  {
+    "word": "creature",
+    "meaning": "生き物、動物",
+    "example": "The ocean is full of strange creatures.",
+    "example_jp": "海は奇妙な生き物でいっぱいだ。"
+  },
+  {
+    "word": "civilization",
+    "meaning": "文明",
+    "example": "Ancient civilization started near the rivers.",
+    "example_jp": "古代文明は川の近くで始まった。"
+  },
+  {
+    "word": "tribe",
+    "meaning": "部族",
+    "example": "He lives with a local tribe.",
+    "example_jp": "彼は地元の部族と一緒に暮らしている。"
+  },
+  {
+    "word": "tribe",
+    "meaning": "仲間、集団",
+    "example": "She belongs to a tribe of artists.",
+    "example_jp": "彼女はアーティストの仲間（集団）の一員だ。"
+  },
+  {
+    "word": "permission",
+    "meaning": "許可、承認",
+    "example": "Do you have permission to enter?",
+    "example_jp": "入る許可はありますか？"
+  },
+  {
+    "word": "barrier",
+    "meaning": "（物理的な）障壁、防壁",
+    "example": "They built a barrier to stop the water.",
+    "example_jp": "彼らは水をせき止めるための防壁を築いた。"
+  },
+  {
+    "word": "barrier",
+    "meaning": "（抽象的な）障壁",
+    "example": "Language is a barrier to communication.",
+    "example_jp": "言語はコミュニケーションの障壁である。"
+  },
+  {
+    "word": "wage",
+    "meaning": "賃金、給料",
+    "example": "They earn a minimum wage.",
+    "example_jp": "彼らは最低賃金を得ている。"
+  },
+  {
+    "word": "drone",
+    "meaning": "ドローン、無人機",
+    "example": "They used a drone to take photos.",
+    "example_jp": "彼らは写真を撮るためにドローンを使った。"
+  },
+  {
+    "word": "appearance",
+    "meaning": "外観、外見",
+    "example": "Don't judge by appearance.",
+    "example_jp": "外見で判断してはいけない。"
+  },
+  {
+    "word": "appearance",
+    "meaning": "出現",
+    "example": "The sudden appearance of the sun was a relief.",
+    "example_jp": "突然の太陽の出現にほっとした。"
+  },
+  {
+    "word": "embassy",
+    "meaning": "大使館",
+    "example": "He visited the American embassy.",
+    "example_jp": "彼はアメリカ大使館を訪れた。"
+  },
+  {
+    "word": "embassy",
+    "meaning": "大使一行",
+    "example": "The embassy arrived at the palace.",
+    "example_jp": "大使一行が宮殿に到着した。"
+  },
+  {
+    "word": "skeleton",
+    "meaning": "骨格",
+    "example": "The skeleton was found in the cave.",
+    "example_jp": "洞窟で骨格が発見された。"
+  },
+  {
+    "word": "skeleton",
+    "meaning": "骨組み、概略",
+    "example": "We have the skeleton of our plan ready.",
+    "example_jp": "計画の概略（骨組み）は準備できている。"
+  },
+  {
+    "word": "wildlife",
+    "meaning": "野生生物",
+    "example": "This park protects local wildlife.",
+    "example_jp": "この公園は地元の野生生物を保護している。"
+  },
+  {
+    "word": "potential",
+    "meaning": "潜在的な、可能性を秘めた",
+    "example": "He is a potential candidate for the job.",
+    "example_jp": "彼はその職の潜在的な候補者だ。"
+  },
+  {
+    "word": "limited",
+    "meaning": "限定された、わずかの",
+    "example": "We have limited time to finish this.",
+    "example_jp": "これを終わらせるための時間は限られている。"
+  },
+  {
+    "word": "rural",
+    "meaning": "田舎の、田園の",
+    "example": "She grew up in a rural area.",
+    "example_jp": "彼女は田舎で育った。"
+  },
+  {
+    "word": "advanced",
+    "meaning": "進歩した、前進した",
+    "example": "We use advanced technology.",
+    "example_jp": "私たちは進歩した技術を使っている。"
+  },
+  {
+    "word": "advanced",
+    "meaning": "上級の",
+    "example": "This is an advanced English class.",
+    "example_jp": "これは上級の英語クラスだ。"
+  },
+  {
+    "word": "beneficial",
+    "meaning": "有益な、有利な",
+    "example": "Exercise is beneficial to your health.",
+    "example_jp": "運動は健康に有益だ。"
+  },
+  {
+    "word": "genetic",
+    "meaning": "遺伝子の",
+    "example": "They are studying genetic diseases.",
+    "example_jp": "彼らは遺伝病を研究している。"
+  },
+  {
+    "word": "radical",
+    "meaning": "急進的な",
+    "example": "He has radical political views.",
+    "example_jp": "彼は急進的な政治的見解を持っている。"
+  },
+  {
+    "word": "radical",
+    "meaning": "根本的な",
+    "example": "The company needs a radical change.",
+    "example_jp": "その会社には根本的な変化が必要だ。"
+  },
+  {
+    "word": "hostile",
+    "meaning": "敵意のある",
+    "example": "They were hostile to the new idea.",
+    "example_jp": "彼らはその新しいアイデアに敵意を抱いていた。"
+  },
+  {
+    "word": "fit",
+    "meaning": "健康な、元気な",
+    "example": "He eats well to stay fit.",
+    "example_jp": "彼は健康を維持するためにしっかり食べている。"
+  },
+  {
+    "word": "fit",
+    "meaning": "ふさわしい",
+    "example": "That shirt is not a fit for the formal party.",
+    "example_jp": "あのシャツはフォーマルなパーティーにはふさわしくない。"
+  },
+  {
+    "word": "long-term",
+    "meaning": "長期にわたる、長期的な",
+    "example": "We are making a long-term plan.",
+    "example_jp": "私たちは長期的な計画を立てている。"
+  },
+  {
+    "word": "Arctic",
+    "meaning": "北極の",
+    "example": "Polar bears live in the Arctic region.",
+    "example_jp": "シロクマは北極地域に住んでいる。"
+  },
+  {
+    "word": "minor",
+    "meaning": "重要でない、小さい",
+    "example": "This is just a minor problem.",
+    "example_jp": "これはほんの小さな問題だ。"
+  },
+  {
+    "word": "risky",
+    "meaning": "危険な",
+    "example": "It is risky to invest all your money at once.",
+    "example_jp": "一度にすべてのお金を投資するのは危険だ。"
+  },
+  {
+    "word": "complex",
+    "meaning": "複雑な",
+    "example": "The situation is very complex.",
+    "example_jp": "状況は非常に複雑だ。"
+  },
+  {
+    "word": "complex",
+    "meaning": "複合体",
+    "example": "They are building a new sports complex.",
+    "example_jp": "彼らは新しいスポーツ複合施設を建設している。"
+  },
+  {
+    "word": "competitive",
+    "meaning": "競争力のある",
+    "example": "She is a very competitive person.",
+    "example_jp": "彼女は非常に競争心の強い人だ。"
+  },
+  {
+    "word": "competitive",
+    "meaning": "格安の",
+    "example": "We offer competitive prices.",
+    "example_jp": "私たちは格安の価格を提供している。"
+  },
+  {
+    "word": "immediate",
+    "meaning": "即座の、当面の",
+    "example": "We need immediate action.",
+    "example_jp": "私たちは即座の行動を必要としている。"
+  },
+  {
+    "word": "immediate",
+    "meaning": "すぐそばの、直接の",
+    "example": "He is in the immediate area.",
+    "example_jp": "彼はすぐそばのエリアにいる。"
+  },
+  {
+    "word": "religious",
+    "meaning": "宗教の、信仰があつい",
+    "example": "They have religious beliefs.",
+    "example_jp": "彼らは宗教的な信念を持っている。"
+  },
+  {
+    "word": "related",
+    "meaning": "関連した、関係のある",
+    "example": "Are these two events related?",
+    "example_jp": "これら2つの出来事は関連していますか？"
+  },
+  {
+    "word": "affordable",
+    "meaning": "手頃な、安価な",
+    "example": "This house is affordable for us.",
+    "example_jp": "この家は私たちにとって手頃な価格だ。"
+  }
+]

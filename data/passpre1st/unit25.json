@@ -1,0 +1,368 @@
+[
+  {
+    "word": "portray",
+    "meaning": "描く",
+    "example": "The movie portrays the life of a hero.",
+    "example_jp": "その映画は英雄の人生を描いている。"
+  },
+  {
+    "word": "portray",
+    "meaning": "役を演じる",
+    "example": "She portrays a doctor in the play.",
+    "example_jp": "彼女は劇で医者の役を演じている。"
+  },
+  {
+    "word": "dispatch",
+    "meaning": "派遣する",
+    "example": "The company dispatched a team to the site.",
+    "example_jp": "会社はその現場にチームを派遣した。"
+  },
+  {
+    "word": "dispatch",
+    "meaning": "発送する",
+    "example": "The order was dispatched yesterday.",
+    "example_jp": "注文品は昨日発送された。"
+  },
+  {
+    "word": "dispatch",
+    "meaning": "処理する",
+    "example": "She dispatched the work quickly.",
+    "example_jp": "彼女は仕事を迅速に処理した。"
+  },
+  {
+    "word": "quote",
+    "meaning": "引用する",
+    "example": "He quoted a line from Shakespeare.",
+    "example_jp": "彼はシェイクスピアの一節を引用した。"
+  },
+  {
+    "word": "amend",
+    "meaning": "修正する",
+    "example": "We need to amend the contract.",
+    "example_jp": "私たちは契約書を修正する必要がある。"
+  },
+  {
+    "word": "betray",
+    "meaning": "うっかり表す",
+    "example": "Her voice betrayed her nervousness.",
+    "example_jp": "彼女の声が緊張をうっかり表してしまった。"
+  },
+  {
+    "word": "betray",
+    "meaning": "裏切る",
+    "example": "He would never betray his country.",
+    "example_jp": "彼は決して国を裏切らないだろう。"
+  },
+  {
+    "word": "wither",
+    "meaning": "しおれる",
+    "example": "The flowers began to wither in the heat.",
+    "example_jp": "花が暑さでしおれ始めた。"
+  },
+  {
+    "word": "omit",
+    "meaning": "省略する",
+    "example": "Please omit the unnecessary details.",
+    "example_jp": "不必要な詳細は省略してください。"
+  },
+  {
+    "word": "fabricate",
+    "meaning": "でっち上げる",
+    "example": "He fabricated a story to excuse himself.",
+    "example_jp": "彼は言い訳のために話をでっち上げた。"
+  },
+  {
+    "word": "violate",
+    "meaning": "違反する",
+    "example": "He violated the traffic rules.",
+    "example_jp": "彼は交通規則に違反した。"
+  },
+  {
+    "word": "violate",
+    "meaning": "侵害する",
+    "example": "The noise violates our privacy.",
+    "example_jp": "その騒音は私たちのプライバシーを侵害している。"
+  },
+  {
+    "word": "allege",
+    "meaning": "主張する",
+    "example": "They allege that he stole the money.",
+    "example_jp": "彼らは彼が金を盗んだと主張している。"
+  },
+  {
+    "word": "integrate",
+    "meaning": "統合する",
+    "example": "They integrated the two departments.",
+    "example_jp": "彼らは2つの部署を統合した。"
+  },
+  {
+    "word": "underestimate",
+    "meaning": "過小評価する",
+    "example": "Never underestimate your opponent.",
+    "example_jp": "対戦相手を過小評価してはいけない。"
+  },
+  {
+    "word": "escort",
+    "meaning": "護衛する",
+    "example": "The police escorted the president.",
+    "example_jp": "警察が大統領を護衛した。"
+  },
+  {
+    "word": "escort",
+    "meaning": "付き添う",
+    "example": "He escorted her to the door.",
+    "example_jp": "彼は彼女にドアまで付き添った。"
+  },
+  {
+    "word": "facilitate",
+    "meaning": "促進する",
+    "example": "The new system will facilitate communication.",
+    "example_jp": "新しいシステムはコミュニケーションを促進するだろう。"
+  },
+  {
+    "word": "initiate",
+    "meaning": "新たに始める",
+    "example": "The school initiated a new program.",
+    "example_jp": "学校は新しいプログラムを新たに始めた。"
+  },
+  {
+    "word": "convey",
+    "meaning": "伝える",
+    "example": "Please convey my best regards to him.",
+    "example_jp": "彼によろしくと伝えてください。"
+  },
+  {
+    "word": "convey",
+    "meaning": "運ぶ",
+    "example": "The pipes convey water to the city.",
+    "example_jp": "パイプが都市へ水を運んでいる。"
+  },
+  {
+    "word": "populate",
+    "meaning": "住む",
+    "example": "Many animals populate this area.",
+    "example_jp": "多くの動物がこの地域に住んでいる。"
+  },
+  {
+    "word": "reinforce",
+    "meaning": "強化する",
+    "example": "We need to reinforce our security.",
+    "example_jp": "私たちはセキュリティを強化する必要がある。"
+  },
+  {
+    "word": "attain",
+    "meaning": "達成する",
+    "example": "She finally attained her goal.",
+    "example_jp": "彼女はついに目標を達成した。"
+  },
+  {
+    "word": "cheat",
+    "meaning": "カンニングをする",
+    "example": "He was caught cheating on the exam.",
+    "example_jp": "彼は試験でカンニングをして捕まった。"
+  },
+  {
+    "word": "cheat",
+    "meaning": "だます",
+    "example": "They cheated the investors.",
+    "example_jp": "彼らは投資家たちをだました。"
+  },
+  {
+    "word": "deceive",
+    "meaning": "だます",
+    "example": "Don't let them deceive you.",
+    "example_jp": "彼らにだまされないようにして。"
+  },
+  {
+    "word": "frustrate",
+    "meaning": "挫折させる",
+    "example": "Lack of money frustrated his plans.",
+    "example_jp": "資金不足が彼の計画を挫折させた。"
+  },
+  {
+    "word": "subsidize",
+    "meaning": "補助金を支給する",
+    "example": "The government subsidizes public transport.",
+    "example_jp": "政府は公共交通機関に補助金を支給している。"
+  },
+  {
+    "word": "alternate",
+    "meaning": "代わりの",
+    "example": "We need an alternate plan.",
+    "example_jp": "代わりの計画が必要だ。"
+  },
+  {
+    "word": "alternate",
+    "meaning": "交互の",
+    "example": "The colors appear in alternate stripes.",
+    "example_jp": "色が交互の縞模様になって現れる。"
+  },
+  {
+    "word": "dedicate",
+    "meaning": "捧げる",
+    "example": "She dedicated her life to helping others.",
+    "example_jp": "彼女は自分の人生を他人を助けることに捧げた。"
+  },
+  {
+    "word": "endeavor",
+    "meaning": "努力する",
+    "example": "We endeavor to provide the best service.",
+    "example_jp": "私たちは最高のサービスを提供するよう努力している。"
+  },
+  {
+    "word": "intrigue",
+    "meaning": "興味を持たせる",
+    "example": "The idea intrigued me.",
+    "example_jp": "そのアイデアは私に興味を持たせた。"
+  },
+  {
+    "word": "intrigue",
+    "meaning": "陰謀を企てる",
+    "example": "The rivals intrigued against the king.",
+    "example_jp": "ライバルたちは王に対して陰謀を企てた。"
+  },
+  {
+    "word": "soar",
+    "meaning": "急上昇する",
+    "example": "Prices are soaring this month.",
+    "example_jp": "今月は価格が急上昇している。"
+  },
+  {
+    "word": "tease",
+    "meaning": "からかう",
+    "example": "Don't tease your younger brother.",
+    "example_jp": "弟をからかってはいけない。"
+  },
+  {
+    "word": "confer",
+    "meaning": "授与する",
+    "example": "The university conferred a degree on him.",
+    "example_jp": "大学は彼に学位を授与した。"
+  },
+  {
+    "word": "confer",
+    "meaning": "相談する",
+    "example": "Let me confer with my partner.",
+    "example_jp": "パートナーと相談させてください。"
+  },
+  {
+    "word": "forbid",
+    "meaning": "禁じる",
+    "example": "My parents forbid me to go out late.",
+    "example_jp": "両親は私が遅くまで出歩くことを禁じている。"
+  },
+  {
+    "word": "nod",
+    "meaning": "うなずく",
+    "example": "He nodded in agreement.",
+    "example_jp": "彼は同意してうなずいた。"
+  },
+  {
+    "word": "oblige",
+    "meaning": "義務づける",
+    "example": "I am obliged to follow the rules.",
+    "example_jp": "私はルールに従う義務がある。"
+  },
+  {
+    "word": "discontent",
+    "meaning": "不満",
+    "example": "There is a growing sense of discontent.",
+    "example_jp": "不満が高まっている。"
+  },
+  {
+    "word": "disposal",
+    "meaning": "処分",
+    "example": "Proper waste disposal is essential.",
+    "example_jp": "適切な廃棄物の処分が不可欠だ。"
+  },
+  {
+    "word": "exile",
+    "meaning": "亡命",
+    "example": "He lived in exile for many years.",
+    "example_jp": "彼は長年亡命生活を送った。"
+  },
+  {
+    "word": "foe",
+    "meaning": "敵",
+    "example": "They were once foes, but now friends.",
+    "example_jp": "彼らはかつては敵だったが、今は友人だ。"
+  },
+  {
+    "word": "itinerary",
+    "meaning": "旅行計画",
+    "example": "Check the itinerary before you leave.",
+    "example_jp": "出発前に旅行計画を確認して。"
+  },
+  {
+    "word": "persecution",
+    "meaning": "迫害",
+    "example": "They fled to escape persecution.",
+    "example_jp": "彼らは迫害から逃れるために脱出した。"
+  },
+  {
+    "word": "publication",
+    "meaning": "出版",
+    "example": "The book is ready for publication.",
+    "example_jp": "その本は出版の準備ができている。"
+  },
+  {
+    "word": "riddle",
+    "meaning": "なぞなぞ",
+    "example": "Can you solve this riddle?",
+    "example_jp": "このなぞなぞを解ける？"
+  },
+  {
+    "word": "sanitation",
+    "meaning": "公衆衛生",
+    "example": "Poor sanitation causes diseases.",
+    "example_jp": "不衛生な公衆衛生環境が病気を引き起こす。"
+  },
+  {
+    "word": "component",
+    "meaning": "要素",
+    "example": "Trust is a key component of a relationship.",
+    "example_jp": "信頼は人間関係の重要な要素だ。"
+  },
+  {
+    "word": "quota",
+    "meaning": "ノルマ",
+    "example": "She met her sales quota.",
+    "example_jp": "彼女は販売ノルマを達成した。"
+  },
+  {
+    "word": "cuisine",
+    "meaning": "料理",
+    "example": "I love authentic Italian cuisine.",
+    "example_jp": "本場のイタリア料理が大好きだ。"
+  },
+  {
+    "word": "detour",
+    "meaning": "回り道",
+    "example": "We had to take a long detour.",
+    "example_jp": "長い回り道をしなければならなかった。"
+  },
+  {
+    "word": "inmate",
+    "meaning": "収容者",
+    "example": "The inmate was released yesterday.",
+    "example_jp": "その収容者は昨日釈放された。"
+  },
+  {
+    "word": "fatigue",
+    "meaning": "疲労",
+    "example": "He suffered from extreme fatigue.",
+    "example_jp": "彼は極度の疲労に苦しんだ。"
+  },
+  {
+    "word": "uproar",
+    "meaning": "騒動",
+    "example": "The announcement caused a public uproar.",
+    "example_jp": "その発表は世間の騒動を引き起こした。"
+  },
+  {
+    "word": "coincidence",
+    "meaning": "偶然の一致",
+    "example": "It was a strange coincidence.",
+    "example_jp": "それは奇妙な偶然の一致だった。"
+  }
+]

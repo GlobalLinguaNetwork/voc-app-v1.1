@@ -1,0 +1,308 @@
+[
+  {
+    "word": "mode",
+    "meaning": "方法",
+    "example": "He chose a slow mode of travel.",
+    "example_jp": "彼はゆっくりとした旅行の方法を選んだ。"
+  },
+  {
+    "word": "mode",
+    "meaning": "様式",
+    "example": "This is a new mode of expression.",
+    "example_jp": "これは新しい表現様式だ。"
+  },
+  {
+    "word": "needle",
+    "meaning": "針",
+    "example": "She threaded the needle carefully.",
+    "example_jp": "彼女は慎重に針に糸を通した。"
+  },
+  {
+    "word": "organizer",
+    "meaning": "主催者",
+    "example": "The event organizer thanked the guests.",
+    "example_jp": "イベントの主催者がゲストに感謝を述べた。"
+  },
+  {
+    "word": "rehearsal",
+    "meaning": "リハーサル",
+    "example": "We had a final rehearsal before the show.",
+    "example_jp": "本番前に最後のリハーサルを行った。"
+  },
+  {
+    "word": "servant",
+    "meaning": "使用人",
+    "example": "The family had many servants in the past.",
+    "example_jp": "その家には昔、多くの使用人がいた。"
+  },
+  {
+    "word": "sociology",
+    "meaning": "社会学",
+    "example": "He is studying sociology at university.",
+    "example_jp": "彼は大学で社会学を学んでいる。"
+  },
+  {
+    "word": "spectacle",
+    "meaning": "光景",
+    "example": "The fireworks were a magnificent spectacle.",
+    "example_jp": "花火は壮大な光景だった。"
+  },
+  {
+    "word": "norm",
+    "meaning": "規範",
+    "example": "Social norms change over time.",
+    "example_jp": "社会規範は時とともに変化する。"
+  },
+  {
+    "word": "certificate",
+    "meaning": "証明書",
+    "example": "I received my graduation certificate.",
+    "example_jp": "卒業証明書を受け取った。"
+  },
+  {
+    "word": "vice",
+    "meaning": "悪",
+    "example": "Greed is a common vice.",
+    "example_jp": "強欲はよくある悪習だ。"
+  },
+  {
+    "word": "knot",
+    "meaning": "結び目",
+    "example": "Tie a knot in the rope.",
+    "example_jp": "ロープに結び目を作って。"
+  },
+  {
+    "word": "rubber",
+    "meaning": "ゴム",
+    "example": "This glove is made of rubber.",
+    "example_jp": "この手袋はゴム製だ。"
+  },
+  {
+    "word": "asteroid",
+    "meaning": "小惑星",
+    "example": "Scientists are tracking the asteroid.",
+    "example_jp": "科学者たちはその小惑星を追跡している。"
+  },
+  {
+    "word": "syndrome",
+    "meaning": "症候群",
+    "example": "He was diagnosed with the syndrome.",
+    "example_jp": "彼はその症候群と診断された。"
+  },
+  {
+    "word": "detention",
+    "meaning": "拘置",
+    "example": "He is in detention for questioning.",
+    "example_jp": "彼は尋問のため拘置されている。"
+  },
+  {
+    "word": "distress",
+    "meaning": "苦悩",
+    "example": "The news caused her great distress.",
+    "example_jp": "そのニュースは彼女に大きな苦悩を与えた。"
+  },
+  {
+    "word": "ignition",
+    "meaning": "点火装置",
+    "example": "Turn the key in the ignition.",
+    "example_jp": "点火装置のキーを回して。"
+  },
+  {
+    "word": "esteem",
+    "meaning": "尊敬",
+    "example": "He is held in high esteem by his colleagues.",
+    "example_jp": "彼は同僚から高く尊敬されている。"
+  },
+  {
+    "word": "hospitality",
+    "meaning": "歓待",
+    "example": "Thank you for your warm hospitality.",
+    "example_jp": "温かい歓待をありがとうございます。"
+  },
+  {
+    "word": "legacy",
+    "meaning": "遺産",
+    "example": "She left a great legacy behind.",
+    "example_jp": "彼女は偉大な遺産を残した。"
+  },
+  {
+    "word": "sane",
+    "meaning": "健全な",
+    "example": "You need to stay sane in this situation.",
+    "example_jp": "この状況下では健全な精神を保つ必要がある。"
+  },
+  {
+    "word": "doubtful",
+    "meaning": "疑わしい",
+    "example": "It is doubtful if he will come.",
+    "example_jp": "彼が来るかどうかは疑わしい。"
+  },
+  {
+    "word": "favorable",
+    "meaning": "好意的な",
+    "example": "The reviews were very favorable.",
+    "example_jp": "批評は非常に好意的だった。"
+  },
+  {
+    "word": "generous",
+    "meaning": "気前のよい",
+    "example": "She is generous with her money.",
+    "example_jp": "彼女は気前よくお金を使う。"
+  },
+  {
+    "word": "hollow",
+    "meaning": "空洞の",
+    "example": "The tree trunk is hollow.",
+    "example_jp": "木の幹は空洞だ。"
+  },
+  {
+    "word": "internal",
+    "meaning": "内部の",
+    "example": "The company is having internal problems.",
+    "example_jp": "その会社は内部的な問題を抱えている。"
+  },
+  {
+    "word": "interpersonal",
+    "meaning": "対人関係の",
+    "example": "She has excellent interpersonal skills.",
+    "example_jp": "彼女は素晴らしい対人関係スキルを持っている。"
+  },
+  {
+    "word": "staple",
+    "meaning": "必需食品",
+    "example": "Rice is a staple in many countries.",
+    "example_jp": "米は多くの国で必需食品だ。"
+  },
+  {
+    "word": "tolerant",
+    "meaning": "寛容な",
+    "example": "We should be tolerant of other cultures.",
+    "example_jp": "他文化に対して寛容であるべきだ。"
+  },
+  {
+    "word": "folk",
+    "meaning": "民間の",
+    "example": "She enjoys listening to folk music.",
+    "example_jp": "彼女は民間の音楽を聴くのが好きだ。"
+  },
+  {
+    "word": "furious",
+    "meaning": "激怒した",
+    "example": "He was furious at the mistake.",
+    "example_jp": "彼はそのミスに激怒した。"
+  },
+  {
+    "word": "ironic",
+    "meaning": "皮肉な",
+    "example": "It is ironic that he won.",
+    "example_jp": "彼が勝ったのは皮肉なことだ。"
+  },
+  {
+    "word": "pale",
+    "meaning": "青白い",
+    "example": "She looked pale after the test.",
+    "example_jp": "テストの後、彼女は青白く見えた。"
+  },
+  {
+    "word": "pregnant",
+    "meaning": "妊娠した",
+    "example": "She is six months pregnant.",
+    "example_jp": "彼女は妊娠6ヶ月だ。"
+  },
+  {
+    "word": "rewarding",
+    "meaning": "満足感が得られる",
+    "example": "Teaching is a rewarding job.",
+    "example_jp": "教えることは満足感が得られる仕事だ。"
+  },
+  {
+    "word": "sacred",
+    "meaning": "神聖な",
+    "example": "The site is considered sacred.",
+    "example_jp": "その場所は神聖なものと考えられている。"
+  },
+  {
+    "word": "terrific",
+    "meaning": "素晴らしい",
+    "example": "You did a terrific job.",
+    "example_jp": "君は素晴らしい仕事をした。"
+  },
+  {
+    "word": "abridged",
+    "meaning": "簡約された",
+    "example": "I read an abridged version of the book.",
+    "example_jp": "その本の簡約版を読んだ。"
+  },
+  {
+    "word": "dull",
+    "meaning": "退屈な",
+    "example": "The lecture was very dull.",
+    "example_jp": "その講義はとても退屈だった。"
+  },
+  {
+    "word": "faint",
+    "meaning": "かすかな",
+    "example": "I heard a faint sound.",
+    "example_jp": "かすかな音が聞こえた。"
+  },
+  {
+    "word": "irresponsible",
+    "meaning": "無責任な",
+    "example": "It was an irresponsible thing to do.",
+    "example_jp": "それは無責任な行為だった。"
+  },
+  {
+    "word": "notorious",
+    "meaning": "悪名高い",
+    "example": "He is notorious for being late.",
+    "example_jp": "彼は遅刻することで悪名高い。"
+  },
+  {
+    "word": "recurrent",
+    "meaning": "繰り返される",
+    "example": "He has a recurrent problem with his knee.",
+    "example_jp": "彼は膝の繰り返される問題を持っている。"
+  },
+  {
+    "word": "irresistible",
+    "meaning": "抵抗できない",
+    "example": "The offer was irresistible.",
+    "example_jp": "その申し出は抵抗できないものだった。"
+  },
+  {
+    "word": "binding",
+    "meaning": "拘束力のある",
+    "example": "The contract is legally binding.",
+    "example_jp": "その契約には法的な拘束力がある。"
+  },
+  {
+    "word": "dejected",
+    "meaning": "落胆した",
+    "example": "He looked dejected after the loss.",
+    "example_jp": "敗北の後、彼は落胆して見えた。"
+  },
+  {
+    "word": "fictitious",
+    "meaning": "架空の",
+    "example": "The characters in this film are fictitious.",
+    "example_jp": "この映画の登場人物は架空のものだ。"
+  },
+  {
+    "word": "gracious",
+    "meaning": "親切な",
+    "example": "She was very gracious to us.",
+    "example_jp": "彼女は私たちにとても親切だった。"
+  },
+  {
+    "word": "upcoming",
+    "meaning": "来るべき",
+    "example": "I am preparing for the upcoming exam.",
+    "example_jp": "来るべき試験に向けて準備している。"
+  },
+  {
+    "word": "abundant",
+    "meaning": "豊富な",
+    "example": "There is an abundant supply of water.",
+    "example_jp": "豊富な水供給がある。"
+  }
+]

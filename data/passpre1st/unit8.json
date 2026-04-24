@@ -1,0 +1,452 @@
+[
+  {
+    "word": "moisture",
+    "meaning": "水分",
+    "example": "Plants need enough moisture to grow.",
+    "example_jp": "植物が育つには十分な水分が必要だ。"
+  },
+  {
+    "word": "moisture",
+    "meaning": "湿気",
+    "example": "The air was full of moisture after the rain.",
+    "example_jp": "雨の後、空気は湿気でいっぱいだった。"
+  },
+  {
+    "word": "obesity",
+    "meaning": "（病的な)肥満",
+    "example": "Obesity can lead to serious health problems.",
+    "example_jp": "肥満は深刻な健康問題を引き起こす可能性がある。"
+  },
+  {
+    "word": "grant",
+    "meaning": "（人）に（許可・権利など）を与える",
+    "example": "The government granted them permission to build the house.",
+    "example_jp": "政府は彼らにその家を建てる許可を与えた。"
+  },
+  {
+    "word": "grant",
+    "meaning": "を認める",
+    "example": "I grant that you made a valid point.",
+    "example_jp": "君がもっともな指摘をしたことは認める。"
+  },
+  {
+    "word": "layer",
+    "meaning": "層",
+    "example": "The earth has a thick layer of rock.",
+    "example_jp": "地球は厚い岩の層で覆われている。"
+  },
+  {
+    "word": "secretary",
+    "meaning": "秘書",
+    "example": "My secretary will arrange the meeting.",
+    "example_jp": "私の秘書が会議を調整します。"
+  },
+  {
+    "word": "anxiety",
+    "meaning": "不安、心配",
+    "example": "He felt a lot of anxiety before the big test.",
+    "example_jp": "彼は大きなテストの前に強い不安を感じた。"
+  },
+  {
+    "word": "ownership",
+    "meaning": "所有権、所有者であること",
+    "example": "She has full ownership of the company.",
+    "example_jp": "彼女はその会社の完全な所有権を持っている。"
+  },
+  {
+    "word": "foundation",
+    "meaning": "基礎、基盤",
+    "example": "Education is the foundation of a successful life.",
+    "example_jp": "教育は成功した人生の基礎である。"
+  },
+  {
+    "word": "division",
+    "meaning": "不和、分割",
+    "example": "There is a division between the two groups.",
+    "example_jp": "その2つのグループの間には不和がある。"
+  },
+  {
+    "word": "division",
+    "meaning": "部門",
+    "example": "He works in the sales division.",
+    "example_jp": "彼は営業部門で働いている。"
+  },
+  {
+    "word": "establishment",
+    "meaning": "設立、制定",
+    "example": "The establishment of the new law was successful.",
+    "example_jp": "新法の制定は成功した。"
+  },
+  {
+    "word": "establishment",
+    "meaning": "組織",
+    "example": "This is a well-known establishment in town.",
+    "example_jp": "ここは町で有名な組織（施設）だ。"
+  },
+  {
+    "word": "conservation",
+    "meaning": "（動植物などの）保護；保存",
+    "example": "The conservation of wildlife is very important.",
+    "example_jp": "野生生物の保護は非常に重要だ。"
+  },
+  {
+    "word": "murder",
+    "meaning": "殺人",
+    "example": "He was arrested for murder.",
+    "example_jp": "彼は殺人容疑で逮捕された。"
+  },
+  {
+    "word": "presence",
+    "meaning": "存在",
+    "example": "I felt a presence in the room.",
+    "example_jp": "部屋に誰かの存在を感じた。"
+  },
+  {
+    "word": "presence",
+    "meaning": "出席；面前",
+    "example": "Your presence is requested at the meeting.",
+    "example_jp": "会議へのご出席をお願いします。"
+  },
+  {
+    "word": "paradox",
+    "meaning": "逆説；矛盾",
+    "example": "It is a paradox that the busiest people have the most time.",
+    "example_jp": "最も忙しい人が最も時間があるというのは矛盾（逆説）だ。"
+  },
+  {
+    "word": "prisoner",
+    "meaning": "囚人",
+    "example": "The prisoner escaped from the jail.",
+    "example_jp": "囚人が刑務所から脱走した。"
+  },
+  {
+    "word": "surgeon",
+    "meaning": "外科医",
+    "example": "The surgeon performed the operation successfully.",
+    "example_jp": "その外科医は手術を成功させた。"
+  },
+  {
+    "word": "frequency",
+    "meaning": "頻度、しばしば起こること",
+    "example": "The frequency of the accidents has decreased.",
+    "example_jp": "事故の頻度は減少した。"
+  },
+  {
+    "word": "port",
+    "meaning": "港",
+    "example": "The ship entered the port safely.",
+    "example_jp": "船は無事に港に入った。"
+  },
+  {
+    "word": "reception",
+    "meaning": "反応",
+    "example": "The new movie had a warm reception.",
+    "example_jp": "その新しい映画は温かい反応を得た。"
+  },
+  {
+    "word": "reception",
+    "meaning": "宴会；受付",
+    "example": "They held a wedding reception at the hotel.",
+    "example_jp": "彼らはホテルで結婚披露宴を開いた。"
+  },
+  {
+    "word": "reception",
+    "meaning": "受信（状態）",
+    "example": "The mobile reception is bad here.",
+    "example_jp": "ここでは携帯の電波（受信状態）が悪い。"
+  },
+  {
+    "word": "coworker",
+    "meaning": "同僚、仕事仲間",
+    "example": "I went to lunch with a coworker.",
+    "example_jp": "同僚と昼食に行った。"
+  },
+  {
+    "word": "rust",
+    "meaning": "さび",
+    "example": "The old bike was covered in rust.",
+    "example_jp": "古い自転車はさびだらけだった。"
+  },
+  {
+    "word": "athletics",
+    "meaning": "スポーツ、運動競技",
+    "example": "He is very talented in athletics.",
+    "example_jp": "彼はスポーツに非常に才能がある。"
+  },
+  {
+    "word": "voyage",
+    "meaning": "(ゆったりした長い)旅、船旅",
+    "example": "They went on a long voyage across the ocean.",
+    "example_jp": "彼らは海を渡る長い船旅に出た。"
+  },
+  {
+    "word": "ecologist",
+    "meaning": "生態学者",
+    "example": "The ecologist studied the forest habitat.",
+    "example_jp": "その生態学者は森林の生息地を研究した。"
+  },
+  {
+    "word": "ecologist",
+    "meaning": "環境保護論者",
+    "example": "She is a dedicated ecologist.",
+    "example_jp": "彼女は献身的な環境保護論者だ。"
+  },
+  {
+    "word": "soul",
+    "meaning": "精神；魂，霊魂",
+    "example": "He believes in the immortality of the soul.",
+    "example_jp": "彼は魂の不滅を信じている。"
+  },
+  {
+    "word": "soul",
+    "meaning": "生気",
+    "example": "He put his soul into his music.",
+    "example_jp": "彼は音楽に生気（魂）を込めた。"
+  },
+  {
+    "word": "isolated",
+    "meaning": "孤立した、孤独な",
+    "example": "The village is very isolated.",
+    "example_jp": "その村は非常に孤立している。"
+  },
+  {
+    "word": "biased",
+    "meaning": "偏った、偏見を持った",
+    "example": "The report was clearly biased.",
+    "example_jp": "その報告書は明らかに偏っていた。"
+  },
+  {
+    "word": "multiple",
+    "meaning": "多様な；種々雑多な",
+    "example": "There are multiple reasons for this failure.",
+    "example_jp": "この失敗には多様な理由がある。"
+  },
+  {
+    "word": "critical",
+    "meaning": "批判的な",
+    "example": "He was critical of the new policy.",
+    "example_jp": "彼は新政策に批判的だった。"
+  },
+  {
+    "word": "critical",
+    "meaning": "重大な",
+    "example": "This is a critical moment for our team.",
+    "example_jp": "これは私たちのチームにとって重大な瞬間だ。"
+  },
+  {
+    "word": "remote",
+    "meaning": "遠く離れた",
+    "example": "They live in a remote village.",
+    "example_jp": "彼らは遠く離れた村に住んでいる。"
+  },
+  {
+    "word": "remote",
+    "meaning": "かけ離れた",
+    "example": "That is a remote possibility.",
+    "example_jp": "それは可能性としてはかけ離れている（ほとんどあり得ない）。"
+  },
+  {
+    "word": "encouraging",
+    "meaning": "勇気づける、望みを持たせる",
+    "example": "The results are very encouraging.",
+    "example_jp": "その結果は非常に勇気づけられるものだ。"
+  },
+  {
+    "word": "underground",
+    "meaning": "地下の",
+    "example": "The subway runs underground.",
+    "example_jp": "地下鉄は地下を走っている。"
+  },
+  {
+    "word": "underground",
+    "meaning": "秘密の",
+    "example": "They operated an underground movement.",
+    "example_jp": "彼らは秘密の活動を行っていた。"
+  },
+  {
+    "word": "stable",
+    "meaning": "安定した",
+    "example": "The economy is finally stable.",
+    "example_jp": "経済はついに安定した。"
+  },
+  {
+    "word": "stable",
+    "meaning": "動じない",
+    "example": "He has a stable personality.",
+    "example_jp": "彼は動じない性格をしている。"
+  },
+  {
+    "word": "domestic",
+    "meaning": "家庭の",
+    "example": "She deals with domestic chores.",
+    "example_jp": "彼女は家事をこなしている。"
+  },
+  {
+    "word": "domestic",
+    "meaning": "国内の",
+    "example": "Domestic flights are cheaper than international ones.",
+    "example_jp": "国内線は国際線より安い。"
+  },
+  {
+    "word": "domestic",
+    "meaning": "（動物が）飼いならされた",
+    "example": "Cats are domestic animals.",
+    "example_jp": "猫は飼いならされた動物だ。"
+  },
+  {
+    "word": "shallow",
+    "meaning": "浅い",
+    "example": "The water here is very shallow.",
+    "example_jp": "ここの水はとても浅い。"
+  },
+  {
+    "word": "shallow",
+    "meaning": "浅薄な",
+    "example": "He is a shallow person.",
+    "example_jp": "彼は浅薄な人間だ。"
+  },
+  {
+    "word": "willing",
+    "meaning": "～するのをいとわない、快く～する",
+    "example": "I am willing to help you.",
+    "example_jp": "喜んであなたを手伝います。"
+  },
+  {
+    "word": "superior",
+    "meaning": "よりすぐれた",
+    "example": "This model is superior to the old one.",
+    "example_jp": "このモデルは古いものよりすぐれている。"
+  },
+  {
+    "word": "profitable",
+    "meaning": "利益になる",
+    "example": "It was a very profitable business.",
+    "example_jp": "それは非常に利益になるビジネスだった。"
+  },
+  {
+    "word": "profitable",
+    "meaning": "有益な",
+    "example": "It was a profitable experience for me.",
+    "example_jp": "私にとって有益な経験だった。"
+  },
+  {
+    "word": "solid",
+    "meaning": "しっかりした；硬い",
+    "example": "The chair is made of solid wood.",
+    "example_jp": "その椅子は硬い木でできている。"
+  },
+  {
+    "word": "solid",
+    "meaning": "固体の",
+    "example": "Ice is water in a solid state.",
+    "example_jp": "氷は固体状態の水だ。"
+  },
+  {
+    "word": "tremendous",
+    "meaning": "途方もない，莫大な",
+    "example": "The damage was tremendous.",
+    "example_jp": "損害は莫大だった。"
+  },
+  {
+    "word": "tremendous",
+    "meaning": "すばらしい",
+    "example": "That was a tremendous performance.",
+    "example_jp": "すばらしいパフォーマンスだった。"
+  },
+  {
+    "word": "intellectual",
+    "meaning": "知的な、知性の",
+    "example": "She is an intellectual woman.",
+    "example_jp": "彼女は知的な女性だ。"
+  },
+  {
+    "word": "chief",
+    "meaning": "主な",
+    "example": "That is our chief concern.",
+    "example_jp": "それが私たちの主な懸念だ。"
+  },
+  {
+    "word": "chief",
+    "meaning": "最高位の",
+    "example": "He is the chief officer.",
+    "example_jp": "彼が最高責任者だ。"
+  },
+  {
+    "word": "steady",
+    "meaning": "着実な，一定の",
+    "example": "He made steady progress.",
+    "example_jp": "彼は着実な進歩を遂げた。"
+  },
+  {
+    "word": "steady",
+    "meaning": "安定した",
+    "example": "The market is steady today.",
+    "example_jp": "市場は今日、安定している。"
+  },
+  {
+    "word": "evil",
+    "meaning": "邪悪な",
+    "example": "He is an evil man.",
+    "example_jp": "彼は邪悪な人間だ。"
+  },
+  {
+    "word": "evil",
+    "meaning": "有害な",
+    "example": "Lying has evil effects on relationships.",
+    "example_jp": "嘘をつくことは人間関係に有害な影響を与える。"
+  },
+  {
+    "word": "coastal",
+    "meaning": "沿岸(地方)の",
+    "example": "We enjoyed the coastal view.",
+    "example_jp": "私たちは沿岸の景色を楽しんだ。"
+  },
+  {
+    "word": "dairy",
+    "meaning": "乳製品",
+    "example": "I try to avoid dairy products.",
+    "example_jp": "乳製品を避けるようにしている。"
+  },
+  {
+    "word": "dairy",
+    "meaning": "乳製品加工所［販売者］",
+    "example": "They deliver milk from the local dairy.",
+    "example_jp": "彼らは地元の乳製品加工所から牛乳を届けている。"
+  },
+  {
+    "word": "digestive",
+    "meaning": "消化の",
+    "example": "Fiber helps the digestive system.",
+    "example_jp": "食物繊維は消化器系を助ける。"
+  },
+  {
+    "word": "loyal",
+    "meaning": "（～に）忠実な",
+    "example": "He is loyal to his friends.",
+    "example_jp": "彼は友人に忠実だ。"
+  },
+  {
+    "word": "loyal",
+    "meaning": "誠実な",
+    "example": "She is a loyal employee.",
+    "example_jp": "彼女は誠実な従業員だ。"
+  },
+  {
+    "word": "sensory",
+    "meaning": "感覚の",
+    "example": "Smell is a sensory experience.",
+    "example_jp": "匂いは感覚的な経験だ。"
+  },
+  {
+    "word": "fancy",
+    "meaning": "（気まぐれな）好み；思いつき",
+    "example": "It was just a fancy of the moment.",
+    "example_jp": "それはその場の気まぐれな思いつきにすぎなかった。"
+  },
+  {
+    "word": "fancy",
+    "meaning": "空想",
+    "example": "He lives in a world of fancy.",
+    "example_jp": "彼は空想の世界に生きている。"
+  }
+]

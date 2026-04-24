@@ -1,0 +1,530 @@
+[
+  {
+    "word": "last",
+    "meaning": "続く、持続する",
+    "example": "The meeting lasted for two hours.",
+    "example_jp": "会議は2時間続いた。"
+  },
+  {
+    "word": "last",
+    "meaning": "（天候・体力・食品などが）持ちこたえる",
+    "example": "These batteries last a long time.",
+    "example_jp": "この電池は長持ちする。"
+  },
+  {
+    "word": "affect",
+    "meaning": "に影響を及ぼす",
+    "example": "The weather affected our travel plans.",
+    "example_jp": "天候が私たちの旅行計画に影響した。"
+  },
+  {
+    "word": "affect",
+    "meaning": "を感動させる",
+    "example": "His speech deeply affected everyone in the room.",
+    "example_jp": "彼のスピーチは部屋にいた全員を深く感動させた。"
+  },
+  {
+    "word": "claim",
+    "meaning": "と主張する",
+    "example": "He claims that he was innocent.",
+    "example_jp": "彼は自分は無実だと主張している。"
+  },
+  {
+    "word": "claim",
+    "meaning": "を（自分のものとして）要求する",
+    "example": "She claimed her luggage at the desk.",
+    "example_jp": "彼女はカウンターで自分の荷物を引き取った。"
+  },
+  {
+    "word": "ship",
+    "meaning": "を出荷する、を輸送する",
+    "example": "We ship our products worldwide.",
+    "example_jp": "私たちは世界中に製品を出荷している。"
+  },
+  {
+    "word": "issue",
+    "meaning": "問題（点）",
+    "example": "We need to discuss this issue.",
+    "example_jp": "私たちはこの問題について話し合う必要がある。"
+  },
+  {
+    "word": "issue",
+    "meaning": "発行（物）",
+    "example": "I bought the latest issue of the magazine.",
+    "example_jp": "その雑誌の最新号を買った。"
+  },
+  {
+    "word": "issue",
+    "meaning": "発表する",
+    "example": "The police issued a statement to the press.",
+    "example_jp": "警察は報道陣に声明を発表した。"
+  },
+  {
+    "word": "purchase",
+    "meaning": "を購入する",
+    "example": "I purchased a new car yesterday.",
+    "example_jp": "昨日、新しい車を購入した。"
+  },
+  {
+    "word": "occur",
+    "meaning": "起こる",
+    "example": "The accident occurred yesterday morning.",
+    "example_jp": "事故は昨日の朝に起こった。"
+  },
+  {
+    "word": "occur",
+    "meaning": "心に浮かぶ",
+    "example": "A great idea occurred to me.",
+    "example_jp": "素晴らしいアイデアが心に浮かんだ。"
+  },
+  {
+    "word": "occur",
+    "meaning": "現れる",
+    "example": "This plant occurs in tropical regions.",
+    "example_jp": "この植物は熱帯地域に自生する（現れる）。"
+  },
+  {
+    "word": "deal",
+    "meaning": "を処理する",
+    "example": "How do you deal with stress?",
+    "example_jp": "どのようにストレスを処理しますか？"
+  },
+  {
+    "word": "deal",
+    "meaning": "を商う",
+    "example": "This store deals in antique furniture.",
+    "example_jp": "この店はアンティーク家具を商っている。"
+  },
+  {
+    "word": "deal",
+    "meaning": "を分配する",
+    "example": "He dealt the cards to the players.",
+    "example_jp": "彼はプレイヤーたちにカードを配った。"
+  },
+  {
+    "word": "consume",
+    "meaning": "を消費する",
+    "example": "This car consumes a lot of gas.",
+    "example_jp": "この車はガソリンをたくさん消費する。"
+  },
+  {
+    "word": "consume",
+    "meaning": "を食べる、飲む",
+    "example": "It is not healthy to consume too much sugar.",
+    "example_jp": "砂糖を摂りすぎるのは健康的ではない。"
+  },
+  {
+    "word": "present",
+    "meaning": "を提示する",
+    "example": "The professor presented his research findings.",
+    "example_jp": "教授は研究結果を提示した。"
+  },
+  {
+    "word": "present",
+    "meaning": "を進呈する",
+    "example": "They presented him with a gold watch.",
+    "example_jp": "彼らは彼に金時計を贈った。"
+  },
+  {
+    "word": "fire",
+    "meaning": "を解雇する",
+    "example": "The company fired him for being late.",
+    "example_jp": "会社は彼を遅刻を理由に解雇した。"
+  },
+  {
+    "word": "regard",
+    "meaning": "を見なす",
+    "example": "I regard him as a close friend.",
+    "example_jp": "私は彼を親しい友人と見なしている。"
+  },
+  {
+    "word": "regard",
+    "meaning": "を見る",
+    "example": "He regarded the painting with interest.",
+    "example_jp": "彼は興味深そうにその絵を見た。"
+  },
+  {
+    "word": "regard",
+    "meaning": "を評価する",
+    "example": "She is highly regarded in her field.",
+    "example_jp": "彼女はその分野で高く評価されている。"
+  },
+  {
+    "word": "fine",
+    "meaning": "に罰金を科す",
+    "example": "He was fined for speeding.",
+    "example_jp": "彼はスピード違反で罰金を科された。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "を移す、を伝える",
+    "example": "I transferred the file to my computer.",
+    "example_jp": "ファイルを自分のコンピュータに転送した。"
+  },
+  {
+    "word": "transfer",
+    "meaning": "移る、乗り換える",
+    "example": "I transferred at the main station.",
+    "example_jp": "中央駅で乗り換えた。"
+  },
+  {
+    "word": "decline",
+    "meaning": "減少する、衰退する",
+    "example": "Sales have declined recently.",
+    "example_jp": "最近、売上が減少している。"
+  },
+  {
+    "word": "decline",
+    "meaning": "を断る",
+    "example": "She politely declined the invitation.",
+    "example_jp": "彼女は丁寧に招待を断った。"
+  },
+  {
+    "word": "eliminate",
+    "meaning": "を取り除く",
+    "example": "We need to eliminate all errors.",
+    "example_jp": "すべてのエラーを取り除く必要がある。"
+  },
+  {
+    "word": "indicate",
+    "meaning": "を指し示す",
+    "example": "The red light indicates danger.",
+    "example_jp": "赤信号は危険を示している。"
+  },
+  {
+    "word": "indicate",
+    "meaning": "を述べる",
+    "example": "He indicated that he would be late.",
+    "example_jp": "彼は遅れると伝えてきた。"
+  },
+  {
+    "word": "ensure",
+    "meaning": "を確実にする",
+    "example": "Please ensure the door is locked.",
+    "example_jp": "ドアが施錠されていることを確認してください。"
+  },
+  {
+    "word": "ensure",
+    "meaning": "を守る",
+    "example": "We must ensure our safety.",
+    "example_jp": "私たちは自分たちの安全を守らなければならない。"
+  },
+  {
+    "word": "expand",
+    "meaning": "（を）拡大する",
+    "example": "The company plans to expand its business.",
+    "example_jp": "その会社は事業を拡大する計画だ。"
+  },
+  {
+    "word": "expand",
+    "meaning": "（を）詳説する",
+    "example": "Could you expand on that idea?",
+    "example_jp": "そのアイデアについて詳しく説明してくれますか？"
+  },
+  {
+    "word": "address",
+    "meaning": "（問題など）に対処する",
+    "example": "We need to address this problem immediately.",
+    "example_jp": "私たちはこの問題にすぐに対処する必要がある。"
+  },
+  {
+    "word": "address",
+    "meaning": "に演説する",
+    "example": "The president addressed the nation.",
+    "example_jp": "大統領は国民に向けて演説した。"
+  },
+  {
+    "word": "address",
+    "meaning": "（手紙など）を（～宛てに）出す",
+    "example": "Address the envelope to the manager.",
+    "example_jp": "封筒の宛先をマネージャーにしておいて。"
+  },
+  {
+    "word": "identify",
+    "meaning": "を特定する",
+    "example": "Police identified the suspect.",
+    "example_jp": "警察は容疑者を特定した。"
+  },
+  {
+    "word": "identify",
+    "meaning": "を（～と）同一視する",
+    "example": "I identify success with hard work.",
+    "example_jp": "私は成功と勤勉さを同一視している。"
+  },
+  {
+    "word": "construct",
+    "meaning": "を建設する",
+    "example": "They are constructing a new bridge.",
+    "example_jp": "彼らは新しい橋を建設している。"
+  },
+  {
+    "word": "construct",
+    "meaning": "を構成する",
+    "example": "How do you construct a logical argument?",
+    "example_jp": "どのように論理的な議論を組み立てるのですか？"
+  },
+  {
+    "word": "invest",
+    "meaning": "（を）投資する",
+    "example": "She invested her savings in stocks.",
+    "example_jp": "彼女は貯金を株に投資した。"
+  },
+  {
+    "word": "invest",
+    "meaning": "に（～を）与える",
+    "example": "The law invests the police with the power to arrest.",
+    "example_jp": "その法律は警察に逮捕権を与えている。"
+  },
+  {
+    "word": "obtain",
+    "meaning": "を得る",
+    "example": "He obtained a degree from the university.",
+    "example_jp": "彼は大学で学位を取得した。"
+  },
+  {
+    "word": "struggle",
+    "meaning": "闘い",
+    "example": "It was a long struggle for freedom.",
+    "example_jp": "それは自由のための長い闘いだった。"
+  },
+  {
+    "word": "struggle",
+    "meaning": "懸命の努力",
+    "example": "I struggle to finish my work on time.",
+    "example_jp": "時間通りに仕事を終えるために必死に努力している。"
+  },
+  {
+    "word": "counter",
+    "meaning": "～と反論する、～に反対する",
+    "example": "He countered her argument with facts.",
+    "example_jp": "彼は事実をもって彼女の議論に反論した。"
+  },
+  {
+    "word": "associate",
+    "meaning": "を結び付けて考える",
+    "example": "I associate the smell of rain with summer.",
+    "example_jp": "私は雨の匂いを夏と結び付けて考える。"
+  },
+  {
+    "word": "associate",
+    "meaning": "（～と）交際する",
+    "example": "He associates with bad people.",
+    "example_jp": "彼は悪い人たちと付き合っている。"
+  },
+  {
+    "word": "register",
+    "meaning": "を記録する、登録する",
+    "example": "You need to register for the course.",
+    "example_jp": "そのコースに登録する必要がある。"
+  },
+  {
+    "word": "reveal",
+    "meaning": "を明らかにする、を見せる",
+    "example": "The study revealed the truth.",
+    "example_jp": "その研究は真実を明らかにした。"
+  },
+  {
+    "word": "species",
+    "meaning": "（生物の）種",
+    "example": "This species is nearly extinct.",
+    "example_jp": "この種は絶滅しかかっている。"
+  },
+  {
+    "word": "species",
+    "meaning": "種類",
+    "example": "There are many species of plants here.",
+    "example_jp": "ここには多くの種類の植物がある。"
+  },
+  {
+    "word": "diet",
+    "meaning": "(日常の)食べ物、療養食",
+    "example": "A healthy diet is important for your body.",
+    "example_jp": "健康的な食事は体にとって重要だ。"
+  },
+  {
+    "word": "site",
+    "meaning": "用地、場所、跡地",
+    "example": "This is the site of the new hospital.",
+    "example_jp": "ここが新しい病院の建設予定地だ。"
+  },
+  {
+    "word": "site",
+    "meaning": "（ウェブ）サイト",
+    "example": "I found the information on their site.",
+    "example_jp": "彼らのサイトでその情報を見つけた。"
+  },
+  {
+    "word": "cell",
+    "meaning": "細胞",
+    "example": "Our bodies are made of cells.",
+    "example_jp": "私たちの体は細胞でできている。"
+  },
+  {
+    "word": "cell",
+    "meaning": "独房",
+    "example": "He spent years in a small cell.",
+    "example_jp": "彼は狭い独房で何年も過ごした。"
+  },
+  {
+    "word": "cell",
+    "meaning": "電池",
+    "example": "This toy needs a new cell.",
+    "example_jp": "このおもちゃは新しい電池が必要だ。"
+  },
+  {
+    "word": "facility",
+    "meaning": "施設、設備",
+    "example": "The sports facility is open to the public.",
+    "example_jp": "そのスポーツ施設は一般に開放されている。"
+  },
+  {
+    "word": "facility",
+    "meaning": "機能、才能",
+    "example": "She has a natural facility for languages.",
+    "example_jp": "彼女には語学の自然な才能がある。"
+  },
+  {
+    "word": "practice",
+    "meaning": "実践、実行、慣習",
+    "example": "It is our practice to start the day with coffee.",
+    "example_jp": "コーヒーで一日を始めるのが私たちの習慣だ。"
+  },
+  {
+    "word": "practice",
+    "meaning": "練習",
+    "example": "Practice makes perfect.",
+    "example_jp": "練習が完璧を作る（習うより慣れよ）。"
+  },
+  {
+    "word": "resident",
+    "meaning": "居住者、滞在者",
+    "example": "Local residents are unhappy about the noise.",
+    "example_jp": "近隣の住民はその騒音に不満を持っている。"
+  },
+  {
+    "word": "option",
+    "meaning": "選択（の自由）、選択肢",
+    "example": "We have several options to choose from.",
+    "example_jp": "選ぶべき選択肢がいくつかある。"
+  },
+  {
+    "word": "organ",
+    "meaning": "器官、臓器",
+    "example": "The heart is a vital organ.",
+    "example_jp": "心臓は生命維持に不可欠な臓器だ。"
+  },
+  {
+    "word": "organ",
+    "meaning": "組織",
+    "example": "The party's official organ is published weekly.",
+    "example_jp": "その政党の機関紙は毎週発行されている。"
+  },
+  {
+    "word": "organ",
+    "meaning": "（パイプ）オルガン",
+    "example": "He plays the organ at church.",
+    "example_jp": "彼は教会でオルガンを弾いている。"
+  },
+  {
+    "word": "critic",
+    "meaning": "批判する人、批評家",
+    "example": "The film critic gave the movie a good review.",
+    "example_jp": "映画批評家はその映画に良い評価を与えた。"
+  },
+  {
+    "word": "region",
+    "meaning": "地域、領域",
+    "example": "This region is famous for its mountains.",
+    "example_jp": "この地域は山で有名だ。"
+  },
+  {
+    "word": "region",
+    "meaning": "部位",
+    "example": "I feel pain in the chest region.",
+    "example_jp": "胸のあたりに痛みを感じる。"
+  },
+  {
+    "word": "tax",
+    "meaning": "税金、税",
+    "example": "You have to pay tax on your income.",
+    "example_jp": "所得に対して税金を払わなければならない。"
+  },
+  {
+    "word": "access",
+    "meaning": "利用、入手、接近",
+    "example": "Do you have access to the internet?",
+    "example_jp": "インターネットは利用できますか？"
+  },
+  {
+    "word": "virus",
+    "meaning": "ウイルス、病原体",
+    "example": "The computer virus destroyed my files.",
+    "example_jp": "コンピューターウイルスが私のファイルを破壊した。"
+  },
+  {
+    "word": "bill",
+    "meaning": "請求書、勘定書",
+    "example": "Could you bring me the bill, please?",
+    "example_jp": "お会計をお願いできますか？"
+  },
+  {
+    "word": "bill",
+    "meaning": "法案",
+    "example": "The government passed a new bill.",
+    "example_jp": "政府は新しい法案を可決した。"
+  },
+  {
+    "word": "evidence",
+    "meaning": "証拠",
+    "example": "There is no evidence to support his claim.",
+    "example_jp": "彼の主張を裏付ける証拠はない。"
+  },
+  {
+    "word": "attempt",
+    "meaning": "を試みる、企てる",
+    "example": "He attempted to climb the mountain alone.",
+    "example_jp": "彼は一人でその山に登ることを試みた。"
+  },
+  {
+    "word": "account",
+    "meaning": "説明",
+    "example": "His account of the accident was confusing.",
+    "example_jp": "彼の事故の説明は分かりにくかった。"
+  },
+  {
+    "word": "account",
+    "meaning": "勘定、口座",
+    "example": "I opened a new bank account.",
+    "example_jp": "新しい銀行口座を開設した。"
+  },
+  {
+    "word": "theory",
+    "meaning": "学説、理論、原理",
+    "example": "This theory explains how gravity works.",
+    "example_jp": "この理論は重力がどのように働くかを説明している。"
+  },
+  {
+    "word": "theory",
+    "meaning": "推測",
+    "example": "That is just a theory, not a fact.",
+    "example_jp": "それは単なる推測で、事実ではない。"
+  },
+  {
+    "word": "factor",
+    "meaning": "要因、要素",
+    "example": "Cost was a key factor in our decision.",
+    "example_jp": "コストが私たちの決定の重要な要因だった。"
+  },
+  {
+    "word": "stock",
+    "meaning": "在庫品、蓄え",
+    "example": "The store has a large stock of items.",
+    "example_jp": "その店には大量の在庫がある。"
+  },
+  {
+    "word": "stock",
+    "meaning": "株",
+    "example": "He invested his money in tech stocks.",
+    "example_jp": "彼はハイテク株に投資した。"
+  }
+]

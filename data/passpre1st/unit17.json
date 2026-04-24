@@ -1,0 +1,368 @@
+[
+  {
+    "word": "outsource",
+    "meaning": "を外注する、を業務委託する",
+    "example": "We decided to outsource our customer support to a professional firm.",
+    "example_jp": "私たちはカスタマーサポートを専門企業に外注することに決めた。"
+  },
+  {
+    "word": "applaud",
+    "meaning": "に拍手する",
+    "example": "The audience stood up to applaud the performance.",
+    "example_jp": "観客は立ち上がってパフォーマンスに拍手した。"
+  },
+  {
+    "word": "applaud",
+    "meaning": "を賞賛する",
+    "example": "I applaud your efforts to learn a new language.",
+    "example_jp": "新しい言語を習得しようとするあなたの努力を賞賛する。"
+  },
+  {
+    "word": "bribe",
+    "meaning": "賄賂",
+    "example": "He was caught offering a bribe to the official.",
+    "example_jp": "彼は役人に賄賂を提供しようとして捕まった。"
+  },
+  {
+    "word": "replicate",
+    "meaning": "(同一実験など)を繰り返す",
+    "example": "Scientists struggled to replicate the experiment's results.",
+    "example_jp": "科学者たちはその実験結果を再現（繰り返すこと）するのに苦労した。"
+  },
+  {
+    "word": "replicate",
+    "meaning": "を複製する",
+    "example": "The software can replicate files across multiple servers.",
+    "example_jp": "そのソフトウェアは複数のサーバー間でファイルを複製できる。"
+  },
+  {
+    "word": "stroll",
+    "meaning": "散歩する、ぶらぶら歩く",
+    "example": "We took a leisurely stroll through the park.",
+    "example_jp": "私たちは公園をゆっくりと散歩した。"
+  },
+  {
+    "word": "swell",
+    "meaning": "膨張する，腫れる",
+    "example": "My ankle began to swell after I twisted it.",
+    "example_jp": "捻挫した後、足首が腫れ始めた。"
+  },
+  {
+    "word": "swell",
+    "meaning": "を膨らませる",
+    "example": "He used a pump to swell the balloon.",
+    "example_jp": "彼はポンプを使って風船を膨らませた。"
+  },
+  {
+    "word": "uphold",
+    "meaning": "を支持する、を確認する、を維持する",
+    "example": "The court decided to uphold the previous ruling.",
+    "example_jp": "裁判所は以前の判決を支持することを決定した。"
+  },
+  {
+    "word": "vomit",
+    "meaning": "吐く、もどす",
+    "example": "The child started to vomit after eating bad food.",
+    "example_jp": "その子供は腐った食べ物を食べた後に吐き始めた。"
+  },
+  {
+    "word": "expire",
+    "meaning": "期限が切れる",
+    "example": "My passport will expire next month.",
+    "example_jp": "私のパスポートは来月期限が切れる。"
+  },
+  {
+    "word": "recruit",
+    "meaning": "を募る、に新人を補充する",
+    "example": "The company is trying to recruit talented engineers.",
+    "example_jp": "その会社は優秀なエンジニアを募ろうとしている。"
+  },
+  {
+    "word": "enhance",
+    "meaning": "を高める、を増す",
+    "example": "We need to enhance our security measures.",
+    "example_jp": "私たちはセキュリティ対策を高める必要がある。"
+  },
+  {
+    "word": "accumulate",
+    "meaning": "を蓄積する，集める",
+    "example": "She has accumulated a lot of knowledge over the years.",
+    "example_jp": "彼女は長年にわたって多くの知識を蓄積してきた。"
+  },
+  {
+    "word": "accumulate",
+    "meaning": "積もる",
+    "example": "Snow began to accumulate on the roof.",
+    "example_jp": "屋根に雪が積もり始めた。"
+  },
+  {
+    "word": "designate",
+    "meaning": "を指定する",
+    "example": "This area is designated as a no-smoking zone.",
+    "example_jp": "このエリアは禁煙区域として指定されている。"
+  },
+  {
+    "word": "designate",
+    "meaning": "を任命する",
+    "example": "They designated him as the new team leader.",
+    "example_jp": "彼らは彼を新しいチームリーダーに任命した。"
+  },
+  {
+    "word": "conceal",
+    "meaning": "を隠す、を秘密にする",
+    "example": "She tried to conceal her disappointment.",
+    "example_jp": "彼女は失望を隠そうとした。"
+  },
+  {
+    "word": "disregard",
+    "meaning": "を無視する、を軽視する",
+    "example": "You should not disregard the safety warnings.",
+    "example_jp": "安全上の警告を軽視してはいけない。"
+  },
+  {
+    "word": "accelerate",
+    "meaning": "を加速させる，促進する、加速する",
+    "example": "We need to accelerate the pace of development.",
+    "example_jp": "私たちは開発のペースを加速させる必要がある。"
+  },
+  {
+    "word": "revive",
+    "meaning": "を復活させる、復活する",
+    "example": "The band wants to revive their classic sound.",
+    "example_jp": "そのバンドは彼らのクラシックなサウンドを復活させたいと思っている。"
+  },
+  {
+    "word": "enact",
+    "meaning": "(法案)を制定する、を通過させる",
+    "example": "Parliament will enact new laws next week.",
+    "example_jp": "議会は来週、新しい法律を制定する予定だ。"
+  },
+  {
+    "word": "exert",
+    "meaning": "を及ぼす、を行使する",
+    "example": "He exerted all his strength to push the door open.",
+    "example_jp": "彼はドアを押し開けるために全力を出した。"
+  },
+  {
+    "word": "leak",
+    "meaning": "漏れる",
+    "example": "Water started to leak from the pipe.",
+    "example_jp": "パイプから水が漏れ始めた。"
+  },
+  {
+    "word": "leak",
+    "meaning": "を漏らす",
+    "example": "Someone leaked the confidential information to the press.",
+    "example_jp": "誰かが機密情報を報道機関に漏らした。"
+  },
+  {
+    "word": "jail",
+    "meaning": "刑務所，拘置所",
+    "example": "He spent a year in jail for his crime.",
+    "example_jp": "彼は罪のために1年間刑務所で過ごした。"
+  },
+  {
+    "word": "reform",
+    "meaning": "を改革する、を改善する",
+    "example": "The government plans to reform the tax system.",
+    "example_jp": "政府は税制を改革する計画だ。"
+  },
+  {
+    "word": "declare",
+    "meaning": "を宣言する、を断言する",
+    "example": "The president will declare a state of emergency.",
+    "example_jp": "大統領は非常事態を宣言するだろう。"
+  },
+  {
+    "word": "outline",
+    "meaning": "の要点を述べる",
+    "example": "She outlined the main points of the proposal.",
+    "example_jp": "彼女は提案の要点を述べた。"
+  },
+  {
+    "word": "outline",
+    "meaning": "の輪郭を描く",
+    "example": "The mountains were outlined against the clear sky.",
+    "example_jp": "山々の輪郭が澄んだ空に浮かび上がっていた。"
+  },
+  {
+    "word": "annoy",
+    "meaning": "をいらいらさせる、を悩ます",
+    "example": "His constant tapping really annoys me.",
+    "example_jp": "彼の絶え間ないタップ音が本当に私をいらいらさせる。"
+  },
+  {
+    "word": "interfere",
+    "meaning": "干渉する，介入する、邪魔する",
+    "example": "Please do not interfere with our work.",
+    "example_jp": "私たちの仕事に干渉しないでください。"
+  },
+  {
+    "word": "nest",
+    "meaning": "(鳥の)巣",
+    "example": "A bird built a nest in our tree.",
+    "example_jp": "鳥が私たちの木に巣を作った。"
+  },
+  {
+    "word": "founder",
+    "meaning": "創設者",
+    "example": "She is the founder of this charity organization.",
+    "example_jp": "彼女はこの慈善団体の創設者だ。"
+  },
+  {
+    "word": "biologist",
+    "meaning": "生物学者",
+    "example": "The biologist studies deep-sea fish.",
+    "example_jp": "その生物学者は深海魚を研究している。"
+  },
+  {
+    "word": "arrangement",
+    "meaning": "準備、配置、取り決め",
+    "example": "We made all the arrangements for the party.",
+    "example_jp": "私たちはパーティーのためのすべての準備をした。"
+  },
+  {
+    "word": "landfill",
+    "meaning": "ごみ埋め立て地",
+    "example": "Most of our trash ends up in a landfill.",
+    "example_jp": "私たちのゴミの大部分は埋め立て地に行き着く。"
+  },
+  {
+    "word": "trunk",
+    "meaning": "(木の)幹",
+    "example": "The tree trunk is very thick.",
+    "example_jp": "その木の幹はとても太い。"
+  },
+  {
+    "word": "trunk",
+    "meaning": "(象の)鼻",
+    "example": "The elephant used its trunk to grab food.",
+    "example_jp": "象は鼻を使って食べ物を掴んだ。"
+  },
+  {
+    "word": "trunk",
+    "meaning": "(自動車の)トランク",
+    "example": "Put the bags in the trunk of the car.",
+    "example_jp": "荷物を車のトランクに入れて。"
+  },
+  {
+    "word": "principle",
+    "meaning": "(個人の)主義、信条、原則",
+    "example": "It is a matter of principle.",
+    "example_jp": "それは信条の問題だ。"
+  },
+  {
+    "word": "series",
+    "meaning": "連続、一続き",
+    "example": "The library has a series of historical books.",
+    "example_jp": "その図書館には一連の歴史本がある。"
+  },
+  {
+    "word": "independence",
+    "meaning": "独立、自立",
+    "example": "They fought for their country's independence.",
+    "example_jp": "彼らは国の独立のために戦った。"
+  },
+  {
+    "word": "exploration",
+    "meaning": "探検、調査",
+    "example": "Space exploration is very important for humanity.",
+    "example_jp": "宇宙探検は人類にとって非常に重要だ。"
+  },
+  {
+    "word": "justice",
+    "meaning": "正義、公正、司法、裁判",
+    "example": "We want justice for the victims.",
+    "example_jp": "私たちは被害者のために正義を求めている。"
+  },
+  {
+    "word": "humanity",
+    "meaning": "人類",
+    "example": "War is a great tragedy for all of humanity.",
+    "example_jp": "戦争は全人類にとって大きな悲劇だ。"
+  },
+  {
+    "word": "involvement",
+    "meaning": "関与、巻き込まれること",
+    "example": "Her involvement in the project was crucial.",
+    "example_jp": "そのプロジェクトへの彼女の関与は決定的に重要だった。"
+  },
+  {
+    "word": "accounting",
+    "meaning": "経理、会計(学)",
+    "example": "He is studying accounting at university.",
+    "example_jp": "彼は大学で会計学を学んでいる。"
+  },
+  {
+    "word": "discrimination",
+    "meaning": "（～に対する）差別",
+    "example": "Racial discrimination is illegal.",
+    "example_jp": "人種差別は違法だ。"
+  },
+  {
+    "word": "discrimination",
+    "meaning": "区別",
+    "example": "You need to learn to make a discrimination between right and wrong.",
+    "example_jp": "善と悪を区別することを学ぶ必要がある。"
+  },
+  {
+    "word": "inequality",
+    "meaning": "不平等",
+    "example": "We need to reduce social inequality.",
+    "example_jp": "私たちは社会的不平等を減らす必要がある。"
+  },
+  {
+    "word": "master",
+    "meaning": "修士",
+    "example": "She is pursuing a master's degree in engineering.",
+    "example_jp": "彼女は工学の修士号を取得しようとしている。"
+  },
+  {
+    "word": "millennium",
+    "meaning": "千年間，千年紀",
+    "example": "A millennium is a period of one thousand years.",
+    "example_jp": "千年紀とは1000年間の期間のことだ。"
+  },
+  {
+    "word": "refusal",
+    "meaning": "拒否、拒絶",
+    "example": "He was surprised by her refusal to help.",
+    "example_jp": "彼は彼女の拒絶に驚いた。"
+  },
+  {
+    "word": "wound",
+    "meaning": "（銃弾・刃物などによる）傷、痛手",
+    "example": "The soldier suffered a serious wound.",
+    "example_jp": "その兵士は深刻な傷を負った。"
+  },
+  {
+    "word": "absence",
+    "meaning": "不在、欠席",
+    "example": "His absence from the meeting was noted.",
+    "example_jp": "会議への彼の欠席が記録された。"
+  },
+  {
+    "word": "distribution",
+    "meaning": "分配、配給",
+    "example": "The distribution of food is a top priority.",
+    "example_jp": "食料の分配が最優先事項だ。"
+  },
+  {
+    "word": "wilderness",
+    "meaning": "荒野、放置された部分",
+    "example": "We went camping in the deep wilderness.",
+    "example_jp": "私たちは深い荒野でキャンプをした。"
+  },
+  {
+    "word": "concentration",
+    "meaning": "濃度",
+    "example": "The concentration of salt in the water is high.",
+    "example_jp": "水中の塩分濃度が高い。"
+  },
+  {
+    "word": "concentration",
+    "meaning": "集中、専念",
+    "example": "Meditation improves your ability to maintain concentration.",
+    "example_jp": "瞑想は集中力を維持する能力を高める。"
+  }
+]

@@ -1,0 +1,476 @@
+[
+  {
+    "word": "alter",
+    "meaning": "を変える",
+    "example": "He altered his plans at the last minute.",
+    "example_jp": "彼は土壇場で計画を変更した。"
+  },
+  {
+    "word": "alter",
+    "meaning": "変わる",
+    "example": "The landscape has altered over the years.",
+    "example_jp": "その風景は年月とともに変わった。"
+  },
+  {
+    "word": "adopt",
+    "meaning": "を採用する",
+    "example": "They adopted a new policy.",
+    "example_jp": "彼らは新しい方針を採用した。"
+  },
+  {
+    "word": "adopt",
+    "meaning": "（態度など）をとる",
+    "example": "She adopted a serious tone.",
+    "example_jp": "彼女は真剣な口調（態度）をとった。"
+  },
+  {
+    "word": "adopt",
+    "meaning": "を養子にする",
+    "example": "They decided to adopt a child.",
+    "example_jp": "彼らは子供を養子に迎えることにした。"
+  },
+  {
+    "word": "vote",
+    "meaning": "投票",
+    "example": "Did you vote in the election?",
+    "example_jp": "選挙で投票しましたか？"
+  },
+  {
+    "word": "vote",
+    "meaning": "投票結果",
+    "example": "The final vote was very close.",
+    "example_jp": "最終的な投票結果は非常に僅差だった。"
+  },
+  {
+    "word": "vote",
+    "meaning": "選挙権",
+    "example": "Women gained the vote in 1920.",
+    "example_jp": "女性は1920年に選挙権を得た。"
+  },
+  {
+    "word": "determine",
+    "meaning": "を決定する",
+    "example": "We must determine the cause of the problem.",
+    "example_jp": "その問題の原因を特定しなければならない。"
+  },
+  {
+    "word": "determine",
+    "meaning": "を正確に知る",
+    "example": "Tests help determine the level of infection.",
+    "example_jp": "検査によって感染レベルを正確に知ることができる。"
+  },
+  {
+    "word": "enable",
+    "meaning": "（人）が...できるようにする",
+    "example": "This software enables you to work faster.",
+    "example_jp": "このソフトのおかげで、より速く仕事ができるようになる。"
+  },
+  {
+    "word": "conduct",
+    "meaning": "（調査・実験など）を実施する",
+    "example": "They conducted a survey on customer satisfaction.",
+    "example_jp": "彼らは顧客満足度調査を実施した。"
+  },
+  {
+    "word": "conduct",
+    "meaning": "を導く",
+    "example": "The tour guide conducted us through the museum.",
+    "example_jp": "ツアーガイドが私たちを博物館の中へ案内した。"
+  },
+  {
+    "word": "direct",
+    "meaning": "を案内する",
+    "example": "Can you direct me to the station?",
+    "example_jp": "駅への道を教えていただけますか？"
+  },
+  {
+    "word": "direct",
+    "meaning": "を指揮する",
+    "example": "She directed the team to finish the project.",
+    "example_jp": "彼女はプロジェクトを終えるようにチームを指揮した。"
+  },
+  {
+    "word": "absorb",
+    "meaning": "を吸収する",
+    "example": "Sponges absorb water easily.",
+    "example_jp": "スポンジは簡単に水を吸収する。"
+  },
+  {
+    "word": "absorb",
+    "meaning": "を併合する",
+    "example": "The large company absorbed smaller firms.",
+    "example_jp": "大企業が小さな会社を併合した。"
+  },
+  {
+    "word": "absorb",
+    "meaning": "を夢中にさせる",
+    "example": "The book completely absorbed me.",
+    "example_jp": "その本に完全に夢中になった。"
+  },
+  {
+    "word": "imply",
+    "meaning": "を暗に意味する",
+    "example": "His silence implied that he disagreed.",
+    "example_jp": "彼の沈黙は反対であることを暗に示していた。"
+  },
+  {
+    "word": "imply",
+    "meaning": "を必然的に伴う",
+    "example": "Rising prices imply higher costs for consumers.",
+    "example_jp": "物価の上昇は消費者にとってのコスト増を必然的に伴う。"
+  },
+  {
+    "word": "operate",
+    "meaning": "を操作する",
+    "example": "Do you know how to operate this machine?",
+    "example_jp": "この機械の操作方法を知っていますか？"
+  },
+  {
+    "word": "operate",
+    "meaning": "機能する",
+    "example": "The new system operates efficiently.",
+    "example_jp": "新しいシステムは効率的に機能している。"
+  },
+  {
+    "word": "operate",
+    "meaning": "手術する",
+    "example": "The doctor had to operate immediately.",
+    "example_jp": "医師はすぐさま手術しなければならなかった。"
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "を論証［証明］する",
+    "example": "These facts demonstrate that he is right.",
+    "example_jp": "これらの事実は彼が正しいことを証明している。"
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "デモをする",
+    "example": "Thousands gathered to demonstrate against the war.",
+    "example_jp": "何千人もの人々が反戦デモのために集まった。"
+  },
+  {
+    "word": "boost",
+    "meaning": "を押し上げる，増加させる",
+    "example": "The new marketing strategy boosted sales.",
+    "example_jp": "新しいマーケティング戦略が売上を押し上げた。"
+  },
+  {
+    "word": "prove",
+    "meaning": "を証明する",
+    "example": "They proved that the theory was correct.",
+    "example_jp": "彼らはその理論が正しいことを証明した。"
+  },
+  {
+    "word": "prove",
+    "meaning": "判明する，わかる",
+    "example": "The task proved to be difficult.",
+    "example_jp": "その仕事は難しいと判明した。"
+  },
+  {
+    "word": "monitor",
+    "meaning": "を監視する",
+    "example": "Cameras are used to monitor the area.",
+    "example_jp": "カメラがその地域を監視するために使われている。"
+  },
+  {
+    "word": "monitor",
+    "meaning": "を傍受する",
+    "example": "The intelligence agency monitored their radio calls.",
+    "example_jp": "諜報機関は彼らの無線通信を傍受した。"
+  },
+  {
+    "word": "defeat",
+    "meaning": "を負かす",
+    "example": "They defeated the enemy in battle.",
+    "example_jp": "彼らは戦闘で敵を負かした。"
+  },
+  {
+    "word": "defeat",
+    "meaning": "を失敗させる",
+    "example": "Bad luck defeated all our efforts.",
+    "example_jp": "不運が我々の努力をすべて台無しにした。"
+  },
+  {
+    "word": "protest",
+    "meaning": "（に）抗議する",
+    "example": "They protested against the unfair treatment.",
+    "example_jp": "彼らは不当な扱いに抗議した。"
+  },
+  {
+    "word": "protest",
+    "meaning": "を主張する",
+    "example": "She protested her innocence.",
+    "example_jp": "彼女は自身の無実を主張した。"
+  },
+  {
+    "word": "target",
+    "meaning": "目標、的",
+    "example": "We missed the target.",
+    "example_jp": "私たちは目標を達成できなかった。"
+  },
+  {
+    "word": "preserve",
+    "meaning": "を保存する、保持する、保護する",
+    "example": "We need to preserve our natural resources.",
+    "example_jp": "私たちは天然資源を保護する必要がある。"
+  },
+  {
+    "word": "oppose",
+    "meaning": "に反対する",
+    "example": "Most people oppose the new law.",
+    "example_jp": "多くの人がその新法に反対している。"
+  },
+  {
+    "word": "oppose",
+    "meaning": "を対抗［対比］させる",
+    "example": "The author opposes hope with despair in this chapter.",
+    "example_jp": "著者はこの章で希望と絶望を対比させている。"
+  },
+  {
+    "word": "migrate",
+    "meaning": "移住する",
+    "example": "Many people migrated to the city for work.",
+    "example_jp": "多くの人が仕事のために都市へ移住した。"
+  },
+  {
+    "word": "migrate",
+    "meaning": "（鳥などが）渡る",
+    "example": "Birds migrate south for the winter.",
+    "example_jp": "鳥たちは冬の間、南へ渡る。"
+  },
+  {
+    "word": "analyze",
+    "meaning": "を分析する",
+    "example": "Scientists analyzed the data.",
+    "example_jp": "科学者たちはデータを分析した。"
+  },
+  {
+    "word": "discourage",
+    "meaning": "やる気をなくさせる、落胆させる",
+    "example": "Don't let failures discourage you.",
+    "example_jp": "失敗しても落ち込まないで。"
+  },
+  {
+    "word": "confirm",
+    "meaning": "を確認する",
+    "example": "Please confirm your flight reservation.",
+    "example_jp": "フライトの予約を確認してください。"
+  },
+  {
+    "word": "confirm",
+    "meaning": "を裏づける",
+    "example": "New evidence confirmed his story.",
+    "example_jp": "新たな証拠が彼の話を裏づけた。"
+  },
+  {
+    "word": "intend",
+    "meaning": "を意図する",
+    "example": "I intend to travel abroad next year.",
+    "example_jp": "来年海外旅行に行くつもりだ。"
+  },
+  {
+    "word": "predict",
+    "meaning": "を予言［予測］する",
+    "example": "Experts predict a cold winter.",
+    "example_jp": "専門家は寒い冬になると予測している。"
+  },
+  {
+    "word": "extend",
+    "meaning": "を伸［延］ばす、及ぶ",
+    "example": "They extended the deadline by a week.",
+    "example_jp": "彼らは締め切りを1週間延ばした。"
+  },
+  {
+    "word": "extend",
+    "meaning": "伸びる",
+    "example": "The forests extend as far as the eye can see.",
+    "example_jp": "森は見渡す限り続いている。"
+  },
+  {
+    "word": "figure",
+    "meaning": "数字",
+    "example": "The sales figures are very high.",
+    "example_jp": "売上の数字は非常に高い。"
+  },
+  {
+    "word": "figure",
+    "meaning": "姿、人物",
+    "example": "He is a famous historical figure.",
+    "example_jp": "彼は有名な歴史上の人物だ。"
+  },
+  {
+    "word": "figure",
+    "meaning": "図表",
+    "example": "Look at figure 1 for more details.",
+    "example_jp": "詳細は図表1を見てください。"
+  },
+  {
+    "word": "transportation",
+    "meaning": "交通[輸送]機関、輸送",
+    "example": "Public transportation is very convenient here.",
+    "example_jp": "公共交通機関がここには非常に便利だ。"
+  },
+  {
+    "word": "institution",
+    "meaning": "機関、施設",
+    "example": "She works at a financial institution.",
+    "example_jp": "彼女は金融機関で働いている。"
+  },
+  {
+    "word": "institution",
+    "meaning": "制度",
+    "example": "The institution of marriage has changed.",
+    "example_jp": "結婚という制度は変わってきている。"
+  },
+  {
+    "word": "theft",
+    "meaning": "窃盗（罪）",
+    "example": "He was arrested for theft.",
+    "example_jp": "彼は窃盗罪で逮捕された。"
+  },
+  {
+    "word": "candidate",
+    "meaning": "（～の）候補（者）、志願者",
+    "example": "There are three candidates for the job.",
+    "example_jp": "その職には3人の候補者がいる。"
+  },
+  {
+    "word": "mammal",
+    "meaning": "哺乳動物",
+    "example": "Whales are mammals.",
+    "example_jp": "クジラは哺乳動物だ。"
+  },
+  {
+    "word": "economist",
+    "meaning": "経済学者",
+    "example": "The economist predicted a recession.",
+    "example_jp": "その経済学者は景気後退を予測した。"
+  },
+  {
+    "word": "protein",
+    "meaning": "たんぱく質",
+    "example": "Meat is a good source of protein.",
+    "example_jp": "肉は良質なたんぱく源だ。"
+  },
+  {
+    "word": "immigrant",
+    "meaning": "(外国からの)移住者、移民",
+    "example": "The city has a large population of immigrants.",
+    "example_jp": "その都市には多くの移民がいる。"
+  },
+  {
+    "word": "property",
+    "meaning": "不動産、財産",
+    "example": "He owns a lot of property in the city.",
+    "example_jp": "彼は市内に多くの不動産を所有している。"
+  },
+  {
+    "word": "property",
+    "meaning": "特性",
+    "example": "This metal has magnetic properties.",
+    "example_jp": "この金属には磁気特性がある。"
+  },
+  {
+    "word": "fund",
+    "meaning": "基金，資金",
+    "example": "They raised funds for the school.",
+    "example_jp": "彼らは学校のために資金を集めた。"
+  },
+  {
+    "word": "habitat",
+    "meaning": "生息地；（人の）居住地",
+    "example": "The panda's natural habitat is the forest.",
+    "example_jp": "パンダの自然の生息地は森林だ。"
+  },
+  {
+    "word": "symptom",
+    "meaning": "症状、兆候",
+    "example": "A fever is a common symptom of the flu.",
+    "example_jp": "発熱はインフルエンザの一般的な症状だ。"
+  },
+  {
+    "word": "eruption",
+    "meaning": "勃発",
+    "example": "The eruption of violence surprised everyone.",
+    "example_jp": "暴力の突発的な勃発に誰もが驚いた。"
+  },
+  {
+    "word": "eruption",
+    "meaning": "噴火",
+    "example": "The volcanic eruption destroyed the village.",
+    "example_jp": "その火山の噴火で村が破壊された。"
+  },
+  {
+    "word": "quantity",
+    "meaning": "量；分量",
+    "example": "They sell goods in large quantities.",
+    "example_jp": "彼らは商品を大量に販売している。"
+  },
+  {
+    "word": "ad",
+    "meaning": "広告",
+    "example": "I saw an ad for a new car.",
+    "example_jp": "新しい車の広告を見た。"
+  },
+  {
+    "word": "saving",
+    "meaning": "節約、倹約",
+    "example": "Energy saving is important.",
+    "example_jp": "省エネは重要だ。"
+  },
+  {
+    "word": "saving",
+    "meaning": "預金(額)、蓄え",
+    "example": "I put my savings in the bank.",
+    "example_jp": "私は貯金を銀行に預けている。"
+  },
+  {
+    "word": "territory",
+    "meaning": "領土；（活動の）領域；テリトリー",
+    "example": "The cat defends its territory.",
+    "example_jp": "その猫は自分のテリトリーを守る。"
+  },
+  {
+    "word": "threat",
+    "meaning": "脅威、悪い兆し",
+    "example": "Pollution is a threat to the environment.",
+    "example_jp": "汚染は環境への脅威だ。"
+  },
+  {
+    "word": "threat",
+    "meaning": "脅迫",
+    "example": "He received a threat by email.",
+    "example_jp": "彼はメールで脅迫を受けた。"
+  },
+  {
+    "word": "sufferer",
+    "meaning": "苦しむ人、被災者、病人",
+    "example": "The medicine provides relief for allergy sufferers.",
+    "example_jp": "その薬はアレルギー患者に緩和をもたらす。"
+  },
+  {
+    "word": "emission",
+    "meaning": "排気、放出(物)",
+    "example": "We must reduce carbon emissions.",
+    "example_jp": "私たちは二酸化炭素の排出量を減らさなければならない。"
+  },
+  {
+    "word": "executive",
+    "meaning": "重役、幹部、経営者",
+    "example": "The company executive made a decision.",
+    "example_jp": "その会社の重役が決定を下した。"
+  },
+  {
+    "word": "strategy",
+    "meaning": "戦略",
+    "example": "We need a better business strategy.",
+    "example_jp": "私たちはより良いビジネス戦略を必要としている。"
+  },
+  {
+    "word": "riot",
+    "meaning": "暴動",
+    "example": "The city was in chaos after the riot.",
+    "example_jp": "暴動の後、街は混乱に陥った。"
+  }
+]

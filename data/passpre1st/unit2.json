@@ -1,0 +1,386 @@
+[
+  {
+    "word": "chemical",
+    "meaning": "化学の，化学的な",
+    "example": "He works for a chemical company.",
+    "example_jp": "彼は化学会社で働いている。"
+  },
+  {
+    "word": "media",
+    "meaning": "マスメディア、マスコミ",
+    "example": "The story was reported by the media.",
+    "example_jp": "その話はメディアによって報道された。"
+  },
+  {
+    "word": "income",
+    "meaning": "収入；所得",
+    "example": "They have a low annual income.",
+    "example_jp": "彼らは低い年収だ。"
+  },
+  {
+    "word": "supply",
+    "meaning": "を供給する",
+    "example": "This company supplies water to the city.",
+    "example_jp": "この会社はその市に水を供給している。"
+  },
+  {
+    "word": "shortage",
+    "meaning": "不足、欠如",
+    "example": "There is a shortage of food in the area.",
+    "example_jp": "その地域では食料が不足している。"
+  },
+  {
+    "word": "poverty",
+    "meaning": "貧困、欠乏",
+    "example": "Many families are living in poverty.",
+    "example_jp": "多くの家族が貧困の中で暮らしている。"
+  },
+  {
+    "word": "criminal",
+    "meaning": "犯人、犯罪者",
+    "example": "The criminal was caught by the police.",
+    "example_jp": "犯人は警察に捕まった。"
+  },
+  {
+    "word": "budget",
+    "meaning": "予算；経費",
+    "example": "We need to stick to the budget.",
+    "example_jp": "私たちは予算を守らなければならない。"
+  },
+  {
+    "word": "authority",
+    "meaning": "（関係）当局",
+    "example": "The local authorities closed the road.",
+    "example_jp": "地元の当局がその道路を封鎖した。"
+  },
+  {
+    "word": "authority",
+    "meaning": "権威",
+    "example": "She is a leading authority on history.",
+    "example_jp": "彼女は歴史学の第一人者（権威）だ。"
+  },
+  {
+    "word": "authority",
+    "meaning": "権限",
+    "example": "He has the authority to sign the contract.",
+    "example_jp": "彼には契約書に署名する権限がある。"
+  },
+  {
+    "word": "genome",
+    "meaning": "ゲノム",
+    "example": "Scientists mapped the human genome.",
+    "example_jp": "科学者たちはヒトゲノムを解読した。"
+  },
+  {
+    "word": "atmosphere",
+    "meaning": "大気",
+    "example": "Pollution is damaging the atmosphere.",
+    "example_jp": "汚染が大気を破壊している。"
+  },
+  {
+    "word": "atmosphere",
+    "meaning": "雰囲気",
+    "example": "The cafe has a relaxing atmosphere.",
+    "example_jp": "そのカフェはリラックスできる雰囲気だ。"
+  },
+  {
+    "word": "aid",
+    "meaning": "を援助する，助ける",
+    "example": "The organization aids people in need.",
+    "example_jp": "その組織は困っている人々を援助している。"
+  },
+  {
+    "word": "measure",
+    "meaning": "措置",
+    "example": "They took measures to improve safety.",
+    "example_jp": "彼らは安全を向上させるための措置を講じた。"
+  },
+  {
+    "word": "measure",
+    "meaning": "程度、基準",
+    "example": "Success is not measured by wealth.",
+    "example_jp": "成功は富によって測られるものではない。"
+  },
+  {
+    "word": "subject",
+    "meaning": "話題；主題",
+    "example": "Let's change the subject.",
+    "example_jp": "話題を変えよう。"
+  },
+  {
+    "word": "subject",
+    "meaning": "科目",
+    "example": "Math is my favorite subject.",
+    "example_jp": "数学は私の好きな科目だ。"
+  },
+  {
+    "word": "subject",
+    "meaning": "被験者",
+    "example": "The subjects were tested for memory.",
+    "example_jp": "被験者たちは記憶力のテストを受けた。"
+  },
+  {
+    "word": "decade",
+    "meaning": "10年間",
+    "example": "They have been married for a decade.",
+    "example_jp": "彼らは結婚して10年になる。"
+  },
+  {
+    "word": "weapon",
+    "meaning": "兵器，武器",
+    "example": "The police found a weapon at the scene.",
+    "example_jp": "警察は現場で武器を発見した。"
+  },
+  {
+    "word": "nutrient",
+    "meaning": "栄養分、栄養になるもの",
+    "example": "Vegetables are a good source of nutrients.",
+    "example_jp": "野菜は栄養分の良い供給源だ。"
+  },
+  {
+    "word": "expense",
+    "meaning": "経費；費用；犠牲",
+    "example": "Travel expenses are covered by the company.",
+    "example_jp": "出張経費は会社が負担する。"
+  },
+  {
+    "word": "structure",
+    "meaning": "構造；構造物",
+    "example": "The bridge has a strong steel structure.",
+    "example_jp": "その橋は頑丈な鋼鉄の構造をしている。"
+  },
+  {
+    "word": "structure",
+    "meaning": "体系",
+    "example": "The structure of the organization is simple.",
+    "example_jp": "その組織の体系は単純だ。"
+  },
+  {
+    "word": "adolescent",
+    "meaning": "青年",
+    "example": "Many adolescents struggle to find their identity.",
+    "example_jp": "多くの青年がアイデンティティを見つけるのに苦労する。"
+  },
+  {
+    "word": "procedure",
+    "meaning": "手順、手続き",
+    "example": "Follow the correct procedure to log in.",
+    "example_jp": "ログインするには正しい手順に従ってください。"
+  },
+  {
+    "word": "minimum",
+    "meaning": "最小限度",
+    "example": "The minimum age to drive is eighteen.",
+    "example_jp": "運転できる最小年齢は18歳だ。"
+  },
+  {
+    "word": "fuel",
+    "meaning": "燃料",
+    "example": "The plane ran out of fuel.",
+    "example_jp": "飛行機の燃料が切れた。"
+  },
+  {
+    "word": "fuel",
+    "meaning": "勢いを増加させるもの",
+    "example": "His speech fueled the anger of the crowd.",
+    "example_jp": "彼の演説は群衆の怒りを煽った（増幅させた）。"
+  },
+  {
+    "word": "resource",
+    "meaning": "資源",
+    "example": "Water is a precious natural resource.",
+    "example_jp": "水は貴重な天然資源だ。"
+  },
+  {
+    "word": "resource",
+    "meaning": "資金；才覚",
+    "example": "She doesn't have the resources to finish the project.",
+    "example_jp": "彼女にはそのプロジェクトを完了させるための資金（資源）がない。"
+  },
+  {
+    "word": "regulation",
+    "meaning": "規則、規制",
+    "example": "The new regulations start next month.",
+    "example_jp": "新しい規制は来月から始まる。"
+  },
+  {
+    "word": "contract",
+    "meaning": "契約（書）；協定",
+    "example": "They signed a contract last week.",
+    "example_jp": "彼らは先週、契約書に署名した。"
+  },
+  {
+    "word": "insurance",
+    "meaning": "保険；保険料；保険金",
+    "example": "You should get travel insurance.",
+    "example_jp": "旅行保険に入るべきだ。"
+  },
+  {
+    "word": "employment",
+    "meaning": "雇用、職",
+    "example": "The report shows a rise in employment.",
+    "example_jp": "その報告書は雇用の増加を示している。"
+  },
+  {
+    "word": "ban",
+    "meaning": "を（法的に）禁止する；を締め出す",
+    "example": "Smoking is banned in this building.",
+    "example_jp": "この建物内では喫煙が禁止されている。"
+  },
+  {
+    "word": "vehicle",
+    "meaning": "車、(特に陸上の)乗り物、輸送機関",
+    "example": "Electric vehicles are becoming popular.",
+    "example_jp": "電気自動車が人気になっている。"
+  },
+  {
+    "word": "vehicle",
+    "meaning": "伝達手段",
+    "example": "Language is a vehicle for communication.",
+    "example_jp": "言語はコミュニケーションの手段である。"
+  },
+  {
+    "word": "soil",
+    "meaning": "土地，土壌",
+    "example": "The soil is rich and good for farming.",
+    "example_jp": "その土壌は肥沃で農業に適している。"
+  },
+  {
+    "word": "soil",
+    "meaning": "（悪事などの）温床",
+    "example": "The country became fertile soil for revolution.",
+    "example_jp": "その国は革命の温床となった。"
+  },
+  {
+    "word": "cargo",
+    "meaning": "(主に船・飛行機の)積荷、貨物",
+    "example": "The ship is carrying cargo to Japan.",
+    "example_jp": "その船は日本へ貨物を運んでいる。"
+  },
+  {
+    "word": "aircraft",
+    "meaning": "航空機、飛行機",
+    "example": "The airline bought a new aircraft.",
+    "example_jp": "その航空会社は新しい航空機を購入した。"
+  },
+  {
+    "word": "current",
+    "meaning": "現在の；現代の；通用している",
+    "example": "What is your current address?",
+    "example_jp": "あなたの現在の住所は何ですか？"
+  },
+  {
+    "word": "political",
+    "meaning": "政治（上）の",
+    "example": "He has a strong political opinion.",
+    "example_jp": "彼は強い政治的意見を持っている。"
+  },
+  {
+    "word": "significant",
+    "meaning": "重要な，重大な；意義深い",
+    "example": "This is a significant discovery.",
+    "example_jp": "これは重要な発見だ。"
+  },
+  {
+    "word": "effective",
+    "meaning": "効果的な、有効な",
+    "example": "This medicine is very effective.",
+    "example_jp": "この薬はとても効果的だ。"
+  },
+  {
+    "word": "military",
+    "meaning": "軍的；軍事（用）の",
+    "example": "He served in the military for five years.",
+    "example_jp": "彼は5年間軍に所属していた。"
+  },
+  {
+    "word": "due",
+    "meaning": "予定された",
+    "example": "The train is due at 5 PM.",
+    "example_jp": "列車は午後5時に到着予定だ。"
+  },
+  {
+    "word": "due",
+    "meaning": "（支払）期日で",
+    "example": "The rent is due on the first.",
+    "example_jp": "家賃の支払い期限は1日だ。"
+  },
+  {
+    "word": "due",
+    "meaning": "しかるべき",
+    "example": "He gave her the due respect.",
+    "example_jp": "彼は彼女にしかるべき敬意を払った。"
+  },
+  {
+    "word": "essential",
+    "meaning": "（～に）必要不可欠な；本質的な",
+    "example": "Water is essential for life.",
+    "example_jp": "水は生命に必要不可欠だ。"
+  },
+  {
+    "word": "illegal",
+    "meaning": "違法の、非合法の",
+    "example": "It is illegal to park here.",
+    "example_jp": "ここに駐車するのは違法だ。"
+  },
+  {
+    "word": "immune",
+    "meaning": "（～に対して）免疫を持つ",
+    "example": "She is immune to this virus.",
+    "example_jp": "彼女はこのウイルスに対する免疫がある。"
+  },
+  {
+    "word": "immune",
+    "meaning": "（～を）免れた",
+    "example": "No one is immune to criticism.",
+    "example_jp": "誰も批判を免れることはできない。"
+  },
+  {
+    "word": "numerous",
+    "meaning": "非常に数の多い",
+    "example": "There are numerous reasons for this.",
+    "example_jp": "これには非常に多くの理由がある。"
+  },
+  {
+    "word": "extreme",
+    "meaning": "極端な；極度の，過激な",
+    "example": "The area experiences extreme weather.",
+    "example_jp": "その地域は極端な天候に見舞われる。"
+  },
+  {
+    "word": "general",
+    "meaning": "全体の、一般的な",
+    "example": "That is a general rule.",
+    "example_jp": "それは一般的なルールだ。"
+  },
+  {
+    "word": "agricultural",
+    "meaning": "農業の、農耕の",
+    "example": "The economy depends on agricultural products.",
+    "example_jp": "その経済は農産物に依存している。"
+  },
+  {
+    "word": "overall",
+    "meaning": "総合的な；全体的な",
+    "example": "The overall effect was good.",
+    "example_jp": "全体的な効果は良かった。"
+  },
+  {
+    "word": "additional",
+    "meaning": "追加の、付加的な",
+    "example": "We need additional time to finish.",
+    "example_jp": "終わらせるために追加の時間が必要だ。"
+  },
+  {
+    "word": "entire",
+    "meaning": "全体の，全部の；完全な",
+    "example": "He ate the entire cake.",
+    "example_jp": "彼はケーキを全部食べた。"
+  },
+  {
+    "word": "severe",
+    "meaning": "（人・規律・事態・天気などが）厳しい；猛烈な",
+    "example": "The country suffered a severe drought.",
+    "example_jp": "その国は厳しい干ばつに見舞われた。"
+  }
+]

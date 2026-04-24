@@ -1,0 +1,434 @@
+[
+  {
+    "word": "pathway",
+    "meaning": "小道、細道",
+    "example": "The pathway leads through the woods.",
+    "example_jp": "その小道は森を通っている。"
+  },
+  {
+    "word": "reunion",
+    "meaning": "再会（の集い）",
+    "example": "We had a high school reunion last month.",
+    "example_jp": "先月、高校の同窓会をした。"
+  },
+  {
+    "word": "reunion",
+    "meaning": "再結合",
+    "example": "The couple celebrated their reunion.",
+    "example_jp": "その夫婦は再結合を祝った。"
+  },
+  {
+    "word": "cliff",
+    "meaning": "崖、絶壁",
+    "example": "The lighthouse stands on the edge of the cliff.",
+    "example_jp": "灯台が崖の端に立っている。"
+  },
+  {
+    "word": "coordinator",
+    "meaning": "コーディネーター、取りまとめ役、責任者",
+    "example": "She is the coordinator for this event.",
+    "example_jp": "彼女はこのイベントの取りまとめ役だ。"
+  },
+  {
+    "word": "depth",
+    "meaning": "深さ",
+    "example": "The lake has a great depth.",
+    "example_jp": "その湖はかなりの深さがある。"
+  },
+  {
+    "word": "depth",
+    "meaning": "深み",
+    "example": "His speech had a lot of depth.",
+    "example_jp": "彼のスピーチには深みがあった。"
+  },
+  {
+    "word": "liver",
+    "meaning": "肝臓",
+    "example": "Alcohol can damage your liver.",
+    "example_jp": "アルコールは肝臓を傷つける可能性がある。"
+  },
+  {
+    "word": "monopoly",
+    "meaning": "独占（権）",
+    "example": "The company has a monopoly on energy supply.",
+    "example_jp": "その会社はエネルギー供給の独占権を持っている。"
+  },
+  {
+    "word": "usage",
+    "meaning": "（使）用法",
+    "example": "Check the usage of this word in the dictionary.",
+    "example_jp": "辞書でこの単語の用法を確認して。"
+  },
+  {
+    "word": "usage",
+    "meaning": "語法",
+    "example": "This is a common English usage.",
+    "example_jp": "これは一般的な英語の語法だ。"
+  },
+  {
+    "word": "usage",
+    "meaning": "習慣",
+    "example": "The usage differs from region to region.",
+    "example_jp": "その習慣は地域によって異なる。"
+  },
+  {
+    "word": "chart",
+    "meaning": "図，グラフ",
+    "example": "Look at the chart to understand the data.",
+    "example_jp": "データを理解するためにその図を見てください。"
+  },
+  {
+    "word": "chart",
+    "meaning": "海図",
+    "example": "The captain consulted the chart.",
+    "example_jp": "船長は海図を参照した。"
+  },
+  {
+    "word": "chart",
+    "meaning": "ヒットチャート",
+    "example": "The song reached the top of the chart.",
+    "example_jp": "その歌はヒットチャートの1位になった。"
+  },
+  {
+    "word": "expectancy",
+    "meaning": "期待",
+    "example": "There is a feeling of expectancy in the crowd.",
+    "example_jp": "群衆には期待感がある。"
+  },
+  {
+    "word": "expectancy",
+    "meaning": "見込み",
+    "example": "Life expectancy has increased recently.",
+    "example_jp": "平均寿命（見込み）が最近伸びている。"
+  },
+  {
+    "word": "nowhere",
+    "meaning": "どの場所も～ない",
+    "example": "He is nowhere to be found.",
+    "example_jp": "彼はどこにも見当たらない。"
+  },
+  {
+    "word": "courthouse",
+    "meaning": "裁判所(の建物)",
+    "example": "They entered the courthouse for the trial.",
+    "example_jp": "彼らは裁判のために裁判所に入った。"
+  },
+  {
+    "word": "cove",
+    "meaning": "入江、小湾",
+    "example": "The boat is hidden in the cove.",
+    "example_jp": "ボートは入江に隠されている。"
+  },
+  {
+    "word": "dock",
+    "meaning": "埠頭、波止場",
+    "example": "The ship arrived at the dock.",
+    "example_jp": "船が埠頭に到着した。"
+  },
+  {
+    "word": "dock",
+    "meaning": "(艦船の)ドック",
+    "example": "The ship is in the dock for repairs.",
+    "example_jp": "船は修理のためドックに入っている。"
+  },
+  {
+    "word": "ministry",
+    "meaning": "省",
+    "example": "He works for the ministry of education.",
+    "example_jp": "彼は文部省で働いている。"
+  },
+  {
+    "word": "inflammation",
+    "meaning": "炎症",
+    "example": "The medicine reduced the inflammation.",
+    "example_jp": "その薬が炎症を和らげた。"
+  },
+  {
+    "word": "inflammation",
+    "meaning": "点火、引火",
+    "example": "The spark caused an immediate inflammation.",
+    "example_jp": "火花が即座の引火を引き起こした。"
+  },
+  {
+    "word": "cholesterol",
+    "meaning": "コレステロール",
+    "example": "High cholesterol is bad for your heart.",
+    "example_jp": "高いコレステロールは心臓に悪い。"
+  },
+  {
+    "word": "gender",
+    "meaning": "(社会的・文化的)性別、ジェンダー",
+    "example": "They are talking about gender equality.",
+    "example_jp": "彼らはジェンダー平等について話している。"
+  },
+  {
+    "word": "depression",
+    "meaning": "うつ病",
+    "example": "She is being treated for depression.",
+    "example_jp": "彼女はうつ病の治療を受けている。"
+  },
+  {
+    "word": "depression",
+    "meaning": "意気消沈",
+    "example": "He felt a sense of depression.",
+    "example_jp": "彼は意気消沈した気持ちを感じた。"
+  },
+  {
+    "word": "depression",
+    "meaning": "不景気",
+    "example": "The country is in an economic depression.",
+    "example_jp": "その国は経済不景気の中にある。"
+  },
+  {
+    "word": "stem",
+    "meaning": "（草木の）茎",
+    "example": "Cut the stem of the flower.",
+    "example_jp": "花の茎を切りなさい。"
+  },
+  {
+    "word": "stem",
+    "meaning": "幹",
+    "example": "The tree has a thick stem.",
+    "example_jp": "その木は太い幹を持っている。"
+  },
+  {
+    "word": "personnel",
+    "meaning": "職員，社員",
+    "example": "We need to hire more personnel.",
+    "example_jp": "もっと多くの職員を雇う必要がある。"
+  },
+  {
+    "word": "controversy",
+    "meaning": "論争",
+    "example": "The decision caused a big controversy.",
+    "example_jp": "その決定は大きな論争を呼んだ。"
+  },
+  {
+    "word": "recognition",
+    "meaning": "(人・物が)それと分かること",
+    "example": "He showed no sign of recognition.",
+    "example_jp": "彼はそれと分かる様子を見せなかった。"
+  },
+  {
+    "word": "recognition",
+    "meaning": "認めること、認識",
+    "example": "She gained recognition for her hard work.",
+    "example_jp": "彼女は懸命な仕事ぶりで評価（認識）を得た。"
+  },
+  {
+    "word": "applicant",
+    "meaning": "応募者、志願者",
+    "example": "There are many applicants for this position.",
+    "example_jp": "この職には多くの応募者がいる。"
+  },
+  {
+    "word": "anthropologist",
+    "meaning": "人類学者",
+    "example": "The anthropologist studied the tribal culture.",
+    "example_jp": "その人類学者は部族文化を研究した。"
+  },
+  {
+    "word": "sewage",
+    "meaning": "下水",
+    "example": "The city is cleaning the sewage.",
+    "example_jp": "市は下水を浄化している。"
+  },
+  {
+    "word": "acceptable",
+    "meaning": "受け入れられる、容認できる",
+    "example": "His excuse is not acceptable.",
+    "example_jp": "彼の言い訳は容認できない。"
+  },
+  {
+    "word": "nuclear",
+    "meaning": "原子力利用の、核エネルギーの",
+    "example": "They are using nuclear power.",
+    "example_jp": "彼らは原子力を使っている。"
+  },
+  {
+    "word": "moral",
+    "meaning": "道徳(上)の、倫理的な",
+    "example": "It is a moral issue.",
+    "example_jp": "それは道徳的な問題だ。"
+  },
+  {
+    "word": "marine",
+    "meaning": "海の",
+    "example": "They are studying marine life.",
+    "example_jp": "彼らは海洋生物を研究している。"
+  },
+  {
+    "word": "marine",
+    "meaning": "船舶の",
+    "example": "He works in the marine industry.",
+    "example_jp": "彼は海運（船舶）産業で働いている。"
+  },
+  {
+    "word": "conventional",
+    "meaning": "伝統的な、型にはまった",
+    "example": "He prefers conventional methods.",
+    "example_jp": "彼は伝統的な方法を好む。"
+  },
+  {
+    "word": "awful",
+    "meaning": "ひどい、嫌な",
+    "example": "The food tasted awful.",
+    "example_jp": "その食べ物はひどい味がした。"
+  },
+  {
+    "word": "awful",
+    "meaning": "ものすごい",
+    "example": "I have an awful lot of work to do.",
+    "example_jp": "ものすごい量の仕事がある。"
+  },
+  {
+    "word": "consistent",
+    "meaning": "着実な、安定した",
+    "example": "She made consistent progress.",
+    "example_jp": "彼女は着実な進歩を遂げた。"
+  },
+  {
+    "word": "consistent",
+    "meaning": "首尾一貫した",
+    "example": "His story is consistent.",
+    "example_jp": "彼の話は首尾一貫している。"
+  },
+  {
+    "word": "primitive",
+    "meaning": "原始的な",
+    "example": "They used primitive tools.",
+    "example_jp": "彼らは原始的な道具を使った。"
+  },
+  {
+    "word": "primitive",
+    "meaning": "未開の",
+    "example": "It was a primitive society.",
+    "example_jp": "それは未開の社会だった。"
+  },
+  {
+    "word": "mature",
+    "meaning": "成熟した",
+    "example": "He is a very mature person.",
+    "example_jp": "彼はとても成熟した人物だ。"
+  },
+  {
+    "word": "mature",
+    "meaning": "熟した",
+    "example": "The fruit is mature enough to eat.",
+    "example_jp": "その果物は食べるのに十分熟している。"
+  },
+  {
+    "word": "unfamiliar",
+    "meaning": "（～に）不慣れな",
+    "example": "I am unfamiliar with this system.",
+    "example_jp": "私はこのシステムに不慣れだ。"
+  },
+  {
+    "word": "unfamiliar",
+    "meaning": "（～によく）知られていない",
+    "example": "The name is unfamiliar to me.",
+    "example_jp": "その名前は私にはなじみがない。"
+  },
+  {
+    "word": "impractical",
+    "meaning": "実用的ではない、非現実的な",
+    "example": "That plan is impractical.",
+    "example_jp": "その計画は非現実的だ。"
+  },
+  {
+    "word": "unpredictable",
+    "meaning": "変わりやすい、予測できない",
+    "example": "The weather is unpredictable here.",
+    "example_jp": "ここの天気は予測できない。"
+  },
+  {
+    "word": "misleading",
+    "meaning": "誤解させる、紛らわしい",
+    "example": "The headline was misleading.",
+    "example_jp": "その見出しは誤解を招くものだった。"
+  },
+  {
+    "word": "plentiful",
+    "meaning": "豊富な、十分な",
+    "example": "Water is plentiful in this area.",
+    "example_jp": "この地域では水が豊富だ。"
+  },
+  {
+    "word": "Mediterranean",
+    "meaning": "地中海(沿岸地域)の",
+    "example": "They visited a Mediterranean island.",
+    "example_jp": "彼らは地中海の島を訪れた。"
+  },
+  {
+    "word": "unsafe",
+    "meaning": "安全でない、危険な",
+    "example": "The bridge is unsafe.",
+    "example_jp": "その橋は危険だ。"
+  },
+  {
+    "word": "bare",
+    "meaning": "露出した、裸の",
+    "example": "He walked with bare feet.",
+    "example_jp": "彼は裸足で歩いた。"
+  },
+  {
+    "word": "feeble",
+    "meaning": "病弱な、(体が)弱々しい",
+    "example": "The old man is feeble.",
+    "example_jp": "その老人は弱々しい。"
+  },
+  {
+    "word": "horrible",
+    "meaning": "実にひどい、ぞっとする",
+    "example": "I saw a horrible accident.",
+    "example_jp": "私はぞっとする事故を見た。"
+  },
+  {
+    "word": "scenic",
+    "meaning": "景色の良い",
+    "example": "We took the scenic route.",
+    "example_jp": "私たちは景色の良いルートを通った。"
+  },
+  {
+    "word": "supplementary",
+    "meaning": "補足の、追加の",
+    "example": "We need supplementary information.",
+    "example_jp": "補足の情報が必要だ。"
+  },
+  {
+    "word": "nosy",
+    "meaning": "詮索好きな、おせっかいな",
+    "example": "She is a nosy neighbor.",
+    "example_jp": "彼女は詮索好きな隣人だ。"
+  },
+  {
+    "word": "intermediate",
+    "meaning": "中級の",
+    "example": "This is an intermediate class.",
+    "example_jp": "これは中級クラスだ。"
+  },
+  {
+    "word": "intermediate",
+    "meaning": "中間の",
+    "example": "We are at an intermediate stage.",
+    "example_jp": "私たちは中間の段階にいる。"
+  },
+  {
+    "word": "universal",
+    "meaning": "共通の",
+    "example": "This is a universal truth.",
+    "example_jp": "これは共通の真実だ。"
+  },
+  {
+    "word": "universal",
+    "meaning": "全員の",
+    "example": "There was universal support for the plan.",
+    "example_jp": "その計画には全員の支持があった。"
+  },
+  {
+    "word": "universal",
+    "meaning": "普遍的な",
+    "example": "Music is a universal language.",
+    "example_jp": "音楽は普遍的な言語だ。"
+  }
+]

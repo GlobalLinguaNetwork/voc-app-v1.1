@@ -1,0 +1,308 @@
+[
+  {
+    "word": "livelihood",
+    "meaning": "生計",
+    "example": "He earns his livelihood as a fisherman.",
+    "example_jp": "彼は漁師として生計を立てている。"
+  },
+  {
+    "word": "motive",
+    "meaning": "動機",
+    "example": "What was his motive for the crime?",
+    "example_jp": "その犯罪の彼の動機は何だったのか。"
+  },
+  {
+    "word": "recession",
+    "meaning": "不況",
+    "example": "The country is in a deep recession.",
+    "example_jp": "その国は深刻な不況の中にある。"
+  },
+  {
+    "word": "surrounding",
+    "meaning": "周囲の状況",
+    "example": "The surrounding area is very quiet.",
+    "example_jp": "周囲の状況はとても静かだ。"
+  },
+  {
+    "word": "fortune",
+    "meaning": "財産",
+    "example": "She inherited a vast fortune.",
+    "example_jp": "彼女は莫大な財産を相続した。"
+  },
+  {
+    "word": "fortune",
+    "meaning": "幸運",
+    "example": "I had the good fortune to meet him.",
+    "example_jp": "幸運にも彼に会うことができた。"
+  },
+  {
+    "word": "token",
+    "meaning": "しるし",
+    "example": "Take this gift as a token of my appreciation.",
+    "example_jp": "感謝のしるしとしてこの贈り物を受け取ってください。"
+  },
+  {
+    "word": "trace",
+    "meaning": "跡",
+    "example": "There was no trace of him left.",
+    "example_jp": "彼の跡は何も残っていなかった。"
+  },
+  {
+    "word": "venture",
+    "meaning": "危険を冒して進む",
+    "example": "They ventured into the dangerous forest.",
+    "example_jp": "彼らは危険を冒してその森へ進んだ。"
+  },
+  {
+    "word": "physician",
+    "meaning": "医師",
+    "example": "You should consult a physician.",
+    "example_jp": "医師の診察を受けるべきだ。"
+  },
+  {
+    "word": "perspective",
+    "meaning": "観点",
+    "example": "From my perspective, this is a great idea.",
+    "example_jp": "私の観点から言えば、これは素晴らしいアイデアだ。"
+  },
+  {
+    "word": "physics",
+    "meaning": "物理学",
+    "example": "He is a professor of physics.",
+    "example_jp": "彼は物理学の教授だ。"
+  },
+  {
+    "word": "legislation",
+    "meaning": "法律",
+    "example": "The government passed new legislation.",
+    "example_jp": "政府は新しい法律を可決した。"
+  },
+  {
+    "word": "barn",
+    "meaning": "納屋",
+    "example": "The old tractor is stored in the barn.",
+    "example_jp": "古いトラクターが納屋に保管されている。"
+  },
+  {
+    "word": "daring",
+    "meaning": "大胆な",
+    "example": "It was a daring rescue mission.",
+    "example_jp": "それは大胆な救助任務だった。"
+  },
+  {
+    "word": "transparent",
+    "meaning": "透明な",
+    "example": "The water in the lake is perfectly transparent.",
+    "example_jp": "その湖の水は完全に透明だ。"
+  },
+  {
+    "word": "tragic",
+    "meaning": "悲惨な",
+    "example": "He died in a tragic accident.",
+    "example_jp": "彼は悲惨な事故で亡くなった。"
+  },
+  {
+    "word": "sinister",
+    "meaning": "邪悪な",
+    "example": "He had a sinister look in his eyes.",
+    "example_jp": "彼は目に邪悪な光を宿していた。"
+  },
+  {
+    "word": "striking",
+    "meaning": "著しい",
+    "example": "There is a striking resemblance between them.",
+    "example_jp": "彼らには著しい類似点がある。"
+  },
+  {
+    "word": "plural",
+    "meaning": "複数の",
+    "example": "The word has a plural form.",
+    "example_jp": "その単語には複数形がある。"
+  },
+  {
+    "word": "vital",
+    "meaning": "必要不可欠な",
+    "example": "Water is vital for life.",
+    "example_jp": "水は生命に必要不可欠だ。"
+  },
+  {
+    "word": "sensitive",
+    "meaning": "敏感な",
+    "example": "My skin is very sensitive to the sun.",
+    "example_jp": "私の肌は太陽光にとても敏感だ。"
+  },
+  {
+    "word": "remarkable",
+    "meaning": "注目に値する",
+    "example": "He made a remarkable recovery.",
+    "example_jp": "彼は注目に値する回復を見せた。"
+  },
+  {
+    "word": "minimal",
+    "meaning": "最小の",
+    "example": "The risk is minimal.",
+    "example_jp": "リスクは最小だ。"
+  },
+  {
+    "word": "bankrupt",
+    "meaning": "破産した",
+    "example": "The company went bankrupt last year.",
+    "example_jp": "その会社は昨年破産した。"
+  },
+  {
+    "word": "authentic",
+    "meaning": "本物の",
+    "example": "This is an authentic Italian dish.",
+    "example_jp": "これは本物のイタリア料理だ。"
+  },
+  {
+    "word": "moderate",
+    "meaning": "適度な",
+    "example": "He exercises at a moderate pace.",
+    "example_jp": "彼は適度なペースで運動している。"
+  },
+  {
+    "word": "alien",
+    "meaning": "異質の",
+    "example": "The culture felt alien to him.",
+    "example_jp": "その文化は彼にとって異質に感じられた。"
+  },
+  {
+    "word": "prompt",
+    "meaning": "迅速な",
+    "example": "Thank you for your prompt response.",
+    "example_jp": "迅速な返信をありがとうございます。"
+  },
+  {
+    "word": "random",
+    "meaning": "無作為の",
+    "example": "We chose a random sample.",
+    "example_jp": "私たちは無作為のサンプルを選んだ。"
+  },
+  {
+    "word": "decisive",
+    "meaning": "決定的な",
+    "example": "He played a decisive role in the match.",
+    "example_jp": "彼はその試合で決定的な役割を果たした。"
+  },
+  {
+    "word": "inevitable",
+    "meaning": "避けられない",
+    "example": "Change is inevitable.",
+    "example_jp": "変化は避けられないものだ。"
+  },
+  {
+    "word": "acid",
+    "meaning": "酸性の",
+    "example": "The soil in this area is quite acid.",
+    "example_jp": "この地域の土壌はかなり酸性だ。"
+  },
+  {
+    "word": "climatic",
+    "meaning": "気候の",
+    "example": "Climatic changes are affecting the region.",
+    "example_jp": "気候の変化がその地域に影響を与えている。"
+  },
+  {
+    "word": "incredible",
+    "meaning": "信じられない",
+    "example": "The view from the top is incredible.",
+    "example_jp": "頂上からの景色は信じられないほど素晴らしい。"
+  },
+  {
+    "word": "precise",
+    "meaning": "正確な",
+    "example": "I need a precise measurement.",
+    "example_jp": "正確な測定が必要だ。"
+  },
+  {
+    "word": "invaluable",
+    "meaning": "極めて貴重な",
+    "example": "Your advice was invaluable.",
+    "example_jp": "あなたのアドバイスは極めて貴重だった。"
+  },
+  {
+    "word": "stern",
+    "meaning": "厳しい",
+    "example": "He gave us a stern warning.",
+    "example_jp": "彼は私たちに厳しい警告を与えた。"
+  },
+  {
+    "word": "indifferent",
+    "meaning": "無関心な",
+    "example": "He seems indifferent to the news.",
+    "example_jp": "彼はそのニュースに無関心のようだ。"
+  },
+  {
+    "word": "charitable",
+    "meaning": "慈善の",
+    "example": "They donate to charitable organizations.",
+    "example_jp": "彼らは慈善団体に寄付をしている。"
+  },
+  {
+    "word": "massive",
+    "meaning": "巨大な",
+    "example": "There was a massive crowd in the street.",
+    "example_jp": "通りには巨大な人だかりがあった。"
+  },
+  {
+    "word": "comparable",
+    "meaning": "匹敵する",
+    "example": "The quality is comparable to the original.",
+    "example_jp": "その品質はオリジナルに匹敵する。"
+  },
+  {
+    "word": "irrational",
+    "meaning": "不合理な",
+    "example": "He has an irrational fear of spiders.",
+    "example_jp": "彼はクモに対して不合理な恐怖心を抱いている。"
+  },
+  {
+    "word": "cynical",
+    "meaning": "冷笑的な",
+    "example": "He has a cynical view of politics.",
+    "example_jp": "彼は政治に対して冷笑的な見方をしている。"
+  },
+  {
+    "word": "overly",
+    "meaning": "過度に",
+    "example": "Don't be overly critical of others.",
+    "example_jp": "他人を過度に批判してはいけない。"
+  },
+  {
+    "word": "literally",
+    "meaning": "文字どおり",
+    "example": "It literally changed my life.",
+    "example_jp": "それは文字どおり私の人生を変えた。"
+  },
+  {
+    "word": "voluntarily",
+    "meaning": "自発的に",
+    "example": "He quit his job voluntarily.",
+    "example_jp": "彼は自発的に仕事を辞めた。"
+  },
+  {
+    "word": "technically",
+    "meaning": "厳密に",
+    "example": "Technically, he is correct.",
+    "example_jp": "厳密に言えば、彼が正しい。"
+  },
+  {
+    "word": "wholly",
+    "meaning": "完全に",
+    "example": "I wholly agree with your plan.",
+    "example_jp": "あなたの計画に完全に同意する。"
+  },
+  {
+    "word": "approximately",
+    "meaning": "おおよそ",
+    "example": "The trip takes approximately two hours.",
+    "example_jp": "その旅行はおおよそ2時間かかる。"
+  },
+  {
+    "word": "uniquely",
+    "meaning": "独特に",
+    "example": "The building is uniquely designed.",
+    "example_jp": "その建物は独特に設計されている。"
+  }
+]

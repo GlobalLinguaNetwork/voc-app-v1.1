@@ -1,0 +1,488 @@
+[
+  {
+    "word": "disguise",
+    "meaning": "変装させる",
+    "example": "He disguised himself as a security guard.",
+    "example_jp": "彼は警備員に変装した。"
+  },
+  {
+    "word": "disguise",
+    "meaning": "偽る",
+    "example": "She couldn't disguise her true feelings.",
+    "example_jp": "彼女は自分の本心を偽ることができなかった。"
+  },
+  {
+    "word": "curb",
+    "meaning": "抑制する",
+    "example": "We must curb our spending.",
+    "example_jp": "私たちは支出を抑制しなければならない。"
+  },
+  {
+    "word": "restrain",
+    "meaning": "制止する",
+    "example": "She restrained him from running into the street.",
+    "example_jp": "彼女は彼が道路に飛び出すのを制止した。"
+  },
+  {
+    "word": "restrain",
+    "meaning": "規制する",
+    "example": "New laws will restrain the monopoly.",
+    "example_jp": "新しい法律が独占を規制するだろう。"
+  },
+  {
+    "word": "stumble",
+    "meaning": "つまずく",
+    "example": "I stumbled on a loose stone.",
+    "example_jp": "私は緩んだ石につまずいた。"
+  },
+  {
+    "word": "diminish",
+    "meaning": "減らす",
+    "example": "The medicine diminished his pain.",
+    "example_jp": "その薬は彼の痛みを和らげた（減らした）。"
+  },
+  {
+    "word": "rotate",
+    "meaning": "回転する",
+    "example": "The earth rotates on its axis.",
+    "example_jp": "地球は地軸を中心に回転する。"
+  },
+  {
+    "word": "compress",
+    "meaning": "要約する",
+    "example": "He compressed his report into one page.",
+    "example_jp": "彼は報告書を1ページに要約した。"
+  },
+  {
+    "word": "compress",
+    "meaning": "圧縮して詰め込む",
+    "example": "The files were compressed to save space.",
+    "example_jp": "容量を節約するためにファイルが圧縮された。"
+  },
+  {
+    "word": "decode",
+    "meaning": "解読する",
+    "example": "The expert decoded the secret message.",
+    "example_jp": "専門家が暗号メッセージを解読した。"
+  },
+  {
+    "word": "offset",
+    "meaning": "相殺する",
+    "example": "Higher costs offset our profits.",
+    "example_jp": "コストの上昇が利益を相殺した。"
+  },
+  {
+    "word": "bid",
+    "meaning": "値を付ける",
+    "example": "I bid ten dollars for the painting.",
+    "example_jp": "私はその絵に10ドルの値を付けた。"
+  },
+  {
+    "word": "bid",
+    "meaning": "挨拶を述べる",
+    "example": "He bade us farewell.",
+    "example_jp": "彼は私たちに別れの挨拶を述べた。"
+  },
+  {
+    "word": "burst",
+    "meaning": "破裂する",
+    "example": "The balloon burst with a loud bang.",
+    "example_jp": "風船が大きな音を立てて破裂した。"
+  },
+  {
+    "word": "burst",
+    "meaning": "突然始める",
+    "example": "She burst into tears.",
+    "example_jp": "彼女は突然泣き出した。"
+  },
+  {
+    "word": "overtake",
+    "meaning": "追い抜く",
+    "example": "He overtook the truck on the highway.",
+    "example_jp": "彼は高速道路でトラックを追い抜いた。"
+  },
+  {
+    "word": "overtake",
+    "meaning": "襲う",
+    "example": "Panic overtook him.",
+    "example_jp": "パニックが彼を襲った。"
+  },
+  {
+    "word": "retain",
+    "meaning": "保持する",
+    "example": "The cloth retains its color well.",
+    "example_jp": "その布は色をよく保持している。"
+  },
+  {
+    "word": "litter",
+    "meaning": "散らかす",
+    "example": "Do not litter the park.",
+    "example_jp": "公園を散らかさないでください。"
+  },
+  {
+    "word": "prohibit",
+    "meaning": "禁止する",
+    "example": "Smoking is prohibited here.",
+    "example_jp": "ここでは喫煙が禁止されている。"
+  },
+  {
+    "word": "discipline",
+    "meaning": "罰する",
+    "example": "The teacher had to discipline the students.",
+    "example_jp": "教師は生徒たちを罰しなければならなかった。"
+  },
+  {
+    "word": "discipline",
+    "meaning": "訓練する",
+    "example": "You need to discipline your mind.",
+    "example_jp": "心を訓練する必要がある。"
+  },
+  {
+    "word": "yield",
+    "meaning": "産出する",
+    "example": "This soil yields good crops.",
+    "example_jp": "この土壌は良い作物を産出する。"
+  },
+  {
+    "word": "yield",
+    "meaning": "屈する",
+    "example": "He refused to yield to the pressure.",
+    "example_jp": "彼は圧力に屈することを拒否した。"
+  },
+  {
+    "word": "yield",
+    "meaning": "譲る",
+    "example": "Yield to cars coming from the right.",
+    "example_jp": "右から来る車に道を譲りなさい。"
+  },
+  {
+    "word": "sweep",
+    "meaning": "掃く",
+    "example": "She swept the floor.",
+    "example_jp": "彼女は床を掃いた。"
+  },
+  {
+    "word": "sweep",
+    "meaning": "一掃する",
+    "example": "The storm swept away the bridge.",
+    "example_jp": "嵐が橋を一掃した。"
+  },
+  {
+    "word": "dictate",
+    "meaning": "指図する",
+    "example": "He likes to dictate how others should work.",
+    "example_jp": "彼は他人の仕事の仕方に指図したがる。"
+  },
+  {
+    "word": "dictate",
+    "meaning": "書き取らせる",
+    "example": "The boss dictated a letter to his assistant.",
+    "example_jp": "上司は秘書に手紙を書き取らせた。"
+  },
+  {
+    "word": "dictate",
+    "meaning": "規定する",
+    "example": "Culture often dictates our behavior.",
+    "example_jp": "文化が私たちの行動を規定することが多い。"
+  },
+  {
+    "word": "inject",
+    "meaning": "注射する",
+    "example": "The doctor injected the medicine.",
+    "example_jp": "医者は薬を注射した。"
+  },
+  {
+    "word": "inject",
+    "meaning": "導入する",
+    "example": "The company needs to inject new capital.",
+    "example_jp": "会社には新しい資本を導入する必要がある。"
+  },
+  {
+    "word": "urge",
+    "meaning": "熱心に勧める",
+    "example": "I urge you to reconsider your decision.",
+    "example_jp": "決定を再考するよう熱心に勧めます。"
+  },
+  {
+    "word": "mimic",
+    "meaning": "まねる",
+    "example": "He can mimic his teacher's voice.",
+    "example_jp": "彼は先生の声をまねることができる。"
+  },
+  {
+    "word": "roam",
+    "meaning": "歩き回る",
+    "example": "Wild animals roam in this area.",
+    "example_jp": "この地域では野生動物が歩き回っている。"
+  },
+  {
+    "word": "assess",
+    "meaning": "査定する",
+    "example": "They assessed the value of the house.",
+    "example_jp": "彼らはその家の価値を査定した。"
+  },
+  {
+    "word": "assess",
+    "meaning": "評価する",
+    "example": "We need to assess the situation.",
+    "example_jp": "状況を評価する必要がある。"
+  },
+  {
+    "word": "boast",
+    "meaning": "誇る",
+    "example": "The hotel boasts a beautiful pool.",
+    "example_jp": "そのホテルは美しいプールを誇っている。"
+  },
+  {
+    "word": "boast",
+    "meaning": "自慢する",
+    "example": "He boasted about his new car.",
+    "example_jp": "彼は新しい車を自慢した。"
+  },
+  {
+    "word": "drag",
+    "meaning": "引きずる",
+    "example": "He dragged the heavy bag along the floor.",
+    "example_jp": "彼は重いバッグを床に引きずった。"
+  },
+  {
+    "word": "drag",
+    "meaning": "ぐずぐずする",
+    "example": "Don't drag your feet.",
+    "example_jp": "ぐずぐずしないで。"
+  },
+  {
+    "word": "repay",
+    "meaning": "返済する",
+    "example": "I will repay the loan next month.",
+    "example_jp": "来月そのローンを返済するつもりだ。"
+  },
+  {
+    "word": "overthrow",
+    "meaning": "打倒する",
+    "example": "The rebels tried to overthrow the king.",
+    "example_jp": "反乱軍は王を打倒しようとした。"
+  },
+  {
+    "word": "fulfill",
+    "meaning": "果たす",
+    "example": "She fulfilled her promise to help.",
+    "example_jp": "彼女は助けるという約束を果たした。"
+  },
+  {
+    "word": "fulfill",
+    "meaning": "満たす",
+    "example": "This computer fulfills all my requirements.",
+    "example_jp": "このコンピュータは私の要求をすべて満たしている。"
+  },
+  {
+    "word": "doom",
+    "meaning": "運命にある",
+    "example": "The project was doomed to failure.",
+    "example_jp": "そのプロジェクトは失敗する運命にあった。"
+  },
+  {
+    "word": "affiliate",
+    "meaning": "提携させる",
+    "example": "This company is affiliated with a major firm.",
+    "example_jp": "この会社は大企業と提携している。"
+  },
+  {
+    "word": "assault",
+    "meaning": "暴行する",
+    "example": "He was arrested for assaulting a man.",
+    "example_jp": "彼は男性に暴行したとして逮捕された。"
+  },
+  {
+    "word": "assault",
+    "meaning": "攻撃する",
+    "example": "The army assaulted the fortress.",
+    "example_jp": "軍は要塞を攻撃した。"
+  },
+  {
+    "word": "testimony",
+    "meaning": "証言",
+    "example": "Her testimony helped solve the case.",
+    "example_jp": "彼女の証言が事件の解決を助けた。"
+  },
+  {
+    "word": "testimony",
+    "meaning": "証拠",
+    "example": "His work is testimony to his dedication.",
+    "example_jp": "彼の仕事は献身の証拠だ。"
+  },
+  {
+    "word": "errand",
+    "meaning": "使い",
+    "example": "I'm running some errands today.",
+    "example_jp": "今日はいくつか用足しをしている。"
+  },
+  {
+    "word": "friction",
+    "meaning": "不和",
+    "example": "There is a lot of friction between them.",
+    "example_jp": "彼らの間には多くの不和がある。"
+  },
+  {
+    "word": "friction",
+    "meaning": "摩擦",
+    "example": "Friction causes heat.",
+    "example_jp": "摩擦は熱を引き起こす。"
+  },
+  {
+    "word": "coalition",
+    "meaning": "連立",
+    "example": "They formed a coalition government.",
+    "example_jp": "彼らは連立政権を作った。"
+  },
+  {
+    "word": "influx",
+    "meaning": "殺到",
+    "example": "The city saw a huge influx of tourists.",
+    "example_jp": "その市は観光客の大量の殺到を見た。"
+  },
+  {
+    "word": "influx",
+    "meaning": "流入",
+    "example": "There is an influx of water into the basement.",
+    "example_jp": "地下室に水が流入している。"
+  },
+  {
+    "word": "curse",
+    "meaning": "悪態",
+    "example": "He shouted a curse at the driver.",
+    "example_jp": "彼は運転手に悪態をついた。"
+  },
+  {
+    "word": "curse",
+    "meaning": "呪い",
+    "example": "They believed the house had a curse on it.",
+    "example_jp": "彼らはその家に呪いがかかっていると信じていた。"
+  },
+  {
+    "word": "curse",
+    "meaning": "災い",
+    "example": "War is a curse to humanity.",
+    "example_jp": "戦争は人類にとっての災いだ。"
+  },
+  {
+    "word": "app",
+    "meaning": "アプリ",
+    "example": "I downloaded a new travel app.",
+    "example_jp": "新しい旅行アプリをダウンロードした。"
+  },
+  {
+    "word": "visibility",
+    "meaning": "視界",
+    "example": "Visibility was poor due to the fog.",
+    "example_jp": "霧のために視界が悪かった。"
+  },
+  {
+    "word": "visibility",
+    "meaning": "目に見えること",
+    "example": "The brand needs more visibility.",
+    "example_jp": "そのブランドはもっと人目につく必要がある。"
+  },
+  {
+    "word": "fabric",
+    "meaning": "織物",
+    "example": "She chose a beautiful fabric for the dress.",
+    "example_jp": "彼女はドレスのために美しい布を選んだ。"
+  },
+  {
+    "word": "fabric",
+    "meaning": "構造",
+    "example": "This is damaging the fabric of society.",
+    "example_jp": "これは社会構造を損なっている。"
+  },
+  {
+    "word": "collision",
+    "meaning": "衝突",
+    "example": "The collision caused heavy traffic.",
+    "example_jp": "衝突事故がひどい渋滞を引き起こした。"
+  },
+  {
+    "word": "collision",
+    "meaning": "対立",
+    "example": "Their interests are in collision.",
+    "example_jp": "彼らの利益は対立している。"
+  },
+  {
+    "word": "dioxide",
+    "meaning": "二酸化物",
+    "example": "Carbon dioxide is a greenhouse gas.",
+    "example_jp": "二酸化炭素は温室効果ガスだ。"
+  },
+  {
+    "word": "orbit",
+    "meaning": "軌道",
+    "example": "The satellite is in orbit.",
+    "example_jp": "衛星は軌道上にある。"
+  },
+  {
+    "word": "trial",
+    "meaning": "裁判",
+    "example": "He will face a trial next month.",
+    "example_jp": "彼は来月裁判を受ける予定だ。"
+  },
+  {
+    "word": "trial",
+    "meaning": "試験",
+    "example": "They are conducting a clinical trial.",
+    "example_jp": "彼らは臨床試験を行っている。"
+  },
+  {
+    "word": "trial",
+    "meaning": "試み",
+    "example": "Learning takes trial and error.",
+    "example_jp": "学習には試行錯誤が必要だ。"
+  },
+  {
+    "word": "literacy",
+    "meaning": "知識",
+    "example": "He has basic computer literacy.",
+    "example_jp": "彼は基本的なコンピュータの知識がある。"
+  },
+  {
+    "word": "literacy",
+    "meaning": "読み書きの能力",
+    "example": "The literacy rate has improved.",
+    "example_jp": "識字率（読み書き能力）が向上した。"
+  },
+  {
+    "word": "scheme",
+    "meaning": "計画",
+    "example": "They have a new scheme to reduce waste.",
+    "example_jp": "彼らは廃棄物を減らす新しい計画を持っている。"
+  },
+  {
+    "word": "scheme",
+    "meaning": "体系",
+    "example": "The color scheme is very nice.",
+    "example_jp": "配色の体系がとてもいい。"
+  },
+  {
+    "word": "scheme",
+    "meaning": "陰謀",
+    "example": "He was involved in a dark scheme.",
+    "example_jp": "彼は陰謀に関与していた。"
+  },
+  {
+    "word": "completion",
+    "meaning": "完了",
+    "example": "The project is nearing completion.",
+    "example_jp": "プロジェクトは完了に近づいている。"
+  },
+  {
+    "word": "expertise",
+    "meaning": "専門的知識",
+    "example": "He has expertise in digital marketing.",
+    "example_jp": "彼はデジタルマーケティングの専門知識がある。"
+  },
+  {
+    "word": "diploma",
+    "meaning": "卒業証書",
+    "example": "She framed her college diploma.",
+    "example_jp": "彼女は大学の卒業証書を額に入れた。"
+  }
+]

@@ -1,0 +1,320 @@
+[
+  {
+    "word": "retreat",
+    "meaning": "退く",
+    "example": "The army had to retreat from the front.",
+    "example_jp": "軍は前線から退かなければならなかった。"
+  },
+  {
+    "word": "revolt",
+    "meaning": "反乱を起こす",
+    "example": "The citizens revolted against the king.",
+    "example_jp": "市民たちは王に対して反乱を起こした。"
+  },
+  {
+    "word": "revolt",
+    "meaning": "むかむかさせる",
+    "example": "The smell of the garbage revolted him.",
+    "example_jp": "ゴミの臭いが彼をむかむかさせた。"
+  },
+  {
+    "word": "deflect",
+    "meaning": "そらす",
+    "example": "He deflected the criticism with a joke.",
+    "example_jp": "彼は冗談で非難をそらした。"
+  },
+  {
+    "word": "demote",
+    "meaning": "降格する",
+    "example": "He was demoted for his poor performance.",
+    "example_jp": "彼は成績不振のため降格された。"
+  },
+  {
+    "word": "despise",
+    "meaning": "軽蔑する",
+    "example": "She despises dishonest people.",
+    "example_jp": "彼女は不誠実な人を軽蔑している。"
+  },
+  {
+    "word": "grasp",
+    "meaning": "理解する",
+    "example": "I finally grasped the meaning of the theory.",
+    "example_jp": "ついにその理論の意味を理解した。"
+  },
+  {
+    "word": "grasp",
+    "meaning": "しっかりと握る",
+    "example": "He grasped her hand firmly.",
+    "example_jp": "彼は彼女の手をしっかりと握った。"
+  },
+  {
+    "word": "summon",
+    "meaning": "呼び出す",
+    "example": "The teacher summoned him to the office.",
+    "example_jp": "教師は彼を職員室に呼び出した。"
+  },
+  {
+    "word": "expel",
+    "meaning": "追放する",
+    "example": "He was expelled from the school.",
+    "example_jp": "彼は学校から追放された。"
+  },
+  {
+    "word": "redeem",
+    "meaning": "補う",
+    "example": "His kindness redeems his many faults.",
+    "example_jp": "彼の親切心は、多くの欠点を補うものだ。"
+  },
+  {
+    "word": "comprise",
+    "meaning": "構成する",
+    "example": "Women comprise half of the staff.",
+    "example_jp": "女性がスタッフの半分を構成している。"
+  },
+  {
+    "word": "prevail",
+    "meaning": "普及している",
+    "example": "The custom still prevails in this village.",
+    "example_jp": "その習慣はこの村で今も普及している。"
+  },
+  {
+    "word": "eject",
+    "meaning": "取り出す",
+    "example": "Please eject the disc from the player.",
+    "example_jp": "プレイヤーからディスクを取り出してください。"
+  },
+  {
+    "word": "falsify",
+    "meaning": "偽造する",
+    "example": "He tried to falsify the documents.",
+    "example_jp": "彼は書類を偽造しようとした。"
+  },
+  {
+    "word": "obstruct",
+    "meaning": "妨害する",
+    "example": "The parked car obstructed the traffic.",
+    "example_jp": "駐車中の車が交通を妨害した。"
+  },
+  {
+    "word": "depict",
+    "meaning": "描く",
+    "example": "The painting depicts a beautiful sunset.",
+    "example_jp": "その絵画は美しい夕日を描いている。"
+  },
+  {
+    "word": "tremble",
+    "meaning": "震える",
+    "example": "Her hands trembled with fear.",
+    "example_jp": "彼女の手は恐怖で震えた。"
+  },
+  {
+    "word": "confess",
+    "meaning": "告白する",
+    "example": "He confessed to stealing the money.",
+    "example_jp": "彼は金を盗んだことを告白した。"
+  },
+  {
+    "word": "stare",
+    "meaning": "じっと見つめる",
+    "example": "Don't stare at people.",
+    "example_jp": "人をじっと見つめてはいけない。"
+  },
+  {
+    "word": "ache",
+    "meaning": "痛む",
+    "example": "My head is aching.",
+    "example_jp": "頭が痛んでいる。"
+  },
+  {
+    "word": "reflect",
+    "meaning": "反映する",
+    "example": "His work reflects his personality.",
+    "example_jp": "彼の作品は彼の人柄を反映している。"
+  },
+  {
+    "word": "reflect",
+    "meaning": "熟考する",
+    "example": "I need time to reflect on my decision.",
+    "example_jp": "自分の決定について熟考する時間が必要だ。"
+  },
+  {
+    "word": "assert",
+    "meaning": "主張する",
+    "example": "He asserted that he was innocent.",
+    "example_jp": "彼は自分が無実だと主張した。"
+  },
+  {
+    "word": "impose",
+    "meaning": "課す",
+    "example": "The government imposed a new tax.",
+    "example_jp": "政府は新しい税を課した。"
+  },
+  {
+    "word": "interpret",
+    "meaning": "解釈する",
+    "example": "How do you interpret these results?",
+    "example_jp": "これらの結果をどう解釈しますか？"
+  },
+  {
+    "word": "devote",
+    "meaning": "捧げる",
+    "example": "She devoted her life to science.",
+    "example_jp": "彼女は自分の人生を科学に捧げた。"
+  },
+  {
+    "word": "deteriorate",
+    "meaning": "悪化する",
+    "example": "The weather conditions deteriorated rapidly.",
+    "example_jp": "天候が急激に悪化した。"
+  },
+  {
+    "word": "contemplate",
+    "meaning": "熟考する",
+    "example": "He is contemplating his future.",
+    "example_jp": "彼は自分の将来を熟考している。"
+  },
+  {
+    "word": "delegate",
+    "meaning": "委任する",
+    "example": "You should delegate some of your tasks.",
+    "example_jp": "仕事の一部を委任するべきだ。"
+  },
+  {
+    "word": "propel",
+    "meaning": "進ませる",
+    "example": "The wind propelled the boat forward.",
+    "example_jp": "風がボートを前へ進ませた。"
+  },
+  {
+    "word": "recede",
+    "meaning": "後退する",
+    "example": "The floodwaters began to recede.",
+    "example_jp": "洪水の水が後退し始めた。"
+  },
+  {
+    "word": "scrape",
+    "meaning": "こすり取る",
+    "example": "I scraped the mud off my shoes.",
+    "example_jp": "靴から泥をこすり取った。"
+  },
+  {
+    "word": "smash",
+    "meaning": "粉砕する",
+    "example": "He smashed the window with a rock.",
+    "example_jp": "彼は石で窓を粉砕した。"
+  },
+  {
+    "word": "scold",
+    "meaning": "しかる",
+    "example": "She scolded the boy for lying.",
+    "example_jp": "彼女は嘘をついたことで少年をしかった。"
+  },
+  {
+    "word": "amuse",
+    "meaning": "楽しませる",
+    "example": "The clown amused the children.",
+    "example_jp": "道化師が子供たちを楽しませた。"
+  },
+  {
+    "word": "overhaul",
+    "meaning": "総点検する",
+    "example": "The system needs to be overhauled.",
+    "example_jp": "システムを総点検する必要がある。"
+  },
+  {
+    "word": "herd",
+    "meaning": "群",
+    "example": "A herd of cows was in the field.",
+    "example_jp": "牛の群が野原にいた。"
+  },
+  {
+    "word": "bait",
+    "meaning": "餌",
+    "example": "He put bait on the hook.",
+    "example_jp": "彼は釣り針に餌をつけた。"
+  },
+  {
+    "word": "petition",
+    "meaning": "請願書",
+    "example": "We signed a petition to save the park.",
+    "example_jp": "公園を守るために請願書に署名した。"
+  },
+  {
+    "word": "ransom",
+    "meaning": "身代金",
+    "example": "The kidnapper demanded a large ransom.",
+    "example_jp": "誘拐犯は多額の身代金を要求した。"
+  },
+  {
+    "word": "fragrance",
+    "meaning": "芳香",
+    "example": "The flowers have a sweet fragrance.",
+    "example_jp": "その花は甘い芳香を放っている。"
+  },
+  {
+    "word": "insight",
+    "meaning": "洞察力",
+    "example": "She has a deep insight into human nature.",
+    "example_jp": "彼女は人間性に対する深い洞察力を持っている。"
+  },
+  {
+    "word": "conquest",
+    "meaning": "征服",
+    "example": "The story tells of the conquest of the land.",
+    "example_jp": "その物語はその地の征服について語っている。"
+  },
+  {
+    "word": "sincerity",
+    "meaning": "誠実",
+    "example": "I doubt his sincerity.",
+    "example_jp": "彼の誠実さを疑っている。"
+  },
+  {
+    "word": "tariff",
+    "meaning": "関税",
+    "example": "The government raised the tariff on imports.",
+    "example_jp": "政府は輸入品への関税を引き上げた。"
+  },
+  {
+    "word": "sanction",
+    "meaning": "制裁",
+    "example": "The country faced international sanctions.",
+    "example_jp": "その国は国際的な制裁に直面した。"
+  },
+  {
+    "word": "sphere",
+    "meaning": "領域",
+    "example": "This is outside my sphere of expertise.",
+    "example_jp": "これは私の専門領域の外だ。"
+  },
+  {
+    "word": "outcast",
+    "meaning": "見捨てられた人",
+    "example": "He felt like an outcast.",
+    "example_jp": "彼は見捨てられた人のように感じた。"
+  },
+  {
+    "word": "affair",
+    "meaning": "事柄",
+    "example": "That is a private affair.",
+    "example_jp": "それは私的な事柄だ。"
+  },
+  {
+    "word": "scandal",
+    "meaning": "スキャンダル",
+    "example": "The company was involved in a scandal.",
+    "example_jp": "その会社はスキャンダルに関与していた。"
+  },
+  {
+    "word": "allergy",
+    "meaning": "アレルギー",
+    "example": "She has an allergy to nuts.",
+    "example_jp": "彼女はナッツに対するアレルギーがある。"
+  },
+  {
+    "word": "destruction",
+    "meaning": "破壊",
+    "example": "The earthquake caused massive destruction.",
+    "example_jp": "地震が甚大な破壊をもたらした。"
+  }
+]

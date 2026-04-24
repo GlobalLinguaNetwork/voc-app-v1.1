@@ -1,0 +1,434 @@
+[
+  {
+    "word": "capture",
+    "meaning": "を捕らえる、を捕虜にする",
+    "example": "The police managed to capture the thief.",
+    "example_jp": "警察はその泥棒を捕らえることに成功した。"
+  },
+  {
+    "word": "arise",
+    "meaning": "起こる、出現する",
+    "example": "New problems may arise if we do not plan carefully.",
+    "example_jp": "慎重に計画しなければ、新たな問題が起こるかもしれない。"
+  },
+  {
+    "word": "implement",
+    "meaning": "を実行［実施］する",
+    "example": "We need to implement the new safety policy immediately.",
+    "example_jp": "私たちは新しい安全方針を直ちに実施する必要がある。"
+  },
+  {
+    "word": "reproduce",
+    "meaning": "を複製する",
+    "example": "It is illegal to reproduce this document without permission.",
+    "example_jp": "許可なくこの文書を複製することは違法だ。"
+  },
+  {
+    "word": "reproduce",
+    "meaning": "を繁殖させる、繁殖する",
+    "example": "These animals reproduce rapidly in the wild.",
+    "example_jp": "これらの動物は野生で急速に繁殖する。"
+  },
+  {
+    "word": "seize",
+    "meaning": "をつかむ",
+    "example": "She seized his arm to get his attention.",
+    "example_jp": "彼女は彼の注意を引こうと彼の腕をつかんだ。"
+  },
+  {
+    "word": "seize",
+    "meaning": "を奪い取る",
+    "example": "The rebels plan to seize control of the government.",
+    "example_jp": "反乱軍は政府の支配権を奪い取る計画だ。"
+  },
+  {
+    "word": "seize",
+    "meaning": "を没収する",
+    "example": "Customs officers will seize any prohibited items found in your luggage.",
+    "example_jp": "税関職員は荷物の中に禁止品を見つけると没収する。"
+  },
+  {
+    "word": "dominate",
+    "meaning": "を支配する、優勢である",
+    "example": "The team continued to dominate the game until the end.",
+    "example_jp": "そのチームは試合終了まで試合を支配し続けた。"
+  },
+  {
+    "word": "complicate",
+    "meaning": "を複雑にする",
+    "example": "Don't complicate the situation with unnecessary details.",
+    "example_jp": "不必要な詳細で状況を複雑にしないでください。"
+  },
+  {
+    "word": "scan",
+    "meaning": "を走査する",
+    "example": "The machine can scan the entire document in seconds.",
+    "example_jp": "その機械は文書全体を数秒で走査できる。"
+  },
+  {
+    "word": "scan",
+    "meaning": "をざっと見る",
+    "example": "I quickly scanned the newspaper headlines this morning.",
+    "example_jp": "今朝、新聞の見出しをざっと見た。"
+  },
+  {
+    "word": "scan",
+    "meaning": "を注意深く調べる",
+    "example": "He scanned the crowd for his friend.",
+    "example_jp": "彼は友人の姿を探して人混みを注意深く調べた。"
+  },
+  {
+    "word": "negotiate",
+    "meaning": "交渉する",
+    "example": "The union will negotiate with management for better wages.",
+    "example_jp": "組合は賃金改善のために経営陣と交渉する予定だ。"
+  },
+  {
+    "word": "negotiate",
+    "meaning": "を（交渉して）取り決める",
+    "example": "They managed to negotiate a peace treaty.",
+    "example_jp": "彼らはなんとか平和条約を取り決めることができた。"
+  },
+  {
+    "word": "illustrate",
+    "meaning": "を説明する、を例示する",
+    "example": "The teacher used a simple example to illustrate the concept.",
+    "example_jp": "先生はその概念を説明するために簡単な例を用いた。"
+  },
+  {
+    "word": "encounter",
+    "meaning": "に遭遇する",
+    "example": "We may encounter some difficulties during the project.",
+    "example_jp": "プロジェクトの進行中にいくつかの困難に遭遇するかもしれない。"
+  },
+  {
+    "word": "confine",
+    "meaning": "を限定する",
+    "example": "Please confine your discussion to the topic at hand.",
+    "example_jp": "議論は現在扱っているトピックに限定してください。"
+  },
+  {
+    "word": "confine",
+    "meaning": "閉じ込められる",
+    "example": "He was confined to his bed with a bad flu.",
+    "example_jp": "彼はひどいインフルエンザでベッドに閉じ込められていた。"
+  },
+  {
+    "word": "transmit",
+    "meaning": "を伝える、を送る",
+    "example": "The radio station will transmit the news globally.",
+    "example_jp": "そのラジオ局はニュースを世界中に送る予定だ。"
+  },
+  {
+    "word": "administer",
+    "meaning": "を管理する、経営する、治める",
+    "example": "The government is trying to administer the region more effectively.",
+    "example_jp": "政府はその地域をより効果的に管理しようと努めている。"
+  },
+  {
+    "word": "administer",
+    "meaning": "(治療)を施す",
+    "example": "The nurse will administer the medication to the patient.",
+    "example_jp": "看護師が患者に薬を施す。"
+  },
+  {
+    "word": "ease",
+    "meaning": "を和らげる、緩和する",
+    "example": "This medicine will help to ease your pain.",
+    "example_jp": "この薬が痛みを和らげるのに役立つでしょう。"
+  },
+  {
+    "word": "resume",
+    "meaning": "（を）再開する",
+    "example": "We will resume our meeting after the lunch break.",
+    "example_jp": "昼食休憩の後、会議を再開します。"
+  },
+  {
+    "word": "resume",
+    "meaning": "を取り戻す",
+    "example": "He resumed his position as director after a long leave.",
+    "example_jp": "彼は長期休暇の後、取締役の地位を取り戻した。"
+  },
+  {
+    "word": "pursue",
+    "meaning": "を追跡する、追求する",
+    "example": "She is determined to pursue her career goals.",
+    "example_jp": "彼女はキャリアの目標を追求すると決意している。"
+  },
+  {
+    "word": "decay",
+    "meaning": "腐敗する",
+    "example": "The fallen leaves began to decay on the ground.",
+    "example_jp": "落ち葉が地面で腐敗し始めた。"
+  },
+  {
+    "word": "decay",
+    "meaning": "（徐々に）衰える",
+    "example": "The old building has slowly started to decay.",
+    "example_jp": "その古い建物はゆっくりと衰え始めている。"
+  },
+  {
+    "word": "shrink",
+    "meaning": "縮む，縮小する、減少する",
+    "example": "My favorite sweater started to shrink in the wash.",
+    "example_jp": "お気に入りのセーターが洗濯で縮み始めた。"
+  },
+  {
+    "word": "shrink",
+    "meaning": "ひるむ",
+    "example": "He did not shrink from his responsibilities.",
+    "example_jp": "彼は責任からひるむことはなかった。"
+  },
+  {
+    "word": "cherish",
+    "meaning": "を大切にする",
+    "example": "I will always cherish the memories of our trip.",
+    "example_jp": "私は旅行の思い出をずっと大切にするつもりだ。"
+  },
+  {
+    "word": "cherish",
+    "meaning": "を心に抱く",
+    "example": "She cherishes a hope for a better future.",
+    "example_jp": "彼女はより良い未来への希望を心に抱いている。"
+  },
+  {
+    "word": "launch",
+    "meaning": "を売り出す、を開始する",
+    "example": "The company plans to launch a new product next month.",
+    "example_jp": "その会社は来月、新製品を売り出す予定だ。"
+  },
+  {
+    "word": "launch",
+    "meaning": "(ロケットなど)を発射する",
+    "example": "They are preparing to launch a rocket into space.",
+    "example_jp": "彼らはロケットを宇宙へ発射する準備をしている。"
+  },
+  {
+    "word": "accommodate",
+    "meaning": "を収容する",
+    "example": "This hotel can accommodate up to two hundred guests.",
+    "example_jp": "このホテルは最大200人の客を収容できる。"
+  },
+  {
+    "word": "accommodate",
+    "meaning": "を（～に）適応させる",
+    "example": "We must accommodate our plans to the new schedule.",
+    "example_jp": "私たちは新しいスケジュールに計画を適応させなければならない。"
+  },
+  {
+    "word": "withstand",
+    "meaning": "に耐える",
+    "example": "The bridge is designed to withstand strong earthquakes.",
+    "example_jp": "その橋は強い地震に耐えられるように設計されている。"
+  },
+  {
+    "word": "halt",
+    "meaning": "を止める、止まる",
+    "example": "The driver had to halt the car due to the heavy rain.",
+    "example_jp": "運転手は激しい雨のため車を止めなければならなかった。"
+  },
+  {
+    "word": "transform",
+    "meaning": "を大きく変える",
+    "example": "The new manager plans to transform the company's culture.",
+    "example_jp": "新しいマネージャーは会社の文化を大きく変える計画だ。"
+  },
+  {
+    "word": "transplant",
+    "meaning": "を移植する",
+    "example": "Doctors performed a successful heart transplant.",
+    "example_jp": "医師たちは心臓移植手術を成功させた。"
+  },
+  {
+    "word": "transplant",
+    "meaning": "を移住させる",
+    "example": "The company decided to transplant some employees to the new branch.",
+    "example_jp": "会社は一部の従業員を新しい支店へ移住させることに決めた。"
+  },
+  {
+    "word": "retail",
+    "meaning": "小売り",
+    "example": "She works in the retail industry.",
+    "example_jp": "彼女は小売り業界で働いている。"
+  },
+  {
+    "word": "abandon",
+    "meaning": "を捨てる、を放棄する",
+    "example": "They had to abandon their car in the middle of the road.",
+    "example_jp": "彼らは道の真ん中で車を捨てなければならなかった。"
+  },
+  {
+    "word": "developer",
+    "meaning": "宅地造成業者、開発者",
+    "example": "The software developer created a new app.",
+    "example_jp": "そのソフトウェア開発者が新しいアプリを作成した。"
+  },
+  {
+    "word": "circulation",
+    "meaning": "循環、流通",
+    "example": "Regular exercise improves blood circulation.",
+    "example_jp": "定期的な運動は血液の循環を改善する。"
+  },
+  {
+    "word": "circulation",
+    "meaning": "(新聞・雑誌の)発行部数",
+    "example": "The newspaper has a large daily circulation.",
+    "example_jp": "その新聞は1日の発行部数が多い。"
+  },
+  {
+    "word": "appliance",
+    "meaning": "(特に家庭用の)器具",
+    "example": "We bought a new kitchen appliance yesterday.",
+    "example_jp": "昨日、新しい台所用器具を買った。"
+  },
+  {
+    "word": "bond",
+    "meaning": "きずな",
+    "example": "They share a strong bond of friendship.",
+    "example_jp": "彼らは強い友情のきずなで結ばれている。"
+  },
+  {
+    "word": "bond",
+    "meaning": "債券、契約",
+    "example": "Investing in government bonds is generally safe.",
+    "example_jp": "国債に投資することは一般的に安全だ。"
+  },
+  {
+    "word": "circuit",
+    "meaning": "周回すること、回路、巡回",
+    "example": "The electric circuit was damaged.",
+    "example_jp": "電気回路が損傷していた。"
+  },
+  {
+    "word": "innovation",
+    "meaning": "(技術)革新、新機軸",
+    "example": "This technology represents a major innovation in the field.",
+    "example_jp": "この技術はその分野における大きな革新を表している。"
+  },
+  {
+    "word": "infant",
+    "meaning": "幼児、乳児",
+    "example": "The infant is sleeping peacefully in the crib.",
+    "example_jp": "乳児がベビーベッドで静かに眠っている。"
+  },
+  {
+    "word": "transaction",
+    "meaning": "（商）取引",
+    "example": "The transaction was completed securely online.",
+    "example_jp": "その取引はオンラインで安全に完了した。"
+  },
+  {
+    "word": "transaction",
+    "meaning": "（人と人との）交流",
+    "example": "Social transactions are important for maintaining mental health.",
+    "example_jp": "メンタルヘルスを維持するためには人との交流が重要だ。"
+  },
+  {
+    "word": "celebrity",
+    "meaning": "有名人、著名人",
+    "example": "A famous celebrity was seen at the airport.",
+    "example_jp": "有名な著名人が空港で見かけられた。"
+  },
+  {
+    "word": "checkup",
+    "meaning": "健康診断、検査",
+    "example": "I have a regular medical checkup tomorrow.",
+    "example_jp": "明日、定期的な健康診断がある。"
+  },
+  {
+    "word": "makeup",
+    "meaning": "化粧、化粧品",
+    "example": "She took off her makeup before going to bed.",
+    "example_jp": "彼女は寝る前に化粧を落とした。"
+  },
+  {
+    "word": "makeup",
+    "meaning": "構成、性質",
+    "example": "The genetic makeup of this plant is unique.",
+    "example_jp": "この植物の遺伝的構成は独特だ。"
+  },
+  {
+    "word": "respondent",
+    "meaning": "(調査・アンケートなどの)回答者",
+    "example": "Most respondents were satisfied with the service.",
+    "example_jp": "ほとんどの回答者がそのサービスに満足していた。"
+  },
+  {
+    "word": "well-being",
+    "meaning": "健康、幸福",
+    "example": "The well-being of employees is our top priority.",
+    "example_jp": "従業員の健康と幸福が私たちの最優先事項だ。"
+  },
+  {
+    "word": "flaw",
+    "meaning": "欠点、傷、ひび",
+    "example": "There is a small flaw in the diamond.",
+    "example_jp": "そのダイヤモンドには小さな傷がある。"
+  },
+  {
+    "word": "strain",
+    "meaning": "に負担をかける、を緊張させる",
+    "example": "Long hours of working can strain your eyes.",
+    "example_jp": "長時間の労働は目に負担をかける可能性がある。"
+  },
+  {
+    "word": "strain",
+    "meaning": "を漉す",
+    "example": "Strain the soup to remove the vegetables.",
+    "example_jp": "野菜を取り除くためにスープを漉してください。"
+  },
+  {
+    "word": "rivalry",
+    "meaning": "ライバル意識、競争",
+    "example": "There is a long-standing rivalry between the two teams.",
+    "example_jp": "その2チームの間には長年続くライバル意識がある。"
+  },
+  {
+    "word": "publicity",
+    "meaning": "一般に知られること、評判、宣伝",
+    "example": "The movie received a lot of publicity before its release.",
+    "example_jp": "その映画は公開前に多くの宣伝を受けた。"
+  },
+  {
+    "word": "consent",
+    "meaning": "同意、承諾",
+    "example": "You need a parent's consent to join the club.",
+    "example_jp": "部活に入るには親の同意が必要だ。"
+  },
+  {
+    "word": "addiction",
+    "meaning": "依存",
+    "example": "He is seeking professional help for his gaming addiction.",
+    "example_jp": "彼はゲーム依存症のために専門家の助けを求めている。"
+  },
+  {
+    "word": "profession",
+    "meaning": "職業、専門職、同業者仲間",
+    "example": "She has been in the medical profession for years.",
+    "example_jp": "彼女は何年も医療の専門職に従事している。"
+  },
+  {
+    "word": "sacrifice",
+    "meaning": "犠牲、いけにえ",
+    "example": "They made a great sacrifice for the success of the project.",
+    "example_jp": "彼らはプロジェクトの成功のために大きな犠牲を払った。"
+  },
+  {
+    "word": "nerve",
+    "meaning": "神経",
+    "example": "The toothache is caused by an inflamed nerve.",
+    "example_jp": "その歯痛は神経の炎症が原因だ。"
+  },
+  {
+    "word": "nerve",
+    "meaning": "神経過敏",
+    "example": "She felt a rush of nerves before her big speech.",
+    "example_jp": "彼女は大きな演説の前に神経過敏になった。"
+  },
+  {
+    "word": "nerve",
+    "meaning": "（...する）度胸",
+    "example": "He finally found the nerve to ask her out.",
+    "example_jp": "彼はついに彼女をデートに誘う度胸を見つけた。"
+  }
+]

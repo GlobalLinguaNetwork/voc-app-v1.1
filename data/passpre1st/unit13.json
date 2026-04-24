@@ -1,0 +1,398 @@
+[
+  {
+    "word": "resort",
+    "meaning": "（好ましくない手段に）訴える、頼る",
+    "example": "They had to resort to violence to solve the problem.",
+    "example_jp": "彼らは問題を解決するために暴力に訴えざるを得なかった。"
+  },
+  {
+    "word": "submit",
+    "meaning": "を提出する",
+    "example": "Please submit your application by Friday.",
+    "example_jp": "金曜日までに申請書を提出してください。"
+  },
+  {
+    "word": "submit",
+    "meaning": "（～に）従う",
+    "example": "The country had to submit to the new rules.",
+    "example_jp": "その国は新しい規則に従わなければならなかった。"
+  },
+  {
+    "word": "originate",
+    "meaning": "由来する、生じる、始まる",
+    "example": "This tradition originated in the 18th century.",
+    "example_jp": "この伝統は18世紀に始まった。"
+  },
+  {
+    "word": "regret",
+    "meaning": "を後悔する",
+    "example": "I regret not studying harder.",
+    "example_jp": "もっと一生懸命勉強しなかったことを後悔している。"
+  },
+  {
+    "word": "regret",
+    "meaning": "を遺憾に思う",
+    "example": "We regret to inform you that your request was denied.",
+    "example_jp": "残念ながら、あなたのリクエストは拒否されたことを通知します。"
+  },
+  {
+    "word": "cooperate",
+    "meaning": "協力する",
+    "example": "Both countries agreed to cooperate on the project.",
+    "example_jp": "両国はそのプロジェクトで協力することに合意した。"
+  },
+  {
+    "word": "revise",
+    "meaning": "を修正する、を改訂する",
+    "example": "I need to revise my report before handing it in.",
+    "example_jp": "提出する前に報告書を修正する必要がある。"
+  },
+  {
+    "word": "restrict",
+    "meaning": "を制限する",
+    "example": "They restricted access to the building.",
+    "example_jp": "彼らはその建物への立ち入りを制限した。"
+  },
+  {
+    "word": "occupy",
+    "meaning": "（空間・時間）を占める",
+    "example": "This work occupies all my time.",
+    "example_jp": "この仕事が私の時間をすべて占めている。"
+  },
+  {
+    "word": "occupy",
+    "meaning": "を占領する",
+    "example": "The army occupied the city.",
+    "example_jp": "軍隊はその都市を占領した。"
+  },
+  {
+    "word": "fade",
+    "meaning": "薄れる、衰える",
+    "example": "The colors of the painting faded over time.",
+    "example_jp": "その絵の色彩は時間とともに薄れた。"
+  },
+  {
+    "word": "relieve",
+    "meaning": "を和らげる",
+    "example": "This medicine helps relieve back pain.",
+    "example_jp": "この薬は背中の痛みを和らげるのに役立つ。"
+  },
+  {
+    "word": "relieve",
+    "meaning": "（...して）安心する",
+    "example": "I was relieved to hear that he was safe.",
+    "example_jp": "彼が無事だと聞いて安心した。"
+  },
+  {
+    "word": "relieve",
+    "meaning": "を解放する",
+    "example": "The new manager relieved the staff of extra work.",
+    "example_jp": "新しいマネージャーはスタッフを余分な仕事から解放した。"
+  },
+  {
+    "word": "suppress",
+    "meaning": "を抑える",
+    "example": "He suppressed a smile during the meeting.",
+    "example_jp": "彼は会議中に笑いを抑えた。"
+  },
+  {
+    "word": "suppress",
+    "meaning": "を抑圧する",
+    "example": "The government suppressed the protest.",
+    "example_jp": "政府はその抗議活動を抑圧した。"
+  },
+  {
+    "word": "starve",
+    "meaning": "飢える",
+    "example": "Millions of people are starving in the region.",
+    "example_jp": "その地域では何百万人もの人々が飢えている。"
+  },
+  {
+    "word": "starve",
+    "meaning": "（～を）渇望する",
+    "example": "She was starving for affection.",
+    "example_jp": "彼女は愛情を渇望していた。"
+  },
+  {
+    "word": "starve",
+    "meaning": "を飢えさせる",
+    "example": "They starved the prisoners to make them talk.",
+    "example_jp": "彼らは囚人に自白させるために飢えさせた。"
+  },
+  {
+    "word": "scratch",
+    "meaning": "を引っかく",
+    "example": "The cat scratched the sofa.",
+    "example_jp": "猫がソファを引っかいた。"
+  },
+  {
+    "word": "scratch",
+    "meaning": "を取り消す、削除する",
+    "example": "He scratched his name from the list.",
+    "example_jp": "彼はリストから自分の名前を削除した。"
+  },
+  {
+    "word": "unite",
+    "meaning": "団結する、一体化する",
+    "example": "The nation united against the common enemy.",
+    "example_jp": "国家は共通の敵に対して団結した。"
+  },
+  {
+    "word": "grip",
+    "meaning": "を握る",
+    "example": "He gripped my hand tightly.",
+    "example_jp": "彼は私の手をしっかりと握った。"
+  },
+  {
+    "word": "grip",
+    "meaning": "をとらえる",
+    "example": "The story gripped my attention immediately.",
+    "example_jp": "その物語はすぐに私の関心をとらえた。"
+  },
+  {
+    "word": "surrender",
+    "meaning": "を放棄する、引き渡す",
+    "example": "They surrendered their weapons to the police.",
+    "example_jp": "彼らは警察に武器を引き渡した。"
+  },
+  {
+    "word": "surrender",
+    "meaning": "（～に）屈する",
+    "example": "He refused to surrender to the enemy.",
+    "example_jp": "彼は敵に屈することを拒否した。"
+  },
+  {
+    "word": "twist",
+    "meaning": "をねじる、ひねる",
+    "example": "She twisted the cap off the bottle.",
+    "example_jp": "彼女はボトルのキャップをひねって開けた。"
+  },
+  {
+    "word": "twist",
+    "meaning": "を歪曲する",
+    "example": "He twisted my words to make me look bad.",
+    "example_jp": "彼は私を悪く見せるために私の言葉を歪曲した。"
+  },
+  {
+    "word": "remodel",
+    "meaning": "を改装する、を改造する",
+    "example": "We are planning to remodel the kitchen.",
+    "example_jp": "私たちはキッチンを改装する計画だ。"
+  },
+  {
+    "word": "triple",
+    "meaning": "３倍になる、を３倍にする",
+    "example": "Sales have tripled this year.",
+    "example_jp": "売上は今年3倍になった。"
+  },
+  {
+    "word": "drown",
+    "meaning": "溺死する",
+    "example": "He nearly drowned in the lake.",
+    "example_jp": "彼は湖で溺れかけた。"
+  },
+  {
+    "word": "drown",
+    "meaning": "を水浸しにする",
+    "example": "The flood drowned the whole village.",
+    "example_jp": "洪水が村全体を水浸しにした。"
+  },
+  {
+    "word": "lean",
+    "meaning": "傾く、寄りかかる",
+    "example": "Don't lean against the freshly painted wall.",
+    "example_jp": "ペンキを塗ったばかりの壁に寄りかからないで。"
+  },
+  {
+    "word": "lean",
+    "meaning": "をもたせかける",
+    "example": "He leaned his bike against the tree.",
+    "example_jp": "彼は自転車を木にもたせかけた。"
+  },
+  {
+    "word": "soak",
+    "meaning": "を浸す、ずぶぬれにする",
+    "example": "I soaked the clothes in soapy water.",
+    "example_jp": "石鹸水に服を浸した。"
+  },
+  {
+    "word": "soak",
+    "meaning": "浸る",
+    "example": "He soaked in the warm bath for an hour.",
+    "example_jp": "彼は1時間、暖かい風呂に浸かった。"
+  },
+  {
+    "word": "hover",
+    "meaning": "(鳥・昆虫・ヘリコプターなどが)空中(の一点)に止まる",
+    "example": "A helicopter hovered above the building.",
+    "example_jp": "ヘリコプターが建物の上の空中に止まっていた。"
+  },
+  {
+    "word": "interrupt",
+    "meaning": "を中断させる、邪魔をする",
+    "example": "Sorry to interrupt, but I have a question.",
+    "example_jp": "邪魔してすみませんが、質問があります。"
+  },
+  {
+    "word": "socialize",
+    "meaning": "(社会的に)交際する",
+    "example": "She likes to socialize with her colleagues.",
+    "example_jp": "彼女は同僚と交際するのが好きだ。"
+  },
+  {
+    "word": "termite",
+    "meaning": "シロアリ",
+    "example": "Termites can cause serious damage to wood.",
+    "example_jp": "シロアリは木材に深刻な損害を与えることがある。"
+  },
+  {
+    "word": "microbe",
+    "meaning": "微生物、細菌",
+    "example": "Microbes are too small to see with the naked eye.",
+    "example_jp": "微生物は肉眼では見えないほど小さい。"
+  },
+  {
+    "word": "beverage",
+    "meaning": "（水以外の）飲み物、飲料",
+    "example": "They serve hot and cold beverages.",
+    "example_jp": "彼らは温かい飲み物と冷たい飲み物を提供している。"
+  },
+  {
+    "word": "paperwork",
+    "meaning": "書類、書類事務",
+    "example": "The job involves a lot of paperwork.",
+    "example_jp": "その仕事は多くの書類事務を伴う。"
+  },
+  {
+    "word": "descendant",
+    "meaning": "子孫",
+    "example": "She is a direct descendant of the queen.",
+    "example_jp": "彼女は女王の直系の子孫だ。"
+  },
+  {
+    "word": "sculpture",
+    "meaning": "彫刻（作品）",
+    "example": "He created a beautiful bronze sculpture.",
+    "example_jp": "彼は美しいブロンズの彫刻を制作した。"
+  },
+  {
+    "word": "handout",
+    "meaning": "配布物、プリント",
+    "example": "Did everyone get a handout?",
+    "example_jp": "全員プリントを受け取りましたか？"
+  },
+  {
+    "word": "replacement",
+    "meaning": "交換、交替、代わりの人[もの]",
+    "example": "We need a replacement for the broken part.",
+    "example_jp": "壊れた部品の交換品が必要だ。"
+  },
+  {
+    "word": "minister",
+    "meaning": "大臣",
+    "example": "The foreign minister attended the meeting.",
+    "example_jp": "外務大臣が会議に出席した。"
+  },
+  {
+    "word": "stream",
+    "meaning": "小川",
+    "example": "We sat by the stream to rest.",
+    "example_jp": "休むために小川のそばに座った。"
+  },
+  {
+    "word": "predator",
+    "meaning": "捕食動物、略奪者",
+    "example": "Lions are natural predators.",
+    "example_jp": "ライオンは自然界の捕食動物だ。"
+  },
+  {
+    "word": "observer",
+    "meaning": "監視員、観察者",
+    "example": "The observer noted the bird's behavior.",
+    "example_jp": "観察者は鳥の行動を記録した。"
+  },
+  {
+    "word": "commission",
+    "meaning": "代理手数料、歩合",
+    "example": "He earns a commission on every sale.",
+    "example_jp": "彼は販売ごとに手数料を得る。"
+  },
+  {
+    "word": "commission",
+    "meaning": "委員会",
+    "example": "The commission will investigate the issue.",
+    "example_jp": "委員会はその問題を調査するだろう。"
+  },
+  {
+    "word": "committee",
+    "meaning": "委員会",
+    "example": "She is a member of the planning committee.",
+    "example_jp": "彼女は企画委員会のメンバーだ。"
+  },
+  {
+    "word": "junk",
+    "meaning": "がらくた、つまらないもの",
+    "example": "There is a lot of junk in the garage.",
+    "example_jp": "ガレージにがらくたがたくさんある。"
+  },
+  {
+    "word": "departure",
+    "meaning": "出発",
+    "example": "What is the time of departure?",
+    "example_jp": "出発時刻は何時ですか？"
+  },
+  {
+    "word": "description",
+    "meaning": "描写、説明",
+    "example": "Her description of the event was vivid.",
+    "example_jp": "彼女のその出来事についての描写は鮮明だった。"
+  },
+  {
+    "word": "supervisor",
+    "meaning": "監督者、指導教員",
+    "example": "I need to talk to my supervisor.",
+    "example_jp": "監督者（上司）と話す必要がある。"
+  },
+  {
+    "word": "guidance",
+    "meaning": "指導、案内",
+    "example": "Thank you for your helpful guidance.",
+    "example_jp": "助けになる指導をありがとうございます。"
+  },
+  {
+    "word": "landscape",
+    "meaning": "眺め、風景、景色",
+    "example": "They enjoyed the beautiful mountain landscape.",
+    "example_jp": "彼らは美しい山の風景を楽しんだ。"
+  },
+  {
+    "word": "crew",
+    "meaning": "(船の)乗組員、(飛行機・列車などの)乗務員",
+    "example": "The crew worked hard during the flight.",
+    "example_jp": "乗務員は飛行中に懸命に働いた。"
+  },
+  {
+    "word": "drain",
+    "meaning": "流出させる、流れ出る",
+    "example": "Drain the water from the pasta.",
+    "example_jp": "パスタからお湯を切りなさい。"
+  },
+  {
+    "word": "stereotype",
+    "meaning": "固定観念、ステレオタイプ",
+    "example": "We should avoid negative stereotypes.",
+    "example_jp": "否定的な固定観念は避けるべきだ。"
+  },
+  {
+    "word": "edition",
+    "meaning": "(刊行物の)版",
+    "example": "This is the third edition of the book.",
+    "example_jp": "これはその本の第3版だ。"
+  },
+  {
+    "word": "graphic",
+    "meaning": "図、挿絵",
+    "example": "The report includes many graphics.",
+    "example_jp": "その報告書は多くの図を含んでいる。"
+  }
+]

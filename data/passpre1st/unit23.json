@@ -1,0 +1,512 @@
+[
+  {
+    "word": "bewilder",
+    "meaning": "当惑する",
+    "example": "He was bewildered by the complex instructions.",
+    "example_jp": "彼は複雑な説明に当惑した。"
+  },
+  {
+    "word": "clutch",
+    "meaning": "ぐっとつかむ",
+    "example": "She clutched her bag tightly.",
+    "example_jp": "彼女はバッグをぐっと強くつかんだ。"
+  },
+  {
+    "word": "discard",
+    "meaning": "捨てる",
+    "example": "Please discard all trash in the bin.",
+    "example_jp": "ゴミはすべてゴミ箱に捨ててください。"
+  },
+  {
+    "word": "enlist",
+    "meaning": "入隊する",
+    "example": "He decided to enlist in the army.",
+    "example_jp": "彼は陸軍に入隊することを決めた。"
+  },
+  {
+    "word": "enlist",
+    "meaning": "参加する",
+    "example": "She enlisted in the volunteer program.",
+    "example_jp": "彼女はボランティアプログラムに参加した。"
+  },
+  {
+    "word": "enlist",
+    "meaning": "協力を得る",
+    "example": "I need to enlist your help with this project.",
+    "example_jp": "このプロジェクトには君の協力が必要だ。"
+  },
+  {
+    "word": "heed",
+    "meaning": "注意する",
+    "example": "You should heed his warning.",
+    "example_jp": "彼の警告に注意するべきだ。"
+  },
+  {
+    "word": "liberate",
+    "meaning": "解放する",
+    "example": "The soldiers liberated the town.",
+    "example_jp": "兵士たちがその町を解放した。"
+  },
+  {
+    "word": "overlap",
+    "meaning": "重なる",
+    "example": "The two meetings overlap in time.",
+    "example_jp": "2つの会議の時間が重なっている。"
+  },
+  {
+    "word": "reconstruct",
+    "meaning": "再建する",
+    "example": "They plan to reconstruct the damaged bridge.",
+    "example_jp": "彼らは損傷した橋を再建する計画だ。"
+  },
+  {
+    "word": "reconstruct",
+    "meaning": "改変する",
+    "example": "The theory was reconstructed based on new data.",
+    "example_jp": "その理論は新しいデータに基づいて改変された。"
+  },
+  {
+    "word": "shriek",
+    "meaning": "悲鳴をあげる",
+    "example": "She shrieked when she saw the spider.",
+    "example_jp": "彼女はクモを見て悲鳴をあげた。"
+  },
+  {
+    "word": "sprain",
+    "meaning": "くじく",
+    "example": "I sprained my ankle while running.",
+    "example_jp": "走っている時に足首をくじいた。"
+  },
+  {
+    "word": "resent",
+    "meaning": "憤慨する",
+    "example": "He resents being treated like a child.",
+    "example_jp": "彼は子供扱いされることに憤慨している。"
+  },
+  {
+    "word": "thrive",
+    "meaning": "繁栄する",
+    "example": "Business is thriving this year.",
+    "example_jp": "今年はビジネスが繁栄している。"
+  },
+  {
+    "word": "thrive",
+    "meaning": "繁茂する",
+    "example": "These plants thrive in the shade.",
+    "example_jp": "これらの植物は日陰でよく繁茂する。"
+  },
+  {
+    "word": "embrace",
+    "meaning": "抱擁する",
+    "example": "They embraced each other at the station.",
+    "example_jp": "彼らは駅で互いを抱擁した。"
+  },
+  {
+    "word": "embrace",
+    "meaning": "受け入れる",
+    "example": "She embraced the new opportunity.",
+    "example_jp": "彼女はその新しい機会を喜んで受け入れた。"
+  },
+  {
+    "word": "excel",
+    "meaning": "秀でている",
+    "example": "He excels at mathematics.",
+    "example_jp": "彼は数学に秀でている。"
+  },
+  {
+    "word": "excel",
+    "meaning": "勝る",
+    "example": "Their service excels ours.",
+    "example_jp": "彼らのサービスは我々のものより勝っている。"
+  },
+  {
+    "word": "enroll",
+    "meaning": "登録する",
+    "example": "I enrolled in a cooking class.",
+    "example_jp": "料理教室に登録した。"
+  },
+  {
+    "word": "retrieve",
+    "meaning": "検索する",
+    "example": "The system retrieved the data quickly.",
+    "example_jp": "システムがデータを素早く検索した。"
+  },
+  {
+    "word": "retrieve",
+    "meaning": "取り戻す",
+    "example": "The dog retrieved the ball.",
+    "example_jp": "犬がボールを取り戻してきた。"
+  },
+  {
+    "word": "retrieve",
+    "meaning": "回復する",
+    "example": "We hope to retrieve our lost reputation.",
+    "example_jp": "失った名声を回復したいと願っている。"
+  },
+  {
+    "word": "degrade",
+    "meaning": "面目を失わせる",
+    "example": "The criticism degraded his position.",
+    "example_jp": "その批判は彼の立場を傷つけた。"
+  },
+  {
+    "word": "degrade",
+    "meaning": "質を低下させる",
+    "example": "Exposure to air will degrade the quality.",
+    "example_jp": "空気にさらされると品質が低下する。"
+  },
+  {
+    "word": "reconcile",
+    "meaning": "一致させる",
+    "example": "It is hard to reconcile these two facts.",
+    "example_jp": "この2つの事実を一致させるのは難しい。"
+  },
+  {
+    "word": "reconcile",
+    "meaning": "和解させる",
+    "example": "They were eventually reconciled.",
+    "example_jp": "彼らは最終的に和解した。"
+  },
+  {
+    "word": "contaminate",
+    "meaning": "汚染する",
+    "example": "The chemicals contaminated the water supply.",
+    "example_jp": "化学物質が水道水を汚染した。"
+  },
+  {
+    "word": "contaminate",
+    "meaning": "堕落させる",
+    "example": "Greed can contaminate one's morals.",
+    "example_jp": "強欲は人の道徳を堕落させうる。"
+  },
+  {
+    "word": "disrupt",
+    "meaning": "混乱させる",
+    "example": "The noise disrupted our meeting.",
+    "example_jp": "騒音が会議を混乱させた。"
+  },
+  {
+    "word": "disrupt",
+    "meaning": "分裂させる",
+    "example": "Arguments disrupted the group.",
+    "example_jp": "口論がグループを分裂させた。"
+  },
+  {
+    "word": "divert",
+    "meaning": "そらす",
+    "example": "The joke diverted my attention.",
+    "example_jp": "その冗談が注意をそらした。"
+  },
+  {
+    "word": "divert",
+    "meaning": "迂回させる",
+    "example": "The traffic was diverted due to roadwork.",
+    "example_jp": "道路工事のために交通が迂回させられた。"
+  },
+  {
+    "word": "divert",
+    "meaning": "転用する",
+    "example": "They diverted funds to the school.",
+    "example_jp": "彼らは資金を学校に転用した。"
+  },
+  {
+    "word": "grumble",
+    "meaning": "不平を述べる",
+    "example": "He grumbled about the long wait.",
+    "example_jp": "彼は長い待ち時間について不平を述べた。"
+  },
+  {
+    "word": "provoke",
+    "meaning": "引き起こす",
+    "example": "The decision provoked a strong reaction.",
+    "example_jp": "その決定は強い反発を引き起こした。"
+  },
+  {
+    "word": "provoke",
+    "meaning": "挑発する",
+    "example": "Don't provoke him.",
+    "example_jp": "彼を挑発しないで。"
+  },
+  {
+    "word": "outweigh",
+    "meaning": "価値がある",
+    "example": "The benefits outweigh the risks.",
+    "example_jp": "利益の方がリスクより価値がある。"
+  },
+  {
+    "word": "crave",
+    "meaning": "切望する",
+    "example": "I really crave chocolate right now.",
+    "example_jp": "今、チョコレートを猛烈に切望している。"
+  },
+  {
+    "word": "sustain",
+    "meaning": "持続させる",
+    "example": "The diet was hard to sustain.",
+    "example_jp": "その食事療法を持続させるのは難しかった。"
+  },
+  {
+    "word": "sustain",
+    "meaning": "支える",
+    "example": "These pillars sustain the roof.",
+    "example_jp": "これらの柱が屋根を支えている。"
+  },
+  {
+    "word": "disclose",
+    "meaning": "公表する",
+    "example": "The company disclosed its annual profit.",
+    "example_jp": "会社は年間の利益を公表した。"
+  },
+  {
+    "word": "disclose",
+    "meaning": "暴く",
+    "example": "The report disclosed the truth.",
+    "example_jp": "その報告書は真実を暴いた。"
+  },
+  {
+    "word": "tempt",
+    "meaning": "気にさせる",
+    "example": "The good price tempted me to buy it.",
+    "example_jp": "良い価格だったのでそれを買う気にさせられた。"
+  },
+  {
+    "word": "tempt",
+    "meaning": "引きつける",
+    "example": "The offer was too good to resist.",
+    "example_jp": "その申し出は抗いがたいほど魅力的だった。"
+  },
+  {
+    "word": "resign",
+    "meaning": "辞任する",
+    "example": "The director resigned today.",
+    "example_jp": "理事は今日辞任した。"
+  },
+  {
+    "word": "resign",
+    "meaning": "放棄する",
+    "example": "He resigned his position to his brother.",
+    "example_jp": "彼は自分の地位を弟に譲り渡した。"
+  },
+  {
+    "word": "dismiss",
+    "meaning": "解雇する",
+    "example": "He was dismissed for being late.",
+    "example_jp": "彼は遅刻のために解雇された。"
+  },
+  {
+    "word": "dismiss",
+    "meaning": "退ける",
+    "example": "The judge dismissed the case.",
+    "example_jp": "裁判官はその事件を退けた。"
+  },
+  {
+    "word": "surpass",
+    "meaning": "上回る",
+    "example": "Production surpassed our expectations.",
+    "example_jp": "生産量が我々の予想を上回った。"
+  },
+  {
+    "word": "bounce",
+    "meaning": "跳ねる",
+    "example": "The ball bounced off the wall.",
+    "example_jp": "ボールが壁で跳ねた。"
+  },
+  {
+    "word": "bounce",
+    "meaning": "反射する",
+    "example": "Sound waves bounce off hard surfaces.",
+    "example_jp": "音波は硬い表面で反射する。"
+  },
+  {
+    "word": "bounce",
+    "meaning": "弾ませる",
+    "example": "She bounced the ball to her friend.",
+    "example_jp": "彼女はボールを友人に弾ませて渡した。"
+  },
+  {
+    "word": "bounce",
+    "meaning": "返送される",
+    "example": "The email bounced because the address was wrong.",
+    "example_jp": "アドレスが間違っていたためメールが返送された。"
+  },
+  {
+    "word": "bureau",
+    "meaning": "局",
+    "example": "She works for the federal bureau.",
+    "example_jp": "彼女は連邦局で働いている。"
+  },
+  {
+    "word": "bureau",
+    "meaning": "事務局",
+    "example": "The main bureau is in Tokyo.",
+    "example_jp": "中央事務局は東京にある。"
+  },
+  {
+    "word": "bureau",
+    "meaning": "案内所",
+    "example": "We stopped by the tourist bureau.",
+    "example_jp": "観光案内所に立ち寄った。"
+  },
+  {
+    "word": "dependency",
+    "meaning": "依存",
+    "example": "His dependency on technology is high.",
+    "example_jp": "彼のテクノロジーへの依存度は高い。"
+  },
+  {
+    "word": "dependency",
+    "meaning": "従属",
+    "example": "The country ended its dependency on others.",
+    "example_jp": "その国は他国への従属を終わらせた。"
+  },
+  {
+    "word": "discomfort",
+    "meaning": "不快",
+    "example": "I felt discomfort in the cold.",
+    "example_jp": "寒さで不快を感じた。"
+  },
+  {
+    "word": "discomfort",
+    "meaning": "不便",
+    "example": "Living there caused some discomfort.",
+    "example_jp": "そこに住むことは多少の不便を伴った。"
+  },
+  {
+    "word": "drawback",
+    "meaning": "欠点",
+    "example": "A major drawback is the cost.",
+    "example_jp": "大きな欠点はコストだ。"
+  },
+  {
+    "word": "feast",
+    "meaning": "祝宴",
+    "example": "They held a grand feast.",
+    "example_jp": "彼らは壮大な祝宴を開いた。"
+  },
+  {
+    "word": "feast",
+    "meaning": "大ごちそう",
+    "example": "The table was covered with a feast.",
+    "example_jp": "テーブルは大ごちそうでいっぱいだった。"
+  },
+  {
+    "word": "feast",
+    "meaning": "楽しみ",
+    "example": "The concert was a feast for the ears.",
+    "example_jp": "そのコンサートは耳にとっての楽しみだった。"
+  },
+  {
+    "word": "hydrogen",
+    "meaning": "水素",
+    "example": "Water is made of oxygen and hydrogen.",
+    "example_jp": "水は酸素と水素からできている。"
+  },
+  {
+    "word": "modernization",
+    "meaning": "近代化",
+    "example": "Modernization changed the country.",
+    "example_jp": "近代化がその国を変えた。"
+  },
+  {
+    "word": "objective",
+    "meaning": "目的",
+    "example": "Our main objective is to save money.",
+    "example_jp": "我々の主な目的は節約することだ。"
+  },
+  {
+    "word": "poll",
+    "meaning": "世論調査",
+    "example": "The latest poll shows a change.",
+    "example_jp": "最新の世論調査が変化を示している。"
+  },
+  {
+    "word": "poll",
+    "meaning": "投票",
+    "example": "Go to the poll and vote.",
+    "example_jp": "投票所へ行って投票しよう。"
+  },
+  {
+    "word": "ration",
+    "meaning": "割当",
+    "example": "We received our daily food ration.",
+    "example_jp": "私たちは毎日の食料割当を受け取った。"
+  },
+  {
+    "word": "revenue",
+    "meaning": "歳入",
+    "example": "The government needs more tax revenue.",
+    "example_jp": "政府はより多くの税収が必要だ。"
+  },
+  {
+    "word": "revenue",
+    "meaning": "収益",
+    "example": "Online sales increased the company's revenue.",
+    "example_jp": "オンライン販売が会社の収益を増やした。"
+  },
+  {
+    "word": "scholarship",
+    "meaning": "奨学金",
+    "example": "She won a full scholarship.",
+    "example_jp": "彼女は全額奨学金を獲得した。"
+  },
+  {
+    "word": "scholarship",
+    "meaning": "学識",
+    "example": "He is a man of great scholarship.",
+    "example_jp": "彼は偉大な学識を持つ人だ。"
+  },
+  {
+    "word": "upbringing",
+    "meaning": "養育",
+    "example": "She had a strict upbringing.",
+    "example_jp": "彼女は厳格な養育を受けた。"
+  },
+  {
+    "word": "upbringing",
+    "meaning": "しつけ",
+    "example": "Good upbringing is important.",
+    "example_jp": "良いしつけが大切だ。"
+  },
+  {
+    "word": "compliment",
+    "meaning": "賛辞",
+    "example": "She thanked him for his compliment.",
+    "example_jp": "彼女は彼の賛辞に感謝した。"
+  },
+  {
+    "word": "excerpt",
+    "meaning": "抜粋",
+    "example": "I read an excerpt from the novel.",
+    "example_jp": "小説の抜粋を読んだ。"
+  },
+  {
+    "word": "faith",
+    "meaning": "信仰",
+    "example": "He has a strong faith.",
+    "example_jp": "彼は強い信仰を持っている。"
+  },
+  {
+    "word": "faith",
+    "meaning": "信用",
+    "example": "I have faith in you.",
+    "example_jp": "あなたを信用している。"
+  },
+  {
+    "word": "segment",
+    "meaning": "部分",
+    "example": "This is a small segment of the market.",
+    "example_jp": "これは市場の小さな部分だ。"
+  },
+  {
+    "word": "segment",
+    "meaning": "区分",
+    "example": "The film has different segments.",
+    "example_jp": "その映画には異なる区分がある。"
+  },
+  {
+    "word": "downturn",
+    "meaning": "下降",
+    "example": "The economy is in a downturn.",
+    "example_jp": "経済が下降状態にある。"
+  }
+]

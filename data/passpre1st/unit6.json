@@ -1,0 +1,428 @@
+[
+  {
+    "word": "psychology",
+    "meaning": "心理学",
+    "example": "She is studying child psychology at university.",
+    "example_jp": "彼女は大学で児童心理学を学んでいる。"
+  },
+  {
+    "word": "psychology",
+    "meaning": "心理（状態）",
+    "example": "He doesn't understand the psychology of the team.",
+    "example_jp": "彼はチームの心理（状態）を理解していない。"
+  },
+  {
+    "word": "corporation",
+    "meaning": "（大）企業",
+    "example": "She works for a large corporation.",
+    "example_jp": "彼女は大企業で働いている。"
+  },
+  {
+    "word": "corporation",
+    "meaning": "法人",
+    "example": "The non-profit corporation was established last year.",
+    "example_jp": "その非営利法人は昨年設立された。"
+  },
+  {
+    "word": "ecosystem",
+    "meaning": "生態系",
+    "example": "Pollution can destroy the local ecosystem.",
+    "example_jp": "汚染はその地域の生態系を破壊しかねない。"
+  },
+  {
+    "word": "promotion",
+    "meaning": "昇進",
+    "example": "He got a promotion to manager.",
+    "example_jp": "彼はマネージャーに昇進した。"
+  },
+  {
+    "word": "promotion",
+    "meaning": "促進、販売促進",
+    "example": "The company is running a sales promotion.",
+    "example_jp": "その会社は販売促進キャンペーンを行っている。"
+  },
+  {
+    "word": "administration",
+    "meaning": "管理（部）",
+    "example": "You need to contact the school administration.",
+    "example_jp": "学校の管理部（事務局）に連絡する必要がある。"
+  },
+  {
+    "word": "administration",
+    "meaning": "行政、政府（機関）",
+    "example": "The current administration is focusing on tax reform.",
+    "example_jp": "現政権は税制改革に注力している。"
+  },
+  {
+    "word": "complaint",
+    "meaning": "苦情、不平",
+    "example": "The manager received a customer complaint.",
+    "example_jp": "マネージャーは顧客からの苦情を受けた。"
+  },
+  {
+    "word": "debt",
+    "meaning": "借金，負債",
+    "example": "He is trying to pay off his debts.",
+    "example_jp": "彼は借金を返済しようとしている。"
+  },
+  {
+    "word": "debt",
+    "meaning": "恩義",
+    "example": "I owe a debt of gratitude to my mentor.",
+    "example_jp": "恩師には大変感謝している（恩義がある）。"
+  },
+  {
+    "word": "requirement",
+    "meaning": "必要条件",
+    "example": "Good English is a requirement for this job.",
+    "example_jp": "優れた英語力はこの仕事の必要条件だ。"
+  },
+  {
+    "word": "requirement",
+    "meaning": "必需品",
+    "example": "Safety gear is a requirement for the project.",
+    "example_jp": "安全装備はそのプロジェクトの必需品だ。"
+  },
+  {
+    "word": "workforce",
+    "meaning": "労働人口，総労働力",
+    "example": "The country has a highly skilled workforce.",
+    "example_jp": "その国には高度な技術を持つ労働力がある。"
+  },
+  {
+    "word": "workforce",
+    "meaning": "全従業員（数）",
+    "example": "The company reduced its workforce by ten percent.",
+    "example_jp": "その会社は従業員数を10％削減した。"
+  },
+  {
+    "word": "preference",
+    "meaning": "他より好むこと、好み",
+    "example": "Do you have any preference for lunch?",
+    "example_jp": "昼食の希望（好み）はありますか？"
+  },
+  {
+    "word": "refugee",
+    "meaning": "難民、亡命者",
+    "example": "The country accepted many refugees.",
+    "example_jp": "その国は多くの難民を受け入れた。"
+  },
+  {
+    "word": "inhabitant",
+    "meaning": "居住者、住民",
+    "example": "The island has only a few inhabitants.",
+    "example_jp": "その島には数人の住民しかいない。"
+  },
+  {
+    "word": "subscription",
+    "meaning": "予約購読(料)",
+    "example": "I canceled my magazine subscription.",
+    "example_jp": "雑誌の購読を解約した。"
+  },
+  {
+    "word": "subscription",
+    "meaning": "寄付(金)",
+    "example": "They collected subscriptions for the new building.",
+    "example_jp": "彼らは新しい建物のために寄付金を集めた。"
+  },
+  {
+    "word": "recipient",
+    "meaning": "受け取る人",
+    "example": "She was the recipient of the award.",
+    "example_jp": "彼女はその賞の受賞者（受け取った人）だった。"
+  },
+  {
+    "word": "recipient",
+    "meaning": "（臓器などの）被提供者",
+    "example": "The transplant recipient is recovering well.",
+    "example_jp": "移植の被提供者は順調に回復している。"
+  },
+  {
+    "word": "shift",
+    "meaning": "を変える，移す；変わる；移動する",
+    "example": "The wind shifted to the north.",
+    "example_jp": "風が北向きに変わった。"
+  },
+  {
+    "word": "vessel",
+    "meaning": "船舶",
+    "example": "A large cargo vessel entered the port.",
+    "example_jp": "大きな貨物船が港に入った。"
+  },
+  {
+    "word": "vessel",
+    "meaning": "容器",
+    "example": "Pour the mixture into a clean vessel.",
+    "example_jp": "その混合液を清潔な容器に入れなさい。"
+  },
+  {
+    "word": "vessel",
+    "meaning": "脈管",
+    "example": "Blood flows through the blood vessels.",
+    "example_jp": "血液は血管を通って流れる。"
+  },
+  {
+    "word": "ingredient",
+    "meaning": "材料，成分",
+    "example": "What is the main ingredient of this dish?",
+    "example_jp": "この料理の主な材料は何ですか？"
+  },
+  {
+    "word": "ingredient",
+    "meaning": "（成功の）要因",
+    "example": "Hard work is a key ingredient of success.",
+    "example_jp": "勤勉さは成功の重要な要因だ。"
+  },
+  {
+    "word": "qualified",
+    "meaning": "有能な、資格のある、適任の",
+    "example": "She is highly qualified for the position.",
+    "example_jp": "彼女はその職に非常に適任だ。"
+  },
+  {
+    "word": "widespread",
+    "meaning": "広範囲にわたる；広く普及した",
+    "example": "The news caused widespread panic.",
+    "example_jp": "そのニュースは広範囲にパニックを引き起こした。"
+  },
+  {
+    "word": "alternative",
+    "meaning": "代替の",
+    "example": "We need to find an alternative plan.",
+    "example_jp": "代替案を見つける必要がある。"
+  },
+  {
+    "word": "alternative",
+    "meaning": "どちらか一方の",
+    "example": "You have two alternatives: stay or go.",
+    "example_jp": "選択肢は2つ、留まるか行くかだ。"
+  },
+  {
+    "word": "harsh",
+    "meaning": "厳しい",
+    "example": "He faced harsh criticism from the press.",
+    "example_jp": "彼は報道陣から厳しい批判を浴びた。"
+  },
+  {
+    "word": "harsh",
+    "meaning": "（光・色・味などが）不快な",
+    "example": "The lights were too harsh for my eyes.",
+    "example_jp": "そのライトは私には眩しすぎた（光が不快だった）。"
+  },
+  {
+    "word": "enormous",
+    "meaning": "莫大な，巨大な",
+    "example": "They have an enormous house.",
+    "example_jp": "彼らは巨大な家に住んでいる。"
+  },
+  {
+    "word": "specific",
+    "meaning": "明確な、特定の",
+    "example": "Can you be more specific?",
+    "example_jp": "もっと具体的に言ってもらえますか？"
+  },
+  {
+    "word": "artificial",
+    "meaning": "人工の",
+    "example": "This flower is artificial.",
+    "example_jp": "この花は人工のものだ。"
+  },
+  {
+    "word": "artificial",
+    "meaning": "不自然な",
+    "example": "His smile looked artificial.",
+    "example_jp": "彼の笑顔は不自然に見えた。"
+  },
+  {
+    "word": "toxic",
+    "meaning": "有毒な",
+    "example": "Some household cleaning products are toxic.",
+    "example_jp": "家庭用洗剤には有毒なものもある。"
+  },
+  {
+    "word": "toxic",
+    "meaning": "中毒性の",
+    "example": "They have a toxic relationship.",
+    "example_jp": "彼らは（精神的に）中毒性のある有害な関係にある。"
+  },
+  {
+    "word": "flexible",
+    "meaning": "融通の利く，柔軟な",
+    "example": "Our office hours are flexible.",
+    "example_jp": "私たちの勤務時間は柔軟だ。"
+  },
+  {
+    "word": "latest",
+    "meaning": "最新の、最近の",
+    "example": "This is the latest model.",
+    "example_jp": "これが最新モデルだ。"
+  },
+  {
+    "word": "former",
+    "meaning": "以前の、元の",
+    "example": "She is a former professional athlete.",
+    "example_jp": "彼女は元プロアスリートだ。"
+  },
+  {
+    "word": "capable",
+    "meaning": "能力がある；有能な",
+    "example": "She is a very capable leader.",
+    "example_jp": "彼女は非常に有能なリーダーだ。"
+  },
+  {
+    "word": "practical",
+    "meaning": "実践的な、実際的な",
+    "example": "He has a practical approach to problems.",
+    "example_jp": "彼は問題に対して実践的なアプローチをとる。"
+  },
+  {
+    "word": "mechanical",
+    "meaning": "機械の",
+    "example": "He has a mechanical problem with his car.",
+    "example_jp": "彼の車には機械的な問題がある。"
+  },
+  {
+    "word": "mechanical",
+    "meaning": "機械的な",
+    "example": "He performed the task in a mechanical way.",
+    "example_jp": "彼は機械的にその仕事をこなした。"
+  },
+  {
+    "word": "federal",
+    "meaning": "連邦（政府）の",
+    "example": "The law is a federal matter.",
+    "example_jp": "その法律は連邦の問題だ。"
+  },
+  {
+    "word": "aggressive",
+    "meaning": "攻撃的な",
+    "example": "The dog became aggressive.",
+    "example_jp": "その犬は攻撃的になった。"
+  },
+  {
+    "word": "aggressive",
+    "meaning": "意欲的な",
+    "example": "We have an aggressive sales strategy.",
+    "example_jp": "私たちは意欲的な販売戦略をとっている。"
+  },
+  {
+    "word": "adequate",
+    "meaning": "十分な",
+    "example": "We have adequate supplies for the trip.",
+    "example_jp": "旅行のための十分な備品がある。"
+  },
+  {
+    "word": "adequate",
+    "meaning": "適切な",
+    "example": "He did not give an adequate explanation.",
+    "example_jp": "彼は適切な説明をしなかった。"
+  },
+  {
+    "word": "unexpected",
+    "meaning": "思いがけない，不意の",
+    "example": "The news was totally unexpected.",
+    "example_jp": "そのニュースは全く思いがけないものだった。"
+  },
+  {
+    "word": "attractive",
+    "meaning": "魅力的な",
+    "example": "She has an attractive personality.",
+    "example_jp": "彼女は魅力的な性格をしている。"
+  },
+  {
+    "word": "sufficient",
+    "meaning": "十分な",
+    "example": "There is sufficient food for everyone.",
+    "example_jp": "全員分の十分な食料がある。"
+  },
+  {
+    "word": "costly",
+    "meaning": "費用のかかる、高価な、犠牲[損失、労力]の大きな",
+    "example": "It was a costly mistake.",
+    "example_jp": "それは高くつく（犠牲の大きな）ミスだった。"
+  },
+  {
+    "word": "eventually",
+    "meaning": "ついに(は)、結局(は)",
+    "example": "He eventually agreed with us.",
+    "example_jp": "彼は結局、私たちに同意した。"
+  },
+  {
+    "word": "otherwise",
+    "meaning": "そうでなければ",
+    "example": "Hurry, otherwise you will be late.",
+    "example_jp": "急ぎなさい、そうでなければ遅刻するよ。"
+  },
+  {
+    "word": "otherwise",
+    "meaning": "そのほかの点では",
+    "example": "The car needs repair, but it is otherwise fine.",
+    "example_jp": "その車は修理が必要だが、その他の点では良好だ。"
+  },
+  {
+    "word": "previously",
+    "meaning": "以前に",
+    "example": "I have previously met him.",
+    "example_jp": "以前、彼に会ったことがある。"
+  },
+  {
+    "word": "relatively",
+    "meaning": "比較的(に)、相対的に",
+    "example": "The exam was relatively easy.",
+    "example_jp": "その試験は比較的簡単だった。"
+  },
+  {
+    "word": "consequently",
+    "meaning": "その結果(として)、従って",
+    "example": "He didn't study; consequently, he failed.",
+    "example_jp": "彼は勉強しなかった。その結果、不合格になった。"
+  },
+  {
+    "word": "constantly",
+    "meaning": "絶えず、常に",
+    "example": "Technology is constantly changing.",
+    "example_jp": "技術は絶えず変化している。"
+  },
+  {
+    "word": "typically",
+    "meaning": "通常、概して、典型的に",
+    "example": "We typically eat dinner at seven.",
+    "example_jp": "私たちは通常7時に夕食を食べる。"
+  },
+  {
+    "word": "barely",
+    "meaning": "かろうじて",
+    "example": "I barely made it to the station.",
+    "example_jp": "かろうじて駅に間に合った。"
+  },
+  {
+    "word": "barely",
+    "meaning": "ほとんど～ない",
+    "example": "There was barely any light.",
+    "example_jp": "明かりはほとんどなかった。"
+  },
+  {
+    "word": "despite",
+    "meaning": "～にもかかわらず",
+    "example": "Despite the rain, we went out.",
+    "example_jp": "雨にもかかわらず、私たちは出かけた。"
+  },
+  {
+    "word": "per",
+    "meaning": "～につき、～ごとに",
+    "example": "The cost is ten dollars per person.",
+    "example_jp": "費用は1人につき10ドルだ。"
+  },
+  {
+    "word": "beneath",
+    "meaning": "～の下に[の]",
+    "example": "He hid the letter beneath his pillow.",
+    "example_jp": "彼は手紙を枕の下に隠した。"
+  },
+  {
+    "word": "whereas",
+    "meaning": "～するのに（対し），～する一方",
+    "example": "He likes coffee, whereas she prefers tea.",
+    "example_jp": "彼はコーヒーが好きだが、彼女は紅茶を好む。"
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "word": "plague",
+    "meaning": "疫病",
+    "example": "The plague killed many people in the past.",
+    "example_jp": "過去には疫病が多くの人々の命を奪った。"
+  },
+  {
+    "word": "plague",
+    "meaning": "異常発生",
+    "example": "There was a plague of locusts in the field.",
+    "example_jp": "畑でバッタが異常発生した。"
+  },
+  {
+    "word": "sponsor",
+    "meaning": "資金を提供する",
+    "example": "They sponsored the local sports team.",
+    "example_jp": "彼らは地元のスポーツチームに資金を提供した。"
+  },
+  {
+    "word": "sponsor",
+    "meaning": "後援する",
+    "example": "The company sponsored the charity event.",
+    "example_jp": "その会社はチャリティーイベントを後援した。"
+  },
+  {
+    "word": "honor",
+    "meaning": "賞賛する",
+    "example": "The town honored him for his brave deed.",
+    "example_jp": "町は彼の勇敢な行為に対して彼を賞賛した。"
+  },
+  {
+    "word": "honor",
+    "meaning": "与える",
+    "example": "They honored her with a special award.",
+    "example_jp": "彼らは彼女に特別賞を授与した。"
+  },
+  {
+    "word": "honor",
+    "meaning": "尊敬する",
+    "example": "We honor our ancestors.",
+    "example_jp": "私たちは先祖を尊敬している。"
+  },
+  {
+    "word": "remark",
+    "meaning": "述べる",
+    "example": "He remarked that it was a nice day.",
+    "example_jp": "彼はいい天気だと述べた。"
+  },
+  {
+    "word": "incorporate",
+    "meaning": "取り入れる",
+    "example": "We incorporated his ideas into the plan.",
+    "example_jp": "彼のアイデアを計画に取り入れた。"
+  },
+  {
+    "word": "resolve",
+    "meaning": "解決する",
+    "example": "They resolved the dispute peacefully.",
+    "example_jp": "彼らは紛争を平和的に解決した。"
+  },
+  {
+    "word": "resolve",
+    "meaning": "決意する",
+    "example": "He resolved to study harder.",
+    "example_jp": "彼はもっと一生懸命勉強しようと決意した。"
+  },
+  {
+    "word": "sway",
+    "meaning": "揺れる",
+    "example": "The trees swayed in the wind.",
+    "example_jp": "木々が風に揺れていた。"
+  },
+  {
+    "word": "sway",
+    "meaning": "動揺する",
+    "example": "He was swayed by her emotional speech.",
+    "example_jp": "彼は彼女の感情的な演説に動揺した。"
+  },
+  {
+    "word": "inherit",
+    "meaning": "受け継ぐ",
+    "example": "I inherited this watch from my grandfather.",
+    "example_jp": "この時計は祖父から受け継いだものだ。"
+  },
+  {
+    "word": "inherit",
+    "meaning": "相続する",
+    "example": "She inherited a large sum of money.",
+    "example_jp": "彼女は多額の金を相続した。"
+  },
+  {
+    "word": "pile",
+    "meaning": "大量に積む",
+    "example": "He piled the books on the desk.",
+    "example_jp": "彼は机の上に本を積み重ねた。"
+  },
+  {
+    "word": "renovate",
+    "meaning": "改修する",
+    "example": "They are renovating the old house.",
+    "example_jp": "彼らは古い家を改修している。"
+  },
+  {
+    "word": "maximize",
+    "meaning": "最大限にする",
+    "example": "We want to maximize our efficiency.",
+    "example_jp": "効率を最大限にしたい。"
+  },
+  {
+    "word": "uncover",
+    "meaning": "発掘する",
+    "example": "Archaeologists uncovered ancient artifacts.",
+    "example_jp": "考古学者が古代の遺物を発掘した。"
+  },
+  {
+    "word": "uncover",
+    "meaning": "明るみに出す",
+    "example": "The investigation uncovered the truth.",
+    "example_jp": "捜査によって真実が明るみに出た。"
+  },
+  {
+    "word": "mislead",
+    "meaning": "誤った考えを持たせる",
+    "example": "The advertisement misled the customers.",
+    "example_jp": "その広告は顧客に誤った考えを持たせた。"
+  },
+  {
+    "word": "mislead",
+    "meaning": "欺く",
+    "example": "He tried to mislead the police.",
+    "example_jp": "彼は警察を欺こうとした。"
+  },
+  {
+    "word": "opt",
+    "meaning": "選ぶ",
+    "example": "We opted to take the train.",
+    "example_jp": "私たちは電車で行くことを選んだ。"
+  },
+  {
+    "word": "outnumber",
+    "meaning": "数で勝る",
+    "example": "The students outnumber the teachers here.",
+    "example_jp": "ここでは生徒の数が教師の数を上回っている。"
+  },
+  {
+    "word": "presume",
+    "meaning": "思う",
+    "example": "I presume he will be late.",
+    "example_jp": "彼は遅れるだろうと思う。"
+  },
+  {
+    "word": "presume",
+    "meaning": "推定する",
+    "example": "The fire is presumed to be an accident.",
+    "example_jp": "火災は事故と推定されている。"
+  },
+  {
+    "word": "presume",
+    "meaning": "前提とする",
+    "example": "We presume his consent.",
+    "example_jp": "彼の同意を前提としている。"
+  },
+  {
+    "word": "refine",
+    "meaning": "洗練する",
+    "example": "She is refining her technique.",
+    "example_jp": "彼女は自分の技術を洗練させている。"
+  },
+  {
+    "word": "refine",
+    "meaning": "精製する",
+    "example": "The factory refines oil.",
+    "example_jp": "その工場は石油を精製する。"
+  },
+  {
+    "word": "stir",
+    "meaning": "かき回す",
+    "example": "Stir the soup well.",
+    "example_jp": "スープをよくかき回して。"
+  },
+  {
+    "word": "stir",
+    "meaning": "揺り動かす",
+    "example": "His words stirred my emotions.",
+    "example_jp": "彼の言葉が私の感情を揺り動かした。"
+  },
+  {
+    "word": "strive",
+    "meaning": "懸命に努力する",
+    "example": "We strive for perfection.",
+    "example_jp": "私たちは完璧を目指して懸命に努力している。"
+  },
+  {
+    "word": "thrill",
+    "meaning": "わくわくさせる",
+    "example": "The game thrilled the spectators.",
+    "example_jp": "その試合は観客をわくわくさせた。"
+  },
+  {
+    "word": "tighten",
+    "meaning": "固く締める",
+    "example": "Tighten the screw with this tool.",
+    "example_jp": "この道具でネジを固く締めて。"
+  },
+  {
+    "word": "tighten",
+    "meaning": "強化する",
+    "example": "The government tightened security.",
+    "example_jp": "政府はセキュリティを強化した。"
+  },
+  {
+    "word": "arouse",
+    "meaning": "引き起こす",
+    "example": "The issue aroused great interest.",
+    "example_jp": "その問題は大きな関心を引き起こした。"
+  },
+  {
+    "word": "arouse",
+    "meaning": "目覚めさせる",
+    "example": "The noise aroused her from sleep.",
+    "example_jp": "騒音が彼女を眠りから目覚めさせた。"
+  },
+  {
+    "word": "buzz",
+    "meaning": "ざわつく",
+    "example": "The room buzzed with excitement.",
+    "example_jp": "部屋は興奮でざわついていた。"
+  },
+  {
+    "word": "converge",
+    "meaning": "集まる",
+    "example": "People converged on the square.",
+    "example_jp": "人々が広場に集まった。"
+  },
+  {
+    "word": "deduct",
+    "meaning": "控除する",
+    "example": "They will deduct the tax from your salary.",
+    "example_jp": "給料から税金が控除される。"
+  },
+  {
+    "word": "disconnect",
+    "meaning": "接続を切る",
+    "example": "Please disconnect the machine after use.",
+    "example_jp": "使用後は機械の接続を切ってください。"
+  },
+  {
+    "word": "gossip",
+    "meaning": "うわさ話をする",
+    "example": "They were gossiping about her.",
+    "example_jp": "彼らは彼女のうわさ話をしていた。"
+  },
+  {
+    "word": "wander",
+    "meaning": "歩き回る",
+    "example": "We wandered through the park.",
+    "example_jp": "私たちは公園を歩き回った。"
+  },
+  {
+    "word": "suck",
+    "meaning": "吸う",
+    "example": "The baby is sucking its thumb.",
+    "example_jp": "赤ちゃんが親指を吸っている。"
+  },
+  {
+    "word": "dye",
+    "meaning": "染める",
+    "example": "She dyed her hair black.",
+    "example_jp": "彼女は髪を黒く染めた。"
+  },
+  {
+    "word": "trespass",
+    "meaning": "侵入する",
+    "example": "You are trespassing on private property.",
+    "example_jp": "あなたは私有地に不法侵入している。"
+  },
+  {
+    "word": "graze",
+    "meaning": "牧草を食べる",
+    "example": "Cows graze in the field.",
+    "example_jp": "牛が牧草地で牧草を食べている。"
+  },
+  {
+    "word": "entrust",
+    "meaning": "任せる",
+    "example": "I entrusted the project to him.",
+    "example_jp": "そのプロジェクトを彼に任せた。"
+  },
+  {
+    "word": "peer",
+    "meaning": "同僚",
+    "example": "He is respected by his peers.",
+    "example_jp": "彼は同僚から尊敬されている。"
+  },
+  {
+    "word": "molecule",
+    "meaning": "分子",
+    "example": "A water molecule is made of hydrogen and oxygen.",
+    "example_jp": "水分子は水素と酸素からできている。"
+  },
+  {
+    "word": "meantime",
+    "meaning": "その間",
+    "example": "I will cook in the meantime.",
+    "example_jp": "その間に料理を作っておくよ。"
+  },
+  {
+    "word": "merit",
+    "meaning": "価値",
+    "example": "The plan has some merit.",
+    "example_jp": "その計画にはいくらか価値がある。"
+  },
+  {
+    "word": "merit",
+    "meaning": "長所",
+    "example": "We should consider the merits of the proposal.",
+    "example_jp": "その提案の長所を考慮すべきだ。"
+  },
+  {
+    "word": "prospect",
+    "meaning": "見込み",
+    "example": "There is little prospect of success.",
+    "example_jp": "成功の見込みはほとんどない。"
+  },
+  {
+    "word": "chatter",
+    "meaning": "くだらないおしゃべり",
+    "example": "They stopped their chatter when the teacher entered.",
+    "example_jp": "先生が入ってくると彼らはくだらないおしゃべりをやめた。"
+  },
+  {
+    "word": "funeral",
+    "meaning": "葬式",
+    "example": "They attended the funeral.",
+    "example_jp": "彼らは葬式に参列した。"
+  },
+  {
+    "word": "methodology",
+    "meaning": "方法論",
+    "example": "She explained her research methodology.",
+    "example_jp": "彼女は自分の研究方法論を説明した。"
+  },
+  {
+    "word": "bundle",
+    "meaning": "束",
+    "example": "He carried a bundle of newspapers.",
+    "example_jp": "彼は新聞の束を運んだ。"
+  },
+  {
+    "word": "burglar",
+    "meaning": "強盗",
+    "example": "A burglar broke into the house.",
+    "example_jp": "強盗が家に押し入った。"
+  },
+  {
+    "word": "canyon",
+    "meaning": "峡谷",
+    "example": "They hiked through the deep canyon.",
+    "example_jp": "彼らは深い峡谷をハイキングした。"
+  },
+  {
+    "word": "duration",
+    "meaning": "持続時間",
+    "example": "The duration of the flight is six hours.",
+    "example_jp": "フライトの持続時間は6時間だ。"
+  },
+  {
+    "word": "fountain",
+    "meaning": "噴水",
+    "example": "Children are playing in the fountain.",
+    "example_jp": "子供たちが噴水で遊んでいる。"
+  },
+  {
+    "word": "genius",
+    "meaning": "天才",
+    "example": "She is a genius at mathematics.",
+    "example_jp": "彼女は数学の天才だ。"
+  },
+  {
+    "word": "grassland",
+    "meaning": "草原",
+    "example": "Zebras live in the grassland.",
+    "example_jp": "シマウマは草原に住んでいる。"
+  },
+  {
+    "word": "interval",
+    "meaning": "間隔",
+    "example": "The trains run at ten-minute intervals.",
+    "example_jp": "電車は10分間隔で走っている。"
+  },
+  {
+    "word": "longevity",
+    "meaning": "長寿",
+    "example": "A healthy diet contributes to longevity.",
+    "example_jp": "健康的な食生活が長寿に寄与する。"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "word": "kick A out (of B)",
+    "meaning": "(Bから)Aを追い出す",
+    "example": "The manager kicked him out of the office.",
+    "example_jp": "マネージャーは彼をオフィスから追い出した。"
+  },
+  {
+    "word": "knock down",
+    "meaning": "～を取り壊す",
+    "example": "They are going to knock down the old building.",
+    "example_jp": "彼らはその古い建物を取り壊すつもりだ。"
+  },
+  {
+    "word": "lay into",
+    "meaning": "～を厳しく非難する",
+    "example": "She laid into him for being late.",
+    "example_jp": "彼女は遅刻した彼を厳しく非難した。"
+  },
+  {
+    "word": "lay off",
+    "meaning": "～を解雇する",
+    "example": "The company had to lay off many workers.",
+    "example_jp": "会社は多くの従業員を解雇しなければならなかった。"
+  },
+  {
+    "word": "leave off",
+    "meaning": "やめる",
+    "example": "Let's leave off where we stopped yesterday.",
+    "example_jp": "昨日やめたところから続けよう。"
+  },
+  {
+    "word": "let alone",
+    "meaning": "まして～",
+    "example": "He can't run, let alone play football.",
+    "example_jp": "彼はサッカーどころか、走ることもできない。"
+  },
+  {
+    "word": "let down",
+    "meaning": "～を失望させる",
+    "example": "I don't want to let you down.",
+    "example_jp": "君を失望させたくないんだ。"
+  },
+  {
+    "word": "let out",
+    "meaning": "～を外に出す",
+    "example": "Please let the cat out.",
+    "example_jp": "猫を外に出してあげて。"
+  },
+  {
+    "word": "let up",
+    "meaning": "弱まる",
+    "example": "The rain didn't let up all day.",
+    "example_jp": "雨は一日中弱まらなかった。"
+  },
+  {
+    "word": "level off",
+    "meaning": "横ばいになる",
+    "example": "Inflation has begun to level off.",
+    "example_jp": "インフレは横ばいになり始めている。"
+  },
+  {
+    "word": "lift off",
+    "meaning": "離陸する",
+    "example": "The space shuttle lifted off on time.",
+    "example_jp": "スペースシャトルは時間通りに離陸した。"
+  },
+  {
+    "word": "live up to",
+    "meaning": "～に応える",
+    "example": "He lived up to his parents' expectations.",
+    "example_jp": "彼は両親の期待に応えた。"
+  },
+  {
+    "word": "lock in",
+    "meaning": "～を固定する",
+    "example": "We locked in a low interest rate.",
+    "example_jp": "私たちは低い金利を固定した。"
+  },
+  {
+    "word": "look down on",
+    "meaning": "～を見下す",
+    "example": "Don't look down on people who have less.",
+    "example_jp": "恵まれない人たちを見下してはいけない。"
+  },
+  {
+    "word": "make (both) ends meet",
+    "meaning": "何とかやりくりする",
+    "example": "It's hard to make ends meet with this salary.",
+    "example_jp": "この給料で何とかやりくりするのは難しい。"
+  },
+  {
+    "word": "make do with",
+    "meaning": "～で済ます",
+    "example": "We had to make do with what we had.",
+    "example_jp": "私たちはあり合わせのもので済まさなければならなかった。"
+  },
+  {
+    "word": "make it",
+    "meaning": "間に合う",
+    "example": "I don't think we can make it to the train on time.",
+    "example_jp": "時間通りに電車に間に合うとは思えない。"
+  },
+  {
+    "word": "make out",
+    "meaning": "～を理解する",
+    "example": "I can't make out what he is saying.",
+    "example_jp": "彼が何を言っているのか理解できない。"
+  },
+  {
+    "word": "make over",
+    "meaning": "～を作り変える",
+    "example": "She made over her old dress.",
+    "example_jp": "彼女は古いドレスを作り変えた。"
+  },
+  {
+    "word": "mark down",
+    "meaning": "～を値下げする",
+    "example": "The shop marked down the winter clothes.",
+    "example_jp": "その店は冬服を値下げした。"
+  },
+  {
+    "word": "mark out",
+    "meaning": "～を区切る",
+    "example": "They marked out the tennis court.",
+    "example_jp": "彼らはテニスコートを線で区切った。"
+  },
+  {
+    "word": "miss out on",
+    "meaning": "～を逸する",
+    "example": "I missed out on a great opportunity.",
+    "example_jp": "素晴らしい機会を逸してしまった。"
+  },
+  {
+    "word": "narrow down",
+    "meaning": "～を狭くする",
+    "example": "We narrowed down the list of candidates.",
+    "example_jp": "候補者のリストを絞り込んだ。"
+  },
+  {
+    "word": "on a ～ basis",
+    "meaning": "～の基準で",
+    "example": "We meet on a weekly basis.",
+    "example_jp": "私たちは毎週の基準で会っている。"
+  },
+  {
+    "word": "on behalf of",
+    "meaning": "～を代表して",
+    "example": "I am speaking on behalf of the committee.",
+    "example_jp": "委員会を代表して話しています。"
+  },
+  {
+    "word": "on the contrary",
+    "meaning": "それどころか",
+    "example": "It's not cold; on the contrary, it's quite warm.",
+    "example_jp": "寒くはない、それどころかかなり暖かい。"
+  },
+  {
+    "word": "on the spot",
+    "meaning": "その場で",
+    "example": "The police made an arrest on the spot.",
+    "example_jp": "警察はその場で逮捕した。"
+  },
+  {
+    "word": "on the verge of",
+    "meaning": "～の寸前で",
+    "example": "He was on the verge of crying.",
+    "example_jp": "彼は泣く寸前だった。"
+  },
+  {
+    "word": "over the hump",
+    "meaning": "難局を脱して",
+    "example": "We are over the hump now.",
+    "example_jp": "私たちは今、難局を脱したところだ。"
+  },
+  {
+    "word": "owing to",
+    "meaning": "～のために",
+    "example": "Owing to the rain, the game was canceled.",
+    "example_jp": "雨のために、試合は中止になった。"
+  },
+  {
+    "word": "pack up",
+    "meaning": "荷造りする",
+    "example": "It's time to pack up and go home.",
+    "example_jp": "もう荷造りをして帰る時間だ。"
+  },
+  {
+    "word": "pass for",
+    "meaning": "～で通る",
+    "example": "His accent is so good he could pass for a native.",
+    "example_jp": "彼のなまりはとても良いので、ネイティブで通るだろう。"
+  },
+  {
+    "word": "pass off",
+    "meaning": "AをBだと偽る",
+    "example": "He tried to pass off the fake as a real one.",
+    "example_jp": "彼は偽物を本物だと偽ろうとした。"
+  },
+  {
+    "word": "pass on",
+    "meaning": "～を伝える",
+    "example": "Please pass the information on to your team.",
+    "example_jp": "その情報をチームに伝えてください。"
+  },
+  {
+    "word": "pass out",
+    "meaning": "気絶する",
+    "example": "The heat was so intense that she passed out.",
+    "example_jp": "暑さがひどすぎて、彼女は気絶した。"
+  },
+  {
+    "word": "pay off",
+    "meaning": "～を全部支払う",
+    "example": "He finally paid off his debt.",
+    "example_jp": "彼はついに借金を完済した。"
+  },
+  {
+    "word": "phase out",
+    "meaning": "～を段階的に廃止する",
+    "example": "They will phase out the old system.",
+    "example_jp": "彼らは古いシステムを段階的に廃止するだろう。"
+  },
+  {
+    "word": "pick over",
+    "meaning": "～を吟味する",
+    "example": "She picked over the remaining items.",
+    "example_jp": "彼女は残りの品物を念入りに吟味した。"
+  },
+  {
+    "word": "pick through",
+    "meaning": "～の中をくまなく探す",
+    "example": "They picked through the rubble for survivors.",
+    "example_jp": "彼らは生存者を求めて瓦礫の中をくまなく探した。"
+  },
+  {
+    "word": "pile up",
+    "meaning": "～がどんどんたまる",
+    "example": "Work began to pile up on his desk.",
+    "example_jp": "仕事が机にどんどんたまっていった。"
+  },
+  {
+    "word": "pin down",
+    "meaning": "～を押さえつける",
+    "example": "He pinned him down to the floor.",
+    "example_jp": "彼は彼を床に押さえつけた。"
+  },
+  {
+    "word": "play down",
+    "meaning": "～を重要でないように見せる",
+    "example": "The company played down the seriousness of the issue.",
+    "example_jp": "会社はその問題の重大さを重要でないように見せた。"
+  },
+  {
+    "word": "play out",
+    "meaning": "展開する",
+    "example": "Let's wait and see how the situation plays out.",
+    "example_jp": "状況がどう展開するか待って見よう。"
+  },
+  {
+    "word": "play up",
+    "meaning": "～を強調する",
+    "example": "The article played up his successes.",
+    "example_jp": "その記事は彼の成功を強調した。"
+  },
+  {
+    "word": "point to",
+    "meaning": "～を示す",
+    "example": "The evidence points to his guilt.",
+    "example_jp": "その証拠は彼の有罪を示している。"
+  },
+  {
+    "word": "pull back",
+    "meaning": "後退する",
+    "example": "The troops pulled back.",
+    "example_jp": "軍隊は後退した。"
+  },
+  {
+    "word": "pull in",
+    "meaning": "～を引きつける",
+    "example": "The show pulled in thousands of visitors.",
+    "example_jp": "そのショーは何千人もの客を引きつけた。"
+  },
+  {
+    "word": "pull off",
+    "meaning": "～をやってのける",
+    "example": "It was difficult, but we pulled it off.",
+    "example_jp": "難しかったが、我々はやってのけた。"
+  },
+  {
+    "word": "pull through",
+    "meaning": "～を切り抜ける",
+    "example": "He pulled through a difficult operation.",
+    "example_jp": "彼は困難な手術を切り抜けた。"
+  },
+  {
+    "word": "push for",
+    "meaning": "～を要求する",
+    "example": "The workers are pushing for higher pay.",
+    "example_jp": "労働者たちは賃上げを要求している。"
+  }
+]

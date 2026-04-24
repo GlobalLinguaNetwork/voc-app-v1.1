@@ -1,0 +1,302 @@
+[
+  {
+    "word": "push through",
+    "meaning": "議案などを通す",
+    "example": "The government pushed through the new law.",
+    "example_jp": "政府はその新しい法律を通した。"
+  },
+  {
+    "word": "put down",
+    "meaning": "金額を手付金として払う",
+    "example": "We put down a deposit for the house.",
+    "example_jp": "私たちはその家の手付金を払った。"
+  },
+  {
+    "word": "put forth",
+    "meaning": "力を発揮する",
+    "example": "He put forth all his strength to win.",
+    "example_jp": "彼は勝つために持てる力のすべてを発揮した。"
+  },
+  {
+    "word": "put toward",
+    "meaning": "提案する",
+    "example": "She put toward a new idea for the project.",
+    "example_jp": "彼女はプロジェクトに対して新しいアイデアを提案した。"
+  },
+  {
+    "word": "put in",
+    "meaning": "設備などを備え付ける",
+    "example": "They put in a new air conditioning system.",
+    "example_jp": "彼らは新しい空調システムを備え付けた。"
+  },
+  {
+    "word": "put A through (to B)",
+    "meaning": "Aの電話をBにつなぐ",
+    "example": "Could you put me through to the manager?",
+    "example_jp": "マネージャーに電話をつないでいただけますか？"
+  },
+  {
+    "word": "read off",
+    "meaning": "リストなどを読み上げる",
+    "example": "He read off the names of the winners.",
+    "example_jp": "彼は当選者の名前を読み上げた。"
+  },
+  {
+    "word": "refrain from doing",
+    "meaning": "～するのを控える",
+    "example": "Please refrain from talking in the library.",
+    "example_jp": "図書館での会話は控えてください。"
+  },
+  {
+    "word": "regardless of",
+    "meaning": "～にかかわらず",
+    "example": "The bus runs regardless of the weather.",
+    "example_jp": "バスは天候にかかわらず運行する。"
+  },
+  {
+    "word": "roll in",
+    "meaning": "どっと集まる",
+    "example": "Donations began to roll in after the news.",
+    "example_jp": "ニュースの後、寄付金がどっと集まり始めた。"
+  },
+  {
+    "word": "roll up",
+    "meaning": "くるくると巻く",
+    "example": "Roll up the rug before cleaning.",
+    "example_jp": "掃除の前にラグをくるくると巻いて。"
+  },
+  {
+    "word": "round off",
+    "meaning": "締めくくる",
+    "example": "The singer rounded off the show with a hit song.",
+    "example_jp": "歌手はヒット曲でショーを締めくくった。"
+  },
+  {
+    "word": "round up",
+    "meaning": "散らばった人を集める",
+    "example": "The police rounded up the suspects.",
+    "example_jp": "警察が容疑者たちを集めた。"
+  },
+  {
+    "word": "rule out",
+    "meaning": "除外する",
+    "example": "We can't rule out the possibility of an accident.",
+    "example_jp": "事故の可能性を除外することはできない。"
+  },
+  {
+    "word": "run against",
+    "meaning": "～に不利になる",
+    "example": "Time is running against us.",
+    "example_jp": "時間が我々に不利になっている。"
+  },
+  {
+    "word": "run down",
+    "meaning": "車がひく",
+    "example": "The child was run down by a truck.",
+    "example_jp": "その子供はトラックにひかれた。"
+  },
+  {
+    "word": "run through",
+    "meaning": "ざっと目を通す",
+    "example": "I will run through the report later.",
+    "example_jp": "後で報告書にざっと目を通すつもりだ。"
+  },
+  {
+    "word": "scoop up",
+    "meaning": "すくい上げる",
+    "example": "She scooped up the water with her hands.",
+    "example_jp": "彼女は手で水をすくい上げた。"
+  },
+  {
+    "word": "scratch out",
+    "meaning": "削除する",
+    "example": "Scratch out the mistakes in the document.",
+    "example_jp": "書類の誤りを線で消して削除して。"
+  },
+  {
+    "word": "see about",
+    "meaning": "手配する",
+    "example": "I'll see about a hotel for you.",
+    "example_jp": "君のためにホテルを手配するよ。"
+  },
+  {
+    "word": "see A off",
+    "meaning": "Aを見送る",
+    "example": "We went to the airport to see him off.",
+    "example_jp": "彼を見送るために空港に行った。"
+  },
+  {
+    "word": "see through",
+    "meaning": "見抜く",
+    "example": "I could see through his lies.",
+    "example_jp": "彼の嘘を見抜くことができた。"
+  },
+  {
+    "word": "sell out",
+    "meaning": "売り切れる",
+    "example": "The tickets sold out in minutes.",
+    "example_jp": "チケットは数分で売り切れた。"
+  },
+  {
+    "word": "send for",
+    "meaning": "呼ぶ",
+    "example": "We should send for a doctor immediately.",
+    "example_jp": "すぐに医者を呼ぶべきだ。"
+  },
+  {
+    "word": "send out for",
+    "meaning": "出前を頼む",
+    "example": "Let's send out for some pizza.",
+    "example_jp": "ピザの出前を頼もう。"
+  },
+  {
+    "word": "set aside",
+    "meaning": "とっておく",
+    "example": "Set aside some time for your hobby.",
+    "example_jp": "趣味のためにいくらか時間をとっておいて。"
+  },
+  {
+    "word": "set down",
+    "meaning": "書き留める",
+    "example": "She set down her thoughts in a notebook.",
+    "example_jp": "彼女は考えをノートに書き留めた。"
+  },
+  {
+    "word": "set in",
+    "meaning": "始まる",
+    "example": "Winter has set in early this year.",
+    "example_jp": "今年は冬が早く始まった。"
+  },
+  {
+    "word": "set off",
+    "meaning": "出発する",
+    "example": "We set off early in the morning.",
+    "example_jp": "私たちは朝早くに出発した。"
+  },
+  {
+    "word": "set out to do",
+    "meaning": "し始める",
+    "example": "He set out to change the world.",
+    "example_jp": "彼は世界を変えようとし始めた。"
+  },
+  {
+    "word": "set up",
+    "meaning": "準備する",
+    "example": "We need to set up the stage for the performance.",
+    "example_jp": "公演のためにステージを準備する必要がある。"
+  },
+  {
+    "word": "settle down",
+    "meaning": "落ち着く",
+    "example": "It took him a while to settle down.",
+    "example_jp": "彼が落ち着くまでに少し時間がかかった。"
+  },
+  {
+    "word": "settle up (with)",
+    "meaning": "精算する",
+    "example": "Let's settle up with the waiter.",
+    "example_jp": "ウェイターと勘定を精算しよう。"
+  },
+  {
+    "word": "shake up",
+    "meaning": "刷新する",
+    "example": "The new manager plans to shake up the company.",
+    "example_jp": "新しいマネージャーは会社を刷新する計画だ。"
+  },
+  {
+    "word": "show off",
+    "meaning": "見せびらかす",
+    "example": "He likes to show off his new car.",
+    "example_jp": "彼は新しい車を見せびらかしたがる。"
+  },
+  {
+    "word": "show up",
+    "meaning": "現れる",
+    "example": "He didn't show up for the meeting.",
+    "example_jp": "彼は会議に現れなかった。"
+  },
+  {
+    "word": "sign up for",
+    "meaning": "～に参加する",
+    "example": "I signed up for a French course.",
+    "example_jp": "フランス語のコースに参加登録した。"
+  },
+  {
+    "word": "single out",
+    "meaning": "選び出す",
+    "example": "They singled out her work for praise.",
+    "example_jp": "彼らは彼女の作品を特に選び出して褒めた。"
+  },
+  {
+    "word": "sink in",
+    "meaning": "十分に理解される",
+    "example": "The bad news took time to sink in.",
+    "example_jp": "悪いニュースが理解される（実感がわく）まで時間がかかった。"
+  },
+  {
+    "word": "sit back",
+    "meaning": "くつろぐ",
+    "example": "Sit back and enjoy the show.",
+    "example_jp": "くつろいでショーを楽しんで。"
+  },
+  {
+    "word": "sit by",
+    "meaning": "黙って見ている",
+    "example": "I cannot sit by and watch this happen.",
+    "example_jp": "これが起こるのを黙って見ていることはできない。"
+  },
+  {
+    "word": "sit in",
+    "meaning": "参加する",
+    "example": "Can I sit in on your class?",
+    "example_jp": "あなたの授業に参加（見学）させてもらえますか？"
+  },
+  {
+    "word": "skim over",
+    "meaning": "ざっと見る",
+    "example": "I skimmed over the news headlines.",
+    "example_jp": "ニュースの見出しをざっと見た。"
+  },
+  {
+    "word": "slip by",
+    "meaning": "いつの間にか過ぎる",
+    "example": "The years just slipped by.",
+    "example_jp": "月日がいつの間にか過ぎ去った。"
+  },
+  {
+    "word": "smooth over",
+    "meaning": "処理しやすくする",
+    "example": "He tried to smooth over the disagreement.",
+    "example_jp": "彼は不一致を処理しやすく（円滑に）しようとした。"
+  },
+  {
+    "word": "speak for",
+    "meaning": "代弁する",
+    "example": "I can only speak for myself.",
+    "example_jp": "自分自身のことについてしか代弁できない。"
+  },
+  {
+    "word": "split up",
+    "meaning": "別れる",
+    "example": "They decided to split up after five years.",
+    "example_jp": "彼らは5年後に別れることに決めた。"
+  },
+  {
+    "word": "spring from",
+    "meaning": "～から生じる",
+    "example": "His fear springs from his past.",
+    "example_jp": "彼の恐怖は過去から生じている。"
+  },
+  {
+    "word": "spring up",
+    "meaning": "急に生まれる",
+    "example": "New stores are springing up everywhere.",
+    "example_jp": "新しい店がいたるところに急に生まれている。"
+  },
+  {
+    "word": "stand down",
+    "meaning": "辞任する",
+    "example": "He stood down as the party leader.",
+    "example_jp": "彼は党のリーダーを辞任した。"
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "word": "post",
+    "meaning": "(インターネットで)(情報・メッセージ)を投稿する",
+    "example": "I posted a photo on social media.",
+    "example_jp": "SNSに写真を投稿した。"
+  },
+  {
+    "word": "post",
+    "meaning": "(ビラなど)を張る",
+    "example": "They posted a notice on the wall.",
+    "example_jp": "彼らは壁に通知を張り出した。"
+  },
+  {
+    "word": "reject",
+    "meaning": "を拒否する",
+    "example": "The manager rejected my application.",
+    "example_jp": "マネージャーは私の申請を拒否した。"
+  },
+  {
+    "word": "consult",
+    "meaning": "に相談する",
+    "example": "You should consult a doctor about your pain.",
+    "example_jp": "痛みについて医師に相談すべきだ。"
+  },
+  {
+    "word": "consult",
+    "meaning": "を参照する",
+    "example": "Consult the map for the best route.",
+    "example_jp": "最適なルートについては地図を参照してください。"
+  },
+  {
+    "word": "obey",
+    "meaning": "に従う、に服従する",
+    "example": "Drivers must obey the traffic rules.",
+    "example_jp": "運転手は交通ルールに従わなければならない。"
+  },
+  {
+    "word": "engage",
+    "meaning": "を従事させる",
+    "example": "The teacher engaged the students in the lesson.",
+    "example_jp": "先生は生徒を授業に従事させた。"
+  },
+  {
+    "word": "engage",
+    "meaning": "を（～として）雇う",
+    "example": "They engaged a new accountant.",
+    "example_jp": "彼らは新しい会計士を雇った。"
+  },
+  {
+    "word": "engage",
+    "meaning": "（～に）従事する",
+    "example": "He is engaged in scientific research.",
+    "example_jp": "彼は科学研究に従事している。"
+  },
+  {
+    "word": "restore",
+    "meaning": "を回復させる",
+    "example": "This medicine helped restore my health.",
+    "example_jp": "この薬が私の健康回復の助けとなった。"
+  },
+  {
+    "word": "restore",
+    "meaning": "を修復する",
+    "example": "They restored the old castle.",
+    "example_jp": "彼らは古い城を修復した。"
+  },
+  {
+    "word": "colonize",
+    "meaning": "を植民地化する、を入植させる",
+    "example": "The country colonized the island centuries ago.",
+    "example_jp": "その国は何世紀も前にその島を植民地化した。"
+  },
+  {
+    "word": "interact",
+    "meaning": "影響し合う、相互に作用する",
+    "example": "The two chemicals interact with each other.",
+    "example_jp": "その2つの化学物質は相互に作用する。"
+  },
+  {
+    "word": "inspire",
+    "meaning": "（人）を奮起させる",
+    "example": "Her speech inspired me to work harder.",
+    "example_jp": "彼女のスピーチは私をもっと頑張ろうという気にさせた。"
+  },
+  {
+    "word": "inspire",
+    "meaning": "を喚起する",
+    "example": "The sight inspired fear in the crowd.",
+    "example_jp": "その光景は群衆に恐怖を喚起した。"
+  },
+  {
+    "word": "sue",
+    "meaning": "を告訴する、訴訟を起こす",
+    "example": "He decided to sue the company for damages.",
+    "example_jp": "彼は損害賠償を求めて会社を訴えることにした。"
+  },
+  {
+    "word": "estimate",
+    "meaning": "～と推定する、を見積もる",
+    "example": "I estimate that we need five more days.",
+    "example_jp": "あと5日必要だと見積もっている。"
+  },
+  {
+    "word": "strengthen",
+    "meaning": "を(より)強くする",
+    "example": "This exercise strengthens your back muscles.",
+    "example_jp": "この運動は背中の筋肉を強くする。"
+  },
+  {
+    "word": "carve",
+    "meaning": "を彫る",
+    "example": "He carved his name into the tree.",
+    "example_jp": "彼は木に自分の名前を彫った。"
+  },
+  {
+    "word": "carve",
+    "meaning": "を切り開く",
+    "example": "She carved a path through the dense forest.",
+    "example_jp": "彼女は深い森の中に道（小道）を切り開いた。"
+  },
+  {
+    "word": "carve",
+    "meaning": "（肉）を切り分ける",
+    "example": "He carved the turkey for dinner.",
+    "example_jp": "彼は夕食のために七面鳥を切り分けた。"
+  },
+  {
+    "word": "convince",
+    "meaning": "を納得［確信］させる",
+    "example": "She convinced me that the plan would work.",
+    "example_jp": "彼女は私にその計画がうまくいくと確信させた。"
+  },
+  {
+    "word": "propose",
+    "meaning": "を提案する",
+    "example": "He proposed a new way to solve the problem.",
+    "example_jp": "彼は問題を解決するための新しい方法を提案した。"
+  },
+  {
+    "word": "propose",
+    "meaning": "をもくろむ",
+    "example": "They propose to open a new office next month.",
+    "example_jp": "彼らは来月新しいオフィスを開くことを計画している。"
+  },
+  {
+    "word": "propose",
+    "meaning": "結婚を申し込む",
+    "example": "He proposed to her yesterday.",
+    "example_jp": "彼は昨日、彼女にプロポーズした。"
+  },
+  {
+    "word": "blame",
+    "meaning": "を責める、の責任を負わせる",
+    "example": "Don't blame others for your mistakes.",
+    "example_jp": "自分の間違いを他人のせいにしないで。"
+  },
+  {
+    "word": "collapse",
+    "meaning": "崩壊する",
+    "example": "The bridge collapsed after the earthquake.",
+    "example_jp": "地震の後、橋が崩壊した。"
+  },
+  {
+    "word": "collapse",
+    "meaning": "（人が）倒れる",
+    "example": "He collapsed from exhaustion.",
+    "example_jp": "彼は疲労で倒れた。"
+  },
+  {
+    "word": "collapse",
+    "meaning": "を折り畳む",
+    "example": "The chair collapses for easy storage.",
+    "example_jp": "その椅子は簡単に収納できるように折り畳める。"
+  },
+  {
+    "word": "import",
+    "meaning": "を輸入する",
+    "example": "Japan imports most of its oil.",
+    "example_jp": "日本は石油の大半を輸入している。"
+  },
+  {
+    "word": "import",
+    "meaning": "を取り込む",
+    "example": "I imported the photos into my computer.",
+    "example_jp": "コンピュータに写真を取り込んだ。"
+  },
+  {
+    "word": "load",
+    "meaning": "に積む",
+    "example": "They loaded the truck with boxes.",
+    "example_jp": "彼らはトラックに箱を積み込んだ。"
+  },
+  {
+    "word": "load",
+    "meaning": "に負わせる",
+    "example": "She is loaded with too much work.",
+    "example_jp": "彼女は仕事に追われている（負わされている）。"
+  },
+  {
+    "word": "pollute",
+    "meaning": "を汚染する",
+    "example": "Factories pollute the air with smoke.",
+    "example_jp": "工場は煙で空気を汚染している。"
+  },
+  {
+    "word": "spot",
+    "meaning": "(特定の)場所",
+    "example": "This is a perfect spot for a picnic.",
+    "example_jp": "ここはピクニックに最適な場所だ。"
+  },
+  {
+    "word": "spot",
+    "meaning": "斑点、しみ",
+    "example": "I noticed a small spot on my shirt.",
+    "example_jp": "シャツに小さなシミがあることに気づいた。"
+  },
+  {
+    "word": "prescription",
+    "meaning": "処方箋、処方",
+    "example": "The doctor gave me a prescription for the medicine.",
+    "example_jp": "医者がその薬の処方箋をくれた。"
+  },
+  {
+    "word": "duty",
+    "meaning": "義務",
+    "example": "It is my duty to protect my family.",
+    "example_jp": "家族を守ることは私の義務だ。"
+  },
+  {
+    "word": "duty",
+    "meaning": "職務",
+    "example": "He is on duty tonight.",
+    "example_jp": "彼は今夜、勤務（職務）中だ。"
+  },
+  {
+    "word": "duty",
+    "meaning": "関税",
+    "example": "You have to pay duty on these goods.",
+    "example_jp": "これらの商品に関税を払わなければならない。"
+  },
+  {
+    "word": "union",
+    "meaning": "組合、団結",
+    "example": "The workers formed a union to protect their rights.",
+    "example_jp": "労働者は権利を守るために組合を結成した。"
+  },
+  {
+    "word": "union",
+    "meaning": "統合",
+    "example": "The union of the two companies created a giant firm.",
+    "example_jp": "2社の統合で巨大企業が誕生した。"
+  },
+  {
+    "word": "concept",
+    "meaning": "概念",
+    "example": "I don't understand the concept of time travel.",
+    "example_jp": "タイムトラベルという概念が理解できない。"
+  },
+  {
+    "word": "root",
+    "meaning": "根本、源",
+    "example": "Jealousy is at the root of the problem.",
+    "example_jp": "嫉妬がその問題の根本にある。"
+  },
+  {
+    "word": "root",
+    "meaning": "(植物の)根",
+    "example": "The tree has deep roots.",
+    "example_jp": "その木は根が深い。"
+  },
+  {
+    "word": "survival",
+    "meaning": "生き残ること、生き延びること",
+    "example": "Survival is the primary instinct of all animals.",
+    "example_jp": "生存（生き残ること）はすべての動物の主要な本能だ。"
+  },
+  {
+    "word": "maintenance",
+    "meaning": "保守、整備、維持",
+    "example": "The car needs regular maintenance.",
+    "example_jp": "その車は定期的な整備が必要だ。"
+  },
+  {
+    "word": "formation",
+    "meaning": "形成",
+    "example": "The formation of the cloud was strange.",
+    "example_jp": "その雲の形成（形）は奇妙だった。"
+  },
+  {
+    "word": "formation",
+    "meaning": "構成（物）",
+    "example": "Rock formations can be seen in the canyon.",
+    "example_jp": "峡谷では岩の構成物（岩層）が見られる。"
+  },
+  {
+    "word": "formation",
+    "meaning": "隊列",
+    "example": "The birds flew in a V-formation.",
+    "example_jp": "鳥たちはV字隊列で飛んだ。"
+  },
+  {
+    "word": "educator",
+    "meaning": "教育者、教師",
+    "example": "She is a dedicated educator.",
+    "example_jp": "彼女は献身的な教育者だ。"
+  },
+  {
+    "word": "kidney",
+    "meaning": "腎臓",
+    "example": "The kidney filters waste from the blood.",
+    "example_jp": "腎臓は血液から老廃物をろ過する。"
+  },
+  {
+    "word": "nutrition",
+    "meaning": "栄養（の摂取）",
+    "example": "Good nutrition is essential for growing children.",
+    "example_jp": "成長期の子供には適切な栄養摂取が不可欠だ。"
+  },
+  {
+    "word": "brand",
+    "meaning": "ブランド、銘柄",
+    "example": "Which brand of coffee do you prefer?",
+    "example_jp": "どのコーヒーの銘柄が好きですか？"
+  },
+  {
+    "word": "storage",
+    "meaning": "保管、貯蔵(法)、収容力",
+    "example": "This phone has a lot of storage.",
+    "example_jp": "この携帯電話は多くの保管容量（ストレージ）がある。"
+  },
+  {
+    "word": "firm",
+    "meaning": "確固たる、堅固な、安定した",
+    "example": "He has a firm grasp of the situation.",
+    "example_jp": "彼はその状況をしっかり（確固として）把握している。"
+  },
+  {
+    "word": "statistics",
+    "meaning": "統計、統計学",
+    "example": "The statistics show that crime is down.",
+    "example_jp": "統計によると犯罪率は下がっている。"
+  },
+  {
+    "word": "toll",
+    "meaning": "損害（の程度）",
+    "example": "The earthquake took a heavy toll.",
+    "example_jp": "地震は大きな損害（犠牲）をもたらした。"
+  },
+  {
+    "word": "toll",
+    "meaning": "死傷者数",
+    "example": "The death toll rose to ten.",
+    "example_jp": "死者数は10人にまで増えた。"
+  },
+  {
+    "word": "toll",
+    "meaning": "通行料",
+    "example": "You have to pay a toll for this bridge.",
+    "example_jp": "この橋は通行料を払わなければならない。"
+  },
+  {
+    "word": "tip",
+    "meaning": "助言、秘訣",
+    "example": "Here is a useful tip for learning English.",
+    "example_jp": "英語学習に役立つ秘訣（助言）を教えるよ。"
+  },
+  {
+    "word": "tip",
+    "meaning": "チップ",
+    "example": "I left a tip for the waiter.",
+    "example_jp": "ウェイターにチップを渡した。"
+  },
+  {
+    "word": "tip",
+    "meaning": "先端",
+    "example": "The tip of the pen is broken.",
+    "example_jp": "ペンの先端が壊れている。"
+  },
+  {
+    "word": "CEO",
+    "meaning": "最高経営責任者",
+    "example": "The CEO made an important announcement.",
+    "example_jp": "CEOが重要な発表をした。"
+  },
+  {
+    "word": "circumstance",
+    "meaning": "状況、事情、境遇",
+    "example": "Under the circumstances, I can't leave.",
+    "example_jp": "このような状況下では、私は去ることができない。"
+  },
+  {
+    "word": "outsider",
+    "meaning": "部外者、門外漢",
+    "example": "He felt like an outsider in the group.",
+    "example_jp": "彼はグループの中で部外者のように感じた。"
+  },
+  {
+    "word": "reduction",
+    "meaning": "減少、削減",
+    "example": "The price reduction attracted many customers.",
+    "example_jp": "値下げが多くの客を引き寄せた。"
+  },
+  {
+    "word": "settlement",
+    "meaning": "開拓地",
+    "example": "They built a small settlement near the river.",
+    "example_jp": "彼らは川の近くに小さな開拓地を築いた。"
+  },
+  {
+    "word": "settlement",
+    "meaning": "解決、合意",
+    "example": "They reached a settlement in court.",
+    "example_jp": "彼らは法廷で和解（合意）に達した。"
+  },
+  {
+    "word": "divorce",
+    "meaning": "離婚",
+    "example": "Their divorce was hard for the children.",
+    "example_jp": "彼らの離婚は子供たちにとってつらいものだった。"
+  },
+  {
+    "word": "divorce",
+    "meaning": "分離",
+    "example": "There is a complete divorce between theory and practice.",
+    "example_jp": "理論と実践の間には完全な分離がある。"
+  },
+  {
+    "word": "likelihood",
+    "meaning": "可能性、見込み",
+    "example": "There is a high likelihood of success.",
+    "example_jp": "成功の可能性が高い。"
+  },
+  {
+    "word": "livestock",
+    "meaning": "(牛・羊・豚などの)家畜(類)",
+    "example": "They raise livestock on their farm.",
+    "example_jp": "彼らは農場で家畜を育てている。"
+  },
+  {
+    "word": "possession",
+    "meaning": "所有物、財産、所有",
+    "example": "He lost all his worldly possessions in the fire.",
+    "example_jp": "彼は火事で全ての財産を失った。"
+  },
+  {
+    "word": "plot",
+    "meaning": "（小説などの）筋",
+    "example": "The plot of the movie was exciting.",
+    "example_jp": "その映画の筋はワクワクするものだった。"
+  },
+  {
+    "word": "plot",
+    "meaning": "陰謀",
+    "example": "They were caught in a plot to overthrow the king.",
+    "example_jp": "彼らは王を倒す陰謀に加担していた。"
+  },
+  {
+    "word": "category",
+    "meaning": "部類，区分、範疇",
+    "example": "This book falls into the category of science fiction.",
+    "example_jp": "この本はSFという範疇に入る。"
+  },
+  {
+    "word": "welfare",
+    "meaning": "福祉，幸福",
+    "example": "The government focuses on the welfare of its citizens.",
+    "example_jp": "政府は国民の福祉に注力している。"
+  }
+]

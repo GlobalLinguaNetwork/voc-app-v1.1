@@ -1,0 +1,308 @@
+[
+  {
+    "word": "stand for",
+    "meaning": "～の略である",
+    "example": "What does 'UN' stand for?",
+    "example_jp": "'UN'は何の略ですか？"
+  },
+  {
+    "word": "stand for",
+    "meaning": "～を支持する",
+    "example": "This party stands for individual freedom.",
+    "example_jp": "この政党は個人の自由を支持している。"
+  },
+  {
+    "word": "stand up to",
+    "meaning": "～に立ち向かう",
+    "example": "You need to stand up to bullies.",
+    "example_jp": "いじめっ子たちに立ち向かう必要がある。"
+  },
+  {
+    "word": "stay off",
+    "meaning": "～に近づかない",
+    "example": "Please stay off the grass.",
+    "example_jp": "芝生に近づかないでください。"
+  },
+  {
+    "word": "step down",
+    "meaning": "辞任する",
+    "example": "The chairman decided to step down.",
+    "example_jp": "会長は辞任することを決めた。"
+  },
+  {
+    "word": "stick around",
+    "meaning": "帰らずにいる",
+    "example": "I'll stick around until you finish.",
+    "example_jp": "あなたが終わるまで帰らずに待っているよ。"
+  },
+  {
+    "word": "stick to",
+    "meaning": "～を堅持する",
+    "example": "Stick to your principles.",
+    "example_jp": "自分の主義を堅持しなさい。"
+  },
+  {
+    "word": "stick up for",
+    "meaning": "～を擁護する",
+    "example": "I will always stick up for my friends.",
+    "example_jp": "私はいつでも友人を擁護する。"
+  },
+  {
+    "word": "stick with",
+    "meaning": "～を続けてする",
+    "example": "Stick with your studies until you graduate.",
+    "example_jp": "卒業するまで勉強を続けてしなさい。"
+  },
+  {
+    "word": "stir in",
+    "meaning": "～を入れてかき混ぜる",
+    "example": "Stir in some sugar before you drink.",
+    "example_jp": "飲む前に砂糖を入れてかき混ぜて。"
+  },
+  {
+    "word": "stir up",
+    "meaning": "騒ぎなどを引き起こす",
+    "example": "Don't stir up trouble.",
+    "example_jp": "騒ぎを引き起こさないで。"
+  },
+  {
+    "word": "sum up",
+    "meaning": "～を要約する",
+    "example": "Could you sum up your main point?",
+    "example_jp": "あなたの主張を要約してもらえますか？"
+  },
+  {
+    "word": "take in",
+    "meaning": "～を摂取する",
+    "example": "We need to take in enough vitamins.",
+    "example_jp": "十分なビタミンを摂取する必要がある。"
+  },
+  {
+    "word": "take on",
+    "meaning": "～を引き受ける",
+    "example": "She took on too much work.",
+    "example_jp": "彼女は仕事を背負いすぎて引き受けてしまった。"
+  },
+  {
+    "word": "take over",
+    "meaning": "～を引き継ぐ",
+    "example": "He will take over the project tomorrow.",
+    "example_jp": "明日、彼がそのプロジェクトを引き継ぐ。"
+  },
+  {
+    "word": "take up",
+    "meaning": "～を始める",
+    "example": "I decided to take up tennis.",
+    "example_jp": "テニスを始めることにした。"
+  },
+  {
+    "word": "talk down to A",
+    "meaning": "Aを見下した調子で話す",
+    "example": "Don't talk down to me.",
+    "example_jp": "私を見下した調子で話さないで。"
+  },
+  {
+    "word": "talk A into doing",
+    "meaning": "Aを説得して～させる",
+    "example": "I talked him into joining the club.",
+    "example_jp": "彼を説得してクラブに入らせた。"
+  },
+  {
+    "word": "talk up",
+    "meaning": "～を実際以上に興味深く話す",
+    "example": "He talked up his latest film project.",
+    "example_jp": "彼は自分の最新の映画企画を実際以上に興味深く話した。"
+  },
+  {
+    "word": "tear down",
+    "meaning": "～を取り壊す",
+    "example": "They tore down the old shed.",
+    "example_jp": "彼らは古い小屋を取り壊した。"
+  },
+  {
+    "word": "tell on",
+    "meaning": "～を告げ口する",
+    "example": "Don't tell on your brother.",
+    "example_jp": "お兄ちゃんのことを告げ口してはいけない。"
+  },
+  {
+    "word": "the other way around",
+    "meaning": "逆に",
+    "example": "It's the other way around.",
+    "example_jp": "それは逆だ。"
+  },
+  {
+    "word": "throw off",
+    "meaning": "～を払いのける",
+    "example": "She threw off his hand.",
+    "example_jp": "彼女は彼の手を払いのけた。"
+  },
+  {
+    "word": "throw up",
+    "meaning": "嘔吐する",
+    "example": "The child threw up after eating.",
+    "example_jp": "その子供は食べた後に嘔吐した。"
+  },
+  {
+    "word": "tidy up",
+    "meaning": "～を片付ける",
+    "example": "I need to tidy up my room.",
+    "example_jp": "自分の部屋を片付ける必要がある。"
+  },
+  {
+    "word": "tie up",
+    "meaning": "～を固く縛る",
+    "example": "Tie up the packages with string.",
+    "example_jp": "紐で荷物を固く縛って。"
+  },
+  {
+    "word": "tip over",
+    "meaning": "ひっくり返る",
+    "example": "The vase tipped over on the table.",
+    "example_jp": "花瓶がテーブルの上でひっくり返った。"
+  },
+  {
+    "word": "touch up",
+    "meaning": "～を手直しする",
+    "example": "I need to touch up the painting.",
+    "example_jp": "絵を手直しする必要がある。"
+  },
+  {
+    "word": "track down",
+    "meaning": "～を追い詰める",
+    "example": "The police finally tracked down the thief.",
+    "example_jp": "警察はついにその泥棒を追い詰めた。"
+  },
+  {
+    "word": "trip up",
+    "meaning": "つまずく",
+    "example": "I tripped up on the carpet.",
+    "example_jp": "カーペットでつまずいた。"
+  },
+  {
+    "word": "try out",
+    "meaning": "～を試してみる",
+    "example": "I want to try out this new software.",
+    "example_jp": "この新しいソフトを試してみたい。"
+  },
+  {
+    "word": "tune in",
+    "meaning": "チャンネルを合わせる",
+    "example": "Tune in to our station for the latest news.",
+    "example_jp": "最新ニュースのために我々の局にチャンネルを合わせて。"
+  },
+  {
+    "word": "tune up",
+    "meaning": "～を整備する",
+    "example": "He tuned up his car before the trip.",
+    "example_jp": "彼は旅行の前に車を整備した。"
+  },
+  {
+    "word": "turn around",
+    "meaning": "好転する",
+    "example": "The economy is starting to turn around.",
+    "example_jp": "経済が好転し始めている。"
+  },
+  {
+    "word": "turn away",
+    "meaning": "～を追い払う",
+    "example": "They turned away the latecomers.",
+    "example_jp": "彼らは遅刻してきた人を追い払った。"
+  },
+  {
+    "word": "turn in",
+    "meaning": "～を提出する",
+    "example": "I turned in my final paper yesterday.",
+    "example_jp": "昨日、最終論文を提出した。"
+  },
+  {
+    "word": "turn out",
+    "meaning": "であることがわかる",
+    "example": "The party turned out to be a great success.",
+    "example_jp": "パーティーは大成功だったことがわかった。"
+  },
+  {
+    "word": "turn to",
+    "meaning": "～に頼る",
+    "example": "You can always turn to me for help.",
+    "example_jp": "助けが必要ならいつでも私に頼っていいよ。"
+  },
+  {
+    "word": "walk off with",
+    "meaning": "～を盗む",
+    "example": "Someone walked off with my bike.",
+    "example_jp": "誰かが私の自転車を盗んでいった。"
+  },
+  {
+    "word": "wander off",
+    "meaning": "はぐれる",
+    "example": "Don't wander off in the crowd.",
+    "example_jp": "人ごみの中で（親から）はぐれないように。"
+  },
+  {
+    "word": "want for",
+    "meaning": "～を欠いている",
+    "example": "He doesn't want for anything.",
+    "example_jp": "彼は何一つ欠いていない（何でも持っている）。"
+  },
+  {
+    "word": "wash away",
+    "meaning": "～を洗い流す",
+    "example": "The rain washed away the dirt.",
+    "example_jp": "雨が汚れを洗い流した。"
+  },
+  {
+    "word": "wash down",
+    "meaning": "～を流し込む",
+    "example": "He washed down the pill with water.",
+    "example_jp": "彼は水で錠剤を流し込んだ。"
+  },
+  {
+    "word": "watch over",
+    "meaning": "～を見守る",
+    "example": "She watched over the sleeping baby.",
+    "example_jp": "彼女は眠っている赤ちゃんを見守った。"
+  },
+  {
+    "word": "wear off",
+    "meaning": "しだいに弱まる",
+    "example": "The medicine started to wear off.",
+    "example_jp": "薬の効果がしだいに弱まり始めた。"
+  },
+  {
+    "word": "wear out",
+    "meaning": "～を疲れ果てさせる",
+    "example": "The long walk wore me out.",
+    "example_jp": "長い道のりで私は疲れ果てた。"
+  },
+  {
+    "word": "weigh on",
+    "meaning": "～に重くのしかかる",
+    "example": "The decision is weighing on me.",
+    "example_jp": "その決定が私に重くのしかかっている。"
+  },
+  {
+    "word": "win over",
+    "meaning": "～を説得する",
+    "example": "I hope to win him over.",
+    "example_jp": "彼を説得したい。"
+  },
+  {
+    "word": "wipe out",
+    "meaning": "～を絶滅させる",
+    "example": "The disease wiped out the whole village.",
+    "example_jp": "その病気が村全体を絶滅させた。"
+  },
+  {
+    "word": "work out",
+    "meaning": "計画を練る",
+    "example": "We need to work out a new plan.",
+    "example_jp": "新しい計画を練る必要がある。"
+  },
+  {
+    "word": "wrap up",
+    "meaning": "終える",
+    "example": "Let's wrap up the meeting now.",
+    "example_jp": "会議をそろそろ終えよう。"
+  }
+]

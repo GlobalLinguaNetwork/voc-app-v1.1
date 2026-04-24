@@ -1,0 +1,374 @@
+[
+  {
+    "word": "compel",
+    "meaning": "強いて～させる",
+    "example": "Circumstances compelled him to resign.",
+    "example_jp": "状況が彼に辞任を余儀なくさせた。"
+  },
+  {
+    "word": "distinguish",
+    "meaning": "区別する",
+    "example": "Can you distinguish fact from fiction?",
+    "example_jp": "事実とフィクションを区別できますか？"
+  },
+  {
+    "word": "heighten",
+    "meaning": "高める",
+    "example": "The new rules will heighten security.",
+    "example_jp": "新しい規則はセキュリティを高めるだろう。"
+  },
+  {
+    "word": "ruin",
+    "meaning": "台無しにする",
+    "example": "The rain ruined our picnic.",
+    "example_jp": "雨がピクニックを台無しにした。"
+  },
+  {
+    "word": "equip",
+    "meaning": "備えつける",
+    "example": "The hotel rooms are equipped with Wi-Fi.",
+    "example_jp": "ホテルの部屋にはWi-Fiが備えつけられている。"
+  },
+  {
+    "word": "export",
+    "meaning": "輸出する",
+    "example": "Japan exports cars to many countries.",
+    "example_jp": "日本は多くの国に車を輸出している。"
+  },
+  {
+    "word": "glance",
+    "meaning": "ちらりと見る",
+    "example": "She glanced at her watch.",
+    "example_jp": "彼女は時計をちらりと見た。"
+  },
+  {
+    "word": "notify",
+    "meaning": "知らせる",
+    "example": "Please notify us of any changes.",
+    "example_jp": "変更があれば私たちに知らせてください。"
+  },
+  {
+    "word": "overdo",
+    "meaning": "やり過ぎる",
+    "example": "Don't overdo your exercise.",
+    "example_jp": "運動をやり過ぎないように。"
+  },
+  {
+    "word": "pierce",
+    "meaning": "穴を開ける",
+    "example": "She decided to pierce her ears.",
+    "example_jp": "彼女は耳に穴を開けることにした。"
+  },
+  {
+    "word": "pierce",
+    "meaning": "突き通す",
+    "example": "The arrow pierced the target.",
+    "example_jp": "矢が標的を突き通した。"
+  },
+  {
+    "word": "overestimate",
+    "meaning": "過大評価する",
+    "example": "Never overestimate your own abilities.",
+    "example_jp": "自分の能力を過大評価してはいけない。"
+  },
+  {
+    "word": "raid",
+    "meaning": "手入れを行う",
+    "example": "The police raided the illegal gambling house.",
+    "example_jp": "警察が違法賭博場に手入れを行った。"
+  },
+  {
+    "word": "raid",
+    "meaning": "襲撃する",
+    "example": "The enemy forces raided the camp.",
+    "example_jp": "敵軍がそのキャンプを襲撃した。"
+  },
+  {
+    "word": "recall",
+    "meaning": "思い出す",
+    "example": "I cannot recall his name.",
+    "example_jp": "彼の名前を思い出せない。"
+  },
+  {
+    "word": "recall",
+    "meaning": "回収する",
+    "example": "The company had to recall the faulty product.",
+    "example_jp": "その会社は欠陥商品を回収しなければならなかった。"
+  },
+  {
+    "word": "simplify",
+    "meaning": "簡単にする",
+    "example": "Please simplify the instructions.",
+    "example_jp": "説明を簡単にしてくれませんか。"
+  },
+  {
+    "word": "wrinkle",
+    "meaning": "しわを寄せる",
+    "example": "He wrinkled his forehead in confusion.",
+    "example_jp": "彼は困惑して額にしわを寄せた。"
+  },
+  {
+    "word": "conspire",
+    "meaning": "陰謀を企てる",
+    "example": "They conspired to overthrow the government.",
+    "example_jp": "彼らは政府を転覆させる陰謀を企てた。"
+  },
+  {
+    "word": "imitate",
+    "meaning": "まねる",
+    "example": "Children often imitate their parents.",
+    "example_jp": "子供はよく親をまねる。"
+  },
+  {
+    "word": "inhale",
+    "meaning": "吸い込む",
+    "example": "Take a deep breath and inhale slowly.",
+    "example_jp": "深呼吸してゆっくりと吸い込んで。"
+  },
+  {
+    "word": "overrate",
+    "meaning": "過大評価される",
+    "example": "The movie is highly overrated.",
+    "example_jp": "その映画は過大評価されている。"
+  },
+  {
+    "word": "sympathize",
+    "meaning": "同情する",
+    "example": "I sympathize with your difficult situation.",
+    "example_jp": "あなたの困難な状況に同情します。"
+  },
+  {
+    "word": "glide",
+    "meaning": "滑らかに動く",
+    "example": "The skaters glided across the ice.",
+    "example_jp": "スケーターたちは氷の上を滑らかに滑った。"
+  },
+  {
+    "word": "kidnap",
+    "meaning": "誘拐する",
+    "example": "The child was kidnapped for ransom.",
+    "example_jp": "その子供は身代金目的で誘拐された。"
+  },
+  {
+    "word": "pretend",
+    "meaning": "ふりをする",
+    "example": "She pretended to be asleep.",
+    "example_jp": "彼女は眠っているふりをした。"
+  },
+  {
+    "word": "simmer",
+    "meaning": "ことこと煮える",
+    "example": "Let the soup simmer for an hour.",
+    "example_jp": "スープを1時間ことこと煮て。"
+  },
+  {
+    "word": "thaw",
+    "meaning": "溶ける",
+    "example": "The snow began to thaw.",
+    "example_jp": "雪が溶け始めた。"
+  },
+  {
+    "word": "unfold",
+    "meaning": "開く",
+    "example": "She unfolded the map.",
+    "example_jp": "彼女は地図を広げた。"
+  },
+  {
+    "word": "unfold",
+    "meaning": "明らかにする",
+    "example": "The truth will soon unfold.",
+    "example_jp": "真実がまもなく明らかになるだろう。"
+  },
+  {
+    "word": "detain",
+    "meaning": "勾留する",
+    "example": "The suspect was detained for questioning.",
+    "example_jp": "容疑者は尋問のために勾留された。"
+  },
+  {
+    "word": "detain",
+    "meaning": "引き留める",
+    "example": "Sorry to detain you so long.",
+    "example_jp": "そんなに長く引き留めてすみません。"
+  },
+  {
+    "word": "puncture",
+    "meaning": "パンクさせる",
+    "example": "A nail punctured my tire.",
+    "example_jp": "釘がタイヤをパンクさせた。"
+  },
+  {
+    "word": "strangle",
+    "meaning": "抑圧する",
+    "example": "High taxes can strangle small businesses.",
+    "example_jp": "高い税金は小規模ビジネスを抑圧しうる。"
+  },
+  {
+    "word": "strangle",
+    "meaning": "窒息させる",
+    "example": "He tried to strangle his opponent.",
+    "example_jp": "彼は対戦相手を窒息させようとした。"
+  },
+  {
+    "word": "hygiene",
+    "meaning": "衛生",
+    "example": "Good personal hygiene is important.",
+    "example_jp": "個人の衛生管理は大切だ。"
+  },
+  {
+    "word": "oppression",
+    "meaning": "抑圧",
+    "example": "The people fought against oppression.",
+    "example_jp": "人々は抑圧と戦った。"
+  },
+  {
+    "word": "collaboration",
+    "meaning": "共同",
+    "example": "The project was a joint collaboration.",
+    "example_jp": "そのプロジェクトは共同作業だった。"
+  },
+  {
+    "word": "harbor",
+    "meaning": "港",
+    "example": "The ship entered the harbor.",
+    "example_jp": "船が港に入った。"
+  },
+  {
+    "word": "harbor",
+    "meaning": "避難所",
+    "example": "The woods served as a harbor for the animals.",
+    "example_jp": "森は動物たちの避難所となっていた。"
+  },
+  {
+    "word": "lawn",
+    "meaning": "芝生",
+    "example": "I need to mow the lawn.",
+    "example_jp": "芝生を刈らなければならない。"
+  },
+  {
+    "word": "pedestrian",
+    "meaning": "歩行者",
+    "example": "The pedestrian crossed the street safely.",
+    "example_jp": "歩行者は安全に通りを渡った。"
+  },
+  {
+    "word": "racism",
+    "meaning": "人種差別",
+    "example": "We must fight against racism.",
+    "example_jp": "私たちは人種差別と戦わなければならない。"
+  },
+  {
+    "word": "summit",
+    "meaning": "首脳会議",
+    "example": "Leaders met at the global summit.",
+    "example_jp": "リーダーたちが国際首脳会議で会った。"
+  },
+  {
+    "word": "summit",
+    "meaning": "頂上",
+    "example": "They reached the summit of the mountain.",
+    "example_jp": "彼らは山の頂上に到達した。"
+  },
+  {
+    "word": "bug",
+    "meaning": "病原菌",
+    "example": "There is a stomach bug going around.",
+    "example_jp": "胃の病原菌が流行っている。"
+  },
+  {
+    "word": "bug",
+    "meaning": "虫",
+    "example": "There's a bug on your shirt.",
+    "example_jp": "シャツに虫がいるよ。"
+  },
+  {
+    "word": "bug",
+    "meaning": "盗聴器",
+    "example": "The room had a hidden bug.",
+    "example_jp": "部屋には隠された盗聴器があった。"
+  },
+  {
+    "word": "bug",
+    "meaning": "欠陥",
+    "example": "The software has a major bug.",
+    "example_jp": "そのソフトには重大な欠陥がある。"
+  },
+  {
+    "word": "dirt",
+    "meaning": "汚れ",
+    "example": "Wash the dirt off your hands.",
+    "example_jp": "手を洗って汚れを落としなさい。"
+  },
+  {
+    "word": "maternity",
+    "meaning": "妊産婦の",
+    "example": "She is on maternity leave.",
+    "example_jp": "彼女は産休中だ。"
+  },
+  {
+    "word": "stroke",
+    "meaning": "脳卒中",
+    "example": "He suffered a minor stroke.",
+    "example_jp": "彼は軽い脳卒中を起こした。"
+  },
+  {
+    "word": "stroke",
+    "meaning": "打つこと",
+    "example": "That was a perfect stroke.",
+    "example_jp": "完璧な打球だった。"
+  },
+  {
+    "word": "tale",
+    "meaning": "話",
+    "example": "She told us a fascinating tale.",
+    "example_jp": "彼女は興味深い話をしてくれた。"
+  },
+  {
+    "word": "certainty",
+    "meaning": "確実性",
+    "example": "We cannot say with certainty what will happen.",
+    "example_jp": "何が起こるか確実性を持って言うことはできない。"
+  },
+  {
+    "word": "imbalance",
+    "meaning": "不均衡",
+    "example": "There is an economic imbalance.",
+    "example_jp": "経済的な不均衡がある。"
+  },
+  {
+    "word": "incidence",
+    "meaning": "発生率",
+    "example": "The incidence of the disease is rising.",
+    "example_jp": "その病気の発生率が上昇している。"
+  },
+  {
+    "word": "pit",
+    "meaning": "穴",
+    "example": "They dug a deep pit.",
+    "example_jp": "彼らは深い穴を掘った。"
+  },
+  {
+    "word": "texture",
+    "meaning": "感触",
+    "example": "I like the texture of this fabric.",
+    "example_jp": "この生地の感触が好きだ。"
+  },
+  {
+    "word": "thumb",
+    "meaning": "親指",
+    "example": "He cut his thumb with a knife.",
+    "example_jp": "彼はナイフで親指を切った。"
+  },
+  {
+    "word": "undergraduate",
+    "meaning": "学部学生",
+    "example": "She is an undergraduate at college.",
+    "example_jp": "彼女は大学の学部生だ。"
+  },
+  {
+    "word": "wisdom",
+    "meaning": "知恵",
+    "example": "She is known for her wisdom.",
+    "example_jp": "彼女はその知恵で知られている。"
+  }
+]

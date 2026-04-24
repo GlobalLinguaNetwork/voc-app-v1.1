@@ -1,0 +1,380 @@
+[
+  {
+    "word": "lawsuit",
+    "meaning": "(民事)訴訟",
+    "example": "He filed a lawsuit against the company.",
+    "example_jp": "彼はその会社に対して訴訟を起こした。"
+  },
+  {
+    "word": "session",
+    "meaning": "集まり",
+    "example": "The family had a long session of talking.",
+    "example_jp": "家族で長く話し合った。"
+  },
+  {
+    "word": "session",
+    "meaning": "（議会の）会期",
+    "example": "Parliament is currently in session.",
+    "example_jp": "国会は現在会期中だ。"
+  },
+  {
+    "word": "means",
+    "meaning": "手段",
+    "example": "What is the best means of communication?",
+    "example_jp": "最良のコミュニケーション手段は何ですか？"
+  },
+  {
+    "word": "means",
+    "meaning": "資力，収入",
+    "example": "They do not have the means to buy a house.",
+    "example_jp": "彼らには家を買う資力がない。"
+  },
+  {
+    "word": "pioneer",
+    "meaning": "先駆者、草分け、(未開地の)開拓者",
+    "example": "He was a pioneer in genetic research.",
+    "example_jp": "彼は遺伝子研究の先駆者だった。"
+  },
+  {
+    "word": "satisfaction",
+    "meaning": "満足",
+    "example": "He smiled with satisfaction.",
+    "example_jp": "彼は満足して微笑んだ。"
+  },
+  {
+    "word": "basis",
+    "meaning": "根拠、基礎",
+    "example": "What is the basis for your argument?",
+    "example_jp": "君の議論の根拠は何ですか？"
+  },
+  {
+    "word": "element",
+    "meaning": "(構成)要素、成分",
+    "example": "Water is an essential element of life.",
+    "example_jp": "水は生命の不可欠な要素だ。"
+  },
+  {
+    "word": "phenomenon",
+    "meaning": "現象、事象",
+    "example": "Climate change is a global phenomenon.",
+    "example_jp": "気候変動は地球規模の現象だ。"
+  },
+  {
+    "word": "scale",
+    "meaning": "規模、程度",
+    "example": "The project is on a large scale.",
+    "example_jp": "そのプロジェクトは大規模だ。"
+  },
+  {
+    "word": "journal",
+    "meaning": "(専門)雑誌、日刊[週刊]新聞",
+    "example": "He published an article in a medical journal.",
+    "example_jp": "彼は医学雑誌に論文を発表した。"
+  },
+  {
+    "word": "grain",
+    "meaning": "穀物",
+    "example": "They store grain in the barn.",
+    "example_jp": "彼らは納屋に穀物を保管している。"
+  },
+  {
+    "word": "grain",
+    "meaning": "粒",
+    "example": "There is a grain of sand in my eye.",
+    "example_jp": "目の中に砂の粒が入った。"
+  },
+  {
+    "word": "grain",
+    "meaning": "きめ",
+    "example": "This wood has a fine grain.",
+    "example_jp": "この木材はきめが細かい。"
+  },
+  {
+    "word": "continent",
+    "meaning": "大陸、(イギリスから見て)ヨーロッパ大陸",
+    "example": "Africa is a large continent.",
+    "example_jp": "アフリカは大きな大陸だ。"
+  },
+  {
+    "word": "headquarters",
+    "meaning": "本社、(軍・警察・会社などの)本部",
+    "example": "The company moved its headquarters to Tokyo.",
+    "example_jp": "会社は本社を東京に移した。"
+  },
+  {
+    "word": "globalization",
+    "meaning": "国際化",
+    "example": "Globalization affects everyone.",
+    "example_jp": "国際化はすべての人に影響する。"
+  },
+  {
+    "word": "brochure",
+    "meaning": "パンフレット、小冊子",
+    "example": "I picked up a travel brochure.",
+    "example_jp": "旅行のパンフレットを手にした。"
+  },
+  {
+    "word": "inspection",
+    "meaning": "検査、点検",
+    "example": "The building passed the safety inspection.",
+    "example_jp": "その建物は安全検査に合格した。"
+  },
+  {
+    "word": "attendance",
+    "meaning": "出席[入場]者数",
+    "example": "The attendance at the concert was high.",
+    "example_jp": "コンサートの入場者数は多かった。"
+  },
+  {
+    "word": "attendance",
+    "meaning": "出席",
+    "example": "Attendance is required at all meetings.",
+    "example_jp": "すべての会議への出席が義務付けられている。"
+  },
+  {
+    "word": "copper",
+    "meaning": "銅",
+    "example": "The pipe is made of copper.",
+    "example_jp": "そのパイプは銅でできている。"
+  },
+  {
+    "word": "dozen",
+    "meaning": "12(個)、１ダース",
+    "example": "I bought a dozen eggs.",
+    "example_jp": "卵を1ダース買った。"
+  },
+  {
+    "word": "flu",
+    "meaning": "インフルエンザ",
+    "example": "He is staying home with the flu.",
+    "example_jp": "彼はインフルエンザで自宅療養している。"
+  },
+  {
+    "word": "burial",
+    "meaning": "埋葬",
+    "example": "The burial will take place tomorrow.",
+    "example_jp": "埋葬は明日行われる。"
+  },
+  {
+    "word": "mold",
+    "meaning": "鋳型；鋳物",
+    "example": "Pour the metal into the mold.",
+    "example_jp": "金属を鋳型に流し込みなさい。"
+  },
+  {
+    "word": "mold",
+    "meaning": "性格",
+    "example": "She broke the mold of her traditional family.",
+    "example_jp": "彼女は保守的な家族の型を破った。"
+  },
+  {
+    "word": "mold",
+    "meaning": "かび",
+    "example": "The bread has mold on it.",
+    "example_jp": "パンにカビが生えている。"
+  },
+  {
+    "word": "patch",
+    "meaning": "部分",
+    "example": "There was a wet patch on the floor.",
+    "example_jp": "床に濡れた部分があった。"
+  },
+  {
+    "word": "patch",
+    "meaning": "継ぎ",
+    "example": "He put a patch on his jeans.",
+    "example_jp": "彼はジーンズに当て布をした。"
+  },
+  {
+    "word": "patch",
+    "meaning": "貼り薬",
+    "example": "She used a nicotine patch to quit smoking.",
+    "example_jp": "彼女は禁煙するためにニコチンパッチを使った。"
+  },
+  {
+    "word": "diagram",
+    "meaning": "図(表)",
+    "example": "Look at the diagram to see how it works.",
+    "example_jp": "仕組みを知るには図を見てください。"
+  },
+  {
+    "word": "placement",
+    "meaning": "斡旋",
+    "example": "The agency provides job placement services.",
+    "example_jp": "その機関は職業斡旋サービスを提供している。"
+  },
+  {
+    "word": "placement",
+    "meaning": "配置",
+    "example": "The strategic placement of cameras is important.",
+    "example_jp": "カメラの戦略的な配置が重要だ。"
+  },
+  {
+    "word": "shame",
+    "meaning": "恥",
+    "example": "He felt shame for his behavior.",
+    "example_jp": "彼は自分の行いを恥じた。"
+  },
+  {
+    "word": "shame",
+    "meaning": "残念なこと",
+    "example": "It's a shame that it's raining.",
+    "example_jp": "雨なのは残念だ。"
+  },
+  {
+    "word": "wheelchair",
+    "meaning": "車椅子",
+    "example": "He uses a wheelchair.",
+    "example_jp": "彼は車椅子を使っている。"
+  },
+  {
+    "word": "experienced",
+    "meaning": "熟練した",
+    "example": "We need an experienced worker.",
+    "example_jp": "熟練した労働者が必要だ。"
+  },
+  {
+    "word": "initial",
+    "meaning": "初めの",
+    "example": "My initial reaction was surprise.",
+    "example_jp": "私の最初の反応は驚きだった。"
+  },
+  {
+    "word": "mainstream",
+    "meaning": "主流",
+    "example": "This idea is now in the mainstream.",
+    "example_jp": "この考え方は今や主流だ。"
+  },
+  {
+    "word": "appropriate",
+    "meaning": "適切な",
+    "example": "Wear appropriate clothes for the party.",
+    "example_jp": "パーティーに適切な服を着ていきなさい。"
+  },
+  {
+    "word": "fake",
+    "meaning": "偽の、見せかけだけの",
+    "example": "This is a fake diamond.",
+    "example_jp": "これは偽のダイヤモンドだ。"
+  },
+  {
+    "word": "alert",
+    "meaning": "警戒して、敏速な",
+    "example": "Keep alert while driving.",
+    "example_jp": "運転中は警戒を怠らないで。"
+  },
+  {
+    "word": "fatal",
+    "meaning": "致命的な、破滅的な",
+    "example": "It was a fatal mistake.",
+    "example_jp": "それは致命的なミスだった。"
+  },
+  {
+    "word": "nutritious",
+    "meaning": "栄養になる",
+    "example": "A healthy, nutritious meal is important.",
+    "example_jp": "健康的で栄養のある食事が重要だ。"
+  },
+  {
+    "word": "sophisticated",
+    "meaning": "高性能の，精巧な",
+    "example": "They have sophisticated equipment.",
+    "example_jp": "彼らは高性能な機器を持っている。"
+  },
+  {
+    "word": "sophisticated",
+    "meaning": "洗練された",
+    "example": "She has a sophisticated taste in fashion.",
+    "example_jp": "彼女はファッションにおいて洗練された趣味を持っている。"
+  },
+  {
+    "word": "automatic",
+    "meaning": "自動の",
+    "example": "The door is automatic.",
+    "example_jp": "そのドアは自動だ。"
+  },
+  {
+    "word": "raw",
+    "meaning": "生の、未加工の",
+    "example": "He likes eating raw fish.",
+    "example_jp": "彼は生魚を食べるのが好きだ。"
+  },
+  {
+    "word": "slight",
+    "meaning": "わずかな；取るに足らない",
+    "example": "I have a slight headache.",
+    "example_jp": "わずかに頭痛がする。"
+  },
+  {
+    "word": "man-made",
+    "meaning": "(物質などが)合成の、人工の",
+    "example": "This is a man-made lake.",
+    "example_jp": "これは人工の湖だ。"
+  },
+  {
+    "word": "aging",
+    "meaning": "高齢化が進む、老朽化している",
+    "example": "The building is aging.",
+    "example_jp": "その建物は老朽化している。"
+  },
+  {
+    "word": "spiritual",
+    "meaning": "精神の、霊的な",
+    "example": "They focus on spiritual growth.",
+    "example_jp": "彼らは精神的な成長に焦点を当てている。"
+  },
+  {
+    "word": "endangered",
+    "meaning": "(動植物が)絶滅の危機にある",
+    "example": "The panda is an endangered species.",
+    "example_jp": "パンダは絶滅危惧種だ。"
+  },
+  {
+    "word": "sticky",
+    "meaning": "ねばねばの、粘着性の",
+    "example": "The tape is very sticky.",
+    "example_jp": "そのテープはとても粘着性が高い。"
+  },
+  {
+    "word": "fertile",
+    "meaning": "肥沃な",
+    "example": "The soil is very fertile.",
+    "example_jp": "その土壌はとても肥沃だ。"
+  },
+  {
+    "word": "fertile",
+    "meaning": "多産の",
+    "example": "They have a fertile imagination.",
+    "example_jp": "彼らは想像力が豊かだ。"
+  },
+  {
+    "word": "elsewhere",
+    "meaning": "どこかほかのところへ",
+    "example": "I need to look elsewhere for a job.",
+    "example_jp": "他の場所で仕事を探さなければならない。"
+  },
+  {
+    "word": "altogether",
+    "meaning": "完全に",
+    "example": "That is altogether wrong.",
+    "example_jp": "それは完全に間違っている。"
+  },
+  {
+    "word": "strictly",
+    "meaning": "厳格に、厳しく",
+    "example": "Smoking is strictly forbidden.",
+    "example_jp": "喫煙は厳格に禁止されている。"
+  },
+  {
+    "word": "beforehand",
+    "meaning": "前もって、あらかじめ",
+    "example": "Please let me know beforehand.",
+    "example_jp": "前もって知らせてください。"
+  },
+  {
+    "word": "likewise",
+    "meaning": "同様に",
+    "example": "I enjoyed the trip, and likewise my wife.",
+    "example_jp": "私はその旅行を楽しんだし、妻も同様だ。"
+  }
+]

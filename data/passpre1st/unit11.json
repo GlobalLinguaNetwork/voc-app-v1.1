@@ -1,0 +1,446 @@
+[
+  {
+    "word": "detect",
+    "meaning": "を感知する",
+    "example": "The radar detected a plane.",
+    "example_jp": "レーダーが飛行機を感知した。"
+  },
+  {
+    "word": "detect",
+    "meaning": "を見つけ出す",
+    "example": "The scientists detected a new virus.",
+    "example_jp": "科学者たちは新しいウイルスを見つけ出した。"
+  },
+  {
+    "word": "combat",
+    "meaning": "戦闘",
+    "example": "He was killed in combat.",
+    "example_jp": "彼は戦闘で戦死した。"
+  },
+  {
+    "word": "combat",
+    "meaning": "対立",
+    "example": "There is a constant combat between their views.",
+    "example_jp": "彼らの見解の間には絶え間ない対立がある。"
+  },
+  {
+    "word": "pose",
+    "meaning": "（危険など）を引き起こす",
+    "example": "Pollution poses a threat to our health.",
+    "example_jp": "汚染は私たちの健康に危険を引き起こす。"
+  },
+  {
+    "word": "pose",
+    "meaning": "（問題など）を提起する",
+    "example": "He posed a question about the project.",
+    "example_jp": "彼はプロジェクトについて質問を提起した。"
+  },
+  {
+    "word": "pose",
+    "meaning": "（～を）装う",
+    "example": "The spy posed as a businessman.",
+    "example_jp": "そのスパイはビジネスマンを装った。"
+  },
+  {
+    "word": "emphasize",
+    "meaning": "を強調する",
+    "example": "The teacher emphasized the importance of study.",
+    "example_jp": "先生は勉強の重要性を強調した。"
+  },
+  {
+    "word": "highlight",
+    "meaning": "を目立たせる",
+    "example": "This light highlights the art on the wall.",
+    "example_jp": "このライトが壁のアートを目立たせている。"
+  },
+  {
+    "word": "resist",
+    "meaning": "に抵抗する",
+    "example": "The troops resisted the enemy attack.",
+    "example_jp": "軍隊は敵の攻撃に抵抗した。"
+  },
+  {
+    "word": "resist",
+    "meaning": "を我慢する",
+    "example": "I cannot resist eating chocolate.",
+    "example_jp": "チョコレートを食べるのを我慢できない。"
+  },
+  {
+    "word": "exceed",
+    "meaning": "を超える",
+    "example": "Don't exceed the speed limit.",
+    "example_jp": "制限速度を超えてはいけない。"
+  },
+  {
+    "word": "exceed",
+    "meaning": "に勝る",
+    "example": "His talent exceeds my expectations.",
+    "example_jp": "彼の才能は私の期待に勝る。"
+  },
+  {
+    "word": "relocate",
+    "meaning": "移転させる",
+    "example": "The company will relocate its office to Tokyo.",
+    "example_jp": "会社はオフィスを東京に移転させる予定だ。"
+  },
+  {
+    "word": "disprove",
+    "meaning": "の誤りを証明する",
+    "example": "Evidence was found to disprove his theory.",
+    "example_jp": "彼の理論の誤りを証明する証拠が見つかった。"
+  },
+  {
+    "word": "crawl",
+    "meaning": "はう",
+    "example": "The baby crawled across the floor.",
+    "example_jp": "赤ちゃんが床をはった。"
+  },
+  {
+    "word": "crawl",
+    "meaning": "ゆっくり進む",
+    "example": "Traffic was crawling during rush hour.",
+    "example_jp": "ラッシュ時には交通がゆっくりとしか進まなかった。"
+  },
+  {
+    "word": "foster",
+    "meaning": "をはぐくむ、心に抱く",
+    "example": "We want to foster a love of reading.",
+    "example_jp": "読書への愛をはぐくみたい。"
+  },
+  {
+    "word": "foster",
+    "meaning": "を養育する",
+    "example": "They decided to foster the abandoned kitten.",
+    "example_jp": "彼らは捨てられた子猫を養育することにした。"
+  },
+  {
+    "word": "harass",
+    "meaning": "を絶えず悩ます、苦しめる",
+    "example": "He was harassed by constant phone calls.",
+    "example_jp": "彼は絶え間ない電話に悩まされた。"
+  },
+  {
+    "word": "magnify",
+    "meaning": "を拡大する",
+    "example": "A microscope magnifies small objects.",
+    "example_jp": "顕微鏡は小さな物体を拡大する。"
+  },
+  {
+    "word": "magnify",
+    "meaning": "を誇張する",
+    "example": "Don't magnify your problems.",
+    "example_jp": "問題を誇張してはいけない。"
+  },
+  {
+    "word": "sneak",
+    "meaning": "こっそり動く",
+    "example": "He sneaked out of the house.",
+    "example_jp": "彼はこっそり家を抜け出した。"
+  },
+  {
+    "word": "stray",
+    "meaning": "はぐれる、道に迷う",
+    "example": "The dog strayed from its owner.",
+    "example_jp": "その犬は飼い主とはぐれた。"
+  },
+  {
+    "word": "worsen",
+    "meaning": "を悪化させる、悪化する",
+    "example": "The weather began to worsen.",
+    "example_jp": "天候が悪化し始めた。"
+  },
+  {
+    "word": "advocate",
+    "meaning": "を主張する、擁護する",
+    "example": "He advocates for human rights.",
+    "example_jp": "彼は人権を擁護している。"
+  },
+  {
+    "word": "evacuate",
+    "meaning": "を避難させる",
+    "example": "They evacuated the residents from the flood zone.",
+    "example_jp": "彼らは住民を洪水地帯から避難させた。"
+  },
+  {
+    "word": "evacuate",
+    "meaning": "立ち退く",
+    "example": "Everyone had to evacuate the building.",
+    "example_jp": "全員が建物から立ち退かなければならなかった。"
+  },
+  {
+    "word": "verify",
+    "meaning": "の正しさを証明［確認］する",
+    "example": "Please verify your account information.",
+    "example_jp": "アカウント情報を確認してください。"
+  },
+  {
+    "word": "abuse",
+    "meaning": "乱用",
+    "example": "He was arrested for drug abuse.",
+    "example_jp": "彼は薬物乱用で逮捕された。"
+  },
+  {
+    "word": "abuse",
+    "meaning": "虐待",
+    "example": "Children need protection from abuse.",
+    "example_jp": "子供たちは虐待から守られる必要がある。"
+  },
+  {
+    "word": "scatter",
+    "meaning": "をまき散らす",
+    "example": "She scattered seeds in the garden.",
+    "example_jp": "彼女は庭に種をまき散らした。"
+  },
+  {
+    "word": "scatter",
+    "meaning": "分散する",
+    "example": "The crowd scattered when it started to rain.",
+    "example_jp": "雨が降り出すと群衆は分散した。"
+  },
+  {
+    "word": "endorse",
+    "meaning": "を推奨する",
+    "example": "The celebrity endorsed the new product.",
+    "example_jp": "その有名人が新製品を推奨した。"
+  },
+  {
+    "word": "modify",
+    "meaning": "を修正する",
+    "example": "We need to modify the plan.",
+    "example_jp": "計画を修正する必要がある。"
+  },
+  {
+    "word": "modify",
+    "meaning": "を緩和する",
+    "example": "She modified her tone.",
+    "example_jp": "彼女は口調を和らげた。"
+  },
+  {
+    "word": "penetrate",
+    "meaning": "貫く、浸透する、進出する、見抜く",
+    "example": "Light penetrates the thick clouds.",
+    "example_jp": "光が厚い雲を貫いて差し込む。"
+  },
+  {
+    "word": "conform",
+    "meaning": "順応する",
+    "example": "He tried to conform to social rules.",
+    "example_jp": "彼は社会のルールに順応しようとした。"
+  },
+  {
+    "word": "conform",
+    "meaning": "一致する",
+    "example": "The building must conform to safety standards.",
+    "example_jp": "その建物は安全基準と一致しなければならない。"
+  },
+  {
+    "word": "leave",
+    "meaning": "休暇",
+    "example": "I will be on leave next week.",
+    "example_jp": "来週は休暇を取ります。"
+  },
+  {
+    "word": "tissue",
+    "meaning": "（生物の）組織",
+    "example": "The surgery damaged the muscle tissue.",
+    "example_jp": "手術で筋肉組織が損傷した。"
+  },
+  {
+    "word": "gut",
+    "meaning": "腸、消化管、内臓",
+    "example": "He had a pain in his gut.",
+    "example_jp": "彼は内臓に痛みを感じた。"
+  },
+  {
+    "word": "lightning",
+    "meaning": "雷、稲妻",
+    "example": "Lightning flashed across the sky.",
+    "example_jp": "雷が空を横切った。"
+  },
+  {
+    "word": "camel",
+    "meaning": "ラクダ",
+    "example": "We rode a camel in the desert.",
+    "example_jp": "砂漠でラクダに乗った。"
+  },
+  {
+    "word": "camel",
+    "meaning": "黄褐色",
+    "example": "She wore a camel coat.",
+    "example_jp": "彼女は黄褐色のコートを着ていた。"
+  },
+  {
+    "word": "antioxidant",
+    "meaning": "抗酸化物質、酸化防止剤",
+    "example": "Blueberries are rich in antioxidants.",
+    "example_jp": "ブルーベリーには抗酸化物質が豊富だ。"
+  },
+  {
+    "word": "disorder",
+    "meaning": "障害",
+    "example": "He suffers from a sleep disorder.",
+    "example_jp": "彼は睡眠障害を患っている。"
+  },
+  {
+    "word": "disorder",
+    "meaning": "混乱",
+    "example": "The room was in total disorder.",
+    "example_jp": "部屋は完全に混乱（散乱）していた。"
+  },
+  {
+    "word": "cattle",
+    "meaning": "牛",
+    "example": "The cattle are grazing in the field.",
+    "example_jp": "牛たちが野原で草を食べている。"
+  },
+  {
+    "word": "oath",
+    "meaning": "誓い、誓約",
+    "example": "He took an oath to tell the truth.",
+    "example_jp": "彼は真実を語るという誓いを立てた。"
+  },
+  {
+    "word": "monument",
+    "meaning": "記念碑、遺跡",
+    "example": "They visited a historical monument.",
+    "example_jp": "彼らは歴史的記念碑を訪れた。"
+  },
+  {
+    "word": "monument",
+    "meaning": "金字塔",
+    "example": "His work is a monument to modern art.",
+    "example_jp": "彼の作品は現代芸術の金字塔だ。"
+  },
+  {
+    "word": "heating",
+    "meaning": "暖房(装置)",
+    "example": "Turn on the heating, it's cold.",
+    "example_jp": "寒いから暖房をつけて。"
+  },
+  {
+    "word": "germ",
+    "meaning": "細菌、病原菌",
+    "example": "Wash your hands to kill germs.",
+    "example_jp": "細菌を殺すために手を洗いなさい。"
+  },
+  {
+    "word": "legend",
+    "meaning": "伝説、言い伝え",
+    "example": "The story is based on an old legend.",
+    "example_jp": "その物語は古い伝説に基づいている。"
+  },
+  {
+    "word": "legend",
+    "meaning": "伝説的な人物",
+    "example": "He is a legend in the world of music.",
+    "example_jp": "彼は音楽界の伝説的人物だ。"
+  },
+  {
+    "word": "auditorium",
+    "meaning": "(学校の)講堂、公会堂",
+    "example": "The graduation ceremony is in the auditorium.",
+    "example_jp": "卒業式は講堂で行われる。"
+  },
+  {
+    "word": "therapy",
+    "meaning": "療法",
+    "example": "She is undergoing physical therapy.",
+    "example_jp": "彼女は理学療法を受けている。"
+  },
+  {
+    "word": "therapy",
+    "meaning": "心理療法",
+    "example": "He goes to therapy every week.",
+    "example_jp": "彼は毎週心理療法に通っている。"
+  },
+  {
+    "word": "heritage",
+    "meaning": "遺産",
+    "example": "We should protect our cultural heritage.",
+    "example_jp": "私たちは文化遺産を守るべきだ。"
+  },
+  {
+    "word": "invasion",
+    "meaning": "侵害",
+    "example": "That was an invasion of my privacy.",
+    "example_jp": "それは私のプライバシーの侵害だった。"
+  },
+  {
+    "word": "invasion",
+    "meaning": "侵入",
+    "example": "The country suffered an invasion.",
+    "example_jp": "その国は侵入（侵略）を受けた。"
+  },
+  {
+    "word": "instruction",
+    "meaning": "(製品の)使用書、指示",
+    "example": "Read the instructions before use.",
+    "example_jp": "使用前に使用書を読みなさい。"
+  },
+  {
+    "word": "instruction",
+    "meaning": "教育",
+    "example": "He provides instruction in math.",
+    "example_jp": "彼は数学の教育をしている。"
+  },
+  {
+    "word": "extinction",
+    "meaning": "(家系・種などの)絶滅、消滅",
+    "example": "Many animals are facing extinction.",
+    "example_jp": "多くの動物が絶滅の危機に直面している。"
+  },
+  {
+    "word": "creativity",
+    "meaning": "創造性、独創性",
+    "example": "She has a lot of creativity.",
+    "example_jp": "彼女には高い創造性がある。"
+  },
+  {
+    "word": "plantation",
+    "meaning": "(熱帯・亜熱帯の)(大)農園",
+    "example": "They work on a large coffee plantation.",
+    "example_jp": "彼らは大きなコーヒー農園で働いている。"
+  },
+  {
+    "word": "drought",
+    "meaning": "干ばつ",
+    "example": "The drought destroyed the crops.",
+    "example_jp": "干ばつが作物を全滅させた。"
+  },
+  {
+    "word": "drought",
+    "meaning": "(慢性的な)不足",
+    "example": "We are facing a drought of new ideas.",
+    "example_jp": "新しいアイデアの不足に直面している。"
+  },
+  {
+    "word": "wealth",
+    "meaning": "財産、富",
+    "example": "He spent all his wealth.",
+    "example_jp": "彼は財産をすべて使い果たした。"
+  },
+  {
+    "word": "wealth",
+    "meaning": "豊富",
+    "example": "The library is a wealth of information.",
+    "example_jp": "その図書館は情報の宝庫（豊富さ）だ。"
+  },
+  {
+    "word": "reminder",
+    "meaning": "思い出させるもの、記念物[品]",
+    "example": "This photo is a reminder of my trip.",
+    "example_jp": "この写真は旅行の思い出の品だ。"
+  },
+  {
+    "word": "inquiry",
+    "meaning": "問い合わせ、質問",
+    "example": "I received an inquiry about the product.",
+    "example_jp": "その製品についての問い合わせを受けた。"
+  },
+  {
+    "word": "inquiry",
+    "meaning": "調査",
+    "example": "The police began an official inquiry.",
+    "example_jp": "警察が公式の調査を開始した。"
+  }
+]

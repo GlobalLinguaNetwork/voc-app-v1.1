@@ -1,0 +1,302 @@
+[
+  {
+    "word": "troop",
+    "meaning": "軍隊",
+    "example": "The troop moved quickly through the forest.",
+    "example_jp": "軍隊は森の中を素早く移動した。"
+  },
+  {
+    "word": "pharmacy",
+    "meaning": "薬局",
+    "example": "I need to go to the pharmacy to get medicine.",
+    "example_jp": "薬をもらいに薬局に行かなければならない。"
+  },
+  {
+    "word": "nightmare",
+    "meaning": "悪夢",
+    "example": "I had a terrible nightmare last night.",
+    "example_jp": "昨夜、ひどい悪夢を見た。"
+  },
+  {
+    "word": "slope",
+    "meaning": "坂",
+    "example": "We walked down the steep slope.",
+    "example_jp": "私たちは急な坂を歩いて下った。"
+  },
+  {
+    "word": "glacier",
+    "meaning": "氷河",
+    "example": "The glacier is slowly melting.",
+    "example_jp": "その氷河はゆっくりと溶けている。"
+  },
+  {
+    "word": "grief",
+    "meaning": "悲しみ",
+    "example": "She was overwhelmed with grief.",
+    "example_jp": "彼女は深い悲しみに打ちひしがれた。"
+  },
+  {
+    "word": "misery",
+    "meaning": "惨めさ",
+    "example": "The war brought great misery to the people.",
+    "example_jp": "戦争は人々にひどい惨めさをもたらした。"
+  },
+  {
+    "word": "accent",
+    "meaning": "なまり",
+    "example": "She speaks with a light French accent.",
+    "example_jp": "彼女は軽いフランス語のなまりで話す。"
+  },
+  {
+    "word": "ambassador",
+    "meaning": "大使",
+    "example": "The ambassador met with the government officials.",
+    "example_jp": "大使は政府高官たちと面会した。"
+  },
+  {
+    "word": "autopsy",
+    "meaning": "検死",
+    "example": "The autopsy revealed the cause of death.",
+    "example_jp": "検死によって死因が判明した。"
+  },
+  {
+    "word": "blast",
+    "meaning": "爆発",
+    "example": "The building collapsed after the blast.",
+    "example_jp": "爆発の後、その建物は崩壊した。"
+  },
+  {
+    "word": "courtesy",
+    "meaning": "礼儀正しさ",
+    "example": "He treated everyone with courtesy.",
+    "example_jp": "彼は誰に対しても礼儀正しく接した。"
+  },
+  {
+    "word": "deed",
+    "meaning": "行為",
+    "example": "He is known for his good deeds.",
+    "example_jp": "彼は善い行いで知られている。"
+  },
+  {
+    "word": "discourse",
+    "meaning": "話し合い",
+    "example": "The discourse on climate change was productive.",
+    "example_jp": "気候変動に関する話し合いは生産的だった。"
+  },
+  {
+    "word": "impulse",
+    "meaning": "衝動",
+    "example": "I bought it on impulse.",
+    "example_jp": "衝動買いをしてしまった。"
+  },
+  {
+    "word": "jar",
+    "meaning": "びん",
+    "example": "She opened the jar of pickles.",
+    "example_jp": "彼女はピクルスのびんを開けた。"
+  },
+  {
+    "word": "sibling",
+    "meaning": "兄弟姉妹",
+    "example": "I have two siblings.",
+    "example_jp": "私には2人の兄弟姉妹がいる。"
+  },
+  {
+    "word": "enthusiasm",
+    "meaning": "熱狂",
+    "example": "They showed great enthusiasm for the project.",
+    "example_jp": "彼らはそのプロジェクトに対して大きな熱狂を見せた。"
+  },
+  {
+    "word": "treasure",
+    "meaning": "宝物",
+    "example": "They searched for hidden treasure.",
+    "example_jp": "彼らは隠された宝物を探した。"
+  },
+  {
+    "word": "horizontal",
+    "meaning": "水平な",
+    "example": "Draw a horizontal line across the page.",
+    "example_jp": "ページを横切るように水平な線を引いて。"
+  },
+  {
+    "word": "indefinite",
+    "meaning": "はっきりしない",
+    "example": "The future of the project remains indefinite.",
+    "example_jp": "プロジェクトの将来ははっきりしないままだ。"
+  },
+  {
+    "word": "vulgar",
+    "meaning": "下品な",
+    "example": "His language was quite vulgar.",
+    "example_jp": "彼の言葉遣いはかなり下品だった。"
+  },
+  {
+    "word": "resilient",
+    "meaning": "回復力のある",
+    "example": "Children are often very resilient.",
+    "example_jp": "子供はたいていとても回復力がある。"
+  },
+  {
+    "word": "aquatic",
+    "meaning": "水生の",
+    "example": "Fish and whales are aquatic animals.",
+    "example_jp": "魚やクジラは水生の動物だ。"
+  },
+  {
+    "word": "insistent",
+    "meaning": "強く主張する",
+    "example": "He was insistent on going alone.",
+    "example_jp": "彼は一人で行くことを強く主張した。"
+  },
+  {
+    "word": "frantic",
+    "meaning": "気が狂いそうな",
+    "example": "They made a frantic search for the missing child.",
+    "example_jp": "彼らは行方不明の子供を気が狂いそうなほど必死に探した。"
+  },
+  {
+    "word": "deceptive",
+    "meaning": "人を惑わすような",
+    "example": "Appearances can be deceptive.",
+    "example_jp": "見かけは人を惑わすことがある。"
+  },
+  {
+    "word": "illogical",
+    "meaning": "不合理な",
+    "example": "Your argument is completely illogical.",
+    "example_jp": "あなたの議論は完全に不合理だ。"
+  },
+  {
+    "word": "elaborate",
+    "meaning": "精巧な",
+    "example": "The design of the clock is elaborate.",
+    "example_jp": "その時計のデザインは精巧だ。"
+  },
+  {
+    "word": "mellow",
+    "meaning": "円熟した",
+    "example": "His voice became mellow with age.",
+    "example_jp": "彼の声は年とともに円熟味を増した。"
+  },
+  {
+    "word": "boundless",
+    "meaning": "無限の",
+    "example": "She has boundless energy.",
+    "example_jp": "彼女は無限のエネルギーを持っている。"
+  },
+  {
+    "word": "cordial",
+    "meaning": "心温まる",
+    "example": "We received a cordial welcome.",
+    "example_jp": "私たちは心温まる歓迎を受けた。"
+  },
+  {
+    "word": "seasonal",
+    "meaning": "季節の",
+    "example": "We bought some seasonal fruit.",
+    "example_jp": "季節の果物をいくつか買った。"
+  },
+  {
+    "word": "sour",
+    "meaning": "酸っぱい",
+    "example": "The milk has gone sour.",
+    "example_jp": "牛乳が酸っぱくなってしまった。"
+  },
+  {
+    "word": "swift",
+    "meaning": "素早い",
+    "example": "The police took swift action.",
+    "example_jp": "警察は素早い行動をとった。"
+  },
+  {
+    "word": "cumulative",
+    "meaning": "累積する",
+    "example": "The cumulative effect of the medication is strong.",
+    "example_jp": "その薬の累積的な効果は強力だ。"
+  },
+  {
+    "word": "savage",
+    "meaning": "凶暴な",
+    "example": "It was a savage attack.",
+    "example_jp": "それは凶暴な攻撃だった。"
+  },
+  {
+    "word": "admirable",
+    "meaning": "賞賛に値する",
+    "example": "Her courage is admirable.",
+    "example_jp": "彼女の勇気は賞賛に値する。"
+  },
+  {
+    "word": "informative",
+    "meaning": "有益な",
+    "example": "The lecture was very informative.",
+    "example_jp": "その講義はとても有益だった。"
+  },
+  {
+    "word": "proportional",
+    "meaning": "釣り合った",
+    "example": "Punishment should be proportional to the crime.",
+    "example_jp": "罰は犯罪と釣り合っているべきだ。"
+  },
+  {
+    "word": "simultaneous",
+    "meaning": "同時に起こる",
+    "example": "There was a simultaneous explosion in two cities.",
+    "example_jp": "2つの都市で同時に爆発が起こった。"
+  },
+  {
+    "word": "static",
+    "meaning": "変化のない",
+    "example": "The population has remained static for years.",
+    "example_jp": "人口は数年間、変化のないままだ。"
+  },
+  {
+    "word": "uneasy",
+    "meaning": "落ち着かない",
+    "example": "He felt uneasy in the crowd.",
+    "example_jp": "彼は人ごみの中で落ち着かなかった。"
+  },
+  {
+    "word": "unequal",
+    "meaning": "不平等な",
+    "example": "They suffer from unequal treatment.",
+    "example_jp": "彼らは不平等な扱いに苦しんでいる。"
+  },
+  {
+    "word": "autonomous",
+    "meaning": "自主的な",
+    "example": "The students formed an autonomous group.",
+    "example_jp": "生徒たちは自主的なグループを結成した。"
+  },
+  {
+    "word": "bold",
+    "meaning": "大胆な",
+    "example": "She made a bold decision.",
+    "example_jp": "彼女は大胆な決断をした。"
+  },
+  {
+    "word": "pessimistic",
+    "meaning": "悲観的な",
+    "example": "Don't be so pessimistic about the future.",
+    "example_jp": "将来についてそんなに悲観的にならないで。"
+  },
+  {
+    "word": "repetitive",
+    "meaning": "繰り返しの",
+    "example": "His job is very repetitive.",
+    "example_jp": "彼の仕事はとても繰り返しの多いものだ。"
+  },
+  {
+    "word": "respiratory",
+    "meaning": "呼吸器に関する",
+    "example": "The smoke caused respiratory problems.",
+    "example_jp": "その煙が呼吸器の問題を引き起こした。"
+  },
+  {
+    "word": "coherent",
+    "meaning": "筋の通った",
+    "example": "He gave a coherent explanation.",
+    "example_jp": "彼は筋の通った説明をした。"
+  }
+]

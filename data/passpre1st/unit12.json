@@ -1,0 +1,332 @@
+[
+  {
+    "word": "investigation",
+    "meaning": "調査、研究",
+    "example": "The police launched an investigation into the crime.",
+    "example_jp": "警察はその犯罪の調査を開始した。"
+  },
+  {
+    "word": "boundary",
+    "meaning": "境界（線）",
+    "example": "The river forms the boundary between the two countries.",
+    "example_jp": "その川が両国の境界となっている。"
+  },
+  {
+    "word": "boundary",
+    "meaning": "限界",
+    "example": "She is pushing the boundaries of science.",
+    "example_jp": "彼女は科学の限界を押し広げている。"
+  },
+  {
+    "word": "compartment",
+    "meaning": "区画、部屋",
+    "example": "The train has a special compartment for luggage.",
+    "example_jp": "その列車には荷物用の特別な区画がある。"
+  },
+  {
+    "word": "substitute",
+    "meaning": "を代わりに使う",
+    "example": "You can substitute butter for oil.",
+    "example_jp": "油の代わりにバターを使うことができる。"
+  },
+  {
+    "word": "substitute",
+    "meaning": "代理をする",
+    "example": "He substituted for the injured player.",
+    "example_jp": "彼は怪我をした選手の代理を務めた。"
+  },
+  {
+    "word": "hybrid",
+    "meaning": "雑種の、混成の",
+    "example": "They bought a hybrid car.",
+    "example_jp": "彼らはハイブリッド車を買った。"
+  },
+  {
+    "word": "characteristic",
+    "meaning": "特徴",
+    "example": "Patience is one of his best characteristics.",
+    "example_jp": "忍耐強さは彼の長所の一つだ。"
+  },
+  {
+    "word": "routine",
+    "meaning": "決まり切った仕事、いつもの手順",
+    "example": "It is part of my daily routine to exercise.",
+    "example_jp": "運動することは日課の一部だ。"
+  },
+  {
+    "word": "edge",
+    "meaning": "刃、端",
+    "example": "Be careful with the sharp edge of the knife.",
+    "example_jp": "ナイフの鋭い刃に気をつけて。"
+  },
+  {
+    "word": "edge",
+    "meaning": "優勢",
+    "example": "Our team has an edge over the others.",
+    "example_jp": "私たちのチームは他より優勢だ。"
+  },
+  {
+    "word": "incident",
+    "meaning": "出来事、事件、紛争",
+    "example": "The incident caused a lot of trouble.",
+    "example_jp": "その事件は多くのトラブルを引き起こした。"
+  },
+  {
+    "word": "clue",
+    "meaning": "手がかり、ヒント",
+    "example": "The police found a clue to the mystery.",
+    "example_jp": "警察はその謎の手がかりを見つけた。"
+  },
+  {
+    "word": "removal",
+    "meaning": "除去、移動",
+    "example": "The removal of the old tree was necessary.",
+    "example_jp": "その古い木の除去が必要だった。"
+  },
+  {
+    "word": "outcome",
+    "meaning": "結果",
+    "example": "We are waiting for the outcome of the meeting.",
+    "example_jp": "私たちは会議の結果を待っている。"
+  },
+  {
+    "word": "altitude",
+    "meaning": "高度，標高",
+    "example": "The plane is flying at a high altitude.",
+    "example_jp": "飛行機は高高度を飛んでいる。"
+  },
+  {
+    "word": "closure",
+    "meaning": "閉鎖",
+    "example": "The factory closure affected many workers.",
+    "example_jp": "工場の閉鎖は多くの労働者に影響した。"
+  },
+  {
+    "word": "compound",
+    "meaning": "を悪化させる",
+    "example": "His delay only compounded the problem.",
+    "example_jp": "彼の遅刻が問題をさらに悪化させた。"
+  },
+  {
+    "word": "compound",
+    "meaning": "を合成する、混合する",
+    "example": "The chemist compounded the liquids.",
+    "example_jp": "化学者はその液体を混ぜ合わせた。"
+  },
+  {
+    "word": "surplus",
+    "meaning": "余剰、過剰",
+    "example": "They sold the surplus grain.",
+    "example_jp": "彼らは余剰の穀物を売った。"
+  },
+  {
+    "word": "surplus",
+    "meaning": "黒字",
+    "example": "The government has a budget surplus this year.",
+    "example_jp": "政府は今年、予算黒字となっている。"
+  },
+  {
+    "word": "vaccine",
+    "meaning": "ワクチン",
+    "example": "They developed a new vaccine.",
+    "example_jp": "彼らは新しいワクチンを開発した。"
+  },
+  {
+    "word": "reference",
+    "meaning": "言及、参照",
+    "example": "He made no reference to the previous report.",
+    "example_jp": "彼は前の報告書について言及しなかった。"
+  },
+  {
+    "word": "obligation",
+    "meaning": "義務、責任",
+    "example": "We have an obligation to help others.",
+    "example_jp": "私たちには他人を助ける義務がある。"
+  },
+  {
+    "word": "ritual",
+    "meaning": "儀式、習慣的行為",
+    "example": "Drinking coffee is my morning ritual.",
+    "example_jp": "コーヒーを飲むのが私の朝の習慣だ。"
+  },
+  {
+    "word": "mean",
+    "meaning": "意地の悪い、不親切な",
+    "example": "It was mean of him to say that.",
+    "example_jp": "あんなことを言うなんて彼は意地が悪い。"
+  },
+  {
+    "word": "coral",
+    "meaning": "サンゴ(製)の",
+    "example": "She wore a beautiful coral necklace.",
+    "example_jp": "彼女は美しいサンゴのネックレスをしていた。"
+  },
+  {
+    "word": "novel",
+    "meaning": "斬新な、目新しい",
+    "example": "This is a novel approach to the problem.",
+    "example_jp": "これは問題に対する斬新なアプローチだ。"
+  },
+  {
+    "word": "relevant",
+    "meaning": "関係がある、適切な",
+    "example": "His comments were relevant to the topic.",
+    "example_jp": "彼のコメントはそのトピックに関連していた。"
+  },
+  {
+    "word": "efficient",
+    "meaning": "効率的な、有能な",
+    "example": "She is a very efficient worker.",
+    "example_jp": "彼女は非常に有能な働き手だ。"
+  },
+  {
+    "word": "fragile",
+    "meaning": "壊れやすい、虚弱な",
+    "example": "Handle the fragile vase with care.",
+    "example_jp": "その壊れやすい花瓶を慎重に扱って。"
+  },
+  {
+    "word": "impressive",
+    "meaning": "印象的な、感動的な",
+    "example": "He gave an impressive performance.",
+    "example_jp": "彼は印象的なパフォーマンスをした。"
+  },
+  {
+    "word": "offensive",
+    "meaning": "不快な、攻撃的な",
+    "example": "His remarks were offensive to many people.",
+    "example_jp": "彼の発言は多くの人にとって不快だった。"
+  },
+  {
+    "word": "distinct",
+    "meaning": "明らかに異なる、明瞭な",
+    "example": "There is a distinct difference between the two.",
+    "example_jp": "その2つの間には明らかな違いがある。"
+  },
+  {
+    "word": "temporary",
+    "meaning": "一時的な",
+    "example": "This is just a temporary solution.",
+    "example_jp": "これはただの一時的な解決策だ。"
+  },
+  {
+    "word": "arrogant",
+    "meaning": "横柄な，傲慢な",
+    "example": "He is too arrogant to listen to advice.",
+    "example_jp": "彼は傲慢すぎてアドバイスを聞かない。"
+  },
+  {
+    "word": "spacious",
+    "meaning": "広々とした",
+    "example": "They have a spacious living room.",
+    "example_jp": "彼らは広々としたリビングルームを持っている。"
+  },
+  {
+    "word": "reasonable",
+    "meaning": "筋の通った、分別のある、手ごろな",
+    "example": "The price is very reasonable.",
+    "example_jp": "その価格はとても手ごろだ。"
+  },
+  {
+    "word": "substantial",
+    "meaning": "かなりの、重要な、実質的な",
+    "example": "They made a substantial profit.",
+    "example_jp": "彼らはかなりの利益を上げた。"
+  },
+  {
+    "word": "disabled",
+    "meaning": "障害のある",
+    "example": "The building has facilities for disabled people.",
+    "example_jp": "その建物には障害者のための設備がある。"
+  },
+  {
+    "word": "straightforward",
+    "meaning": "単純な、率直な",
+    "example": "The instructions are very straightforward.",
+    "example_jp": "その指示はとても単純明快だ。"
+  },
+  {
+    "word": "tame",
+    "meaning": "飼いならされた、人に慣れた、退屈な",
+    "example": "The animals are tame and won't bite.",
+    "example_jp": "その動物は飼いならされていて噛まない。"
+  },
+  {
+    "word": "mandatory",
+    "meaning": "義務的な、強制的な",
+    "example": "Wearing a helmet is mandatory.",
+    "example_jp": "ヘルメットの着用は義務的だ。"
+  },
+  {
+    "word": "edible",
+    "meaning": "食用の，食べられる",
+    "example": "Are these mushrooms edible?",
+    "example_jp": "これらのキノコは食べられますか？"
+  },
+  {
+    "word": "outstanding",
+    "meaning": "際立った、未払いの、未解決の",
+    "example": "She did an outstanding job.",
+    "example_jp": "彼女は際立って良い仕事をした。"
+  },
+  {
+    "word": "deadly",
+    "meaning": "致命的な、命にかかわる",
+    "example": "The snake has a deadly poison.",
+    "example_jp": "そのヘビは致命的な毒を持っている。"
+  },
+  {
+    "word": "petty",
+    "meaning": "低級の、心の狭い、取るに足らない",
+    "example": "Don't worry about petty details.",
+    "example_jp": "取るに足らない詳細なことを気にするな。"
+  },
+  {
+    "word": "definitely",
+    "meaning": "間違いなく、確かに",
+    "example": "I will definitely be there.",
+    "example_jp": "間違いなくそこに行くよ。"
+  },
+  {
+    "word": "roughly",
+    "meaning": "おおよそ、乱暴に",
+    "example": "It costs roughly ten dollars.",
+    "example_jp": "それにはおおよそ10ドルかかる。"
+  },
+  {
+    "word": "virtually",
+    "meaning": "ほとんど、実質的に",
+    "example": "The job is virtually finished.",
+    "example_jp": "その仕事はほとんど終わっている。"
+  },
+  {
+    "word": "apparently",
+    "meaning": "聞いたところでは、どうやら",
+    "example": "Apparently, it is going to rain.",
+    "example_jp": "どうやら雨が降るようだ。"
+  },
+  {
+    "word": "unfairly",
+    "meaning": "不当に、不公平に",
+    "example": "He was treated unfairly.",
+    "example_jp": "彼は不公平に扱われた。"
+  },
+  {
+    "word": "briefly",
+    "meaning": "少しの間に、簡潔に",
+    "example": "He spoke briefly about the plan.",
+    "example_jp": "彼はその計画について簡潔に話した。"
+  },
+  {
+    "word": "aside",
+    "meaning": "わきに、別にして",
+    "example": "Aside from the cost, it is a great idea.",
+    "example_jp": "費用を別にして考えれば、それは素晴らしいアイデアだ。"
+  },
+  {
+    "word": "legally",
+    "meaning": "法的に、合法的に",
+    "example": "You are legally responsible for this.",
+    "example_jp": "あなたはこのことについて法的に責任がある。"
+  }
+]

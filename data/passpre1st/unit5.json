@@ -1,0 +1,458 @@
+[
+  {
+    "word": "donate",
+    "meaning": "を寄付する",
+    "example": "He donated money to the local charity.",
+    "example_jp": "彼は地元の慈善団体に寄付した。"
+  },
+  {
+    "word": "donate",
+    "meaning": "（臓器・血液）を提供する",
+    "example": "She decided to donate blood at the hospital.",
+    "example_jp": "彼女は病院で献血することに決めた。"
+  },
+  {
+    "word": "lessen",
+    "meaning": "を減らす",
+    "example": "Take this medicine to lessen the pain.",
+    "example_jp": "痛みを和らげる（減らす）ためにこの薬を飲んでください。"
+  },
+  {
+    "word": "manufacture",
+    "meaning": "を製造する",
+    "example": "They manufacture car parts in this factory.",
+    "example_jp": "彼らはこの工場で自動車部品を製造している。"
+  },
+  {
+    "word": "manufacture",
+    "meaning": "をでっち上げる",
+    "example": "He manufactured a fake excuse for being late.",
+    "example_jp": "彼は遅刻の言い訳をでっち上げた。"
+  },
+  {
+    "word": "commute",
+    "meaning": "通勤［通学］する",
+    "example": "It takes an hour to commute to work.",
+    "example_jp": "通勤に1時間かかる。"
+  },
+  {
+    "word": "exaggerate",
+    "meaning": "を誇張する",
+    "example": "Don't exaggerate the risks of the project.",
+    "example_jp": "そのプロジェクトのリスクを誇張してはいけない。"
+  },
+  {
+    "word": "exaggerate",
+    "meaning": "を強調する",
+    "example": "The lighting exaggerated the shadows in the room.",
+    "example_jp": "その照明が部屋の影を際立たせていた。"
+  },
+  {
+    "word": "suspect",
+    "meaning": "ではないかと思う",
+    "example": "I suspect that he is hiding something.",
+    "example_jp": "彼が何かを隠しているのではないかと思う。"
+  },
+  {
+    "word": "suspect",
+    "meaning": "（人）を疑う",
+    "example": "The police suspect him of the crime.",
+    "example_jp": "警察は彼を犯人ではないかと疑っている。"
+  },
+  {
+    "word": "acquire",
+    "meaning": "を得る",
+    "example": "She acquired a taste for classical music.",
+    "example_jp": "彼女はクラシック音楽の良さがわかるようになった。"
+  },
+  {
+    "word": "acquire",
+    "meaning": "を習得する",
+    "example": "It takes time to acquire a new skill.",
+    "example_jp": "新しい技術を習得するには時間がかかる。"
+  },
+  {
+    "word": "reintroduce",
+    "meaning": "(動植物など)を再導入する",
+    "example": "They reintroduced wolves to the mountain area.",
+    "example_jp": "彼らは山岳地域にオオカミを再導入した。"
+  },
+  {
+    "word": "reintroduce",
+    "meaning": "(制度など)を復活させる",
+    "example": "The government reintroduced the old tax system.",
+    "example_jp": "政府はその古い税制を復活させた。"
+  },
+  {
+    "word": "reschedule",
+    "meaning": "の日時を変更する",
+    "example": "Can we reschedule our meeting to next week?",
+    "example_jp": "会議を来週に変更できますか？"
+  },
+  {
+    "word": "adapt",
+    "meaning": "適応する",
+    "example": "It takes time to adapt to a new culture.",
+    "example_jp": "新しい文化に適応するには時間がかかる。"
+  },
+  {
+    "word": "adapt",
+    "meaning": "を適合させる",
+    "example": "He adapted the book into a movie script.",
+    "example_jp": "彼はその本を映画の脚本に作り変えた。"
+  },
+  {
+    "word": "generate",
+    "meaning": "を生み出す",
+    "example": "The new project generated a lot of interest.",
+    "example_jp": "その新しいプロジェクトは大きな関心を生み出した。"
+  },
+  {
+    "word": "generate",
+    "meaning": "（電気など）を発生させる",
+    "example": "Solar panels generate electricity for the home.",
+    "example_jp": "ソーラーパネルは家庭用の電気を発電する。"
+  },
+  {
+    "word": "guarantee",
+    "meaning": "を保証する",
+    "example": "We guarantee that the product is of high quality.",
+    "example_jp": "私たちはその製品の品質が高いことを保証します。"
+  },
+  {
+    "word": "dump",
+    "meaning": "を投棄する",
+    "example": "It is illegal to dump trash in this forest.",
+    "example_jp": "この森にゴミを投棄することは違法だ。"
+  },
+  {
+    "word": "dump",
+    "meaning": "をどさっと落とす",
+    "example": "He dumped his heavy bags on the floor.",
+    "example_jp": "彼は重い荷物を床にどさっと置いた。"
+  },
+  {
+    "word": "update",
+    "meaning": "を最新のものにする",
+    "example": "Please update your contact information.",
+    "example_jp": "連絡先情報を最新のものにしてください。"
+  },
+  {
+    "word": "classify",
+    "meaning": "を分類する",
+    "example": "The library classifies books by genre.",
+    "example_jp": "図書館は本をジャンルごとに分類している。"
+  },
+  {
+    "word": "classify",
+    "meaning": "を機密扱いにする",
+    "example": "The government classified the document as secret.",
+    "example_jp": "政府はその文書を極秘扱いとした。"
+  },
+  {
+    "word": "acknowledge",
+    "meaning": "（事実など）を認める",
+    "example": "He acknowledged that he made a mistake.",
+    "example_jp": "彼は間違いを犯したことを認めた。"
+  },
+  {
+    "word": "acknowledge",
+    "meaning": "に謝意を表す",
+    "example": "She acknowledged his help in her speech.",
+    "example_jp": "彼女はスピーチで彼への感謝を述べた。"
+  },
+  {
+    "word": "enforce",
+    "meaning": "を施行［実施］する",
+    "example": "The police enforce traffic laws strictly.",
+    "example_jp": "警察は交通ルールを厳格に施行している。"
+  },
+  {
+    "word": "enforce",
+    "meaning": "を強制する",
+    "example": "He enforces strict rules in his home.",
+    "example_jp": "彼は家で厳しいルールを強いている。"
+  },
+  {
+    "word": "renew",
+    "meaning": "を更新する",
+    "example": "I need to renew my passport this year.",
+    "example_jp": "今年、パスポートを更新する必要がある。"
+  },
+  {
+    "word": "renew",
+    "meaning": "（資源）を再生する",
+    "example": "Trees can renew our oxygen supply.",
+    "example_jp": "木々は酸素供給を再生してくれる。"
+  },
+  {
+    "word": "overlook",
+    "meaning": "を見落とす",
+    "example": "You overlooked an error in the report.",
+    "example_jp": "報告書の誤りを見落としていた。"
+  },
+  {
+    "word": "overlook",
+    "meaning": "を大目に見る",
+    "example": "I will overlook your behavior this time.",
+    "example_jp": "今回はあなたの行いを大目に見よう。"
+  },
+  {
+    "word": "overlook",
+    "meaning": "を見渡す",
+    "example": "Our hotel room overlooks the ocean.",
+    "example_jp": "私たちのホテルの部屋からは海が見渡せる。"
+  },
+  {
+    "word": "evaluate",
+    "meaning": "を評価する",
+    "example": "We need to evaluate the candidate's skills.",
+    "example_jp": "候補者のスキルを評価する必要がある。"
+  },
+  {
+    "word": "commit",
+    "meaning": "献身する",
+    "example": "She is fully committed to her new job.",
+    "example_jp": "彼女は新しい仕事に全力で取り組んでいる。"
+  },
+  {
+    "word": "commit",
+    "meaning": "（罪など）を犯す",
+    "example": "He committed a serious crime last year.",
+    "example_jp": "彼は昨年、重大な罪を犯した。"
+  },
+  {
+    "word": "commit",
+    "meaning": "を投入する",
+    "example": "The company is committing more funds to research.",
+    "example_jp": "その会社は研究により多くの資金を投入している。"
+  },
+  {
+    "word": "argument",
+    "meaning": "議論",
+    "example": "We had a long argument about politics.",
+    "example_jp": "政治について長い議論をした。"
+  },
+  {
+    "word": "argument",
+    "meaning": "口論",
+    "example": "They had a heated argument in the hallway.",
+    "example_jp": "彼らは廊下で激しい口論をした。"
+  },
+  {
+    "word": "archaeologist",
+    "meaning": "考古学者",
+    "example": "The archaeologist found ancient ruins.",
+    "example_jp": "考古学者が古代の遺跡を発見した。"
+  },
+  {
+    "word": "reputation",
+    "meaning": "評判",
+    "example": "This hotel has an excellent reputation.",
+    "example_jp": "このホテルは素晴らしい評判だ。"
+  },
+  {
+    "word": "fossil",
+    "meaning": "化石",
+    "example": "The students studied the dinosaur fossil.",
+    "example_jp": "生徒たちは恐竜の化石を研究した。"
+  },
+  {
+    "word": "fossil",
+    "meaning": "時代遅れの人［物］",
+    "example": "He is a bit of a fossil in his thinking.",
+    "example_jp": "彼の考え方は少し時代遅れだ。"
+  },
+  {
+    "word": "status",
+    "meaning": "地位",
+    "example": "He has a high status in the company.",
+    "example_jp": "彼は会社で高い地位にいる。"
+  },
+  {
+    "word": "status",
+    "meaning": "状態",
+    "example": "Please check the status of your application.",
+    "example_jp": "申請の状態を確認してください。"
+  },
+  {
+    "word": "contrast",
+    "meaning": "対照",
+    "example": "This color contrasts with the dark background.",
+    "example_jp": "この色は暗い背景と対照的だ。"
+  },
+  {
+    "word": "workplace",
+    "meaning": "職場",
+    "example": "Stress is common in the modern workplace.",
+    "example_jp": "現代の職場ではストレスが一般的だ。"
+  },
+  {
+    "word": "equality",
+    "meaning": "平等",
+    "example": "We believe in gender equality.",
+    "example_jp": "私たちは男女平等を信じている。"
+  },
+  {
+    "word": "colleague",
+    "meaning": "同僚",
+    "example": "I discussed the plan with my colleague.",
+    "example_jp": "同僚とその計画について話し合った。"
+  },
+  {
+    "word": "assistance",
+    "meaning": "援助、支援",
+    "example": "Do you need any assistance with your luggage?",
+    "example_jp": "荷物のお手伝い（支援）が必要ですか？"
+  },
+  {
+    "word": "luxury",
+    "meaning": "ぜいたく（品）",
+    "example": "He enjoys the luxury of a private jet.",
+    "example_jp": "彼はプライベートジェットという贅沢を楽しんでいる。"
+  },
+  {
+    "word": "luxury",
+    "meaning": "豪華な",
+    "example": "They stayed at a luxury hotel in Paris.",
+    "example_jp": "彼らはパリの豪華なホテルに泊まった。"
+  },
+  {
+    "word": "outbreak",
+    "meaning": "発生，勃発",
+    "example": "The outbreak of the flu was sudden.",
+    "example_jp": "インフルエンザの発生は突然だった。"
+  },
+  {
+    "word": "council",
+    "meaning": "議会、評議会",
+    "example": "The city council voted on the new law.",
+    "example_jp": "市議会が新しい法律について投票した。"
+  },
+  {
+    "word": "pottery",
+    "meaning": "陶器類、焼き物類",
+    "example": "She makes beautiful pottery in her studio.",
+    "example_jp": "彼女はスタジオで美しい陶器を作っている。"
+  },
+  {
+    "word": "assignment",
+    "meaning": "任務、宿題、割り当て",
+    "example": "I have a difficult assignment due tomorrow.",
+    "example_jp": "明日提出の難しい課題（宿題）がある。"
+  },
+  {
+    "word": "particle",
+    "meaning": "（微）粒子",
+    "example": "A tiny particle of dust got in my eye.",
+    "example_jp": "小さな粒子が目に入った。"
+  },
+  {
+    "word": "particle",
+    "meaning": "ほんのわずか",
+    "example": "There is not a particle of truth in his story.",
+    "example_jp": "彼の話には真実がほんのわずかもない。"
+  },
+  {
+    "word": "radiation",
+    "meaning": "放射能，放射線",
+    "example": "The equipment measures the level of radiation.",
+    "example_jp": "その機器は放射線の量を測定する。"
+  },
+  {
+    "word": "priority",
+    "meaning": "優先（事項）",
+    "example": "My top priority is to finish the project.",
+    "example_jp": "最優先事項はプロジェクトを終えることだ。"
+  },
+  {
+    "word": "content",
+    "meaning": "内容，中身；コンテンツ",
+    "example": "The content of the email was very helpful.",
+    "example_jp": "メールの内容はとても役立った。"
+  },
+  {
+    "word": "destination",
+    "meaning": "目的地、行き先",
+    "example": "We finally arrived at our destination.",
+    "example_jp": "ついに目的地に到着した。"
+  },
+  {
+    "word": "mine",
+    "meaning": "鉱山",
+    "example": "He works in a coal mine.",
+    "example_jp": "彼は炭鉱で働いている。"
+  },
+  {
+    "word": "mine",
+    "meaning": "地雷",
+    "example": "The ship hit a sea mine.",
+    "example_jp": "船は機雷（海中の地雷）に衝突した。"
+  },
+  {
+    "word": "injury",
+    "meaning": "傷害、けが",
+    "example": "He suffered a minor injury in the game.",
+    "example_jp": "彼は試合で軽いけがをした。"
+  },
+  {
+    "word": "lottery",
+    "meaning": "宝くじ、抽選",
+    "example": "I bought a ticket for the lottery.",
+    "example_jp": "私は宝くじを買った。"
+  },
+  {
+    "word": "feature",
+    "meaning": "特徴",
+    "example": "Speed is a key feature of this car.",
+    "example_jp": "速さがこの車の主な特徴だ。"
+  },
+  {
+    "word": "feature",
+    "meaning": "特集記事",
+    "example": "The magazine has a feature on travel.",
+    "example_jp": "その雑誌には旅行の特集記事がある。"
+  },
+  {
+    "word": "labor",
+    "meaning": "労働、労働力",
+    "example": "Hard labor made him very tired.",
+    "example_jp": "重労働で彼はとても疲れた。"
+  },
+  {
+    "word": "diabetes",
+    "meaning": "糖尿病",
+    "example": "He manages his diabetes with a healthy diet.",
+    "example_jp": "彼は健康的な食事で糖尿病を管理している。"
+  },
+  {
+    "word": "bulb",
+    "meaning": "電球",
+    "example": "The light bulb burnt out.",
+    "example_jp": "電球が切れた。"
+  },
+  {
+    "word": "bulb",
+    "meaning": "球根",
+    "example": "I planted tulip bulbs in the garden.",
+    "example_jp": "庭にチューリップの球根を植えた。"
+  },
+  {
+    "word": "résumé",
+    "meaning": "履歴書",
+    "example": "Please send me your résumé.",
+    "example_jp": "履歴書を送ってください。"
+  },
+  {
+    "word": "résumé",
+    "meaning": "要約",
+    "example": "He gave a short résumé of the meeting.",
+    "example_jp": "彼は会議の要約を短く伝えた。"
+  },
+  {
+    "word": "mud",
+    "meaning": "ぬかるみ、泥",
+    "example": "My shoes were covered in mud.",
+    "example_jp": "私の靴は泥だらけだった。"
+  }
+]

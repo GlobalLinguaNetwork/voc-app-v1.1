@@ -1,0 +1,314 @@
+[
+  {
+    "word": "bride",
+    "meaning": "花嫁",
+    "example": "The bride looked beautiful in her dress.",
+    "example_jp": "花嫁はドレス姿が美しかった。"
+  },
+  {
+    "word": "dictator",
+    "meaning": "独裁者",
+    "example": "The country was ruled by a dictator.",
+    "example_jp": "その国は独裁者に支配されていた。"
+  },
+  {
+    "word": "signature",
+    "meaning": "署名",
+    "example": "Please put your signature here.",
+    "example_jp": "ここに署名をお願いします。"
+  },
+  {
+    "word": "signature",
+    "meaning": "特徴",
+    "example": "This is his signature style of painting.",
+    "example_jp": "これが彼の特徴的な絵のスタイルだ。"
+  },
+  {
+    "word": "testament",
+    "meaning": "あかし",
+    "example": "This success is a testament to his hard work.",
+    "example_jp": "この成功は彼の努力のあかしだ。"
+  },
+  {
+    "word": "attachment",
+    "meaning": "添付ファイル",
+    "example": "I sent the file as an attachment.",
+    "example_jp": "そのファイルを添付ファイルとして送った。"
+  },
+  {
+    "word": "bachelor",
+    "meaning": "独身の男性",
+    "example": "He has been a bachelor all his life.",
+    "example_jp": "彼は生涯独身を通してきた。"
+  },
+  {
+    "word": "bachelor",
+    "meaning": "学士",
+    "example": "She holds a bachelor's degree in science.",
+    "example_jp": "彼女は理学の学士号を持っている。"
+  },
+  {
+    "word": "blister",
+    "meaning": "水ぶくれ",
+    "example": "My new shoes gave me a blister.",
+    "example_jp": "新しい靴のせいで水ぶくれができた。"
+  },
+  {
+    "word": "blockade",
+    "meaning": "封鎖",
+    "example": "The port was under a strict blockade.",
+    "example_jp": "港は厳重な封鎖下にあった。"
+  },
+  {
+    "word": "condo",
+    "meaning": "分譲マンション",
+    "example": "They bought a new condo downtown.",
+    "example_jp": "彼らは街中に新しい分譲マンションを買った。"
+  },
+  {
+    "word": "invoice",
+    "meaning": "明細請求書",
+    "example": "Please pay the invoice by Friday.",
+    "example_jp": "金曜日までに明細請求書を支払ってください。"
+  },
+  {
+    "word": "leisure",
+    "meaning": "余暇",
+    "example": "I don't have much leisure time.",
+    "example_jp": "私にはあまり余暇がない。"
+  },
+  {
+    "word": "meditation",
+    "meaning": "瞑想",
+    "example": "She practices meditation every morning.",
+    "example_jp": "彼女は毎朝瞑想を行っている。"
+  },
+  {
+    "word": "procession",
+    "meaning": "行列",
+    "example": "The funeral procession moved slowly.",
+    "example_jp": "葬列がゆっくりと進んだ。"
+  },
+  {
+    "word": "unrest",
+    "meaning": "混乱",
+    "example": "Social unrest is spreading across the city.",
+    "example_jp": "社会的な混乱が街中に広がっている。"
+  },
+  {
+    "word": "equator",
+    "meaning": "赤道",
+    "example": "The country is located near the equator.",
+    "example_jp": "その国は赤道の近くに位置している。"
+  },
+  {
+    "word": "exhausted",
+    "meaning": "疲れ果てた",
+    "example": "I was exhausted after the long walk.",
+    "example_jp": "長い間歩いた後で、私は疲れ果てた。"
+  },
+  {
+    "word": "problematic",
+    "meaning": "問題のある",
+    "example": "The current situation is quite problematic.",
+    "example_jp": "現在の状況は非常に問題がある。"
+  },
+  {
+    "word": "desirable",
+    "meaning": "望ましい",
+    "example": "A quiet room is desirable for studying.",
+    "example_jp": "勉強には静かな部屋が望ましい。"
+  },
+  {
+    "word": "geological",
+    "meaning": "地質上の",
+    "example": "The area has a unique geological structure.",
+    "example_jp": "その地域は独特の地質構造を持っている。"
+  },
+  {
+    "word": "rash",
+    "meaning": "軽率な",
+    "example": "Don't make a rash decision.",
+    "example_jp": "軽率な決断をしてはいけない。"
+  },
+  {
+    "word": "solitary",
+    "meaning": "ひとりの",
+    "example": "He enjoys a solitary walk in the woods.",
+    "example_jp": "彼は森の中をひとりで散歩することを楽しんでいる。"
+  },
+  {
+    "word": "uneven",
+    "meaning": "でこぼこな",
+    "example": "The path is very uneven.",
+    "example_jp": "その道はとてもでこぼこだ。"
+  },
+  {
+    "word": "antique",
+    "meaning": "骨董の",
+    "example": "She collects antique furniture.",
+    "example_jp": "彼女は骨董の家具を集めている。"
+  },
+  {
+    "word": "dense",
+    "meaning": "密集した",
+    "example": "The forest is very dense.",
+    "example_jp": "その森は非常に密集している。"
+  },
+  {
+    "word": "economical",
+    "meaning": "経済的な",
+    "example": "Small cars are more economical to run.",
+    "example_jp": "小型車の方が維持費が安く経済的だ。"
+  },
+  {
+    "word": "fictional",
+    "meaning": "架空の",
+    "example": "The story is based on fictional characters.",
+    "example_jp": "その物語は架空の登場人物に基づいている。"
+  },
+  {
+    "word": "gradual",
+    "meaning": "徐々の",
+    "example": "We saw a gradual change in the weather.",
+    "example_jp": "天候が徐々に変わるのを見た。"
+  },
+  {
+    "word": "intimate",
+    "meaning": "親密な",
+    "example": "They are intimate friends.",
+    "example_jp": "彼らは親密な友人だ。"
+  },
+  {
+    "word": "lengthy",
+    "meaning": "長い",
+    "example": "The meeting was a lengthy one.",
+    "example_jp": "会議は長時間のものだった。"
+  },
+  {
+    "word": "ultimate",
+    "meaning": "究極の",
+    "example": "This is the ultimate test of your skills.",
+    "example_jp": "これがあなたのスキルの究極の試練だ。"
+  },
+  {
+    "word": "victorious",
+    "meaning": "勝利を得た",
+    "example": "The victorious team celebrated all night.",
+    "example_jp": "勝利を得たチームは一晩中祝った。"
+  },
+  {
+    "word": "witty",
+    "meaning": "機知に富んだ",
+    "example": "He gave a witty reply.",
+    "example_jp": "彼は機知に富んだ返事をした。"
+  },
+  {
+    "word": "blurry",
+    "meaning": "ぼやけた",
+    "example": "The photo looks a bit blurry.",
+    "example_jp": "その写真は少しぼやけて見える。"
+  },
+  {
+    "word": "exceptional",
+    "meaning": "例外的に優れた",
+    "example": "She showed exceptional talent.",
+    "example_jp": "彼女は例外的に優れた才能を見せた。"
+  },
+  {
+    "word": "finite",
+    "meaning": "有限の",
+    "example": "Our time on earth is finite.",
+    "example_jp": "地球上での私たちの時間は有限だ。"
+  },
+  {
+    "word": "on-the-job",
+    "meaning": "実地の",
+    "example": "They provide on-the-job training.",
+    "example_jp": "彼らは実地訓練を提供している。"
+  },
+  {
+    "word": "vacant",
+    "meaning": "空いている",
+    "example": "Is this seat vacant?",
+    "example_jp": "この席は空いていますか？"
+  },
+  {
+    "word": "cheery",
+    "meaning": "陽気な",
+    "example": "She has a cheery personality.",
+    "example_jp": "彼女は陽気な性格だ。"
+  },
+  {
+    "word": "cowardly",
+    "meaning": "卑怯な",
+    "example": "It was a cowardly act.",
+    "example_jp": "それは卑怯な行為だった。"
+  },
+  {
+    "word": "immeasurable",
+    "meaning": "計り知れない",
+    "example": "The benefit is immeasurable.",
+    "example_jp": "その利益は計り知れない。"
+  },
+  {
+    "word": "impaired",
+    "meaning": "障害のある",
+    "example": "He is visually impaired.",
+    "example_jp": "彼は視覚に障害がある。"
+  },
+  {
+    "word": "impassable",
+    "meaning": "通行できない",
+    "example": "The road was impassable due to snow.",
+    "example_jp": "雪のためにその道は通行できなかった。"
+  },
+  {
+    "word": "inactive",
+    "meaning": "不活発な",
+    "example": "He has been inactive for months.",
+    "example_jp": "彼はここ数ヶ月間、不活発だ。"
+  },
+  {
+    "word": "inconvenient",
+    "meaning": "不便な",
+    "example": "This time is inconvenient for me.",
+    "example_jp": "この時間は私にとって不便だ。"
+  },
+  {
+    "word": "superstitious",
+    "meaning": "迷信深い",
+    "example": "She is quite superstitious.",
+    "example_jp": "彼女はかなり迷信深い。"
+  },
+  {
+    "word": "unpleasant",
+    "meaning": "不愉快な",
+    "example": "It was an unpleasant experience.",
+    "example_jp": "それは不愉快な経験だった。"
+  },
+  {
+    "word": "wicked",
+    "meaning": "悪意のある",
+    "example": "He had a wicked smile.",
+    "example_jp": "彼は悪意のある笑みを浮かべていた。"
+  },
+  {
+    "word": "ecological",
+    "meaning": "環境の",
+    "example": "We should focus on ecological issues.",
+    "example_jp": "私たちは環境問題に焦点を当てるべきだ。"
+  },
+  {
+    "word": "imaginary",
+    "meaning": "想像上の",
+    "example": "The child has an imaginary friend.",
+    "example_jp": "その子供には想像上の友達がいる。"
+  },
+  {
+    "word": "ripe",
+    "meaning": "熟した",
+    "example": "These tomatoes are perfectly ripe.",
+    "example_jp": "これらのトマトは完全に熟している。"
+  }
+]

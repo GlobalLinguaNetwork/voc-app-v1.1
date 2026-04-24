@@ -1,0 +1,542 @@
+[
+  {
+    "word": "account for",
+    "meaning": "～を占める",
+    "example": "Student projects account for 30% of the grade.",
+    "example_jp": "学生のプロジェクトが成績の30%を占める。"
+  },
+  {
+    "word": "account for",
+    "meaning": "～の理由を説明する",
+    "example": "Can you account for your absence yesterday?",
+    "example_jp": "昨日の欠席の理由を説明できますか？"
+  },
+  {
+    "word": "accuse A of B",
+    "meaning": "AをBの罪で告訴する",
+    "example": "They accused him of theft.",
+    "example_jp": "彼らは彼を窃盗罪で告訴した。"
+  },
+  {
+    "word": "accuse A of B",
+    "meaning": "AをBの理由で非難する",
+    "example": "She accused him of being lazy.",
+    "example_jp": "彼女は彼を怠け者だと非難した。"
+  },
+  {
+    "word": "act on",
+    "meaning": "～に従って行動する",
+    "example": "We decided to act on his advice.",
+    "example_jp": "彼の忠告に従って行動することにした。"
+  },
+  {
+    "word": "act on",
+    "meaning": "～に影響を及ぼす",
+    "example": "The chemical acts on the central nervous system.",
+    "example_jp": "その化学物質は中枢神経系に影響を及ぼす。"
+  },
+  {
+    "word": "act out",
+    "meaning": "～を身振りで実演する",
+    "example": "The children acted out the story.",
+    "example_jp": "子供たちはその物語を身振りで実演した。"
+  },
+  {
+    "word": "add up to",
+    "meaning": "合計が～になる",
+    "example": "The expenses add up to five hundred dollars.",
+    "example_jp": "出費の合計が500ドルになる。"
+  },
+  {
+    "word": "add up to",
+    "meaning": "結局～ということになる",
+    "example": "His words add up to a refusal.",
+    "example_jp": "彼の言葉は結局、拒絶ということになる。"
+  },
+  {
+    "word": "adhere to",
+    "meaning": "～を順守する",
+    "example": "You must adhere to the safety rules.",
+    "example_jp": "安全規則を順守しなければならない。"
+  },
+  {
+    "word": "adhere to",
+    "meaning": "～に固執する",
+    "example": "He adheres to his old beliefs.",
+    "example_jp": "彼は自分の古い信念に固執している。"
+  },
+  {
+    "word": "air out",
+    "meaning": "～を換気する",
+    "example": "I opened the window to air out the room.",
+    "example_jp": "部屋を換気するために窓を開けた。"
+  },
+  {
+    "word": "air out",
+    "meaning": "～を外気に当てる",
+    "example": "It's time to air out the sleeping bags.",
+    "example_jp": "寝袋を外気に当てる時間だ。"
+  },
+  {
+    "word": "all but",
+    "meaning": "ほとんど",
+    "example": "The project is all but finished.",
+    "example_jp": "そのプロジェクトはほとんど終わっている。"
+  },
+  {
+    "word": "allow for",
+    "meaning": "～を考慮に入れる",
+    "example": "We must allow for unexpected delays.",
+    "example_jp": "予期せぬ遅延を考慮に入れなければならない。"
+  },
+  {
+    "word": "allow for",
+    "meaning": "～を見込む",
+    "example": "The budget allows for travel expenses.",
+    "example_jp": "予算は旅費を見込んでいる。"
+  },
+  {
+    "word": "answer for",
+    "meaning": "～の責任を負う",
+    "example": "You will have to answer for this mistake.",
+    "example_jp": "このミスの責任を負わなければならない。"
+  },
+  {
+    "word": "answer for",
+    "meaning": "～の罰を受ける",
+    "example": "They will answer for their crimes.",
+    "example_jp": "彼らは自分の罪の罰を受けることになる。"
+  },
+  {
+    "word": "aspire to do",
+    "meaning": "～することを熱望する",
+    "example": "She aspires to become a lawyer.",
+    "example_jp": "彼女は弁護士になることを熱望している。"
+  },
+  {
+    "word": "attribute A to B",
+    "meaning": "AをBのせいと考える",
+    "example": "I attribute my success to hard work.",
+    "example_jp": "私の成功は勤勉のおかげだと考えている。"
+  },
+  {
+    "word": "back down",
+    "meaning": "撤回する",
+    "example": "Neither side is willing to back down.",
+    "example_jp": "どちらの側も要求を撤回するつもりはない。"
+  },
+  {
+    "word": "back down",
+    "meaning": "敗北を認める",
+    "example": "He refused to back down in the argument.",
+    "example_jp": "彼は議論で敗北を認めることを拒んだ。"
+  },
+  {
+    "word": "back off",
+    "meaning": "手を引く",
+    "example": "The police told the crowd to back off.",
+    "example_jp": "警察は群衆に手を引くよう伝えた。"
+  },
+  {
+    "word": "back off",
+    "meaning": "撤回する",
+    "example": "He backed off from his original demand.",
+    "example_jp": "彼は当初の要求を撤回した。"
+  },
+  {
+    "word": "back off",
+    "meaning": "後退する",
+    "example": "He backed off when he saw the dog.",
+    "example_jp": "彼はその犬を見て後退した。"
+  },
+  {
+    "word": "back up",
+    "meaning": "～を裏付ける",
+    "example": "Evidence backs up his statement.",
+    "example_jp": "証拠が彼の発言を裏付けている。"
+  },
+  {
+    "word": "back up",
+    "meaning": "～を支援する",
+    "example": "I will back you up no matter what.",
+    "example_jp": "何があっても君を支援するよ。"
+  },
+  {
+    "word": "back up",
+    "meaning": "ファイルのコピーを取る",
+    "example": "Remember to back up your data daily.",
+    "example_jp": "毎日データのバックアップを取ることを忘れないで。"
+  },
+  {
+    "word": "back on",
+    "meaning": "～を当てにする",
+    "example": "Don't back on his help for this.",
+    "example_jp": "この件で彼の助けを当てにするな。"
+  },
+  {
+    "word": "be committed to",
+    "meaning": "～に献身している",
+    "example": "We are committed to quality service.",
+    "example_jp": "私たちは質の高いサービスに献身している。"
+  },
+  {
+    "word": "be destined to do",
+    "meaning": "～する運命である",
+    "example": "They are destined to meet again.",
+    "example_jp": "彼らは再会する運命だ。"
+  },
+  {
+    "word": "be free of",
+    "meaning": "～がない",
+    "example": "This soup is free of salt.",
+    "example_jp": "このスープには塩分がない。"
+  },
+  {
+    "word": "be free of",
+    "meaning": "～免除されている",
+    "example": "The products are free of tax.",
+    "example_jp": "その製品は税を免除されている。"
+  },
+  {
+    "word": "be obsessed with",
+    "meaning": "～に取りつかれている",
+    "example": "He is obsessed with his health.",
+    "example_jp": "彼は健康のことばかりに取りつかれている。"
+  },
+  {
+    "word": "be subject to",
+    "meaning": "～にかかりやすい",
+    "example": "She is subject to colds.",
+    "example_jp": "彼女は風邪にかかりやすい。"
+  },
+  {
+    "word": "be subject to",
+    "meaning": "～を受けやすい",
+    "example": "These plans are subject to change.",
+    "example_jp": "これらの計画は変更を受けやすい。"
+  },
+  {
+    "word": "blast off",
+    "meaning": "打ち上げられる",
+    "example": "The rocket will blast off at noon.",
+    "example_jp": "ロケットは正午に打ち上げられる。"
+  },
+  {
+    "word": "blow up",
+    "meaning": "怒る",
+    "example": "He blew up when he saw the mess.",
+    "example_jp": "彼は散らかった様子を見てかんかんに怒った。"
+  },
+  {
+    "word": "blow up",
+    "meaning": "爆発する",
+    "example": "The bridge blew up during the war.",
+    "example_jp": "その橋は戦争中に爆発した。"
+  },
+  {
+    "word": "bounce back",
+    "meaning": "回復する",
+    "example": "He bounced back from his illness quickly.",
+    "example_jp": "彼は病気から素早く回復した。"
+  },
+  {
+    "word": "bounce back",
+    "meaning": "立ち直る",
+    "example": "It took time for the economy to bounce back.",
+    "example_jp": "経済が立ち直るまでには時間がかかった。"
+  },
+  {
+    "word": "branch off",
+    "meaning": "話題が変わる",
+    "example": "Let's not branch off from the main topic.",
+    "example_jp": "主要な話題からそれるのはやめよう。"
+  },
+  {
+    "word": "branch off",
+    "meaning": "わき道にそれる",
+    "example": "The path branches off at the river.",
+    "example_jp": "その道は川のところでわき道にそれている。"
+  },
+  {
+    "word": "break away from",
+    "meaning": "～を断つ",
+    "example": "It is hard to break away from old habits.",
+    "example_jp": "古い習慣を断つのは難しい。"
+  },
+  {
+    "word": "break away from",
+    "meaning": "～から逃れる",
+    "example": "They broke away from the tradition.",
+    "example_jp": "彼らは伝統から逃れた。"
+  },
+  {
+    "word": "break down",
+    "meaning": "決裂する",
+    "example": "Peace talks broke down yesterday.",
+    "example_jp": "昨日、和平交渉が決裂した。"
+  },
+  {
+    "word": "break down",
+    "meaning": "失敗する",
+    "example": "The car broke down on the way.",
+    "example_jp": "途中で車が故障した（失敗した）。"
+  },
+  {
+    "word": "break down",
+    "meaning": "故障する",
+    "example": "My computer broke down again.",
+    "example_jp": "コンピュータがまた故障した。"
+  },
+  {
+    "word": "break off",
+    "meaning": "～を中断する",
+    "example": "They decided to break off negotiations.",
+    "example_jp": "彼らは交渉を中断することに決めた。"
+  },
+  {
+    "word": "break off",
+    "meaning": "～を急にやめる",
+    "example": "She broke off her story mid-sentence.",
+    "example_jp": "彼女は文の途中で話を急にやめた。"
+  },
+  {
+    "word": "break out",
+    "meaning": "勃発する",
+    "example": "War broke out in 1914.",
+    "example_jp": "戦争が1914年に勃発した。"
+  },
+  {
+    "word": "break out",
+    "meaning": "発生する",
+    "example": "A fire broke out in the hotel.",
+    "example_jp": "ホテルで火災が発生した。"
+  },
+  {
+    "word": "bring about",
+    "meaning": "～を引き起こす",
+    "example": "What brought about this change?",
+    "example_jp": "何がこの変化を引き起こしたのか。"
+  },
+  {
+    "word": "bring about",
+    "meaning": "～を招く",
+    "example": "His policy brought about economic growth.",
+    "example_jp": "彼の政策が経済成長を招いた。"
+  },
+  {
+    "word": "bring down",
+    "meaning": "～を打ち倒す",
+    "example": "The scandal brought down the government.",
+    "example_jp": "そのスキャンダルが政府を打ち倒した。"
+  },
+  {
+    "word": "bring off",
+    "meaning": "～をやってのける",
+    "example": "He brought off a difficult task.",
+    "example_jp": "彼は困難な仕事をやってのけた。"
+  },
+  {
+    "word": "bring off",
+    "meaning": "～を成し遂げる",
+    "example": "They brought off a risky deal.",
+    "example_jp": "彼らは危険な取引を成し遂げた。"
+  },
+  {
+    "word": "bring on",
+    "meaning": "～をもたらす",
+    "example": "Stress can bring on health problems.",
+    "example_jp": "ストレスが健康上の問題をもたらすことがある。"
+  },
+  {
+    "word": "bring out",
+    "meaning": "～を引き出す",
+    "example": "This color brings out your eyes.",
+    "example_jp": "この色があなたの目を引き立てる（引き出す）。"
+  },
+  {
+    "word": "bring out",
+    "meaning": "～を発揮させる",
+    "example": "Good coaches bring out the best in players.",
+    "example_jp": "良いコーチは選手の才能を最大限に発揮させる。"
+  },
+  {
+    "word": "bump into",
+    "meaning": "～にばったり出会う",
+    "example": "I bumped into an old friend today.",
+    "example_jp": "今日、古い友人にばったり出会った。"
+  },
+  {
+    "word": "burn out",
+    "meaning": "～を疲れ果てさせる",
+    "example": "The intense workload burned him out.",
+    "example_jp": "激しい仕事量で彼は疲れ果ててしまった。"
+  },
+  {
+    "word": "burn out",
+    "meaning": "～を燃え尽きさせる",
+    "example": "He burned out his talent.",
+    "example_jp": "彼は自分の才能を燃え尽きさせてしまった。"
+  },
+  {
+    "word": "by means of",
+    "meaning": "～を用いて",
+    "example": "He communicates by means of sign language.",
+    "example_jp": "彼は手話を用いて意思疎通をする。"
+  },
+  {
+    "word": "by means of",
+    "meaning": "～によって",
+    "example": "They traveled by means of a small boat.",
+    "example_jp": "彼らは小舟によって旅をした。"
+  },
+  {
+    "word": "call for",
+    "meaning": "～を必要とする",
+    "example": "This situation calls for immediate action.",
+    "example_jp": "この状況は即時の行動を必要とする。"
+  },
+  {
+    "word": "call for",
+    "meaning": "～を要求する",
+    "example": "The protesters called for a change.",
+    "example_jp": "抗議者たちは変化を要求した。"
+  },
+  {
+    "word": "call off",
+    "meaning": "～を中止する",
+    "example": "They had to call off the game.",
+    "example_jp": "彼らは試合を中止しなければならなかった。"
+  },
+  {
+    "word": "call on",
+    "meaning": "～を訪ねる",
+    "example": "I will call on you tomorrow.",
+    "example_jp": "明日あなたを訪ねるよ。"
+  },
+  {
+    "word": "call on",
+    "meaning": "人)に頼む",
+    "example": "He called on me for help.",
+    "example_jp": "彼は助けを求めて私に頼んだ。"
+  },
+  {
+    "word": "carry away",
+    "meaning": "無我夢中になる",
+    "example": "Don't get carried away by his sweet words.",
+    "example_jp": "彼の甘い言葉に無我夢中になってはいけない。"
+  },
+  {
+    "word": "carry away",
+    "meaning": "～を持ち去る",
+    "example": "The wind carried away his hat.",
+    "example_jp": "風が彼の帽子を持ち去った。"
+  },
+  {
+    "word": "carry through",
+    "meaning": "～を成し遂げる",
+    "example": "She carried through her plan.",
+    "example_jp": "彼女は自分の計画を成し遂げた。"
+  },
+  {
+    "word": "carry through",
+    "meaning": "～を成就させる",
+    "example": "He carried through his ambition.",
+    "example_jp": "彼は自分の野望を成就させた。"
+  },
+  {
+    "word": "catch up on",
+    "meaning": "～について新しい情報を知る",
+    "example": "I need to catch up on the latest news.",
+    "example_jp": "最新のニュースについて知る必要がある。"
+  },
+  {
+    "word": "catch up on",
+    "meaning": "～の遅れを取り戻す",
+    "example": "I have to catch up on my reading.",
+    "example_jp": "読書の遅れを取り戻さなければならない。"
+  },
+  {
+    "word": "check off",
+    "meaning": "～にチェックマークをつける",
+    "example": "Check off the items as you finish them.",
+    "example_jp": "終わったら項目にチェックマークをつけて。"
+  },
+  {
+    "word": "chip in",
+    "meaning": "出し合う",
+    "example": "Let's chip in to buy a present.",
+    "example_jp": "プレゼントを買うためにお金を出し合おう。"
+  },
+  {
+    "word": "clean out",
+    "meaning": "～の中をきれいにする",
+    "example": "I need to clean out the closet.",
+    "example_jp": "クローゼットの中をきれいにしなければならない。"
+  },
+  {
+    "word": "clean out",
+    "meaning": "～を空にする",
+    "example": "He cleaned out his desk drawer.",
+    "example_jp": "彼は机の引き出しを空にした。"
+  },
+  {
+    "word": "clear out",
+    "meaning": "～の中身を出してきれいに片付ける",
+    "example": "Clear out the garage before winter.",
+    "example_jp": "冬の前にガレージを片付けて。"
+  },
+  {
+    "word": "clear out",
+    "meaning": "～を空にする",
+    "example": "They cleared out the office.",
+    "example_jp": "彼らはオフィスを空にした。"
+  },
+  {
+    "word": "clear up",
+    "meaning": "～を解く",
+    "example": "We cleared up the misunderstanding.",
+    "example_jp": "誤解を解いた。"
+  },
+  {
+    "word": "clear up",
+    "meaning": "～を解明する",
+    "example": "The investigation cleared up the mystery.",
+    "example_jp": "捜査がその謎を解明した。"
+  },
+  {
+    "word": "clear up",
+    "meaning": "～を片付ける",
+    "example": "Clear up your toys.",
+    "example_jp": "おもちゃを片付けて。"
+  },
+  {
+    "word": "clear up",
+    "meaning": "晴れる",
+    "example": "The weather will clear up soon.",
+    "example_jp": "天気はすぐに晴れるだろう。"
+  },
+  {
+    "word": "close in (on)",
+    "meaning": "包囲する",
+    "example": "The police closed in on the suspect.",
+    "example_jp": "警察が容疑者を包囲した。"
+  },
+  {
+    "word": "close in (on)",
+    "meaning": "～に追ってくる",
+    "example": "The enemy is closing in on us.",
+    "example_jp": "敵が我々に追ってきている。"
+  },
+  {
+    "word": "come after",
+    "meaning": "～の後をつける",
+    "example": "Someone is coming after you.",
+    "example_jp": "誰かがあなたの後をつけている。"
+  },
+  {
+    "word": "come after",
+    "meaning": "～を追跡する",
+    "example": "The wolf came after the rabbit.",
+    "example_jp": "オオカミがウサギを追跡した。"
+  }
+]

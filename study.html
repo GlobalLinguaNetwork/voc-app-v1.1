@@ -442,7 +442,7 @@ var autoSpeed        = 5000;
 var currentUnitArray =[];
 var isRandomMode     = false;
 var isMistakeBankMode = false;
-var isAnswered       = false; // 解答・めくり済みフラグを追加
+var isAnswered       = false;
 
 var PROGRESS_KEY     = "vocabProgress";
 var UNIT_HISTORY_KEY = "vocabUnitHistory";
@@ -992,11 +992,11 @@ function answerJpEnQuiz(selected, btn) {
   if (textToSpeak) {
     speak(textToSpeak, function() {
       if (autoSpeed === 0) { addNextButton(); } 
-      else { timer2 = setTimeout(next, autoSpeed); }
+      else { timer2 = setTimeout(next, 500); }
     });
   } else {
     if (autoSpeed === 0) { addNextButton(); } 
-    else { timer2 = setTimeout(next, autoSpeed); }
+    else { timer2 = setTimeout(next, 500); }
   }
 }
 
@@ -1014,11 +1014,11 @@ function autoRevealJpEnQuiz() {
   if (textToSpeak) {
     speak(textToSpeak, function() {
       if (autoSpeed === 0) { addNextButton(); } 
-      else { timer2 = setTimeout(next, autoSpeed); }
+      else { timer2 = setTimeout(next, 500); }
     });
   } else {
     if (autoSpeed === 0) { addNextButton(); } 
-    else { timer2 = setTimeout(next, autoSpeed); }
+    else { timer2 = setTimeout(next, 500); }
   }
 }
 
@@ -1083,10 +1083,10 @@ function flipJpEn() {
   var textToSpeak = current.example || current.word || "";
   if (textToSpeak) {
     speak(textToSpeak, function() {
-      if (autoSpeed > 0) { timer2 = setTimeout(next, autoSpeed); }
+      if (autoSpeed > 0) { timer2 = setTimeout(next, 500); }
     });
   } else {
-    if (autoSpeed > 0) { timer2 = setTimeout(next, autoSpeed); }
+    if (autoSpeed > 0) { timer2 = setTimeout(next, 500); }
   }
 }
 

@@ -442,6 +442,7 @@ var autoSpeed        = 5000;
 var currentUnitArray =[];
 var isRandomMode     = false;
 var isMistakeBankMode = false;
+var isAnswered       = false; // 解答・めくり済みフラグを追加
 
 var PROGRESS_KEY     = "vocabProgress";
 var UNIT_HISTORY_KEY = "vocabUnitHistory";
@@ -578,12 +579,6 @@ function updateStartButtons() {
   }
 }
 
-/** 
- * 修正点：Promise.allによる一斉リクエストを避け、
- * async/awaitを用いて1ファイルずつ順番に読み込む方式にしつつ、
- * さらにサーバーの通信制限（Rate Limit）を回避するために
- * リクエスト間に50ミリ秒の待機時間を挟みます。
- */
 async function loadMultipleUnits(units, callback) {
   var combined =[];
   try {
@@ -604,8 +599,6 @@ async function loadMultipleUnits(units, callback) {
         });
         combined = combined.concat(found);
       }
-
-      // サーバーの通信制限(Rate Limit)を回避するため、リクエストの間に小休止を挟む
       if (i < units.length - 1) {
         await new Promise(function(resolve) { setTimeout(resolve, 50); });
       }
@@ -627,8 +620,6 @@ function start(resumeFlag) {
   
   if (currentUnitArray.length === 0) return;
 
-  /* ランダム複数ユニットの場合、全ユニットをfetchせず最大10ユニットをサンプリング。
-     pickRandom50が未出題語を優先管理するため、セッションごとに異なる語が出る。 */
   var RANDOM_FETCH_LIMIT = 10;
   var unitsToFetch = currentUnitArray;
   if (isRandomMode && currentUnitArray.length > RANDOM_FETCH_LIMIT) {
@@ -699,6 +690,8 @@ function nextCore() {
   if (index >= words.length && reviewQueue.length === 0) { showFinishScreen(); return; }
   current = reviewQueue.length > 0 ? reviewQueue.shift() : words[index++];
 
+  isAnswered = false; // 解答状態をリセット
+
   var saveIndex = reviewQueue.length > 0 ? index : Math.max(0, index - 1);
   if (saveIndex > 0 && !isMistakeBankMode && currentUnitArray.length === 1 && !isRandomMode) {
     try { localStorage.setItem('vocabResume_' + BOOK + '_' + currentUnitArray[0], saveIndex); } catch(e) {}
@@ -740,12 +733,54 @@ function nextCore() {
   document.getElementById("progress").textContent     = index + " / " + words.length;
   document.getElementById("progressFill").style.width = Math.round((index / words.length) * 100) + "%";
 
-  if (modeVal === "jpen1" || modeVal === "jpen2") { renderJpEnQuiz(); } 
-  else if (modeVal === "flash_jpen") { renderFlipJpEn(); } 
+  if (modeVal === "jpen1" || modeVal === "jpen2") { 
+    renderJpEnQuiz(); 
+    if (autoSpeed > 0) {
+      timer1 = setTimeout(autoRevealJpEnQuiz, autoSpeed);
+    }
+  } 
+  else if (modeVal === "flash_jpen") { 
+    renderFlipJpEn(); 
+    if (autoSpeed > 0) {
+      timer1 = setTimeout(flipJpEn, autoSpeed);
+    }
+  } 
   else {
-    if (current.word) { speak(current.word, function() { if (current && current.example) { setTimeout(function() { speak(current.example, null); }, 400); } }); } 
-    else if (current && current.example) { speak(current.example, null); } 
     if (modeVal === "quiz") { renderQuiz(); } else { renderFlip(); }
+    
+    var textsToSpeak =[];
+    if (current.word) textsToSpeak.push(current.word);
+    if (current.example) textsToSpeak.push(current.example);
+    
+    if (textsToSpeak.length > 0) {
+      var sIdx = 0;
+      function playNext() {
+        if (sIdx >= textsToSpeak.length) {
+          if (autoSpeed > 0 && !isAnswered) {
+            if (modeVal === "quiz") { timer1 = setTimeout(autoRevealQuiz, autoSpeed); }
+            else { timer1 = setTimeout(flip, autoSpeed); }
+          }
+          return;
+        }
+        speak(textsToSpeak[sIdx], function() {
+          sIdx++;
+          if (sIdx < textsToSpeak.length) {
+            setTimeout(playNext, 400);
+          } else {
+            if (autoSpeed > 0 && !isAnswered) {
+              if (modeVal === "quiz") { timer1 = setTimeout(autoRevealQuiz, autoSpeed); }
+              else { timer1 = setTimeout(flip, autoSpeed); }
+            }
+          }
+        });
+      }
+      playNext();
+    } else {
+      if (autoSpeed > 0 && !isAnswered) {
+        if (modeVal === "quiz") { timer1 = setTimeout(autoRevealQuiz, autoSpeed); }
+        else { timer1 = setTimeout(flip, autoSpeed); }
+      }
+    }
   }
 }
 
@@ -757,8 +792,9 @@ function speak(text, cb) {
   if (selectedVoice) u.voice = selectedVoice;
   var expectedMs = Math.max(1500, text.length * 120);
   startTTSWatchdog(expectedMs);
-  u.onend = function() { clearTTSWatchdog(); if (cb) cb(); };
-  u.onerror = function() { clearTTSWatchdog(); if (cb) cb(); };
+  var done = false;
+  u.onend = function() { clearTTSWatchdog(); if(!done){ done=true; if(cb) cb(); } };
+  u.onerror = function() { clearTTSWatchdog(); if(!done){ done=true; if(cb) cb(); } };
   speechSynthesis.speak(u);
 }
 
@@ -784,13 +820,10 @@ function renderQuiz() {
     (function(choice, el) { el.addEventListener("click", function() { answerQuiz(choice, el); }); })(c, btn);
     area.appendChild(btn);
   });
-  if (autoSpeed > 0) {
-    timer1 = setTimeout(function() { autoRevealQuiz(); timer2 = setTimeout(next, 2500); }, autoSpeed);
-  } 
 }
 
 function answerQuiz(selected, btn) {
-  clearTimeout(timer1); clearTimeout(timer2);
+  isAnswered = true; clearTimeout(timer1); clearTimeout(timer2);
   lockButtons(); totalCount++;
   var isCorrect = (selected === current.meaning);
   if (isCorrect) { correctCount++; btn.classList.add("correct"); } 
@@ -798,10 +831,15 @@ function answerQuiz(selected, btn) {
   showExampleJp();
   updateAccuracy();
   if (autoSpeed === 0) { addNextButton(); } 
-  else { timer2 = setTimeout(next, isCorrect ? 1200 : 2800); }
+  else { timer2 = setTimeout(next, autoSpeed); }
 }
 
-function autoRevealQuiz() { totalCount++; reviewQueue.push(current); addMistakeToBank(current); updateAccuracy(); lockButtons(); highlightCorrectBtn(); showExampleJp(); }
+function autoRevealQuiz() { 
+  isAnswered = true; totalCount++; reviewQueue.push(current); addMistakeToBank(current); 
+  updateAccuracy(); lockButtons(); highlightCorrectBtn(); showExampleJp(); 
+  if (autoSpeed === 0) { addNextButton(); } 
+  else { timer2 = setTimeout(next, autoSpeed); }
+}
 
 function highlightCorrectBtn() { document.querySelectorAll(".ans-btn").forEach(function(b) { if (b.textContent === current.meaning && !b.classList.contains("wrong")) b.classList.add("reveal-correct"); }); }
 
@@ -934,13 +972,10 @@ function renderJpEnQuiz() {
     (function(choice, el) { el.addEventListener("click", function() { answerJpEnQuiz(choice, el); }); })(c, btn);
     area.appendChild(btn);
   });
-  if (autoSpeed > 0) {
-    timer1 = setTimeout(function() { autoRevealJpEnQuiz(); timer2 = setTimeout(next, 3000); }, autoSpeed);
-  } 
 }
 
 function answerJpEnQuiz(selected, btn) {
-  clearTimeout(timer1); clearTimeout(timer2);
+  isAnswered = true; clearTimeout(timer1); clearTimeout(timer2);
   lockButtons(); totalCount++;
   var isCorrect = (selected === current.word);
   if (isCorrect) { correctCount++; btn.classList.add("correct"); } 
@@ -952,13 +987,40 @@ function answerJpEnQuiz(selected, btn) {
   meanEl.textContent = current.example || current.word || "";
   meanEl.classList.remove("invisible");
   updateAccuracy();
-  if (current.example) { speak(current.example, null); } 
-  else if (current.word) { speak(current.word, null); } 
-  if (autoSpeed === 0) { addNextButton(); } 
-  else { timer2 = setTimeout(next, isCorrect ? 2000 : 3500); } 
+  
+  var textToSpeak = current.example || current.word || "";
+  if (textToSpeak) {
+    speak(textToSpeak, function() {
+      if (autoSpeed === 0) { addNextButton(); } 
+      else { timer2 = setTimeout(next, autoSpeed); }
+    });
+  } else {
+    if (autoSpeed === 0) { addNextButton(); } 
+    else { timer2 = setTimeout(next, autoSpeed); }
+  }
 }
 
-function autoRevealJpEnQuiz() { totalCount++; reviewQueue.push(current); addMistakeToBank(current); updateAccuracy(); lockButtons(); document.querySelectorAll(".ans-btn").forEach(function(b) { if (b.textContent === current.word) b.classList.add("reveal-correct"); }); var meanEl = document.getElementById("meaning"); meanEl.textContent = current.example || current.word || ""; meanEl.classList.remove("invisible"); if (current.example) { speak(current.example, null); } else if (current.word) { speak(current.word, null); } }
+function autoRevealJpEnQuiz() { 
+  isAnswered = true; totalCount++; reviewQueue.push(current); addMistakeToBank(current); 
+  updateAccuracy(); lockButtons(); 
+  document.querySelectorAll(".ans-btn").forEach(function(b) { 
+    if (b.textContent === current.word) b.classList.add("reveal-correct"); 
+  }); 
+  var meanEl = document.getElementById("meaning"); 
+  meanEl.textContent = current.example || current.word || ""; 
+  meanEl.classList.remove("invisible"); 
+  
+  var textToSpeak = current.example || current.word || "";
+  if (textToSpeak) {
+    speak(textToSpeak, function() {
+      if (autoSpeed === 0) { addNextButton(); } 
+      else { timer2 = setTimeout(next, autoSpeed); }
+    });
+  } else {
+    if (autoSpeed === 0) { addNextButton(); } 
+    else { timer2 = setTimeout(next, autoSpeed); }
+  }
+}
 
 function lockButtons() { document.querySelectorAll(".ans-btn").forEach(function(b){ b.disabled = true; }); }
 
@@ -979,13 +1041,10 @@ function renderFlip() {
   btn.id = "flipBtn"; btn.textContent = "▼ 意味を見る";
   btn.addEventListener("click", flip);
   area.appendChild(btn);
-  if (autoSpeed > 0) {
-    timer1 = setTimeout(function(){ flip(); timer2 = setTimeout(next, 2500); }, autoSpeed);
-  } 
 }
 
 function flip() {
-  clearTimeout(timer1); clearTimeout(timer2);
+  isAnswered = true; clearTimeout(timer1); clearTimeout(timer2);
   var meanEl = document.getElementById("meaning");
   if (current.example_jp) { meanEl.innerHTML = buildHighlightedJp(current.example_jp, current.meaning); } 
   else { meanEl.textContent = current.meaning || ""; }
@@ -995,7 +1054,7 @@ function flip() {
     var nb = old.cloneNode(true); nb.textContent = "次へ →"; nb.addEventListener("click", next);
     old.parentNode.replaceChild(nb, old);
   } 
-  if (autoSpeed > 0) { timer2 = setTimeout(next, 2000); }
+  if (autoSpeed > 0) { timer2 = setTimeout(next, autoSpeed); }
 }
 
 function renderFlipJpEn() {
@@ -1005,26 +1064,30 @@ function renderFlipJpEn() {
   btn.id = "flipBtn"; btn.textContent = "▼ 英単語を見る";
   btn.addEventListener("click", flipJpEn);
   area.appendChild(btn);
-  if (autoSpeed > 0) {
-    timer1 = setTimeout(function(){ flipJpEn(); timer2 = setTimeout(next, 2500); }, autoSpeed);
-  } 
 }
 
 function flipJpEn() { 
-  clearTimeout(timer1); clearTimeout(timer2);
+  isAnswered = true; clearTimeout(timer1); clearTimeout(timer2);
   var meanEl = document.getElementById("meaning");
   var engHtml = "<span style='font-size:1.4rem; font-family:\"Lora\",serif; font-weight:700; color:var(--ink);'>" + escHtml(current.word) + "</span>";
   if (current.example) { engHtml += "<br><span style='font-size:0.9rem; font-family:\"Lora\",serif; font-style:italic; color:var(--ink-soft);'>" + escHtml(current.example) + "</span>"; }
   meanEl.innerHTML = engHtml;
   meanEl.classList.remove("invisible");
-  if (current.example) { speak(current.example, null); } 
-  else if (current.word) { speak(current.word, null); } 
+  
   var old = document.getElementById("flipBtn");
   if (old) {
     var nb = old.cloneNode(true); nb.textContent = "次へ →"; nb.addEventListener("click", next);
     old.parentNode.replaceChild(nb, old);
   } 
-  if (autoSpeed > 0) { timer2 = setTimeout(next, 2000); }
+  
+  var textToSpeak = current.example || current.word || "";
+  if (textToSpeak) {
+    speak(textToSpeak, function() {
+      if (autoSpeed > 0) { timer2 = setTimeout(next, autoSpeed); }
+    });
+  } else {
+    if (autoSpeed > 0) { timer2 = setTimeout(next, autoSpeed); }
+  }
 }
 
 function togglePause() { isPaused = !isPaused; var btn = document.getElementById("pauseBtn"); if (isPaused) { clearTimeout(timer1); clearTimeout(timer2); speechSynthesis.cancel(); btn.textContent = "▶ 再開"; btn.style.background = "#d4edda"; btn.style.color = "var(--correct)"; } else { unlockIOSSpeech(); btn.textContent = "⏸ 一時停止"; btn.style.background = ""; btn.style.color = ""; next(); } }
@@ -1120,7 +1183,7 @@ function goNextUnit() {
   document.querySelectorAll("#unitCheckList input[type='checkbox']").forEach(function(cb) { cb.checked = (parseInt(cb.value) === nextNum); });
   updateStartButtons();
 
-  currentUnitArray = [nextNum];
+  currentUnitArray =[nextNum];
   loadMultipleUnits(currentUnitArray, function(success, combinedWords) {
     if (!success) return;
     allCombinedWords = combinedWords;

@@ -171,6 +171,7 @@
   </div>
 </div>
 
+<!-- 同期モーダル -->
 <div id="syncModal" class="hidden" onclick="if(event.target===this)closeSyncModal()">
   <div class="modal-box" style="max-width: 440px;">
     <div class="modal-title">🔄 データ引き継ぎ・同期</div>
@@ -194,6 +195,7 @@
   </div>
 </div>
 
+<!-- 進捗モーダル -->
 <div id="progressModal" class="hidden" onclick="if(event.target===this)closeProgressModal()">
   <div class="modal-box">
     <div class="modal-title">📊 学習進捗</div>
@@ -238,6 +240,7 @@
   </div>
 </div>
 
+<!-- ミス単語モーダル -->
 <div id="mistakeBankModal" class="hidden" onclick="if(event.target===this)closeMistakeBank()">
   <div class="mbank-box">
     <div class="mbank-title">❌ ミス単語バンク</div>
@@ -277,6 +280,9 @@
 
 <div class="container">
 
+  <!-- ===============================
+       設定画面（合体部分）
+       =============================== -->
   <div id="setupArea" class="card">
     <h3>学習の設定</h3>
     
@@ -336,6 +342,9 @@
     </div>
   </div>
 
+  <!-- ===============================
+       学習画面
+       =============================== -->
   <div id="studyArea" class="hidden">
     <div class="progress-wrap">
       <div id="unitLabel">Unit —</div>
@@ -544,13 +553,16 @@ function initBookSetup() {
   var listEl = document.getElementById("unitCheckList");
   listEl.innerHTML = "";
   
+  // URLからunitの指定があれば、それを初期選択にする（互換性対応）
+  var targetUnit = window.initialUnit || 1;
+  
   for (var u = UNIT_MIN; u <= UNIT_MAX; u++) {
     var lbl = document.createElement("label");
     lbl.className = "checkbox-item";
     var chk = document.createElement("input");
     chk.type = "checkbox";
     chk.value = u;
-    if (u === 1) chk.checked = true;
+    if (u === targetUnit) chk.checked = true;
     chk.addEventListener("change", updateStartButtons);
     var span = document.createElement("span");
     span.textContent = unitRangeLabel(bookInfo, u);
@@ -559,6 +571,7 @@ function initBookSetup() {
     listEl.appendChild(lbl);
   }
   updateStartButtons();
+  window.initialUnit = null; // 一度セットしたらクリア
 }
 
 function changeBook() {
@@ -568,10 +581,16 @@ function changeBook() {
 }
 
 document.addEventListener("DOMContentLoaded", function() {
-  var urlId = new URLSearchParams(location.search).get('id');
+  // ポータルから飛んできた際の「生徒ID」と「初期ユニット」の自動入力
+  var params = new URLSearchParams(location.search);
+  var urlId = params.get('id');
   if (urlId) {
     var userEl = document.getElementById('user');
     if(userEl) userEl.value = urlId;
+  }
+  var urlUnit = parseInt(params.get('unit'), 10);
+  if (urlUnit) {
+    window.initialUnit = urlUnit;
   }
   initBookSetup();
 });
@@ -1163,6 +1182,7 @@ function showFinishScreen() {
     var unitLabel = currentUnitArray.length === 1 ? "unit" + currentUnitArray[0] : currentUnitArray.length + "ユニット";
     var detail = shortName + unitLabel;
     
+    // 【重要】ポータルに完了データを送信する部分
     var payload = {
       type:   'GLN_COMPLETE',
       title:  'Vocab Master',

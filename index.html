@@ -2,61 +2,1474 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Vocab Portal</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Vocab Master</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,700;1,400&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
-:root { --primary: #1a237e; --bg: #f5f7fa; --text: #2c3e50; }
-body { font-family: 'Helvetica Neue', Arial, sans-serif; background: var(--bg); color: var(--text); max-width: 500px; margin: auto; padding: 40px 20px; }
-.card { background: white; border-radius: 16px; padding: 30px; box-shadow: 0 10px 25px rgba(0,0,0,0.05); }
-h2 { text-align: center; color: var(--primary); font-weight: 700; margin-bottom: 30px; }
-label { display: block; margin-top: 15px; font-size: 0.9rem; font-weight: bold; color: #666; }
-select, input { width: 100%; padding: 12px; margin-top: 8px; border-radius: 8px; border: 1px solid #ddd; box-sizing: border-box; font-size: 1rem; }
-button { width: 100%; padding: 15px; margin-top: 25px; border-radius: 8px; border: none; background: var(--primary); color: white; font-weight: bold; font-size: 1rem; cursor: pointer; transition: 0.3s; }
-button:hover { opacity: 0.9; transform: translateY(-2px); }
+  :root {
+    --ink:      #1c2b3a;
+    --ink-soft: #4a6072;
+    --bg:       #f5f3ee;
+    --card-bg:  #ffffff;
+    --accent:   #2d6a4f;
+    --gold:     #c9a84c;
+    --correct:  #2d6a4f;
+    --wrong:    #b5451b;
+    --radius:   16px;
+    --shadow:   0 4px 24px rgba(28,43,58,0.10);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'DM Sans', sans-serif; background: var(--bg); min-height: 100vh; padding: 16px 12px 40px; color: var(--ink); }
+  .header { max-width: 520px; margin: 0 auto 18px; display: flex; justify-content: space-between; align-items: center; }
+  .logo { font-family: 'Lora', serif; font-weight: 700; font-size: 1.15rem; letter-spacing: 0.02em; }
+  .logo span { color: var(--gold); }
+  #accuracy { font-size: 0.82rem; font-weight: 700; background: var(--ink); color: #fff; padding: 4px 12px; border-radius: 20px; letter-spacing: 0.04em; }
+  .container { max-width: 520px; margin: 0 auto; }
+  .card { background: var(--card-bg); border-radius: var(--radius); padding: 24px 22px 20px; box-shadow: var(--shadow); position: relative; overflow: hidden; margin-bottom: 14px; }
+  .card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, var(--gold), var(--accent)); }
+  #setupArea h3 { font-family: 'Lora', serif; font-size: 1.05rem; color: var(--ink-soft); margin-bottom: 6px; letter-spacing: 0.03em; }
+  
+  label.field-label { display: block; font-size: 0.70rem; font-weight: 700; letter-spacing: 0.08em; color: var(--ink-soft); text-transform: uppercase; margin-bottom: 6px; margin-top: 12px; }
+  select, input[type="text"] { width: 100%; padding: 11px 34px 11px 14px; margin-bottom: 12px; border-radius: 10px; border: 1.5px solid #ddd; font-size: 0.95rem; font-family: 'DM Sans', sans-serif; background: #fafafa; color: var(--ink); }
+  select { appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%234a6072' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 14px center; cursor: pointer; }
+  select:focus, input[type="text"]:focus { outline: none; border-color: var(--accent); }
+  
+  .unit-actions { display: flex; gap: 8px; margin-bottom: 8px; }
+  .unit-actions button { padding: 5px 10px; font-size: 0.75rem; font-weight: 700; font-family: 'DM Sans', sans-serif; border-radius: 6px; border: 1.5px solid #ddd; background: #fff; cursor: pointer; color: var(--ink-soft); transition: background 0.15s; }
+  .unit-actions button:hover { background: #f0ede6; }
+  .checkbox-list { max-height: 180px; overflow-y: auto; border: 1.5px solid #ddd; border-radius: 10px; padding: 6px; background: #fafafa; margin-bottom: 12px; }
+  .checkbox-item { display: flex; align-items: center; gap: 10px; padding: 8px; border-bottom: 1px solid #eee; font-size: 0.9rem; color: var(--ink); cursor: pointer; transition: background 0.1s; border-radius: 6px; }
+  .checkbox-item:hover { background: #f0ede6; }
+  .checkbox-item:last-child { border-bottom: none; }
+  .checkbox-item input[type="checkbox"] { width: 18px; height: 18px; accent-color: var(--accent); cursor: pointer; }
+
+  .btn-start { width: 100%; padding: 15px; background: var(--ink); color: white; border: none; border-radius: 12px; font-size: 1rem; font-weight: 700; font-family: 'DM Sans', sans-serif; cursor: pointer; letter-spacing: 0.04em; transition: background 0.18s, transform 0.12s; margin-top: 10px; }
+  .btn-start:hover:not(:disabled) { background: var(--accent); }
+  .btn-start:active:not(:disabled) { transform: scale(0.98); }
+  .btn-start:disabled { opacity: 0.5; cursor: not-allowed; }
+  
+  .progress-wrap { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+  #unitLabel { font-size: 0.70rem; font-weight: 700; color: var(--gold); letter-spacing: 0.06em; text-transform: uppercase; white-space: nowrap; max-width: 150px; overflow: hidden; text-overflow: ellipsis; }
+  #progress { font-size: 0.78rem; font-weight: 700; color: var(--ink-soft); white-space: nowrap; letter-spacing: 0.04em; }
+  .progress-track { flex: 1; height: 5px; background: #e0ddd8; border-radius: 4px; overflow: hidden; }
+  .progress-fill { height: 100%; background: linear-gradient(90deg, var(--gold), var(--accent)); border-radius: 4px; transition: width 0.4s ease; width: 0%; }
+  
+  #wordCard { min-height: 170px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; gap: 8px; }
+  #pos { font-size: 0.70rem; font-weight: 700; letter-spacing: 0.10em; text-transform: uppercase; color: var(--gold); min-height: 1em; }
+  #word { font-family: 'Lora', serif; font-size: clamp(1.8rem, 6vw, 2.6rem); font-weight: 700; color: var(--ink); line-height: 1.2; }
+  #example { font-family: 'Lora', serif; font-style: italic; font-size: 0.9rem; color: var(--ink-soft); line-height: 1.6; max-width: 400px; min-height: 1.4em; }
+  #meaning { font-size: 0.95rem; font-weight: 500; color: var(--ink); background: #f0ede6; border: 1.5px solid #e0dbd0; padding: 10px 18px; border-radius: 12px; margin-top: 6px; transition: opacity 0.25s; line-height: 1.7; }
+  .invisible { opacity: 0; pointer-events: none; }
+  
+  #quizArea { display: grid; grid-template-columns: 1fr 1fr; gap: 9px; margin-bottom: 12px; }
+  button.ans-btn { background: var(--card-bg); border: 1.5px solid #e0ddd8; padding: 14px 10px; border-radius: 12px; font-size: 0.88rem; font-weight: 500; font-family: 'DM Sans', sans-serif; cursor: pointer; line-height: 1.4; transition: background 0.15s, border-color 0.15s, transform 0.1s; box-shadow: 0 2px 6px rgba(28,43,58,0.06); text-align: center; }
+  button.ans-btn:hover:not(:disabled) { border-color: var(--accent); transform: translateY(-1px); box-shadow: 0 4px 10px rgba(28,43,58,0.10); }
+  button.ans-btn:active { transform: scale(0.97); }
+  button.ans-btn.correct  { background: var(--correct) !important; color: white !important; border-color: var(--correct) !important; }
+  button.ans-btn.wrong    { background: var(--wrong)   !important; color: white !important; border-color: var(--wrong)   !important; }
+  button.ans-btn.reveal-correct { background: #e8f5e9 !important; color: var(--correct) !important; border-color: var(--correct) !important; font-weight: 700; }
+  button.ans-btn:disabled { cursor: default; }
+  
+  #flipBtn { display: block; width: 100%; padding: 14px; background: var(--ink); color: white; border: none; border-radius: 12px; font-size: 0.95rem; font-weight: 700; font-family: 'DM Sans', sans-serif; cursor: pointer; letter-spacing: 0.04em; margin-bottom: 12px; transition: background 0.15s; }
+  #flipBtn:hover { background: var(--accent); }
+  .action-btns { display: flex; gap: 8px; }
+  .btn-small { flex: 1; padding: 11px; border-radius: 10px; border: none; font-weight: 700; font-family: 'DM Sans', sans-serif; font-size: 0.85rem; cursor: pointer; letter-spacing: 0.03em; transition: opacity 0.15s, transform 0.1s; }
+  .btn-pause { background: #e8f0fe; color: #1a56db; }
+  .btn-stop  { background: #fdecea; color: var(--wrong); }
+  
+  #finishScreen { position: absolute; inset: 0; background: var(--card-bg); border-radius: var(--radius); display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px; padding: 28px; z-index: 10; text-align: center; }
+  #finishScreen h2 { font-family: 'Lora', serif; font-size: 1.5rem; color: var(--ink); }
+  #finishScreen .score-badge { font-size: 2.4rem; font-weight: 700; color: var(--gold); font-family: 'Lora', serif; }
+  #finishScreen p { color: var(--ink-soft); font-size: 0.88rem; }
+  .btn-finish { width: 100%; padding: 13px; border: none; border-radius: 10px; font-weight: 700; font-family: 'DM Sans', sans-serif; font-size: 0.92rem; cursor: pointer; transition: opacity 0.15s; margin-top: 4px; }
+  .btn-finish.green  { background: var(--correct); color: white; }
+  .btn-finish.blue   { background: #1a56db; color: white; }
+  .btn-finish.gray   { background: #e8e6e1; color: var(--ink); }
+  .btn-finish:disabled { opacity: 0.4; cursor: not-allowed; }
+  .hidden { display: none !important; }
+  .meaning-highlight { background: linear-gradient(120deg, #ffe082 0%, #ffd740 100%); color: #5a3e00; font-weight: 700; border-radius: 3px; padding: 1px 3px; box-shadow: 0 1px 3px rgba(201,168,76,0.25); }
+  
+  #progressBtn { font-size: 0.82rem; font-weight: 700; background: var(--gold); color: #fff; padding: 4px 12px; border-radius: 20px; letter-spacing: 0.04em; border: none; cursor: pointer; font-family: 'DM Sans', sans-serif; transition: background 0.15s; }
+  #progressModal { position: fixed; inset: 0; z-index: 100; background: rgba(28,43,58,0.50); backdrop-filter: blur(4px); display: flex; justify-content: center; align-items: center; padding: 16px; }
+  .modal-box { background: var(--card-bg); border-radius: var(--radius); padding: 24px 20px 20px; max-width: 400px; width: 100%; box-shadow: 0 8px 40px rgba(28,43,58,0.25); position: relative; max-height: 90vh; overflow-y: auto; }
+  .modal-box::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, var(--gold), var(--accent)); border-radius: var(--radius) var(--radius) 0 0; }
+  .modal-title { font-family: 'Lora', serif; font-size: 1.05rem; font-weight: 700; color: var(--ink); margin-bottom: 16px; letter-spacing: 0.02em; }
+  .stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 16px; }
+  .stat-box { background: var(--bg); border-radius: 10px; padding: 12px 10px; text-align: center; }
+  .stat-label { font-size: 0.64rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: 4px; }
+  .stat-value { font-family: 'Lora', serif; font-size: 1.7rem; font-weight: 700; color: var(--gold); line-height: 1.1; }
+  .stat-unit { font-size: 0.68rem; color: var(--ink-soft); margin-left: 1px; }
+  .chart-section { margin-bottom: 16px; }
+  .chart-title { font-size: 0.68rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: 8px; }
+  .bar-chart { display: flex; align-items: flex-end; gap: 4px; height: 80px; }
+  .bar-wrap { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 3px; }
+  .bar-col { width: 100%; border-radius: 4px 4px 0 0; min-height: 2px; background: linear-gradient(180deg, var(--gold), var(--accent)); transition: height 0.4s ease; }
+  .bar-col.today { background: linear-gradient(180deg, #ffd740, var(--gold)); }
+  .bar-val { font-size: 0.58rem; font-weight: 700; color: var(--ink-soft); }
+  .bar-lbl { font-size: 0.58rem; color: var(--ink-soft); white-space: nowrap; }
+  .radial-wrap { display: flex; align-items: center; gap: 14px; }
+  .radial-info { flex: 1; }
+  .radial-row { display: flex; justify-content: space-between; align-items: center; padding: 5px 0; border-bottom: 1px solid #f0ede6; }
+  .radial-row:last-child { border-bottom: none; }
+  .radial-lbl { font-size: 0.75rem; color: var(--ink-soft); }
+  .radial-num { font-family: 'Lora', serif; font-size: 0.92rem; font-weight: 700; color: var(--ink); }
+  .btn-close-modal { width: 100%; padding: 11px; border: none; border-radius: 10px; background: var(--ink); color: white; font-weight: 700; font-family: 'DM Sans', sans-serif; font-size: 0.9rem; cursor: pointer; }
+  .btn-close-modal:hover { background: var(--accent); }
+  .unit-history-section { margin-bottom: 16px; }
+  .unit-history-title { font-size: 0.68rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: 8px; }
+  .unit-history-list { max-height: 160px; overflow-y: auto; border: 1px solid #e8e6e1; border-radius: 10px; }
+  .unit-history-item { display: flex; justify-content: space-between; align-items: center; padding: 7px 12px; border-bottom: 1px solid #f0ede6; font-size: 0.76rem; gap: 6px; }
+  .unit-history-item:last-child { border-bottom: none; }
+  .uh-book { color: var(--ink); font-weight: 700; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .uh-unit { color: var(--accent); font-weight: 700; white-space: nowrap; flex-shrink: 0; }
+  .uh-date { color: var(--ink-soft); font-size: 0.66rem; white-space: nowrap; flex-shrink: 0; }
+  .unit-history-empty { padding: 14px; text-align: center; color: var(--ink-soft); font-size: 0.80rem; }
+
+  /* ══ ミス単語バンク ══ */
+  #mistakeBankModal { position: fixed; inset: 0; z-index: 200; background: rgba(28,43,58,0.55); backdrop-filter: blur(4px); display: flex; justify-content: center; align-items: center; padding: 16px; }
+  .mbank-box { background: var(--card-bg); border-radius: var(--radius); padding: 22px 18px 18px; max-width: 440px; width: 100%; box-shadow: 0 8px 40px rgba(28,43,58,0.28); position: relative; max-height: 88vh; display: flex; flex-direction: column; }
+  .mbank-box::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, var(--wrong), #e07b00); border-radius: var(--radius) var(--radius) 0 0; }
+  .mbank-title { font-family: 'Lora', serif; font-size: 1.05rem; font-weight: 700; color: var(--ink); margin-bottom: 4px; letter-spacing: 0.02em; }
+  .mbank-count { font-size: 0.76rem; color: var(--ink-soft); margin-bottom: 14px; }
+  .mbank-count span { font-weight: 700; color: var(--wrong); }
+  .mbank-list { flex: 1; overflow-y: auto; border: 1px solid #e8e6e1; border-radius: 10px; margin-bottom: 14px; }
+  .mbank-empty { padding: 20px; text-align: center; color: var(--ink-soft); font-size: 0.82rem; }
+  .mbank-item { display: flex; align-items: center; gap: 10px; padding: 10px 12px; border-bottom: 1px solid #f0ede6; }
+  .mbank-item:last-child { border-bottom: none; }
+  .mbank-word { font-family: 'Lora', serif; font-weight: 700; font-size: 1.0rem; color: var(--ink); min-width: 110px; flex-shrink: 0; }
+  .mbank-meaning { font-size: 0.78rem; color: var(--ink-soft); flex: 1; line-height: 1.4; }
+  .mbank-book-tag { font-size: 0.60rem; font-weight: 700; background: var(--bg); color: var(--ink-soft); border-radius: 5px; padding: 2px 6px; white-space: nowrap; flex-shrink: 0; }
+  .mbank-del { background: none; border: 1.5px solid #e0ddd8; border-radius: 6px; cursor: pointer; font-size: 0.70rem; color: var(--wrong); padding: 3px 8px; font-weight: 700; flex-shrink: 0; transition: background 0.12s; }
+  .mbank-del:hover { background: #fdecea; }
+  .mbank-actions { display: flex; gap: 8px; }
+  .mbank-btn { flex: 1; padding: 11px; border: none; border-radius: 10px; font-weight: 700; font-family: 'DM Sans', sans-serif; font-size: 0.84rem; cursor: pointer; transition: opacity 0.15s; }
+  .mbank-btn:hover { opacity: 0.85; }
+  .mbank-btn.red   { background: var(--wrong); color: white; }
+  .mbank-btn.gray  { background: #e8e6e1; color: var(--ink); }
+  .mbank-btn.green { background: var(--correct); color: white; }
+  .mbank-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+  #modeJpEn1Hint { font-size: 0.75rem; color: var(--ink-soft); font-style: italic; margin-top: 4px; }
+  #jpEnDisplay { font-family: 'Lora', serif; font-size: 1.0rem; color: var(--ink-soft); line-height: 1.7; margin-top: 6px; text-align: center; max-width: 400px; padding: 10px 16px; background: #f0ede6; border-radius: 10px; }
+  #jpEnDisplay .jp-blank { display: inline-block; min-width: 60px; border-bottom: 2px solid var(--ink); font-weight: 700; color: var(--ink); }
+
+  /* ══ 同期モーダル ══ */
+  #syncModal { position: fixed; inset: 0; z-index: 300; background: rgba(28,43,58,0.50); backdrop-filter: blur(4px); display: flex; justify-content: center; align-items: center; padding: 16px; }
 </style>
 </head>
 <body>
 
-<div class="card">
-  <h2>Vocab Master</h2>
-  <label>単語帳</label>
-  <select id="book">
-    <option value="system5">システム英単語（5訂版）</option>
-    <option value="target1900">英単語ターゲット1900</option>
-    <option value="target1400">英単語ターゲット1400</option>
-    <option value="target1200">英単語ターゲット1200</option>
-    <option value="leap">英単語LEAP</option>
-    <option value="sokutanh8">速読英単語（必修編 8訂版）</option>
-    <option value="jukugo1000">英熟語ターゲット1000</option>
-    <option value="pass2nd">英検パス単2級</option>
-    <option value="passpre1st">英検パス単準1級</option>
-    <option value="tepeki">鉄壁（改訂版）</option>
-    <option value="gohou">語法</option>
-    <option value="kihonndoushi">基本動詞</option>
-    <option value="tagigo">多義語</option>
-    <option value="ronrimarker">論理マーカー</option>
-  </select>
-  
-  <label>生徒ID</label>
-  <input type="text" id="user" placeholder="例：Student01">
-  
-  <button onclick="start()">学習を開始する</button>
+<div class="header">
+  <div class="logo">Vocab<span>★</span>Master</div>
+  <div style="display:flex;gap:6px;align-items:center;">
+    <button id="syncBtn" onclick="showSyncModal()" style="font-size:0.82rem;font-weight:700;background:var(--ink-soft);color:#fff;padding:4px 10px;border-radius:20px;letter-spacing:0.04em;border:none;cursor:pointer;font-family:'DM Sans',sans-serif;transition:background 0.15s;">🔄 同期</button>
+    <button id="progressBtn" onclick="showProgressModal()">📊 進捗</button>
+    <button id="mistakeBankBtn" onclick="showMistakeBank()" style="font-size:0.82rem;font-weight:700;background:var(--wrong);color:#fff;padding:4px 10px;border-radius:20px;letter-spacing:0.04em;border:none;cursor:pointer;font-family:'DM Sans',sans-serif;transition:background 0.15s;">❌ ミス</button>
+    <div id="accuracy">正答率 —</div>
+  </div>
+</div>
+
+<div id="syncModal" class="hidden" onclick="if(event.target===this)closeSyncModal()">
+  <div class="modal-box" style="max-width: 440px;">
+    <div class="modal-title">🔄 データ引き継ぎ・同期</div>
+    <p style="font-size:0.8rem; color:var(--ink-soft); margin-bottom:14px; line-height:1.4;">現在の学習データを引き継ぎIDとして発行するか、他の端末で発行したIDを入力して復元できます。</p>
+    
+    <div style="margin-bottom: 20px;">
+      <button class="btn-start" style="padding:10px; font-size:0.85rem;" onclick="generateSyncID()">現在のデータからIDを発行</button>
+      <textarea id="exportArea" readonly style="width:100%; height:80px; margin-top:8px; border-radius:8px; border:1.5px solid #e0ddd8; background:#f0ede6; padding:10px; font-size:0.75rem; word-break:break-all; outline:none;" placeholder="ここに発行された引き継ぎIDが表示されます"></textarea>
+      <button class="btn-small btn-pause" style="width:100%; margin-top:6px;" onclick="copySyncID()">📋 IDをコピー</button>
+    </div>
+
+    <hr style="border:none; border-top:1px solid #e0ddd8; margin-bottom:18px;">
+
+    <div>
+      <label class="field-label" style="margin-top:0;">引き継ぎIDを入力</label>
+      <textarea id="importArea" style="width:100%; height:80px; margin-bottom:6px; border-radius:8px; border:1.5px solid #e0ddd8; padding:10px; font-size:0.75rem; word-break:break-all;" placeholder="コピーしたIDを貼り付けてください"></textarea>
+      <button class="btn-start" style="background:var(--accent); padding:10px; font-size:0.85rem;" onclick="importSyncID()">この端末にデータを復元する</button>
+    </div>
+
+    <button class="btn-close-modal" style="margin-top:20px;" onclick="closeSyncModal()">閉じる</button>
+  </div>
+</div>
+
+<div id="progressModal" class="hidden" onclick="if(event.target===this)closeProgressModal()">
+  <div class="modal-box">
+    <div class="modal-title">📊 学習進捗</div>
+    <div class="stat-grid">
+      <div class="stat-box"><div class="stat-label">本日</div><div class="stat-value" id="statToday">0</div><div class="stat-unit">語</div></div>
+      <div class="stat-box"><div class="stat-label">今週</div><div class="stat-value" id="statWeek">0</div><div class="stat-unit">語</div></div>
+      <div class="stat-box"><div class="stat-label">今月</div><div class="stat-value" id="statMonth">0</div><div class="stat-unit">語</div></div>
+      <div class="stat-box"><div class="stat-label">累計</div><div class="stat-value" id="statTotal">0</div><div class="stat-unit">語</div></div>
+    </div>
+    <div class="chart-section">
+      <div class="chart-title">今週の学習（月〜日）</div>
+      <div class="bar-chart" id="weekBarChart"></div>
+    </div>
+    <div class="chart-section">
+      <div class="chart-title">今月の進捗</div>
+      <div class="radial-wrap">
+        <svg width="84" height="84" viewBox="0 0 84 84">
+          <circle cx="42" cy="42" r="34" fill="none" stroke="#e8e6e1" stroke-width="10"/>
+          <circle id="donutArc" cx="42" cy="42" r="34" fill="none" stroke="url(#dg)" stroke-width="10" stroke-linecap="round" stroke-dasharray="0 213.6" transform="rotate(-90 42 42)" style="transition:stroke-dasharray 0.6s ease"/>
+          <defs>
+            <linearGradient id="dg" x1="0%" y1="0%" x2="100%" y2="0%">
+              <stop offset="0%" stop-color="#c9a84c"/>
+              <stop offset="100%" stop-color="#2d6a4f"/>
+            </linearGradient>
+          </defs>
+          <text x="42" y="46" text-anchor="middle" font-family="Lora,serif" font-size="13" font-weight="700" fill="#1c2b3a" id="donutPct">0%</text>
+        </svg>
+        <div class="radial-info">
+          <div class="radial-row"><span class="radial-lbl">月間目標</span><span class="radial-num" id="monthGoal">—</span></div>
+          <div class="radial-row"><span class="radial-lbl">達成</span><span class="radial-num" id="monthDone">— 語</span></div>
+          <div class="radial-row"><span class="radial-lbl">学習日数</span><span class="radial-num" id="monthDays">— 日</span></div>
+        </div>
+      </div>
+    </div>
+    <div class="unit-history-section">
+      <div class="unit-history-title">📖 Unit 学習履歴</div>
+      <div class="unit-history-list" id="unitHistoryList">
+        <div class="unit-history-empty">履歴がありません</div>
+      </div>
+    </div>
+    <button class="btn-close-modal" onclick="closeProgressModal()">閉じる</button>
+  </div>
+</div>
+
+<div id="mistakeBankModal" class="hidden" onclick="if(event.target===this)closeMistakeBank()">
+  <div class="mbank-box">
+    <div class="mbank-title">❌ ミス単語バンク</div>
+    <div class="mbank-count">蓄積数：<span id="mbankCountNum">0</span> 語　（全単語帳・横断）</div>
+    <div class="mbank-list" id="mbankList">
+      <div class="mbank-empty">まだミスした単語はありません</div>
+    </div>
+    
+    <div id="mbankSettings" style="display:none; gap:8px; margin-bottom:14px;">
+      <div style="flex:1;">
+        <label class="field-label" style="margin-top:0;">モード</label>
+        <select id="mbankMode" style="margin-bottom:0; font-size:0.8rem; padding:8px 24px 8px 10px; background-position: right 10px center;">
+          <option value="quiz">四択クイズ</option>
+          <option value="jpen1">JP→EN 穴埋め</option>
+          <option value="jpen2">JP→EN 全文</option>
+          <option value="flash">カードめくり（EN→JP）</option>
+          <option value="flash_jpen">カードめくり（JP→EN）</option>
+        </select>
+      </div>
+      <div style="flex:1;">
+        <label class="field-label" style="margin-top:0;">自動送り</label>
+        <select id="mbankSpeed" style="margin-bottom:0; font-size:0.8rem; padding:8px 24px 8px 10px; background-position: right 10px center;">
+          <option value="5000">5秒</option>
+          <option value="10000">10秒</option>
+          <option value="0">手動で次へ</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="mbank-actions">
+      <button class="mbank-btn green" id="mbankStudyBtn" onclick="startMistakeBankStudy()" disabled>🔁 ミスのみ練習</button>
+      <button class="mbank-btn gray" onclick="closeMistakeBank()">閉じる</button>
+      <button class="mbank-btn red" id="mbankClearAllBtn" onclick="clearAllMistakes()" disabled>全削除</button>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+  <div id="setupArea" class="card">
+    <h3>学習の設定</h3>
+    
+    <label class="field-label">単語帳</label>
+    <select id="bookSelect" onchange="changeBook()">
+      <option value="system5">システム英単語（5訂版）</option>
+      <option value="target1900">英単語ターゲット1900</option>
+      <option value="target1400">英単語ターゲット1400</option>
+      <option value="target1200">英単語ターゲット1200</option>
+      <option value="leap">英単語LEAP</option>
+      <option value="sokutanh8">速読英単語（必修編 8訂版）</option>
+      <option value="jukugo1000">英熟語ターゲット1000</option>
+      <option value="pass2nd">英検パス単準2級</option>
+      <option value="passpre1st">英検パス単準1級</option>
+      <option value="tepeki">鉄壁（改訂版）</option>
+      <option value="gohou">語法</option>
+      <option value="kihonndoushi">基本動詞</option>
+      <option value="tagigo">多義語</option>
+      <option value="ronrimarker">論理マーカー</option>
+    </select>
+
+    <label class="field-label">ユニット選択 (複数可)</label>
+    <div class="unit-actions">
+      <button type="button" onclick="selectAllUnits(true)">全選択</button>
+      <button type="button" onclick="selectAllUnits(false)">全解除</button>
+    </div>
+    <div id="unitCheckList" class="checkbox-list"></div>
+
+    <label class="field-label">出題順</label>
+    <select id="orderSelect" onchange="updateStartButtons()">
+      <option value="sequential">順番通り</option>
+      <option value="random">ランダムに出題</option>
+    </select>
+
+    <label class="field-label">学習モード</label>
+    <select id="mode">
+      <option value="quiz">四択クイズ（英語→日本語）</option>
+      <option value="jpen1">JP→EN 穴埋め（例文空欄）</option>
+      <option value="jpen2">JP→EN 全文（日本語→英単語）</option>
+      <option value="flash">カードめくり（EN→JP）</option>
+      <option value="flash_jpen">カードめくり（JP→EN）</option>
+    </select>
+
+    <label class="field-label">自動送り（解答後）</label>
+    <select id="revealSpeed">
+      <option value="5000">5秒</option>
+      <option value="10000">10秒</option>
+      <option value="0">手動で次へ</option>
+    </select>
+    
+    <label class="field-label">生徒ID</label>
+    <input type="text" id="user" placeholder="例：Student01" style="width: 100%; padding: 11px 14px; margin-bottom: 12px; border-radius: 10px; border: 1.5px solid #ddd; font-size: 0.95rem; font-family: 'DM Sans', sans-serif; background: #fafafa; color: var(--ink);">
+
+    <div id="startBtnContainer" style="display:flex; flex-direction:column; margin-bottom:10px;">
+      <button class="btn-start" id="btnResume" onclick="start(true)" style="display:none; background:var(--accent);">続きから開始する</button>
+      <button class="btn-start" id="btnStart" onclick="start(false)">初めから開始する →</button>
+    </div>
+  </div>
+
+  <div id="studyArea" class="hidden">
+    <div class="progress-wrap">
+      <div id="unitLabel">Unit —</div>
+      <div id="progress">0 / 0</div>
+      <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+    </div>
+
+    <div class="card" id="wordCardWrap">
+      <div id="wordCard">
+        <div id="pos"></div>
+        <h2 id="word"></h2>
+        <p id="example">
+        </p>
+        <div id="jpEnDisplay" class="hidden"></div>
+        <div id="meaning" class="invisible"></div>
+      </div>
+
+      <div id="finishScreen" class="hidden">
+        <div style="font-size:2rem">🎓</div>
+        <h2>Complete!</h2>
+        <div class="score-badge" id="finalScore">—%</div>
+        <p id="finalMsg"></p>
+        <button class="btn-finish green" onclick="restart()">もう一度同じ問題を解く</button>
+        <button class="btn-finish blue"  id="nextRandomBtn" onclick="nextRandom50()" style="display:none;">同じ範囲から次の50単語を解く →</button>
+        <button class="btn-finish blue"  id="nextUnitBtn" onclick="goNextUnit()">次のユニットへ →</button>
+        <button class="btn-finish" style="background:#fdecea;color:var(--wrong);" onclick="showMistakeBank()">❌ ミス単語を確認</button>
+        <button class="btn-finish gray"  onclick="backToSetup()">設定に戻る</button>
+      </div>
+    </div>
+
+    <div id="quizArea"></div>
+
+    <div class="action-btns">
+      <button id="pauseBtn" class="btn-small btn-pause" onclick="togglePause()">⏸ 一時停止</button>
+      <button class="btn-small btn-stop" onclick="backToSetup()">✕ 終了</button>
+    </div>
+  </div>
+
 </div>
 
 <script>
-/* ── URLパラメータからIDを自動セット ── */
-(function() {
+function escHtml(str) {
+  if (typeof str !== 'string') return str;
+  return str.replace(/[&'`"<>]/g, function(match) {
+    return { '&': '&amp;', "'": '&#x27;', '`': '&#x60;', '"': '&quot;', '<': '&lt;', '>': '&gt;' }[match];
+  });
+}
+
+function shuffleArray(array) {
+  var arr = array.slice();
+  for (var i = arr.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var temp = arr[i];
+    arr[i] = arr[j];
+    arr[j] = temp;
+  }
+  return arr;
+}
+
+function pickRandom50(sourceWords, book, units) {
+  var limit = 50;
+  var historyKey = "vocabRandomHist_" + book + "_" + units.slice().sort().join(",");
+  var history =[];
+  try {
+    var saved = localStorage.getItem(historyKey);
+    if (saved) history = JSON.parse(saved);
+  } catch(e) {}
+
+  var unasked = sourceWords.filter(function(w) { return history.indexOf(w.word) === -1; });
+  var asked   = sourceWords.filter(function(w) { return history.indexOf(w.word) !== -1; });
+  var result  =[];
+
+  if (unasked.length >= limit) {
+    unasked = shuffleArray(unasked);
+    result = unasked.slice(0, limit);
+    history = history.concat(result.map(function(w){ return w.word; }));
+  } else {
+    unasked = shuffleArray(unasked);
+    result = result.concat(unasked);
+    
+    var shortage = limit - unasked.length;
+    asked = shuffleArray(asked);
+    var additional = asked.slice(0, shortage);
+    result = result.concat(additional);
+    
+    history = result.map(function(w){ return w.word; });
+  } 
+  
+  try { localStorage.setItem(historyKey, JSON.stringify(history)); } catch(e) {}
+  return shuffleArray(result);
+}
+
+var BOOK_CONFIG = {
+  "system5":      { unitCount: 41, total: 2027, name: "システム英単語（5訂版）",   showRange: true  },
+  "target1900":   { unitCount: 38, total: 1900, name: "英単語ターゲット1900",       showRange: true  },
+  "target1400":   { unitCount: 28, total: 1400, name: "TARGET1400 5訂版",           showRange: true  },
+  "target1200":   { unitCount: 34, total: 1700, name: "英単語ターゲット1200",       showRange: true  },
+  "leap":         { unitCount: 46, total: 2300, name: "英単語LEAP",                 showRange: true  },
+  "sokutanh8":    { unitCount: 38, total: 1903, name: "速読英単語（必修編 8訂版）", showRange: true  },
+  "jukugo1000":   { unitCount: 20, total: 1000, name: "英熟語ターゲット1000",       showRange: true  },
+  "pass2nd":      { unitCount: 20, total: null, name: "英検パス単準2級",            showRange: false },
+  "passpre1st":   { unitCount: 20, total: null, name: "英検パス単準1級",            showRange: false },
+  "tepeki":       { unitCount: 50, total: null, name: "鉄壁（改訂版）",             showRange: false },
+  "gohou":        { unitCount: 1,  total: null, name: "語法",                       showRange: false },
+  "kihonndoushi": { unitCount: 1,  total: null, name: "基本動詞",                   showRange: false },
+  "tagigo":       { unitCount: 1,  total: null, name: "多義語",                     showRange: false },
+  "ronrimarker":  { unitCount: 1,  total: null, name: "論理マーカー",               showRange: false }
+};
+
+var BOOK = (new URLSearchParams(location.search).get("book")) || localStorage.getItem('vocab_last_book') || "system5";
+var bookInfo, UNIT_MIN, UNIT_MAX;
+
+var words            =[];
+var allCombinedWords =[];
+var index            = 0;
+var correctCount     = 0;
+var totalCount       = 0;
+var reviewQueue      =[];
+var current          = null;
+var timer1           = null;
+var timer2           = null;
+var isPaused         = false;
+var autoSpeed        = 5000;
+var currentUnitArray =[];
+var isRandomMode     = false;
+var isMistakeBankMode = false;
+var isAnswered       = false;
+
+var PROGRESS_KEY     = "vocabProgress";
+var UNIT_HISTORY_KEY = "vocabUnitHistory";
+var MISTAKE_BANK_KEY = "vocabMistakeBank";
+
+function unitRangeLabel(cfg, unitNum) {
+  if (!cfg || !cfg.showRange || !cfg.total) return "Unit " + unitNum;
+  var STEP = 50;
+  var start = (unitNum - 1) * STEP + 1;
+  var end   = (unitNum === cfg.unitCount) ? cfg.total : unitNum * STEP;
+  return "Unit " + unitNum + "  (" + start + "–" + end + ")";
+}
+
+var selectedVoice = null;
+function pickBestVoice(voices) {
+  var enVoices = voices.filter(function(v) { return /^en/i.test(v.lang); });
+  if (!enVoices.length) return null;
+  var priority =["premium","natural","enhanced","neural","google","siri","samantha","karen","daniel","moira","zira","mark"];
+  var scored = enVoices.map(function(v) {
+    var name = v.name.toLowerCase();
+    var score = 0;
+    priority.forEach(function(kw, i) { if (name.indexOf(kw) !== -1) score += (priority.length - i) * 10; });
+    if (/^en-US/i.test(v.lang)) score += 5;
+    else if (/^en-GB/i.test(v.lang)) score += 3;
+    else if (/^en/i.test(v.lang))    score += 1;
+    return { voice: v, score: score };
+  });
+  scored.sort(function(a, b) { return b.score - a.score; });
+  return scored[0].voice;
+}
+
+var iosUnlocked = false;
+function initVoice(cb) {
+  var resolved = false;
+  function resolve() {
+    if (resolved) return; resolved = true;
+    var v = speechSynthesis.getVoices();
+    selectedVoice = pickBestVoice(v);
+    if (cb) cb();
+  }
+  var voices = speechSynthesis.getVoices();
+  if (voices.length > 0) { resolve(); return; }
+  speechSynthesis.onvoiceschanged = resolve;
+  var attempts = 0;
+  var poll = setInterval(function() {
+    attempts++;
+    if (speechSynthesis.getVoices().length > 0 || attempts >= 30) { clearInterval(poll); resolve(); }
+  }, 100);
+}
+initVoice();
+
+function unlockIOSSpeech() {
+  if (iosUnlocked) return;
+  iosUnlocked = true;
+  var u = new SpeechSynthesisUtterance("");
+  u.volume = 0;
+  u.lang = "en-US";
+  speechSynthesis.speak(u);
+  speechSynthesis.cancel();
+}
+
+var ttsWatchdog = null;
+function startTTSWatchdog(expectedMs) {
+  clearTimeout(ttsWatchdog);
+  ttsWatchdog = setTimeout(function() {
+    if (speechSynthesis.speaking || speechSynthesis.pending) { speechSynthesis.cancel(); }
+  }, expectedMs + 3000);
+}
+function clearTTSWatchdog() { clearTimeout(ttsWatchdog); }
+
+function initBookSetup() {
+  bookInfo = BOOK_CONFIG[BOOK] || { unitCount: 20, total: null, name: BOOK, showRange: false };
+  UNIT_MIN = 1;
+  UNIT_MAX = bookInfo.unitCount;
+
+  var selectEl = document.getElementById("bookSelect");
+  if(selectEl) selectEl.value = BOOK;
+
+  var listEl = document.getElementById("unitCheckList");
+  listEl.innerHTML = "";
+  
+  for (var u = UNIT_MIN; u <= UNIT_MAX; u++) {
+    var lbl = document.createElement("label");
+    lbl.className = "checkbox-item";
+    var chk = document.createElement("input");
+    chk.type = "checkbox";
+    chk.value = u;
+    if (u === 1) chk.checked = true;
+    chk.addEventListener("change", updateStartButtons);
+    var span = document.createElement("span");
+    span.textContent = unitRangeLabel(bookInfo, u);
+    lbl.appendChild(chk);
+    lbl.appendChild(span);
+    listEl.appendChild(lbl);
+  }
+  updateStartButtons();
+}
+
+function changeBook() {
+  BOOK = document.getElementById("bookSelect").value;
+  localStorage.setItem('vocab_last_book', BOOK);
+  initBookSetup();
+}
+
+document.addEventListener("DOMContentLoaded", function() {
   var urlId = new URLSearchParams(location.search).get('id');
   if (urlId) {
-    document.getElementById('user').value = urlId;
+    var userEl = document.getElementById('user');
+    if(userEl) userEl.value = urlId;
   }
-})();
+  initBookSetup();
+});
 
-function start(){
-  var book = document.getElementById("book").value;
-  var user = document.getElementById("user").value || "guest";
-  location.href = "study.html?book=" + encodeURIComponent(book) + "&user=" + encodeURIComponent(user);
+function selectAllUnits(check) {
+  document.querySelectorAll("#unitCheckList input[type='checkbox']").forEach(function(cb) { cb.checked = check; });
+  updateStartButtons();
+}
+
+function updateStartButtons() {
+  var checkboxes = document.querySelectorAll("#unitCheckList input[type='checkbox']:checked");
+  var btnStart = document.getElementById("btnStart");
+  var btnResume = document.getElementById("btnResume");
+  var order = document.getElementById("orderSelect").value;
+
+  if (checkboxes.length === 0) {
+    btnStart.disabled = true;
+    btnStart.textContent = "ユニットを選択してください";
+    btnResume.style.display = "none";
+    return;
+  } else {
+    btnStart.disabled = false;
+  }
+
+  if (checkboxes.length === 1 && order === "sequential") {
+    var unit = checkboxes[0].value;
+    var key = 'vocabResume_' + BOOK + '_' + unit;
+    var savedStr = null;
+    try { savedStr = localStorage.getItem(key); } catch(e) {}
+    
+    if (savedStr) {
+      var savedIndex = parseInt(savedStr, 10);
+      if (savedIndex > 0) {
+        btnResume.style.display = "block";
+        btnResume.textContent = "続きから開始する (" + (savedIndex + 1) + "語目〜)";
+        btnStart.textContent = "初めから開始する";
+        btnStart.style.background = "#e8e6e1";
+        btnStart.style.color = "var(--ink)";
+      } else { btnResume.style.display = "none"; }
+    } else { btnResume.style.display = "none"; }
+  } else {
+    btnResume.style.display = "none";
+    var countTxt = checkboxes.length > 1 ? " (" + checkboxes.length + "ユニット)" : "";
+    btnStart.textContent = "学習を開始する" + countTxt + " →";
+    btnStart.style.background = "var(--ink)";
+    btnStart.style.color = "white";
+  }
+}
+
+async function loadMultipleUnits(units, callback) {
+  var combined =[];
+  try {
+    for (var i = 0; i < units.length; i++) {
+      var u = units[i];
+      var r = await fetch("data/" + BOOK + "/unit" + u + ".json");
+      
+      if (!r.ok) throw new Error("Fetch failed: unit" + u + " (Status: " + r.status + ")");
+      
+      var data = await r.json();
+      
+      if (Array.isArray(data)) {
+        combined = combined.concat(data);
+      } else {
+        var found =[];
+        Object.keys(data).forEach(function(k) { 
+          if(Array.isArray(data[k]) && !found.length) found = data[k]; 
+        });
+        combined = combined.concat(found);
+      }
+      if (i < units.length - 1) {
+        await new Promise(function(resolve) { setTimeout(resolve, 50); });
+      }
+    }
+    callback(true, combined);
+  } catch (e) {
+    console.error("Loading error:", e);
+    alert("データの読み込みに失敗しました。ネットワーク接続を確認してください。");
+    callback(false,[]);
+  }
+}
+
+function start(resumeFlag) {
+  unlockIOSSpeech();
+  var checkboxes = document.querySelectorAll("#unitCheckList input[type='checkbox']:checked");
+  currentUnitArray = Array.from(checkboxes).map(function(cb) { return parseInt(cb.value); });
+  isRandomMode = (document.getElementById("orderSelect").value === "random");
+  autoSpeed = parseInt(document.getElementById("revealSpeed").value);
+  
+  if (currentUnitArray.length === 0) return;
+
+  var RANDOM_FETCH_LIMIT = 10;
+  var unitsToFetch = currentUnitArray;
+  if (isRandomMode && currentUnitArray.length > RANDOM_FETCH_LIMIT) {
+    unitsToFetch = shuffleArray(currentUnitArray.slice()).slice(0, RANDOM_FETCH_LIMIT);
+  }
+
+  loadMultipleUnits(unitsToFetch, function(success, combinedWords) {
+    if (!success) return;
+    if (!combinedWords || combinedWords.length === 0) { alert("データが空です。"); return; }
+    
+    allCombinedWords = combinedWords;
+    
+    if (currentUnitArray.length > 1 && isRandomMode) {
+      words = pickRandom50(allCombinedWords, BOOK, currentUnitArray);
+    } else if (isRandomMode) {
+      words = shuffleArray(allCombinedWords);
+    } else {
+      words = allCombinedWords.slice();
+    }
+    
+    resetState();
+    
+    var isSingleSequential = (currentUnitArray.length === 1 && !isRandomMode);
+    if (resumeFlag && isSingleSequential) {
+      var key = 'vocabResume_' + BOOK + '_' + currentUnitArray[0];
+      var saved = 0;
+      try { saved = parseInt(localStorage.getItem(key), 10); } catch(e) {}
+      if (!isNaN(saved) && saved > 0 && saved < words.length) { index = saved; }
+    } else if (isSingleSequential) {
+      try { localStorage.removeItem('vocabResume_' + BOOK + '_' + currentUnitArray[0]); } catch(e) {}
+    }
+
+    document.getElementById("setupArea").classList.add("hidden");
+    document.getElementById("studyArea").classList.remove("hidden");
+    updateUnitLabel();
+    if (!selectedVoice) { initVoice(function() { next(); }); } else { next(); }
+  });
+}
+
+function resetState() {
+  index = 0; correctCount = 0; totalCount = 0; reviewQueue =[];
+  document.getElementById("progressFill").style.width = "0%";
+  updateAccuracy();
+}
+
+function updateUnitLabel() {
+  var lbl = document.getElementById("unitLabel");
+  if (isMistakeBankMode) { lbl.textContent = "❌ ミス復習"; return; }
+  if (currentUnitArray.length === 1) { lbl.textContent = "Unit " + currentUnitArray[0]; }
+  else if (currentUnitArray.length <= 3) { lbl.textContent = "Unit " + currentUnitArray.join(", "); }
+  else { lbl.textContent = "Unit " + currentUnitArray[0] + " 他" + (currentUnitArray.length - 1) + "件"; }
+  
+  if (isRandomMode) { 
+    if (currentUnitArray.length > 1) { lbl.textContent += " (ランダム50語)"; } 
+    else { lbl.textContent += " (ランダム)"; } 
+  }
+}
+
+function next() {
+  if (isPaused) return;
+  clearTimeout(timer1); clearTimeout(timer2);
+  speechSynthesis.cancel();
+  setTimeout(function() { nextCore(); }, 50);
+}
+
+function nextCore() {
+  if (isPaused) return;
+  if (index >= words.length && reviewQueue.length === 0) { showFinishScreen(); return; }
+  current = reviewQueue.length > 0 ? reviewQueue.shift() : words[index++];
+
+  isAnswered = false; 
+
+  var saveIndex = reviewQueue.length > 0 ? index : Math.max(0, index - 1);
+  if (saveIndex > 0 && !isMistakeBankMode && currentUnitArray.length === 1 && !isRandomMode) {
+    try { localStorage.setItem('vocabResume_' + BOOK + '_' + currentUnitArray[0], saveIndex); } catch(e) {}
+  }
+
+  var modeVal = document.getElementById("mode").value;
+  var jpEnDisp = document.getElementById("jpEnDisplay");
+  jpEnDisp.classList.add("hidden");
+
+  if (modeVal === "jpen1") {
+    var exampleBlank = buildExampleBlank(current.example, current.word);
+    document.getElementById("word").textContent    = "";
+    document.getElementById("pos").textContent     = current.pos || "";
+    document.getElementById("example").textContent = exampleBlank;
+    jpEnDisp.innerHTML = buildHighlightedJpBlank(current.example_jp || current.meaning || "", current.meaning);
+    jpEnDisp.classList.remove("hidden");
+  } else if (modeVal === "jpen2") { 
+    document.getElementById("word").textContent    = "";
+    document.getElementById("pos").textContent     = current.pos || "";
+    document.getElementById("example").textContent = "";
+    jpEnDisp.innerHTML = buildHighlightedJp(current.example_jp || current.meaning || "（日本語訳なし）", current.meaning);
+    jpEnDisp.classList.remove("hidden");
+  } else if (modeVal === "flash_jpen") { 
+    document.getElementById("word").textContent    = "";
+    document.getElementById("pos").textContent     = current.pos || "";
+    document.getElementById("example").textContent = "";
+    jpEnDisp.innerHTML = buildHighlightedJp(current.example_jp || current.meaning || "（日本語訳なし）", current.meaning);
+    jpEnDisp.classList.remove("hidden");
+  } else {
+    document.getElementById("word").textContent    = current.word    || "";
+    document.getElementById("pos").textContent     = current.pos     || "";
+    document.getElementById("example").textContent = current.example || "";
+  }
+
+  var meanEl = document.getElementById("meaning");
+  meanEl.textContent = current.example_jp || current.meaning || "";
+  meanEl.classList.add("invisible");
+
+  document.getElementById("progress").textContent     = index + " / " + words.length;
+  document.getElementById("progressFill").style.width = Math.round((index / words.length) * 100) + "%";
+
+  if (modeVal === "jpen1" || modeVal === "jpen2") { 
+    renderJpEnQuiz(); 
+    if (autoSpeed > 0) {
+      timer1 = setTimeout(autoRevealJpEnQuiz, autoSpeed);
+    }
+  } 
+  else if (modeVal === "flash_jpen") { 
+    renderFlipJpEn(); 
+    if (autoSpeed > 0) {
+      timer1 = setTimeout(flipJpEn, autoSpeed);
+    }
+  } 
+  else {
+    if (modeVal === "quiz") { renderQuiz(); } else { renderFlip(); }
+    
+    var textsToSpeak =[];
+    if (current.word) textsToSpeak.push(current.word);
+    if (current.example) textsToSpeak.push(current.example);
+    
+    if (textsToSpeak.length > 0) {
+      var sIdx = 0;
+      function playNext() {
+        if (sIdx >= textsToSpeak.length) {
+          if (autoSpeed > 0 && !isAnswered) {
+            if (modeVal === "quiz") { timer1 = setTimeout(autoRevealQuiz, autoSpeed); }
+            else { timer1 = setTimeout(flip, autoSpeed); }
+          }
+          return;
+        }
+        speak(textsToSpeak[sIdx], function() {
+          sIdx++;
+          if (sIdx < textsToSpeak.length) {
+            setTimeout(playNext, 400);
+          } else {
+            if (autoSpeed > 0 && !isAnswered) {
+              if (modeVal === "quiz") { timer1 = setTimeout(autoRevealQuiz, autoSpeed); }
+              else { timer1 = setTimeout(flip, autoSpeed); }
+            }
+          }
+        });
+      }
+      playNext();
+    } else {
+      if (autoSpeed > 0 && !isAnswered) {
+        if (modeVal === "quiz") { timer1 = setTimeout(autoRevealQuiz, autoSpeed); }
+        else { timer1 = setTimeout(flip, autoSpeed); }
+      }
+    }
+  }
+}
+
+function speak(text, cb) {
+  if (!text) { if (cb) cb(); return; }
+  var u = new SpeechSynthesisUtterance(text);
+  u.lang = "en-US";
+  u.rate = 1.05;
+  if (selectedVoice) u.voice = selectedVoice;
+  var expectedMs = Math.max(1500, text.length * 120);
+  startTTSWatchdog(expectedMs);
+  var done = false;
+  u.onend = function() { clearTTSWatchdog(); if(!done){ done=true; if(cb) cb(); } };
+  u.onerror = function() { clearTTSWatchdog(); if(!done){ done=true; if(cb) cb(); } };
+  speechSynthesis.speak(u);
+}
+
+function renderQuiz() {
+  var choices =[current.meaning];
+  var pool = words.filter(function(w) { return w.meaning !== current.meaning && w.meaning; });
+  pool.sort(function() { return Math.random() - 0.5; });
+  for (var i = 0; i < pool.length && choices.length < 4; i++) {
+    if (!choices.includes(pool[i].meaning)) choices.push(pool[i].meaning);
+  }
+  var dummies =["対象","結果","影響","機能","特徴","原因","状態","方法","変化","役割","概念","行動"];
+  dummies.sort(function() { return Math.random() - 0.5; });
+  for (var j = 0; j < dummies.length && choices.length < 4; j++) {
+    if (!choices.includes(dummies[j])) choices.push(dummies[j]);
+  }
+  choices.sort(function() { return Math.random() - 0.5; });
+
+  var area = document.getElementById("quizArea");
+  area.style.display = "grid"; area.innerHTML = "";
+  choices.forEach(function(c) {
+    var btn = document.createElement("button");
+    btn.className = "ans-btn"; btn.textContent = c;
+    (function(choice, el) { el.addEventListener("click", function() { answerQuiz(choice, el); }); })(c, btn);
+    area.appendChild(btn);
+  });
+}
+
+function answerQuiz(selected, btn) {
+  isAnswered = true; clearTimeout(timer1); clearTimeout(timer2);
+  lockButtons(); totalCount++;
+  var isCorrect = (selected === current.meaning);
+  if (isCorrect) { correctCount++; btn.classList.add("correct"); } 
+  else { btn.classList.add("wrong"); reviewQueue.push(current); addMistakeToBank(current); highlightCorrectBtn(); } 
+  showExampleJp();
+  updateAccuracy();
+  if (autoSpeed === 0) { addNextButton(); } 
+  else { timer2 = setTimeout(next, autoSpeed); }
+}
+
+function autoRevealQuiz() { 
+  isAnswered = true; totalCount++; reviewQueue.push(current); addMistakeToBank(current); 
+  updateAccuracy(); lockButtons(); highlightCorrectBtn(); showExampleJp(); 
+  if (autoSpeed === 0) { addNextButton(); } 
+  else { timer2 = setTimeout(next, autoSpeed); }
+}
+
+function highlightCorrectBtn() { document.querySelectorAll(".ans-btn").forEach(function(b) { if (b.textContent === current.meaning && !b.classList.contains("wrong")) b.classList.add("reveal-correct"); }); }
+
+function showExampleJp() {
+  var meanEl = document.getElementById("meaning");
+  var jpText = current.example_jp || "";
+  if (!jpText) {
+    if (current.meaning) { meanEl.innerHTML = escHtml(current.meaning); meanEl.classList.remove("invisible"); } 
+    return;
+  }
+  meanEl.innerHTML = buildHighlightedJp(jpText, current.meaning);
+  meanEl.classList.remove("invisible");
+}
+
+function buildHighlightedJp(jpText, meaning) {
+  if (!meaning) return escHtml(jpText);
+  var raw = meaning.split(/[／/・、,，\s]+/).map(function(s){ return s.trim(); }).filter(Boolean);
+  var extended =[];
+  raw.forEach(function(c) {
+    extended.push(c);
+    var root = c.replace(/(する|した|して|される|させる|な|的|に|い|く)$/, "");
+    if (root.length >= 2 && root !== c) extended.push(root);
+  });
+  extended.sort(function(a, b){ return b.length - a.length; });
+
+  var html = escHtml(jpText);
+  for (var i = 0; i < extended.length; i++) {
+    var cand = extended[i];
+    if (cand.length < 2) continue;
+    var esc = escHtml(cand);
+    var idx = html.indexOf(esc);
+    if (idx !== -1) {
+      html = html.substring(0, idx) + '<span class="meaning-highlight">' + esc + '</span>' + html.substring(idx + esc.length);
+      return html;
+    } 
+  } 
+  return html;
+}
+
+function getWordForms(word) {
+  var forms = new Set();
+  var w = word.toLowerCase().trim();
+  if (!w) return[];
+  forms.add(w); forms.add(w + "s"); forms.add(w + "es"); forms.add(w + "'s"); forms.add(w + "d"); forms.add(w + "ed"); forms.add(w + "ing");
+  if (w.endsWith("y")) { var base = w.slice(0, -1); forms.add(base + "ies"); forms.add(base + "ied"); }
+  if (w.endsWith("e")) { var base = w.slice(0, -1); forms.add(base + "ing"); }
+  var lastChar = w.slice(-1);
+  if (/[a-z]/.test(lastChar)) { forms.add(w + lastChar + "ed"); forms.add(w + lastChar + "ing"); }
+  if (w.endsWith("f")) { var base = w.slice(0, -1); forms.add(base + "ves"); } 
+  else if (w.endsWith("fe")) { var base = w.slice(0, -2); forms.add(base + "ves"); }
+
+  var irregularVerbs = { "be":["am","is","are","was","were","been"], "bear":["bore","born","borne"], "beat":["beat","beaten"], "become":["became"], "begin":["began","begun"], "bite":["bit","bitten"], "blow":["blew","blown"], "break":["broke","broken"], "bring":["brought"], "build":["built"], "buy":["bought"], "catch":["caught"], "choose":["chose","chosen"], "come":["came"], "cost":["cut"], "cut":["cut"], "deal":["dealt"], "dig":["dug"], "do":["did","done","does"], "draw":["drew","drawn"], "drink":["drank","drunk"], "drive":["drove","driven"], "eat":["ate","eaten"], "fall":["fell","fallen"], "feed":["fed"], "feel":["felt"], "fight":["fought"], "find":["found"], "fly":["flew","flown"], "forget":["forgot","forgotten"], "forgive":["forgave","forgiven"], "freeze":["froze","frozen"], "get":["got","gotten"], "give":["gave","given"], "go":["went","gone","goes"], "grow":["grew","grown"], "hang":["hung"], "have":["had","has"], "hear":["heard"], "hide":["hid","hidden"], "hit":["hit"], "hold":["held"], "hurt":["hurt"], "keep":["kept"], "know":["knew","known"], "lay":["laid"], "lead":["led"], "leave":["left"], "lend":["lent"], "let":["let"], "lie":["lay","lain"], "lose":["lost"], "make":["made"], "mean":["meant"], "meet":["met"], "pay":["paid"], "put":["put"], "read":["read"], "ride":["rode","ridden"], "ring":["rang","rung"], "rise":["rose","risen"], "run":["ran"], "say":["said"], "see":["saw","seen"], "sell":["sold"], "send":["sent"], "set":["set"], "shake":["shook","shaken"], "shoot":["shot"], "show":["showed","shown"], "shut":["shut"], "sing":["sang","sung"], "sink":["sank","sunk"], "sit":["sat"], "sleep":["slept"], "speak":["spoke","spoken"], "spend":["spent"], "spin":["spun"], "stand":["stood"], "steal":["stole","stolen"], "stick":["stuck"], "strike":["struck"], "swear":["swore","sworn"], "sweep":["swept"], "swim":["swam","swum"], "take":["took","taken"], "teach":["taught"], "tear":["tore","torn"], "tell":["told"], "think":["thought"], "throw":["threw","thrown"], "understand":["understood"], "wake":["woke","woken"], "wear":["wore","worn"], "win":["won"], "write":["wrote","written"] };
+
+  if (irregularVerbs[w]) { irregularVerbs[w].forEach(function(v) { forms.add(v); }); }
+  return Array.from(forms);
+}
+
+function buildExampleBlank(example, word) {
+  if (!example || !word) return example || "";
+  var cleanW = word.replace(/\s*\(.*?\)\s*/g, " ").trim();
+  if (!cleanW) cleanW = word.trim();
+
+  var wordsInPhrase = cleanW.split(/(\s+)/);
+  var candidateForms =[];
+
+  if (wordsInPhrase.length === 1) { candidateForms = getWordForms(cleanW); } 
+  else { 
+    var firstWord = wordsInPhrase[0];
+    var firstForms = getWordForms(firstWord);
+    var rest = wordsInPhrase.slice(1).join("");
+    firstForms.forEach(function(f) { candidateForms.push(f + rest); });
+    candidateForms = candidateForms.concat(getWordForms(cleanW));
+  } 
+
+  candidateForms.sort(function(a, b) { return b.length - a.length; });
+
+  for (var i = 0; i < candidateForms.length; i++) {
+    var cand = candidateForms[i];
+    var escaped = cand.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    var pattern = new RegExp("\\b" + escaped + "\\b", "i");
+    if (pattern.test(example)) { return example.replace(pattern, "______"); }
+  } 
+
+  var escapedWord = cleanW.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  var fallbackPattern = new RegExp("\\b" + escapedWord + "(?:s|es|ed|d|ing|'s)?", "i");
+  if (fallbackPattern.test(example)) { return example.replace(fallbackPattern, "______"); }
+
+  var firstWordFallback = wordsInPhrase[0];
+  if (firstWordFallback.length >= 3) {
+    var prefix = firstWordFallback.substring(0, 3).toLowerCase();
+    var wordsInExample = example.match(/\b[A-Za-z]+\b/g) ||[];
+    for (var j = 0; j < wordsInExample.length; j++) {
+      var w = wordsInExample[j];
+      if (w.toLowerCase().startsWith(prefix)) {
+        if (Math.abs(w.length - firstWordFallback.length) <= 3) {
+          if (wordsInPhrase.length === 1) { return example.replace(new RegExp("\\b" + w + "\\b", "i"), "______"); } 
+          else { 
+            var escapedRest = wordsInPhrase.slice(1).join("").replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+            var phrasePattern = new RegExp("\\b" + w + escapedRest + "\\b", "i");
+            if (phrasePattern.test(example)) { return example.replace(phrasePattern, "______"); } 
+          } 
+        } 
+      } 
+    } 
+  } 
+  return example;
+}
+
+function buildHighlightedJpBlank(jpText, meaning) { return buildHighlightedJp(jpText, meaning); }
+
+function renderJpEnQuiz() {
+  var choices = [current.word];
+  var pool = words.filter(function(w) { return w.word !== current.word && w.word; });
+  pool.sort(function() { return Math.random() - 0.5; });
+  for (var i = 0; i < pool.length && choices.length < 4; i++) {
+    if (!choices.includes(pool[i].word)) choices.push(pool[i].word); 
+  } 
+  var dummies =["avoid","obtain","achieve","present","conduct","reflect","require","provide","suggest","maintain"];
+  dummies.sort(function() { return Math.random() - 0.5; });
+  for (var j = 0; j < dummies.length && choices.length < 4; j++) {
+    if (!choices.includes(dummies[j])) choices.push(dummies[j]);
+  } 
+  choices.sort(function() { return Math.random() - 0.5; });
+
+  var area = document.getElementById("quizArea");
+  area.style.display = "grid"; area.innerHTML = "";
+  choices.forEach(function(c) {
+    var btn = document.createElement("button");
+    btn.className = "ans-btn"; btn.textContent = c;
+    (function(choice, el) { el.addEventListener("click", function() { answerJpEnQuiz(choice, el); }); })(c, btn);
+    area.appendChild(btn);
+  });
+}
+
+function answerJpEnQuiz(selected, btn) {
+  isAnswered = true; clearTimeout(timer1); clearTimeout(timer2);
+  lockButtons(); totalCount++;
+  var isCorrect = (selected === current.word);
+  if (isCorrect) { correctCount++; btn.classList.add("correct"); } 
+  else { 
+    btn.classList.add("wrong"); reviewQueue.push(current); addMistakeToBank(current);
+    document.querySelectorAll(".ans-btn").forEach(function(b) { if (b.textContent === current.word && !b.classList.contains("wrong")) b.classList.add("reveal-correct"); });
+  } 
+  var meanEl = document.getElementById("meaning");
+  meanEl.textContent = current.example || current.word || "";
+  meanEl.classList.remove("invisible");
+  updateAccuracy();
+  
+  var textToSpeak = current.example || current.word || "";
+  if (textToSpeak) {
+    speak(textToSpeak, function() {
+      if (autoSpeed === 0) { addNextButton(); } 
+      else { timer2 = setTimeout(next, 500); }
+    });
+  } else {
+    if (autoSpeed === 0) { addNextButton(); } 
+    else { timer2 = setTimeout(next, 500); }
+  }
+}
+
+function autoRevealJpEnQuiz() { 
+  isAnswered = true; totalCount++; reviewQueue.push(current); addMistakeToBank(current); 
+  updateAccuracy(); lockButtons(); 
+  document.querySelectorAll(".ans-btn").forEach(function(b) { 
+    if (b.textContent === current.word) b.classList.add("reveal-correct"); 
+  }); 
+  var meanEl = document.getElementById("meaning"); 
+  meanEl.textContent = current.example || current.word || ""; 
+  meanEl.classList.remove("invisible"); 
+  
+  var textToSpeak = current.example || current.word || "";
+  if (textToSpeak) {
+    speak(textToSpeak, function() {
+      if (autoSpeed === 0) { addNextButton(); } 
+      else { timer2 = setTimeout(next, 500); }
+    });
+  } else {
+    if (autoSpeed === 0) { addNextButton(); } 
+    else { timer2 = setTimeout(next, 500); }
+  }
+}
+
+function lockButtons() { document.querySelectorAll(".ans-btn").forEach(function(b){ b.disabled = true; }); }
+
+function addNextButton() {
+  var area = document.getElementById("quizArea");
+  var btn = document.createElement("button");
+  btn.className = "ans-btn";
+  btn.style.cssText = "grid-column:1/3; background:var(--ink); color:white; border-color:var(--ink);";
+  btn.textContent = "次へ →";
+  btn.addEventListener("click", next);
+  area.appendChild(btn);
+}
+
+function renderFlip() {
+  var area = document.getElementById("quizArea");
+  area.style.display = "block"; area.innerHTML = "";
+  var btn = document.createElement("button");
+  btn.id = "flipBtn"; btn.textContent = "▼ 意味を見る";
+  btn.addEventListener("click", flip);
+  area.appendChild(btn);
+}
+
+function flip() {
+  isAnswered = true; clearTimeout(timer1); clearTimeout(timer2);
+  var meanEl = document.getElementById("meaning");
+  if (current.example_jp) { meanEl.innerHTML = buildHighlightedJp(current.example_jp, current.meaning); } 
+  else { meanEl.textContent = current.meaning || ""; }
+  meanEl.classList.remove("invisible");
+  var old = document.getElementById("flipBtn");
+  if (old) {
+    var nb = old.cloneNode(true); nb.textContent = "次へ →"; nb.addEventListener("click", next);
+    old.parentNode.replaceChild(nb, old);
+  } 
+  if (autoSpeed > 0) { timer2 = setTimeout(next, autoSpeed); }
+}
+
+function renderFlipJpEn() {
+  var area = document.getElementById("quizArea");
+  area.style.display = "block"; area.innerHTML = "";
+  var btn = document.createElement("button");
+  btn.id = "flipBtn"; btn.textContent = "▼ 英単語を見る";
+  btn.addEventListener("click", flipJpEn);
+  area.appendChild(btn);
+}
+
+function flipJpEn() { 
+  isAnswered = true; clearTimeout(timer1); clearTimeout(timer2);
+  var meanEl = document.getElementById("meaning");
+  var engHtml = "<span style='font-size:1.4rem; font-family:\"Lora\",serif; font-weight:700; color:var(--ink);'>" + escHtml(current.word) + "</span>";
+  if (current.example) { engHtml += "<br><span style='font-size:0.9rem; font-family:\"Lora\",serif; font-style:italic; color:var(--ink-soft);'>" + escHtml(current.example) + "</span>"; }
+  meanEl.innerHTML = engHtml;
+  meanEl.classList.remove("invisible");
+  
+  var old = document.getElementById("flipBtn");
+  if (old) {
+    var nb = old.cloneNode(true); nb.textContent = "次へ →"; nb.addEventListener("click", next);
+    old.parentNode.replaceChild(nb, old);
+  } 
+  
+  var textToSpeak = current.example || current.word || "";
+  if (textToSpeak) {
+    speak(textToSpeak, function() {
+      if (autoSpeed > 0) { timer2 = setTimeout(next, 500); }
+    });
+  } else {
+    if (autoSpeed > 0) { timer2 = setTimeout(next, 500); }
+  }
+}
+
+function togglePause() { isPaused = !isPaused; var btn = document.getElementById("pauseBtn"); if (isPaused) { clearTimeout(timer1); clearTimeout(timer2); speechSynthesis.cancel(); btn.textContent = "▶ 再開"; btn.style.background = "#d4edda"; btn.style.color = "var(--correct)"; } else { unlockIOSSpeech(); btn.textContent = "⏸ 一時停止"; btn.style.background = ""; btn.style.color = ""; next(); } }
+
+function showFinishScreen() {
+  speechSynthesis.cancel();
+  if (!isMistakeBankMode && currentUnitArray.length === 1 && !isRandomMode) { try { localStorage.removeItem('vocabResume_' + BOOK + '_' + currentUnitArray[0]); } catch(e) {} }
+
+  var pct = totalCount ? Math.round((correctCount / totalCount) * 100) : 0;
+  document.getElementById("finalScore").textContent = pct + "%";
+  document.getElementById("finalMsg").textContent = pct >= 90 ? "素晴らしい！ほぼ完璧です。" : pct >= 70 ? "よくできました。苦手な単語を復習しましょう。" : "もう一度チャレンジして定着させましょう。";
+
+  if (!isMistakeBankMode) {
+    var totalWordsCounted = words.reduce(function(sum, w) {
+      var wordCount = (w.word ? w.word.trim().split(/\s+/).length : 0);
+      var exampleCount = (w.example ? w.example.trim().split(/\s+/).length : 0);
+      return sum + wordCount + exampleCount;
+    }, 0);
+
+    recordSessionWords(totalWordsCounted);
+
+    var recLabel = currentUnitArray.length === 1 ? currentUnitArray[0] : (currentUnitArray.length + "ユニット");
+    if (isRandomMode && currentUnitArray.length > 1) recLabel += " (乱50語)";
+    recordSessionUnit(BOOK, bookInfo.name, recLabel);
+    
+    var shortName = bookInfo.name;
+    if (shortName.includes("システム英単語")) shortName = "シス単";
+    else if (shortName.includes("ターゲット")) shortName = "ターゲット";
+    else if (shortName.includes("速読英単語")) shortName = "速単";
+    
+    var unitLabel = currentUnitArray.length === 1 ? "unit" + currentUnitArray[0] : currentUnitArray.length + "ユニット";
+    var detail = shortName + unitLabel;
+    
+    var payload = {
+      type:   'GLN_COMPLETE',
+      title:  'Vocab Master',
+      cat:    'Vocab',
+      detail: detail,
+      words:  totalWordsCounted, 
+      timestamp: Date.now()
+    };
+    
+    if (window.opener && !window.opener.closed) { window.opener.postMessage(payload, '*'); }
+    try { localStorage.setItem('GLN_SYNC_PAYLOAD', JSON.stringify(payload)); } catch(e) {}
+  }
+
+  var nextBtn = document.getElementById("nextUnitBtn");
+  var nextRandomBtn = document.getElementById("nextRandomBtn");
+  if (isMistakeBankMode) { nextBtn.style.display = "none"; nextRandomBtn.style.display = "none"; } 
+  else if (currentUnitArray.length > 1 && isRandomMode) { nextBtn.style.display = "none"; nextRandomBtn.style.display = "block"; } 
+  else if (currentUnitArray.length > 1 || isRandomMode) { nextBtn.style.display = "none"; nextRandomBtn.style.display = "none"; } 
+  else { 
+    nextRandomBtn.style.display = "none";
+    if (currentUnitArray[0] >= UNIT_MAX) { nextBtn.style.display = "block"; nextBtn.disabled = true; nextBtn.textContent = "最終ユニット完了！"; } 
+    else { nextBtn.style.display = "block"; nextBtn.disabled = false; nextBtn.textContent = "次へ Unit " + (currentUnitArray[0] + 1) + " →"; }
+  }
+  document.getElementById("finishScreen").classList.remove("hidden");
+}
+
+function restart() {
+  unlockIOSSpeech();
+  document.getElementById("finishScreen").classList.add("hidden");
+  if (isRandomMode && !isMistakeBankMode) { words = shuffleArray(words); } 
+  else if (isMistakeBankMode) { words.sort(function(a, b) { return Math.random() - 0.5; }); }
+  resetState(); next();
+}
+
+function nextRandom50() {
+  unlockIOSSpeech();
+  document.getElementById("finishScreen").classList.add("hidden");
+  var RANDOM_FETCH_LIMIT = 10;
+  if (currentUnitArray.length > RANDOM_FETCH_LIMIT) {
+    var unitsToFetch = shuffleArray(currentUnitArray.slice()).slice(0, RANDOM_FETCH_LIMIT);
+    loadMultipleUnits(unitsToFetch, function(success, combinedWords) {
+      if (!success) return;
+      allCombinedWords = combinedWords;
+      words = pickRandom50(allCombinedWords, BOOK, currentUnitArray);
+      resetState(); updateUnitLabel(); next();
+    });
+  } else {
+    words = pickRandom50(allCombinedWords, BOOK, currentUnitArray);
+    resetState(); updateUnitLabel(); next();
+  }
+}
+
+function goNextUnit() {
+  unlockIOSSpeech();
+  if (currentUnitArray.length !== 1 || isRandomMode) return;
+  var nextNum = currentUnitArray[0] + 1;
+  if (nextNum > UNIT_MAX) return;
+  
+  document.querySelectorAll("#unitCheckList input[type='checkbox']").forEach(function(cb) { cb.checked = (parseInt(cb.value) === nextNum); });
+  updateStartButtons();
+
+  currentUnitArray =[nextNum];
+  loadMultipleUnits(currentUnitArray, function(success, combinedWords) {
+    if (!success) return;
+    allCombinedWords = combinedWords;
+    words = combinedWords.slice();
+    document.getElementById("finishScreen").classList.add("hidden");
+    resetState(); updateUnitLabel(); next();
+  });
+}
+
+function backToSetup() { clearTimeout(timer1); clearTimeout(timer2); speechSynthesis.cancel(); isPaused = false; isMistakeBankMode = false; var pb = document.getElementById("pauseBtn"); if (isPaused) { pb.textContent = "▶ 再開"; pb.style.background = "#d4edda"; pb.style.color = "var(--correct)"; } else { pb.textContent = "⏸ 一時停止"; pb.style.background = ""; pb.style.color = ""; } document.getElementById("studyArea").classList.add("hidden"); document.getElementById("finishScreen").classList.add("hidden"); document.getElementById("setupArea").classList.remove("hidden"); updateStartButtons(); }
+
+function updateAccuracy() {
+  var pct = totalCount ? Math.round((correctCount / totalCount) * 100) : 0;
+  document.getElementById("accuracy").textContent = "正答率 " + pct + "%";
+}
+
+function getMistakeBank() { try { var r = localStorage.getItem(MISTAKE_BANK_KEY); if (r) return JSON.parse(r); } catch(e) {} return[]; }
+function saveMistakeBank(bank) { try { localStorage.setItem(MISTAKE_BANK_KEY, JSON.stringify(bank)); } catch(e) {} }
+
+function addMistakeToBank(wordObj) {
+  if (!wordObj || !wordObj.word) return;
+  var bank = getMistakeBank();
+  var exists = bank.some(function(m) { return m.word === wordObj.word && m.bookKey === BOOK; });
+  if (!exists) {
+    bank.push({ word: wordObj.word, pos: wordObj.pos || "", meaning: wordObj.meaning || "", example: wordObj.example || "", example_jp: wordObj.example_jp || "", bookKey: BOOK, bookName: bookInfo.name, addedAt: todayKey() });
+    if (bank.length > 500) bank = bank.slice(bank.length - 500);
+    saveMistakeBank(bank);
+  }
+}
+
+function removeMistakeFromBank(word, bookKey) {
+  var bank = getMistakeBank();
+  bank = bank.filter(function(m) { return !(m.word === word && m.bookKey === bookKey); });
+  saveMistakeBank(bank); renderMistakeBankList();
+}
+
+function clearAllMistakes() {
+  if (!confirm("ミス単語バンクをすべて削除しますか？")) return;
+  try { localStorage.removeItem(MISTAKE_BANK_KEY); } catch(e) {} 
+  renderMistakeBankList();
+}
+
+function showMistakeBank() { 
+  var mainMode = document.getElementById("mode").value;
+  var mainSpeed = document.getElementById("revealSpeed").value;
+  var mbMode = document.getElementById("mbankMode");
+  var mbSpeed = document.getElementById("mbankSpeed");
+  if (mbMode) mbMode.value = mainMode;
+  if (mbSpeed) mbSpeed.value = mainSpeed;
+
+  renderMistakeBankList(); 
+  document.getElementById("mistakeBankModal").classList.remove("hidden"); 
+}
+
+function closeMistakeBank() { document.getElementById("mistakeBankModal").classList.add("hidden"); }
+
+function startMistakeBankStudy() {
+  closeMistakeBank();
+  var bank = getMistakeBank();
+  if (bank.length === 0) return;
+  words = bank.slice();
+  isMistakeBankMode = true;
+  var mbMode = document.getElementById("mbankMode").value;
+  var mbSpeed = parseInt(document.getElementById("mbankSpeed").value);
+  document.getElementById("mode").value = mbMode;
+  document.getElementById("revealSpeed").value = mbSpeed;
+  autoSpeed = mbSpeed;
+  
+  resetState();
+  document.getElementById("setupArea").classList.add("hidden");
+  document.getElementById("studyArea").classList.remove("hidden");
+  updateUnitLabel();
+  if (!selectedVoice) { initVoice(function() { next(); }); } else { next(); }
+}
+
+function renderMistakeBankList() { 
+  var bank = getMistakeBank();
+  document.getElementById("mbankCountNum").textContent = bank.length;
+  document.getElementById("mbankStudyBtn").disabled = bank.length === 0;
+  document.getElementById("mbankClearAllBtn").disabled = bank.length === 0;
+  
+  var settingsEl = document.getElementById("mbankSettings");
+  if(settingsEl) { settingsEl.style.display = bank.length === 0 ? "none" : "flex"; }
+
+  var listEl = document.getElementById("mbankList"); listEl.innerHTML = "";
+  if (!bank.length) { listEl.innerHTML = '<div class="mbank-empty">まだミスした単語はありません 🎉</div>'; return; }
+  bank.forEach(function(m) {
+    var row = document.createElement("div"); row.className = "mbank-item";
+    var wdEl = document.createElement("div"); wdEl.className = "mbank-word"; wdEl.textContent = m.word;
+    var mnEl = document.createElement("div"); mnEl.className = "mbank-meaning"; mnEl.textContent = (m.meaning || "") + (m.example_jp ? "　" + m.example_jp : "");
+    var tagEl = document.createElement("div"); tagEl.className = "mbank-book-tag"; tagEl.textContent = m.bookName ? m.bookName.replace("英単語","").replace("（","(").replace("）",")") : m.bookKey;
+    var delBtn = document.createElement("button"); delBtn.className = "mbank-del"; delBtn.textContent = "✓ 覚えた";
+    (function(word, bookKey) { delBtn.addEventListener("click", function() { removeMistakeFromBank(word, bookKey); }); })(m.word, m.bookKey);
+    row.appendChild(wdEl); row.appendChild(mnEl); row.appendChild(tagEl); row.appendChild(delBtn);
+    listEl.appendChild(row);
+  });
+}
+
+function getProgress() { 
+  try { 
+    var r = localStorage.getItem(PROGRESS_KEY); 
+    if (r) return JSON.parse(r); 
+  } catch(e) {} 
+  return { total: 0, days: {} }; 
+}
+function saveProgress(p) { try { localStorage.setItem(PROGRESS_KEY, JSON.stringify(p)); } catch(e) {} }
+function todayKey() { var d = new Date(); return d.getFullYear() + "-" + pad2(d.getMonth()+1) + "-" + pad2(d.getDate()); }
+function pad2(n) { return n < 10 ? "0" + n : "" + n; }
+
+function recordSessionWords(count) {
+  if (!count) return;
+  var p = getProgress(); var k = todayKey();
+  p.days[k] = (p.days[k] || 0) + count; p.total = (p.total || 0) + count;
+  saveProgress(p);
+}
+
+function recordSessionUnit(bookKey, bookName, unitVal) {
+  var history = getUnitHistory();
+  var cfg = BOOK_CONFIG[bookKey] || { showRange: false };
+  var label = (typeof unitVal === "number") ? unitRangeLabel(cfg, unitVal) : "複数 (" + unitVal + ")";
+  if (isRandomMode) label += " (乱)";
+  history.unshift({ bookKey: bookKey, bookName: bookName, unitNum: unitVal, label: label, date: todayKey() });
+  if (history.length > 50) history = history.slice(0, 50);
+  try { localStorage.setItem(UNIT_HISTORY_KEY, JSON.stringify(history)); } catch(e) {} 
+}
+
+function getUnitHistory() { try { var r = localStorage.getItem(UNIT_HISTORY_KEY); if (r) return JSON.parse(r); } catch(e) {} return[]; }
+
+function renderUnitHistory() {
+  var history = getUnitHistory();
+  var listEl = document.getElementById("unitHistoryList");
+  listEl.innerHTML = "";
+  if (!history.length) {
+    listEl.innerHTML = '<div class="unit-history-empty">履歴がありません</div>';
+    return;
+  }
+  history.forEach(function(h) {
+    var item = document.createElement("div"); item.className = "unit-history-item";
+    var book = document.createElement("div"); book.className = "uh-book"; book.textContent = h.bookName;
+    var unit = document.createElement("div"); unit.className = "uh-unit"; unit.textContent = h.label;
+    var date = document.createElement("div"); date.className = "uh-date"; date.textContent = h.date;
+    item.appendChild(book); item.appendChild(unit); item.appendChild(date);
+    listEl.appendChild(item);
+  });
+}
+
+function calcStats() {
+  var p = getProgress(); var today = new Date(); var todayStr = todayKey();
+  var weekStart = new Date(today); var day = today.getDay(); weekStart.setDate(today.getDate() + (day === 0 ? -6 : 1 - day));
+  var tc = 0, wc = 0, mc = 0; var yr = today.getFullYear(), mo = today.getMonth()+1;
+  Object.keys(p.days).forEach(function(k) {
+    var cnt = p.days[k] || 0; var kd = new Date(k);
+    if (k === todayStr) tc += cnt;
+    if (kd >= weekStart) wc += cnt;
+    if (kd.getFullYear() === yr && (kd.getMonth()+1) === mo) mc += cnt;
+  });
+  return { today: tc, week: wc, month: mc, total: p.total || 0 };
+}
+
+function showProgressModal() {
+  var s = calcStats();
+  document.getElementById("statToday").textContent = s.today;
+  document.getElementById("statWeek").textContent  = s.week;
+  document.getElementById("statMonth").textContent = s.month;
+  document.getElementById("statTotal").textContent = s.total;
+  renderWeekBar(s); renderDonut(s); renderUnitHistory();
+  document.getElementById("progressModal").classList.remove("hidden");
+}
+
+function renderWeekBar(s) {
+  var p = getProgress(); var today = new Date(); var todayStr = todayKey();
+  var DAYS =["月","火","水","木","金","土","日"];
+  var mon = new Date(today); mon.setDate(today.getDate() + (today.getDay() === 0 ? -6 : 1 - today.getDay()));
+  var counts =[]; var maxC = 0;
+  for (var i = 0; i < 7; i++) {
+    var d = new Date(mon); d.setDate(mon.getDate() + i);
+    var k = d.getFullYear() + "-" + pad2(d.getMonth()+1) + "-" + pad2(d.getDate());
+    var cnt = p.days[k] || 0; counts.push({ label: DAYS[i], key: k, count: cnt }); if (cnt > maxC) maxC = cnt;
+  }
+  var container = document.getElementById("weekBarChart"); container.innerHTML = "";
+  counts.forEach(function(item) {
+    var wrap = document.createElement("div"); wrap.className = "bar-wrap";
+    var val = document.createElement("div"); val.className = "bar-val"; val.textContent = item.count > 0 ? item.count : "";
+    var col = document.createElement("div"); col.className = "bar-col" + (item.key === todayStr ? " today" : "");
+    col.style.height = (maxC > 0 ? Math.max(2, Math.round((item.count / maxC) * 70)) : 2) + "px";
+    var lbl = document.createElement("div"); lbl.className = "bar-lbl"; lbl.textContent = item.label;
+    if (item.key === todayStr) { lbl.style.fontWeight = "700"; lbl.style.color = "var(--gold)"; }
+    wrap.appendChild(val); wrap.appendChild(col); wrap.appendChild(lbl);
+    container.appendChild(wrap);
+  });
+}
+
+function renderDonut(s) {
+  var p = getProgress(); var today = new Date(); var yr = today.getFullYear(), mo = today.getMonth()+1;
+  var days = 0; Object.keys(p.days).forEach(function(k) { var kd = new Date(k); if (kd.getFullYear() === yr && (kd.getMonth()+1) === mo && p.days[k] > 0) days++; });
+  var goal = new Date(yr, mo, 0).getDate() * 20;
+  var pct  = goal > 0 ? Math.min(100, Math.round((s.month / goal) * 100)) : 0;
+  var dash = Math.round((pct / 100) * 213.6);
+  document.getElementById("donutArc").setAttribute("stroke-dasharray", dash + " " + (213.6 - dash));
+  document.getElementById("donutPct").textContent  = pct + "%";
+  document.getElementById("monthGoal").textContent = goal + " 語";
+  document.getElementById("monthDone").textContent = s.month + " 語";
+  document.getElementById("monthDays").textContent = days + " 日";
+}
+
+function closeProgressModal() { document.getElementById("progressModal").classList.add("hidden"); }
+
+function showSyncModal() { document.getElementById("syncModal").classList.remove("hidden"); }
+function closeSyncModal() { document.getElementById("syncModal").classList.add("hidden"); }
+
+function generateSyncID() {
+  var exportArea = document.getElementById("exportArea");
+  var progress = localStorage.getItem(PROGRESS_KEY) || "";
+  var history = localStorage.getItem(UNIT_HISTORY_KEY) || "";
+  var mistakes = localStorage.getItem(MISTAKE_BANK_KEY) || "";
+  var data = { p: progress, h: history, m: mistakes };
+  exportArea.value = btoa(encodeURIComponent(JSON.stringify(data)));
+}
+
+function copySyncID() {
+  var exportArea = document.getElementById("exportArea");
+  if (!exportArea.value) return;
+  exportArea.select();
+  document.execCommand("copy");
+  alert("引き継ぎIDをコピーしました！");
+}
+
+function importSyncID() {
+  var importArea = document.getElementById("importArea");
+  if (!importArea.value) return;
+  try {
+    var data = JSON.parse(decodeURIComponent(atob(importArea.value.trim())));
+    if (data.p) localStorage.setItem(PROGRESS_KEY, data.p);
+    if (data.h) localStorage.setItem(UNIT_HISTORY_KEY, data.h);
+    if (data.m) localStorage.setItem(MISTAKE_BANK_KEY, data.m);
+    alert("学習データを正常に復元しました！");
+    closeSyncModal();
+  } catch(e) {
+    alert("無効なIDです。正しい形式の文字列を入力してください。");
+  }
 }
 </script>
+
+<footer style="text-align:center; margin-top:20px; padding-bottom:12px; font-size:0.70rem; color:#9aacb8; letter-spacing:0.06em;">
+  &copy;Copyright 2026 Takumi Wakabayashi, Global Lingua Network.
+</footer>
 </body>
 </html>
